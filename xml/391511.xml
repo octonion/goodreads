@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/391511-owen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/391511-owen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 06 Jan 2008 16:13:09 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2338-if-i-can-t-dance-to-it-it-s-not-my-revolution</guid>
+		<pubDate>Sun, 06 Jan 2008 16:13:09 -0800</pubDate>
+		<title>
+			<![CDATA[Owen add a quote by Emma Goldman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2338-if-i-can-t-dance-to-it-it-s-not-my-revolution]]>
+		</link>
+		<description>
+	    <![CDATA["If I can't dance to it, it's not my revolution." -- Emma Goldman]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/10789-let-me-tell-you-what-i-think-of-bicycling-i</guid>
+		<pubDate>Sun, 06 Jan 2008 16:17:51 -0800</pubDate>
+		<title>
+			<![CDATA[Owen add a quote by Susan B. Anthony]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10789-let-me-tell-you-what-i-think-of-bicycling-i]]>
+		</link>
+		<description>
+	    <![CDATA["Let me tell you what I think of bicycling. I think it has done more to emancipate women than anything else in the world. It gives women a feeling of freedom and self-reliance. I stand and rejoice every time I see a woman ride by on a wheel…the picture of free, untrammeled womanhood." -- Susan B. Anthony]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/13345-i-thought-of-that-while-riding-my-bicycle</guid>
+		<pubDate>Mon, 14 Jan 2008 11:35:32 -0800</pubDate>
+		<title>
+			<![CDATA[Owen add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13345-i-thought-of-that-while-riding-my-bicycle]]>
+		</link>
+		<description>
+	    <![CDATA["I thought of that while riding my bicycle." -- Albert Einstein]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

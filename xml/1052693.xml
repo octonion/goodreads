@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1052693-barry]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1052693-barry" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 03 Apr 2008 11:54:07 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/41198-i-am-doomed-to-remember-a-boy-with-a-wrecked</guid>
+		<pubDate>Thu, 03 Apr 2008 11:54:07 -0700</pubDate>
+		<title>
+			<![CDATA[Barry add a quote by John Irving]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/41198-i-am-doomed-to-remember-a-boy-with-a-wrecked]]>
+		</link>
+		<description>
+	    <![CDATA["I am doomed to remember a boy with a wrecked voice.  Not because of his voice, or because he was the smallest person I ever knew, or even because he was the instrument of my mother's death, but because he is the reason I believe in God.  I am a Christian because of Owen Meany." -- John Irving]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

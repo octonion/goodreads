@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/833694-kris]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/833694-kris" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 25 Jan 2008 21:08:42 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/17538-i-am-what-i-am-are-you-what-you-are</guid>
+		<pubDate>Fri, 25 Jan 2008 21:08:42 -0800</pubDate>
+		<title>
+			<![CDATA[Kris add a quote by Alanis Morissette]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17538-i-am-what-i-am-are-you-what-you-are]]>
+		</link>
+		<description>
+	    <![CDATA["I am what I am Are you what you are or What?" -- Alanis Morissette]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5988-for-oft-when-on-my-couch-i-lie-in-vacant</guid>
+		<pubDate>Fri, 25 Jan 2008 21:10:32 -0800</pubDate>
+		<title>
+			<![CDATA[Kris add a quote by Wordsworth]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5988-for-oft-when-on-my-couch-i-lie-in-vacant]]>
+		</link>
+		<description>
+	    <![CDATA["For oft, when on my couch I lie in vacant or in pensive mood they flash upon that inward eye which is the bliss of solitude" -- Wordsworth]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4447-poetry-is-the-spontaneous-overflow-of-powerful-feelings-it-takes</guid>
+		<pubDate>Fri, 25 Jan 2008 21:11:09 -0800</pubDate>
+		<title>
+			<![CDATA[Kris add a quote by William Wordsworth]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4447-poetry-is-the-spontaneous-overflow-of-powerful-feelings-it-takes]]>
+		</link>
+		<description>
+	    <![CDATA["Poetry is the spontaneous overflow of powerful feelings: it takes its origin from emotion recollected in tranquility." -- William Wordsworth]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/659230-tammy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/659230-tammy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 15 Jul 2009 11:16:14 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/796-classic---a-book-which-people-praise-and-don-t-read</guid>
+		<pubDate>Wed, 15 Jul 2009 11:16:14 -0700</pubDate>
+		<title>
+			<![CDATA[Tammy add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/796-classic---a-book-which-people-praise-and-don-t-read]]>
+		</link>
+		<description>
+	    <![CDATA["Classic' - a book which people praise and don't read." -- Mark Twain]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/111345-i-can-only-make-one-person-happy-each-day-today</guid>
+		<pubDate>Wed, 12 Sep 2012 06:38:13 -0700</pubDate>
+		<title>
+			<![CDATA[Tammy add a quote by Philip Gulley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/111345-i-can-only-make-one-person-happy-each-day-today]]>
+		</link>
+		<description>
+	    <![CDATA["I can only make one person happy each day.
+
+Today is not your day.
+
+Tomorrow doesn't look good, either.
+
+—Frank the 70 year old secretary, chapter 9" -- Philip Gulley]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/896814-mark]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/896814-mark" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 14 Jan 2012 11:31:38 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/52574-the-answer-is-never-the-answer-what-s-really-interesting-is</guid>
+		<pubDate>Sat, 14 Jan 2012 11:31:38 -0800</pubDate>
+		<title>
+			<![CDATA[Mark add a quote by Ken Kesey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/52574-the-answer-is-never-the-answer-what-s-really-interesting-is]]>
+		</link>
+		<description>
+	    <![CDATA["The answer is never the answer. What's really interesting is the mystery. If you seek the mystery instead of the answer, you'll always be seeking. I've never seen anybody really find the answer. They think they have, so they stop thinking. But the job is to seek mystery, evoke mystery, plant a garden in which strange plants grow and mysteries bloom. The need for mystery is greater than the need for an answer." -- Ken Kesey]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

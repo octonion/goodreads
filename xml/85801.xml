@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/85801-darin-barry]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/85801-darin-barry" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Feb 2014 06:26:33 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/383355-i-had-choosen-the-path-of-the-black-sheep-rather</guid>
+		<pubDate>Sun, 02 Feb 2014 06:26:33 -0800</pubDate>
+		<title>
+			<![CDATA[Darin add a quote by Magenta Periwinkle]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/383355-i-had-choosen-the-path-of-the-black-sheep-rather]]>
+		</link>
+		<description>
+	    <![CDATA["I had choosen the path of the black sheep rather than that of the unicorns and puppies." -- Magenta Periwinkle]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

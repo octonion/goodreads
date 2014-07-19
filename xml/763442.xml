@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/763442-doug-sparling]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/763442-doug-sparling" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 04 Oct 2011 18:21:57 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/280633-if-you-re-not-careful-the-newspapers-will-have-you-hating</guid>
+		<pubDate>Tue, 04 Oct 2011 18:21:57 -0700</pubDate>
+		<title>
+			<![CDATA[Doug add a quote by Malcolm X]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/280633-if-you-re-not-careful-the-newspapers-will-have-you-hating]]>
+		</link>
+		<description>
+	    <![CDATA["If you're not careful, the newspapers will have you hating the people who are being oppressed, and loving the people who are doing the oppressing." -- Malcolm X]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

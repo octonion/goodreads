@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/930712-kathy-skaggs]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/930712-kathy-skaggs" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 05 Apr 2012 05:38:29 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/32143-write-about-what-really-interests-you-whether-it-is-real</guid>
+		<pubDate>Thu, 05 Apr 2012 05:38:29 -0700</pubDate>
+		<title>
+			<![CDATA[Kathy add a quote by C.S. Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/32143-write-about-what-really-interests-you-whether-it-is-real]]>
+		</link>
+		<description>
+	    <![CDATA["Write about what really interests you, whether it is real things or imaginary things, and nothing else." -- C.S. Lewis]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/588748-when-i-came-here-it-stunned-me-at-first-to</guid>
+		<pubDate>Sun, 15 Jul 2012 06:52:23 -0700</pubDate>
+		<title>
+			<![CDATA[Kathy add a quote by Sarah Graves]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/588748-when-i-came-here-it-stunned-me-at-first-to]]>
+		</link>
+		<description>
+	    <![CDATA["When I came here, it stunned me at first to realize how much what I had thought of as civilization was really just advertising and marketing, incessant urgings to buy, Buy, BUY. from Dead Cat Bounce" -- Sarah Graves]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

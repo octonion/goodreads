@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/259547-demiosaur-espinoza]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/259547-demiosaur-espinoza" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 22 Jul 2009 01:12:25 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/34276-two-or-three-things-i-know-for-sure-and-one</guid>
+		<pubDate>Wed, 22 Jul 2009 01:12:25 -0700</pubDate>
+		<title>
+			<![CDATA[Demiosaur add a quote by Dorothy Allison]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/34276-two-or-three-things-i-know-for-sure-and-one]]>
+		</link>
+		<description>
+	    <![CDATA["Two or three things I know for sure, and one is that I would rather go naked than wear the coat the world has made for me." -- Dorothy Allison]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/37054-change-when-it-comes-cracks-everything-open</guid>
+		<pubDate>Wed, 22 Jul 2009 01:12:30 -0700</pubDate>
+		<title>
+			<![CDATA[Demiosaur add a quote by Dorothy Allison]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/37054-change-when-it-comes-cracks-everything-open]]>
+		</link>
+		<description>
+	    <![CDATA["Change, when it comes, cracks everything open." -- Dorothy Allison]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

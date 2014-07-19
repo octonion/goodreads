@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/888069-jerry]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/888069-jerry" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 08 Feb 2008 07:26:53 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/22818-literature-was-not-promulgated-by-a-pale-and-emasculated-critical</guid>
+		<pubDate>Fri, 08 Feb 2008 07:26:53 -0800</pubDate>
+		<title>
+			<![CDATA[Jerry add a quote by John Steinbeck]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22818-literature-was-not-promulgated-by-a-pale-and-emasculated-critical]]>
+		</link>
+		<description>
+	    <![CDATA["Literature was not promulgated by a pale and emasculated critical priesthood singing their litanies in empty churches - nor is it a game for the cloistered elect, the tinhorn mendicants of low calorie despair.
+
+Literature is as old as speech. It grew out of human need for it, and it has not changed except to become more needed.
+
+The skalds, the bards, the writers are not separate and exclusive. From the beginning, their functions, their duties, their responsibilities have been decreed by our species.
+
+--speech at the Nobel Banquet at the City Hall in Stockholm, December 10, 1962" -- John Steinbeck]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

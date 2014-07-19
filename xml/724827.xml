@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/724827-angela]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/724827-angela" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 01 Oct 2011 23:06:16 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/154958-sometimes-you-know-in-your-heart-you-love-someone-but</guid>
+		<pubDate>Sat, 01 Oct 2011 23:06:16 -0700</pubDate>
+		<title>
+			<![CDATA[Angela add a quote by Sharon Creech]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/154958-sometimes-you-know-in-your-heart-you-love-someone-but]]>
+		</link>
+		<description>
+	    <![CDATA["Sometimes you know in your heart you love someone, but you have to go away before your head can figure it out." -- Sharon Creech]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/7143-remember-the-time-you-feel-lonely-is-the-time-you</guid>
+		<pubDate>Sun, 01 Jan 2012 09:02:53 -0800</pubDate>
+		<title>
+			<![CDATA[Angela add a quote by Douglas Coupland]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7143-remember-the-time-you-feel-lonely-is-the-time-you]]>
+		</link>
+		<description>
+	    <![CDATA["Remember: the time you feel lonely is the time you most need to be by yourself. Life's cruelest irony." -- Douglas Coupland]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/107267-ann]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/107267-ann" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 01 Feb 2012 18:38:56 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/327853-i-have-known-many-graduates-of-bryn-mawr-they-are</guid>
+		<pubDate>Wed, 01 Feb 2012 18:38:56 -0800</pubDate>
+		<title>
+			<![CDATA[Ann add a quote by E.B. White]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/327853-i-have-known-many-graduates-of-bryn-mawr-they-are]]>
+		</link>
+		<description>
+	    <![CDATA["I have known many graduates of Bryn Mawr. They are all of the same mold. They have all accepted the same bright challenge: something is lost that has not been found, something's at stake that has not been won, something is started that has not been finished, something is dimly felt that has not been fully realized. They carry the distinguishing mark – the mark that separates them from other educated and superior women: the incredible vigor, the subtlety of mind, the warmth of spirit, the aspiration, the fidelity to past and to present. As they grow in years, they grow in light. As their minds and hearts expand, their deeds become more formidable, their connections more significant, their husbands more startled and delighted. I once held a live hummingbird in my hand. I once married a Bryn Mawr girl. To a large extent they are twin experiences. Sometimes I feel as though I were a diver who had ventured a little beyond the limits of safe travel under the sea and had entered the strange zone where one is said to enjoy the rapture of the deep." -- E.B. White]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

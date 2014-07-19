@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/771768-wendy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/771768-wendy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 11 Aug 2012 08:11:05 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/129868-the-use-of-imaginative-fiction-is-to-deepen-your-understanding</guid>
+		<pubDate>Sat, 11 Aug 2012 08:11:05 -0700</pubDate>
+		<title>
+			<![CDATA[Wendy add a quote by Ursula K. Le Guin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/129868-the-use-of-imaginative-fiction-is-to-deepen-your-understanding]]>
+		</link>
+		<description>
+	    <![CDATA["The use of imaginative fiction is to deepen your understanding of your world, and your fellow men, and your own feelings, and your destiny." -- Ursula K. Le Guin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

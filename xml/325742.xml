@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/325742-laurie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/325742-laurie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Feb 2014 17:39:26 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1022059-the-family-and-medical-leave-act-for-example-only-entitles</guid>
+		<pubDate>Sun, 02 Feb 2014 17:39:26 -0800</pubDate>
+		<title>
+			<![CDATA[Laurie add a quote by Sara Eckel]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1022059-the-family-and-medical-leave-act-for-example-only-entitles]]>
+		</link>
+		<description>
+	    <![CDATA["The Family and Medical Leave Act, for example, only entitles spouses, grown children, and parents to take time off to care for a sick loved one. If a childless single person falls ill, only her parents have the legal right to take off work to care for her. If they’re deceased or not up to the task, she’s out of luck. Even if she has a sister, niece, or best friend willing to take a leave, they won’t be legally entitled to do so. No one has the right to care for her." -- Sara Eckel]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1046549-to-be-honest-with-you-i-ve-always-felt-a-little</guid>
+		<pubDate>Mon, 17 Feb 2014 09:45:08 -0800</pubDate>
+		<title>
+			<![CDATA[Laurie add a quote by Daniel Silva]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1046549-to-be-honest-with-you-i-ve-always-felt-a-little]]>
+		</link>
+		<description>
+	    <![CDATA["To be honest with you, I’ve always felt a little Jewish.” “You have an aversion to shellfish and German opera?” “I was speaking in a spiritual sense.” “You’re a professional assassin, Keller." -- Daniel Silva]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

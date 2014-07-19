@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/217892-colette]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/217892-colette" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 26 Dec 2011 12:51:51 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/242397-it-s-a-complete-rush-to-get-what-you-ve-been-hoping</guid>
+		<pubDate>Mon, 26 Dec 2011 12:51:51 -0800</pubDate>
+		<title>
+			<![CDATA[Colette add a quote by Joan Bauer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/242397-it-s-a-complete-rush-to-get-what-you-ve-been-hoping]]>
+		</link>
+		<description>
+	    <![CDATA["it's a complete rush to get what you've been hoping for - to get it so full and complete that it fills your senses. " -- Joan Bauer]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

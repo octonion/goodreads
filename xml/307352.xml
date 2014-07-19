@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/307352-joshuah]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/307352-joshuah" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 21 Nov 2009 21:57:03 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/72016-if-a-little-dreaming-is-dangerous-the-cure-for-it</guid>
+		<pubDate>Sat, 21 Nov 2009 21:57:03 -0800</pubDate>
+		<title>
+			<![CDATA[Joshuah add a quote by Marcel Proust]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/72016-if-a-little-dreaming-is-dangerous-the-cure-for-it]]>
+		</link>
+		<description>
+	    <![CDATA["If a little dreaming is dangerous, the cure for it is not to dream less, but to dream more, to dream all the time." -- Marcel Proust]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/79003-remembrance-of-things-past-is-not-necessarily-the-remembrance-of</guid>
+		<pubDate>Sat, 21 Nov 2009 21:59:09 -0800</pubDate>
+		<title>
+			<![CDATA[Joshuah add a quote by Marcel Proust]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/79003-remembrance-of-things-past-is-not-necessarily-the-remembrance-of]]>
+		</link>
+		<description>
+	    <![CDATA["Remembrance of things past is not necessarily the remembrance of things as they were." -- Marcel Proust]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/774635-hello-my-name-is-sveinung-mikkelsen</guid>
+		<pubDate>Fri, 12 Apr 2013 11:23:35 -0700</pubDate>
+		<title>
+			<![CDATA[Joshuah add a quote by Sveinung Mikkelsen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/774635-hello-my-name-is-sveinung-mikkelsen]]>
+		</link>
+		<description>
+	    <![CDATA["Hello, my name is Sveinung Mikkelsen." -- Sveinung Mikkelsen]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

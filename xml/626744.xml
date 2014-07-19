@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/626744-abby]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/626744-abby" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 06 Feb 2011 21:48:27 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/341067-like-all-fundamentalists-who-get-their-clammy-hands-on-the</guid>
+		<pubDate>Sun, 06 Feb 2011 21:48:27 -0800</pubDate>
+		<title>
+			<![CDATA[Abby add a quote by Philip Pullman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/341067-like-all-fundamentalists-who-get-their-clammy-hands-on-the]]>
+		</link>
+		<description>
+	    <![CDATA["Like all fundamentalists who get their clammy hands on the levers of power, the market fanatics are going to kill off every humane, life-enhancing, generous, imaginative and decent corner of our public life.... Market fundamentalism, this madness that's infected the human race, is like a greedy ghost that haunts the boardrooms and council chambers and committee rooms from which the world is run these days. The greedy ghost understands profit all right. But that's all. What he doesn't understand is enterprises that don't make a profit, because they're set up to do something different. He doesn't understand libraries at all...." -- Philip Pullman]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

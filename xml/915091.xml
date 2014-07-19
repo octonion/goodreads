@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/915091-amanda-g]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/915091-amanda-g" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 23 Feb 2013 22:11:14 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/376256-they-served-to-remind-cabal---should-a-reminder-ever</guid>
+		<pubDate>Sat, 23 Feb 2013 22:11:14 -0800</pubDate>
+		<title>
+			<![CDATA[Amanda add a quote by Jonathan L. Howard]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/376256-they-served-to-remind-cabal---should-a-reminder-ever]]>
+		</link>
+		<description>
+	    <![CDATA["They served to remind Cabal - should a reminder ever be necessary - why his social skills were so poor: people were loathsome and not worth the practise." -- Jonathan L. Howard]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/302745-you-re-familiar-with-the-theory-of-evolution-asked-cabal-sir</guid>
+		<pubDate>Mon, 21 Oct 2013 20:19:04 -0700</pubDate>
+		<title>
+			<![CDATA[Amanda add a quote by Jonathan L. Howard ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/302745-you-re-familiar-with-the-theory-of-evolution-asked-cabal-sir]]>
+		</link>
+		<description>
+	    <![CDATA["You're familiar with the theory of evolution?&quot; asked Cabal.
+&quot;Sir?&quot;
+&quot;They're about to find out why intelligence is a survival trait." -- Jonathan L. Howard ]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

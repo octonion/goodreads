@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/618669-sherlonya-turner]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/618669-sherlonya-turner" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 27 Nov 2007 09:28:30 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1655-let-us-rise-up-and-be-thankful-for-if-we</guid>
+		<pubDate>Tue, 27 Nov 2007 09:28:30 -0800</pubDate>
+		<title>
+			<![CDATA[Sherlonya add a quote by Buddha]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1655-let-us-rise-up-and-be-thankful-for-if-we]]>
+		</link>
+		<description>
+	    <![CDATA["Let us rise up and be thankful, for if we didn't learn a lot at least we learned a little, and if we didn't learn a little, at least we didn't get sick, and if we got sick, at least we didn't die; so, let us all be thankful." -- Buddha]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

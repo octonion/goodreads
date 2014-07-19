@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1076495-josi]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1076495-josi" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 15 Apr 2008 08:27:35 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/11919-hide-not-your-talents-they-for-use-were-made-what-s</guid>
+		<pubDate>Tue, 15 Apr 2008 08:27:35 -0700</pubDate>
+		<title>
+			<![CDATA[Josi add a quote by Benjamin Franklin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11919-hide-not-your-talents-they-for-use-were-made-what-s]]>
+		</link>
+		<description>
+	    <![CDATA["Hide not your talents, they for use were made,
+What's a sundial in the shade?" -- Benjamin Franklin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/21168-all-writers-should-be-put-in-a-box-and-thrown</guid>
+		<pubDate>Tue, 15 Apr 2008 08:36:09 -0700</pubDate>
+		<title>
+			<![CDATA[Josi add a quote by Gordon B. Hinckley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21168-all-writers-should-be-put-in-a-box-and-thrown]]>
+		</link>
+		<description>
+	    <![CDATA["All writers should be put in a box and thrown in the sea." -- Gordon B. Hinckley]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

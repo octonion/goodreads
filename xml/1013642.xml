@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1013642-cynthia]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1013642-cynthia" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 21 Mar 2008 19:53:34 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2203-it-is-what-you-read-when-you-don-t-have-to</guid>
+		<pubDate>Fri, 21 Mar 2008 19:53:34 -0700</pubDate>
+		<title>
+			<![CDATA[Cynthia add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2203-it-is-what-you-read-when-you-don-t-have-to]]>
+		</link>
+		<description>
+	    <![CDATA["It is what you read when you don't have to that determines what you will be when you can't help it." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/8192-i-have-tried-to-be-a-man-of-letters-in</guid>
+		<pubDate>Mon, 19 May 2008 21:07:07 -0700</pubDate>
+		<title>
+			<![CDATA[Cynthia add a quote by Cornel West]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8192-i-have-tried-to-be-a-man-of-letters-in]]>
+		</link>
+		<description>
+	    <![CDATA["I have tried to be a man of letters in love with ideas in order to be a wiser and more loving person, hoping to leave the world just a little better than I found it." -- Cornel West]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

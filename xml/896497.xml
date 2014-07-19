@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/896497-jan-hansen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/896497-jan-hansen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 02 Sep 2008 19:55:04 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2467-you-can-never-get-a-cup-of-tea-large-enough</guid>
+		<pubDate>Tue, 02 Sep 2008 19:55:04 -0700</pubDate>
+		<title>
+			<![CDATA[Jan add a quote by C.S. Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2467-you-can-never-get-a-cup-of-tea-large-enough]]>
+		</link>
+		<description>
+	    <![CDATA["You can never get a cup of tea large enough or a book long enough to suit me." -- C.S. Lewis]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/26219-fantasy-is-escapist-and-that-is-its-glory-if-a</guid>
+		<pubDate>Mon, 18 Feb 2008 20:45:14 -0800</pubDate>
+		<title>
+			<![CDATA[Jan add a quote by J.R.R. Tolkien]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/26219-fantasy-is-escapist-and-that-is-its-glory-if-a]]>
+		</link>
+		<description>
+	    <![CDATA["Fantasy is escapist, and that is its glory. If a soldier is imprisioned by the enemy, don't we consider it his duty to escape?. . .If we value the freedom of mind and soul, if we're partisans of liberty, then it's our plain duty to escape, and to take as many people with us as we can!" -- J.R.R. Tolkien]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

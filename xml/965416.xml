@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/965416-alisa]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/965416-alisa" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 23 Aug 2008 17:43:29 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/85438-be-true-to-who-you-are-and-the-family-name</guid>
+		<pubDate>Sat, 23 Aug 2008 17:43:29 -0700</pubDate>
+		<title>
+			<![CDATA[Alisa add a quote by Gordon B. Hinckley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/85438-be-true-to-who-you-are-and-the-family-name]]>
+		</link>
+		<description>
+	    <![CDATA["Be true to who you are and the family name you bare." -- Gordon B. Hinckley]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3670-it-does-not-do-to-dwell-on-dreams-and-forget</guid>
+		<pubDate>Sat, 23 Aug 2008 17:45:22 -0700</pubDate>
+		<title>
+			<![CDATA[Alisa add a quote by J.K. Rowling]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3670-it-does-not-do-to-dwell-on-dreams-and-forget]]>
+		</link>
+		<description>
+	    <![CDATA["It does not do to dwell on dreams and forget to live." -- J.K. Rowling]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/43459-we-cannot-change-the-cards-we-are-dealt-just-how</guid>
+		<pubDate>Mon, 09 Feb 2009 12:11:10 -0800</pubDate>
+		<title>
+			<![CDATA[Alisa add a quote by Randy Pausch]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/43459-we-cannot-change-the-cards-we-are-dealt-just-how]]>
+		</link>
+		<description>
+	    <![CDATA["We cannot change the cards we are dealt, just how we play the hand." -- Randy Pausch]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

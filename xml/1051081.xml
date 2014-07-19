@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1051081-dmadrigal]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1051081-dmadrigal" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 21 Apr 2008 08:22:01 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/21796-enjoy-every-sandwich</guid>
+		<pubDate>Mon, 21 Apr 2008 08:22:01 -0700</pubDate>
+		<title>
+			<![CDATA[Dmadrigal add a quote by Warren Zevon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21796-enjoy-every-sandwich]]>
+		</link>
+		<description>
+	    <![CDATA["Enjoy every sandwich." -- Warren Zevon]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/352-outside-of-a-dog-a-book-is-man-s-best-friend</guid>
+		<pubDate>Wed, 23 Apr 2008 10:14:19 -0700</pubDate>
+		<title>
+			<![CDATA[Dmadrigal add a quote by Groucho Marx]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/352-outside-of-a-dog-a-book-is-man-s-best-friend]]>
+		</link>
+		<description>
+	    <![CDATA["Outside of a dog, a book is man's best friend. Inside of a dog it's too dark to read." -- Groucho Marx]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/467-life-is-what-happens-to-you-while-you-re-busy-making</guid>
+		<pubDate>Wed, 23 Apr 2008 10:15:02 -0700</pubDate>
+		<title>
+			<![CDATA[Dmadrigal add a quote by Allen Saunders]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/467-life-is-what-happens-to-you-while-you-re-busy-making]]>
+		</link>
+		<description>
+	    <![CDATA["Life is what happens to you while you're busy making other plans." -- Allen Saunders]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

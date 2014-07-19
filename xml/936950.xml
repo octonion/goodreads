@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/936950-evgeny]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/936950-evgeny" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 10 Jul 2012 08:51:22 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/104087-i-hate-tricks-at-the-first-sign-of-a-trick</guid>
+		<pubDate>Tue, 10 Jul 2012 08:51:22 -0700</pubDate>
+		<title>
+			<![CDATA[Evgeny add a quote by Raymond Carver]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/104087-i-hate-tricks-at-the-first-sign-of-a-trick]]>
+		</link>
+		<description>
+	    <![CDATA["I hate tricks. At the first sign of a trick or gimmick in a piece of fiction, a cheap trick or even an elaborate trick, I tend to look for cover. Tricks are ultimately boring, and I get bored easily, which may go along with my not having much of an attention span. But extremely clever chi-chi writing, or just plain tomfoolery writing, puts me to sleep. Writers don't need tricks or gimmicks or even necessarily need to be the smartest fellows on the block. At the risk of appearing foolish, a writer sometimes needs to be able to just stand and gape at this or that thing- a sunset or an old shoe- in absolute and simple amazement." -- Raymond Carver]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

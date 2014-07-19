@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/978013-priya-p]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/978013-priya-p" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 04 Mar 2011 16:45:47 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/154523-yet-it-would-be-your-duty-to-bear-it-if</guid>
+		<pubDate>Fri, 04 Mar 2011 16:45:47 -0800</pubDate>
+		<title>
+			<![CDATA[Priya add a quote by Charlotte Brontë]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/154523-yet-it-would-be-your-duty-to-bear-it-if]]>
+		</link>
+		<description>
+	    <![CDATA["Yet it would be your duty to bear it, if you could not avoid it: it is weak and silly to say you cannot bear what it is your fate to be required to bear." -- Charlotte Brontë]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/53993-i-think-if-it-is-true-that-there-are-as</guid>
+		<pubDate>Sat, 20 Oct 2012 07:21:21 -0700</pubDate>
+		<title>
+			<![CDATA[Priya add a quote by Leo Tolstoy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/53993-i-think-if-it-is-true-that-there-are-as]]>
+		</link>
+		<description>
+	    <![CDATA["I think... if it is true that 
+there are as many minds as there 
+are heads, then there are as many 
+kinds of love as there are hearts." -- Leo Tolstoy]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

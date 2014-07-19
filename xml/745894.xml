@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/745894-jessica]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/745894-jessica" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 26 May 2014 16:00:56 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/521809-there-is-nothing-in-which-deduction-is-so-necessary-as</guid>
+		<pubDate>Mon, 26 May 2014 16:00:56 -0700</pubDate>
+		<title>
+			<![CDATA[Jessica add a quote by Sir Arthur Conan Doyle]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/521809-there-is-nothing-in-which-deduction-is-so-necessary-as]]>
+		</link>
+		<description>
+	    <![CDATA["There is nothing in which deduction is so necessary as in religion,&quot; said he, leaning with his back against the shutters. &quot;It can be built up as an exact science by the reasoner. Our highest assurance of the goodness of Providence seems to me to rest in the flowers. All other things, our powers, our desires, our food, are all really necessary for our existence in the first instance. But this rose is an extra. Its smell and its colour are an embellishment of life, not a condition of it. It is only goodness which gives extras, and so I say again that we have much to hope from the flowers." -- Sir Arthur Conan Doyle]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

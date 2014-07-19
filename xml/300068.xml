@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/300068-rachel-kennett]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/300068-rachel-kennett" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 15 Jul 2013 15:09:00 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/124196-i-am-a-writer-of-books-in-retrospect-i-talk</guid>
+		<pubDate>Mon, 15 Jul 2013 15:09:00 -0700</pubDate>
+		<title>
+			<![CDATA[Rachel add a quote by Robert Frost]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/124196-i-am-a-writer-of-books-in-retrospect-i-talk]]>
+		</link>
+		<description>
+	    <![CDATA["I am a writer of books in retrospect. I talk in order to understand; I teach in order to learn" -- Robert Frost]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

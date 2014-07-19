@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/378220-stroe]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/378220-stroe" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 28 Dec 2012 12:58:06 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/69396-i-recommend-that-the-statue-of-liberty-on-the-east</guid>
+		<pubDate>Fri, 28 Dec 2012 12:58:06 -0800</pubDate>
+		<title>
+			<![CDATA[Stroe add a quote by Viktor E. Frankl]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/69396-i-recommend-that-the-statue-of-liberty-on-the-east]]>
+		</link>
+		<description>
+	    <![CDATA["I recommend that the Statue of Liberty on the East Coast be supplemented by a Statue of Responsiblity on the West Coast." -- Viktor E. Frankl]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/324562-i-m-so-good-at-beginnings-but-in-the-end-i</guid>
+		<pubDate>Sun, 16 Feb 2014 15:36:54 -0800</pubDate>
+		<title>
+			<![CDATA[Stroe add a quote by Kiera Van Gelder]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/324562-i-m-so-good-at-beginnings-but-in-the-end-i]]>
+		</link>
+		<description>
+	    <![CDATA["I'm so good at beginnings, but in the end I always seem to destroy everything, including myself." -- Kiera Van Gelder]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

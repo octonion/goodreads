@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/941080-don]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/941080-don" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 03 Mar 2008 22:18:24 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/11999-i-am-my-world</guid>
+		<pubDate>Mon, 03 Mar 2008 22:18:24 -0800</pubDate>
+		<title>
+			<![CDATA[Don add a quote by Ludwig Wittgenstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11999-i-am-my-world]]>
+		</link>
+		<description>
+	    <![CDATA["I am my world." -- Ludwig Wittgenstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3463-i-don-t-know-why-we-are-here-but-i-m-pretty</guid>
+		<pubDate>Sun, 18 Jan 2009 18:58:26 -0800</pubDate>
+		<title>
+			<![CDATA[Don add a quote by Ludwig Wittgenstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3463-i-don-t-know-why-we-are-here-but-i-m-pretty]]>
+		</link>
+		<description>
+	    <![CDATA["I don't know why we are here, but I'm pretty sure that it is not in order to enjoy ourselves." -- Ludwig Wittgenstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/292930-pulvis-et-umbra-sumus-we-are-but-dust-and-shadow</guid>
+		<pubDate>Sun, 25 Aug 2013 14:06:28 -0700</pubDate>
+		<title>
+			<![CDATA[Don add a quote by Horace]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/292930-pulvis-et-umbra-sumus-we-are-but-dust-and-shadow]]>
+		</link>
+		<description>
+	    <![CDATA["Pulvis et umbra sumus. (&lt;i&gt;We are but dust and shadow.&lt;/i&gt;)" -- Horace]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

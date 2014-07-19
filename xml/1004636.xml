@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1004636-kathleen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1004636-kathleen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 24 Dec 2008 11:05:04 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/12415-it-is-our-choices-harry-that-show-what-we-truly</guid>
+		<pubDate>Wed, 24 Dec 2008 11:05:04 -0800</pubDate>
+		<title>
+			<![CDATA[Kathleen add a quote by J.K. Rowling]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12415-it-is-our-choices-harry-that-show-what-we-truly]]>
+		</link>
+		<description>
+	    <![CDATA["It is our choices, Harry, that show what we truly are, far more than our abilities." -- J.K. Rowling]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3823-you-gain-strength-courage-and-confidence-by-every-experience-in</guid>
+		<pubDate>Sun, 18 May 2008 21:52:11 -0700</pubDate>
+		<title>
+			<![CDATA[Kathleen add a quote by Eleanor Roosevelt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3823-you-gain-strength-courage-and-confidence-by-every-experience-in]]>
+		</link>
+		<description>
+	    <![CDATA["You gain strength, courage and confidence by every experience in which you really stop to look fear in the face. You are able to say to yourself, 'I have lived through this horror. I can take the next thing that comes along.' You must do the thing you think you cannot do." -- Eleanor Roosevelt]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/36268-the-way-she-lives-she-tries-to-do-things-the-right</guid>
+		<pubDate>Wed, 19 Mar 2008 10:12:19 -0700</pubDate>
+		<title>
+			<![CDATA[Kathleen add a quote by Coach Martin.  Running Times 7/8/05]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/36268-the-way-she-lives-she-tries-to-do-things-the-right]]>
+		</link>
+		<description>
+	    <![CDATA["...the way she lives...she tries to do things the right way, so regardless of the outcome, she doesn't have to look back..." -- Coach Martin.  Running Times 7/8/05]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

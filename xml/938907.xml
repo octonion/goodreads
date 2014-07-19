@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/938907-iris]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/938907-iris" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 24 Feb 2008 15:27:08 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/28035-kings-built-tombs-more-splendid-than-the-houses-of-the</guid>
+		<pubDate>Sun, 24 Feb 2008 15:27:08 -0800</pubDate>
+		<title>
+			<![CDATA[Iris add a quote by J. Tolkien]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/28035-kings-built-tombs-more-splendid-than-the-houses-of-the]]>
+		</link>
+		<description>
+	    <![CDATA["Kings built tombs more splendid than the houses of the living and counted the names of their descent dearer than the names of their sons. Childless lords sat in aged halls musing on heraldry or in high cold towers asking questions of the stars. And so the kingdom of Gondor sank into ruin, the line of kings failed, the white tree withered and the rule of Gondor was given over to lesser men. " -- J. Tolkien]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

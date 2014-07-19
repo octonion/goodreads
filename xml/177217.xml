@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/177217-jennifer]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/177217-jennifer" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 28 Dec 2013 19:27:31 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/897209-summer-ends-and-autumn-begins-the-trees-retract-their-sap</guid>
+		<pubDate>Sat, 28 Dec 2013 19:27:31 -0800</pubDate>
+		<title>
+			<![CDATA[Jennifer add a quote by Linda Gillard]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/897209-summer-ends-and-autumn-begins-the-trees-retract-their-sap]]>
+		</link>
+		<description>
+	    <![CDATA["summer ends and autumn begins. The trees retract their sap in a hurry and the resulting bright colours must be a panic-stricken response to the sudden withdrawal of that life-blood. Because the sight's so beautiful, you forget what this gorgeous display actually represents. Decay and death. If only human death were so glorious." -- Linda Gillard]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

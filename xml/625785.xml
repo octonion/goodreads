@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/625785-hilishah]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/625785-hilishah" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 19 May 2013 09:42:44 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/375442-each-time-a-language-dies-another-flame-goes-out-another</guid>
+		<pubDate>Sun, 19 May 2013 09:42:44 -0700</pubDate>
+		<title>
+			<![CDATA[Hilishah add a quote by Ariel Sabar]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/375442-each-time-a-language-dies-another-flame-goes-out-another]]>
+		</link>
+		<description>
+	    <![CDATA["Each time a language dies, another flame goes out, another sound goes silent." -- Ariel Sabar]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/768847-with-languages-you-can-move-from-one-social-situation-to</guid>
+		<pubDate>Sun, 19 May 2013 09:43:00 -0700</pubDate>
+		<title>
+			<![CDATA[Hilishah add a quote by Edmund de Waal]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/768847-with-languages-you-can-move-from-one-social-situation-to]]>
+		</link>
+		<description>
+	    <![CDATA["With languages, you can move from one social situation to another. With languages, you are at home anywhere." -- Edmund de Waal]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

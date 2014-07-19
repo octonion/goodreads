@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/672566-mark-malinowski]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/672566-mark-malinowski" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 10 Dec 2007 05:31:09 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4491-i-sit-on-a-man-s-back-choking-him-and-making</guid>
+		<pubDate>Mon, 10 Dec 2007 05:31:09 -0800</pubDate>
+		<title>
+			<![CDATA[Mark add a quote by Leo Tolstoy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4491-i-sit-on-a-man-s-back-choking-him-and-making]]>
+		</link>
+		<description>
+	    <![CDATA["I sit on a man's back choking him and making him carry me, and yet assure myself and others that i am sorry for him and wish to lighten his load by all means possible....except by getting off his back." -- Leo Tolstoy]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4492-i-have-no-doubt-that-it-is-part-of-the</guid>
+		<pubDate>Mon, 10 Dec 2007 05:32:34 -0800</pubDate>
+		<title>
+			<![CDATA[Mark add a quote by Henry David Thoreau]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4492-i-have-no-doubt-that-it-is-part-of-the]]>
+		</link>
+		<description>
+	    <![CDATA["I have no doubt that it is part of the destiny of the human race in it's gradual improvement, to leave off eating animals." -- Henry David Thoreau]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2658-happiness-is-when-what-you-think-what-you-say-and</guid>
+		<pubDate>Mon, 10 Dec 2007 05:33:49 -0800</pubDate>
+		<title>
+			<![CDATA[Mark add a quote by Mahatma Gandhi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2658-happiness-is-when-what-you-think-what-you-say-and]]>
+		</link>
+		<description>
+	    <![CDATA["Happiness is when what you think, what you say, and what you do are in harmony." -- Mahatma Gandhi]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

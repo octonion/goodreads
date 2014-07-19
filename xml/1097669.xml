@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1097669-rachel-wagner]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1097669-rachel-wagner" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 02 Aug 2012 06:17:36 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/30782-those-who-educate-children-well-are-more-to-be-honored</guid>
+		<pubDate>Thu, 02 Aug 2012 06:17:36 -0700</pubDate>
+		<title>
+			<![CDATA[Rachel add a quote by Aristotle]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/30782-those-who-educate-children-well-are-more-to-be-honored]]>
+		</link>
+		<description>
+	    <![CDATA["Those who educate children well are more to be honored than they who produce them; for these only gave them life, those the art of living well." -- Aristotle]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/380301-ask-yourself-do-i-feel-the-need-to-laminate-then</guid>
+		<pubDate>Thu, 02 Aug 2012 06:19:31 -0700</pubDate>
+		<title>
+			<![CDATA[Rachel add a quote by Gordon Korman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/380301-ask-yourself-do-i-feel-the-need-to-laminate-then]]>
+		</link>
+		<description>
+	    <![CDATA["Ask yourself: 'Do I feel the need to laminate?' Then teaching is for you." -- Gordon Korman]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

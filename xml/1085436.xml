@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1085436-kayla-s]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1085436-kayla-s" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 09 May 2008 08:26:20 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/20928-who-are-you-to-judge-the-life-i-live-i</guid>
+		<pubDate>Fri, 09 May 2008 08:26:20 -0700</pubDate>
+		<title>
+			<![CDATA[Kayla add a quote by Bob Marley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20928-who-are-you-to-judge-the-life-i-live-i]]>
+		</link>
+		<description>
+	    <![CDATA["Who are you to judge the life I live?
+I know I'm not perfect
+-and I don't live to be-
+but before you start pointing fingers...
+make sure you hands are clean!" -- Bob Marley]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1173-don-t-cry-because-it-s-over-smile-because-it-happened</guid>
+		<pubDate>Fri, 09 May 2008 08:27:36 -0700</pubDate>
+		<title>
+			<![CDATA[Kayla add a quote by Dr. Seuss ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1173-don-t-cry-because-it-s-over-smile-because-it-happened]]>
+		</link>
+		<description>
+	    <![CDATA["Don't cry because it's over, smile because it happened." -- Dr. Seuss ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/17092-never-go-to-bed-mad-stay-up-and-fight</guid>
+		<pubDate>Fri, 09 May 2008 08:30:09 -0700</pubDate>
+		<title>
+			<![CDATA[Kayla add a quote by Phyllis Diller]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17092-never-go-to-bed-mad-stay-up-and-fight]]>
+		</link>
+		<description>
+	    <![CDATA["Never go to bed mad. Stay up and fight." -- Phyllis Diller]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

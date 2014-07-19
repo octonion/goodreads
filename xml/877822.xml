@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/877822-kelly]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/877822-kelly" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 05 Feb 2009 11:12:52 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/23640-never-lend-books-for-no-one-ever-returns-them-the</guid>
+		<pubDate>Thu, 05 Feb 2009 11:12:52 -0800</pubDate>
+		<title>
+			<![CDATA[Kelly add a quote by Anatole France]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/23640-never-lend-books-for-no-one-ever-returns-them-the]]>
+		</link>
+		<description>
+	    <![CDATA["Never lend books, for no one ever returns them; the only books I have in my library are books that other folks have lent me." -- Anatole France]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/18869-the-first-thing-i-do-in-the-morning-is-brush</guid>
+		<pubDate>Wed, 13 May 2009 09:49:25 -0700</pubDate>
+		<title>
+			<![CDATA[Kelly add a quote by Dorothy Parker]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18869-the-first-thing-i-do-in-the-morning-is-brush]]>
+		</link>
+		<description>
+	    <![CDATA["The first thing I do in the morning is brush my teeth and sharpen my tongue." -- Dorothy Parker]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/26620-we-waste-time-looking-for-the-perfect-lover-instead-of</guid>
+		<pubDate>Sun, 25 May 2014 14:20:58 -0700</pubDate>
+		<title>
+			<![CDATA[Kelly add a quote by Tom Robbins]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/26620-we-waste-time-looking-for-the-perfect-lover-instead-of]]>
+		</link>
+		<description>
+	    <![CDATA["We waste time looking for the perfect lover, instead of creating the perfect love." -- Tom Robbins]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

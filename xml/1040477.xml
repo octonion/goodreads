@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1040477-melissa-stubbs]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1040477-melissa-stubbs" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 31 Mar 2008 10:15:48 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5681-i-don-t-know-anything-with-certainty-but-seeing-the-stars</guid>
+		<pubDate>Mon, 31 Mar 2008 10:15:48 -0700</pubDate>
+		<title>
+			<![CDATA[Melissa add a quote by Vincent Van Gogh]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5681-i-don-t-know-anything-with-certainty-but-seeing-the-stars]]>
+		</link>
+		<description>
+	    <![CDATA["I don't know anything with certainty, but seeing the stars makes me dream." -- Vincent Van Gogh]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/15579-what-lies-behind-us-and-what-lies-before-us-are</guid>
+		<pubDate>Wed, 04 Feb 2009 10:21:59 -0800</pubDate>
+		<title>
+			<![CDATA[Melissa add a quote by Ralph Waldo Emerson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/15579-what-lies-behind-us-and-what-lies-before-us-are]]>
+		</link>
+		<description>
+	    <![CDATA["What lies behind us and what lies before us are tiny matters compared to what lies within us." -- Ralph Waldo Emerson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/9675-i-m-the-one-that-s-got-to-die-when-it-s-time</guid>
+		<pubDate>Mon, 31 Mar 2008 10:22:06 -0700</pubDate>
+		<title>
+			<![CDATA[Melissa add a quote by Jimi Hendrix]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9675-i-m-the-one-that-s-got-to-die-when-it-s-time]]>
+		</link>
+		<description>
+	    <![CDATA["I'm the one that's got to die when it's time for me to die, so let me live my life the way I want to." -- Jimi Hendrix]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4324-shoot-for-the-moon-even-if-you-miss-you-ll-land</guid>
+		<pubDate>Mon, 31 Mar 2008 10:23:40 -0700</pubDate>
+		<title>
+			<![CDATA[Melissa add a quote by Norman Vincent Peale]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4324-shoot-for-the-moon-even-if-you-miss-you-ll-land]]>
+		</link>
+		<description>
+	    <![CDATA["Shoot for the moon. Even if you miss, you'll land among the stars." -- Norman Vincent Peale]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

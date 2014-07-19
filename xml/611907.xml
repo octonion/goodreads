@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/611907-eric-arvin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/611907-eric-arvin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 28 Feb 2012 09:52:48 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/489043-my-waist-is-a-30-the-jeans-are-a-28</guid>
+		<pubDate>Tue, 28 Feb 2012 09:52:48 -0800</pubDate>
+		<title>
+			<![CDATA[Eric add a quote by Steve Kluger]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/489043-my-waist-is-a-30-the-jeans-are-a-28]]>
+		</link>
+		<description>
+	    <![CDATA["My waist is a 30. The jeans are a 28.  When I fart, the Reeboks blow off." -- Steve Kluger]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4953-i-don-t-deserve-any-credit-for-turning-the-other-cheek</guid>
+		<pubDate>Sun, 25 Mar 2012 18:31:25 -0700</pubDate>
+		<title>
+			<![CDATA[Eric add a quote by Flannery O'Connor]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4953-i-don-t-deserve-any-credit-for-turning-the-other-cheek]]>
+		</link>
+		<description>
+	    <![CDATA["I don't deserve any credit for turning the other cheek as my tongue is always in it." -- Flannery O'Connor]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/656617-it-s-a-kilt-dumbass-it-s-only-a-skirt-if-i-m</guid>
+		<pubDate>Fri, 02 Aug 2013 18:20:49 -0700</pubDate>
+		<title>
+			<![CDATA[Eric add a quote by Damon Suede]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/656617-it-s-a-kilt-dumbass-it-s-only-a-skirt-if-i-m]]>
+		</link>
+		<description>
+	    <![CDATA["It's a kilt, dumbass. It's only a skirt if I'm wearing underwear." -- Damon Suede]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

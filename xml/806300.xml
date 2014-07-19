@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/806300-victoria]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/806300-victoria" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 21 Aug 2013 18:39:11 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/491920-i-must-be-overtired-buttercup-managed-the-excitement-and-all</guid>
+		<pubDate>Wed, 21 Aug 2013 18:39:11 -0700</pubDate>
+		<title>
+			<![CDATA[Victoria add a quote by William Goldman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/491920-i-must-be-overtired-buttercup-managed-the-excitement-and-all]]>
+		</link>
+		<description>
+	    <![CDATA["I must be overtired', Buttercup managed. 'The excitement and all.'
+'Rest then', her mother cautioned. 'Terrible things can happen when you're overtired. I was overtired the night your father proposed." -- William Goldman]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/14769-life-isn-t-fair-it-s-just-fairer-than-death-that-s-all</guid>
+		<pubDate>Wed, 01 Jan 2014 19:41:24 -0800</pubDate>
+		<title>
+			<![CDATA[Victoria add a quote by William Goldman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14769-life-isn-t-fair-it-s-just-fairer-than-death-that-s-all]]>
+		</link>
+		<description>
+	    <![CDATA["Life isn't fair, it's just fairer than death, that's all." -- William Goldman]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

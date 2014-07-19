@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/880606-pari]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/880606-pari" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 02 Jul 2010 03:35:37 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/237816</guid>
+		<pubDate>Fri, 02 Jul 2010 03:35:37 -0700</pubDate>
+		<title>
+			<![CDATA[Pari add a quote by غاده السمان / ghada al salman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/237816]]>
+		</link>
+		<description>
+	    <![CDATA["أيها الشقى...لو لم تحبنى لأستطعت ان امسح صورتك فى عينى ...كما أمسح البخار عن زجاج نافذه الذكرى" -- غاده السمان / ghada al salman]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/280925</guid>
+		<pubDate>Sun, 29 Dec 2013 04:32:11 -0800</pubDate>
+		<title>
+			<![CDATA[Pari add a quote by حسین پناهی]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/280925]]>
+		</link>
+		<description>
+	    <![CDATA["برمیگردم 
+با چشمانم
+که تنها یادگار کودکی منند
+آیا مادرم مرا باز خواهد شناخت؟" -- حسین پناهی]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

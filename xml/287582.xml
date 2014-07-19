@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/287582-susie-b]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/287582-susie-b" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 18 Jan 2010 13:23:53 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/116817-i-had-to-smile-at-the-man-i-mean-you</guid>
+		<pubDate>Mon, 18 Jan 2010 13:23:53 -0800</pubDate>
+		<title>
+			<![CDATA[Susie B add a quote by Jim Butcher]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/116817-i-had-to-smile-at-the-man-i-mean-you]]>
+		</link>
+		<description>
+	    <![CDATA["I had to smile at the man. I mean, you have to smile at idiots and children." -- Jim Butcher]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/66608-when-everything-goes-to-hell-the-people-who-stand-by</guid>
+		<pubDate>Wed, 20 Apr 2011 16:13:05 -0700</pubDate>
+		<title>
+			<![CDATA[Susie B add a quote by Jim Butcher]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/66608-when-everything-goes-to-hell-the-people-who-stand-by]]>
+		</link>
+		<description>
+	    <![CDATA["When everything goes to hell, the people who stand by you without flinching -- they are your family. " -- Jim Butcher]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/944796-shanda]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/944796-shanda" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 13 Oct 2012 19:39:50 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/33049-the-past-is-behind-learn-from-it-the-future-is</guid>
+		<pubDate>Sat, 13 Oct 2012 19:39:50 -0700</pubDate>
+		<title>
+			<![CDATA[Shanda add a quote by Thomas S. Monson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/33049-the-past-is-behind-learn-from-it-the-future-is]]>
+		</link>
+		<description>
+	    <![CDATA["The past is behind, learn from it.  The future is ahead, prepare for it.  The present is here, live it." -- Thomas S. Monson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/80713-i-not-events-have-the-power-to-make-me-happy</guid>
+		<pubDate>Sat, 13 Oct 2012 19:42:32 -0700</pubDate>
+		<title>
+			<![CDATA[Shanda add a quote by Groucho Marx]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/80713-i-not-events-have-the-power-to-make-me-happy]]>
+		</link>
+		<description>
+	    <![CDATA["I, not events, have the power to make me happy or unhappy today. I can choose which it shall be. Yesterday is dead, tomorrow hasn't arrived yet. I have just one day, today, and I'm going to be happy in it." -- Groucho Marx]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/614575-namaste-it-was-a-nepalese-greeting-it-meant-the-light</guid>
+		<pubDate>Sat, 13 Oct 2012 19:43:39 -0700</pubDate>
+		<title>
+			<![CDATA[Shanda add a quote by Jennifer Donnelly]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/614575-namaste-it-was-a-nepalese-greeting-it-meant-the-light]]>
+		</link>
+		<description>
+	    <![CDATA["Namaste.  It was a Nepalese greeting.  It meant:  The light within me bows to the light within you." -- Jennifer Donnelly]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

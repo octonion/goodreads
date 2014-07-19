@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/745859-emily]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/745859-emily" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 27 Feb 2008 11:16:58 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/10521-if-pain-must-come-may-it-come-quickly-because-i</guid>
+		<pubDate>Wed, 27 Feb 2008 11:16:58 -0800</pubDate>
+		<title>
+			<![CDATA[Emily add a quote by Paulo Coelho]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10521-if-pain-must-come-may-it-come-quickly-because-i]]>
+		</link>
+		<description>
+	    <![CDATA["If pain must come, may it come quickly. Because I have a life to live, and I need to live it in the best way possible. If he has to make a choice, may he make it now. Then I will either wait for him or forget him." -- Paulo Coelho]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2279-being-deeply-loved-by-someone-gives-you-strength-while-loving</guid>
+		<pubDate>Wed, 27 Feb 2008 11:17:30 -0800</pubDate>
+		<title>
+			<![CDATA[Emily add a quote by Lao Tzu]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2279-being-deeply-loved-by-someone-gives-you-strength-while-loving]]>
+		</link>
+		<description>
+	    <![CDATA["Being deeply loved by someone gives you strength, while loving someone deeply gives you courage." -- Lao Tzu]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

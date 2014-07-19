@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1052438-sean]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1052438-sean" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 03 Apr 2008 18:54:16 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/174247-the-greatest-happiness-is-to-scatter-your-enemy-and-drive</guid>
+		<pubDate>Thu, 03 Apr 2008 18:54:16 -0700</pubDate>
+		<title>
+			<![CDATA[Sean add a quote by Genghis Khan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/174247-the-greatest-happiness-is-to-scatter-your-enemy-and-drive]]>
+		</link>
+		<description>
+	    <![CDATA["The greatest happiness is to scatter your enemy and drive him before you, to see his cities reduced to ashes, to see those who love him shrouded in tears, and to gather to your bosom his wives and daughters." -- Genghis Khan]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5830-in-one-survey-respondents-listed-princeton-as-one-of-the</guid>
+		<pubDate>Sun, 04 Jan 2009 23:12:24 -0800</pubDate>
+		<title>
+			<![CDATA[Sean add a quote by Alexandra Robbins]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5830-in-one-survey-respondents-listed-princeton-as-one-of-the]]>
+		</link>
+		<description>
+	    <![CDATA["In one survey, respondents listed Princeton as one of the country’s top ten law schools. The problem? Princeton doesn’t have a law school" -- Alexandra Robbins]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

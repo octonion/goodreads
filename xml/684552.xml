@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/684552-gary]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/684552-gary" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 19 Oct 2008 18:03:03 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6406-nothing-in-the-world-is-more-dangerous-than-sincere-ignorance</guid>
+		<pubDate>Sun, 19 Oct 2008 18:03:03 -0700</pubDate>
+		<title>
+			<![CDATA[Gary add a quote by Martin Luther King Jr.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6406-nothing-in-the-world-is-more-dangerous-than-sincere-ignorance]]>
+		</link>
+		<description>
+	    <![CDATA["Nothing in the world is more dangerous than sincere ignorance and conscientious stupidity." -- Martin Luther King Jr.]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/942-two-things-are-infinite-the-universe-and-human-stupidity-and</guid>
+		<pubDate>Sat, 23 Feb 2008 19:18:55 -0800</pubDate>
+		<title>
+			<![CDATA[Gary add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/942-two-things-are-infinite-the-universe-and-human-stupidity-and]]>
+		</link>
+		<description>
+	    <![CDATA["Two things are infinite: the universe and human stupidity; and I'm not sure about the universe." -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5939-genius-may-have-its-limitations-but-stupidity-is-not-thus</guid>
+		<pubDate>Mon, 17 Dec 2007 11:48:41 -0800</pubDate>
+		<title>
+			<![CDATA[Gary add a quote by Elbert Hubbard]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5939-genius-may-have-its-limitations-but-stupidity-is-not-thus]]>
+		</link>
+		<description>
+	    <![CDATA["Genius may have its limitations, but stupidity is not thus handicapped." -- Elbert Hubbard]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5941-in-all-things-of-nature-there-is-something-of-the</guid>
+		<pubDate>Mon, 17 Dec 2007 11:53:17 -0800</pubDate>
+		<title>
+			<![CDATA[Gary add a quote by Aristotle]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5941-in-all-things-of-nature-there-is-something-of-the]]>
+		</link>
+		<description>
+	    <![CDATA["In all things of nature there is something of the marvelous." -- Aristotle]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2658-happiness-is-when-what-you-think-what-you-say-and</guid>
+		<pubDate>Wed, 10 Dec 2008 14:13:01 -0800</pubDate>
+		<title>
+			<![CDATA[Gary add a quote by Mahatma Gandhi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2658-happiness-is-when-what-you-think-what-you-say-and]]>
+		</link>
+		<description>
+	    <![CDATA["Happiness is when what you think, what you say, and what you do are in harmony." -- Mahatma Gandhi]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

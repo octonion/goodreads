@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/739046-amanda-spence]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/739046-amanda-spence" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 07 Jan 2008 08:33:55 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4941-properly-we-should-read-for-power-man-reading-should-be</guid>
+		<pubDate>Mon, 07 Jan 2008 08:33:55 -0800</pubDate>
+		<title>
+			<![CDATA[Amanda add a quote by Ezra Pound]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4941-properly-we-should-read-for-power-man-reading-should-be]]>
+		</link>
+		<description>
+	    <![CDATA["Properly, we should read for power. Man reading should be man intensely alive. The book should be a ball of light in one's hand." -- Ezra Pound]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/781-there-is-no-reason-why-the-same-man-should-like</guid>
+		<pubDate>Mon, 07 Jan 2008 08:34:00 -0800</pubDate>
+		<title>
+			<![CDATA[Amanda add a quote by Ezra Pound]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/781-there-is-no-reason-why-the-same-man-should-like]]>
+		</link>
+		<description>
+	    <![CDATA["There is no reason why the same man should like the same books at eighteen and at forty-eight" -- Ezra Pound]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

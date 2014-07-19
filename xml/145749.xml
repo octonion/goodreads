@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/145749-natalia]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/145749-natalia" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 06 Apr 2013 05:56:25 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/52250-so-i-guess-we-are-who-we-are-for-alot</guid>
+		<pubDate>Sat, 06 Apr 2013 05:56:25 -0700</pubDate>
+		<title>
+			<![CDATA[Natalia add a quote by Stephen Chbosky]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/52250-so-i-guess-we-are-who-we-are-for-alot]]>
+		</link>
+		<description>
+	    <![CDATA["So, I guess we are who we are for alot of reasons. And maybe we'll never know most of them. But even if we don't have the power to choose where we come from, we can still choose where we go from there. We can still do things. And we can try to feel okay about them." -- Stephen Chbosky]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/238891-some-days-seem-to-fit-together-like-a-stained-glass</guid>
+		<pubDate>Thu, 23 May 2013 07:47:24 -0700</pubDate>
+		<title>
+			<![CDATA[Natalia add a quote by Maggie Stiefvater]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/238891-some-days-seem-to-fit-together-like-a-stained-glass]]>
+		</link>
+		<description>
+	    <![CDATA["Some days seem to fit together like a stained glass window. A hundred little pieces of different color and mood that, when combined, create a complete picture." -- Maggie Stiefvater]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

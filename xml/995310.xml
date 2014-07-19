@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/995310-barbara]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/995310-barbara" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 24 Dec 2008 07:44:13 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4857-ginny-said-mr-weasley-flabbergasted-haven-t-i-taught-you-anything</guid>
+		<pubDate>Wed, 24 Dec 2008 07:44:13 -0800</pubDate>
+		<title>
+			<![CDATA[Barbara add a quote by J.K. Rowling]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4857-ginny-said-mr-weasley-flabbergasted-haven-t-i-taught-you-anything]]>
+		</link>
+		<description>
+	    <![CDATA["&lt;i&gt;Ginny!&lt;/i&gt;&quot; said Mr. Weasley, flabbergasted. &quot;Haven't I taught you &lt;i&gt;anything&lt;/i&gt;? What have I always told you? Never trust anything that can think for itself &lt;i&gt;if you can't see where it keeps its brain&lt;/i&gt;?" -- J.K. Rowling]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

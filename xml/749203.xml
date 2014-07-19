@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/749203-matt]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/749203-matt" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 17 Jan 2008 08:21:55 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/14211-she-was-a-talker-wasn-t-she-bobby-lee-said-sliding</guid>
+		<pubDate>Thu, 17 Jan 2008 08:21:55 -0800</pubDate>
+		<title>
+			<![CDATA[Matt add a quote by Flannery O'Connor]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14211-she-was-a-talker-wasn-t-she-bobby-lee-said-sliding]]>
+		</link>
+		<description>
+	    <![CDATA["She was a talker, wasn't she?&quot; Bobby Lee said, sliding down the ditch with a yodel. 
+
+&quot;She would of been a good woman,&quot; The Misfit said, &quot;if it had been somebody there to shoot her every minute of her life.&quot; 
+
+&quot;Some fun!&quot; Bobby Lee said. 
+
+&quot;Shut up, Bobby Lee,&quot; The Misfit said. &quot;It's no real pleasure in life." -- Flannery O'Connor]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

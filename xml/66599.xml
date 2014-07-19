@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/66599-heather]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/66599-heather" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 18 Nov 2009 14:16:35 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/69059-he-must-have-known-i-d-want-to-leave-you-no</guid>
+		<pubDate>Wed, 18 Nov 2009 14:16:35 -0800</pubDate>
+		<title>
+			<![CDATA[Heather add a quote by J.K. Rowling]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/69059-he-must-have-known-i-d-want-to-leave-you-no]]>
+		</link>
+		<description>
+	    <![CDATA["He must have known I'd want to leave you.&quot;
+&quot;No, he must have known you would always want to come back." -- J.K. Rowling]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2058-there-is-no-friend-as-loyal-as-a-book</guid>
+		<pubDate>Sat, 22 Mar 2014 22:33:28 -0700</pubDate>
+		<title>
+			<![CDATA[Heather add a quote by Ernest Hemingway]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2058-there-is-no-friend-as-loyal-as-a-book]]>
+		</link>
+		<description>
+	    <![CDATA["There is no friend as loyal as a book." -- Ernest Hemingway]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

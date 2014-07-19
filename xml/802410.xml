@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/802410-danni-gilbert]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/802410-danni-gilbert" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 15 Nov 2008 08:19:47 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/11631-well-behaved-women-seldom-make-history</guid>
+		<pubDate>Sat, 15 Nov 2008 08:19:47 -0800</pubDate>
+		<title>
+			<![CDATA[Danni add a quote by Laurel Thatcher Ulrich]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11631-well-behaved-women-seldom-make-history]]>
+		</link>
+		<description>
+	    <![CDATA["Well-behaved women seldom make history." -- Laurel Thatcher Ulrich]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/788-education-is-our-passport-to-the-future-for-tomorrow-belongs</guid>
+		<pubDate>Fri, 07 Mar 2008 21:01:45 -0800</pubDate>
+		<title>
+			<![CDATA[Danni add a quote by Malcolm X]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/788-education-is-our-passport-to-the-future-for-tomorrow-belongs]]>
+		</link>
+		<description>
+	    <![CDATA["Education is our passport to the future, for tomorrow belongs to the people who prepare for it today." -- Malcolm X]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/14314-feminism-is-the-radical-notion-that-women-are-human-beings</guid>
+		<pubDate>Sat, 08 Mar 2008 09:35:37 -0800</pubDate>
+		<title>
+			<![CDATA[Danni add a quote by Cheris Kramarae]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14314-feminism-is-the-radical-notion-that-women-are-human-beings]]>
+		</link>
+		<description>
+	    <![CDATA["Feminism is the radical notion that women are human beings." -- Cheris Kramarae]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

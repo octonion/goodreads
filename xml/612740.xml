@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/612740-buddha]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/612740-buddha" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 25 Mar 2012 02:13:40 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/121175-sometimes-people-hold-a-core-belief-that-is-very-strong</guid>
+		<pubDate>Sun, 25 Mar 2012 02:13:40 -0700</pubDate>
+		<title>
+			<![CDATA[Buddha add a quote by Frantz Fanon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/121175-sometimes-people-hold-a-core-belief-that-is-very-strong]]>
+		</link>
+		<description>
+	    <![CDATA["Sometimes people hold a core belief that is very strong. When they are 
+presented with evidence that works against that belief, the new 
+evidence cannot be accepted. It would create a feeling that is 
+extremely uncomfortable, called cognitive dissonance. And because it 
+is so important to protect the core belief, they will rationalize, 
+ignore and even deny anything that doesn't fit in with the core belief." -- Frantz Fanon]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

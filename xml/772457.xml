@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/772457-jill]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/772457-jill" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 18 Jan 2008 05:56:48 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3661-there-is-always-something-to-do-there-are-hungry-people</guid>
+		<pubDate>Fri, 18 Jan 2008 05:56:48 -0800</pubDate>
+		<title>
+			<![CDATA[Jill add a quote by Nikki Giovanni]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3661-there-is-always-something-to-do-there-are-hungry-people]]>
+		</link>
+		<description>
+	    <![CDATA["There is always something to do. There are hungry people to feed, naked people to clothe, sick people to comfort and make well. And while I don't expect you to save the world I do think it's not asking too much for you to love those with whom you sleep, share the happiness of those whom you call friend, engage those among you who are visionary and remove from your life those who offer you depression, despair and disrespect." -- Nikki Giovanni]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

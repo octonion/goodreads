@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/544228-bob]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/544228-bob" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 21 Aug 2008 23:24:42 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/84880-oh-the-comfort-the-inexpressible-comfort-of-feeling-safe</guid>
+		<pubDate>Thu, 21 Aug 2008 23:24:42 -0700</pubDate>
+		<title>
+			<![CDATA[Bob add a quote by Dinah Maria Mulock Craik]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/84880-oh-the-comfort-the-inexpressible-comfort-of-feeling-safe]]>
+		</link>
+		<description>
+	    <![CDATA["Oh, the comfort — the inexpressible comfort of feeling &lt;i&gt;safe&lt;/i&gt; with a person — having neither to weigh thoughts nor measure words, but pouring them all right out, just as they are, chaff and grain together; certain that a faithful hand will take and sift them, keep what is worth keeping, and then with the breath of kindness blow the rest away." -- Dinah Maria Mulock Craik]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/752910-karla]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/752910-karla" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 07 Jan 2008 16:16:51 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/11285-god-does-not-play-dice-with-the-universe-he-plays</guid>
+		<pubDate>Mon, 07 Jan 2008 16:16:51 -0800</pubDate>
+		<title>
+			<![CDATA[Karla add a quote by Terry Pratchett]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11285-god-does-not-play-dice-with-the-universe-he-plays]]>
+		</link>
+		<description>
+	    <![CDATA["God does not play dice with the universe; He plays an ineffable game of His own devising, which might be compared, from the perspective of any of the other players [i.e. everybody], to being involved in an obscure and complex variant of poker in a pitch-dark room, with blank cards, for infinite stakes, with a Dealer who won't tell you the rules, and who &lt;i&gt;smiles all the time&lt;/i&gt;." -- Terry Pratchett]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

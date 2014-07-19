@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/199587-kiki]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/199587-kiki" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 15 Oct 2008 15:00:49 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2991-there-is-a-way-to-be-good-again</guid>
+		<pubDate>Wed, 15 Oct 2008 15:00:49 -0700</pubDate>
+		<title>
+			<![CDATA[Kiki add a quote by Khaled Hosseini]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2991-there-is-a-way-to-be-good-again]]>
+		</link>
+		<description>
+	    <![CDATA["There is a way to be good again..." -- Khaled Hosseini]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/457-what-matters-in-life-is-not-what-happens-to-you</guid>
+		<pubDate>Thu, 08 May 2008 02:09:37 -0700</pubDate>
+		<title>
+			<![CDATA[Kiki add a quote by Gabriel Garcia Marquez]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/457-what-matters-in-life-is-not-what-happens-to-you]]>
+		</link>
+		<description>
+	    <![CDATA["What matters in life is not what happens to you but what you remember and how you remember it." -- Gabriel Garcia Marquez]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1250-if-i-knew-that-today-would-be-the-last-time</guid>
+		<pubDate>Thu, 08 May 2008 02:09:51 -0700</pubDate>
+		<title>
+			<![CDATA[Kiki add a quote by Gabriel García Márquez]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1250-if-i-knew-that-today-would-be-the-last-time]]>
+		</link>
+		<description>
+	    <![CDATA["If I knew that today would be the last time I’d see you, I would hug you tight and pray the Lord be the keeper of your soul. If I knew that this would be the last time you pass through this door, I’d embrace you, kiss you, and call you back for one more. If I knew that this would be the last time I would hear your voice, I’d take hold of each word to be able to hear it over and over again. If I knew this is the last time I see you, I’d tell you I love you, and would not just assume foolishly you know it already." -- Gabriel García Márquez]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

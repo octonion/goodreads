@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1031560-robert-tell]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1031560-robert-tell" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 28 Mar 2008 16:51:08 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/314-i-was-working-on-the-proof-of-one-of-my</guid>
+		<pubDate>Fri, 28 Mar 2008 16:51:08 -0700</pubDate>
+		<title>
+			<![CDATA[Robert add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/314-i-was-working-on-the-proof-of-one-of-my]]>
+		</link>
+		<description>
+	    <![CDATA["I was working on the proof of one of my poems all the morning, and took out a comma. In the afternoon I put it back again." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/39312-a-poem-is-an-invitation-to-a-voyage-as-in</guid>
+		<pubDate>Fri, 28 Mar 2008 16:53:18 -0700</pubDate>
+		<title>
+			<![CDATA[Robert add a quote by Charles Simic]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/39312-a-poem-is-an-invitation-to-a-voyage-as-in]]>
+		</link>
+		<description>
+	    <![CDATA["A poem is an invitation to a voyage. As in life, we travel to see fresh sights." -- Charles Simic]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/39313-only-poetry-can-measure-the-distance-between-ourselves-and-the</guid>
+		<pubDate>Fri, 28 Mar 2008 16:54:16 -0700</pubDate>
+		<title>
+			<![CDATA[Robert add a quote by Charles Simic]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/39313-only-poetry-can-measure-the-distance-between-ourselves-and-the]]>
+		</link>
+		<description>
+	    <![CDATA["Only poetry can measure the distance between ourselves and the Other." -- Charles Simic]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

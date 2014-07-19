@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1093408-luke]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1093408-luke" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 18 Jan 2010 15:59:45 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/228-the-road-goes-ever-on-and-on-down-from-the</guid>
+		<pubDate>Mon, 18 Jan 2010 15:59:45 -0800</pubDate>
+		<title>
+			<![CDATA[Luke add a quote by J.R.R. Tolkien]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/228-the-road-goes-ever-on-and-on-down-from-the]]>
+		</link>
+		<description>
+	    <![CDATA["The Road goes ever on and on
+Down from the door where it began.
+Now far ahead the Road has gone,
+And I must follow, if I can,
+Pursuing it with eager feet,
+Until it joins some larger way
+Where many paths and errands meet.
+And whither then? I cannot say" -- J.R.R. Tolkien]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

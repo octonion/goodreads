@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/172497-lauren]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/172497-lauren" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 30 Aug 2009 20:13:52 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/189604-and-something-happened-in-katie-s-heart-and-she-realized-it</guid>
+		<pubDate>Sun, 30 Aug 2009 20:13:52 -0700</pubDate>
+		<title>
+			<![CDATA[Lauren add a quote by Mark Haddon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/189604-and-something-happened-in-katie-s-heart-and-she-realized-it]]>
+		</link>
+		<description>
+	    <![CDATA["And something happened in Katie's heart, and she realized it wasn't just two people being joined together, not even two families. She felt as if she were joining hands with everyone who'd done this before her, just as she'd done after giving birth to Jacob, a feeling that she finally belonged, that she was part of the whole enterprise, a brick in that great arch which rose out of the dark behind you and swung over your head and curved into the future, and she was helping to keep it strong and solid, and helping to protect everyone beneath it." -- Mark Haddon]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/307421-thomas-armstrong]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/307421-thomas-armstrong" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 13 Jun 2014 17:08:56 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/194563-each-second-we-live-is-a-new-and-unique-moment</guid>
+		<pubDate>Fri, 13 Jun 2014 17:08:56 -0700</pubDate>
+		<title>
+			<![CDATA[Thomas add a quote by Pablo Casals]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/194563-each-second-we-live-is-a-new-and-unique-moment]]>
+		</link>
+		<description>
+	    <![CDATA["Each second we live is a new and unique moment of the universe, a moment that will never be again And what do we teach our children? We teach them that two and two make four, and that Paris is the capital of France. When will we also teach them what they are? We should say to each of them: Do you know what you are? You are a marvel. You are unique. In all the years that have passed, there has never been another child like you. Your legs, your arms, your clever fingers, the way you move. You may become a Shakespeare, a Michaelangelo, a Beethoven. You have the capacity for anything. Yes, you are a marvel. And when you grow up, can you then harm another who is, like you, a marvel? You must work, we must all work, to make the world worthy of its children." -- Pablo Casals]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

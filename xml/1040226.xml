@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1040226-juancarlos]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1040226-juancarlos" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 31 Aug 2011 18:38:18 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/430254-the-sixth-of-january-1482-is-not-however-a-day</guid>
+		<pubDate>Wed, 31 Aug 2011 18:38:18 -0700</pubDate>
+		<title>
+			<![CDATA[Juancarlos add a quote by Victor Hugo]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/430254-the-sixth-of-january-1482-is-not-however-a-day]]>
+		</link>
+		<description>
+	    <![CDATA["The sixth of January, 1482, is not, however, a day of which history has preserved the memory. There was nothing notable in the event which thus set the bells and the bourgeois of Paris in a ferment from early morning. It was neither an assault by the Picards nor the Burgundians, nor a hunt led along in procession, nor a revolt of scholars in the town of Laas, nor an entry of “our much dread lord, monsieur the king,” nor even a pretty hanging of male and female thieves by the courts of Paris. Neither was it the arrival, so frequent in the fifteenth century, of some plumed and bedizened embassy. It was barely two days since the last cavalcade of that nature, that of the Flemish ambassadors charged with concluding the marriage between the dauphin and Marguerite of Flanders, had made its entry into Paris, to the great annoyance of M. lé Cardinal de Bourbon, who, for the sake of pleasing the king, had been obliged to assume an amiable mien towards this whole rustic rabble of Flemish burgomasters, and to regale them at his Hôtel de Bourbon, with a very “pretty morality, allegorical satire, and farce,” while a driving rain drenched the magnificent tapestries at his door." -- Victor Hugo]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

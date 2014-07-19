@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/654035-magnus-nor-n]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/654035-magnus-nor-n" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 14 Feb 2012 05:51:10 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/451190-it-is-only-when-we-begin-to-relax-with-ourselves</guid>
+		<pubDate>Tue, 14 Feb 2012 05:51:10 -0800</pubDate>
+		<title>
+			<![CDATA[Magnus add a quote by Pema Chodron]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/451190-it-is-only-when-we-begin-to-relax-with-ourselves]]>
+		</link>
+		<description>
+	    <![CDATA["It is only when we begin to relax with ourselves that meditation becomes a transformative process. Only when we relate with ourselves without moralizing, without harshness, without deception, can we let go of harmful patterns. Without maitri (metta), renunciation of old habits becomes abusive. This is an important point." -- Pema Chodron]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

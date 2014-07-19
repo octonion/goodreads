@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/420314-michelle]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/420314-michelle" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 15 Nov 2013 16:08:12 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/211075-in-the-old-days-it-was-not-called-the-holiday</guid>
+		<pubDate>Fri, 15 Nov 2013 16:08:12 -0800</pubDate>
+		<title>
+			<![CDATA[Michelle add a quote by Dave Barry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/211075-in-the-old-days-it-was-not-called-the-holiday]]>
+		</link>
+		<description>
+	    <![CDATA["In the old days, it was not called the Holiday Season; the Christians called it 'Christmas' and went to church; the Jews called it 'Hanukkah' and went to synagogue; the atheists went to parties and drank.  People passing each other on the street would say 'Merry Christmas!' or 'Happy Hanukkah!'  or (to the atheists) 'Look out for the wall!" -- Dave Barry]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/118953-blessed-is-the-season-which-engages-the-whole-world-in</guid>
+		<pubDate>Fri, 15 Nov 2013 16:09:07 -0800</pubDate>
+		<title>
+			<![CDATA[Michelle add a quote by Hamilton Wright Mabie]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/118953-blessed-is-the-season-which-engages-the-whole-world-in]]>
+		</link>
+		<description>
+	    <![CDATA["Blessed is the season which engages the whole world in a conspiracy of love." -- Hamilton Wright Mabie]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

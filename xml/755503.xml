@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/755503-ryan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/755503-ryan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 10 Jan 2008 07:03:25 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/370-the-only-thing-necessary-for-the-triumph-of-evil-is</guid>
+		<pubDate>Thu, 10 Jan 2008 07:03:25 -0800</pubDate>
+		<title>
+			<![CDATA[Ryan add a quote by Edmund Burke]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/370-the-only-thing-necessary-for-the-triumph-of-evil-is]]>
+		</link>
+		<description>
+	    <![CDATA["The only thing necessary for the triumph of evil is for good men to do nothing." -- Edmund Burke]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2804-a-government-is-the-most-dangerous-threat-to-man-s-rights</guid>
+		<pubDate>Thu, 10 Jan 2008 07:06:27 -0800</pubDate>
+		<title>
+			<![CDATA[Ryan add a quote by Ayn Rand]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2804-a-government-is-the-most-dangerous-threat-to-man-s-rights]]>
+		</link>
+		<description>
+	    <![CDATA["A government is the most dangerous threat to man's rights: it holds a legal monopoly on the use of physical force against legally disarmed victims." -- Ayn Rand]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6235-run-for-your-life-from-any-man-who-tells-you</guid>
+		<pubDate>Thu, 10 Jan 2008 07:06:52 -0800</pubDate>
+		<title>
+			<![CDATA[Ryan add a quote by Ayn Rand]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6235-run-for-your-life-from-any-man-who-tells-you]]>
+		</link>
+		<description>
+	    <![CDATA["Run for your life from any man who tells you that money is evil. That sentence is the leper's bell of an approaching looter." -- Ayn Rand]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

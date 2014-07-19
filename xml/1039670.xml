@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1039670-damon]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1039670-damon" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 31 Mar 2008 03:55:45 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/29655-i-don-t-want-to-analyze-myself-or-anything-but-i</guid>
+		<pubDate>Mon, 31 Mar 2008 03:55:45 -0700</pubDate>
+		<title>
+			<![CDATA[Damon add a quote by Aaron Sorkin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/29655-i-don-t-want-to-analyze-myself-or-anything-but-i]]>
+		</link>
+		<description>
+	    <![CDATA["I don't want to analyze myself or anything, but I think, in fact I know this to be true, that I enter the world through what I write. 
+I grew up believing, and continue to believe, that I am a screw-up, that growing up with my family and friends, I had nothing to offer in any conversation. 
+But when I started writing, suddenly there was something that I brought to the party that was at a high-enough level." -- Aaron Sorkin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

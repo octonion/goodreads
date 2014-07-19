@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/548230-lowell-afdahlrice]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/548230-lowell-afdahlrice" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 21 May 2008 15:47:06 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/56151-what-is-the-absolute-something-that-appears-to-us-in</guid>
+		<pubDate>Wed, 21 May 2008 15:47:06 -0700</pubDate>
+		<title>
+			<![CDATA[Lowell add a quote by Slavoj Zizek]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/56151-what-is-the-absolute-something-that-appears-to-us-in]]>
+		</link>
+		<description>
+	    <![CDATA["What is the Absolute? Something that appears to us in fleeting experiences--say, through the gentle smile of a beautiful woman, or even through the warm caring smile of a person who may otherwise seem ugly and rude. In such miraculous but extremely fragile moments, another dimension transpires through our reality. As such, the Absolute is easily corroded;it slips all too easily through our fingers and must be handled as carefully as a butterfly" -- Slavoj Zizek]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

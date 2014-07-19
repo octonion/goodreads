@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/936680-kerri]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/936680-kerri" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 03 Mar 2011 20:43:16 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/52202-true-love-is-not-so-much-a-matter-of-romance</guid>
+		<pubDate>Thu, 03 Mar 2011 20:43:16 -0800</pubDate>
+		<title>
+			<![CDATA[Kerri add a quote by Gordon B. Hinckley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/52202-true-love-is-not-so-much-a-matter-of-romance]]>
+		</link>
+		<description>
+	    <![CDATA["True love is not so much a matter of romance as it is a matter of anxious concern for the well-being of one's companion." -- Gordon B. Hinckley]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/130835-we-must-cherish-one-another-watch-over-one-another-comfort</guid>
+		<pubDate>Sun, 25 Nov 2012 22:56:29 -0800</pubDate>
+		<title>
+			<![CDATA[Kerri add a quote by Lucy Mack Smith]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/130835-we-must-cherish-one-another-watch-over-one-another-comfort]]>
+		</link>
+		<description>
+	    <![CDATA["We must cherish one another, watch over one another, comfort one another, and gain instruction that we may all sit down in heaven together." -- Lucy Mack Smith]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

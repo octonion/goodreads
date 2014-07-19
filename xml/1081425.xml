@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1081425-robert]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1081425-robert" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 14 Apr 2008 04:33:44 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/44518-the-world-is-filled-with-people-who-are-no-longer</guid>
+		<pubDate>Mon, 14 Apr 2008 04:33:44 -0700</pubDate>
+		<title>
+			<![CDATA[Robert add a quote by Woody Guthrie]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/44518-the-world-is-filled-with-people-who-are-no-longer]]>
+		</link>
+		<description>
+	    <![CDATA["The world is filled with people who are no longer needed. And who try to make slaves of all of us. And they have their music and we have ours. Theirs, the wasted songs of a superstitious nightmare. And without their music and ideological miscarriages to compare our songs of freedom to, we'd not have any opposite to compare music with --- and like the drifting wind, hitting against no obstacle, we'd never know its speed, its power...." -- Woody Guthrie]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

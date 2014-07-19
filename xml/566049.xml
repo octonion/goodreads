@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/566049-jim]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/566049-jim" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 21 Feb 2009 08:08:32 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/27510-the-hottest-places-in-hell-are-reserved-for-those-who</guid>
+		<pubDate>Sat, 21 Feb 2009 08:08:32 -0800</pubDate>
+		<title>
+			<![CDATA[Jim add a quote by John F. Kennedy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/27510-the-hottest-places-in-hell-are-reserved-for-those-who]]>
+		</link>
+		<description>
+	    <![CDATA["The hottest places in hell are reserved for those who, in times of great moral crisis, maintain their neutrality." -- John F. Kennedy]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

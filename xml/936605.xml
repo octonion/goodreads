@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/936605-susan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/936605-susan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 23 Feb 2008 17:20:35 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1961-the-road-not-taken-two-roads-diverged-in-a-yellow</guid>
+		<pubDate>Sat, 23 Feb 2008 17:20:35 -0800</pubDate>
+		<title>
+			<![CDATA[Susan add a quote by Robert Frost]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1961-the-road-not-taken-two-roads-diverged-in-a-yellow]]>
+		</link>
+		<description>
+	    <![CDATA["The Road Not Taken
+
+Two roads diverged in a yellow wood,
+And sorry I could not travel both	
+And be one traveler, long I stood	
+And looked down one as far as I could	
+To where it bent in the undergrowth;	        
+ 
+Then took the other, as just as fair,	
+And having perhaps the better claim,	
+Because it was grassy and wanted wear;	
+Though as for that the passing there	
+Had worn them really about the same,	        
+ 
+And both that morning equally lay	
+In leaves no step had trodden black.	
+Oh, I kept the first for another day!	
+Yet knowing how way leads on to way,	
+I doubted if I should ever come back.	        
+ 
+I shall be telling this with a sigh	
+Somewhere ages and ages hence:	
+Two roads diverged in a wood, and I—	
+I took the one less traveled by,	
+And that has made all the difference." -- Robert Frost]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3831-the-only-people-for-me-are-the-mad-ones-the</guid>
+		<pubDate>Sat, 23 Feb 2008 17:21:02 -0800</pubDate>
+		<title>
+			<![CDATA[Susan add a quote by Jack Kerouac]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3831-the-only-people-for-me-are-the-mad-ones-the]]>
+		</link>
+		<description>
+	    <![CDATA["the only people for me are the mad ones, the ones who are mad to live, mad to talk, mad to be saved, desirous of everything at the same time, the ones who never yawn or say a commonplace thing, but burn, burn, burn like fabulous yellow roman candles exploding like spiders across the stars." -- Jack Kerouac]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

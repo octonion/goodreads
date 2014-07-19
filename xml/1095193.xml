@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1095193-kerri]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1095193-kerri" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 30 Oct 2012 15:56:14 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/485711-my-thoughts-are-stars-i-cannot-fathom-into-constellations</guid>
+		<pubDate>Tue, 30 Oct 2012 15:56:14 -0700</pubDate>
+		<title>
+			<![CDATA[Kerri add a quote by John Green]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/485711-my-thoughts-are-stars-i-cannot-fathom-into-constellations]]>
+		</link>
+		<description>
+	    <![CDATA["My thoughts are stars I cannot fathom into constellations." -- John Green]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/576222-this-duck-tells-me-nothing</guid>
+		<pubDate>Sat, 09 Feb 2013 16:06:54 -0800</pubDate>
+		<title>
+			<![CDATA[Kerri add a quote by Daniel O'Malley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/576222-this-duck-tells-me-nothing]]>
+		</link>
+		<description>
+	    <![CDATA["This duck tells me nothing!" -- Daniel O'Malley]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

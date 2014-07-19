@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/125507-megan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/125507-megan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 19 Mar 2012 05:18:44 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/422395-once-upon-a-time-an-angel-and-a-devil-fell</guid>
+		<pubDate>Mon, 19 Mar 2012 05:18:44 -0700</pubDate>
+		<title>
+			<![CDATA[Megan add a quote by Laini Taylor]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/422395-once-upon-a-time-an-angel-and-a-devil-fell]]>
+		</link>
+		<description>
+	    <![CDATA["Once upon a time, an angel and a devil fell in love. 
+
+It did not end well." -- Laini Taylor]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/460493-love-is-a-luxury-no-love-is-an-element-an</guid>
+		<pubDate>Mon, 19 Mar 2012 05:20:35 -0700</pubDate>
+		<title>
+			<![CDATA[Megan add a quote by Laini Taylor]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/460493-love-is-a-luxury-no-love-is-an-element-an]]>
+		</link>
+		<description>
+	    <![CDATA["Love is a luxury.&quot;
+&quot;No. Love is an element.&quot;
+An element. Like air to breathe, earth to stand on." -- Laini Taylor]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

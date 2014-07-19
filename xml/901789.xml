@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/901789-megan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/901789-megan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 12 Feb 2008 13:38:46 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/987-there-are-only-two-ways-to-live-your-life-one</guid>
+		<pubDate>Tue, 12 Feb 2008 13:38:46 -0800</pubDate>
+		<title>
+			<![CDATA[Megan add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/987-there-are-only-two-ways-to-live-your-life-one]]>
+		</link>
+		<description>
+	    <![CDATA["There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle." -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/11035-no-one-can-make-you-feel-inferior-without-your-consent</guid>
+		<pubDate>Sun, 17 Feb 2008 16:39:58 -0800</pubDate>
+		<title>
+			<![CDATA[Megan add a quote by Eleanor Roosevelt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11035-no-one-can-make-you-feel-inferior-without-your-consent]]>
+		</link>
+		<description>
+	    <![CDATA["No one can make you feel inferior without your consent." -- Eleanor Roosevelt]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2891-simplicity-is-the-ultimate-sophistication</guid>
+		<pubDate>Tue, 12 Feb 2008 13:39:44 -0800</pubDate>
+		<title>
+			<![CDATA[Megan add a quote by Leonardo da Vinci]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2891-simplicity-is-the-ultimate-sophistication]]>
+		</link>
+		<description>
+	    <![CDATA["Simplicity is the ultimate sophistication." -- Leonardo da Vinci]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/66-so-many-books-so-little-time</guid>
+		<pubDate>Tue, 12 Feb 2008 13:42:31 -0800</pubDate>
+		<title>
+			<![CDATA[Megan add a quote by Frank Zappa]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/66-so-many-books-so-little-time]]>
+		</link>
+		<description>
+	    <![CDATA["So many books, so little time." -- Frank Zappa]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

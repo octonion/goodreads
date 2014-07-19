@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/895416-i]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/895416-i" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 19 Nov 2012 23:06:08 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/227321-never-forget-what-you-are-for-surely-the-world-will</guid>
+		<pubDate>Mon, 19 Nov 2012 23:06:08 -0800</pubDate>
+		<title>
+			<![CDATA[I add a quote by George R.R. Martin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/227321-never-forget-what-you-are-for-surely-the-world-will]]>
+		</link>
+		<description>
+	    <![CDATA["Never forget what you are, for surely the world will not. Make it your strength. Then it can never be your weakness. Armour yourself in it, and it will never be used to hurt you." -- George R.R. Martin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

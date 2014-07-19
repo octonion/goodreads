@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/442837-brady-walker]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/442837-brady-walker" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 04 May 2008 20:16:12 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/51313-a-writer-discovers-what-he-knows-as-he-knows-it</guid>
+		<pubDate>Sun, 04 May 2008 20:16:12 -0700</pubDate>
+		<title>
+			<![CDATA[Brady add a quote by Gilbert Sorrentino]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/51313-a-writer-discovers-what-he-knows-as-he-knows-it]]>
+		</link>
+		<description>
+	    <![CDATA["A writer discovers what he knows as he knows it, i.e., as he makes it. No artist writes in order to objectify an “idea” already formed. It is the poem or novel or story that quite precisely tells him what he didn't know he knew: he knows, that is, only in terms of his writing. This is, of course, simply another way of saying that literary composition is not the placing of a held idea into a waiting form." -- Gilbert Sorrentino]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/51314-i-know-how-men-in-exile-feed-on-dreams</guid>
+		<pubDate>Sun, 04 May 2008 20:17:09 -0700</pubDate>
+		<title>
+			<![CDATA[Brady add a quote by Aeschylus]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/51314-i-know-how-men-in-exile-feed-on-dreams]]>
+		</link>
+		<description>
+	    <![CDATA["I know how men in exile feed on dreams" -- Aeschylus]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

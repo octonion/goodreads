@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/856719-alexis]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/856719-alexis" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 08 Feb 2008 13:43:25 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/12617-i-like-living-i-have-sometimes-been-wildly-despairingly-acutely</guid>
+		<pubDate>Fri, 08 Feb 2008 13:43:25 -0800</pubDate>
+		<title>
+			<![CDATA[Alexis add a quote by Agatha Christi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12617-i-like-living-i-have-sometimes-been-wildly-despairingly-acutely]]>
+		</link>
+		<description>
+	    <![CDATA["I like living.  I have sometimes been wildly, despairingly, acutely miserable, racked with sorrow; but through it all I still know quite certainly that just to be alive is a grand thing." -- Agatha Christi]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/8404-curious-things-habits-people-themselves-never-knew-they-had-them</guid>
+		<pubDate>Fri, 08 Feb 2008 13:43:59 -0800</pubDate>
+		<title>
+			<![CDATA[Alexis add a quote by Agatha Christie]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8404-curious-things-habits-people-themselves-never-knew-they-had-them]]>
+		</link>
+		<description>
+	    <![CDATA["Curious things, habits. People themselves never knew they had them. 
+
+[Witness for the Prosecution, also published in The Hound of Death and Other Stories.]" -- Agatha Christie]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

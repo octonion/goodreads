@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/847237-henry]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/847237-henry" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 15 Feb 2008 15:45:07 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/25350-it-had-ceased-raining-in-the-night-and-he-walked</guid>
+		<pubDate>Fri, 15 Feb 2008 15:45:07 -0800</pubDate>
+		<title>
+			<![CDATA[Henry add a quote by Cormac McCarthy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/25350-it-had-ceased-raining-in-the-night-and-he-walked]]>
+		</link>
+		<description>
+	    <![CDATA["It had ceased raining in the night and he walked out on the road and called for the dog. He called and called. Standing in that inexplicable darkness. Where there was no sound anywhere save only the wind. After a while he sat in the road. He took off his hat and placed it on the tarmac before him and he bowed his head and held his face in his hands and wept. He sat there for a long time and after a while the east did gray and after a while the right and godmade sun did rise, once again, for all and without distinction." -- Cormac McCarthy]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

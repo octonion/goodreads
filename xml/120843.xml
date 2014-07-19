@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/120843-laney]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/120843-laney" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 11 Jan 2012 14:34:10 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/485683-i-loved-ophelia-forty-thousand-brothers-could-not-with-all</guid>
+		<pubDate>Wed, 11 Jan 2012 14:34:10 -0800</pubDate>
+		<title>
+			<![CDATA[Laney add a quote by William Shakespeare]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/485683-i-loved-ophelia-forty-thousand-brothers-could-not-with-all]]>
+		</link>
+		<description>
+	    <![CDATA["I loved Ophelia: forty thousand brothers
+Could not, with all their quantity of love,
+Make up my sum. What wilt thou do for her?...
+
+'Swounds, show me what thou'lt do:
+Woo't weep? woo't fight? woo't fast? woo't tear thyself?
+Woo't drink up eisel? eat a crocodile?
+I'll do't. Dost thou come here to whine?
+To outface me with leaping in her grave?
+Be buried quick with her, and so will I:
+And, if thou prate of mountains, let them throw
+Millions of acres on us, till our ground,
+Singeing his pate against the burning zone,
+Make Ossa like a wart! Nay, an thou'lt mouth,
+I'll rant as well as thou." -- William Shakespeare]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

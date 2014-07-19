@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/346414-deena-samhammer]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/346414-deena-samhammer" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 16 Aug 2011 20:31:32 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/423450-but-there-s-something-about-the-night-something-unknown-something-right</guid>
+		<pubDate>Tue, 16 Aug 2011 20:31:32 -0700</pubDate>
+		<title>
+			<![CDATA[Deena add a quote by Christine Kane]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/423450-but-there-s-something-about-the-night-something-unknown-something-right]]>
+		</link>
+		<description>
+	    <![CDATA["But there's something about the night, something unknown. Something right about a girl on her own. Well, there's something inside and it's gonna keep making her strong." -- Christine Kane]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

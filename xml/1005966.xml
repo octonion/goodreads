@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1005966-rica]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1005966-rica" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 04 Jul 2008 07:24:18 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/69925-oh-impossible-fancy-cream-puffs-so-soon-after-breakfast-the</guid>
+		<pubDate>Fri, 04 Jul 2008 07:24:18 -0700</pubDate>
+		<title>
+			<![CDATA[Rica add a quote by Katherine Mansfield]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/69925-oh-impossible-fancy-cream-puffs-so-soon-after-breakfast-the]]>
+		</link>
+		<description>
+	    <![CDATA["Oh, impossible. Fancy cream puffs so soon after breakfast. The very idea made one shudder. All the same, two minutes later Jose and Laura were licking their fingers with that absorbed inward look that only comes from whipped cream. " -- Katherine Mansfield]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/79163-those-are-the-love-killers-they-love-you-and-then</guid>
+		<pubDate>Sun, 03 Aug 2008 08:58:08 -0700</pubDate>
+		<title>
+			<![CDATA[Rica add a quote by Lorrie Moore]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/79163-those-are-the-love-killers-they-love-you-and-then]]>
+		</link>
+		<description>
+	    <![CDATA["Those are the love killers. They love you and then they kill you. They're from another planet. Supposedly." -- Lorrie Moore]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

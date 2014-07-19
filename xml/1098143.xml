@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1098143-debs]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1098143-debs" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 05 Dec 2010 19:24:05 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/48208-the-pure-present-is-an-ungraspable-advance-of-the-past</guid>
+		<pubDate>Sun, 05 Dec 2010 19:24:05 -0800</pubDate>
+		<title>
+			<![CDATA[Debs add a quote by Haruki Murakami]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/48208-the-pure-present-is-an-ungraspable-advance-of-the-past]]>
+		</link>
+		<description>
+	    <![CDATA["The pure present is an ungraspable advance of the past devouring the future. In truth, all sensation is already memory." -- Haruki Murakami]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/13753-people-who-claim-that-they-re-evil-are-usually-no-worse</guid>
+		<pubDate>Sat, 09 Jun 2012 23:36:30 -0700</pubDate>
+		<title>
+			<![CDATA[Debs add a quote by Gregory Maguire]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13753-people-who-claim-that-they-re-evil-are-usually-no-worse]]>
+		</link>
+		<description>
+	    <![CDATA["People who claim that they're evil are usually no worse than the rest of us... It's people who claim that they're good, or any way  better than the rest of us, that you have to be wary of." -- Gregory Maguire]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

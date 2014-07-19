@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/929874-bob-wratz]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/929874-bob-wratz" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 15 Jul 2009 07:00:06 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/28052-it-had-been-startling-and-disappointing-to-me-to-find</guid>
+		<pubDate>Wed, 15 Jul 2009 07:00:06 -0700</pubDate>
+		<title>
+			<![CDATA[Bob add a quote by Eudora Welty]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/28052-it-had-been-startling-and-disappointing-to-me-to-find]]>
+		</link>
+		<description>
+	    <![CDATA["It had been startling and disappointing to me to find out that story books had been written by people, that books were not natural wonders, coming up of themselves like grass.  Yet regardless of where they come from, I cannot remember a time when I was not in love with them -- with the books themselves, cover and binding and the paper they were printed on, with their smell and their weight and with their possession in my arms, captured and carried off to myself.  Still illiterate, I was ready for them, committed to all the reading I could give them ..." -- Eudora Welty]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

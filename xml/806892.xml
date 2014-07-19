@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/806892-betty]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/806892-betty" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 10 Mar 2011 08:01:59 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/67558-send-me-out-into-another-life-lord-because-this-one</guid>
+		<pubDate>Thu, 10 Mar 2011 08:01:59 -0800</pubDate>
+		<title>
+			<![CDATA[Betty add a quote by W.S. Merwin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/67558-send-me-out-into-another-life-lord-because-this-one]]>
+		</link>
+		<description>
+	    <![CDATA["Send me out into another life
+lord because this one is growing faint
+I do not think it goes all the way" -- W.S. Merwin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/112319-ever-notice-how-what-the-hell-is-always-the-right</guid>
+		<pubDate>Thu, 06 Jun 2013 13:03:50 -0700</pubDate>
+		<title>
+			<![CDATA[Betty add a quote by Marilyn Monroe]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/112319-ever-notice-how-what-the-hell-is-always-the-right]]>
+		</link>
+		<description>
+	    <![CDATA["Ever notice how 'What the hell' is always the right answer?" -- Marilyn Monroe]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/908955-my-problem-with-paper-is-that-all-communication-dies</guid>
+		<pubDate>Sun, 13 Oct 2013 13:21:19 -0700</pubDate>
+		<title>
+			<![CDATA[Betty add a quote by Dave Eggers]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/908955-my-problem-with-paper-is-that-all-communication-dies]]>
+		</link>
+		<description>
+	    <![CDATA["(...) my problem with paper is that all communication dies with it. It holds no possibility of continuity." -- Dave Eggers]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

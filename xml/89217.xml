@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/89217-laura-silver]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/89217-laura-silver" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 29 Apr 2014 03:26:20 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/499183-this-evening-which-i-have-tried-to-spirit-away-is</guid>
+		<pubDate>Tue, 29 Apr 2014 03:26:20 -0700</pubDate>
+		<title>
+			<![CDATA[Laura add a quote by Henri Alain-Fournier]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/499183-this-evening-which-i-have-tried-to-spirit-away-is]]>
+		</link>
+		<description>
+	    <![CDATA["This evening, which I have tried to spirit away, is a strange burden to me. While time moves on, while the day will soon end and I already wish it gone, there are men who have entrusted all their hopes to it, all their love and their last efforts. There are dying men or others who are waiting for a debt to come due, who wish that tomorrow would never come. There are others for whom the day will break like a pang of remorse; and others who are tired, for whom the night will never be long enough to give them the rest that they need. And I - who have lost my day - what right do I have to wish that tomorrow comes?" -- Henri Alain-Fournier]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

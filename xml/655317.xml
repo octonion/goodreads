@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/655317-ernesta]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/655317-ernesta" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 10 Jan 2014 17:44:09 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/161018-a-conscious-attempt-to-fall-asleep-is-sure-to-produce</guid>
+		<pubDate>Fri, 10 Jan 2014 17:44:09 -0800</pubDate>
+		<title>
+			<![CDATA[Ernesta add a quote by Boris Pasternak]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/161018-a-conscious-attempt-to-fall-asleep-is-sure-to-produce]]>
+		</link>
+		<description>
+	    <![CDATA["A conscious attempt to fall asleep is sure to produce insomnia, to try to be conscious of one's own digestion is a sure way to upset the stomach.  Consciousness is a poison when we apply it to ourselves.  Consciousness is a light directed outward.  it's like the headlights on a locomotive—turn them inward and you'd have a crash." -- Boris Pasternak]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

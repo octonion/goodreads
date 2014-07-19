@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/227107-janesnextdoor]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/227107-janesnextdoor" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 12 Jan 2014 07:13:16 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/123258-lots-of-people-go-mad-in-january-not-as-many</guid>
+		<pubDate>Sun, 12 Jan 2014 07:13:16 -0800</pubDate>
+		<title>
+			<![CDATA[Janesnextdoor add a quote by Karen Joy Fowler]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/123258-lots-of-people-go-mad-in-january-not-as-many]]>
+		</link>
+		<description>
+	    <![CDATA["Lots of people go mad in January. Not as many as in May, of course. Nor June. But January is your third most common month for madness." -- Karen Joy Fowler]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

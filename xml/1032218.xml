@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1032218-jamie-cooper]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1032218-jamie-cooper" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 15 Mar 2010 00:28:24 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/140324-poetry-is-a-will-to-put-things-right-an-imaginary</guid>
+		<pubDate>Mon, 15 Mar 2010 00:28:24 -0700</pubDate>
+		<title>
+			<![CDATA[Jamie add a quote by Aase Berg]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/140324-poetry-is-a-will-to-put-things-right-an-imaginary]]>
+		</link>
+		<description>
+	    <![CDATA["Poetry is a will to put things right, an imaginary solution, a way of avoiding a catastrophe that already happened. Poetry is an escape, perhaps intelligent, perhaps idiotic, from a senile situation. It is a dialectical movement, it keeps tearing open the wounds while trying to heal them. Here we see the only acceptable path open up towards an existence worthy of human beings. Here the seriousness is unfaltering and absolute. Where it will lead no one knows." -- Aase Berg]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

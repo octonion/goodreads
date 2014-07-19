@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/730150-betty]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/730150-betty" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 31 Dec 2007 19:29:07 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5934-i-ve-learned-that-people-will-forget-what-you-said-people</guid>
+		<pubDate>Mon, 31 Dec 2007 19:29:07 -0800</pubDate>
+		<title>
+			<![CDATA[Betty add a quote by Maya Angelou]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5934-i-ve-learned-that-people-will-forget-what-you-said-people]]>
+		</link>
+		<description>
+	    <![CDATA["I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel." -- Maya Angelou]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/7980-i-can-be-changed-by-what-happens-to-me-but</guid>
+		<pubDate>Mon, 31 Dec 2007 19:29:09 -0800</pubDate>
+		<title>
+			<![CDATA[Betty add a quote by Maya Angelou]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7980-i-can-be-changed-by-what-happens-to-me-but]]>
+		</link>
+		<description>
+	    <![CDATA["I can be changed by what happens to me.  But I refuse to be reduced by it.
+
+(Popular misquote of &quot;You may not control all the events that happen to you, but you can decide not to be reduced by them.&quot;)" -- Maya Angelou]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/335-when-someone-shows-you-who-they-are-believe-them-the</guid>
+		<pubDate>Mon, 31 Dec 2007 19:29:35 -0800</pubDate>
+		<title>
+			<![CDATA[Betty add a quote by Maya Angelou]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/335-when-someone-shows-you-who-they-are-believe-them-the]]>
+		</link>
+		<description>
+	    <![CDATA["When someone shows you who they are believe them; the first time." -- Maya Angelou]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

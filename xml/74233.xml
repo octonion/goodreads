@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/74233-winner-twins]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/74233-winner-twins" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 01 Jul 2012 21:38:11 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/291465-it-has-often-been-said-there-s-so-much-to-be</guid>
+		<pubDate>Sun, 01 Jul 2012 21:38:11 -0700</pubDate>
+		<title>
+			<![CDATA[Winner add a quote by Dr. Seuss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/291465-it-has-often-been-said-there-s-so-much-to-be]]>
+		</link>
+		<description>
+	    <![CDATA["It has often been said
+there’s so much to be read,
+you never can cram
+all those words in your head.
+
+So the writer who breeds
+more words than he needs
+is making a chore
+for the reader who reads.
+
+That's why my belief is
+the briefer the brief is,
+the greater the sigh
+of the reader's relief is.
+
+And that's why your books
+have such power and strength.
+You publish with shorth!
+(Shorth is better than length.)" -- Dr. Seuss]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

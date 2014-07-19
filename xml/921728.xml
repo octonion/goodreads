@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/921728-glen-creason]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/921728-glen-creason" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 15 Jun 2008 15:48:26 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/175415-words-are-but-the-vague-shadows-of-the-volumes-we</guid>
+		<pubDate>Sun, 15 Jun 2008 15:48:26 -0700</pubDate>
+		<title>
+			<![CDATA[Glen add a quote by Theodore Dreiser]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/175415-words-are-but-the-vague-shadows-of-the-volumes-we]]>
+		</link>
+		<description>
+	    <![CDATA["Words are but the vague shadows of the volumes we mean.  Little audible links, they are, chaining together great inaudible feelings and purposes." -- Theodore Dreiser]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/504106-anything-for-a-quiet-life-as-the-man-said-when</guid>
+		<pubDate>Thu, 16 Feb 2012 16:54:24 -0800</pubDate>
+		<title>
+			<![CDATA[Glen add a quote by Charles Dickens]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/504106-anything-for-a-quiet-life-as-the-man-said-when]]>
+		</link>
+		<description>
+	    <![CDATA["Anything for a quiet life; as the man said when he took the situation at the lighthouse." -- Charles Dickens]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

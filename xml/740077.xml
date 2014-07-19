@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/740077-lbower]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/740077-lbower" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 06 Mar 2011 12:12:10 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/153375-out-there-people-are-working-and-arguing-and-laughing-living</guid>
+		<pubDate>Sun, 06 Mar 2011 12:12:10 -0800</pubDate>
+		<title>
+			<![CDATA[LBower add a quote by Kim Addonizio]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/153375-out-there-people-are-working-and-arguing-and-laughing-living]]>
+		</link>
+		<description>
+	    <![CDATA["Out there people are working and arguing and laughing, living their beautiful, terrible lives, falling in love and having babies and being bored out of their skulls and feeling depressed, then being consoled by some little thing like watching the patterns the light makes through the leaves of trees, casting shadows on the sidewalks.
+I remember the line from that poem now.
+Downward to darkness, on extended wings." -- Kim Addonizio]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

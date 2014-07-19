@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/425310-dina-begum]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/425310-dina-begum" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 10 Aug 2011 01:06:30 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1198-i-am-so-clever-that-sometimes-i-don-t-understand-a</guid>
+		<pubDate>Wed, 10 Aug 2011 01:06:30 -0700</pubDate>
+		<title>
+			<![CDATA[Dina add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1198-i-am-so-clever-that-sometimes-i-don-t-understand-a]]>
+		</link>
+		<description>
+	    <![CDATA["I am so clever that sometimes I don't understand a single word of what I am saying." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/12415-it-is-our-choices-harry-that-show-what-we-truly</guid>
+		<pubDate>Sat, 21 Apr 2012 06:23:59 -0700</pubDate>
+		<title>
+			<![CDATA[Dina add a quote by J.K. Rowling]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12415-it-is-our-choices-harry-that-show-what-we-truly]]>
+		</link>
+		<description>
+	    <![CDATA["It is our choices, Harry, that show what we truly are, far more than our abilities." -- J.K. Rowling]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

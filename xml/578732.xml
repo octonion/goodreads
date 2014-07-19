@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/578732-melanie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/578732-melanie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 04 Jul 2008 13:27:48 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/30763-i-could-live-there-all-alone-she-thought-slowing-the</guid>
+		<pubDate>Fri, 04 Jul 2008 13:27:48 -0700</pubDate>
+		<title>
+			<![CDATA[Melanie add a quote by Shirley Jackson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/30763-i-could-live-there-all-alone-she-thought-slowing-the]]>
+		</link>
+		<description>
+	    <![CDATA["I could live there all alone, she thought, slowing the car to look down the winding garden path to the small blue front door with, perfectly, a white cat on the step. No one would ever find me there, either, behind all those roses, and just to make sure I would plant oleanders by the road. I will light a fire in the cool evenings and toast apples at my own hearth. I will raise white cats and sew white curtains for the windows and sometimes come out of my door to go to the store to buy cinnamon and tea and thread. People will come to me to have their fortunes told, and I will brew love potions for sad maidens; I will have a robin..." -- Shirley Jackson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

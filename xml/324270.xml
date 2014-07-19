@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/324270-jon]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/324270-jon" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 19 Jan 2009 13:07:18 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/876-to-be-yourself-in-a-world-that-is-constantly-trying</guid>
+		<pubDate>Mon, 19 Jan 2009 13:07:18 -0800</pubDate>
+		<title>
+			<![CDATA[Jon add a quote by Ralph Waldo Emerson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/876-to-be-yourself-in-a-world-that-is-constantly-trying]]>
+		</link>
+		<description>
+	    <![CDATA["To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment." -- Ralph Waldo Emerson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2178-as-if-you-could-kill-time-without-injuring-eternity</guid>
+		<pubDate>Thu, 10 Feb 2011 19:07:18 -0800</pubDate>
+		<title>
+			<![CDATA[Jon add a quote by Henry David Thoreau]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2178-as-if-you-could-kill-time-without-injuring-eternity]]>
+		</link>
+		<description>
+	    <![CDATA["As if you could kill time without injuring eternity." -- Henry David Thoreau]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

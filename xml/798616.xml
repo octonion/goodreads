@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/798616-ravi]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/798616-ravi" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 04 Sep 2012 08:54:35 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/207115-a-word-is-a-bud-attempting-to-become-a-twig</guid>
+		<pubDate>Tue, 04 Sep 2012 08:54:35 -0700</pubDate>
+		<title>
+			<![CDATA[Ravi add a quote by Gaston Bachelard]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/207115-a-word-is-a-bud-attempting-to-become-a-twig]]>
+		</link>
+		<description>
+	    <![CDATA["A word is a bud attempting to become a twig. How can one not dream while writing? It is the pen which dreams. The blank page gives the right to dream." -- Gaston Bachelard]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/20377-i-should-say-the-house-shelters-day-dreaming-the-house-protects</guid>
+		<pubDate>Tue, 04 Sep 2012 08:57:43 -0700</pubDate>
+		<title>
+			<![CDATA[Ravi add a quote by Gaston Bachelard ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20377-i-should-say-the-house-shelters-day-dreaming-the-house-protects]]>
+		</link>
+		<description>
+	    <![CDATA["I should say: the house shelters day-dreaming, the house protects the dreamer, the house allows one to dream in peace." -- Gaston Bachelard ]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/91632-ac]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/91632-ac" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 17 Dec 2010 16:35:41 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/164692-i-turn-my-head-from-side-to-side</guid>
+		<pubDate>Fri, 17 Dec 2010 16:35:41 -0800</pubDate>
+		<title>
+			<![CDATA[AC add a quote by Robert M. Pirsig]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/164692-i-turn-my-head-from-side-to-side]]>
+		</link>
+		<description>
+	    <![CDATA["I turn my head from side to side." -- Robert M. Pirsig]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

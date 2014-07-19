@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/50676-eric-herron]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/50676-eric-herron" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 03 Feb 2014 10:21:20 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/942-two-things-are-infinite-the-universe-and-human-stupidity-and</guid>
+		<pubDate>Mon, 03 Feb 2014 10:21:20 -0800</pubDate>
+		<title>
+			<![CDATA[Eric add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/942-two-things-are-infinite-the-universe-and-human-stupidity-and]]>
+		</link>
+		<description>
+	    <![CDATA["Two things are infinite: the universe and human stupidity; and I'm not sure about the universe." -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/133515-when-spring-came-even-the-false-spring-there-were-no</guid>
+		<pubDate>Thu, 20 Mar 2014 09:57:12 -0700</pubDate>
+		<title>
+			<![CDATA[Eric add a quote by Ernest Hemingway]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/133515-when-spring-came-even-the-false-spring-there-were-no]]>
+		</link>
+		<description>
+	    <![CDATA["When spring came, even the false spring, there were no problems except where to be happiest.  The only thing that could spoil a day was people and if you could keep from making engagements, each day had no limits.  People were always the limiters of happiness except for the very few that were as good as spring itself." -- Ernest Hemingway]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

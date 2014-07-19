@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/316844-kim-taylor]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/316844-kim-taylor" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 14 Oct 2013 13:33:17 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3806-his-philosophy-was-a-mixture-of-three-famous-schools---</guid>
+		<pubDate>Mon, 14 Oct 2013 13:33:17 -0700</pubDate>
+		<title>
+			<![CDATA[Kim add a quote by Terry Pratchett]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3806-his-philosophy-was-a-mixture-of-three-famous-schools---]]>
+		</link>
+		<description>
+	    <![CDATA["His philosophy was a mixture of three famous schools -- the Cynics, the Stoics and the Epicureans -- and summed up all three of them in his famous phrase, 'You can't trust any bugger further than you can throw him, and there's nothing you can do about it, so let's have a drink." -- Terry Pratchett]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/86247-getting-an-education-was-a-bit-like-a-communicable-sexual</guid>
+		<pubDate>Mon, 14 Oct 2013 13:33:23 -0700</pubDate>
+		<title>
+			<![CDATA[Kim add a quote by Terry Pratchett]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/86247-getting-an-education-was-a-bit-like-a-communicable-sexual]]>
+		</link>
+		<description>
+	    <![CDATA["Getting an education was a bit like a communicable sexual disease. It made you unsuitable for a lot of jobs and then you had the urge to pass it on." -- Terry Pratchett]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

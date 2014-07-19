@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/998079-mutiara]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/998079-mutiara" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 25 Mar 2008 02:46:30 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3179-it-is-an-ironic-habit-of-human-beings-to-run</guid>
+		<pubDate>Tue, 25 Mar 2008 02:46:30 -0700</pubDate>
+		<title>
+			<![CDATA[Mutiara add a quote by Rollo May]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3179-it-is-an-ironic-habit-of-human-beings-to-run]]>
+		</link>
+		<description>
+	    <![CDATA["It is an ironic habit of human beings to run faster when they have lost their way." -- Rollo May]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1173-don-t-cry-because-it-s-over-smile-because-it-happened</guid>
+		<pubDate>Fri, 18 Apr 2008 01:36:10 -0700</pubDate>
+		<title>
+			<![CDATA[Mutiara add a quote by Dr. Seuss ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1173-don-t-cry-because-it-s-over-smile-because-it-happened]]>
+		</link>
+		<description>
+	    <![CDATA["Don't cry because it's over, smile because it happened." -- Dr. Seuss ]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

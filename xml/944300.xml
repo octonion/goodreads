@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/944300-mindie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/944300-mindie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 25 Aug 2008 05:48:20 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/8021-i-sound-my-barbaric-yawp-over-the-rooftops-of-the</guid>
+		<pubDate>Mon, 25 Aug 2008 05:48:20 -0700</pubDate>
+		<title>
+			<![CDATA[Mindie add a quote by Walt Whitman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8021-i-sound-my-barbaric-yawp-over-the-rooftops-of-the]]>
+		</link>
+		<description>
+	    <![CDATA["I sound my barbaric yawp over the rooftops of the world." -- Walt Whitman]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1922-resist-much-obey-little</guid>
+		<pubDate>Tue, 18 Mar 2008 20:52:01 -0700</pubDate>
+		<title>
+			<![CDATA[Mindie add a quote by Walt Whitman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1922-resist-much-obey-little]]>
+		</link>
+		<description>
+	    <![CDATA["Resist much, obey little." -- Walt Whitman]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/57688-i-hate-writing-i-love-having-written</guid>
+		<pubDate>Sat, 20 Jun 2009 10:13:23 -0700</pubDate>
+		<title>
+			<![CDATA[Mindie add a quote by Dorothy Parker]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/57688-i-hate-writing-i-love-having-written]]>
+		</link>
+		<description>
+	    <![CDATA["I hate writing, I love having written." -- Dorothy Parker]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1121246-the-communication-between-the-brain-and-the-heart-is-a</guid>
+		<pubDate>Mon, 10 Mar 2014 21:47:04 -0700</pubDate>
+		<title>
+			<![CDATA[Mindie add a quote by Mindie Kniss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1121246-the-communication-between-the-brain-and-the-heart-is-a]]>
+		</link>
+		<description>
+	    <![CDATA["The communication between the brain and the heart is a two-way dialogue." -- Mindie Kniss]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

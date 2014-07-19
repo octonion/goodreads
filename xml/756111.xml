@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/756111-carolyn]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/756111-carolyn" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 26 Jan 2013 05:34:38 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/589276-miracles-do-happen-you-must-believe-this-no-matter-what</guid>
+		<pubDate>Sat, 26 Jan 2013 05:34:38 -0800</pubDate>
+		<title>
+			<![CDATA[Carolyn add a quote by Augusten Burroughs]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/589276-miracles-do-happen-you-must-believe-this-no-matter-what]]>
+		</link>
+		<description>
+	    <![CDATA["Miracles do happen. You must believe this. No matter what else you believe about life, you must believe in miracles. Because we are all, every one of us, living on a round rock that spins around and around at almost a quarter of a million miles per hour in an unthinkably vast blackness called space. There is nothing else like us for as far as our telescopic eyes can see. In a universe filled with spinning, barren rocks, frozen gas, ice, dust, and radiation, we live on a planet filled with soft, green leaves and salty oceans and honey made from bees, which themselves live within geometrically complex and perfect structures of their own architecture and creation. In our trees are birds whose songs are as complex and nuanced as Beethoven’s greatest sonatas. And despite the wild, endless spinning of our planet and its never-ending orbit around the sun–itself a star on fire–when we pour water into a glass, the water stays in the glass. All of these are miracles." -- Augusten Burroughs]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

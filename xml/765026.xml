@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/765026-rebecca]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/765026-rebecca" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 16 Sep 2011 23:21:44 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/32896-if-you-are-irritated-by-every-rub-how-will-your</guid>
+		<pubDate>Fri, 16 Sep 2011 23:21:44 -0700</pubDate>
+		<title>
+			<![CDATA[Rebecca add a quote by Rumi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/32896-if-you-are-irritated-by-every-rub-how-will-your]]>
+		</link>
+		<description>
+	    <![CDATA["If you are irritated by every rub, how will your mirror be polished?" -- Rumi]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/646526-there-is-only-one-good-knowledge-and-one-evil-ignorance</guid>
+		<pubDate>Sat, 20 Oct 2012 13:03:59 -0700</pubDate>
+		<title>
+			<![CDATA[Rebecca add a quote by Socrates]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/646526-there-is-only-one-good-knowledge-and-one-evil-ignorance]]>
+		</link>
+		<description>
+	    <![CDATA["There is only one good, knowledge, and one evil, ignorance." -- Socrates]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/451680-and-so-being-young-and-dipped-in-folly-i-fell</guid>
+		<pubDate>Wed, 17 Jul 2013 23:30:51 -0700</pubDate>
+		<title>
+			<![CDATA[Rebecca add a quote by Edgar Allan Poe]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/451680-and-so-being-young-and-dipped-in-folly-i-fell]]>
+		</link>
+		<description>
+	    <![CDATA["And so being young and dipped in folly I fell in love with melancholy." -- Edgar Allan Poe]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/785-music-was-my-refuge-i-could-crawl-into-the-space</guid>
+		<pubDate>Wed, 21 Aug 2013 22:18:27 -0700</pubDate>
+		<title>
+			<![CDATA[Rebecca add a quote by Maya Angelou]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/785-music-was-my-refuge-i-could-crawl-into-the-space]]>
+		</link>
+		<description>
+	    <![CDATA["Music was my refuge.  I could crawl into the space between the notes and curl my back to loneliness." -- Maya Angelou]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/790777-elise-doshier]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/790777-elise-doshier" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 27 Jan 2008 15:42:21 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/18254-ainsi-notre-c-ur-change-dans-la-vie-et-c-est-la</guid>
+		<pubDate>Sun, 27 Jan 2008 15:42:21 -0800</pubDate>
+		<title>
+			<![CDATA[Elise add a quote by Marcel Proust]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18254-ainsi-notre-c-ur-change-dans-la-vie-et-c-est-la]]>
+		</link>
+		<description>
+	    <![CDATA["Ainsi notre cœur change, dans la vie, et c’est la pire douleur; mais nous ne la connaissons que dans la lecture, en imagination: dans la réalité il change, comme certains phénomènes de la nature se produisent, assez lentement pour que, si nous pouvons constater successivement chacun de ses états différents, en revanche la sensation même du changement nous soit épargnée.
+Trans. The heart changes, and it is our worst sorrow; but we know it only through reading, through our imagination: in reality its alteration, like that of certain natural phenomena, is so gradual that, even if we are able to distinguish, successively, each of its different states, we are still spared the actual sensation of change." -- Marcel Proust]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

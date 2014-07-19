@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1024721-claire]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1024721-claire" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 07 Jan 2009 08:43:44 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5882-it-is-a-truth-universally-acknowledged-that-a-single-man</guid>
+		<pubDate>Wed, 07 Jan 2009 08:43:44 -0800</pubDate>
+		<title>
+			<![CDATA[Claire add a quote by Jane Austen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5882-it-is-a-truth-universally-acknowledged-that-a-single-man]]>
+		</link>
+		<description>
+	    <![CDATA["It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife." -- Jane Austen]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/11745-do-not-go-gentle-into-that-good-night-old-age</guid>
+		<pubDate>Fri, 28 Mar 2008 08:30:24 -0700</pubDate>
+		<title>
+			<![CDATA[Claire add a quote by Dylan Thomas]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11745-do-not-go-gentle-into-that-good-night-old-age]]>
+		</link>
+		<description>
+	    <![CDATA["Do not go gentle into that good night,
+Old age should burn and rave at close of day;
+Rage, rage against the dying of the light." -- Dylan Thomas]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/16697-somebody-s-boring-me-i-think-it-s-me</guid>
+		<pubDate>Fri, 28 Mar 2008 08:30:27 -0700</pubDate>
+		<title>
+			<![CDATA[Claire add a quote by Dylan Thomas]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16697-somebody-s-boring-me-i-think-it-s-me]]>
+		</link>
+		<description>
+	    <![CDATA["Somebody's boring me. I think it's me." -- Dylan Thomas]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

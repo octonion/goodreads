@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1094453-alvin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1094453-alvin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 19 Apr 2008 04:33:50 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/46205-don-t-work-for-god-but-work-with-god</guid>
+		<pubDate>Sat, 19 Apr 2008 04:33:50 -0700</pubDate>
+		<title>
+			<![CDATA[alvin add a quote by vin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/46205-don-t-work-for-god-but-work-with-god]]>
+		</link>
+		<description>
+	    <![CDATA["Don't work for God but work with God.
+
+" -- vin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

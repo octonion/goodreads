@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/739853-steve]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/739853-steve" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 20 Feb 2010 19:53:15 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/233380-the-sense-of-literary-creation-is-to-portray-ordinary-objects</guid>
+		<pubDate>Sat, 20 Feb 2010 19:53:15 -0800</pubDate>
+		<title>
+			<![CDATA[Steve add a quote by Vladimir Nabokov]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/233380-the-sense-of-literary-creation-is-to-portray-ordinary-objects]]>
+		</link>
+		<description>
+	    <![CDATA["The sense of literary creation is to portray ordinary objects as they will be reflected in the kindly mirrors of future times; to find in the objects around us the fragrant tenderness that only posterity will discern and appreciate in far-off times when every trifle of our plain everyday life will become exquisite and festive in its own right: the times when a man who might put on the most ordinary jacket of today will be dressed up for an elegant masquerade." -- Vladimir Nabokov]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

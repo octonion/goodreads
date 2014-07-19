@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/898388-michael]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/898388-michael" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 01 Feb 2009 21:51:07 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/44971-my-best-friend-is-a-person-who-will-give-me</guid>
+		<pubDate>Sun, 01 Feb 2009 21:51:07 -0800</pubDate>
+		<title>
+			<![CDATA[Michael add a quote by Abraham Lincoln]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/44971-my-best-friend-is-a-person-who-will-give-me]]>
+		</link>
+		<description>
+	    <![CDATA["My Best Friend is a person who will give me a book I have not read." -- Abraham Lincoln]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/136462-the-seat-received-him-in-a-loose-and-distant-kind</guid>
+		<pubDate>Sun, 01 Feb 2009 22:09:35 -0800</pubDate>
+		<title>
+			<![CDATA[Michael add a quote by Douglas Adams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/136462-the-seat-received-him-in-a-loose-and-distant-kind]]>
+		</link>
+		<description>
+	    <![CDATA["The seat received him in a loose and distant kind of way, like an aunt who disapproves of the last fifteen years of your life and will therefore furnish you with a basic sherry, but refuses to catch your eye." -- Douglas Adams]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

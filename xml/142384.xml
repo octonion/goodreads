@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/142384-matthew-snope]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/142384-matthew-snope" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 17 Sep 2013 17:31:35 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/896134-my-sexual-activity-was-all-with-animals-first-there-were</guid>
+		<pubDate>Tue, 17 Sep 2013 17:31:35 -0700</pubDate>
+		<title>
+			<![CDATA[Matthew add a quote by Reinaldo Arenas]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/896134-my-sexual-activity-was-all-with-animals-first-there-were]]>
+		</link>
+		<description>
+	    <![CDATA["My sexual activity was all with animals. First there were the hens, then the goats and the sows, and after I had grown up some more, the mares." -- Reinaldo Arenas]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/88615-poppy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/88615-poppy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 22 Nov 2009 20:08:06 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/209205-when-you-re-a-writer-the-question-people-always-ask-you</guid>
+		<pubDate>Sun, 22 Nov 2009 20:08:06 -0800</pubDate>
+		<title>
+			<![CDATA[Poppy add a quote by Connie Willis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/209205-when-you-re-a-writer-the-question-people-always-ask-you]]>
+		</link>
+		<description>
+	    <![CDATA["When you're a writer, the question people always ask you is, &quot;Where do you get your ideas?&quot; Writers hate this question. It's like asking Humphrey Bogart in The African Queen, &quot;Where do you get your leeches?&quot; You don't get ideas. Ideas get you." -- Connie Willis]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/271184-passion-for-books-is-the-most-important-thing-in-being</guid>
+		<pubDate>Thu, 24 Jun 2010 18:49:37 -0700</pubDate>
+		<title>
+			<![CDATA[Poppy add a quote by Listiana Srisanti]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/271184-passion-for-books-is-the-most-important-thing-in-being]]>
+		</link>
+		<description>
+	    <![CDATA["Passion for books is the most important thing in being an editor/translator. Work with love." -- Listiana Srisanti]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

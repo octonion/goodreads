@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/644345-maija]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/644345-maija" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 03 Nov 2013 17:23:01 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/108645-f-reedom-isn-t-free-it-shouldn-t-be-a-bragging-point-that</guid>
+		<pubDate>Sun, 03 Nov 2013 17:23:01 -0800</pubDate>
+		<title>
+			<![CDATA[Maija add a quote by Bill Maher]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/108645-f-reedom-isn-t-free-it-shouldn-t-be-a-bragging-point-that]]>
+		</link>
+		<description>
+	    <![CDATA["[F]reedom isn't free. It shouldn't be a bragging point that &quot;Oh, I don't get involved in politics,&quot; as if that makes you somehow cleaner.  No, that makes you derelict of duty in a republic.  Liars and panderers in government would have a much harder time of it if so many people didn't insist on their right to remain ignorant and blindly agreeable." -- Bill Maher]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

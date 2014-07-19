@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/882489-bobandy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/882489-bobandy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 18 Nov 2013 16:04:34 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/944598-i-can-t-say-i-m-overwhelmed-with-surprise-i-m-88-years</guid>
+		<pubDate>Mon, 18 Nov 2013 16:04:34 -0800</pubDate>
+		<title>
+			<![CDATA[BoBandy add a quote by Doris Lessing]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/944598-i-can-t-say-i-m-overwhelmed-with-surprise-i-m-88-years]]>
+		</link>
+		<description>
+	    <![CDATA["I can't say I'm overwhelmed with surprise. I'm 88 years old and they can't give the Nobel to someone who's dead, so I think they were probably thinking they'd probably better give it to me now before I've popped off." -- Doris Lessing]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/128587-to-feel-the-love-of-people-whom-we-love-is</guid>
+		<pubDate>Fri, 07 Mar 2014 05:17:10 -0800</pubDate>
+		<title>
+			<![CDATA[BoBandy add a quote by Pablo Neruda]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/128587-to-feel-the-love-of-people-whom-we-love-is]]>
+		</link>
+		<description>
+	    <![CDATA["To feel the love of people whom we love is a fire that feeds our life." -- Pablo Neruda]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

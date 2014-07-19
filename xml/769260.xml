@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/769260-aulii-limtiaco]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/769260-aulii-limtiaco" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 18 Jan 2008 05:21:41 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4454-three-rings-for-the-elven-kings-under-the-sky-seven-for</guid>
+		<pubDate>Fri, 18 Jan 2008 05:21:41 -0800</pubDate>
+		<title>
+			<![CDATA[Aulii add a quote by J. R. R. Tolkien]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4454-three-rings-for-the-elven-kings-under-the-sky-seven-for]]>
+		</link>
+		<description>
+	    <![CDATA["Three Rings for the Elven-kings under the sky,
+ Seven for the Dwarf-lords in halls of stone,
+Nine for Mortal Men, doomed to die,
+ One for the Dark Lord on his dark throne
+In the Land of Mordor where the Shadows lie.
+ One Ring to rule them all, One Ring to find them,
+ One Ring to bring them all and in the darkness bind them.
+In the Land of Mordor where the Shadows lie." -- J. R. R. Tolkien]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/184404-david-press]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/184404-david-press" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 06 Nov 2012 07:17:40 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1519-i-believe-that-imagination-is-stronger-than-knowledge-that-myth</guid>
+		<pubDate>Tue, 06 Nov 2012 07:17:40 -0800</pubDate>
+		<title>
+			<![CDATA[David add a quote by Robert Fulghum]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1519-i-believe-that-imagination-is-stronger-than-knowledge-that-myth]]>
+		</link>
+		<description>
+	    <![CDATA["I believe that imagination is stronger than knowledge. That myth is more potent than history. That dreams are more powerful than facts. That hope always triumphs over experience. That laughter is the only cure for grief. And I believe that love is stronger than death." -- Robert Fulghum]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

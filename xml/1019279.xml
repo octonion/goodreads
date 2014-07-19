@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1019279-roger]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1019279-roger" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 14 Dec 2010 09:21:16 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/94609-properly-read-the-bible-is-the-most-potent-force-for</guid>
+		<pubDate>Tue, 14 Dec 2010 09:21:16 -0800</pubDate>
+		<title>
+			<![CDATA[Roger add a quote by Isaac Asimov]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/94609-properly-read-the-bible-is-the-most-potent-force-for]]>
+		</link>
+		<description>
+	    <![CDATA["Properly read, the Bible is the most potent force for atheism ever conceived." -- Isaac Asimov]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2599-if-my-doctor-told-me-i-had-only-six-minutes</guid>
+		<pubDate>Tue, 14 Dec 2010 09:21:20 -0800</pubDate>
+		<title>
+			<![CDATA[Roger add a quote by Isaac Asimov]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2599-if-my-doctor-told-me-i-had-only-six-minutes]]>
+		</link>
+		<description>
+	    <![CDATA["If my doctor told me I had only six minutes to live, I wouldn't brood.  I'd type a little faster." -- Isaac Asimov]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

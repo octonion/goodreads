@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/845773-katharine]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/845773-katharine" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 25 Mar 2013 12:28:44 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2913-substitute-damn-every-time-you-re-inclined-to-write-very-your</guid>
+		<pubDate>Mon, 25 Mar 2013 12:28:44 -0700</pubDate>
+		<title>
+			<![CDATA[Katharine add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2913-substitute-damn-every-time-you-re-inclined-to-write-very-your]]>
+		</link>
+		<description>
+	    <![CDATA["Substitute 'damn' every time you're inclined to write 'very;' your editor will delete it and the writing will be just as it should be." -- Mark Twain]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

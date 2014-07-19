@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/219638-sarah]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/219638-sarah" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 07 Oct 2013 18:32:51 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/72741-john-muir-earth-planet-universe-muir-s-home-address-as</guid>
+		<pubDate>Mon, 07 Oct 2013 18:32:51 -0700</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by John Muir]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/72741-john-muir-earth-planet-universe-muir-s-home-address-as]]>
+		</link>
+		<description>
+	    <![CDATA["John Muir, Earth — planet, Universe
+
+[&lt;i&gt;Muir's home address, as inscribed on the inside front cover of his first field journal&lt;/i&gt;]" -- John Muir]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/21357-something-will-have-gone-out-of-us-as-a-people</guid>
+		<pubDate>Thu, 19 Jun 2014 09:57:33 -0700</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by Wallace Stegner]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21357-something-will-have-gone-out-of-us-as-a-people]]>
+		</link>
+		<description>
+	    <![CDATA["Something will have gone out of us as a people if we ever let the remaining wilderness be destroyed ... We simply need that wild country available to us, even if we never do more than drive to its edge and look in." -- Wallace Stegner]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

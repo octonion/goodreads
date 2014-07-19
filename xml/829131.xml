@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/829131-megan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/829131-megan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 18 Feb 2008 13:36:35 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/865-be-who-you-are-and-say-what-you-feel-because</guid>
+		<pubDate>Mon, 18 Feb 2008 13:36:35 -0800</pubDate>
+		<title>
+			<![CDATA[Megan add a quote by Bernard M. Baruch]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/865-be-who-you-are-and-say-what-you-feel-because]]>
+		</link>
+		<description>
+	    <![CDATA["Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind." -- Bernard M. Baruch]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/11035-no-one-can-make-you-feel-inferior-without-your-consent</guid>
+		<pubDate>Mon, 18 Feb 2008 13:37:13 -0800</pubDate>
+		<title>
+			<![CDATA[Megan add a quote by Eleanor Roosevelt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11035-no-one-can-make-you-feel-inferior-without-your-consent]]>
+		</link>
+		<description>
+	    <![CDATA["No one can make you feel inferior without your consent." -- Eleanor Roosevelt]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/26110-you-wouldn-t-worry-so-much-about-what-others-think-of</guid>
+		<pubDate>Mon, 18 Feb 2008 13:43:44 -0800</pubDate>
+		<title>
+			<![CDATA[Megan add a quote by Eleanor Roosevelt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/26110-you-wouldn-t-worry-so-much-about-what-others-think-of]]>
+		</link>
+		<description>
+	    <![CDATA["You wouldn't worry so much about what others think of you if you realized how seldom they do." -- Eleanor Roosevelt]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

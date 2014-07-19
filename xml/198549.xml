@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/198549-lee-houck]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/198549-lee-houck" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 15 Feb 2012 11:32:28 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/289737-my-goal-is-to-always-come-from-a-place-of</guid>
+		<pubDate>Wed, 15 Feb 2012 11:32:28 -0800</pubDate>
+		<title>
+			<![CDATA[Lee add a quote by Rupaul]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/289737-my-goal-is-to-always-come-from-a-place-of]]>
+		</link>
+		<description>
+	    <![CDATA["my goal is to always come from a place of love ...but sometimes you just have to break it down for a motherfucker" -- Rupaul]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

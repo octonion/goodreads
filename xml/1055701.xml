@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1055701-julie-mcnelis]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1055701-julie-mcnelis" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 05 Apr 2008 23:59:32 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/22454-my-grandmother-started-walking-five-miles-a-day-when-she</guid>
+		<pubDate>Sat, 05 Apr 2008 23:59:32 -0700</pubDate>
+		<title>
+			<![CDATA[Julie add a quote by Ellen DeGeneres]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22454-my-grandmother-started-walking-five-miles-a-day-when-she]]>
+		</link>
+		<description>
+	    <![CDATA["My grandmother started walking five miles a day when she was sixty. She's ninety-seven now, and we don't know where the heck she is." -- Ellen DeGeneres]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/41984-i-am-not-in-this-world-to-live-up-to</guid>
+		<pubDate>Sun, 06 Apr 2008 00:03:38 -0700</pubDate>
+		<title>
+			<![CDATA[Julie add a quote by Fritz Perls]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/41984-i-am-not-in-this-world-to-live-up-to]]>
+		</link>
+		<description>
+	    <![CDATA["I am not in this world to live up to other people's expectations, nor do I feel that the world must live up to mine." -- Fritz Perls]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

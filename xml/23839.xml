@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/23839-andrea]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/23839-andrea" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 13 Jan 2013 06:05:26 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/538360-let-all-of-life-be-an-unfettered-howl-like-the</guid>
+		<pubDate>Sun, 13 Jan 2013 06:05:26 -0800</pubDate>
+		<title>
+			<![CDATA[andrea add a quote by Vladimir Nabokov]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/538360-let-all-of-life-be-an-unfettered-howl-like-the]]>
+		</link>
+		<description>
+	    <![CDATA["Let all of life be an unfettered howl. Like the crowd greeting the gladiator. Don't stop to think, don't interrupt the scream, exhale, release life's rapture." -- Vladimir Nabokov]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/18131-life-is-a-great-surprise-i-do-not-see-why</guid>
+		<pubDate>Sun, 13 Jan 2013 06:11:37 -0800</pubDate>
+		<title>
+			<![CDATA[andrea add a quote by Vladimir Nabokov]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18131-life-is-a-great-surprise-i-do-not-see-why]]>
+		</link>
+		<description>
+	    <![CDATA["Life is a great surprise. I do not see why death should not be an even greater one." -- Vladimir Nabokov]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

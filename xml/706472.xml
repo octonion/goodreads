@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/706472-sofia]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/706472-sofia" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 13 Mar 2013 13:08:55 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/147806-we-can-judge-our-progress-by-the-courage-of-our</guid>
+		<pubDate>Wed, 13 Mar 2013 13:08:55 -0700</pubDate>
+		<title>
+			<![CDATA[Sofia add a quote by Carl Sagan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/147806-we-can-judge-our-progress-by-the-courage-of-our]]>
+		</link>
+		<description>
+	    <![CDATA["We can judge our progress by the courage of our questions and the depth of our answers, our willingness to embrace what is true rather than what feels good." -- Carl Sagan]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

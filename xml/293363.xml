@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/293363-kathy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/293363-kathy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 22 Nov 2013 10:39:10 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5399-if-you-want-to-know-what-a-man-s-like-take</guid>
+		<pubDate>Fri, 22 Nov 2013 10:39:10 -0800</pubDate>
+		<title>
+			<![CDATA[Kathy add a quote by J.K. Rowling]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5399-if-you-want-to-know-what-a-man-s-like-take]]>
+		</link>
+		<description>
+	    <![CDATA["If you want to know what a man's like, take a good look at how he treats his inferiors, not his equals." -- J.K. Rowling]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/122694-god-save-us-from-religion</guid>
+		<pubDate>Tue, 03 Jun 2014 12:01:00 -0700</pubDate>
+		<title>
+			<![CDATA[Kathy add a quote by David Eddings]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/122694-god-save-us-from-religion]]>
+		</link>
+		<description>
+	    <![CDATA["God save us from religion." -- David Eddings]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

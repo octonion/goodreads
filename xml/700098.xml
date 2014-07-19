@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/700098-natalie-elliott]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/700098-natalie-elliott" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 19 Dec 2007 17:43:32 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/61-the-best-way-to-predict-the-future-is-to-invent</guid>
+		<pubDate>Wed, 19 Dec 2007 17:43:32 -0800</pubDate>
+		<title>
+			<![CDATA[Natalie add a quote by Alan Kay]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/61-the-best-way-to-predict-the-future-is-to-invent]]>
+		</link>
+		<description>
+	    <![CDATA["The best way to predict the future is to invent it." -- Alan Kay]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3086-the-only-thing-that-scares-me-more-than-space-aliens</guid>
+		<pubDate>Wed, 19 Dec 2007 17:47:01 -0800</pubDate>
+		<title>
+			<![CDATA[Natalie add a quote by Ellen DeGeneres ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3086-the-only-thing-that-scares-me-more-than-space-aliens]]>
+		</link>
+		<description>
+	    <![CDATA["The only thing that scares me more than space aliens is the idea that there aren't any space aliens. We can't be the best that creation has to offer. I pray we're not all there is. If so, we're in big trouble." -- Ellen DeGeneres ]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

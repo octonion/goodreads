@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/904934-tony]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/904934-tony" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 03 Dec 2009 08:05:42 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1598-you-only-live-once-but-if-you-do-it-right</guid>
+		<pubDate>Thu, 03 Dec 2009 08:05:42 -0800</pubDate>
+		<title>
+			<![CDATA[Tony add a quote by Mae West]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1598-you-only-live-once-but-if-you-do-it-right]]>
+		</link>
+		<description>
+	    <![CDATA["You only live once, but if you do it right, once is enough." -- Mae West]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/16949-a-friend-is-someone-who-knows-all-about-you-and</guid>
+		<pubDate>Wed, 09 Dec 2009 08:35:09 -0800</pubDate>
+		<title>
+			<![CDATA[Tony add a quote by Elbert Hubbard]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16949-a-friend-is-someone-who-knows-all-about-you-and]]>
+		</link>
+		<description>
+	    <![CDATA["A friend is someone who knows all about you and still loves you." -- Elbert Hubbard]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/17041-draw-a-crazy-picture-write-a-nutty-poem-sing-a</guid>
+		<pubDate>Wed, 09 Dec 2009 08:52:18 -0800</pubDate>
+		<title>
+			<![CDATA[Tony add a quote by Shel Silverstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17041-draw-a-crazy-picture-write-a-nutty-poem-sing-a]]>
+		</link>
+		<description>
+	    <![CDATA["Draw a crazy picture, 
+Write a nutty poem,
+ Sing a mumble-gumble song,
+Whistle through your comb. 
+Do a loony-goony dance 
+'Cross the kitchen floor, 
+Put something silly in the world 
+That ain't been there before." -- Shel Silverstein]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

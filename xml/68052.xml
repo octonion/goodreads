@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/68052-vincent]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/68052-vincent" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 28 Jul 2013 22:13:20 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/114173-au-milieu-de-l-hiver-j-ai-d-couvert-en-moi-un-invincible</guid>
+		<pubDate>Sun, 28 Jul 2013 22:13:20 -0700</pubDate>
+		<title>
+			<![CDATA[Vincent add a quote by Albert Camus]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/114173-au-milieu-de-l-hiver-j-ai-d-couvert-en-moi-un-invincible]]>
+		</link>
+		<description>
+	    <![CDATA["Au milieu de l'hiver, j'ai découvert en moi un invincible été." -- Albert Camus]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/217770-a-good-book-deserves-an-active-reading-the-activity-of</guid>
+		<pubDate>Thu, 03 Oct 2013 07:21:15 -0700</pubDate>
+		<title>
+			<![CDATA[Vincent add a quote by Mortimer J. Adler]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/217770-a-good-book-deserves-an-active-reading-the-activity-of]]>
+		</link>
+		<description>
+	    <![CDATA["A good book deserves an active reading. The activity of reading does not stop with the work of understanding what a book says. It must be completed by the work of criticism, the work of judging. The undemanding reader fails to satisfy this requirement, probably even more than he fails to analyze and interpret. He not only makes no effort to understand; he also dismisses a book simply by putting it aside and forgetting it. Worse than faintly praising it, he damns it by giving it no critical consideration whatever." -- Mortimer J. Adler]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

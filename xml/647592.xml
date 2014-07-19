@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/647592-rita]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/647592-rita" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 16 Feb 2011 19:33:21 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/61502-there-s-a-fine-line-between-a-superpower-and-a-chronic</guid>
+		<pubDate>Wed, 16 Feb 2011 19:33:21 -0800</pubDate>
+		<title>
+			<![CDATA[Rita add a quote by Austin Grossman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/61502-there-s-a-fine-line-between-a-superpower-and-a-chronic]]>
+		</link>
+		<description>
+	    <![CDATA["There's a fine line between a superpower and a chronic medical condition." -- Austin Grossman]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/22727-when-you-can-t-bear-something-but-it-goes-on-anyway</guid>
+		<pubDate>Fri, 01 Jul 2011 08:32:13 -0700</pubDate>
+		<title>
+			<![CDATA[Rita add a quote by Austin Grossman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22727-when-you-can-t-bear-something-but-it-goes-on-anyway]]>
+		</link>
+		<description>
+	    <![CDATA["When you can't bear something but it goes on anyway, the person who survives isn't you anymore; you've changed and become someone else, a new person, the one who did bear it after all." -- Austin Grossman]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

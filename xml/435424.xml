@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/435424-andreas]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/435424-andreas" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 30 Jun 2013 05:12:00 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/138936-kemampuan-membaca-itu-sebuah-rahmat-kegemaran-membaca-sebuah-kebahagiaan</guid>
+		<pubDate>Sun, 30 Jun 2013 05:12:00 -0700</pubDate>
+		<title>
+			<![CDATA[andreas add a quote by Goenawan Mohamad]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/138936-kemampuan-membaca-itu-sebuah-rahmat-kegemaran-membaca-sebuah-kebahagiaan]]>
+		</link>
+		<description>
+	    <![CDATA["Kemampuan membaca itu sebuah rahmat. Kegemaran membaca; sebuah kebahagiaan." -- Goenawan Mohamad]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

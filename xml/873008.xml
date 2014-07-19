@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/873008-dulcie-pavuluri]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/873008-dulcie-pavuluri" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 03 May 2013 22:14:45 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/450758-underneath-my-outside-face-there-s-a-face-that-none-can</guid>
+		<pubDate>Fri, 03 May 2013 22:14:45 -0700</pubDate>
+		<title>
+			<![CDATA[Dulcie add a quote by Shel Silverstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/450758-underneath-my-outside-face-there-s-a-face-that-none-can]]>
+		</link>
+		<description>
+	    <![CDATA["Underneath my outside face
+There's a face that none can see.
+A little less smiley,
+A little less sure,
+But a whole lot more like me." -- Shel Silverstein]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

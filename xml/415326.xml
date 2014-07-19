@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/415326-annisa-nuraida]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/415326-annisa-nuraida" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 11 Oct 2008 08:21:03 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/62390-it-s-not-enough-to-be-american-you-always-have-to</guid>
+		<pubDate>Sat, 11 Oct 2008 08:21:03 -0700</pubDate>
+		<title>
+			<![CDATA[Annisa add a quote by Frank McCourt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/62390-it-s-not-enough-to-be-american-you-always-have-to]]>
+		</link>
+		<description>
+	    <![CDATA["It's not enough to be American.  You always have to be something else, Irish-American, German-American, and you'd wonder how they'd get along if someone hadn't invented the hyphen" -- Frank McCourt]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/179519-every-weirdo-in-the-world-is-on-my-wavelength</guid>
+		<pubDate>Wed, 08 May 2013 16:55:58 -0700</pubDate>
+		<title>
+			<![CDATA[Annisa add a quote by Thomas Pynchon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/179519-every-weirdo-in-the-world-is-on-my-wavelength]]>
+		</link>
+		<description>
+	    <![CDATA["Every weirdo in the world is on my wavelength." -- Thomas Pynchon]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

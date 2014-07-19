@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/194737-helen-morley]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/194737-helen-morley" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 09 Feb 2013 19:39:05 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/23516-people-pay-for-what-they-do-and-still-more-for</guid>
+		<pubDate>Sat, 09 Feb 2013 19:39:05 -0800</pubDate>
+		<title>
+			<![CDATA[Helen add a quote by James Baldwin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/23516-people-pay-for-what-they-do-and-still-more-for]]>
+		</link>
+		<description>
+	    <![CDATA["People pay for what they do, and still more for what they have allowed themselves to become. And they pay for it very simply; by the lives they lead." -- James Baldwin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/187603-in-a-split-second-of-eternity-everything-is-changed-transfigured</guid>
+		<pubDate>Mon, 05 Aug 2013 20:14:17 -0700</pubDate>
+		<title>
+			<![CDATA[Helen add a quote by Muriel Barbery]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/187603-in-a-split-second-of-eternity-everything-is-changed-transfigured]]>
+		</link>
+		<description>
+	    <![CDATA["In a split second of eternity, everything is changed, transfigured. A few bars of music, rising from an unfamiliar place, a touch of perfection in the flow of human dealings--I lean my head slowly to one side, reflect on the camellia on the moss on the temple, reflect on a cup of tea, while outside the wind is rustling foliage, the forward rush of life is crystalized in a brilliant jewel of a moment that knows neither projects nor future, human destiny is rescued from the pale succession of days, glows with light at last and, surpassing time, warms my tranquil heart. " -- Muriel Barbery]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

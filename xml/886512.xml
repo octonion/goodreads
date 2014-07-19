@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/886512-john-mcafee]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/886512-john-mcafee" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 12 Apr 2014 06:44:29 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/57688-i-hate-writing-i-love-having-written</guid>
+		<pubDate>Sat, 12 Apr 2014 06:44:29 -0700</pubDate>
+		<title>
+			<![CDATA[John add a quote by Dorothy Parker]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/57688-i-hate-writing-i-love-having-written]]>
+		</link>
+		<description>
+	    <![CDATA["I hate writing, I love having written." -- Dorothy Parker]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1594-time-doth-flit-oh-shit</guid>
+		<pubDate>Sat, 12 Apr 2014 06:48:29 -0700</pubDate>
+		<title>
+			<![CDATA[John add a quote by Dorothy Parker]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1594-time-doth-flit-oh-shit]]>
+		</link>
+		<description>
+	    <![CDATA["Time doth flit; oh shit." -- Dorothy Parker]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1193498-saw-a-science-program-the-other-day-rats-were-crawling</guid>
+		<pubDate>Thu, 01 May 2014 08:55:17 -0700</pubDate>
+		<title>
+			<![CDATA[John add a quote by John P.  McAfee]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1193498-saw-a-science-program-the-other-day-rats-were-crawling]]>
+		</link>
+		<description>
+	    <![CDATA["Saw a science program the other day.  Rats were crawling through their own food to get to crack cocaine.  The conclusion was that rats would rather starve with food in front of them than give up crack.  The conclusion was wrong: rats will do anything to forget they are in a cage ~ John P. McAfee" -- John P.  McAfee]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

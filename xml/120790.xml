@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/120790-judytuna]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/120790-judytuna" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 14 Nov 2011 01:21:53 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/461034-jason-lycurgus-who-driven-perhaps-by-the-compulsion-of-the</guid>
+		<pubDate>Mon, 14 Nov 2011 01:21:53 -0800</pubDate>
+		<title>
+			<![CDATA[Judytuna add a quote by William Faulkner]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/461034-jason-lycurgus-who-driven-perhaps-by-the-compulsion-of-the]]>
+		</link>
+		<description>
+	    <![CDATA["Jason Lycurgus. Who, driven perhaps by the compulsion of the flamboyant name given him by the sardonic embittered woodenlegged indomitable father who perhaps still believed with his heart that what he wanted to be was a classicist schoolteacher, rode up the Natchez Trace one day in 1811 with a pair of fine pistols and one meagre saddlebag on a small lightwaisted but stronghocked mare which could do the first two furlongs in definitely under the halfminute and the next two in not appreciably more, though that was all." -- William Faulkner]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

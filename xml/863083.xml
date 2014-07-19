@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/863083-rita-schmitz]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/863083-rita-schmitz" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 08 Feb 2008 15:39:14 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/23029-the-only-way-we-are-ever-going-to-ensure-peace</guid>
+		<pubDate>Fri, 08 Feb 2008 15:39:14 -0800</pubDate>
+		<title>
+			<![CDATA[Rita add a quote by Stan Dale]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/23029-the-only-way-we-are-ever-going-to-ensure-peace]]>
+		</link>
+		<description>
+	    <![CDATA["The only way we are ever going to ensure peace on this planet is to adopt the entire world as &quot;our family&quot;.  We are going to have to hug them, and kiss them.  And dance and play with them.  And we are going to have to sit and talk and walk and cry with them.  Because when we do, we'll be able to see that indeed, everyone is beautiful, and we all complement each other beautifully and we would all be poorer without each other." -- Stan Dale]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

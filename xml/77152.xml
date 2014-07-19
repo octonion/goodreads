@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/77152-brittany]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/77152-brittany" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 13 Jun 2012 11:38:19 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/569722-love-is-easy-it-s-when-you-actually-like-someone-that</guid>
+		<pubDate>Wed, 13 Jun 2012 11:38:19 -0700</pubDate>
+		<title>
+			<![CDATA[Brittany add a quote by James St. James]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/569722-love-is-easy-it-s-when-you-actually-like-someone-that]]>
+		</link>
+		<description>
+	    <![CDATA["Love is easy; it's when you actually like someone that it gets difficult. Putting up with their odd idiosyncrasies. They way they suck their teeth after dinner, say, or the way they change perfectly good lightbulbs. It's when you like somebody despite the fact that they have every season of Reba on DVD - that you know it's something special.  It's about liking someone in spite of the gaping flaws in their personality..." -- James St. James]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

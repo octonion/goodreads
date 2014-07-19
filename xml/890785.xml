@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/890785-iris-celeste]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/890785-iris-celeste" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 13 Jun 2008 08:25:17 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/321-if-there-s-a-book-that-you-want-to-read-but</guid>
+		<pubDate>Fri, 13 Jun 2008 08:25:17 -0700</pubDate>
+		<title>
+			<![CDATA[Iris Celeste add a quote by Toni Morrison]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/321-if-there-s-a-book-that-you-want-to-read-but]]>
+		</link>
+		<description>
+	    <![CDATA["If there's a book that you want to read, but it hasn't been written yet, then you must write it." -- Toni Morrison]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/18086-i-have-decided-to-stick-to-love-hate-is-too-great</guid>
+		<pubDate>Fri, 13 Jun 2008 08:26:34 -0700</pubDate>
+		<title>
+			<![CDATA[Iris Celeste add a quote by Martin Luther King Jr.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18086-i-have-decided-to-stick-to-love-hate-is-too-great]]>
+		</link>
+		<description>
+	    <![CDATA["I have decided to stick to love...Hate is too great a burden to bear." -- Martin Luther King Jr.]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

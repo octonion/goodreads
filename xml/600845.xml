@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/600845-donald]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/600845-donald" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 11 Nov 2013 05:25:19 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/16831-we-all-die-the-goal-isn-t-to-live-forever-the</guid>
+		<pubDate>Mon, 11 Nov 2013 05:25:19 -0800</pubDate>
+		<title>
+			<![CDATA[Donald add a quote by Chuck Palahniuk]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16831-we-all-die-the-goal-isn-t-to-live-forever-the]]>
+		</link>
+		<description>
+	    <![CDATA["We all die. The goal isn't to live forever, the goal is to create something that will." -- Chuck Palahniuk]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/85177-i-am-opposing-a-social-order-in-which-it-is</guid>
+		<pubDate>Thu, 19 Jun 2014 09:10:47 -0700</pubDate>
+		<title>
+			<![CDATA[Donald add a quote by Eugene Debs]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/85177-i-am-opposing-a-social-order-in-which-it-is]]>
+		</link>
+		<description>
+	    <![CDATA["I am opposing a social order in which it is possible for one man who does absolutely nothing that is useful to amass a fortune of hundreds of millions of dollars, while millions of men and women who work all the days of their lives secure barely enough for a wretched existence." -- Eugene Debs]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

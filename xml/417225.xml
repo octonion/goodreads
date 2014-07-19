@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/417225-miriam]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/417225-miriam" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 19 Sep 2008 22:52:48 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/64770-if-you-cry-because-the-sun-has-gone-out-of</guid>
+		<pubDate>Fri, 19 Sep 2008 22:52:48 -0700</pubDate>
+		<title>
+			<![CDATA[Miriam add a quote by Rabindranath Tagore]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/64770-if-you-cry-because-the-sun-has-gone-out-of]]>
+		</link>
+		<description>
+	    <![CDATA["If you cry because the sun has gone out of your life, your tears will prevent you from seeing the stars." -- Rabindranath Tagore]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

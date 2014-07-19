@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/878957-sam]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/878957-sam" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 27 May 2014 06:42:22 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1225435-i-had-as-yet-no-notion-that-life-every-now</guid>
+		<pubDate>Tue, 27 May 2014 06:42:22 -0700</pubDate>
+		<title>
+			<![CDATA[Sam add a quote by Norman Maclean]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1225435-i-had-as-yet-no-notion-that-life-every-now]]>
+		</link>
+		<description>
+	    <![CDATA["I had as yet no notion that life every now and then becomes literature--not for long, of course, but long enough to be what we best remember, and often enough so that what we eventually come to mean by life are those moments when life, instead of going sideways, backwards, forward, or nowhere at all, lines out straight, tense and inevitable, with a complication, climax, and, given some luck, a purgation, as if life had been made and not happened." -- Norman Maclean]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1225437-there-is-something-gratuitous-about-creation-an-unnecessary-abundance-of</guid>
+		<pubDate>Tue, 27 May 2014 06:44:03 -0700</pubDate>
+		<title>
+			<![CDATA[Sam add a quote by Michael Reeves]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1225437-there-is-something-gratuitous-about-creation-an-unnecessary-abundance-of]]>
+		</link>
+		<description>
+	    <![CDATA["There is something gratuitous about creation, an unnecessary abundance of beauty, and through its blossoms and pleasures we can revel in the sheer largesse of the Father." -- Michael Reeves]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/873565-augusta-li]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/873565-augusta-li" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 12 Jan 2011 13:05:56 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/19595-but-this-i-know-the-writer-who-possesses-the-creative</guid>
+		<pubDate>Wed, 12 Jan 2011 13:05:56 -0800</pubDate>
+		<title>
+			<![CDATA[Augusta add a quote by Charlotte Brontë]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/19595-but-this-i-know-the-writer-who-possesses-the-creative]]>
+		</link>
+		<description>
+	    <![CDATA["But this I know; the writer who possesses the creative gift owns something of which he is not always master--something that at times strangely wills and works for itself. He may lay down rules and devise principles, and to rules and principles it will perhaps for years lie in subjection; and then, haply without any warning of revolt, there comes a time when it will no longer consent." -- Charlotte Brontë]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/14304-it-is-better-to-be-hated-for-what-you-are</guid>
+		<pubDate>Sun, 24 Jun 2012 23:34:50 -0700</pubDate>
+		<title>
+			<![CDATA[Augusta add a quote by Andre Gide]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14304-it-is-better-to-be-hated-for-what-you-are]]>
+		</link>
+		<description>
+	    <![CDATA["It is better to be hated for what you are than to be loved for what you are not." -- Andre Gide]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/851659-jen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/851659-jen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 21 May 2008 11:38:53 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/39982-people-are-always-blaming-their-circumstances-for-what-they-are</guid>
+		<pubDate>Wed, 21 May 2008 11:38:53 -0700</pubDate>
+		<title>
+			<![CDATA[Jen add a quote by George Bernard Shaw]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/39982-people-are-always-blaming-their-circumstances-for-what-they-are]]>
+		</link>
+		<description>
+	    <![CDATA["People are always blaming their circumstances for what they are. I don't believe in circumstances. The people who get on in this world are the people who get up and look for the circumstances they want, and if they can't find them, make them." -- George Bernard Shaw]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

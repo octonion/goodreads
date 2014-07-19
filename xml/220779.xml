@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/220779-corey]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/220779-corey" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Feb 2014 19:05:28 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2538-people-love-a-happy-ending-so-every-episode-i-will</guid>
+		<pubDate>Sun, 02 Feb 2014 19:05:28 -0800</pubDate>
+		<title>
+			<![CDATA[Corey add a quote by Joss Whedon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2538-people-love-a-happy-ending-so-every-episode-i-will]]>
+		</link>
+		<description>
+	    <![CDATA["People love a happy ending. So every episode, I will explain once again that I don't like people. And then Mal will shoot someone. Someone we like. And their puppy." -- Joss Whedon]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

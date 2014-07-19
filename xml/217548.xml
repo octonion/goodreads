@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/217548-bombadee]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/217548-bombadee" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 22 Dec 2012 10:39:58 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/512610-i-began-to-like-new-york-the-racy-adventurous-feel</guid>
+		<pubDate>Sat, 22 Dec 2012 10:39:58 -0800</pubDate>
+		<title>
+			<![CDATA[Bombadee add a quote by F. Scott Fitzgerald]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/512610-i-began-to-like-new-york-the-racy-adventurous-feel]]>
+		</link>
+		<description>
+	    <![CDATA["I began to like New York, the racy, adventurous feel of it at night, and the satisfaction that the constant flicker of men and women and machines gives to the restless eye." -- F. Scott Fitzgerald]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/406828-winter]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/406828-winter" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 26 May 2013 10:25:20 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/84440-the-trickle-down-theory-the-principle-that-the-poor-who-must</guid>
+		<pubDate>Sun, 26 May 2013 10:25:20 -0700</pubDate>
+		<title>
+			<![CDATA[winter add a quote by William Blum]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/84440-the-trickle-down-theory-the-principle-that-the-poor-who-must]]>
+		</link>
+		<description>
+	    <![CDATA["The &quot;trickle-down&quot; theory: the principle that the poor, who must subsist on table scraps dropped by the rich, can best be served by giving the rich bigger meals." -- William Blum]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3015-most-terrorists-are-people-deeply-concerned-by-what-they-see</guid>
+		<pubDate>Sun, 26 May 2013 10:25:29 -0700</pubDate>
+		<title>
+			<![CDATA[winter add a quote by William Blum ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3015-most-terrorists-are-people-deeply-concerned-by-what-they-see]]>
+		</link>
+		<description>
+	    <![CDATA["Most terrorists are people deeply concerned by what they see as social, political, or religious injustice and hypocrisy, and the immediate grounds for their terrorism is often retaliation for an action of the United States." -- William Blum ]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/291726-tabitha]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/291726-tabitha" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 26 Dec 2012 21:58:57 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/202661-and-will-i-tell-you-that-these-three-lived-happily</guid>
+		<pubDate>Wed, 26 Dec 2012 21:58:57 -0800</pubDate>
+		<title>
+			<![CDATA[Tabitha add a quote by Stephen King ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/202661-and-will-i-tell-you-that-these-three-lived-happily]]>
+		</link>
+		<description>
+	    <![CDATA["And will I tell you that these three lived happily ever after? I will not, for no one ever does. But there was happiness. And they did live." -- Stephen King ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/204392-can-t-you-see-every-step-i-have-taken-since-i</guid>
+		<pubDate>Thu, 11 Apr 2013 11:48:33 -0700</pubDate>
+		<title>
+			<![CDATA[Tabitha add a quote by Arthur Golden, Memoirs Of A Geisha]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/204392-can-t-you-see-every-step-i-have-taken-since-i]]>
+		</link>
+		<description>
+	    <![CDATA["Can't you see? Every step I have taken, since I was that child on the bridge, has been to bring myself closer to you. " -- Arthur Golden, Memoirs Of A Geisha]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/663442-i-didn-t-want-to-kiss-you-goodbye-that-was</guid>
+		<pubDate>Thu, 11 Apr 2013 18:52:29 -0700</pubDate>
+		<title>
+			<![CDATA[Tabitha add a quote by Ernest Hemingway]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/663442-i-didn-t-want-to-kiss-you-goodbye-that-was]]>
+		</link>
+		<description>
+	    <![CDATA["I didn't want to kiss you goodbye — that was the trouble — I wanted to kiss you good night — and there's a lot of difference." -- Ernest Hemingway]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

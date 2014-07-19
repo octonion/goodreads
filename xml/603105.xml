@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/603105-betsy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/603105-betsy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 10 Oct 2008 23:07:38 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/104981-a-little-nonsense-now-and-then-is-cherished-by-the</guid>
+		<pubDate>Fri, 10 Oct 2008 23:07:38 -0700</pubDate>
+		<title>
+			<![CDATA[Betsy add a quote by Roald Dahl]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/104981-a-little-nonsense-now-and-then-is-cherished-by-the]]>
+		</link>
+		<description>
+	    <![CDATA["A little nonsense now and then, is cherished by the wisest men." -- Roald Dahl]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/104982-patience-is-a-virtue-virtue-is-a-grace-grace-is</guid>
+		<pubDate>Fri, 10 Oct 2008 23:14:41 -0700</pubDate>
+		<title>
+			<![CDATA[Betsy add a quote by Dick King-Smith]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/104982-patience-is-a-virtue-virtue-is-a-grace-grace-is]]>
+		</link>
+		<description>
+	    <![CDATA["Patience is a virtue,
+Virtue is a grace.
+Grace is a little girl
+Who would not wash her face." -- Dick King-Smith]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

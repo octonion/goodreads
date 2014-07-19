@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/748349-ibblezibble]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/748349-ibblezibble" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 16 Feb 2013 01:03:39 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/306114-lord-heap-miseries-upon-us-yet-entwine-our-arts-with</guid>
+		<pubDate>Sat, 16 Feb 2013 01:03:39 -0800</pubDate>
+		<title>
+			<![CDATA[Ibblezibble add a quote by James Joyce]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/306114-lord-heap-miseries-upon-us-yet-entwine-our-arts-with]]>
+		</link>
+		<description>
+	    <![CDATA["Lord, heap miseries upon us yet entwine our arts with laughters low." -- James Joyce]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/437373-lindsey]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/437373-lindsey" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 04 Dec 2007 12:52:43 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3342-you-really-can-change-the-world-if-you-care-enough</guid>
+		<pubDate>Tue, 04 Dec 2007 12:52:43 -0800</pubDate>
+		<title>
+			<![CDATA[Lindsey add a quote by Marian Wright Edelman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3342-you-really-can-change-the-world-if-you-care-enough]]>
+		</link>
+		<description>
+	    <![CDATA["You really can change the world if you care enough." -- Marian Wright Edelman]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3343-you-may-never-know-what-results-come-of-your-actions</guid>
+		<pubDate>Tue, 04 Dec 2007 12:53:16 -0800</pubDate>
+		<title>
+			<![CDATA[Lindsey add a quote by Mahatma Gandhi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3343-you-may-never-know-what-results-come-of-your-actions]]>
+		</link>
+		<description>
+	    <![CDATA["You may never know what results come of your actions, but if you do nothing, there will be no results." -- Mahatma Gandhi]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

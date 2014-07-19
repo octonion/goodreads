@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/157739-darcie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/157739-darcie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 16 Nov 2012 14:57:06 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/378938-and-yet-even-among-the-friends-of-liberty-many-people</guid>
+		<pubDate>Fri, 16 Nov 2012 14:57:06 -0800</pubDate>
+		<title>
+			<![CDATA[Darcie add a quote by Ron Paul]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/378938-and-yet-even-among-the-friends-of-liberty-many-people]]>
+		</link>
+		<description>
+	    <![CDATA["And yet even among the friends of liberty, many people are deceived into believing that government can make them safe from all harm, provide fairly distributed economic security, and improve individual moral behavior. If the government is granted a monopoly on the use of force to achieve these goals, history shows that power is always abused. Every single time." -- Ron Paul]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

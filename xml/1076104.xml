@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1076104-clare]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1076104-clare" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 15 Sep 2012 11:25:27 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/25564-how-lucky-i-am-to-have-something-that-makes-saying</guid>
+		<pubDate>Sat, 15 Sep 2012 11:25:27 -0700</pubDate>
+		<title>
+			<![CDATA[Clare add a quote by A.A. Milne]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/25564-how-lucky-i-am-to-have-something-that-makes-saying]]>
+		</link>
+		<description>
+	    <![CDATA["How lucky I am to have something that makes saying goodbye so hard." -- A.A. Milne]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

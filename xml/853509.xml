@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/853509-novi]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/853509-novi" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 04 Oct 2008 09:47:42 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1342-goodbye-said-the-fox-and-now-here-is-my-secret</guid>
+		<pubDate>Sat, 04 Oct 2008 09:47:42 -0700</pubDate>
+		<title>
+			<![CDATA[Novi add a quote by Antoine de Saint-Exupéry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1342-goodbye-said-the-fox-and-now-here-is-my-secret]]>
+		</link>
+		<description>
+	    <![CDATA["Goodbye,&quot; said the fox. &quot;And now here is my secret, a very simple secret: It is only with the heart that one can see rightly; what is essential is invisible to the eye." -- Antoine de Saint-Exupéry]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

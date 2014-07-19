@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/612380-martin-sharry]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/612380-martin-sharry" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 26 Mar 2012 11:50:24 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/129641-it-is-thanks-to-my-evening-reading-alone-that-i</guid>
+		<pubDate>Mon, 26 Mar 2012 11:50:24 -0700</pubDate>
+		<title>
+			<![CDATA[Martin add a quote by W.G. Sebald]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/129641-it-is-thanks-to-my-evening-reading-alone-that-i]]>
+		</link>
+		<description>
+	    <![CDATA["It is thanks to my evening reading alone that I am still more or less sane." -- W.G. Sebald]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5776-to-make-things-perfectly-clear-is-reactionary-and-stupefying-the</guid>
+		<pubDate>Mon, 17 Mar 2014 05:45:31 -0700</pubDate>
+		<title>
+			<![CDATA[Martin add a quote by Avital Ronell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5776-to-make-things-perfectly-clear-is-reactionary-and-stupefying-the]]>
+		</link>
+		<description>
+	    <![CDATA["To make things 'perfectly clear' is reactionary and stupefying.  The real is not perfectly clear." -- Avital Ronell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

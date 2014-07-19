@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/351166-letitia-makowski]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/351166-letitia-makowski" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 29 Jul 2012 19:13:01 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/255807-once-upon-a-time-i-dreamt-i-was-a-butterfly</guid>
+		<pubDate>Sun, 29 Jul 2012 19:13:01 -0700</pubDate>
+		<title>
+			<![CDATA[Letitia add a quote by Zhuangzi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/255807-once-upon-a-time-i-dreamt-i-was-a-butterfly]]>
+		</link>
+		<description>
+	    <![CDATA["Once upon a time, I dreamt I was a butterfly, fluttering hither and thither, to all intents and purposes a butterfly. I was conscious only of my happiness as a butterfly, unaware that I was myself. Soon I awaked, and there I was, veritably myself again. Now I do not know whether I was then a man dreaming I was a butterfly, or whether I am now a butterfly, dreaming I am a man." -- Zhuangzi]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

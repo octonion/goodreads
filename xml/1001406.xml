@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1001406-bridget-flannery]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1001406-bridget-flannery" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 06 Jun 2008 14:17:52 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/20116-people-have-a-habit-of-inventing-fictions-they-will-believe</guid>
+		<pubDate>Fri, 06 Jun 2008 14:17:52 -0700</pubDate>
+		<title>
+			<![CDATA[Bridget add a quote by Libba Bray]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20116-people-have-a-habit-of-inventing-fictions-they-will-believe]]>
+		</link>
+		<description>
+	    <![CDATA["People have a habit of inventing fictions they will believe wholeheartedly in order to ignore the truth they cannot accept." -- Libba Bray]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/765566-free-yourself-from-the-need-to-blame-others-there-are</guid>
+		<pubDate>Sat, 06 Jul 2013 09:33:20 -0700</pubDate>
+		<title>
+			<![CDATA[Bridget add a quote by Steve Maraboli]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/765566-free-yourself-from-the-need-to-blame-others-there-are]]>
+		</link>
+		<description>
+	    <![CDATA["Free yourself from the need to blame others. There are two reasons that you are where you are right now; action or inaction." -- Steve Maraboli]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/179616-i-was-angry-with-my-friend-i-told-my-wrath</guid>
+		<pubDate>Sat, 01 Feb 2014 21:40:25 -0800</pubDate>
+		<title>
+			<![CDATA[Bridget add a quote by William Blake]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/179616-i-was-angry-with-my-friend-i-told-my-wrath]]>
+		</link>
+		<description>
+	    <![CDATA["I was angry with my friend:
+I told my wrath, my wrath did end.
+I was angry with my foe:
+I told it not, my wrath did grow." -- William Blake]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

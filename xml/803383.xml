@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/803383-tim]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/803383-tim" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 22 May 2008 14:22:58 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/25-we-are-all-in-the-gutter-but-some-of-us</guid>
+		<pubDate>Thu, 22 May 2008 14:22:58 -0700</pubDate>
+		<title>
+			<![CDATA[Tim add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/25-we-are-all-in-the-gutter-but-some-of-us]]>
+		</link>
+		<description>
+	    <![CDATA["We are all in the gutter, but some of us are looking at the stars." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/63133-do-i-prefer-to-grow-up-and-relate-to-life</guid>
+		<pubDate>Fri, 27 Jun 2008 08:35:35 -0700</pubDate>
+		<title>
+			<![CDATA[Tim add a quote by Pema Chodron]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/63133-do-i-prefer-to-grow-up-and-relate-to-life]]>
+		</link>
+		<description>
+	    <![CDATA["Do I prefer to grow up and relate to life directly, or do I choose to live and die in fear? " -- Pema Chodron]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/174690-those-who-don-t-believe-in-magic-will-never-find-it</guid>
+		<pubDate>Sat, 18 May 2013 04:59:17 -0700</pubDate>
+		<title>
+			<![CDATA[Tim add a quote by Roald Dahl]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/174690-those-who-don-t-believe-in-magic-will-never-find-it]]>
+		</link>
+		<description>
+	    <![CDATA["Those who don't believe in magic will never find it." -- Roald Dahl]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/50136-read-every-day-something-no-one-else-is-reading-think</guid>
+		<pubDate>Mon, 10 Jun 2013 10:42:25 -0700</pubDate>
+		<title>
+			<![CDATA[Tim add a quote by Christopher Morley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/50136-read-every-day-something-no-one-else-is-reading-think]]>
+		</link>
+		<description>
+	    <![CDATA["Read, every day, something no one else is reading. Think, every day, something no one else is thinking. Do, every day, something no one else would be silly enough to do. It is bad for the mind to be always part of unanimity." -- Christopher Morley]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

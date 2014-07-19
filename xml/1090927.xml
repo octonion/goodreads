@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1090927-rachel]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1090927-rachel" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 18 Aug 2012 19:23:51 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/68276-and-no-matter-what-anybody-says-about-grief-and-about</guid>
+		<pubDate>Sat, 18 Aug 2012 19:23:51 -0700</pubDate>
+		<title>
+			<![CDATA[Rachel add a quote by Tiffanie DeBartolo]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/68276-and-no-matter-what-anybody-says-about-grief-and-about]]>
+		</link>
+		<description>
+	    <![CDATA["And no matter what anybody says about grief and about time healing all wounds, the truth is, there are certain sorrows that never fade away until the heart stops beating and the last breath is taken." -- Tiffanie DeBartolo]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/361685-did-you-really-want-to-die-no-one-commits-suicide</guid>
+		<pubDate>Sat, 18 Aug 2012 19:23:53 -0700</pubDate>
+		<title>
+			<![CDATA[Rachel add a quote by Tiffanie DeBartolo]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/361685-did-you-really-want-to-die-no-one-commits-suicide]]>
+		</link>
+		<description>
+	    <![CDATA["Did you really want to die?&quot;
+&quot;No one commits suicide because they want to die.&quot;
+&quot;Then why do they do it?&quot;
+&quot;Because they want to stop the pain." -- Tiffanie DeBartolo]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

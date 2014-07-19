@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/873792-cissy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/873792-cissy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 09 Feb 2009 18:51:16 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/73333-reading-good-books-ruins-you-for-enjoying-bad-books</guid>
+		<pubDate>Mon, 09 Feb 2009 18:51:16 -0800</pubDate>
+		<title>
+			<![CDATA[Cissy add a quote by Mary Ann Shaffer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/73333-reading-good-books-ruins-you-for-enjoying-bad-books]]>
+		</link>
+		<description>
+	    <![CDATA["Reading good books ruins you for enjoying bad books." -- Mary Ann Shaffer]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/82304-o-there-is-lovely-to-feel-a-book-a-good</guid>
+		<pubDate>Thu, 19 Mar 2009 08:09:57 -0700</pubDate>
+		<title>
+			<![CDATA[Cissy add a quote by Richard Llewellyn]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/82304-o-there-is-lovely-to-feel-a-book-a-good]]>
+		</link>
+		<description>
+	    <![CDATA["O, there is lovely to feel a book, a good book, firm in the hand, for its fatness holds rich promise, and you are hot inside to think of good hours to come." -- Richard Llewellyn]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

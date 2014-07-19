@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/245777-jess]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/245777-jess" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 10 Jan 2009 15:01:48 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/13708-i-suggest-that-the-only-books-that-influence-us-are</guid>
+		<pubDate>Sat, 10 Jan 2009 15:01:48 -0800</pubDate>
+		<title>
+			<![CDATA[Jess add a quote by E.M. Forster]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13708-i-suggest-that-the-only-books-that-influence-us-are]]>
+		</link>
+		<description>
+	    <![CDATA["I suggest that the only books that influence us are those for which we are ready, and which have gone a little further down our particular path than we have yet gone ourselves." -- E.M. Forster]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

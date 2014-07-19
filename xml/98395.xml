@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/98395-red]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/98395-red" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 22 Sep 2009 17:09:26 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/194648-everyone-wants-a-christmas-tree-if-you-had-a-christmas</guid>
+		<pubDate>Tue, 22 Sep 2009 17:09:26 -0700</pubDate>
+		<title>
+			<![CDATA[Red add a quote by Janet Evanovich]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/194648-everyone-wants-a-christmas-tree-if-you-had-a-christmas]]>
+		</link>
+		<description>
+	    <![CDATA["Everyone wants a Christmas tree. If you had a Christmas tree Santa would bring you stuff! Like hair curlers and slut shoes." -- Janet Evanovich]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/195580-catholics-don-t-believe-in-divorce-we-do-believe-in-murder</guid>
+		<pubDate>Sat, 26 Sep 2009 11:40:50 -0700</pubDate>
+		<title>
+			<![CDATA[Red add a quote by Diana Gabaldon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/195580-catholics-don-t-believe-in-divorce-we-do-believe-in-murder]]>
+		</link>
+		<description>
+	    <![CDATA["Catholics don't believe in divorce. We &lt;i&gt;do&lt;/i&gt; believe in murder. There's always Confession, after all.
+--Brianna Fraser to Roger MacKenzie" -- Diana Gabaldon]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

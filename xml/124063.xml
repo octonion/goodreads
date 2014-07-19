@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/124063-alex]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/124063-alex" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 17 Feb 2014 07:11:15 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/137706-beauty-is-unbearable-drives-us-to-despair-offering-us-for</guid>
+		<pubDate>Mon, 17 Feb 2014 07:11:15 -0800</pubDate>
+		<title>
+			<![CDATA[Alex add a quote by Albert Camus]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/137706-beauty-is-unbearable-drives-us-to-despair-offering-us-for]]>
+		</link>
+		<description>
+	    <![CDATA["Beauty is unbearable, drives us to despair, offering us for a minute the glimpse of an eternity that we should like to stretch out over the whole of time." -- Albert Camus]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

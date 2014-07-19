@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/983933-judith-copek]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/983933-judith-copek" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 09 Jun 2012 18:00:25 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/567676-sometimes-in-your-life-you-will-go-on-a-journey</guid>
+		<pubDate>Sat, 09 Jun 2012 18:00:25 -0700</pubDate>
+		<title>
+			<![CDATA[Judith add a quote by Katherine Sharp]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/567676-sometimes-in-your-life-you-will-go-on-a-journey]]>
+		</link>
+		<description>
+	    <![CDATA["Sometimes in your life you will go on a journey. It will be the longest journey you have ever taken. It is the journey to find yourself." -- Katherine Sharp]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/33702-the-real-voyage-of-discovery-consists-not-in-seeking-new</guid>
+		<pubDate>Sat, 09 Jun 2012 18:03:13 -0700</pubDate>
+		<title>
+			<![CDATA[Judith add a quote by Marcel Proust]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/33702-the-real-voyage-of-discovery-consists-not-in-seeking-new]]>
+		</link>
+		<description>
+	    <![CDATA["The real voyage of discovery consists not in seeking new landscapes, but in having new eyes." -- Marcel Proust]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1030750-mr-hutchinson]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1030750-mr-hutchinson" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 13 Jun 2012 09:30:39 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/13146-never-trust-anyone-who-has-not-brought-a-book-with</guid>
+		<pubDate>Wed, 13 Jun 2012 09:30:39 -0700</pubDate>
+		<title>
+			<![CDATA[Mr. add a quote by Lemony Snicket]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13146-never-trust-anyone-who-has-not-brought-a-book-with]]>
+		</link>
+		<description>
+	    <![CDATA["Never trust anyone who has not brought a book with them." -- Lemony Snicket]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/66583-reading-is-one-form-of-escape-running-for-your-life</guid>
+		<pubDate>Wed, 13 Jun 2012 09:31:10 -0700</pubDate>
+		<title>
+			<![CDATA[Mr. add a quote by Lemony Snicket]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/66583-reading-is-one-form-of-escape-running-for-your-life]]>
+		</link>
+		<description>
+	    <![CDATA["Reading is one form of escape. Running for your life is another." -- Lemony Snicket]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/30979-you-can-only-be-young-once-but-you-can-always</guid>
+		<pubDate>Wed, 13 Jun 2012 09:32:45 -0700</pubDate>
+		<title>
+			<![CDATA[Mr. add a quote by Dave Barry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/30979-you-can-only-be-young-once-but-you-can-always]]>
+		</link>
+		<description>
+	    <![CDATA["You can only be young once.  But you can always be immature." -- Dave Barry]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

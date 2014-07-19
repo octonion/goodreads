@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/820807-rebeka-wren]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/820807-rebeka-wren" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 23 Jan 2008 10:11:04 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2833-it-is-by-loving-and-not-by-being-loved-that</guid>
+		<pubDate>Wed, 23 Jan 2008 10:11:04 -0800</pubDate>
+		<title>
+			<![CDATA[Rebeka add a quote by George MacDonald]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2833-it-is-by-loving-and-not-by-being-loved-that]]>
+		</link>
+		<description>
+	    <![CDATA["It is by loving, and not by being loved, that one can come nearest the soul of another; yea, that, where two love, it is the loving of each other, that originates and perfects and assures their blessedness. I knew that love gives to him that loveth, power over over any soul be loved, even if that soul know him not, bringing him inwardly close to that spirit; a power that cannot be but for good; for in proportion as selfishness intrudes, the love ceases, and the power which springs therefrom dies. Yet all love will, one day, meet with its return. " -- George MacDonald]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

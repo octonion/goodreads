@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/922564-crystal]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/922564-crystal" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 29 Feb 2008 09:03:25 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/29559-wisdom-is-the-right-use-of-knowledge-to-know-is</guid>
+		<pubDate>Fri, 29 Feb 2008 09:03:25 -0800</pubDate>
+		<title>
+			<![CDATA[Crystal add a quote by Charles Spurgeon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/29559-wisdom-is-the-right-use-of-knowledge-to-know-is]]>
+		</link>
+		<description>
+	    <![CDATA["Wisdom is the right use of knowledge. To know is not to be wise. Many men know a great deal, and are all the greater fools for it. There is no fool so great a fool as a knowing fool. But to know how to use knowledge is to have wisdom." -- Charles Spurgeon]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

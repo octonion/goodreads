@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/620530-cristen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/620530-cristen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 09 May 2010 00:01:45 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/180531-do-you-wish-me-a-good-morning-or-mean-that</guid>
+		<pubDate>Sun, 09 May 2010 00:01:45 -0700</pubDate>
+		<title>
+			<![CDATA[Cristen add a quote by J.R.R. Tolkien]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/180531-do-you-wish-me-a-good-morning-or-mean-that]]>
+		</link>
+		<description>
+	    <![CDATA["Do you wish me a good morning, or mean that it is a good morning whether I want it or not; or that you feel good this morning; or that it is a morning to be good on?" -- J.R.R. Tolkien]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

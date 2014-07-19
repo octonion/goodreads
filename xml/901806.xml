@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/901806-morgan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/901806-morgan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 03 May 2009 19:23:17 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/51633-but-you-know-as-well-as-i-patriotism-is-a</guid>
+		<pubDate>Sun, 03 May 2009 19:23:17 -0700</pubDate>
+		<title>
+			<![CDATA[Morgan add a quote by Patrick O'Brian]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/51633-but-you-know-as-well-as-i-patriotism-is-a]]>
+		</link>
+		<description>
+	    <![CDATA["But you know as well as I, patriotism is a word; and one that generally comes to mean either &lt;i&gt;my country, right or wrong&lt;/i&gt;, which is infamous, or &lt;i&gt;my country is always right&lt;/i&gt;, which is imbecile." -- Patrick O'Brian]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/169739-it-is-all-very-well-for-you-to-write-simply</guid>
+		<pubDate>Sat, 13 Jun 2009 20:55:21 -0700</pubDate>
+		<title>
+			<![CDATA[Morgan add a quote by Ernest Hemingway]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/169739-it-is-all-very-well-for-you-to-write-simply]]>
+		</link>
+		<description>
+	    <![CDATA["it is all very well for you to write simply and the simpler the better. But do not start to think so damned simply. Know how complicated it is and then state it simply." -- Ernest Hemingway]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

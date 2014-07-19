@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/935089-stacy-shaneyfelt]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/935089-stacy-shaneyfelt" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 02 Jul 2012 05:35:47 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/579549-that-is-where-my-dearest-and-brightest-dreams-have-ranged</guid>
+		<pubDate>Mon, 02 Jul 2012 05:35:47 -0700</pubDate>
+		<title>
+			<![CDATA[Stacy add a quote by Hermann Hesse]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/579549-that-is-where-my-dearest-and-brightest-dreams-have-ranged]]>
+		</link>
+		<description>
+	    <![CDATA["That is where my dearest and brightest dreams have ranged — to hear for the duration of a heartbeat the universe and the totality of life in its mysterious, innate harmony." -- Hermann Hesse]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/36561-freedom-lies-in-being-bold</guid>
+		<pubDate>Tue, 10 Jul 2012 20:25:45 -0700</pubDate>
+		<title>
+			<![CDATA[Stacy add a quote by Robert Frost]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/36561-freedom-lies-in-being-bold]]>
+		</link>
+		<description>
+	    <![CDATA["Freedom lies in being bold." -- Robert Frost]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/119202-always-try-to-keep-a-patch-of-sky-above-your</guid>
+		<pubDate>Tue, 10 Jul 2012 20:26:24 -0700</pubDate>
+		<title>
+			<![CDATA[Stacy add a quote by Marcel Proust]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/119202-always-try-to-keep-a-patch-of-sky-above-your]]>
+		</link>
+		<description>
+	    <![CDATA["Always try to keep a patch of sky above your life." -- Marcel Proust]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

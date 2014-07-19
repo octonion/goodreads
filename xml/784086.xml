@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/784086-saif-alfan-maho-haromain]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/784086-saif-alfan-maho-haromain" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 14 Jan 2008 23:46:57 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2077-the-person-who-tries-to-live-alone-will-not-succeed</guid>
+		<pubDate>Mon, 14 Jan 2008 23:46:57 -0800</pubDate>
+		<title>
+			<![CDATA[Saif/Alfan/Maho add a quote by Pearl S. Buck]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2077-the-person-who-tries-to-live-alone-will-not-succeed]]>
+		</link>
+		<description>
+	    <![CDATA["The person who tries to live alone will not succeed as a human being. His heart withers if it does not answer another heart. His mind shrinks away if he hears only the echoes of his own thoughts and finds no other inspiration. " -- Pearl S. Buck]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

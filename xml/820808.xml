@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/820808-marya]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/820808-marya" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 15 Oct 2009 04:20:51 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/23318-grief-turns-out-to-be-a-place-none-of-us</guid>
+		<pubDate>Thu, 15 Oct 2009 04:20:51 -0700</pubDate>
+		<title>
+			<![CDATA[Marya add a quote by Joan Didion]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/23318-grief-turns-out-to-be-a-place-none-of-us]]>
+		</link>
+		<description>
+	    <![CDATA["Grief turns out to be a place none of us know until we reach it. We anticipate (we know) that someone close to us could die, but we do not look beyond the few days or weeks that immediately follow such an imagined death. We misconstrue the nature of even those few days or weeks. We might expect if the death is sudden to feel shock. We do not expect this shock to be obliterative, dislocating to both body and mind. We might expect that we will be prostrate, inconsolable, crazy with loss. We do not expect to be literally crazy, cool customers who believe their husband is about to return and need his shoes." -- Joan Didion]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

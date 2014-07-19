@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1085796-lauri-vance]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1085796-lauri-vance" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 15 Apr 2008 11:08:38 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/36544-well-you-do-what-you-do-and-you-pay-for</guid>
+		<pubDate>Tue, 15 Apr 2008 11:08:38 -0700</pubDate>
+		<title>
+			<![CDATA[Lauri add a quote by Tim McGraw]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/36544-well-you-do-what-you-do-and-you-pay-for]]>
+		</link>
+		<description>
+	    <![CDATA["Well, you do what you do and you pay for your sins, but there's no such thing as what might have been. That's a waste of time; drive you outta your mind" -- Tim McGraw]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

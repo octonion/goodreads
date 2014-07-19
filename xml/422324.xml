@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/422324-julia]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/422324-julia" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 26 Mar 2013 07:43:46 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3548-i-hope-she-ll-be-a-fool----that-s-the-best</guid>
+		<pubDate>Tue, 26 Mar 2013 07:43:46 -0700</pubDate>
+		<title>
+			<![CDATA[Julia add a quote by F. Scott Fitzgerald]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3548-i-hope-she-ll-be-a-fool----that-s-the-best]]>
+		</link>
+		<description>
+	    <![CDATA["I hope she'll be a fool -- that's the best thing a girl can be in this world, a beautiful little fool." -- F. Scott Fitzgerald]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/53580-you-don-t-write-because-you-want-to-say-something-you</guid>
+		<pubDate>Tue, 26 Mar 2013 07:44:40 -0700</pubDate>
+		<title>
+			<![CDATA[Julia add a quote by F. Scott Fitzgerald]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/53580-you-don-t-write-because-you-want-to-say-something-you]]>
+		</link>
+		<description>
+	    <![CDATA["You don't write because you want to say something, you write because you have something to say." -- F. Scott Fitzgerald]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

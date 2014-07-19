@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/978712-kenneth]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/978712-kenneth" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 11 May 2014 14:04:35 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1207233-as-the-virtual-world-of-electronic-communication-becomes-the-world</guid>
+		<pubDate>Sun, 11 May 2014 14:04:35 -0700</pubDate>
+		<title>
+			<![CDATA[Kenneth add a quote by Ursula K. Le Guin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1207233-as-the-virtual-world-of-electronic-communication-becomes-the-world]]>
+		</link>
+		<description>
+	    <![CDATA["As the virtual world of electronic communication becomes the world many of us inhabit all the time, in turning to imaginative literature we may not be seeking mere reassurance nor be impelled by mere nostalgia. To enter with heart and mind into the world of the imagination may be to head deliberately and directly toward, or back toward, engagement with the real world. In one of T. S. Eliot’s poems a bird sings, “Mankind cannot bear very much reality.” I’ve always thought that bird was mistaken, or was talking only about some people. I find it amazing how much of the real world most of us can endure. Not only endure, but need, desire, crave. Reality is life. Where we suffocate is in the half-life of unreality, untruth, imitation, fakery, the almost-true that is not true. To be human is to live both within and beyond the narrow band of what-happens-now, in the vast regions of the past and the possible, the known and the imagined: our real world, our true Now." -- Ursula K. Le Guin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1048049-w-harris]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1048049-w-harris" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 10 Apr 2008 07:19:59 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/9347-i-know-that-you-believe-you-understand-what-you-think</guid>
+		<pubDate>Thu, 10 Apr 2008 07:19:59 -0700</pubDate>
+		<title>
+			<![CDATA[W add a quote by Robert McCloskey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9347-i-know-that-you-believe-you-understand-what-you-think]]>
+		</link>
+		<description>
+	    <![CDATA["I know that you believe you understand what you think I said, but I'm not sure you realize that what you heard is not what I meant." -- Robert McCloskey]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/12577-the-limits-of-my-language-means-the-limits-of-my</guid>
+		<pubDate>Fri, 11 Apr 2008 06:34:35 -0700</pubDate>
+		<title>
+			<![CDATA[W add a quote by Ludwig Wittgenstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12577-the-limits-of-my-language-means-the-limits-of-my]]>
+		</link>
+		<description>
+	    <![CDATA["The limits of my language means the limits of my world." -- Ludwig Wittgenstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/43622-humans-are-pattern-seeking-story-telling-animals-and-we-are-quite-adept</guid>
+		<pubDate>Fri, 11 Apr 2008 06:39:23 -0700</pubDate>
+		<title>
+			<![CDATA[W add a quote by Michael Shermer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/43622-humans-are-pattern-seeking-story-telling-animals-and-we-are-quite-adept]]>
+		</link>
+		<description>
+	    <![CDATA["Humans are pattern-seeking story-telling animals, and we are quite adept at telling stories about patterns, whether they exist or not." -- Michael Shermer]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

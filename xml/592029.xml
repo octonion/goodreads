@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/592029-joleen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/592029-joleen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 17 Dec 2010 16:34:56 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5643-how-to-overthrow-the-system-brew-your-own-beer-kick</guid>
+		<pubDate>Fri, 17 Dec 2010 16:34:56 -0800</pubDate>
+		<title>
+			<![CDATA[Joleen add a quote by Edward Abbey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5643-how-to-overthrow-the-system-brew-your-own-beer-kick]]>
+		</link>
+		<description>
+	    <![CDATA["How to Overthrow the System: brew your own beer; kick in your Tee Vee; kill your own beef; build your own cabin and piss off the front porch whenever you bloody well feel like it." -- Edward Abbey]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

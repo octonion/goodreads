@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/886842-shannon-foreman]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/886842-shannon-foreman" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 08 Feb 2008 06:33:45 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/22798-the-trouble-is-that-we-have-a-bad-habit-encouraged</guid>
+		<pubDate>Fri, 08 Feb 2008 06:33:45 -0800</pubDate>
+		<title>
+			<![CDATA[Shannon add a quote by Ursula K. LeGuin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22798-the-trouble-is-that-we-have-a-bad-habit-encouraged]]>
+		</link>
+		<description>
+	    <![CDATA["The trouble is that we have a bad habit, encouraged by pendants and sophisticates, of considering happiness as something rather stupid. Only pain is intellectual, only evil interesting. This is the treason of the artist: a refusal to admit the banality of evil and the terrible boredom of pain." -- Ursula K. LeGuin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/22803-as-beautiful-as-the-chance-encounter-of-a-sewing-machine</guid>
+		<pubDate>Fri, 08 Feb 2008 06:45:53 -0800</pubDate>
+		<title>
+			<![CDATA[Shannon add a quote by Lautreamont]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22803-as-beautiful-as-the-chance-encounter-of-a-sewing-machine]]>
+		</link>
+		<description>
+	    <![CDATA["As beautiful as the chance encounter of a sewing machine and an umbrella on an operating table." -- Lautreamont]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

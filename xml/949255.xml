@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/949255-becky]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/949255-becky" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 22 Mar 2008 20:13:27 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/764-a-room-without-books-is-like-a-body-without-a</guid>
+		<pubDate>Sat, 22 Mar 2008 20:13:27 -0700</pubDate>
+		<title>
+			<![CDATA[Becky add a quote by Marcus Tullius Cicero]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/764-a-room-without-books-is-like-a-body-without-a]]>
+		</link>
+		<description>
+	    <![CDATA["A room without books is like a body without a soul." -- Marcus Tullius Cicero]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1427-i-have-never-let-my-schooling-interfere-with-my-education</guid>
+		<pubDate>Sat, 22 Mar 2008 20:16:39 -0700</pubDate>
+		<title>
+			<![CDATA[Becky add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1427-i-have-never-let-my-schooling-interfere-with-my-education]]>
+		</link>
+		<description>
+	    <![CDATA["I have never let my schooling interfere with my education." -- Mark Twain]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/178306-life-has-no-meaning-each-of-us-has-meaning-and</guid>
+		<pubDate>Tue, 26 Mar 2013 18:19:55 -0700</pubDate>
+		<title>
+			<![CDATA[Becky add a quote by Joseph Campbell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/178306-life-has-no-meaning-each-of-us-has-meaning-and]]>
+		</link>
+		<description>
+	    <![CDATA["Life has no meaning. Each of us has meaning and we bring it to life. It is a waste to be asking the question when you are the answer." -- Joseph Campbell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

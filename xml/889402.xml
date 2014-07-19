@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/889402-karen-ormsby]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/889402-karen-ormsby" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 29 May 2008 14:55:08 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/19828-this-is-how-humans-are-we-question-all-our-beliefs</guid>
+		<pubDate>Thu, 29 May 2008 14:55:08 -0700</pubDate>
+		<title>
+			<![CDATA[Karen add a quote by Orson Scott Card]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/19828-this-is-how-humans-are-we-question-all-our-beliefs]]>
+		</link>
+		<description>
+	    <![CDATA["This is how humans are: We question all our beliefs, except for the ones that we really believe in, and those we never think to question." -- Orson Scott Card]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

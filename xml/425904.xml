@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/425904-ashley]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/425904-ashley" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 02 Feb 2009 16:46:19 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/136642-believe-me-nothing-except-a-battle-lost-can-be-half</guid>
+		<pubDate>Mon, 02 Feb 2009 16:46:19 -0800</pubDate>
+		<title>
+			<![CDATA[ashley add a quote by Arthur Wellesley Wellington]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/136642-believe-me-nothing-except-a-battle-lost-can-be-half]]>
+		</link>
+		<description>
+	    <![CDATA["Believe me, nothing except a battle lost can be half so melancholy as a battle won." -- Arthur Wellesley Wellington]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

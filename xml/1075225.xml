@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1075225-nicole]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1075225-nicole" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 05 Apr 2013 12:39:30 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/78076-if-i-had-my-life-to-live-over-again-i</guid>
+		<pubDate>Fri, 05 Apr 2013 12:39:30 -0700</pubDate>
+		<title>
+			<![CDATA[Nicole add a quote by Charles Darwin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/78076-if-i-had-my-life-to-live-over-again-i]]>
+		</link>
+		<description>
+	    <![CDATA["If I had my life to live over again, I would have made a rule to read some poetry and listen to some music at least once every week." -- Charles Darwin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

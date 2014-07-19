@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/228091-vivi]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/228091-vivi" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 14 Jul 2008 02:50:29 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/764-a-room-without-books-is-like-a-body-without-a</guid>
+		<pubDate>Mon, 14 Jul 2008 02:50:29 -0700</pubDate>
+		<title>
+			<![CDATA[Vivi add a quote by Marcus Tullius Cicero]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/764-a-room-without-books-is-like-a-body-without-a]]>
+		</link>
+		<description>
+	    <![CDATA["A room without books is like a body without a soul." -- Marcus Tullius Cicero]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2340-twenty-years-from-now-you-will-be-more-disappointed-by</guid>
+		<pubDate>Mon, 14 Jul 2008 02:54:09 -0700</pubDate>
+		<title>
+			<![CDATA[Vivi add a quote by H. Jackson Brown Jr.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2340-twenty-years-from-now-you-will-be-more-disappointed-by]]>
+		</link>
+		<description>
+	    <![CDATA["Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover." -- H. Jackson Brown Jr.]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2253-live-as-if-you-were-to-die-tomorrow-learn-as</guid>
+		<pubDate>Mon, 14 Jul 2008 02:54:41 -0700</pubDate>
+		<title>
+			<![CDATA[Vivi add a quote by Mahatma Gandhi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2253-live-as-if-you-were-to-die-tomorrow-learn-as]]>
+		</link>
+		<description>
+	    <![CDATA["Live as if you were to die tomorrow. Learn as if you were to live forever." -- Mahatma Gandhi]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/555510-amy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/555510-amy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 24 Dec 2007 16:44:50 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/7539-i-laugh-at-myself-i-don-t-take-myself-completely-seriously</guid>
+		<pubDate>Mon, 24 Dec 2007 16:44:50 -0800</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Madonna]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7539-i-laugh-at-myself-i-don-t-take-myself-completely-seriously]]>
+		</link>
+		<description>
+	    <![CDATA["I laugh at myself. 
+I don't take myself completely seriously. 
+I think that's another quality that people have to hold on to... you have to laugh, especially at yourself." -- Madonna]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/745-perhaps-all-the-dragons-in-our-lives-are-princesses-who</guid>
+		<pubDate>Mon, 24 Dec 2007 16:46:11 -0800</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Rainer Maria Rilke]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/745-perhaps-all-the-dragons-in-our-lives-are-princesses-who]]>
+		</link>
+		<description>
+	    <![CDATA["Perhaps all the dragons in our lives are princesses who are only waiting to see us act, just once, with beauty and courage. Perhaps everything that frightens us is, in its deepest essence, something helpless that wants our love." -- Rainer Maria Rilke]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

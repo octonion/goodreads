@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/848480-maria-nicklin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/848480-maria-nicklin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 31 Jan 2008 11:22:21 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/184-animals-are-my-friends-and-i-don-t-eat-my-friends</guid>
+		<pubDate>Thu, 31 Jan 2008 11:22:21 -0800</pubDate>
+		<title>
+			<![CDATA[Maria add a quote by George Bernard Shaw]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/184-animals-are-my-friends-and-i-don-t-eat-my-friends]]>
+		</link>
+		<description>
+	    <![CDATA["Animals are my friends...and I don't eat my friends." -- George Bernard Shaw]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2627-the-trouble-with-having-an-open-mind-of-course-is</guid>
+		<pubDate>Mon, 28 Apr 2008 05:22:41 -0700</pubDate>
+		<title>
+			<![CDATA[Maria add a quote by Terry Pratchett]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2627-the-trouble-with-having-an-open-mind-of-course-is]]>
+		</link>
+		<description>
+	    <![CDATA["The trouble with having an open mind, of course, is that people will insist on coming along and trying to put things in it." -- Terry Pratchett]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

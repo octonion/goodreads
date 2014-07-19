@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/636942-susan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/636942-susan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 31 Dec 2013 13:39:50 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5402-so-it-s-not-gonna-be-easy-it-s-going-to-be</guid>
+		<pubDate>Tue, 31 Dec 2013 13:39:50 -0800</pubDate>
+		<title>
+			<![CDATA[Susan add a quote by Nicholas Sparks]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5402-so-it-s-not-gonna-be-easy-it-s-going-to-be]]>
+		</link>
+		<description>
+	    <![CDATA["So it's not gonna be easy. It's going to be really hard; we're gonna have to work at this everyday, but I want to do that because I want you. I want all of you, forever, everyday. You and me... everyday." -- Nicholas Sparks]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/81972-relying-on-god-has-to-begin-all-over-again-every</guid>
+		<pubDate>Tue, 31 Dec 2013 13:39:52 -0800</pubDate>
+		<title>
+			<![CDATA[Susan add a quote by C.S. Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/81972-relying-on-god-has-to-begin-all-over-again-every]]>
+		</link>
+		<description>
+	    <![CDATA["Relying on God has to begin all over again every day as if nothing had yet been done." -- C.S. Lewis]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

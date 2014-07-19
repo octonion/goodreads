@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/994676-tara]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/994676-tara" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 07 Sep 2008 11:59:12 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/677-the-opposite-of-love-is-not-hate-it-s-indifference-the</guid>
+		<pubDate>Sun, 07 Sep 2008 11:59:12 -0700</pubDate>
+		<title>
+			<![CDATA[Tara add a quote by Elie Wiesel]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/677-the-opposite-of-love-is-not-hate-it-s-indifference-the]]>
+		</link>
+		<description>
+	    <![CDATA["The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference." -- Elie Wiesel]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/131362-busy-is-another-word-for-asshole-asshole-is-another-word</guid>
+		<pubDate>Tue, 26 May 2009 07:11:48 -0700</pubDate>
+		<title>
+			<![CDATA[Tara add a quote by Greg Behrendt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/131362-busy-is-another-word-for-asshole-asshole-is-another-word]]>
+		</link>
+		<description>
+	    <![CDATA["Busy' is another word for 'asshole'. 'Asshole' is another word for the guy you're dating." -- Greg Behrendt]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

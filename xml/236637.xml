@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/236637-alison]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/236637-alison" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 06 Sep 2013 12:00:27 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/236614-lord-grant-me-the-strength-to-accept-the-things-i</guid>
+		<pubDate>Fri, 06 Sep 2013 12:00:27 -0700</pubDate>
+		<title>
+			<![CDATA[Alison add a quote by St. Francis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/236614-lord-grant-me-the-strength-to-accept-the-things-i]]>
+		</link>
+		<description>
+	    <![CDATA["Lord, grant me the strength to accept the things I cannot change,
+he courage to change the things I can,
+and the wisdom to know the difference." -- St. Francis]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

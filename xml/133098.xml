@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/133098-adam]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/133098-adam" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 27 Jan 2014 23:07:23 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1014851-tolerating-little-aches-and-injuries-because-your-ego-will-not</guid>
+		<pubDate>Mon, 27 Jan 2014 23:07:23 -0800</pubDate>
+		<title>
+			<![CDATA[Adam add a quote by John Morelock]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1014851-tolerating-little-aches-and-injuries-because-your-ego-will-not]]>
+		</link>
+		<description>
+	    <![CDATA["Tolerating little aches and injuries because your ego will not allow you to take the time off to recover will cause continual nagging distractions as you run." -- John Morelock]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/917428-kamol-lodi]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/917428-kamol-lodi" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 18 Feb 2008 01:56:16 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/54-don-t-walk-behind-me-i-may-not-lead-don-t-walk</guid>
+		<pubDate>Mon, 18 Feb 2008 01:56:16 -0800</pubDate>
+		<title>
+			<![CDATA[Kamol add a quote by Albert Camus]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/54-don-t-walk-behind-me-i-may-not-lead-don-t-walk]]>
+		</link>
+		<description>
+	    <![CDATA["Don't walk behind me; I may not lead. Don't walk in front of me; I may not follow. Just walk beside me and be my friend." -- Albert Camus]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/943-darkness-cannot-drive-out-darkness-only-light-can-do-that</guid>
+		<pubDate>Mon, 18 Feb 2008 02:01:44 -0800</pubDate>
+		<title>
+			<![CDATA[Kamol add a quote by Martin Luther King Jr.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/943-darkness-cannot-drive-out-darkness-only-light-can-do-that]]>
+		</link>
+		<description>
+	    <![CDATA["Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that." -- Martin Luther King Jr.]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

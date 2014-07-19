@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/327355-eliza]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/327355-eliza" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 17 Aug 2012 16:45:13 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/607996-time-is-clearly-not-our-natural-dimension-thus-it-is</guid>
+		<pubDate>Fri, 17 Aug 2012 16:45:13 -0700</pubDate>
+		<title>
+			<![CDATA[Eliza add a quote by Neal A. Maxwell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/607996-time-is-clearly-not-our-natural-dimension-thus-it-is]]>
+		</link>
+		<description>
+	    <![CDATA["Time is clearly not our natural dimension. Thus it is that we are never really at home in time. Alternately, we find ourselves wishing to hasten the passage of time or to hold back the dawn. We can do neither, of course, but whereas the fish is at home in water, we are clearly not at home in time--because we belong to eternity." -- Neal A. Maxwell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

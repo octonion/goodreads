@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/182887-jane]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/182887-jane" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 22 Feb 2010 19:11:19 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/234152-i-like-a-lot-of-talk-in-a-book-and</guid>
+		<pubDate>Mon, 22 Feb 2010 19:11:19 -0800</pubDate>
+		<title>
+			<![CDATA[Jane add a quote by John Steinbeck]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/234152-i-like-a-lot-of-talk-in-a-book-and]]>
+		</link>
+		<description>
+	    <![CDATA["I like a lot of talk in a book and I don't like to have nobody tell me what the guy that's talking looks like. I want to figure out what he looks like from the way he talks" -- John Steinbeck]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/19884-be-yourself-everyone-else-is-already-taken</guid>
+		<pubDate>Thu, 13 Feb 2014 18:25:36 -0800</pubDate>
+		<title>
+			<![CDATA[Jane add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/19884-be-yourself-everyone-else-is-already-taken]]>
+		</link>
+		<description>
+	    <![CDATA["Be yourself; everyone else is already taken." -- Oscar Wilde]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

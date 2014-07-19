@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/32954-susan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/32954-susan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 03 Nov 2013 19:43:05 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/153082-we-are-all-mistaken-sometimes-sometimes-we-do-wrong-things</guid>
+		<pubDate>Sun, 03 Nov 2013 19:43:05 -0800</pubDate>
+		<title>
+			<![CDATA[susan add a quote by Alison Croggon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/153082-we-are-all-mistaken-sometimes-sometimes-we-do-wrong-things]]>
+		</link>
+		<description>
+	    <![CDATA["We are all mistaken sometimes; sometimes we do wrong things, things that have bad consequences. But it does not mean we are evil, or that we cannot be trusted ever afterward." -- Alison Croggon]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/127200-keep-in-mind-hurting-people-often-hurt-other-people-as</guid>
+		<pubDate>Sun, 03 Nov 2013 19:50:48 -0800</pubDate>
+		<title>
+			<![CDATA[susan add a quote by Joel Osteen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/127200-keep-in-mind-hurting-people-often-hurt-other-people-as]]>
+		</link>
+		<description>
+	    <![CDATA["Keep in mind, hurting people often hurt other people as a result of their own pain. If somebody is rude and inconsiderate, you can almost be certain that they have some unresolved issues inside. They have some major problems, anger, resentment, or some heartache they are trying to cope with or overcome. The last thing they need is for you to make matters worse by responding angrily." -- Joel Osteen]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/792912-annie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/792912-annie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 17 Aug 2010 09:05:35 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/22639-only-as-high-as-i-reach-can-i-grow-only</guid>
+		<pubDate>Tue, 17 Aug 2010 09:05:35 -0700</pubDate>
+		<title>
+			<![CDATA[Annie add a quote by Karen Ravn]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22639-only-as-high-as-i-reach-can-i-grow-only]]>
+		</link>
+		<description>
+	    <![CDATA["Only as high as I reach can I grow
+Only as far as I seek can I go
+Only as deep as I look can I see
+Only as much as I dream can I be" -- Karen Ravn]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/7498-ut-haec-ipsa-qui-non-sentiat-deorum-vim-habere-is</guid>
+		<pubDate>Thu, 23 Aug 2012 13:03:22 -0700</pubDate>
+		<title>
+			<![CDATA[Annie add a quote by Horace]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7498-ut-haec-ipsa-qui-non-sentiat-deorum-vim-habere-is]]>
+		</link>
+		<description>
+	    <![CDATA["Ut haec ipsa qui non sentiat deorum vim habere is nihil omnino sensurus esse videatur.&quot;
+
+If any man cannot feel the power of God when he looks upon the stars, then I doubt whether he is capable of any feeling at all." -- Horace]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/81415-to-know-and-not-to-do-is-really-not-to</guid>
+		<pubDate>Tue, 28 Jan 2014 11:18:49 -0800</pubDate>
+		<title>
+			<![CDATA[Annie add a quote by Stephen Covey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/81415-to-know-and-not-to-do-is-really-not-to]]>
+		</link>
+		<description>
+	    <![CDATA["To know and not to do is really not to know." -- Stephen Covey]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

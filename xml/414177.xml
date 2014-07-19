@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/414177-alix]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/414177-alix" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 21 Jul 2013 16:50:50 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/778-it-is-not-a-lack-of-love-but-a-lack</guid>
+		<pubDate>Sun, 21 Jul 2013 16:50:50 -0700</pubDate>
+		<title>
+			<![CDATA[Alix add a quote by Friedrich Nietzsche]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/778-it-is-not-a-lack-of-love-but-a-lack]]>
+		</link>
+		<description>
+	    <![CDATA["It is not a lack of love, but a lack of friendship that makes unhappy marriages." -- Friedrich Nietzsche]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/123511-once-there-was-a-tree-and-she-loved-a-little</guid>
+		<pubDate>Wed, 25 Sep 2013 21:13:39 -0700</pubDate>
+		<title>
+			<![CDATA[Alix add a quote by Shel Silverstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/123511-once-there-was-a-tree-and-she-loved-a-little]]>
+		</link>
+		<description>
+	    <![CDATA["Once there was a tree, and she loved a little boy." -- Shel Silverstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/330544-anticipation-it-occurred-to-him-that-his-anticipation-was-more</guid>
+		<pubDate>Sun, 19 Jan 2014 07:09:22 -0800</pubDate>
+		<title>
+			<![CDATA[Alix add a quote by Patricia Highsmith]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/330544-anticipation-it-occurred-to-him-that-his-anticipation-was-more]]>
+		</link>
+		<description>
+	    <![CDATA["Anticipation! It occurred to him that his anticipation was more pleasant to him than the experiencing." -- Patricia Highsmith]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

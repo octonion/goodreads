@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/541185-ms-foulke]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/541185-ms-foulke" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 13 Jun 2013 14:55:16 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/37902-if-we-bear-all-this-suffering-and-if-there-are</guid>
+		<pubDate>Thu, 13 Jun 2013 14:55:16 -0700</pubDate>
+		<title>
+			<![CDATA[Ms. add a quote by Anne Frank]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/37902-if-we-bear-all-this-suffering-and-if-there-are]]>
+		</link>
+		<description>
+	    <![CDATA["If we bear all this suffering and if there are still Jews left, when it is over, then Jews, instead of being doomed, will be held up as an example." -- Anne Frank]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/284397-life-s-too-short-to-be-organized</guid>
+		<pubDate>Thu, 13 Jun 2013 14:54:07 -0700</pubDate>
+		<title>
+			<![CDATA[Ms. add a quote by Kendall Schmidt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/284397-life-s-too-short-to-be-organized]]>
+		</link>
+		<description>
+	    <![CDATA["Life's too short to be organized!" -- Kendall Schmidt]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

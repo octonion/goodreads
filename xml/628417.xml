@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/628417-jack-ryan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/628417-jack-ryan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 21 Dec 2007 17:24:28 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6919-welcome-o-life-i-go-to-encounter-for-the-millionth</guid>
+		<pubDate>Fri, 21 Dec 2007 17:24:28 -0800</pubDate>
+		<title>
+			<![CDATA[jack add a quote by James Joyce]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6919-welcome-o-life-i-go-to-encounter-for-the-millionth]]>
+		</link>
+		<description>
+	    <![CDATA["Welcome, O life! I go to encounter for the millionth time the reality of experience and to forge in the smithy of my soul the uncreated conscience of my race." -- James Joyce]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/996929-duncan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/996929-duncan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 16 Mar 2008 18:21:23 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/12556-the-truth-will-set-you-free-either-that-or-it-ll</guid>
+		<pubDate>Sun, 16 Mar 2008 18:21:23 -0700</pubDate>
+		<title>
+			<![CDATA[Duncan add a quote by Nick Hornby]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12556-the-truth-will-set-you-free-either-that-or-it-ll]]>
+		</link>
+		<description>
+	    <![CDATA["The truth will set you free. Either that or it'll get you a punch in the nose. " -- Nick Hornby]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1799-the-world-as-we-have-created-it-is-a-process</guid>
+		<pubDate>Sun, 16 Mar 2008 18:35:08 -0700</pubDate>
+		<title>
+			<![CDATA[Duncan add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1799-the-world-as-we-have-created-it-is-a-process]]>
+		</link>
+		<description>
+	    <![CDATA["The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking." -- Albert Einstein]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

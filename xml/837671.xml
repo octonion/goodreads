@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/837671-fara]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/837671-fara" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 26 Jan 2008 19:25:55 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/17902-to-be-stupid-selfish-and-have-good-health-are-three</guid>
+		<pubDate>Sat, 26 Jan 2008 19:25:55 -0800</pubDate>
+		<title>
+			<![CDATA[Fara add a quote by Gustave Flaubert]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17902-to-be-stupid-selfish-and-have-good-health-are-three]]>
+		</link>
+		<description>
+	    <![CDATA["To be stupid, selfish, and have good health are three requirements for happiness, though if stupidity is lacking, all is lost." -- Gustave Flaubert]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/18090-if-you-set-to-work-to-believe-everything-you-will</guid>
+		<pubDate>Sun, 27 Jan 2008 10:09:10 -0800</pubDate>
+		<title>
+			<![CDATA[Fara add a quote by Lewis Carroll]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18090-if-you-set-to-work-to-believe-everything-you-will]]>
+		</link>
+		<description>
+	    <![CDATA["If you set to work to believe everything, you will tire out the believing-muscles of your mind, and then you'll be so weak you won't be able to believe the simplest true things." -- Lewis Carroll]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

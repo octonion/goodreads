@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/873242-laska]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/873242-laska" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 06 Feb 2008 11:55:06 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/22106-how-does-one-become-a-butterfly-they-have-to-want</guid>
+		<pubDate>Wed, 06 Feb 2008 11:55:06 -0800</pubDate>
+		<title>
+			<![CDATA[Laska add a quote by Trina Paulus]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22106-how-does-one-become-a-butterfly-they-have-to-want]]>
+		</link>
+		<description>
+	    <![CDATA["How does one become a butterfly? They have to want to learn to fly so much that you are willing to give up being a caterpillar." -- Trina Paulus]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

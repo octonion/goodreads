@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/867015-robin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/867015-robin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 30 Oct 2013 22:04:54 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/57228-flesh-and-blood-needs-flesh-and-blood-and-you-re-the</guid>
+		<pubDate>Wed, 30 Oct 2013 22:04:54 -0700</pubDate>
+		<title>
+			<![CDATA[Robin add a quote by Johnny Cash]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/57228-flesh-and-blood-needs-flesh-and-blood-and-you-re-the]]>
+		</link>
+		<description>
+	    <![CDATA["Flesh and blood needs flesh and blood, and you're the one I need" -- Johnny Cash]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/848383-i-never-look-at-a-painting-and-ask-is-this</guid>
+		<pubDate>Fri, 20 Jun 2014 17:37:46 -0700</pubDate>
+		<title>
+			<![CDATA[Robin add a quote by Scott McClanahan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/848383-i-never-look-at-a-painting-and-ask-is-this]]>
+		</link>
+		<description>
+	    <![CDATA["I never look at a painting and ask, &quot;Is this painting fictional or non-fictional?&quot; It's just a painting." -- Scott McClanahan]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

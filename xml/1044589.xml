@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1044589-rob-lackner]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1044589-rob-lackner" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 Apr 2008 07:24:25 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/40382-the-world-is-very-flat-there-is-no-doubt-of</guid>
+		<pubDate>Tue, 01 Apr 2008 07:24:25 -0700</pubDate>
+		<title>
+			<![CDATA[Rob add a quote by E. V. Rieu]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/40382-the-world-is-very-flat-there-is-no-doubt-of]]>
+		</link>
+		<description>
+	    <![CDATA["The World is Very Flat, There is no doubt of that. (Night Thoughts of a tortoise suffering fom insomnia on a lawn)" -- E. V. Rieu]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/40383-i-never-saw-a-purple-cow-i-never-hope-to</guid>
+		<pubDate>Tue, 01 Apr 2008 07:25:17 -0700</pubDate>
+		<title>
+			<![CDATA[Rob add a quote by Gelett Burgess]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/40383-i-never-saw-a-purple-cow-i-never-hope-to]]>
+		</link>
+		<description>
+	    <![CDATA["I never saw a Purple Cow, I never hope to see one; But I can tell you, anyhow, I'd rather see than be one." -- Gelett Burgess]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

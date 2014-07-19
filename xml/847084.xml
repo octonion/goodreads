@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/847084-silvia]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/847084-silvia" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 09 Jan 2009 19:16:29 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/128955-he-thinks-of-that-ocean-house-and-wishes-he-were</guid>
+		<pubDate>Fri, 09 Jan 2009 19:16:29 -0800</pubDate>
+		<title>
+			<![CDATA[Silvia add a quote by Stephen Dobyns]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/128955-he-thinks-of-that-ocean-house-and-wishes-he-were]]>
+		</link>
+		<description>
+	    <![CDATA["He thinks of that ocean house and wishes he were back in his former life or that one could take one moment and remain inside it like an egg inside its shell, instead of constantly being hurried into the future by good luck or bad." -- Stephen Dobyns]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

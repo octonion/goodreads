@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/300991-jenny]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/300991-jenny" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 03 Mar 2008 09:46:09 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/30542-the-best-laid-schemes-o-mice-an-men-gang-aft</guid>
+		<pubDate>Mon, 03 Mar 2008 09:46:09 -0800</pubDate>
+		<title>
+			<![CDATA[Jenny add a quote by Robert Burns]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/30542-the-best-laid-schemes-o-mice-an-men-gang-aft]]>
+		</link>
+		<description>
+	    <![CDATA["The best laid schemes o' mice an' men gang aft agley." -- Robert Burns]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/32567-winter-garden-the-moon-thinned-to-a-thread-insects-singing</guid>
+		<pubDate>Sat, 08 Mar 2008 19:07:16 -0800</pubDate>
+		<title>
+			<![CDATA[Jenny add a quote by Matsuo Basho]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/32567-winter-garden-the-moon-thinned-to-a-thread-insects-singing]]>
+		</link>
+		<description>
+	    <![CDATA["Winter garden,
+the moon thinned to a thread,
+insects singing." -- Matsuo Basho]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2352-poems-are-never-finished---just-abandoned</guid>
+		<pubDate>Fri, 14 Mar 2008 07:51:45 -0700</pubDate>
+		<title>
+			<![CDATA[Jenny add a quote by Paul Valery]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2352-poems-are-never-finished---just-abandoned]]>
+		</link>
+		<description>
+	    <![CDATA["Poems are never finished - just abandoned" -- Paul Valery]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

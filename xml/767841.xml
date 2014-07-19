@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/767841-melani]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/767841-melani" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 07 Dec 2011 09:14:44 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/10393-the-true-secret-in-being-a-hero-lies-in-knowing</guid>
+		<pubDate>Wed, 07 Dec 2011 09:14:44 -0800</pubDate>
+		<title>
+			<![CDATA[Melani add a quote by Peter S. Beagle]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10393-the-true-secret-in-being-a-hero-lies-in-knowing]]>
+		</link>
+		<description>
+	    <![CDATA["The true secret in being a hero lies in knowing the order of things. The swineherd cannot already be wed to the princess when he embarks on his adventures, nor can the boy knock on the witch's door when she is already away on vacation. The wicked uncle cannot be found out and foiled before he does something wicked. Things must happen when it is time for them to happen. Quests may not simply be abandoned; prophecies may not be left to rot like unpicked fruit; unicorns may go unrescued for a very long time, but not forever. The happy ending cannot come in the middle of the story." -- Peter S. Beagle]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

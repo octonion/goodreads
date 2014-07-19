@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/95123-tara]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/95123-tara" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 27 May 2014 14:44:13 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/299035-it-is-easy-to-tell-the-toiler-how-best-he</guid>
+		<pubDate>Tue, 27 May 2014 14:44:13 -0700</pubDate>
+		<title>
+			<![CDATA[Tara add a quote by Ella Wheeler Wilcox]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/299035-it-is-easy-to-tell-the-toiler-how-best-he]]>
+		</link>
+		<description>
+	    <![CDATA["It is easy to tell the toiler 
+How best he can carry his pack
+But no one can rate a burden's weight
+Until it has been on his back" -- Ella Wheeler Wilcox]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

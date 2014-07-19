@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/644918-jim]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/644918-jim" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 27 Nov 2007 16:06:31 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1731-the-world-doesn-t-want-to-hear-about-the-labor-pains</guid>
+		<pubDate>Tue, 27 Nov 2007 16:06:31 -0800</pubDate>
+		<title>
+			<![CDATA[Jim add a quote by Johnny Sain as told to Jim Bouton in Ball Four]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1731-the-world-doesn-t-want-to-hear-about-the-labor-pains]]>
+		</link>
+		<description>
+	    <![CDATA["The world doesn't want to hear about the labor pains, it only wants to see the baby." -- Johnny Sain as told to Jim Bouton in Ball Four]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/155656-the-men-who-really-believe-in-themselves-are-all-in</guid>
+		<pubDate>Thu, 20 Mar 2014 19:10:10 -0700</pubDate>
+		<title>
+			<![CDATA[Jim add a quote by G.K. Chesterton]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/155656-the-men-who-really-believe-in-themselves-are-all-in]]>
+		</link>
+		<description>
+	    <![CDATA["The men who really believe in themselves are all in lunatic asylums." -- G.K. Chesterton]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

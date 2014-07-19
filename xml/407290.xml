@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/407290-tom]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/407290-tom" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 20 Aug 2012 07:46:39 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/160333-the-only-calibration-that-counts-is-how-much-heart-people</guid>
+		<pubDate>Mon, 20 Aug 2012 07:46:39 -0700</pubDate>
+		<title>
+			<![CDATA[Tom add a quote by Ted Hughes]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/160333-the-only-calibration-that-counts-is-how-much-heart-people]]>
+		</link>
+		<description>
+	    <![CDATA["The only calibration that counts is how much heart people invest, how much they ignore their fears of being hurt or caught out or humiliated. And the only thing people regret is that they didn't live boldly enough, that they didn't invest enough heart, didn't love enough. Nothing else really counts at all." -- Ted Hughes]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/536961-the-reasonable-man-adapts-himself-to-the-world-the-unreasonable</guid>
+		<pubDate>Mon, 20 Aug 2012 08:02:19 -0700</pubDate>
+		<title>
+			<![CDATA[Tom add a quote by George Bernard Shaw]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/536961-the-reasonable-man-adapts-himself-to-the-world-the-unreasonable]]>
+		</link>
+		<description>
+	    <![CDATA["The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man." -- George Bernard Shaw]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

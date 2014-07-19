@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/665456-michael-smith]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/665456-michael-smith" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 17 Feb 2008 13:45:51 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/865-be-who-you-are-and-say-what-you-feel-because</guid>
+		<pubDate>Sun, 17 Feb 2008 13:45:51 -0800</pubDate>
+		<title>
+			<![CDATA[Michael add a quote by Bernard M. Baruch]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/865-be-who-you-are-and-say-what-you-feel-because]]>
+		</link>
+		<description>
+	    <![CDATA["Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind." -- Bernard M. Baruch]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/8-talent-hits-a-target-no-one-else-can-hit-genius</guid>
+		<pubDate>Thu, 06 Dec 2007 17:45:20 -0800</pubDate>
+		<title>
+			<![CDATA[Michael add a quote by Arthur Schopenhauer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8-talent-hits-a-target-no-one-else-can-hit-genius]]>
+		</link>
+		<description>
+	    <![CDATA["Talent hits a target no one else can hit. Genius hits a target no one else can see." -- Arthur Schopenhauer]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/352-outside-of-a-dog-a-book-is-man-s-best-friend</guid>
+		<pubDate>Thu, 06 Dec 2007 17:54:29 -0800</pubDate>
+		<title>
+			<![CDATA[Michael add a quote by Groucho Marx]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/352-outside-of-a-dog-a-book-is-man-s-best-friend]]>
+		</link>
+		<description>
+	    <![CDATA["Outside of a dog, a book is man's best friend. Inside of a dog it's too dark to read." -- Groucho Marx]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3850-i-went-to-a-bookstore-and-asked-the-saleswoman-where-s</guid>
+		<pubDate>Thu, 06 Dec 2007 17:59:07 -0800</pubDate>
+		<title>
+			<![CDATA[Michael add a quote by George Carlin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3850-i-went-to-a-bookstore-and-asked-the-saleswoman-where-s]]>
+		</link>
+		<description>
+	    <![CDATA["I went to a bookstore and asked the saleswoman, 'Where's the self-help section?' She said if she told me, it would defeat the purpose." -- George Carlin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

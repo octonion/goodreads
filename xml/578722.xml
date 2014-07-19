@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/578722-tina]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/578722-tina" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 21 Sep 2011 10:08:03 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/431706-kids-can-handle-a-lot-more-than-you-think-they</guid>
+		<pubDate>Wed, 21 Sep 2011 10:08:03 -0700</pubDate>
+		<title>
+			<![CDATA[Tina add a quote by Anne Ursu]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/431706-kids-can-handle-a-lot-more-than-you-think-they]]>
+		</link>
+		<description>
+	    <![CDATA["Kids can handle a lot more than you think they can. It's when they get to be grown up that you have to start worrying." -- Anne Ursu]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/149389-all-i-want-is-a-best-friend-whom-i-can-t</guid>
+		<pubDate>Wed, 01 Aug 2012 10:16:53 -0700</pubDate>
+		<title>
+			<![CDATA[Tina add a quote by Robin Palmer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/149389-all-i-want-is-a-best-friend-whom-i-can-t]]>
+		</link>
+		<description>
+	    <![CDATA["All I want is a best friend whom I can't wait to kiss again." -- Robin Palmer]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/365-you-have-to-write-the-book-that-wants-to-be</guid>
+		<pubDate>Thu, 09 May 2013 10:29:53 -0700</pubDate>
+		<title>
+			<![CDATA[Tina add a quote by Madeleine L'Engle]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/365-you-have-to-write-the-book-that-wants-to-be]]>
+		</link>
+		<description>
+	    <![CDATA["You have to write the book that wants to be written. And if the book will be too difficult for grown-ups, then you write it for children." -- Madeleine L'Engle]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

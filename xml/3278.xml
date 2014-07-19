@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/3278-shahab]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/3278-shahab" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 06 Jun 2013 05:09:07 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/15454-the-smart-way-to-keep-people-passive-and-obedient-is</guid>
+		<pubDate>Thu, 06 Jun 2013 05:09:07 -0700</pubDate>
+		<title>
+			<![CDATA[shahab add a quote by Noam Chomsky]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/15454-the-smart-way-to-keep-people-passive-and-obedient-is]]>
+		</link>
+		<description>
+	    <![CDATA["The smart way to keep people passive and obedient is to strictly limit the spectrum of acceptable opinion, but allow very lively debate within that spectrum...." -- Noam Chomsky]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3719-for-darkness-restores-what-light-cannot-repair</guid>
+		<pubDate>Sun, 14 Jul 2013 15:49:54 -0700</pubDate>
+		<title>
+			<![CDATA[shahab add a quote by Joseph Brodsky]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3719-for-darkness-restores-what-light-cannot-repair]]>
+		</link>
+		<description>
+	    <![CDATA["For darkness restores what light cannot repair." -- Joseph Brodsky]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/193451-you-can-hold-yourself-back-from-the-sufferings-of-the</guid>
+		<pubDate>Sat, 20 Jul 2013 21:06:41 -0700</pubDate>
+		<title>
+			<![CDATA[shahab add a quote by Franz Kafka]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/193451-you-can-hold-yourself-back-from-the-sufferings-of-the]]>
+		</link>
+		<description>
+	    <![CDATA["You can hold yourself back from the sufferings of the world, that is something you are free to do and it accords with your nature, but perhaps this very holding back is the one suffering you could avoid." -- Franz Kafka]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

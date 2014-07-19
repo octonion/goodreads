@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/276616-tarafina]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/276616-tarafina" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 21 Feb 2011 15:24:35 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/347248-in-the-past-when-people-criticized-me-for-asking-unexpected</guid>
+		<pubDate>Mon, 21 Feb 2011 15:24:35 -0800</pubDate>
+		<title>
+			<![CDATA[Tarafina add a quote by John Elder Robison]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/347248-in-the-past-when-people-criticized-me-for-asking-unexpected]]>
+		</link>
+		<description>
+	    <![CDATA["In the past, when people criticized me for asking unexpected questions, I felt ashamed. Now I realize that normal people are acting in a superficial and often false manner. So rather than let them make me feel bad, I express my annoyance. It's my way of trying to strike a blow for logic and rationality." -- John Elder Robison]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

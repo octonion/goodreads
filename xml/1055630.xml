@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1055630-pamilia]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1055630-pamilia" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 22 Nov 2008 06:00:33 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/31860-i-ve-lived-through-some-terrible-things-in-my-life-some</guid>
+		<pubDate>Sat, 22 Nov 2008 06:00:33 -0800</pubDate>
+		<title>
+			<![CDATA[Pamilia add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/31860-i-ve-lived-through-some-terrible-things-in-my-life-some]]>
+		</link>
+		<description>
+	    <![CDATA["I've lived through some terrible things in my life, some of which actually happened." -- Mark Twain]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/69209-the-farther-backward-you-can-look-the-farther-forward-you</guid>
+		<pubDate>Wed, 17 Dec 2008 18:15:57 -0800</pubDate>
+		<title>
+			<![CDATA[Pamilia add a quote by Winston S. Churchill]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/69209-the-farther-backward-you-can-look-the-farther-forward-you]]>
+		</link>
+		<description>
+	    <![CDATA["The farther backward you can look, the farther forward you are likely to see." -- Winston S. Churchill]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/41565-if-all-our-misfortunes-were-laid-in-one-common-heap</guid>
+		<pubDate>Fri, 04 Apr 2008 11:51:58 -0700</pubDate>
+		<title>
+			<![CDATA[Pamilia add a quote by Socrates]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/41565-if-all-our-misfortunes-were-laid-in-one-common-heap]]>
+		</link>
+		<description>
+	    <![CDATA["If all our misfortunes were laid in one common heap whence everyone must take an equal portion, most people would be content to take their own and depart." -- Socrates]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

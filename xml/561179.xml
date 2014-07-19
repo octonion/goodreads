@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/561179-ellie-revert]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/561179-ellie-revert" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 12 Mar 2012 17:21:02 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/150553-there-are-some-people-you-like-immediately-some-whom-you</guid>
+		<pubDate>Mon, 12 Mar 2012 17:21:02 -0700</pubDate>
+		<title>
+			<![CDATA[Ellie add a quote by Douglas Adams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/150553-there-are-some-people-you-like-immediately-some-whom-you]]>
+		</link>
+		<description>
+	    <![CDATA["There are some people you like immediately, some whom you think you might learn to like in the fullness of time, and some that you simply want to push away from you with a sharp stick." -- Douglas Adams]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/204561-we-re-all-a-little-weird-and-life-is-a-little</guid>
+		<pubDate>Wed, 20 Jun 2012 12:15:46 -0700</pubDate>
+		<title>
+			<![CDATA[Ellie add a quote by Robert Fulghum]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/204561-we-re-all-a-little-weird-and-life-is-a-little]]>
+		</link>
+		<description>
+	    <![CDATA["We’re all a little weird. And life is a little weird. And when we find someone whose weirdness is compatible with ours, we join up with them and fall into mutually satisfying weirdness—and call it love—true love." -- Robert Fulghum]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

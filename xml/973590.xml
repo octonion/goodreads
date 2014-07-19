@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/973590-maria]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/973590-maria" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 08 Mar 2008 16:12:16 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5560-there-is-only-one-thing-in-the-world-worse-than</guid>
+		<pubDate>Sat, 08 Mar 2008 16:12:16 -0800</pubDate>
+		<title>
+			<![CDATA[Maria add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5560-there-is-only-one-thing-in-the-world-worse-than]]>
+		</link>
+		<description>
+	    <![CDATA["There is only one thing in the world worse than being talked about, and that is not being talked about." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/9994-women-are-meant-to-be-loved-not-to-be-understood</guid>
+		<pubDate>Sat, 08 Mar 2008 16:19:47 -0800</pubDate>
+		<title>
+			<![CDATA[Maria add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9994-women-are-meant-to-be-loved-not-to-be-understood]]>
+		</link>
+		<description>
+	    <![CDATA["Women are meant to be loved, not to be understood." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/7348-the-third-component-of-the-law-of-dharma-is-service</guid>
+		<pubDate>Sat, 08 Mar 2008 16:29:37 -0800</pubDate>
+		<title>
+			<![CDATA[Maria add a quote by Deepak Chopra]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7348-the-third-component-of-the-law-of-dharma-is-service]]>
+		</link>
+		<description>
+	    <![CDATA["The third component of the Law of Dharma is service to humanity--to serve your fellow human beings and to ask yourself the questions,&quot;How can I help? How can I help all those that I come into contact with?&quot; When you combine the ability to express your unique talent with service to humanity, then you make full use of the Law of Dharma." -- Deepak Chopra]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

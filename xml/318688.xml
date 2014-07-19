@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/318688-aaron]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/318688-aaron" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 11 Jun 2014 01:44:04 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1244059-the-only-way-you-are-going-to-experience-the-beauty</guid>
+		<pubDate>Wed, 11 Jun 2014 01:44:04 -0700</pubDate>
+		<title>
+			<![CDATA[Aaron add a quote by Brenden M Dilley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1244059-the-only-way-you-are-going-to-experience-the-beauty]]>
+		</link>
+		<description>
+	    <![CDATA["The only way you are going to experience the beauty of life is to stop obsessing about what’s wrong with it. Nobody is responsible for your happiness or perception of the world… but you. Life is funny like that; just when you think your life is at the center of the Universe, someone comes along and reminds you that your problems are minuscule in comparison and puts your entire existence back into perspective." -- Brenden M Dilley]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

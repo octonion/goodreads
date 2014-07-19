@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/964540-david-coleman]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/964540-david-coleman" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 04 Mar 2008 19:43:14 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3730-i-find-television-very-educating-every-time-somebody-turns-on</guid>
+		<pubDate>Tue, 04 Mar 2008 19:43:14 -0800</pubDate>
+		<title>
+			<![CDATA[David add a quote by Groucho Marx ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3730-i-find-television-very-educating-every-time-somebody-turns-on]]>
+		</link>
+		<description>
+	    <![CDATA["I find television very educating. Every time somebody turns on the set, I go into the other room and read a book." -- Groucho Marx ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/14116-a-paranoid-is-someone-who-knows-a-little-of-what-s</guid>
+		<pubDate>Tue, 04 Mar 2008 19:47:12 -0800</pubDate>
+		<title>
+			<![CDATA[David add a quote by William S. Burroughs]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14116-a-paranoid-is-someone-who-knows-a-little-of-what-s]]>
+		</link>
+		<description>
+	    <![CDATA["A paranoid is someone who knows a little of what's going on. A psychotic is a guy who's just found out what's going on." -- William S. Burroughs]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2308-one-of-the-few-good-things-about-modern-times-if</guid>
+		<pubDate>Tue, 04 Mar 2008 19:48:27 -0800</pubDate>
+		<title>
+			<![CDATA[David add a quote by Kurt Vonnegut]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2308-one-of-the-few-good-things-about-modern-times-if]]>
+		</link>
+		<description>
+	    <![CDATA["One of the few good things about modern times: If you die horribly on television, you will not have died in vain. You will have entertained us." -- Kurt Vonnegut]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/884117-jessica]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/884117-jessica" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 25 May 2009 18:45:35 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/164322-moreover-i-was-beginning-to-experience-something-new---the</guid>
+		<pubDate>Mon, 25 May 2009 18:45:35 -0700</pubDate>
+		<title>
+			<![CDATA[Jessica add a quote by John Wyndham (The Day of the Triffids)]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/164322-moreover-i-was-beginning-to-experience-something-new---the]]>
+		</link>
+		<description>
+	    <![CDATA["Moreover, I was beginning to experience something new - the fear of being alone. I had not been alone since I walked from the hospital along Piccadilly, and then there had been bewildering novelty in all I saw.  Now,for the first time I began to feel the horror that real loneliness holds for a species that is by nature gregarious. I felt naked, exposed to all the fears that prowled..." -- John Wyndham (The Day of the Triffids)]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

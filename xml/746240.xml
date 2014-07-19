@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/746240-melaina]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/746240-melaina" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 16 Jan 2008 13:49:23 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/13968-the-woman-who-creates-and-sustains-a-home-and-under</guid>
+		<pubDate>Wed, 16 Jan 2008 13:49:23 -0800</pubDate>
+		<title>
+			<![CDATA[Melaina add a quote by Helen Hunt Jackson ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13968-the-woman-who-creates-and-sustains-a-home-and-under]]>
+		</link>
+		<description>
+	    <![CDATA["The woman who creates and sustains a home, and under whose hands children grow up to be strong and pure men and women, is a creator second only to God." -- Helen Hunt Jackson ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/13971-cleanliness-is-not-next-to-godliness-it-isn-t-even-in</guid>
+		<pubDate>Wed, 16 Jan 2008 13:52:18 -0800</pubDate>
+		<title>
+			<![CDATA[Melaina add a quote by Erma Bombeck]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13971-cleanliness-is-not-next-to-godliness-it-isn-t-even-in]]>
+		</link>
+		<description>
+	    <![CDATA["Cleanliness is not next to godliness.  It isn't even in the same neighborhood.  No one has ever gotten a religious experience out of removing burned-on cheese from the grill of the toaster oven." -- Erma Bombeck]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

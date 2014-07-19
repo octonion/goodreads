@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/544571-will]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/544571-will" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 09 Jul 2014 06:46:20 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/629613-people-think-focus-means-saying-yes-to-the-thing-you-ve</guid>
+		<pubDate>Wed, 09 Jul 2014 06:46:20 -0700</pubDate>
+		<title>
+			<![CDATA[Will add a quote by Steve Jobs]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/629613-people-think-focus-means-saying-yes-to-the-thing-you-ve]]>
+		</link>
+		<description>
+	    <![CDATA["People think focus means saying yes to the thing you've got to focus on. But that's not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I'm actually as proud of the things we haven't done as the things I have done. Innovation is saying no to 1,000 things." -- Steve Jobs]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

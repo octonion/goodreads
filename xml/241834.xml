@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/241834-nina]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/241834-nina" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 14 Mar 2011 10:47:49 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/135808-the-voice-there-is-a-voice-inside-of-you-that</guid>
+		<pubDate>Mon, 14 Mar 2011 10:47:49 -0700</pubDate>
+		<title>
+			<![CDATA[Nina add a quote by Shel Silverstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/135808-the-voice-there-is-a-voice-inside-of-you-that]]>
+		</link>
+		<description>
+	    <![CDATA["The Voice
+
+There is a voice inside of you
+That whispers all day long,
+&quot;I feel this is right for me,
+I know that this is wrong.&quot;
+No teacher, preacher, parent, friend
+Or wise man can decide
+What's right for you--just listen to
+The voice that speaks inside." -- Shel Silverstein]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/317511-emerson-harris]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/317511-emerson-harris" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 10 Apr 2012 09:16:31 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/535065-people-say-to-me-how-do-i-know-if-a</guid>
+		<pubDate>Tue, 10 Apr 2012 09:16:31 -0700</pubDate>
+		<title>
+			<![CDATA[Emerson add a quote by Erin McKean]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/535065-people-say-to-me-how-do-i-know-if-a]]>
+		</link>
+		<description>
+	    <![CDATA["People say to me, ‘How do I know if a word is real?’ You know, anybody who’s read a children’s book knows that love makes things real. If you love a word, use it. That makes it real.” http://on.ted.com/BU00" -- Erin McKean]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

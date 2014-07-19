@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/985202-amanda]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/985202-amanda" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 29 Jan 2014 18:21:50 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/94296-vice-is-a-monster-of-so-frightful-mien-as-to</guid>
+		<pubDate>Wed, 29 Jan 2014 18:21:50 -0800</pubDate>
+		<title>
+			<![CDATA[Amanda add a quote by Alexander Pope]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/94296-vice-is-a-monster-of-so-frightful-mien-as-to]]>
+		</link>
+		<description>
+	    <![CDATA["Vice is a monster of so frightful mien
+As to be hated needs but to be seen;
+Yet seen too oft, familiar with her face,
+We first endure, then pity, then embrace." -- Alexander Pope]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

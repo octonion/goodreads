@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/795368-gina]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/795368-gina" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 21 Jan 2008 13:56:01 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/15565-beginnings-are-usually-scary-endings-are-usually-sad-but-it-s</guid>
+		<pubDate>Mon, 21 Jan 2008 13:56:01 -0800</pubDate>
+		<title>
+			<![CDATA[Gina add a quote by Steven Rogers]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/15565-beginnings-are-usually-scary-endings-are-usually-sad-but-it-s]]>
+		</link>
+		<description>
+	    <![CDATA["Beginnings are usually scary, endings are usually sad, but it's what's in the middle that counts.  So when you find yourself at the beginning, just give hope a chance to float up.  And it will." -- Steven Rogers]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

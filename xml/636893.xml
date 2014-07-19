@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/636893-joe-starnes]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/636893-joe-starnes" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 16 Nov 2011 11:00:24 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/462064-if-you-wait-until-you-got-time-to-write-a</guid>
+		<pubDate>Wed, 16 Nov 2011 11:00:24 -0800</pubDate>
+		<title>
+			<![CDATA[Joe add a quote by Harry Crews]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/462064-if-you-wait-until-you-got-time-to-write-a]]>
+		</link>
+		<description>
+	    <![CDATA["If you wait until you got time to write a novel, or time to write a story, or time to read the hundred thousands of books you should have already read - if you wait for the time, you will never do it. ‘Cause there ain’t no time; world don’t want you to do that. World wants you to go to the zoo and eat cotton candy, preferably seven days a week." -- Harry Crews]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/340787-yael-wagner]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/340787-yael-wagner" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 19 Jul 2013 15:03:54 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/427696-every-person-needs-to-take-one-day-away-a-day</guid>
+		<pubDate>Fri, 19 Jul 2013 15:03:54 -0700</pubDate>
+		<title>
+			<![CDATA[Yael add a quote by Maya Angelou]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/427696-every-person-needs-to-take-one-day-away-a-day]]>
+		</link>
+		<description>
+	    <![CDATA["Every person needs to take one day away.  A day in which one consciously separates the past from the future.  Jobs, family, employers, and friends can exist one day without any one of us, and if our egos permit us to confess, they could exist eternally in our absence.  Each person deserves a day away in which no problems are confronted, no solutions searched for.  Each of us needs to withdraw from the cares which will not withdraw from us." -- Maya Angelou]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/21262-tell-me-and-i-forget-teach-me-and-i-may</guid>
+		<pubDate>Thu, 06 Mar 2014 21:54:16 -0800</pubDate>
+		<title>
+			<![CDATA[Yael add a quote by Benjamin Franklin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21262-tell-me-and-i-forget-teach-me-and-i-may]]>
+		</link>
+		<description>
+	    <![CDATA["Tell me and I forget, teach me and I may remember, involve me and I learn." -- Benjamin Franklin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

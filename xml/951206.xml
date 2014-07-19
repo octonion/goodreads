@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/951206-tricia]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/951206-tricia" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 05 Jul 2014 15:27:27 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/76390-i-have-my-own-set-of-survival-techniques-i-am</guid>
+		<pubDate>Sat, 05 Jul 2014 15:27:27 -0700</pubDate>
+		<title>
+			<![CDATA[Tricia add a quote by Elizabeth Gilbert]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/76390-i-have-my-own-set-of-survival-techniques-i-am]]>
+		</link>
+		<description>
+	    <![CDATA["I have my own set of survival techniques.  I am patient.  I know how to pack light. But my one might travel talent is that I can make friends with anybody.  I can make friends with the dead. If there isn’t anyone else around to talk to, I could probably make friends with a four-foot-tall pile of sheetrock.  That is why I’m not afraid to travel to the most remote places in the world, not if there are human beings there to meet.  People asked me before I left, “do you have friends [there]?’ and I would just shake my head no, thinking to myself, But I will." -- Elizabeth Gilbert]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/967590-mary]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/967590-mary" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 17 Feb 2010 20:04:30 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/11396-this-was-her-life-not-the-life-she-had-once</guid>
+		<pubDate>Wed, 17 Feb 2010 20:04:30 -0800</pubDate>
+		<title>
+			<![CDATA[Mary add a quote by Kim Edwards]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11396-this-was-her-life-not-the-life-she-had-once]]>
+		</link>
+		<description>
+	    <![CDATA["This was her life. Not the life she had once dreamed of, not a life her younger self would ever have imagined or desired, but the life she was living, with all its complexities. This was her life, built with care and attention, and it was good." -- Kim Edwards]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/168128-you-can-t-stop-time-you-can-t-capture-light-you-can</guid>
+		<pubDate>Wed, 17 Feb 2010 20:04:56 -0800</pubDate>
+		<title>
+			<![CDATA[Mary add a quote by Kim Edwards]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/168128-you-can-t-stop-time-you-can-t-capture-light-you-can]]>
+		</link>
+		<description>
+	    <![CDATA["You can't stop time. You can't capture light. You can only turn your face up and let it rain down." -- Kim Edwards]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

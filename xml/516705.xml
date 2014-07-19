@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/516705-alli]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/516705-alli" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 16 Nov 2013 12:30:00 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/290494-tomorrow-we-will-only-give-them-a-leaf-of-the</guid>
+		<pubDate>Sat, 16 Nov 2013 12:30:00 -0800</pubDate>
+		<title>
+			<![CDATA[Alli add a quote by Pablo Neruda]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/290494-tomorrow-we-will-only-give-them-a-leaf-of-the]]>
+		</link>
+		<description>
+	    <![CDATA["Tomorrow we will only give them
+a leaf of the tree of our love, a leaf
+which will fall on the earth
+like if it had been made by our lips
+like a kiss which falls
+from our invincible heights
+to show the fire and the tenderness
+of a true love." -- Pablo Neruda]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/467409-we-must-dream-our-way</guid>
+		<pubDate>Sat, 16 Nov 2013 12:30:03 -0800</pubDate>
+		<title>
+			<![CDATA[Alli add a quote by Pablo Neruda]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/467409-we-must-dream-our-way]]>
+		</link>
+		<description>
+	    <![CDATA["We must dream our way." -- Pablo Neruda]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/795652-i-will-bring-you-flowers-from-the-mountains-bluebells-dark</guid>
+		<pubDate>Sat, 16 Nov 2013 12:30:18 -0800</pubDate>
+		<title>
+			<![CDATA[Alli add a quote by Pablo Neruda]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/795652-i-will-bring-you-flowers-from-the-mountains-bluebells-dark]]>
+		</link>
+		<description>
+	    <![CDATA["I will bring you flowers from the mountains, bluebells,
+dark hazels, and rustic baskets of kisses.
+I want to do with you 
+what spring does with the cherry trees." -- Pablo Neruda]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

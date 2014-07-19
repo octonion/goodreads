@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/75710-david]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/75710-david" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 26 Feb 2014 08:17:51 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/10147-then-a-miracle-occurred-in-the-form-of-a-plate</guid>
+		<pubDate>Wed, 26 Feb 2014 08:17:51 -0800</pubDate>
+		<title>
+			<![CDATA[David add a quote by Anne Carson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10147-then-a-miracle-occurred-in-the-form-of-a-plate]]>
+		</link>
+		<description>
+	    <![CDATA["Then a miracle occurred in the form of a plate of sandwiches.
+Geryon took three and buried his mouth in a delicious block of white bread filled with tomatoes and butter and salt.
+He thought about how delicious it was, how he liked slippery foods, how slipperiness can be of different kinds.
+I am a philosopher of sandwiches, he decided.  Things good on the inside." -- Anne Carson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/240508-i-want-there-to-be-a-place-in-the-world</guid>
+		<pubDate>Mon, 03 Mar 2014 07:53:54 -0800</pubDate>
+		<title>
+			<![CDATA[David add a quote by bell hooks]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/240508-i-want-there-to-be-a-place-in-the-world]]>
+		</link>
+		<description>
+	    <![CDATA["I want there to be a place in the world where people can engage in one another’s differences in a way that is redemptive, full of hope and possibility. Not this “In order to love you, I must make you something else”. That’s what domination is all about, that in order to be close to you, I must possess you, remake and recast you." -- bell hooks]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

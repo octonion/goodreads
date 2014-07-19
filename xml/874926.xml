@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/874926-michele]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/874926-michele" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 08 Feb 2008 18:06:20 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1392-when-we-honestly-ask-ourselves-which-person-in-our-lives</guid>
+		<pubDate>Fri, 08 Feb 2008 18:06:20 -0800</pubDate>
+		<title>
+			<![CDATA[Michele add a quote by Henri Nouwen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1392-when-we-honestly-ask-ourselves-which-person-in-our-lives]]>
+		</link>
+		<description>
+	    <![CDATA["When we honestly ask ourselves which person in our lives mean the most to us, we often find that it is those who, instead of giving advice, solutions, or cures, have chosen rather to share our pain and touch our wounds with a warm and tender hand. The friend who can be silent with us in a moment of despair or confusion, who can stay with us in an hour of grief and bereavement, who can tolerate not knowing, not curing, not healing and face with us the reality of our powerlessness, that is a friend who cares." -- Henri Nouwen]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/412492-lindsay-ferguson]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/412492-lindsay-ferguson" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 03 Mar 2008 17:59:15 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/19977-it-s-really-a-wonder-that-i-haven-t-dropped-all-my</guid>
+		<pubDate>Mon, 03 Mar 2008 17:59:15 -0800</pubDate>
+		<title>
+			<![CDATA[Lindsay add a quote by Anne Frank]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/19977-it-s-really-a-wonder-that-i-haven-t-dropped-all-my]]>
+		</link>
+		<description>
+	    <![CDATA["It's really a wonder that I haven't dropped all my ideals, because they seem so absurd and impossible to carry out. Yet I keep them, because in spite of everything, I still believe that people are really good at heart." -- Anne Frank]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/19152-i-think-the-only-way-to-get-through-this-life</guid>
+		<pubDate>Fri, 14 Mar 2008 12:10:37 -0700</pubDate>
+		<title>
+			<![CDATA[Lindsay add a quote by Shannon Hale]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/19152-i-think-the-only-way-to-get-through-this-life]]>
+		</link>
+		<description>
+	    <![CDATA["I think the only way to get through this life is laughing hard and constantly, mostly at myself." -- Shannon Hale]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

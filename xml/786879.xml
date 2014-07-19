@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/786879-matt]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/786879-matt" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 20 Jun 2010 16:03:35 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/269942-the-objectivity-of-the-narrator-is-a-modern-invention-we</guid>
+		<pubDate>Sun, 20 Jun 2010 16:03:35 -0700</pubDate>
+		<title>
+			<![CDATA[Matt add a quote by José Saramago]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/269942-the-objectivity-of-the-narrator-is-a-modern-invention-we]]>
+		</link>
+		<description>
+	    <![CDATA["The objectivity of the narrator is a modern invention, we need only reflect that our Lord God didn’t want it in his book." -- José Saramago]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/63954-a-klee-painting-named-angelus-novus-shows-an-angel-looking</guid>
+		<pubDate>Tue, 01 Nov 2011 17:02:07 -0700</pubDate>
+		<title>
+			<![CDATA[Matt add a quote by Walter Benjamin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/63954-a-klee-painting-named-angelus-novus-shows-an-angel-looking]]>
+		</link>
+		<description>
+	    <![CDATA["A Klee painting named 'Angelus Novus' shows an angel looking as though he is about to move away from something he is fixedly contemplating. His eyes are staring, his mouth is open, his wings are spread. This is how one pictures the angel of history. His face is turned toward the past. Where we perceive a chain of events, he sees one single catastrophe which keeps piling wreckage upon wreckage and hurls it in front of his feet. The angel would like to stay, awaken the dead, and make whole what has been smashed. But a storm is blowing from Paradise; it has got caught in his wings with such violence that the angel can no longer close them. This storm irresistibly propels him into the future to which his back is turned, while the pile of debris before him grows skyward. This storm is what we call progress." -- Walter Benjamin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

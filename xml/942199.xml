@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/942199-karen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/942199-karen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 08 Mar 2008 13:42:57 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1173-don-t-cry-because-it-s-over-smile-because-it-happened</guid>
+		<pubDate>Sat, 08 Mar 2008 13:42:57 -0800</pubDate>
+		<title>
+			<![CDATA[Karen add a quote by Dr. Seuss ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1173-don-t-cry-because-it-s-over-smile-because-it-happened]]>
+		</link>
+		<description>
+	    <![CDATA["Don't cry because it's over, smile because it happened." -- Dr. Seuss ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2887-if-you-judge-people-you-have-no-time-to-love</guid>
+		<pubDate>Sat, 08 Mar 2008 13:46:54 -0800</pubDate>
+		<title>
+			<![CDATA[Karen add a quote by Mother Teresa]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2887-if-you-judge-people-you-have-no-time-to-love]]>
+		</link>
+		<description>
+	    <![CDATA["If you judge people, you have no time to love them." -- Mother Teresa]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/9479-it-s-the-friends-you-can-call-up-at-4-a-m</guid>
+		<pubDate>Sat, 08 Mar 2008 13:50:00 -0800</pubDate>
+		<title>
+			<![CDATA[Karen add a quote by Marlene Dietrich]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9479-it-s-the-friends-you-can-call-up-at-4-a-m]]>
+		</link>
+		<description>
+	    <![CDATA["It's the friends you can call up at 4 a.m. that matter." -- Marlene Dietrich]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/927503-nathan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/927503-nathan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 22 Feb 2008 18:42:58 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3090-the-secret-of-life-is-honesty-and-fair-dealing-if</guid>
+		<pubDate>Fri, 22 Feb 2008 18:42:58 -0800</pubDate>
+		<title>
+			<![CDATA[Nathan add a quote by Groucho Marx]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3090-the-secret-of-life-is-honesty-and-fair-dealing-if]]>
+		</link>
+		<description>
+	    <![CDATA["The secret of life is honesty and fair dealing. If you can fake that, you've got it made." -- Groucho Marx]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1185-those-are-my-principles-and-if-you-don-t-like-them-well</guid>
+		<pubDate>Fri, 22 Feb 2008 18:43:06 -0800</pubDate>
+		<title>
+			<![CDATA[Nathan add a quote by Groucho Marx]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1185-those-are-my-principles-and-if-you-don-t-like-them-well]]>
+		</link>
+		<description>
+	    <![CDATA["Those are my principles, and if you don't like them...well I have others." -- Groucho Marx]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3742-a-cynic-is-a-man-who-when-he-smells-flowers</guid>
+		<pubDate>Fri, 22 Feb 2008 18:44:58 -0800</pubDate>
+		<title>
+			<![CDATA[Nathan add a quote by H.L. Mencken]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3742-a-cynic-is-a-man-who-when-he-smells-flowers]]>
+		</link>
+		<description>
+	    <![CDATA["A cynic is a man who, when he smells flowers, looks around for a coffin." -- H.L. Mencken]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

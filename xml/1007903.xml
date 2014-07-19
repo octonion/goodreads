@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1007903-virginia]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1007903-virginia" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 20 Mar 2014 16:36:04 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/115162-nobody-ever-lost-a-dollar-by-underestimating-the-taste-of</guid>
+		<pubDate>Thu, 20 Mar 2014 16:36:04 -0700</pubDate>
+		<title>
+			<![CDATA[Virginia add a quote by P.T. Barnum]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/115162-nobody-ever-lost-a-dollar-by-underestimating-the-taste-of]]>
+		</link>
+		<description>
+	    <![CDATA["Nobody ever lost a dollar by underestimating the taste of the American public." -- P.T. Barnum]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/340982-if-you-can-t-dazzle-them-with-brilliance-baffle-them-with</guid>
+		<pubDate>Sat, 22 Mar 2014 06:45:31 -0700</pubDate>
+		<title>
+			<![CDATA[Virginia add a quote by W.C. Fields]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/340982-if-you-can-t-dazzle-them-with-brilliance-baffle-them-with]]>
+		</link>
+		<description>
+	    <![CDATA["If you can't dazzle them with brilliance, baffle them with bullshit." -- W.C. Fields]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/41384-he-knows-nothing-and-he-thinks-he-knows-everything-that</guid>
+		<pubDate>Sat, 22 Mar 2014 07:57:36 -0700</pubDate>
+		<title>
+			<![CDATA[Virginia add a quote by George Bernard Shaw]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/41384-he-knows-nothing-and-he-thinks-he-knows-everything-that]]>
+		</link>
+		<description>
+	    <![CDATA["He knows nothing; and he thinks he knows everything. That points clearly to a political career." -- George Bernard Shaw]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

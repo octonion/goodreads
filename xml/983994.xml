@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/983994-ichlem]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/983994-ichlem" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 17 Apr 2008 22:29:16 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/14500-that-which-we-persist-in-doing-becomes-easier-to-do</guid>
+		<pubDate>Thu, 17 Apr 2008 22:29:16 -0700</pubDate>
+		<title>
+			<![CDATA[Ichlem add a quote by Heber J. Grant]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14500-that-which-we-persist-in-doing-becomes-easier-to-do]]>
+		</link>
+		<description>
+	    <![CDATA["That which we persist in doing becomes easier to do, not that the nature of the thing has changed, but our power to do so is increased." -- Heber J. Grant]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

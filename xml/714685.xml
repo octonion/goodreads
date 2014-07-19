@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/714685-abbi]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/714685-abbi" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 13 Feb 2008 19:43:08 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/434-he-s-like-a-drug-for-you-bella</guid>
+		<pubDate>Wed, 13 Feb 2008 19:43:08 -0800</pubDate>
+		<title>
+			<![CDATA[Abbi add a quote by Stephenie Meyer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/434-he-s-like-a-drug-for-you-bella]]>
+		</link>
+		<description>
+	    <![CDATA["He's like a drug for you, Bella." -- Stephenie Meyer]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/7989-of-course-it-is-happening-inside-your-head-harry-but</guid>
+		<pubDate>Wed, 13 Feb 2008 19:59:29 -0800</pubDate>
+		<title>
+			<![CDATA[Abbi add a quote by J.K. Rowling]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7989-of-course-it-is-happening-inside-your-head-harry-but]]>
+		</link>
+		<description>
+	    <![CDATA["Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?" -- J.K. Rowling]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/849687-melissa]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/849687-melissa" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 29 Jan 2008 10:03:19 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/18086-i-have-decided-to-stick-to-love-hate-is-too-great</guid>
+		<pubDate>Tue, 29 Jan 2008 10:03:19 -0800</pubDate>
+		<title>
+			<![CDATA[Melissa add a quote by Martin Luther King Jr.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18086-i-have-decided-to-stick-to-love-hate-is-too-great]]>
+		</link>
+		<description>
+	    <![CDATA["I have decided to stick to love...Hate is too great a burden to bear." -- Martin Luther King Jr.]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/991-until-i-feared-i-would-lose-it-i-never-loved</guid>
+		<pubDate>Sat, 05 Jul 2008 10:07:03 -0700</pubDate>
+		<title>
+			<![CDATA[Melissa add a quote by Harper Lee]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/991-until-i-feared-i-would-lose-it-i-never-loved]]>
+		</link>
+		<description>
+	    <![CDATA["Until I feared I would lose it, I never loved to read. One does not love breathing." -- Harper Lee]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1052888-david]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1052888-david" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 08 Sep 2013 15:57:56 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/166448-they-heard-somewhere-in-that-tenantless-night-a-bell-that</guid>
+		<pubDate>Sun, 08 Sep 2013 15:57:56 -0700</pubDate>
+		<title>
+			<![CDATA[David add a quote by Cormac McCarthy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/166448-they-heard-somewhere-in-that-tenantless-night-a-bell-that]]>
+		</link>
+		<description>
+	    <![CDATA["They heard somewhere in that tenantless night a bell that tolled and ceased where no bell was and they rode out on the round dais of the earth which alone was dark and no light to it and which carried their figures and bore them up into the swarming stars so that they rode not under but among them and they rode at once jaunty and circumspect, like thieves newly loosed in that dark electric, like young thieves in a glowing orchard, loosely jacketed against the cold and ten thousand worlds for the choosing." -- Cormac McCarthy]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

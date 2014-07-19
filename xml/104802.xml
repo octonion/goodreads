@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/104802-chris]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/104802-chris" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 14 Jan 2008 16:54:31 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2792-and-so-it-goes</guid>
+		<pubDate>Mon, 14 Jan 2008 16:54:31 -0800</pubDate>
+		<title>
+			<![CDATA[Chris add a quote by Kurt Vonnegut]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2792-and-so-it-goes]]>
+		</link>
+		<description>
+	    <![CDATA["And so it goes..." -- Kurt Vonnegut]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4982-in-the-beginning-god-created-the-earth-and-he-looked</guid>
+		<pubDate>Mon, 14 Jan 2008 16:55:41 -0800</pubDate>
+		<title>
+			<![CDATA[Chris add a quote by Kurt Vonnegut]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4982-in-the-beginning-god-created-the-earth-and-he-looked]]>
+		</link>
+		<description>
+	    <![CDATA["In the beginning, God created the earth, and he looked upon it in his cosmic loneliness.
+
+And God said, &quot;Let Us make living creatures out of mud, so the mud can see what We have done.&quot; And God created every living creature that now moveth, and one was man. Mud as man alone could speak. God leaned close to mud as man sat, looked around, and spoke. &quot;What is the purpose of all this?&quot; he asked politely.
+
+&quot;Everything must have a purpose?&quot; asked God.
+
+&quot;Certainly,&quot; said man.
+
+&quot;Then I leave it to you to think of one for all this,&quot; said God.
+
+And He went away." -- Kurt Vonnegut]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/809601-meredith]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/809601-meredith" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 28 Aug 2012 18:50:43 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/615173-regarding-life-it-is-much-the-best-to-think-that</guid>
+		<pubDate>Tue, 28 Aug 2012 18:50:43 -0700</pubDate>
+		<title>
+			<![CDATA[Meredith add a quote by Joy Williams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/615173-regarding-life-it-is-much-the-best-to-think-that]]>
+		</link>
+		<description>
+	    <![CDATA["Regarding life, it is much the best to think that the experiences we have are necessary for us. It is by means of experience that we develop and not through our imagination. Imagination is nothing. Explanation is nothing. One can only experience and somehow describe--with, in Camus's phrase, &lt;i&gt;lucid indifference&lt;/i&gt;. At the same time, experience is fundamentally illusory. When one is experiencing emotional pain or grief, one feels that everything that happens in life is unreal. And this is a right understanding of life." -- Joy Williams]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/41383-two-possibilities-exist-either-we-are-alone-in-the-universe</guid>
+		<pubDate>Fri, 08 Mar 2013 06:26:24 -0800</pubDate>
+		<title>
+			<![CDATA[Meredith add a quote by Arthur C. Clarke]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/41383-two-possibilities-exist-either-we-are-alone-in-the-universe]]>
+		</link>
+		<description>
+	    <![CDATA["Two possibilities exist: either we are alone in the Universe or we are not. Both are equally terrifying." -- Arthur C. Clarke]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

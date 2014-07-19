@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/35194-sarah]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/35194-sarah" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 15 Nov 2012 10:31:56 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/421717-be-careful-when-choosing-what-you-re-proud-of--because-the-world</guid>
+		<pubDate>Thu, 15 Nov 2012 10:31:56 -0800</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by Amor Towles]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/421717-be-careful-when-choosing-what-you-re-proud-of--because-the-world]]>
+		</link>
+		<description>
+	    <![CDATA["...be careful when choosing what you're proud of--because the world has every intention of using it against you." -- Amor Towles]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/435873-it-is-a-lovely-oddity-of-human-nature-that-a</guid>
+		<pubDate>Thu, 15 Nov 2012 10:32:06 -0800</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by Amor Towles]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/435873-it-is-a-lovely-oddity-of-human-nature-that-a]]>
+		</link>
+		<description>
+	    <![CDATA["It is a lovely oddity of human nature that a person is more inclined to interrupt two people in conversation than one person alone with a book." -- Amor Towles]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

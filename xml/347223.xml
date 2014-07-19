@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/347223-anne-garcia]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/347223-anne-garcia" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 15 Jan 2014 10:19:08 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/111189-accept-the-children-the-way-we-accept-trees-with-gratitude-because</guid>
+		<pubDate>Wed, 15 Jan 2014 10:19:08 -0800</pubDate>
+		<title>
+			<![CDATA[Anne add a quote by Isabel Allende]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/111189-accept-the-children-the-way-we-accept-trees-with-gratitude-because]]>
+		</link>
+		<description>
+	    <![CDATA["Accept the children the way we accept trees—with gratitude, because they are a blessing—but do not have expectations or desires. You don’t expect trees to change, you love them as they are." -- Isabel Allende]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/18574-work-is-always-an-antidote-to-depression</guid>
+		<pubDate>Thu, 24 Apr 2014 20:14:48 -0700</pubDate>
+		<title>
+			<![CDATA[Anne add a quote by Eleanor Roosevelt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18574-work-is-always-an-antidote-to-depression]]>
+		</link>
+		<description>
+	    <![CDATA["Work is always an antidote to depression." -- Eleanor Roosevelt]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

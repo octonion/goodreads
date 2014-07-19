@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/107881-shannon]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/107881-shannon" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 24 Feb 2009 14:27:02 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/33556-black-bears-rarely-attack-but-here-s-the-thing-sometimes-they</guid>
+		<pubDate>Tue, 24 Feb 2009 14:27:02 -0800</pubDate>
+		<title>
+			<![CDATA[Shannon add a quote by Bill Bryson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/33556-black-bears-rarely-attack-but-here-s-the-thing-sometimes-they]]>
+		</link>
+		<description>
+	    <![CDATA["Black bears rarely attack. But here's the thing. Sometimes they do. All bears are agile, cunning and immensely strong, and they are always hungry. If they want to kill you and eat you, they can, and pretty much whenever they want. That doesn't happen often, but - and here is the absolutely salient point - once would be enough." -- Bill Bryson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/254202-i-m-more-interested-in-arousing-enthusiasm-in-kids-than-in</guid>
+		<pubDate>Sun, 02 May 2010 16:58:19 -0700</pubDate>
+		<title>
+			<![CDATA[Shannon add a quote by Seymour Simon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/254202-i-m-more-interested-in-arousing-enthusiasm-in-kids-than-in]]>
+		</link>
+		<description>
+	    <![CDATA["I'm more interested in arousing enthusiasm in kids than in teaching the facts. The facts may change, but that enthusiasm for exploring the world will remain with them the rest of their lives." -- Seymour Simon]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

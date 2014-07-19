@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/897222-april-goral]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/897222-april-goral" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 12 Mar 2008 14:25:52 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2081-we-must-rapidly-begin-the-shift-from-a-thing-oriented-society</guid>
+		<pubDate>Wed, 12 Mar 2008 14:25:52 -0700</pubDate>
+		<title>
+			<![CDATA[April add a quote by Martin Luther King Jr.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2081-we-must-rapidly-begin-the-shift-from-a-thing-oriented-society]]>
+		</link>
+		<description>
+	    <![CDATA["We must rapidly begin the shift from a &quot;thing-oriented&quot; society to a &quot;person-oriented&quot; society. When machines and computers, profit motives and property rights are considered more important than people, the giant triplets of racism, materialism, and militarism are incapable of being conquered." -- Martin Luther King Jr.]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

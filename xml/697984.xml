@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/697984-lisa]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/697984-lisa" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 19 Dec 2007 00:15:23 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/18741-i-can-resist-anything-except-temptation</guid>
+		<pubDate>Wed, 19 Dec 2007 00:15:23 -0800</pubDate>
+		<title>
+			<![CDATA[Lisa add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18741-i-can-resist-anything-except-temptation]]>
+		</link>
+		<description>
+	    <![CDATA["I can resist anything except temptation." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6344-time-is-an-illusion-lunchtime-doubly-so</guid>
+		<pubDate>Wed, 19 Dec 2007 00:16:12 -0800</pubDate>
+		<title>
+			<![CDATA[Lisa add a quote by Douglas Adams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6344-time-is-an-illusion-lunchtime-doubly-so]]>
+		</link>
+		<description>
+	    <![CDATA["Time is an illusion. Lunchtime doubly so." -- Douglas Adams]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/13800-a-man-of-genius-makes-no-mistakes-his-errors-are</guid>
+		<pubDate>Wed, 19 Dec 2007 00:16:59 -0800</pubDate>
+		<title>
+			<![CDATA[Lisa add a quote by James Joyce]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13800-a-man-of-genius-makes-no-mistakes-his-errors-are]]>
+		</link>
+		<description>
+	    <![CDATA["A man of genius makes no mistakes.  His errors are volitional and are the portals of discovery." -- James Joyce]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

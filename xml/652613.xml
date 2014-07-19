@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/652613-asghar-ali]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/652613-asghar-ali" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 10 Oct 2011 15:03:02 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/249055-the-beginning-is-the-most-important-part-of-the-work</guid>
+		<pubDate>Mon, 10 Oct 2011 15:03:02 -0700</pubDate>
+		<title>
+			<![CDATA[Asghar add a quote by Plato]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/249055-the-beginning-is-the-most-important-part-of-the-work]]>
+		</link>
+		<description>
+	    <![CDATA["The beginning is the most important part of the work." -- Plato]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1231-be-kind-for-everyone-you-meet-is-fighting-a-harder</guid>
+		<pubDate>Mon, 10 Oct 2011 15:14:31 -0700</pubDate>
+		<title>
+			<![CDATA[Asghar add a quote by Plato]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1231-be-kind-for-everyone-you-meet-is-fighting-a-harder]]>
+		</link>
+		<description>
+	    <![CDATA["Be kind, for everyone you meet is fighting a harder battle." -- Plato]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

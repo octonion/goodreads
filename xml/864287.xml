@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/864287-george-mead]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/864287-george-mead" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 12 Sep 2008 14:20:08 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4590-without-music-life-would-be-a-mistake</guid>
+		<pubDate>Fri, 12 Sep 2008 14:20:08 -0700</pubDate>
+		<title>
+			<![CDATA[George add a quote by Friedrich Nietzsche]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4590-without-music-life-would-be-a-mistake]]>
+		</link>
+		<description>
+	    <![CDATA["Without music, life would be a mistake." -- Friedrich Nietzsche]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/20414-keep-the-company-of-those-who-seek-the-truth--run</guid>
+		<pubDate>Fri, 01 Feb 2008 16:41:51 -0800</pubDate>
+		<title>
+			<![CDATA[George add a quote by Vaclav Havel]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20414-keep-the-company-of-those-who-seek-the-truth--run]]>
+		</link>
+		<description>
+	    <![CDATA["Keep the company of those who seek the truth- run from those who have found it" -- Vaclav Havel]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/18629-there-is-a-principle-which-is-a-bar-against-all</guid>
+		<pubDate>Fri, 01 Feb 2008 16:45:03 -0800</pubDate>
+		<title>
+			<![CDATA[George add a quote by William Paley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18629-there-is-a-principle-which-is-a-bar-against-all]]>
+		</link>
+		<description>
+	    <![CDATA["There is a principle which is a bar against all information, which is proof against all arguments, and which cannot fail to keep a man in everlasting ignorance - that principle is contempt prior to investigation." -- William Paley]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

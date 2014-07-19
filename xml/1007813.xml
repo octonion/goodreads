@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1007813-veda]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1007813-veda" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 01 Mar 2014 20:12:51 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/246161-the-starting-point-of-all-achievement-is-desire-keep-this</guid>
+		<pubDate>Sat, 01 Mar 2014 20:12:51 -0800</pubDate>
+		<title>
+			<![CDATA[Veda add a quote by Napoleon Hill]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/246161-the-starting-point-of-all-achievement-is-desire-keep-this]]>
+		</link>
+		<description>
+	    <![CDATA["The starting point of all achievement is DESIRE. Keep this constantly in mind. Weak desire brings weak results, just as a small fire makes a small amount of heat." -- Napoleon Hill]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

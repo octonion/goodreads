@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1020821-davis-cooper]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1020821-davis-cooper" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 24 Mar 2008 19:31:13 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2536-the-difference-between-fiction-and-reality-fiction-has-to-make</guid>
+		<pubDate>Mon, 24 Mar 2008 19:31:13 -0700</pubDate>
+		<title>
+			<![CDATA[Davis add a quote by Tom Clancy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2536-the-difference-between-fiction-and-reality-fiction-has-to-make]]>
+		</link>
+		<description>
+	    <![CDATA["The difference between fiction and reality? Fiction has to make sense." -- Tom Clancy]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/352-outside-of-a-dog-a-book-is-man-s-best-friend</guid>
+		<pubDate>Sun, 20 Apr 2008 06:39:46 -0700</pubDate>
+		<title>
+			<![CDATA[Davis add a quote by Groucho Marx]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/352-outside-of-a-dog-a-book-is-man-s-best-friend]]>
+		</link>
+		<description>
+	    <![CDATA["Outside of a dog, a book is man's best friend. Inside of a dog it's too dark to read." -- Groucho Marx]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/17255-show-me-a-sane-man-and-i-will-cure-him</guid>
+		<pubDate>Sun, 20 Apr 2008 07:12:02 -0700</pubDate>
+		<title>
+			<![CDATA[Davis add a quote by Carl Gustav Jung]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17255-show-me-a-sane-man-and-i-will-cure-him]]>
+		</link>
+		<description>
+	    <![CDATA["Show me a sane man and I will cure him for you." -- Carl Gustav Jung]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

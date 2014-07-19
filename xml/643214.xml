@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/643214-emma]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/643214-emma" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 22 Apr 2014 18:22:58 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/352649-the-most-important-things-are-the-hardest-things-to-say</guid>
+		<pubDate>Tue, 22 Apr 2014 18:22:58 -0700</pubDate>
+		<title>
+			<![CDATA[Emma add a quote by Stephen King]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/352649-the-most-important-things-are-the-hardest-things-to-say]]>
+		</link>
+		<description>
+	    <![CDATA["The most important things are the hardest things to say. They are things you get ashamed of, because words make them smaller. When they were in your head they were limitless; but when they come out they seem to be no bigger than normal things. But that's not all. The most important things lie too close to wherever your secret heart is buried; they are clues that could guide your enemies to a prize they would love to steal. It's hard and painful for you to talk about these things ... and then people just look at you strangely. They haven't understood what you've said at all, or why you almost cried while you were saying it." -- Stephen King]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

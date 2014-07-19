@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/301794-alli-poirot]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/301794-alli-poirot" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 30 May 2011 18:03:53 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/9505-tv-makes-it-so-easy-to-postpone-living-for-another</guid>
+		<pubDate>Mon, 30 May 2011 18:03:53 -0700</pubDate>
+		<title>
+			<![CDATA[Alli add a quote by Bill McKibben]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9505-tv-makes-it-so-easy-to-postpone-living-for-another]]>
+		</link>
+		<description>
+	    <![CDATA["TV makes it so easy to postpone living for another half hour." -- Bill McKibben]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/9143-what-you-do-every-day-is-what-forms-your-mind</guid>
+		<pubDate>Mon, 30 May 2011 18:05:25 -0700</pubDate>
+		<title>
+			<![CDATA[Alli add a quote by Bill McKibben]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9143-what-you-do-every-day-is-what-forms-your-mind]]>
+		</link>
+		<description>
+	    <![CDATA["what you do every day is what forms your mind and precious few of us can or would spend most days outdoors." -- Bill McKibben]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/809014-man-must-choose-whether-to-be-rich-in-things-or</guid>
+		<pubDate>Sat, 07 Sep 2013 03:18:11 -0700</pubDate>
+		<title>
+			<![CDATA[Alli add a quote by Ivan Illich]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/809014-man-must-choose-whether-to-be-rich-in-things-or]]>
+		</link>
+		<description>
+	    <![CDATA["Man must choose whether to be rich in things or in the freedom to use them." -- Ivan Illich]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

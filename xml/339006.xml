@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/339006-n]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/339006-n" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 28 Nov 2012 07:07:49 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/20419-to-see-a-world-in-a-grain-of-sand-and</guid>
+		<pubDate>Wed, 28 Nov 2012 07:07:49 -0800</pubDate>
+		<title>
+			<![CDATA[N add a quote by William Blake]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20419-to-see-a-world-in-a-grain-of-sand-and]]>
+		</link>
+		<description>
+	    <![CDATA["To see a World in a Grain of Sand 
+And a Heaven in a Wild Flower, 
+Hold Infinity in the palm of your hand 
+And Eternity in an hour." -- William Blake]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/807782-remember-you-are-the-same-today-as-you-will-be</guid>
+		<pubDate>Fri, 19 Jul 2013 07:23:19 -0700</pubDate>
+		<title>
+			<![CDATA[N add a quote by Charlie &quot;Tremendous&quot; Jones]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/807782-remember-you-are-the-same-today-as-you-will-be]]>
+		</link>
+		<description>
+	    <![CDATA["Remember, you are the same today as you will be in five years, except for two things: the people you meet and the books you read. Choose both carefully." -- Charlie &quot;Tremendous&quot; Jones]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/12415-it-is-our-choices-harry-that-show-what-we-truly</guid>
+		<pubDate>Sat, 20 Jul 2013 15:55:24 -0700</pubDate>
+		<title>
+			<![CDATA[N add a quote by J.K. Rowling]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12415-it-is-our-choices-harry-that-show-what-we-truly]]>
+		</link>
+		<description>
+	    <![CDATA["It is our choices, Harry, that show what we truly are, far more than our abilities." -- J.K. Rowling]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

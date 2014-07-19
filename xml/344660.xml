@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/344660-melanie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/344660-melanie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 06 Sep 2010 23:40:51 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/294551-my-tom-died-as-babies-do-gently-and-without-complaint</guid>
+		<pubDate>Mon, 06 Sep 2010 23:40:51 -0700</pubDate>
+		<title>
+			<![CDATA[Melanie add a quote by Geraldine Brooks]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/294551-my-tom-died-as-babies-do-gently-and-without-complaint]]>
+		</link>
+		<description>
+	    <![CDATA["My Tom died as babies do, gently and without complaint. Because they have been such a little time with us, they seem to hold to life but weakly. I used to wonder if it was so because the memory of Heaven still lived within them, so that in leaving here they do not fear death as we do, who no longer know with certainty where it is our spirits go. This, I thought, must be the kindness that God does for them and for us, since He gives so many infants such a little while to bide with us." -- Geraldine Brooks]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

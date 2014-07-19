@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/170322-andreea]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/170322-andreea" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 01 Nov 2012 06:23:05 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/334227-time-is-limited-and-some-opportunities-never-repeat-themselves</guid>
+		<pubDate>Thu, 01 Nov 2012 06:23:05 -0700</pubDate>
+		<title>
+			<![CDATA[Andreea add a quote by Belle de Jour]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/334227-time-is-limited-and-some-opportunities-never-repeat-themselves]]>
+		</link>
+		<description>
+	    <![CDATA["Time is limited and some opportunities never repeat themselves." -- Belle de Jour]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/74167-resistance-however-is-useless-1939</guid>
+		<pubDate>Thu, 28 Feb 2013 12:58:41 -0800</pubDate>
+		<title>
+			<![CDATA[Andreea add a quote by A. E. Van Vogt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/74167-resistance-however-is-useless-1939]]>
+		</link>
+		<description>
+	    <![CDATA["Resistance, however, is useless. (1939)" -- A. E. Van Vogt]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

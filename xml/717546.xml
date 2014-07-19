@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/717546-jacques]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/717546-jacques" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 02 Jan 2008 17:06:55 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1133-man-is-an-artifact-designed-for-space-travel-he-is</guid>
+		<pubDate>Wed, 02 Jan 2008 17:06:55 -0800</pubDate>
+		<title>
+			<![CDATA[Jacques add a quote by William S. Burroughs]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1133-man-is-an-artifact-designed-for-space-travel-he-is]]>
+		</link>
+		<description>
+	    <![CDATA["Man is an artifact designed for space travel. He is not designed to remain in his present biologic state any more than a tadpole is designed to remain a tadpole." -- William S. Burroughs]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4406-a-paranoid-is-someone-who-knows-a-little-of-what-s</guid>
+		<pubDate>Wed, 02 Jan 2008 17:06:59 -0800</pubDate>
+		<title>
+			<![CDATA[Jacques add a quote by William S. Burroughs]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4406-a-paranoid-is-someone-who-knows-a-little-of-what-s]]>
+		</link>
+		<description>
+	    <![CDATA["A paranoid is someone who knows a little of what's going on. " -- William S. Burroughs]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/418700-alice]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/418700-alice" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 14 Sep 2011 14:13:29 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/27147-you-never-have-to-change-anything-you-got-up-in</guid>
+		<pubDate>Wed, 14 Sep 2011 14:13:29 -0700</pubDate>
+		<title>
+			<![CDATA[Alice add a quote by Saul Bellow]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/27147-you-never-have-to-change-anything-you-got-up-in]]>
+		</link>
+		<description>
+	    <![CDATA["You never have to change anything you got up in the middle of the night to write." -- Saul Bellow]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/505843-do-not-ask-your-children-to-strive-for-extraordinary-lives</guid>
+		<pubDate>Mon, 28 Apr 2014 15:10:15 -0700</pubDate>
+		<title>
+			<![CDATA[Alice add a quote by William  Martin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/505843-do-not-ask-your-children-to-strive-for-extraordinary-lives]]>
+		</link>
+		<description>
+	    <![CDATA["Do not ask your children
+to strive for extraordinary lives.
+Such striving may seem admirable,
+but it is the way of foolishness.
+Help them instead to find the wonder
+and the marvel of an ordinary life.
+Show them the joy of tasting
+tomatoes, apples and pears.
+Show them how to cry
+when pets and people die.
+Show them the infinite pleasure
+in the touch of a hand.
+And make the ordinary come alive for them.
+The extraordinary will take care of itself." -- William  Martin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

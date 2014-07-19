@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/995056-mike-gene]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/995056-mike-gene" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 22 Mar 2008 17:05:12 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/37378-to-produce-a-valuable-observation-one-has-first-to-have</guid>
+		<pubDate>Sat, 22 Mar 2008 17:05:12 -0700</pubDate>
+		<title>
+			<![CDATA[Mike add a quote by François Jacob]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/37378-to-produce-a-valuable-observation-one-has-first-to-have]]>
+		</link>
+		<description>
+	    <![CDATA["To produce a valuable observation, one has first to have an idea of what to observe, a preconception of what is possible. Scientific advances often come from uncovering a hitherto unseen aspect of things as a result, not so much of using new instruments, but rather of looking at objects from a different angle. This look is necessarily guided by a certain idea of what this so-called reality might be. It always involves a certain conception about the unknown, that is, about what lies beyond that which one has logical or experimental reasons to believe." -- François Jacob]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

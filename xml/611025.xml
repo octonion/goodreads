@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/611025-summer]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/611025-summer" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 20 Jan 2008 07:31:42 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/8687-i-am-a-human-being-so-nothing-human-is-strange</guid>
+		<pubDate>Sun, 20 Jan 2008 07:31:42 -0800</pubDate>
+		<title>
+			<![CDATA[Summer add a quote by Terence]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8687-i-am-a-human-being-so-nothing-human-is-strange]]>
+		</link>
+		<description>
+	    <![CDATA["I am a human being, so nothing human is strange to me." -- Terence]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/201266-like-many-young-men-in-the-south-he-had-trouble</guid>
+		<pubDate>Tue, 20 Oct 2009 09:19:35 -0700</pubDate>
+		<title>
+			<![CDATA[Summer add a quote by Walker Percy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/201266-like-many-young-men-in-the-south-he-had-trouble]]>
+		</link>
+		<description>
+	    <![CDATA["Like many young men in the South, he had trouble ruling out the possible. They are not like an immigrant's son in Passaic who desires to become a dentist and that is that. Southerners have trouble ruling out the possible. What happens to a... man to whom all things seem possible and every course of action open? Nothing of course." -- Walker Percy]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

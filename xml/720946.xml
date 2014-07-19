@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/720946-br-nt-barn]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/720946-br-nt-barn" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 07 Dec 2011 10:41:09 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/49273-one-glance-at-a-book-and-you-hear-the-voice</guid>
+		<pubDate>Wed, 07 Dec 2011 10:41:09 -0800</pubDate>
+		<title>
+			<![CDATA[bränt barn add a quote by Carl Sagan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/49273-one-glance-at-a-book-and-you-hear-the-voice]]>
+		</link>
+		<description>
+	    <![CDATA["One glance at a book and you hear the voice of another person, perhaps someone dead for 1,000 years. To read is to voyage through time." -- Carl Sagan]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/144310-the-nitrogen-in-our-dna-the-calcium-in-our-teeth</guid>
+		<pubDate>Wed, 07 Dec 2011 10:40:41 -0800</pubDate>
+		<title>
+			<![CDATA[bränt barn add a quote by Carl Sagan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/144310-the-nitrogen-in-our-dna-the-calcium-in-our-teeth]]>
+		</link>
+		<description>
+	    <![CDATA["The nitrogen in our DNA, the calcium in our teeth, the iron in our blood, the carbon in our apple pies were made in the interiors of collapsing stars. We are made of starstuff." -- Carl Sagan]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

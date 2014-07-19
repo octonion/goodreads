@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1099355-jay]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1099355-jay" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 27 Jul 2010 14:25:46 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/188420-when-i-speak-of-home-i-speak-of-the-place</guid>
+		<pubDate>Tue, 27 Jul 2010 14:25:46 -0700</pubDate>
+		<title>
+			<![CDATA[Jay add a quote by Charles Dickens]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/188420-when-i-speak-of-home-i-speak-of-the-place]]>
+		</link>
+		<description>
+	    <![CDATA["When I speak of home, I speak of the place where in default of a better--those I love are gathered together; and if that place where a gypsy's tent, or a barn, I should call it by the same good name notwithstanding." -- Charles Dickens]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

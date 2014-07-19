@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/636941-perry-clark]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/636941-perry-clark" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 26 Nov 2007 12:04:32 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1351-he-moved-like-a-dancer-which-is-not-surprising-a</guid>
+		<pubDate>Mon, 26 Nov 2007 12:04:32 -0800</pubDate>
+		<title>
+			<![CDATA[Perry add a quote by Mark Helprin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1351-he-moved-like-a-dancer-which-is-not-surprising-a]]>
+		</link>
+		<description>
+	    <![CDATA["He moved like a dancer, which is not surprising; a horse is a beautiful animal, but it is perhaps most remarkable because it moves as if it always hears music." -- Mark Helprin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

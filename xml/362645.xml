@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/362645-geraldine]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/362645-geraldine" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 05 Dec 2007 15:17:05 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/430-life-is-too-short-or-too-long-for-me-to</guid>
+		<pubDate>Wed, 05 Dec 2007 15:17:05 -0800</pubDate>
+		<title>
+			<![CDATA[Geraldine add a quote by Paulo Coelho]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/430-life-is-too-short-or-too-long-for-me-to]]>
+		</link>
+		<description>
+	    <![CDATA["Life is too short, or too long, for me to allow myself the luxury of living it so badly." -- Paulo Coelho]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1494-the-beauty-of-religious-mania-is-that-it-has-the</guid>
+		<pubDate>Wed, 05 Dec 2007 15:29:10 -0800</pubDate>
+		<title>
+			<![CDATA[Geraldine add a quote by Stephen King]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1494-the-beauty-of-religious-mania-is-that-it-has-the]]>
+		</link>
+		<description>
+	    <![CDATA["The beauty of religious mania is that it has the power to explain everything. Once God (or Satan) is accepted as the first cause of everything which happens in the mortal world, nothing is left to chance...logic can be happily tossed out the window." -- Stephen King]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1198-i-am-so-clever-that-sometimes-i-don-t-understand-a</guid>
+		<pubDate>Mon, 11 Feb 2008 07:48:20 -0800</pubDate>
+		<title>
+			<![CDATA[Geraldine add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1198-i-am-so-clever-that-sometimes-i-don-t-understand-a]]>
+		</link>
+		<description>
+	    <![CDATA["I am so clever that sometimes I don't understand a single word of what I am saying." -- Oscar Wilde]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/191010-lina-suarez]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/191010-lina-suarez" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 14 Aug 2012 11:32:44 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/279059-i-am-mad---but-i-choose-this-madness</guid>
+		<pubDate>Tue, 14 Aug 2012 11:32:44 -0700</pubDate>
+		<title>
+			<![CDATA[Lina add a quote by Gloria Anzaldua]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/279059-i-am-mad---but-i-choose-this-madness]]>
+		</link>
+		<description>
+	    <![CDATA["I am mad - but I choose this madness." -- Gloria Anzaldua]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/707557-the-books---the-generous-friends-who-met-me-without</guid>
+		<pubDate>Fri, 18 Jan 2013 09:05:11 -0800</pubDate>
+		<title>
+			<![CDATA[Lina add a quote by Wilkie Collins]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/707557-the-books---the-generous-friends-who-met-me-without]]>
+		</link>
+		<description>
+	    <![CDATA["The books - the generous friends who met me without suspicion - the merciful masters who never used me ill!" -- Wilkie Collins]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/878962-becca]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/878962-becca" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 05 Feb 2008 16:33:23 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/21837-god-is-really-only-another-artist-he-invented-the-giraffe</guid>
+		<pubDate>Tue, 05 Feb 2008 16:33:23 -0800</pubDate>
+		<title>
+			<![CDATA[becca add a quote by Pablo Picasso]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21837-god-is-really-only-another-artist-he-invented-the-giraffe]]>
+		</link>
+		<description>
+	    <![CDATA["God is really only another artist. He invented the giraffe, the elephant and the cat. He has no real style, He just goes on trying other things." -- Pablo Picasso]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/21843-cats-are-the-ultimate-narcissists-you-can-tell-this-by</guid>
+		<pubDate>Tue, 05 Feb 2008 16:38:21 -0800</pubDate>
+		<title>
+			<![CDATA[becca add a quote by James Gorman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21843-cats-are-the-ultimate-narcissists-you-can-tell-this-by]]>
+		</link>
+		<description>
+	    <![CDATA["Cats are the ultimate narcissists. You can tell this by all the time they spend on personal grooming. Dogs aren't like this. A dog's idea of personal grooming is to roll in a dead fish." -- James Gorman]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/21845-even-the-stupidest-cat-seems-to-know-more-than-any</guid>
+		<pubDate>Tue, 05 Feb 2008 16:40:28 -0800</pubDate>
+		<title>
+			<![CDATA[becca add a quote by Eleanor Clark]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21845-even-the-stupidest-cat-seems-to-know-more-than-any]]>
+		</link>
+		<description>
+	    <![CDATA["Even the stupidest cat seems to know more than any dog." -- Eleanor Clark]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

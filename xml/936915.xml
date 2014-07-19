@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/936915-cheri]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/936915-cheri" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 12 Mar 2012 07:57:24 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/167759-monsters-are-real-and-ghosts-are-real-too-they-live</guid>
+		<pubDate>Mon, 12 Mar 2012 07:57:24 -0700</pubDate>
+		<title>
+			<![CDATA[Cheri add a quote by Stephen King]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/167759-monsters-are-real-and-ghosts-are-real-too-they-live]]>
+		</link>
+		<description>
+	    <![CDATA["Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win." -- Stephen King]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/49478-sometimes-being-a-bitch-is-all-a-woman-s-got-to</guid>
+		<pubDate>Mon, 12 Mar 2012 07:57:31 -0700</pubDate>
+		<title>
+			<![CDATA[Cheri add a quote by Stephen King]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/49478-sometimes-being-a-bitch-is-all-a-woman-s-got-to]]>
+		</link>
+		<description>
+	    <![CDATA["Sometimes being a bitch is all a woman's got to hold on to." -- Stephen King]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

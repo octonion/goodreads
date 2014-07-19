@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/72082-judy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/72082-judy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 18 Apr 2009 09:54:08 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/44776-each-morning-when-i-awake-i-experience-again-a-supreme</guid>
+		<pubDate>Sat, 18 Apr 2009 09:54:08 -0700</pubDate>
+		<title>
+			<![CDATA[Judy add a quote by Salvador Dalí]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/44776-each-morning-when-i-awake-i-experience-again-a-supreme]]>
+		</link>
+		<description>
+	    <![CDATA["Each morning when I awake, I experience again a supreme pleasure: that of being Salvador Dali." -- Salvador Dalí]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/127873-conventionality-is-not-morality-self-righteousness-is-not-religion-to-attack</guid>
+		<pubDate>Mon, 07 Mar 2011 14:55:43 -0800</pubDate>
+		<title>
+			<![CDATA[Judy add a quote by Charlotte Brontë]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/127873-conventionality-is-not-morality-self-righteousness-is-not-religion-to-attack]]>
+		</link>
+		<description>
+	    <![CDATA["Conventionality is not morality. Self-righteousness is not religion. To attack the first is not to assail the last." -- Charlotte Brontë]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

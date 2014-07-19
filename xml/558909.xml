@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/558909-anne]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/558909-anne" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 10 May 2013 05:32:34 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/753-i-like-not-only-to-be-loved-but-also-to</guid>
+		<pubDate>Fri, 10 May 2013 05:32:34 -0700</pubDate>
+		<title>
+			<![CDATA[Anne add a quote by George Eliot]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/753-i-like-not-only-to-be-loved-but-also-to]]>
+		</link>
+		<description>
+	    <![CDATA["I like not only to be loved, but also to be told that I am loved. I am not sure that you are of the same mind. But the realm of silence is large enough beyond the grave. This is the world of light and speech, and I shall take leave to tell you that you are very dear." -- George Eliot]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/127-a-friend-is-one-to-whom-one-may-pour-out</guid>
+		<pubDate>Fri, 10 May 2013 05:32:52 -0700</pubDate>
+		<title>
+			<![CDATA[Anne add a quote by George Eliot]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/127-a-friend-is-one-to-whom-one-may-pour-out]]>
+		</link>
+		<description>
+	    <![CDATA["A friend is one to whom one may pour out the contents of one's heart, chaff and grain together, knowing that gentle hands will take and sift it, keep what is worth keeping, and with a breath of kindness, blow the rest away." -- George Eliot]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/619-it-is-never-too-late-to-be-what-you-might</guid>
+		<pubDate>Fri, 10 May 2013 05:33:02 -0700</pubDate>
+		<title>
+			<![CDATA[Anne add a quote by George Eliot]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/619-it-is-never-too-late-to-be-what-you-might]]>
+		</link>
+		<description>
+	    <![CDATA["It is never too late to be what you might have been." -- George Eliot]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/957634-daniel-clausen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/957634-daniel-clausen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 14 Apr 2014 02:36:16 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/757872-sometimes-i-think-if-we-didn-t-have-these-problems-the</guid>
+		<pubDate>Mon, 14 Apr 2014 02:36:16 -0700</pubDate>
+		<title>
+			<![CDATA[Daniel add a quote by Daniel Clausen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/757872-sometimes-i-think-if-we-didn-t-have-these-problems-the]]>
+		</link>
+		<description>
+	    <![CDATA["Sometimes I think if we didn’t have these problems the whole world would stop spinning on her axis, we’d all stop spinning on our axises, axes, or whatever you want to call them, and then we’d have to settle into the nasty business of finding a way to be happy." -- Daniel Clausen]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/645-it-is-sometimes-an-appropriate-response-to-reality-to-go</guid>
+		<pubDate>Mon, 05 May 2014 01:50:45 -0700</pubDate>
+		<title>
+			<![CDATA[Daniel add a quote by Philip K. Dick]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/645-it-is-sometimes-an-appropriate-response-to-reality-to-go]]>
+		</link>
+		<description>
+	    <![CDATA["It is sometimes an appropriate response to reality to go insane." -- Philip K. Dick]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

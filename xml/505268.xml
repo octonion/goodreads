@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/505268-april]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/505268-april" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 13 Aug 2012 19:45:01 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/555768-and-in-the-end-the-logical-thing</guid>
+		<pubDate>Mon, 13 Aug 2012 19:45:01 -0700</pubDate>
+		<title>
+			<![CDATA[April add a quote by Vladimir Nabokov]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/555768-and-in-the-end-the-logical-thing]]>
+		</link>
+		<description>
+	    <![CDATA[". . . and in the end the logical thing would be to give up and I would give up if I were laboring for a reader today, but as there is in the world not a single human who can speak my language; or, more simply, not a single human who can speak; or, even more simply, not a single human; I must think only of myself, of that force which urges me to express myself. I repeat: there is something I know, there is something I know, there is something..." -- Vladimir Nabokov]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/60906-john]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/60906-john" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 07 Oct 2009 14:04:59 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/88461-education-is-the-process-of-selling-someone-on-books</guid>
+		<pubDate>Wed, 07 Oct 2009 14:04:59 -0700</pubDate>
+		<title>
+			<![CDATA[John add a quote by Douglas Wilson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/88461-education-is-the-process-of-selling-someone-on-books]]>
+		</link>
+		<description>
+	    <![CDATA["Education is the process of selling someone on books. " -- Douglas Wilson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/54410-if-there-is-ever-a-fascist-takeover-in-america-it</guid>
+		<pubDate>Wed, 07 Oct 2009 19:05:14 -0700</pubDate>
+		<title>
+			<![CDATA[John add a quote by Jonah Goldberg]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/54410-if-there-is-ever-a-fascist-takeover-in-america-it]]>
+		</link>
+		<description>
+	    <![CDATA["If there is ever a fascist takeover in America, it will come not in the form of storm troopers kicking down doors but with lawyers and social workers saying. &quot;I'm from the government and I'm here to help." -- Jonah Goldberg]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

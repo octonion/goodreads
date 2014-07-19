@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/878123-sophie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/878123-sophie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 06 Feb 2008 11:40:51 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/22102-la-vie-un-rien-l-am-ne-un-rien-l-anime-un-rien</guid>
+		<pubDate>Wed, 06 Feb 2008 11:40:51 -0800</pubDate>
+		<title>
+			<![CDATA[Sophie add a quote by Raymond Queneau]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22102-la-vie-un-rien-l-am-ne-un-rien-l-anime-un-rien]]>
+		</link>
+		<description>
+	    <![CDATA["La vie? Un rien l'amène, un rien l'anime, un rien la mine, un rien l'emmène." -- Raymond Queneau]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/22105-television-is-chewing-gum-for-the-eyes</guid>
+		<pubDate>Wed, 06 Feb 2008 11:44:48 -0800</pubDate>
+		<title>
+			<![CDATA[Sophie add a quote by Frank Lloyd Wright]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22105-television-is-chewing-gum-for-the-eyes]]>
+		</link>
+		<description>
+	    <![CDATA["Television is chewing gum for the eyes." -- Frank Lloyd Wright]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/226099-i-suppose-there-are-people-who-can-pass-up-free</guid>
+		<pubDate>Wed, 17 Jul 2013 06:39:21 -0700</pubDate>
+		<title>
+			<![CDATA[Sophie add a quote by Frank Bruni]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/226099-i-suppose-there-are-people-who-can-pass-up-free]]>
+		</link>
+		<description>
+	    <![CDATA["I suppose there are people who can pass up free guacamole, but they're either allergic to avocado or too joyless to live." -- Frank Bruni]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

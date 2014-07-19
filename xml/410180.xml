@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/410180-benjamin-williams]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/410180-benjamin-williams" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 20 Dec 2012 05:32:08 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/24180-if-we-could-read-the-secret-history-of-our-enemies</guid>
+		<pubDate>Thu, 20 Dec 2012 05:32:08 -0800</pubDate>
+		<title>
+			<![CDATA[Benjamin add a quote by Henry Wadsworth Longfellow]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/24180-if-we-could-read-the-secret-history-of-our-enemies]]>
+		</link>
+		<description>
+	    <![CDATA["If we could read the secret history of our enemies, we should find in each man's life sorrow and suffering enough to disarm all hostility." -- Henry Wadsworth Longfellow]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/686865-reason-often-makes-mistakes-but-conscience-never-does</guid>
+		<pubDate>Thu, 20 Dec 2012 05:32:59 -0800</pubDate>
+		<title>
+			<![CDATA[Benjamin add a quote by Josh Billings]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/686865-reason-often-makes-mistakes-but-conscience-never-does]]>
+		</link>
+		<description>
+	    <![CDATA["Reason often makes mistakes, but conscience never does." -- Josh Billings]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/686867-that-sorrow-which-is-the-harbinger-of-joy-is-preferable</guid>
+		<pubDate>Thu, 20 Dec 2012 05:33:25 -0800</pubDate>
+		<title>
+			<![CDATA[Benjamin add a quote by Saadi poet]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/686867-that-sorrow-which-is-the-harbinger-of-joy-is-preferable]]>
+		</link>
+		<description>
+	    <![CDATA["That sorrow which is the harbinger of joy is preferable to the joy which is followed by sorrow." -- Saadi poet]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

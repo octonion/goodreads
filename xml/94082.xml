@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/94082-sueper]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/94082-sueper" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 31 May 2011 14:13:59 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/389348-there-is-a-sense-in-which-all-cognition-can-be</guid>
+		<pubDate>Tue, 31 May 2011 14:13:59 -0700</pubDate>
+		<title>
+			<![CDATA[Sueper add a quote by Sam Harris]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/389348-there-is-a-sense-in-which-all-cognition-can-be]]>
+		</link>
+		<description>
+	    <![CDATA["There is a sense in which all cognition can be said to be motivated. One is motivated to understand the world, to be in touch with reality, to remove doubt, etc. Alternately one might say that motivation is an aspect of cognition itself. Nevertheless, motives like wanting to find the truth, not wanting to be mistaken, etc., tend to align with epistemic goals in a way that many other commitments do not. As we have begun to see, all reasoning may be inextricable from emotion. But if a person's primary motivation in holding a belief is to hue to a positive state of mind, to mitigate feelings of anxiety, embarrassment, or guilt for instance. This is precisely what we mean by phrases like &quot;wishful thinking&quot;, and &quot;self-deception&quot;. Such a person will of necessity be less responsive to valid chains of evidence and argument that run counter to the beliefs he is seeking to maintain. To point out non-epistemic motives in an others view of the world, therefore, is always a criticism, as it serves to cast doubt on a persons connection to the world as it is." -- Sam Harris]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

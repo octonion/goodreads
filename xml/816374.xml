@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/816374-jfed55]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/816374-jfed55" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 26 Jan 2008 23:52:21 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2638-both-destiny-s-kisses-and-its-dope-slaps-illustrate-an-individual-person-s</guid>
+		<pubDate>Sat, 26 Jan 2008 23:52:21 -0800</pubDate>
+		<title>
+			<![CDATA[Jfed55 add a quote by David Foster Wallace]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2638-both-destiny-s-kisses-and-its-dope-slaps-illustrate-an-individual-person-s]]>
+		</link>
+		<description>
+	    <![CDATA["Both destiny's kisses and its dope-slaps illustrate an individual person's basic personal powerlessness over the really meaningful events in his life: i.e. almost nothing important that ever happens to you happens because you engineer it.  Destiny has no beeper; destiny always leans trenchcoated out of an alley with some sort of Psst that you usually can't even hear because you're in such a rush to or from something important you've tried to engineer." -- David Foster Wallace]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

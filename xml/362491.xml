@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/362491-lisa]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/362491-lisa" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 29 Jan 2010 11:39:27 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/77590-because-secrets-do-not-increase-in-value-if-kept-in</guid>
+		<pubDate>Fri, 29 Jan 2010 11:39:27 -0800</pubDate>
+		<title>
+			<![CDATA[Lisa add a quote by Dave Eggers]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/77590-because-secrets-do-not-increase-in-value-if-kept-in]]>
+		</link>
+		<description>
+	    <![CDATA["Because secrets do not increase in value if kept in a gore-ian lockbox, because one's past is either made useful or else mutates and becomes cancerous. We share things for the obvious reasons: it makes us feel un-alone, it spreads the weight over a larger area, it holds the possibility of making our share lighter. And it can work either way - not simply as a pain-relief device, but, in the case of not bad news but good, as a share-the-happy-things-I've-seen/lessons-I've-learned vehicle. Or as a tool for simple connectivity for its own sake, a testing of waters, a stab at engagement with a mass of strangers." -- Dave Eggers]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6702-i-declare-after-all-there-is-no-enjoyment-like-reading</guid>
+		<pubDate>Thu, 18 Feb 2010 08:56:45 -0800</pubDate>
+		<title>
+			<![CDATA[Lisa add a quote by Jane Austen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6702-i-declare-after-all-there-is-no-enjoyment-like-reading]]>
+		</link>
+		<description>
+	    <![CDATA["I declare after all there is no enjoyment like reading! How much sooner one tires of any thing than of a book! -- When I have a house of my own, I shall be miserable if I have not an excellent library." -- Jane Austen]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

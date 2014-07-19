@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/591047-rhiannon]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/591047-rhiannon" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 31 Dec 2007 14:01:29 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/8222-any-man-who-can-drive-safely-while-kissing-a-pretty</guid>
+		<pubDate>Mon, 31 Dec 2007 14:01:29 -0800</pubDate>
+		<title>
+			<![CDATA[Rhiannon add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8222-any-man-who-can-drive-safely-while-kissing-a-pretty]]>
+		</link>
+		<description>
+	    <![CDATA["Any man who can drive safely while kissing a pretty girl is simply not giving the kiss the attention it deserves." -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/8215-political-language-is-designed-to-make-lies-sound-truthful-and</guid>
+		<pubDate>Mon, 31 Dec 2007 14:02:32 -0800</pubDate>
+		<title>
+			<![CDATA[Rhiannon add a quote by George Orwell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8215-political-language-is-designed-to-make-lies-sound-truthful-and]]>
+		</link>
+		<description>
+	    <![CDATA["Political language is designed to make lies sound truthful and murder respectable, and to give an appearance of solidity to pure wind. " -- George Orwell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

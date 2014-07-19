@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/898736-rhiannon-lawrence]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/898736-rhiannon-lawrence" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 23 Feb 2008 18:17:43 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/27841-there-is-no-end-there-is-no-beginning-there-is</guid>
+		<pubDate>Sat, 23 Feb 2008 18:17:43 -0800</pubDate>
+		<title>
+			<![CDATA[Rhiannon add a quote by Fellini]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/27841-there-is-no-end-there-is-no-beginning-there-is]]>
+		</link>
+		<description>
+	    <![CDATA["There is no end.  There is no beginning.  There is only the infinite passion of life. " -- Fellini]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/52065-we-can-only-feel-sorry-for-ourselves-when-our-misfortunes</guid>
+		<pubDate>Wed, 07 May 2008 10:47:32 -0700</pubDate>
+		<title>
+			<![CDATA[Rhiannon add a quote by Marjane Satrapi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/52065-we-can-only-feel-sorry-for-ourselves-when-our-misfortunes]]>
+		</link>
+		<description>
+	    <![CDATA["We can only feel sorry for ourselves when our misfortunes are still supportable. Once this limit is crossed, the only way to bear the unbearable is to laugh at it." -- Marjane Satrapi]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

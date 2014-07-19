@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/997668-charlene]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/997668-charlene" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 30 Nov 2013 09:32:35 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/251283-kindred-spirits-are-not-so-scarce-as-i-used-to</guid>
+		<pubDate>Sat, 30 Nov 2013 09:32:35 -0800</pubDate>
+		<title>
+			<![CDATA[Charlene add a quote by L.M. Montgomery]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/251283-kindred-spirits-are-not-so-scarce-as-i-used-to]]>
+		</link>
+		<description>
+	    <![CDATA["Kindred spirits are not so scarce as I used to think.  It's splendid to find out there are so many of them in the world." -- L.M. Montgomery]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

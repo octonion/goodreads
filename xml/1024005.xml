@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1024005-lyndsay]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1024005-lyndsay" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Nov 2008 10:45:45 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/22-beauty-is-in-the-eye-of-the-beholder-and-it</guid>
+		<pubDate>Sun, 02 Nov 2008 10:45:45 -0800</pubDate>
+		<title>
+			<![CDATA[Lyndsay add a quote by Miss Piggy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22-beauty-is-in-the-eye-of-the-beholder-and-it]]>
+		</link>
+		<description>
+	    <![CDATA["Beauty is in the eye of the beholder and it may be necessary from time to time to give a stupid or misinformed beholder a black eye." -- Miss Piggy]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/434-he-s-like-a-drug-for-you-bella</guid>
+		<pubDate>Fri, 18 Dec 2009 09:00:04 -0800</pubDate>
+		<title>
+			<![CDATA[Lyndsay add a quote by Stephenie Meyer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/434-he-s-like-a-drug-for-you-bella]]>
+		</link>
+		<description>
+	    <![CDATA["He's like a drug for you, Bella." -- Stephenie Meyer]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1981-my-experience-of-life-is-that-it-is-not-divided</guid>
+		<pubDate>Sun, 02 Nov 2008 11:08:16 -0800</pubDate>
+		<title>
+			<![CDATA[Lyndsay add a quote by Alan Moore]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1981-my-experience-of-life-is-that-it-is-not-divided]]>
+		</link>
+		<description>
+	    <![CDATA["My experience of life is that it is not divided up into genres; it’s a horrifying, romantic, tragic, comical, science-fiction cowboy detective novel. You know, with a bit of pornography if you're lucky." -- Alan Moore]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1089830-kara]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1089830-kara" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 29 Apr 2008 16:35:30 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/7915-each-friend-represents-a-world-in-us-a-world-possibly</guid>
+		<pubDate>Tue, 29 Apr 2008 16:35:30 -0700</pubDate>
+		<title>
+			<![CDATA[Kara add a quote by Anais Nin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7915-each-friend-represents-a-world-in-us-a-world-possibly]]>
+		</link>
+		<description>
+	    <![CDATA["Each friend represents a world in us, a world possibly not born until they arrive, and it is only by this meeting that a new world is born." -- Anais Nin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/21884-no-one-asked-you-to-be-happy-get-to-work</guid>
+		<pubDate>Tue, 29 Apr 2008 16:39:37 -0700</pubDate>
+		<title>
+			<![CDATA[Kara add a quote by Colette]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21884-no-one-asked-you-to-be-happy-get-to-work]]>
+		</link>
+		<description>
+	    <![CDATA["No one asked you to be happy. Get to work." -- Colette]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/9131-if-you-tell-the-truth-you-don-t-have-to-remember</guid>
+		<pubDate>Tue, 29 Apr 2008 16:54:25 -0700</pubDate>
+		<title>
+			<![CDATA[Kara add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9131-if-you-tell-the-truth-you-don-t-have-to-remember]]>
+		</link>
+		<description>
+	    <![CDATA["If you tell the truth, you don't have to remember anything." -- Mark Twain]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/15764-one-s-life-has-value-so-long-as-one-attributes-value</guid>
+		<pubDate>Wed, 30 Apr 2008 15:06:22 -0700</pubDate>
+		<title>
+			<![CDATA[Kara add a quote by Simone de Beauvoir]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/15764-one-s-life-has-value-so-long-as-one-attributes-value]]>
+		</link>
+		<description>
+	    <![CDATA["One's life has value so long as one attributes value to the life of others." -- Simone de Beauvoir]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

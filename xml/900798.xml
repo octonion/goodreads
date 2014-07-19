@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/900798-chris-papadopoulos]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/900798-chris-papadopoulos" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 13 Jun 2014 04:18:58 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1246570-the-fact-that-german-anti-semitism-and-anticapitalism-spring-from-the</guid>
+		<pubDate>Fri, 13 Jun 2014 04:18:58 -0700</pubDate>
+		<title>
+			<![CDATA[Chris add a quote by Friedrich Hayek]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1246570-the-fact-that-german-anti-semitism-and-anticapitalism-spring-from-the]]>
+		</link>
+		<description>
+	    <![CDATA["The fact that German anti-Semitism and anticapitalism spring from the same root is of great importance for the understanding of what has happened there, but this is rarely grasped by foreign observers." -- Friedrich Hayek]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1246581-but-what-socialists-seriously-contemplate-the-equal-division-of-existing</guid>
+		<pubDate>Fri, 13 Jun 2014 04:24:48 -0700</pubDate>
+		<title>
+			<![CDATA[Chris add a quote by Friedrich Hayek]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1246581-but-what-socialists-seriously-contemplate-the-equal-division-of-existing]]>
+		</link>
+		<description>
+	    <![CDATA["But what socialists seriously contemplate the equal division of existing capital resources among the people of the world?" -- Friedrich Hayek]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

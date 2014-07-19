@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/826177-dr-syakrani]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/826177-dr-syakrani" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 10 Jul 2013 18:02:14 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/132247-the-god-of-exodus-is-the-god-of-history-and</guid>
+		<pubDate>Wed, 10 Jul 2013 18:02:14 -0700</pubDate>
+		<title>
+			<![CDATA[Dr add a quote by Gustavo Gutiérrez]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/132247-the-god-of-exodus-is-the-god-of-history-and]]>
+		</link>
+		<description>
+	    <![CDATA["The God of Exodus is the God of history and of political liberation more than he is the God of nature." -- Gustavo Gutiérrez]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/558851-listen-for-the-call-of-your-destiny-and-when-it</guid>
+		<pubDate>Sun, 09 Mar 2014 20:00:26 -0700</pubDate>
+		<title>
+			<![CDATA[Dr add a quote by Mollie Marti]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/558851-listen-for-the-call-of-your-destiny-and-when-it]]>
+		</link>
+		<description>
+	    <![CDATA["Listen for the call of your destiny, and when it comes, release your plans and follow." -- Mollie Marti]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

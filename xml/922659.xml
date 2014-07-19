@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/922659-andr]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/922659-andr" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 03 Mar 2014 11:57:12 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/170287-the-hardest-thing-about-the-road-not-taken-is-that</guid>
+		<pubDate>Mon, 03 Mar 2014 11:57:12 -0800</pubDate>
+		<title>
+			<![CDATA[André add a quote by Lisa Wingate]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/170287-the-hardest-thing-about-the-road-not-taken-is-that]]>
+		</link>
+		<description>
+	    <![CDATA["The hardest thing about the road not taken is that you never know where it might have led." -- Lisa Wingate]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/38735-it-does-not-take-much-strength-to-do-things-but</guid>
+		<pubDate>Mon, 03 Mar 2014 11:58:22 -0800</pubDate>
+		<title>
+			<![CDATA[André add a quote by Elbert Hubbard]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/38735-it-does-not-take-much-strength-to-do-things-but]]>
+		</link>
+		<description>
+	    <![CDATA["It does not take much strength to do things, but it requires a great deal of strength to decide what to do." -- Elbert Hubbard]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/776440-sonya]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/776440-sonya" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 04 Sep 2013 15:01:12 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/699843-this-generation-has-lost-the-true-meaning-of-romance-there</guid>
+		<pubDate>Wed, 04 Sep 2013 15:01:12 -0700</pubDate>
+		<title>
+			<![CDATA[Sonya add a quote by Tom Hiddleston]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/699843-this-generation-has-lost-the-true-meaning-of-romance-there]]>
+		</link>
+		<description>
+	    <![CDATA["This generation has lost the true meaning of romance. There are so many songs that disrespect women. You can’t treat the woman you love as a piece of meat. You should treat your love like a princess. Give her love songs, something with real meaning. Maybe I’m old fashioned but to respect the woman you love should be a priority." -- Tom Hiddleston]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

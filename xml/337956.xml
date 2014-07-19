@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/337956-arpita-paul]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/337956-arpita-paul" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 16 Oct 2008 13:52:06 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/7060-what-the-hell-makes-you-so-smart-i-asked-i</guid>
+		<pubDate>Thu, 16 Oct 2008 13:52:06 -0700</pubDate>
+		<title>
+			<![CDATA[Arpita add a quote by Erich Segal]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7060-what-the-hell-makes-you-so-smart-i-asked-i]]>
+		</link>
+		<description>
+	    <![CDATA["What the hell makes you so smart?&quot; I asked. &quot;I wouldn't go for coffee with you, &quot; she answered. &quot;Listen -- I wouldn't ask you.&quot; &quot;That, &quot;she replied &quot;is what makes you stupid." -- Erich Segal]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

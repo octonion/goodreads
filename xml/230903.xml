@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/230903-deborah]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/230903-deborah" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 26 May 2014 17:40:23 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/28600-in-the-spring-of-1988-i-returned-to-new-orleans</guid>
+		<pubDate>Mon, 26 May 2014 17:40:23 -0700</pubDate>
+		<title>
+			<![CDATA[Deborah add a quote by Anne Rice]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/28600-in-the-spring-of-1988-i-returned-to-new-orleans]]>
+		</link>
+		<description>
+	    <![CDATA["In the spring of 1988, I returned to New Orleans, and as soon as I smelled the air, I knew I was home. 
+It was rich, almost sweet, like the scent of jasmine and roses around our old courtyard. 
+I walked the streets, savoring that long lost perfume." -- Anne Rice]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

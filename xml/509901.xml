@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/509901-joshua-rosenblum]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/509901-joshua-rosenblum" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 22 Apr 2013 22:02:19 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/70829-wherever-the-real-power-in-a-government-lies-there-is</guid>
+		<pubDate>Mon, 22 Apr 2013 22:02:19 -0700</pubDate>
+		<title>
+			<![CDATA[Joshua add a quote by James Madison]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/70829-wherever-the-real-power-in-a-government-lies-there-is]]>
+		</link>
+		<description>
+	    <![CDATA["Wherever the real power in a Government lies, there is the danger of oppression. In our Governments, the real power lies in the majority of the Community, and the invasion of private rights is chiefly to be apprehended, not from the acts of Government contrary to the sense of its constituents, but from acts in which the Government is the mere instrument of the major number of the constituents." -- James Madison]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

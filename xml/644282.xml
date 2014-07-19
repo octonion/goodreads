@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/644282-shilough]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/644282-shilough" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 08 Apr 2010 08:54:45 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/247357-every-man-carries-within-himself-a-world-made-up-of</guid>
+		<pubDate>Thu, 08 Apr 2010 08:54:45 -0700</pubDate>
+		<title>
+			<![CDATA[Shilough add a quote by François-René de Chateaubriand]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/247357-every-man-carries-within-himself-a-world-made-up-of]]>
+		</link>
+		<description>
+	    <![CDATA["Every man carries within himself a world made up of all that he has seen and loved; and it is to this world that he returns, incessantly, though he may pass through and seem to inhabit a world quite foreign to it." -- François-René de Chateaubriand]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/62573-there-s-more-to-life-than-books-you-know-but-not</guid>
+		<pubDate>Thu, 08 Apr 2010 08:56:28 -0700</pubDate>
+		<title>
+			<![CDATA[Shilough add a quote by Morrissey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/62573-there-s-more-to-life-than-books-you-know-but-not]]>
+		</link>
+		<description>
+	    <![CDATA["There's more to life than books, you know.  But not much more." -- Morrissey]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

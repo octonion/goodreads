@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/271701-arlene-paredes]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/271701-arlene-paredes" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 06 Nov 2011 07:58:56 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/10244-we-do-know-that-no-one-gets-wise-enough-to</guid>
+		<pubDate>Sun, 06 Nov 2011 07:58:56 -0800</pubDate>
+		<title>
+			<![CDATA[arlene add a quote by Louise Erdrich]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10244-we-do-know-that-no-one-gets-wise-enough-to]]>
+		</link>
+		<description>
+	    <![CDATA["We do know that no one gets wise enough to really understand the heart of another, though it is the task of our life to try." -- Louise Erdrich]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

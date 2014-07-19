@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/300505-allison]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/300505-allison" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 15 Jan 2008 15:55:41 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/13711-a-happy-ending-is-just-the-place-where-you-choose</guid>
+		<pubDate>Tue, 15 Jan 2008 15:55:41 -0800</pubDate>
+		<title>
+			<![CDATA[Allison add a quote by Leah Stewart]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13711-a-happy-ending-is-just-the-place-where-you-choose]]>
+		</link>
+		<description>
+	    <![CDATA["A happy ending is just the place where you choose to stop telling the story." -- Leah Stewart]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/20905-children-aren-t-coloring-books-you-don-t-get-to-fill-them</guid>
+		<pubDate>Mon, 06 Oct 2008 11:01:01 -0700</pubDate>
+		<title>
+			<![CDATA[Allison add a quote by Khaled Hosseini]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20905-children-aren-t-coloring-books-you-don-t-get-to-fill-them]]>
+		</link>
+		<description>
+	    <![CDATA["Children aren't coloring books.  You don't get to fill them with your favorite colors." -- Khaled Hosseini]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/12415-it-is-our-choices-harry-that-show-what-we-truly</guid>
+		<pubDate>Tue, 15 Jan 2008 15:59:37 -0800</pubDate>
+		<title>
+			<![CDATA[Allison add a quote by J.K. Rowling]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12415-it-is-our-choices-harry-that-show-what-we-truly]]>
+		</link>
+		<description>
+	    <![CDATA["It is our choices, Harry, that show what we truly are, far more than our abilities." -- J.K. Rowling]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

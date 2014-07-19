@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/808096-scotteh]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/808096-scotteh" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 21 Jan 2008 22:26:29 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/15725-to-those-leaning-on-the-sustaining-infinite-today-is-big</guid>
+		<pubDate>Mon, 21 Jan 2008 22:26:29 -0800</pubDate>
+		<title>
+			<![CDATA[Scotteh add a quote by Mary Baker Eddy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/15725-to-those-leaning-on-the-sustaining-infinite-today-is-big]]>
+		</link>
+		<description>
+	    <![CDATA["To those leaning on the sustaining infinite, today is big with blessings." -- Mary Baker Eddy]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/16029-hold-thought-steadfastly-to-the-enduring-the-good-and-the</guid>
+		<pubDate>Tue, 22 Jan 2008 17:52:41 -0800</pubDate>
+		<title>
+			<![CDATA[Scotteh add a quote by Mary Baker Eddy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16029-hold-thought-steadfastly-to-the-enduring-the-good-and-the]]>
+		</link>
+		<description>
+	    <![CDATA["Hold thought steadfastly to the enduring, the good, and the true, and you will bring these into your experience proportionately to their occupancy of your thoughts." -- Mary Baker Eddy]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

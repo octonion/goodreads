@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1041810-jeffrey]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1041810-jeffrey" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 03 Aug 2008 13:49:47 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/79218-the-non-doing-of-any-evil-the-performance-of-what-s-skillful</guid>
+		<pubDate>Sun, 03 Aug 2008 13:49:47 -0700</pubDate>
+		<title>
+			<![CDATA[Jeffrey add a quote by Buddha Siddhartha Guatama Shakyamuni]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/79218-the-non-doing-of-any-evil-the-performance-of-what-s-skillful]]>
+		</link>
+		<description>
+	    <![CDATA["The non-doing of any evil,
+the performance of what's skillful,
+the cleansing of one's own mind:
+this is the teaching of the Awakened. " -- Buddha Siddhartha Guatama Shakyamuni]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/80164-care-about-what-other-people-think-and-you-will-always</guid>
+		<pubDate>Thu, 01 Aug 2013 08:28:53 -0700</pubDate>
+		<title>
+			<![CDATA[Jeffrey add a quote by Lao Tzu]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/80164-care-about-what-other-people-think-and-you-will-always]]>
+		</link>
+		<description>
+	    <![CDATA["Care about what other people think and you will always be their prisoner." -- Lao Tzu]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

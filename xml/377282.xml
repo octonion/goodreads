@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/377282-katchoo-lima]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/377282-katchoo-lima" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 06 Dec 2008 06:40:38 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/120090-i-m-just-thinking-that-would-be-pleasant-to-be-reading</guid>
+		<pubDate>Sat, 06 Dec 2008 06:40:38 -0800</pubDate>
+		<title>
+			<![CDATA[Katchoo add a quote by Jamie O'Neill]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/120090-i-m-just-thinking-that-would-be-pleasant-to-be-reading]]>
+		</link>
+		<description>
+	    <![CDATA["I’m just thinking that would be pleasant. To be reading, say, out of a book, and you to come up and touch me – my neck, say, or my knee – and I’d carry on reading, I might let a smile, no more, wouldn’t lose my place on the page. It would be pleasant to come to that. We’d come so close, do you see, that I wouldn’t be surprised out of myself every time you touched." -- Jamie O'Neill]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

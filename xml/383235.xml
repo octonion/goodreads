@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/383235-sarah]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/383235-sarah" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 05 Nov 2012 11:41:12 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/45658-traveling-is-a-fool-s-paradise-our-first-journeys-discover-to</guid>
+		<pubDate>Mon, 05 Nov 2012 11:41:12 -0800</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by Ralph Waldo Emerson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/45658-traveling-is-a-fool-s-paradise-our-first-journeys-discover-to]]>
+		</link>
+		<description>
+	    <![CDATA["Traveling is a fool's paradise. Our first journeys discover to us the indifference of places. At home I dream that at Naples, at Rome, I can be intoxicated with beauty, and lose my sadness. I pack my trunk, embrace my friends, embark on the sea, and at last wake up in Naples, and there beside me is the stern fact, the sad self, unrelenting, identical, that I fled from. I seek the Vatican, and the palaces. I affect to be intoxicated with sights and suggestions, but I am not intoxicated. My giant goes with me wherever I go." -- Ralph Waldo Emerson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

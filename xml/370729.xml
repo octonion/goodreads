@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/370729-lindsey]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/370729-lindsey" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 30 Mar 2014 05:17:36 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/58946-sometimes-when-i-look-at-you-i-feel-i-m-gazing</guid>
+		<pubDate>Sun, 30 Mar 2014 05:17:36 -0700</pubDate>
+		<title>
+			<![CDATA[Lindsey add a quote by Haruki Murakami]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/58946-sometimes-when-i-look-at-you-i-feel-i-m-gazing]]>
+		</link>
+		<description>
+	    <![CDATA["Sometimes when I look at you, I feel I'm gazing at a distant star. 
+It's dazzling, but the light is from tens of thousands of years ago.
+Maybe the star doesn't even exist any more. Yet sometimes that light seems more real to me than anything." -- Haruki Murakami]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

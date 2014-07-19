@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/920413-liz]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/920413-liz" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 24 Feb 2008 21:46:21 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/17705-if-you-had-to-identify-in-one-word-the-reason</guid>
+		<pubDate>Sun, 24 Feb 2008 21:46:21 -0800</pubDate>
+		<title>
+			<![CDATA[Liz add a quote by Dave Barry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17705-if-you-had-to-identify-in-one-word-the-reason]]>
+		</link>
+		<description>
+	    <![CDATA["If you had to identify, in one word, the reason why the human race has not achieved, and never will achieve, its full potential, that word would be 'meetings." -- Dave Barry]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2634-give-a-man-a-fire-and-he-s-warm-for-a</guid>
+		<pubDate>Sun, 24 Feb 2008 21:50:49 -0800</pubDate>
+		<title>
+			<![CDATA[Liz add a quote by Terry Pratchett]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2634-give-a-man-a-fire-and-he-s-warm-for-a]]>
+		</link>
+		<description>
+	    <![CDATA["Give a man a fire and he's warm for a day, but set fire to him and he's warm for the rest of his life." -- Terry Pratchett]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1408-there-s-a-fine-line-between-genius-and-insanity-i-have</guid>
+		<pubDate>Sun, 24 Feb 2008 21:51:27 -0800</pubDate>
+		<title>
+			<![CDATA[Liz add a quote by Oscar Levant]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1408-there-s-a-fine-line-between-genius-and-insanity-i-have]]>
+		</link>
+		<description>
+	    <![CDATA["There's a fine line between genius and insanity. I have erased this line." -- Oscar Levant]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/214884-meg]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/214884-meg" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 20 Dec 2011 18:58:30 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/476188-it-s-not-my-business-scrooge-returned-it-s-enough-for-a</guid>
+		<pubDate>Tue, 20 Dec 2011 18:58:30 -0800</pubDate>
+		<title>
+			<![CDATA[Meg add a quote by Charles Dickens]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/476188-it-s-not-my-business-scrooge-returned-it-s-enough-for-a]]>
+		</link>
+		<description>
+	    <![CDATA["it's not my business,&quot; Scrooge returned. &quot;It's enough for a man to understand his own business, and not to interfere with other people's. Mine occupies me constantly." -- Charles Dickens]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/123815-it-is-a-fair-even-handed-noble-adjustment-of-things-that</guid>
+		<pubDate>Tue, 20 Dec 2011 19:01:42 -0800</pubDate>
+		<title>
+			<![CDATA[Meg add a quote by Charles Dickens]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/123815-it-is-a-fair-even-handed-noble-adjustment-of-things-that]]>
+		</link>
+		<description>
+	    <![CDATA["It is a fair, even-handed, noble adjustment of things, that while there is infection in disease and sorrow, there is nothing in the world so irresistibly contagious as laughter and good humour." -- Charles Dickens]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/384290-kortney]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/384290-kortney" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 28 Jul 2013 16:37:24 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/589419-allowing-children-to-learn-about-what-interests-them-is-good</guid>
+		<pubDate>Sun, 28 Jul 2013 16:37:24 -0700</pubDate>
+		<title>
+			<![CDATA[kortney add a quote by Lori McWilliam Pickert]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/589419-allowing-children-to-learn-about-what-interests-them-is-good]]>
+		</link>
+		<description>
+	    <![CDATA["Allowing children to learn about what interests them is good, but helping them do it in a meaningful, rigorous way is better. Freedom and choice are good, but a life steeped in thinking, learning, and doing is better. It’s not enough to say, “Go, do whatever you like.” To help children become skilled thinkers and learners, to help them become people who make and do, we need a life centered around those experiences. We need to show them how to accomplish the things they want to do. We need to prepare them to make the life they want." -- Lori McWilliam Pickert]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

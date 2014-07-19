@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/394297-paul]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/394297-paul" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 29 Apr 2008 19:51:11 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/12337-we-live-as-we-dream--alone</guid>
+		<pubDate>Tue, 29 Apr 2008 19:51:11 -0700</pubDate>
+		<title>
+			<![CDATA[Paul add a quote by Joseph Conrad]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12337-we-live-as-we-dream--alone]]>
+		</link>
+		<description>
+	    <![CDATA["We live as we dream--alone...." -- Joseph Conrad]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/7572-i-have-always-imagined-that-paradise-will-be-a-kind</guid>
+		<pubDate>Tue, 29 Apr 2008 19:52:02 -0700</pubDate>
+		<title>
+			<![CDATA[Paul add a quote by Jorge Luis Borges]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7572-i-have-always-imagined-that-paradise-will-be-a-kind]]>
+		</link>
+		<description>
+	    <![CDATA["I have always imagined that Paradise will be a kind of library." -- Jorge Luis Borges]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/18768-that-was-the-only-decision-there-was-once-upon-a</guid>
+		<pubDate>Tue, 29 Apr 2008 19:53:05 -0700</pubDate>
+		<title>
+			<![CDATA[Paul add a quote by Harry Crews]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18768-that-was-the-only-decision-there-was-once-upon-a]]>
+		</link>
+		<description>
+	    <![CDATA["That was the only decision there was once upon a time: what to do with the night." -- Harry Crews]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4740-memory-believes-before-knowing-remembers-believes-longer-than-recollects-longer</guid>
+		<pubDate>Tue, 29 Apr 2008 19:58:44 -0700</pubDate>
+		<title>
+			<![CDATA[Paul add a quote by William Faulkner]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4740-memory-believes-before-knowing-remembers-believes-longer-than-recollects-longer]]>
+		</link>
+		<description>
+	    <![CDATA["Memory believes before knowing remembers. Believes longer than recollects, longer than knowing even wonders." -- William Faulkner]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

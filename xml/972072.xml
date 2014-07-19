@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/972072-peter-d-souza]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/972072-peter-d-souza" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 27 Jun 2014 21:09:39 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/978104-conversely-some-of-the-most-educated-idiots-i-ve-ever-met</guid>
+		<pubDate>Fri, 27 Jun 2014 21:09:39 -0700</pubDate>
+		<title>
+			<![CDATA[Peter add a quote by Si Robertson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/978104-conversely-some-of-the-most-educated-idiots-i-ve-ever-met]]>
+		</link>
+		<description>
+	    <![CDATA["Conversely, some of the most educated idiots I’ve ever met have a master’s degree or PhD. They couldn’t pour urine out of a boot with the instructions written on the heel!" -- Si Robertson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

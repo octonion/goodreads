@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/406544-jill-robi]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/406544-jill-robi" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 14 Jun 2014 14:39:04 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/241446-don-t-fear-failure-not-failure-but-low-aim-is</guid>
+		<pubDate>Sat, 14 Jun 2014 14:39:04 -0700</pubDate>
+		<title>
+			<![CDATA[Jill add a quote by Bruce Lee]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/241446-don-t-fear-failure-not-failure-but-low-aim-is]]>
+		</link>
+		<description>
+	    <![CDATA["Don't fear failure. — Not failure, but low aim, is the crime. In great attempts it is glorious even to fail." -- Bruce Lee]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/253064-if-you-spend-too-much-time-thinking-about-a-thing</guid>
+		<pubDate>Sat, 14 Jun 2014 14:39:07 -0700</pubDate>
+		<title>
+			<![CDATA[Jill add a quote by Bruce Lee]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/253064-if-you-spend-too-much-time-thinking-about-a-thing]]>
+		</link>
+		<description>
+	    <![CDATA["If you spend too much time thinking about a thing, you'll never get it done." -- Bruce Lee]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

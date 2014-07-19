@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/957506-anna-lewis]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/957506-anna-lewis" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 25 Jan 2014 11:56:19 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/666234-the-music-in-his-laughter-had-a-way-of-rounding</guid>
+		<pubDate>Sat, 25 Jan 2014 11:56:19 -0800</pubDate>
+		<title>
+			<![CDATA[Anna add a quote by Gloria Naylor]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/666234-the-music-in-his-laughter-had-a-way-of-rounding]]>
+		</link>
+		<description>
+	    <![CDATA["The music in his laughter had a way of rounding off the missing notes in her soul." -- Gloria Naylor]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/37706-creativity-is-intelligence-having-fun</guid>
+		<pubDate>Sun, 26 Jan 2014 11:30:16 -0800</pubDate>
+		<title>
+			<![CDATA[Anna add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/37706-creativity-is-intelligence-having-fun]]>
+		</link>
+		<description>
+	    <![CDATA["Creativity is intelligence having fun." -- Albert Einstein]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

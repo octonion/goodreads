@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/862083-patrick]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/862083-patrick" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 16 Aug 2013 13:11:49 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/425564-there-will-be-in-the-next-generation-or-so-a</guid>
+		<pubDate>Fri, 16 Aug 2013 13:11:49 -0700</pubDate>
+		<title>
+			<![CDATA[Patrick add a quote by Aldous Huxley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/425564-there-will-be-in-the-next-generation-or-so-a]]>
+		</link>
+		<description>
+	    <![CDATA["There will be, in the next generation or so, a pharmacological method of making people love their servitude, and producing dictatorship without tears, so to speak, producing a kind of painless concentration camp for entire societies, so that people will in fact have their liberties taken away from them, but will rather enjoy it, because they will be distracted from any desire to rebel by propaganda or brainwashing, or brainwashing enhanced by pharmacological methods. And this seems to be the final revolution" -- Aldous Huxley]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

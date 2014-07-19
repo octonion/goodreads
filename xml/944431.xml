@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/944431-deborah]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/944431-deborah" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 16 Nov 2008 06:06:26 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/21263-we-are-not-human-beings-having-a-spiritual-experience-we</guid>
+		<pubDate>Sun, 16 Nov 2008 06:06:26 -0800</pubDate>
+		<title>
+			<![CDATA[Deborah add a quote by Pierre Teilhard de Chardin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21263-we-are-not-human-beings-having-a-spiritual-experience-we]]>
+		</link>
+		<description>
+	    <![CDATA["We are not human beings having a spiritual experience. We are spiritual beings having a human experience." -- Pierre Teilhard de Chardin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/100531-well-i-ve-wrestled-with-reality-for-35-years-doctor-and</guid>
+		<pubDate>Sun, 16 Nov 2008 06:06:41 -0800</pubDate>
+		<title>
+			<![CDATA[Deborah add a quote by Jimmy Stewart, Elwood P. Dowd, Harvey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/100531-well-i-ve-wrestled-with-reality-for-35-years-doctor-and]]>
+		</link>
+		<description>
+	    <![CDATA["Well, I've wrestled with reality for 35 years, Doctor, and I'm happy to state I finally won out over it." -- Jimmy Stewart, Elwood P. Dowd, Harvey]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

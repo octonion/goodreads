@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/99296-christa]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/99296-christa" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 07 May 2008 12:53:14 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/52094-we-can-say-that-true-gratitude-does-not-give-rise</guid>
+		<pubDate>Wed, 07 May 2008 12:53:14 -0700</pubDate>
+		<title>
+			<![CDATA[Christa add a quote by John Piper]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/52094-we-can-say-that-true-gratitude-does-not-give-rise]]>
+		</link>
+		<description>
+	    <![CDATA["We can say that true gratitude does not give rise to the debtor's ethic because it gives rise to faith in future grace.  With true gratitude there is such a delight in the worth of God's past grace, that we are driven on to experience more and more of it in the future...it is done by transforming gratitude into faith as it turns from contemplating the pleasures of past grace and starts contemplating the promises of the future.  " -- John Piper]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

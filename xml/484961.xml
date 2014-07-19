@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/484961-lorenjwm2]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/484961-lorenjwm2" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 04 Oct 2008 03:17:54 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/103137-when-you-are-just-about-to-give-one-a-1-then</guid>
+		<pubDate>Sat, 04 Oct 2008 03:17:54 -0700</pubDate>
+		<title>
+			<![CDATA[Lorenjwm2 add a quote by Loren Jesica Ng]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/103137-when-you-are-just-about-to-give-one-a-1-then]]>
+		</link>
+		<description>
+	    <![CDATA["When you are just about to give one a 1,then she'll start expecting for a 2" -- Loren Jesica Ng]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

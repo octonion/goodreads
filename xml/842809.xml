@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/842809-krystal-frances-mary-castner]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/842809-krystal-frances-mary-castner" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 18 Aug 2012 10:02:42 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/57794-it-was-a-real-whale-a-photograph-of-a-real</guid>
+		<pubDate>Sat, 18 Aug 2012 10:02:42 -0700</pubDate>
+		<title>
+			<![CDATA[Krystal Frances Mary add a quote by Miranda July]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/57794-it-was-a-real-whale-a-photograph-of-a-real]]>
+		</link>
+		<description>
+	    <![CDATA["It was a real whale, a photograph of a real whale. I looked into its tiny wise eye and wondered where that eye was now. Was it alive and swimming, or had it died long ago, or was it dying now, right this second? When a whale dies, it falls down through the ocean slowly, over the course of a day. All the other fish see it fall, like a giant statue, like a building, but slowly, slowly." -- Miranda July]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

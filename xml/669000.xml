@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/669000-taters]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/669000-taters" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 05 Nov 2009 00:35:32 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/204829-my-name-s-jean-tannen-and-i-m-the-ambush</guid>
+		<pubDate>Thu, 05 Nov 2009 00:35:32 -0800</pubDate>
+		<title>
+			<![CDATA[Taters add a quote by Scott Lynch]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/204829-my-name-s-jean-tannen-and-i-m-the-ambush]]>
+		</link>
+		<description>
+	    <![CDATA["My name's Jean Tannen, and I'm the ambush." -- Scott Lynch]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/90428-the-kingdom-of-god-is-for-the-broken-hearted</guid>
+		<pubDate>Wed, 20 Mar 2013 18:35:01 -0700</pubDate>
+		<title>
+			<![CDATA[Taters add a quote by Fred Rogers]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/90428-the-kingdom-of-god-is-for-the-broken-hearted]]>
+		</link>
+		<description>
+	    <![CDATA["The kingdom of God is for the broken hearted" -- Fred Rogers]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

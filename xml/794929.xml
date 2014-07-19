@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/794929-ann]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/794929-ann" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 23 Apr 2013 20:33:51 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/95915-let-everything-happen-to-you-beauty-and-terror-just-keep</guid>
+		<pubDate>Tue, 23 Apr 2013 20:33:51 -0700</pubDate>
+		<title>
+			<![CDATA[Ann add a quote by Rainer Maria Rilke]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/95915-let-everything-happen-to-you-beauty-and-terror-just-keep]]>
+		</link>
+		<description>
+	    <![CDATA["Let everything happen to you
+Beauty and terror
+Just keep going
+No feeling is final" -- Rainer Maria Rilke]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/162883-flirting-with-madness-was-one-thing-when-madness-started-flirting</guid>
+		<pubDate>Tue, 23 Apr 2013 20:34:07 -0700</pubDate>
+		<title>
+			<![CDATA[Ann add a quote by Rohinton Mistry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/162883-flirting-with-madness-was-one-thing-when-madness-started-flirting]]>
+		</link>
+		<description>
+	    <![CDATA["Flirting with madness was one thing; when madness started flirting back, it was time to call the whole thing off." -- Rohinton Mistry]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

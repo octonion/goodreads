@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/629510-chris]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/629510-chris" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 10 Jan 2014 13:38:24 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/31308-the-visionary-lies-to-himself-the-liar-only-to-others</guid>
+		<pubDate>Fri, 10 Jan 2014 13:38:24 -0800</pubDate>
+		<title>
+			<![CDATA[Chris add a quote by Friedrich Nietzsche]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/31308-the-visionary-lies-to-himself-the-liar-only-to-others]]>
+		</link>
+		<description>
+	    <![CDATA["The visionary lies to himself, the liar only to others." -- Friedrich Nietzsche]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3395-the-failure-to-read-good-books-both-enfeebles-the-vision</guid>
+		<pubDate>Fri, 10 Jan 2014 13:38:44 -0800</pubDate>
+		<title>
+			<![CDATA[Chris add a quote by Allan Bloom]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3395-the-failure-to-read-good-books-both-enfeebles-the-vision]]>
+		</link>
+		<description>
+	    <![CDATA["The failure to read good books both enfeebles the vision and strengthens our most fatal tendency -- the belief that the here and now is all there is." -- Allan Bloom]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/283569-reality-denied-comes-back-to-haunt</guid>
+		<pubDate>Fri, 10 Jan 2014 13:38:51 -0800</pubDate>
+		<title>
+			<![CDATA[Chris add a quote by Philip K. Dick]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/283569-reality-denied-comes-back-to-haunt]]>
+		</link>
+		<description>
+	    <![CDATA["Reality denied comes back to haunt." -- Philip K. Dick]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

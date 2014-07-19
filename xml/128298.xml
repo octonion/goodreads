@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/128298-celia-powell]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/128298-celia-powell" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 27 Feb 2008 15:42:09 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1-the-story-so-far-in-the-beginning-the-universe-was</guid>
+		<pubDate>Wed, 27 Feb 2008 15:42:09 -0800</pubDate>
+		<title>
+			<![CDATA[Celia add a quote by Douglas Adams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1-the-story-so-far-in-the-beginning-the-universe-was]]>
+		</link>
+		<description>
+	    <![CDATA["The story so far:
+In the beginning the Universe was created.
+This has made a lot of people very angry and been widely regarded as a bad move." -- Douglas Adams]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2627-the-trouble-with-having-an-open-mind-of-course-is</guid>
+		<pubDate>Wed, 27 Feb 2008 15:49:22 -0800</pubDate>
+		<title>
+			<![CDATA[Celia add a quote by Terry Pratchett]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2627-the-trouble-with-having-an-open-mind-of-course-is]]>
+		</link>
+		<description>
+	    <![CDATA["The trouble with having an open mind, of course, is that people will insist on coming along and trying to put things in it." -- Terry Pratchett]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/233724-you-ve-probably-all-had-those-kinds-of-dreams-that-are</guid>
+		<pubDate>Sun, 27 Mar 2011 03:43:46 -0700</pubDate>
+		<title>
+			<![CDATA[Celia add a quote by Diana Wynne Jones]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/233724-you-ve-probably-all-had-those-kinds-of-dreams-that-are]]>
+		</link>
+		<description>
+	    <![CDATA["You've probably all had those kinds of dreams that are like usual life, except that a lot of things are not the same, and you seem to know the future in them. Well, this is because these other worlds where two things can happen spread out from our world like rainbows, and sort of flow into one another-" -- Diana Wynne Jones]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1078781-kourtknee]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1078781-kourtknee" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 12 Apr 2008 22:59:17 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6453-you-don-t-know-what-goes-on-in-anyone-s-life-but</guid>
+		<pubDate>Sat, 12 Apr 2008 22:59:17 -0700</pubDate>
+		<title>
+			<![CDATA[Kourtknee add a quote by Jay Asher]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6453-you-don-t-know-what-goes-on-in-anyone-s-life-but]]>
+		</link>
+		<description>
+	    <![CDATA["You don’t know what goes on in anyone’s life but your own. And when you mess with one part of a person’s life, you’re not messing with just that part. Unfortunately, you can’t be that precise and selective. When you mess with one part of a person’s life, you’re messing with their entire life. Everything. . . affects everything." -- Jay Asher]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

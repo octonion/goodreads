@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/952115-kiley]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/952115-kiley" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 11 May 2008 19:00:09 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/17177-those-who-believe-in-telekinetics-raise-my-hand</guid>
+		<pubDate>Sun, 11 May 2008 19:00:09 -0700</pubDate>
+		<title>
+			<![CDATA[Kiley add a quote by Kurt Vonnegut]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17177-those-who-believe-in-telekinetics-raise-my-hand]]>
+		</link>
+		<description>
+	    <![CDATA["Those who believe in telekinetics, raise my hand." -- Kurt Vonnegut]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/182025-boggle-with-sex-addicts-is-up-there-with-go-kart-racing</guid>
+		<pubDate>Tue, 27 Nov 2012 19:48:32 -0800</pubDate>
+		<title>
+			<![CDATA[Kiley add a quote by Russell Brand]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/182025-boggle-with-sex-addicts-is-up-there-with-go-kart-racing]]>
+		</link>
+		<description>
+	    <![CDATA["Boggle with sex addicts is up there with go-kart racing with junkies." -- Russell Brand]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

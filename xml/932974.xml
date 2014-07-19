@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/932974-ross]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/932974-ross" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 20 Aug 2009 12:27:37 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/187068-there-are-no-guarantees-that-if-you-work-hard-enough</guid>
+		<pubDate>Thu, 20 Aug 2009 12:27:37 -0700</pubDate>
+		<title>
+			<![CDATA[Ross add a quote by Jessica Todd Harper]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/187068-there-are-no-guarantees-that-if-you-work-hard-enough]]>
+		</link>
+		<description>
+	    <![CDATA["There are no guarantees that if you work hard enough, or are talented enough, that you will be successful, be able to support yourself, or importantly, make a meaningful contribution to others. But in the meantime, if you are an artist, the art just comes—whether you like it or not—because you can’t stop it." -- Jessica Todd Harper]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/339485-c]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/339485-c" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 25 Sep 2013 18:45:40 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/248187-struggling-and-suffering-are-the-essence-of-a-life-worth</guid>
+		<pubDate>Wed, 25 Sep 2013 18:45:40 -0700</pubDate>
+		<title>
+			<![CDATA[C.  add a quote by Dean Karnazes]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/248187-struggling-and-suffering-are-the-essence-of-a-life-worth]]>
+		</link>
+		<description>
+	    <![CDATA["Struggling and suffering are the essence of a life worth living. If you're not pushing yourself beyond the comfort zone, if you're not demanding more from yourself - expanding and learning as you go - you're choosing a numb existence. You're denying yourself an extraordinary trip." -- Dean Karnazes]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

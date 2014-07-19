@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/767663-tiffany]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/767663-tiffany" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 08 Nov 2011 14:49:20 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/199770-memories-even-your-most-precious-ones-fade-surprisingly-quickly-but</guid>
+		<pubDate>Tue, 08 Nov 2011 14:49:20 -0800</pubDate>
+		<title>
+			<![CDATA[Tiffany add a quote by Kazuo Ishiguro]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/199770-memories-even-your-most-precious-ones-fade-surprisingly-quickly-but]]>
+		</link>
+		<description>
+	    <![CDATA["Memories, even your most precious ones, fade surprisingly quickly. But I don’t go along with that. The memories I value most, I don’t ever see them fading." -- Kazuo Ishiguro]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/9704-a-small-daily-task-if-it-be-really-daily-will</guid>
+		<pubDate>Tue, 24 Apr 2012 11:23:42 -0700</pubDate>
+		<title>
+			<![CDATA[Tiffany add a quote by Anthony Trollope]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9704-a-small-daily-task-if-it-be-really-daily-will]]>
+		</link>
+		<description>
+	    <![CDATA["A small daily task, if it be really daily, will beat the labours of a spasmodic Hercules." -- Anthony Trollope]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

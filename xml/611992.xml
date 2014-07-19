@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/611992-ali-wadsworth]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/611992-ali-wadsworth" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 23 Aug 2010 13:54:30 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/38363-if-you-end-up-with-a-boring-miserable-life-because</guid>
+		<pubDate>Mon, 23 Aug 2010 13:54:30 -0700</pubDate>
+		<title>
+			<![CDATA[Ali add a quote by Frank Zappa]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/38363-if-you-end-up-with-a-boring-miserable-life-because]]>
+		</link>
+		<description>
+	    <![CDATA["If you end up with a boring miserable life because you listened to your mom, your dad, your teacher, your priest, or some guy on television telling you how to do your shit, then you deserve it." -- Frank Zappa]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/12694-when-your-mama-was-the-geek-my-dreamlets-papa-would</guid>
+		<pubDate>Mon, 23 Aug 2010 13:55:09 -0700</pubDate>
+		<title>
+			<![CDATA[Ali add a quote by Katherine Dunn]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12694-when-your-mama-was-the-geek-my-dreamlets-papa-would]]>
+		</link>
+		<description>
+	    <![CDATA["When your mama was the geek, my dreamlets,&quot; Papa would say, &quot;she made the nipping off of noggins such a crystal mystery that the hens themselves yearned toward her, waltzing around her, hypnotized with longing." -- Katherine Dunn]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/966196-laura]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/966196-laura" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 04 Mar 2008 16:42:58 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/31020-mr-darcy-is-my-severest-critic</guid>
+		<pubDate>Tue, 04 Mar 2008 16:42:58 -0800</pubDate>
+		<title>
+			<![CDATA[Laura add a quote by Elizabeth Bennett]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/31020-mr-darcy-is-my-severest-critic]]>
+		</link>
+		<description>
+	    <![CDATA["Mr Darcy is my severest critic." -- Elizabeth Bennett]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5399-if-you-want-to-know-what-a-man-s-like-take</guid>
+		<pubDate>Sun, 03 Aug 2008 17:17:26 -0700</pubDate>
+		<title>
+			<![CDATA[Laura add a quote by J.K. Rowling]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5399-if-you-want-to-know-what-a-man-s-like-take]]>
+		</link>
+		<description>
+	    <![CDATA["If you want to know what a man's like, take a good look at how he treats his inferiors, not his equals." -- J.K. Rowling]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1132-deserves-it-i-daresay-he-does-many-that-live-deserve</guid>
+		<pubDate>Sun, 03 Aug 2008 17:18:10 -0700</pubDate>
+		<title>
+			<![CDATA[Laura add a quote by J.R.R. Tolkien]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1132-deserves-it-i-daresay-he-does-many-that-live-deserve]]>
+		</link>
+		<description>
+	    <![CDATA["Deserves it! I daresay he does. Many that live deserve death. And some that die deserve life. Can you give it to them? Then do not be too eager to deal out death in judgement. For even the very wise cannot see all ends." -- J.R.R. Tolkien]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

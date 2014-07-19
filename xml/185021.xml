@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/185021-mike]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/185021-mike" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 26 Mar 2008 08:12:58 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/38449-this-city-is-dying-of-rabies-is-the-best-i</guid>
+		<pubDate>Wed, 26 Mar 2008 08:12:58 -0700</pubDate>
+		<title>
+			<![CDATA[Mike add a quote by Alan Moore]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/38449-this-city-is-dying-of-rabies-is-the-best-i]]>
+		</link>
+		<description>
+	    <![CDATA["This city is dying of rabies.  Is the best I can do to wipe random flecks of foam from its lips?" -- Alan Moore]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2314-so-we-beat-on-boats-against-the-current-borne-back</guid>
+		<pubDate>Wed, 26 Mar 2008 08:29:35 -0700</pubDate>
+		<title>
+			<![CDATA[Mike add a quote by F. Scott Fitzgerald]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2314-so-we-beat-on-boats-against-the-current-borne-back]]>
+		</link>
+		<description>
+	    <![CDATA["So we beat on, boats against the current, borne back ceaselessly into the past." -- F. Scott Fitzgerald]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/10839-music-has-always-been-a-matter-of-energy-to-me</guid>
+		<pubDate>Wed, 26 Mar 2008 09:43:14 -0700</pubDate>
+		<title>
+			<![CDATA[Mike add a quote by Hunter S. Thompson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10839-music-has-always-been-a-matter-of-energy-to-me]]>
+		</link>
+		<description>
+	    <![CDATA["Music has always been a matter of Energy to me, a question of Fuel.  Sentimental people call it Inspiration, but what they really mean is Fuel.  I have always needed Fuel. I am a serious consumer.  On some nights I still believe that a car with the gas needle on empty can run about fifty more miles if you have the right music very loud on the radio." -- Hunter S. Thompson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

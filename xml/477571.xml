@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/477571-d3w1]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/477571-d3w1" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 13 Oct 2011 01:23:06 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/20928-who-are-you-to-judge-the-life-i-live-i</guid>
+		<pubDate>Thu, 13 Oct 2011 01:23:06 -0700</pubDate>
+		<title>
+			<![CDATA[D3w1 add a quote by Bob Marley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20928-who-are-you-to-judge-the-life-i-live-i]]>
+		</link>
+		<description>
+	    <![CDATA["Who are you to judge the life I live?
+I know I'm not perfect
+-and I don't live to be-
+but before you start pointing fingers...
+make sure you hands are clean!" -- Bob Marley]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/122380-but-if-everything-was-always-smooth-and-perfect-you-d-get</guid>
+		<pubDate>Thu, 13 Oct 2011 01:58:42 -0700</pubDate>
+		<title>
+			<![CDATA[D3w1 add a quote by Sarah Dessen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/122380-but-if-everything-was-always-smooth-and-perfect-you-d-get]]>
+		</link>
+		<description>
+	    <![CDATA["But if everything was always smooth and perfect, you'd get too used to that, you know?  You have to have a little bit of disorganization now and then.  Otherwise, you'll never really enjoy it when things go right." -- Sarah Dessen]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

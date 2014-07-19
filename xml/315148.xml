@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/315148-lark]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/315148-lark" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 22 Jan 2013 22:28:39 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/24245-if-there-is-no-solution-to-the-problem-then-don-t</guid>
+		<pubDate>Tue, 22 Jan 2013 22:28:39 -0800</pubDate>
+		<title>
+			<![CDATA[Lark add a quote by The Dalai Lama]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/24245-if-there-is-no-solution-to-the-problem-then-don-t]]>
+		</link>
+		<description>
+	    <![CDATA["If there is no solution to the problem then don't waste time worrying about it.  If there is a solution to the problem then don't waste time worrying about it." -- The Dalai Lama]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

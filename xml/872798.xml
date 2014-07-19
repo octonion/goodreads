@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/872798-karen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/872798-karen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 14 Nov 2009 09:12:56 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6407-our-lives-begin-to-end-the-day-we-become-silent</guid>
+		<pubDate>Sat, 14 Nov 2009 09:12:56 -0800</pubDate>
+		<title>
+			<![CDATA[Karen add a quote by Martin Luther King Jr.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6407-our-lives-begin-to-end-the-day-we-become-silent]]>
+		</link>
+		<description>
+	    <![CDATA["Our lives begin to end the day we become silent about things that matter." -- Martin Luther King Jr.]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/383337-we-are-each-of-us-angels-with-only-one-wing</guid>
+		<pubDate>Sat, 14 Nov 2009 09:14:04 -0800</pubDate>
+		<title>
+			<![CDATA[Karen add a quote by Luciano De Crescenzo]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/383337-we-are-each-of-us-angels-with-only-one-wing]]>
+		</link>
+		<description>
+	    <![CDATA["We are each of us angels with only one wing, and we can only fly by embracing one another." -- Luciano De Crescenzo]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/80288-now-i-see-the-secret-of-making-the-best-person</guid>
+		<pubDate>Thu, 03 Jun 2010 09:17:09 -0700</pubDate>
+		<title>
+			<![CDATA[Karen add a quote by Walt Whitman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/80288-now-i-see-the-secret-of-making-the-best-person]]>
+		</link>
+		<description>
+	    <![CDATA["Now I see the secret of making the best person: it is to grow in the open air and to eat and sleep with the earth." -- Walt Whitman]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

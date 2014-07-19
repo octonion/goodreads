@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/919561-nettie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/919561-nettie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 14 May 2013 10:43:24 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6946-not-all-of-us-can-do-great-things-but-we</guid>
+		<pubDate>Tue, 14 May 2013 10:43:24 -0700</pubDate>
+		<title>
+			<![CDATA[Nettie add a quote by Mother Teresa]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6946-not-all-of-us-can-do-great-things-but-we]]>
+		</link>
+		<description>
+	    <![CDATA["Not all of us can do great things. But we can do small things with great love." -- Mother Teresa]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/56602-the-things-you-do-for-yourself-are-gone-when-you</guid>
+		<pubDate>Wed, 29 May 2013 07:24:04 -0700</pubDate>
+		<title>
+			<![CDATA[Nettie add a quote by Kalu Ndukwe Kalu]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/56602-the-things-you-do-for-yourself-are-gone-when-you]]>
+		</link>
+		<description>
+	    <![CDATA["The things you do for yourself are gone when you are gone, but the things you do for others remain as your legacy." -- Kalu Ndukwe Kalu]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

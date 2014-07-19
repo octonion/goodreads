@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/144166-owen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/144166-owen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 09 Oct 2012 18:13:57 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/156272-amateurs-sit-and-wait-for-inspiration-the-rest-of-us</guid>
+		<pubDate>Tue, 09 Oct 2012 18:13:57 -0700</pubDate>
+		<title>
+			<![CDATA[Owen add a quote by Stephen King]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/156272-amateurs-sit-and-wait-for-inspiration-the-rest-of-us]]>
+		</link>
+		<description>
+	    <![CDATA["Amateurs sit and wait for inspiration, the rest of us just get up and go to work." -- Stephen King]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/155154-i-am-not-now-what-i-was-yesterday-and-i</guid>
+		<pubDate>Tue, 09 Oct 2012 18:27:39 -0700</pubDate>
+		<title>
+			<![CDATA[Owen add a quote by corey lyles]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/155154-i-am-not-now-what-i-was-yesterday-and-i]]>
+		</link>
+		<description>
+	    <![CDATA["I am not now what I was yesterday, and I am not now what I shall be tomorrow. So you do yourself an injustice to judge me for yesterday, when I have moved on" -- corey lyles]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

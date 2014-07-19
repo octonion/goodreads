@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/596877-mona]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/596877-mona" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 24 Dec 2007 04:10:50 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/7442-once-you-learn-to-quit-it-becomes-a-habit</guid>
+		<pubDate>Mon, 24 Dec 2007 04:10:50 -0800</pubDate>
+		<title>
+			<![CDATA[Mona add a quote by Vince Lombardi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7442-once-you-learn-to-quit-it-becomes-a-habit]]>
+		</link>
+		<description>
+	    <![CDATA["once you learn to quit, it becomes a habit" -- Vince Lombardi]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/7446-sesuatu-yang-terjadi-dalam-beberapa-hari-kadang-kadang-bahkan-dalam-sehari</guid>
+		<pubDate>Mon, 24 Dec 2007 05:07:44 -0800</pubDate>
+		<title>
+			<![CDATA[Mona add a quote by Khaled Hosseini]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7446-sesuatu-yang-terjadi-dalam-beberapa-hari-kadang-kadang-bahkan-dalam-sehari]]>
+		</link>
+		<description>
+	    <![CDATA["sesuatu yang terjadi dalam beberapa hari, kadang-kadang bahkan dalam sehari, bisa mengubah keseluruhan jalan hidup seseorang." -- Khaled Hosseini]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/244810-nikki]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/244810-nikki" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 30 Sep 2011 10:12:18 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/37-anyone-whose-goal-is-something-higher-must-expect-someday-to</guid>
+		<pubDate>Fri, 30 Sep 2011 10:12:18 -0700</pubDate>
+		<title>
+			<![CDATA[Nikki add a quote by Milan Kundera]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/37-anyone-whose-goal-is-something-higher-must-expect-someday-to]]>
+		</link>
+		<description>
+	    <![CDATA["Anyone whose goal is 'something higher' must expect someday to suffer vertigo. What is vertigo? Fear of falling? No, Vertigo is something other than fear of falling. It is the voice of the emptiness below us which tempts and lures us, it is the desire to fall, against which, terrified, we defend ourselves." -- Milan Kundera]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/913692-brant]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/913692-brant" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 09 Apr 2013 09:00:56 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/464108-in-the-philosophical-dialect-a-cynic-takes-an-insult-as</guid>
+		<pubDate>Tue, 09 Apr 2013 09:00:56 -0700</pubDate>
+		<title>
+			<![CDATA[Brant add a quote by Criss Jami]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/464108-in-the-philosophical-dialect-a-cynic-takes-an-insult-as]]>
+		</link>
+		<description>
+	    <![CDATA["In the philosophical dialect, a cynic takes an insult as a compliment since opposition is already his style." -- Criss Jami]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/504348-the-power-of-a-bold-idea-uttered-publicly-in-defiance</guid>
+		<pubDate>Tue, 09 Apr 2013 09:01:07 -0700</pubDate>
+		<title>
+			<![CDATA[Brant add a quote by Howard Zinn]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/504348-the-power-of-a-bold-idea-uttered-publicly-in-defiance]]>
+		</link>
+		<description>
+	    <![CDATA["The power of a bold idea uttered publicly in defiance of dominant opinion cannot be easily measured.  Those special people who speak out in such a way as to shake up not only the self-assurance of their enemies, but the complacency of their friends, are precious catalysts for change." -- Howard Zinn]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

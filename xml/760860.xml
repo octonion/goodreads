@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/760860-bonnie-margay-burke]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/760860-bonnie-margay-burke" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 01 Jul 2013 14:11:33 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/838610-it-s-hard-to-let-go-even-when-what-you-re-holding</guid>
+		<pubDate>Mon, 01 Jul 2013 14:11:33 -0700</pubDate>
+		<title>
+			<![CDATA[Bonnie Margay add a quote by Stephen King]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/838610-it-s-hard-to-let-go-even-when-what-you-re-holding]]>
+		</link>
+		<description>
+	    <![CDATA["It’s hard to let go. Even when what you’re holding onto is full of thorns, it’s hard to let go. Maybe especially then." -- Stephen King]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/851416-what-is-it-that-i-m-doing-again-you-know-that</guid>
+		<pubDate>Sat, 20 Jul 2013 00:42:56 -0700</pubDate>
+		<title>
+			<![CDATA[Bonnie Margay add a quote by Emily M. Danforth]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/851416-what-is-it-that-i-m-doing-again-you-know-that]]>
+		</link>
+		<description>
+	    <![CDATA["What is it that I’m doing again?”
+“You know that already,” she said. “You just think that you don’t, but you do. It’s what you came all this way for." -- Emily M. Danforth]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/776577-helen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/776577-helen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 05 Dec 2008 11:06:13 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/16479-once-you-can-accept-the-universe-as-matter-expanding-into</guid>
+		<pubDate>Fri, 05 Dec 2008 11:06:13 -0800</pubDate>
+		<title>
+			<![CDATA[Helen add a quote by Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16479-once-you-can-accept-the-universe-as-matter-expanding-into]]>
+		</link>
+		<description>
+	    <![CDATA["Once you can accept the universe as matter expanding into nothing that is something, wearing stripes with plaid comes easy." -- Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/109176-i-believe-a-leaf-of-grass-is-no-less-than</guid>
+		<pubDate>Tue, 03 Nov 2009 07:31:38 -0800</pubDate>
+		<title>
+			<![CDATA[Helen add a quote by Walt Whitman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/109176-i-believe-a-leaf-of-grass-is-no-less-than]]>
+		</link>
+		<description>
+	    <![CDATA["I believe a leaf of grass is no less than the journey-work of the stars." -- Walt Whitman]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

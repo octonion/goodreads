@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/997847-brian-whitmer]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/997847-brian-whitmer" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 29 Apr 2014 12:38:34 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/56164-what-win-i-if-i-gain-the-thing-i-seek</guid>
+		<pubDate>Tue, 29 Apr 2014 12:38:34 -0700</pubDate>
+		<title>
+			<![CDATA[Brian add a quote by William Shakespeare]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/56164-what-win-i-if-i-gain-the-thing-i-seek]]>
+		</link>
+		<description>
+	    <![CDATA["What win I, if I gain the thing I seek?
+A dream, a breath, a froth of fleeting joy.
+Who buys a minute's mirth to wail a week?
+Or sells eternity to get a toy?
+For one sweet grape who will the vine destroy?
+Or what fond beggar, but to touch the crown,
+Would with the sceptre straight be strucken down?" -- William Shakespeare]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

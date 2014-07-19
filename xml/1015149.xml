@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1015149-ed]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1015149-ed" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 23 Mar 2008 21:16:39 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/37564-if-you-live-each-moment-in-heart-love-will-fill</guid>
+		<pubDate>Sun, 23 Mar 2008 21:16:39 -0700</pubDate>
+		<title>
+			<![CDATA[Ed add a quote by Lori L. Spencer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/37564-if-you-live-each-moment-in-heart-love-will-fill]]>
+		</link>
+		<description>
+	    <![CDATA["If you live each moment in heart, love, will fill your world. It cannot be seen, only felt and, is by far the greatest gift. So, dance as if no one is watching. Love, as if it were your last day. Be comfortably immersed in the stillness, so you can always be authentic. Smile and be kind. The world will unfold in presents that reach to touch the depth of other's souls.   lls" -- Lori L. Spencer]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

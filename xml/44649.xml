@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/44649-charlotte]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/44649-charlotte" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 10 Nov 2013 10:29:10 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/937140-australians-were-very-practical-emily-had-found-they-did-things</guid>
+		<pubDate>Sun, 10 Nov 2013 10:29:10 -0800</pubDate>
+		<title>
+			<![CDATA[charlotte add a quote by Max Barry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/937140-australians-were-very-practical-emily-had-found-they-did-things]]>
+		</link>
+		<description>
+	    <![CDATA["Australians were very practical, Emily had found.  They did things quickly and purposefully and to the absolute minimum standard required.  It was refreshing and guenuine but sometimes led to situations like building a town around a hole." -- Max Barry]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/954539-i-m-scared-mom-it-s-okay-honey-it-s-all-right</guid>
+		<pubDate>Tue, 03 Dec 2013 11:00:12 -0800</pubDate>
+		<title>
+			<![CDATA[charlotte add a quote by Lauren Beukes]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/954539-i-m-scared-mom-it-s-okay-honey-it-s-all-right]]>
+		</link>
+		<description>
+	    <![CDATA["I'm scared, Mom.&quot; ... &quot;It's okay, honey.  It's all right.  That's the big secret, don't you know?  Everyone is.  All the time." -- Lauren Beukes]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

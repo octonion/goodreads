@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/247187-lakshmi-mareddy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/247187-lakshmi-mareddy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 26 Jul 2013 14:04:23 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/168713-when-a-man-gives-his-opinion-he-s-a-man-when</guid>
+		<pubDate>Fri, 26 Jul 2013 14:04:23 -0700</pubDate>
+		<title>
+			<![CDATA[Lakshmi add a quote by Bette Davis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/168713-when-a-man-gives-his-opinion-he-s-a-man-when]]>
+		</link>
+		<description>
+	    <![CDATA["When a man gives his opinion, he's a man. When a woman gives her opinion, she's a bitch." -- Bette Davis]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/221644-for-the-powerful-crimes-are-those-that-others-commit</guid>
+		<pubDate>Fri, 26 Jul 2013 14:02:54 -0700</pubDate>
+		<title>
+			<![CDATA[Lakshmi add a quote by Noam Chomsky]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/221644-for-the-powerful-crimes-are-those-that-others-commit]]>
+		</link>
+		<description>
+	    <![CDATA["For the powerful, crimes are those that others commit." -- Noam Chomsky]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

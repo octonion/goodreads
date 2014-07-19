@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/586622-lisa]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/586622-lisa" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 15 Mar 2011 17:08:45 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/111051-i-have-for-the-first-time-found-what-i-can</guid>
+		<pubDate>Tue, 15 Mar 2011 17:08:45 -0700</pubDate>
+		<title>
+			<![CDATA[Lisa add a quote by Charlotte Bronte]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/111051-i-have-for-the-first-time-found-what-i-can]]>
+		</link>
+		<description>
+	    <![CDATA["I have for the first time found what I can truly love–I have found you. You are my sympathy–my better self–my good angel–I am bound to you with a strong attachment. I think you good, gifted, lovely: a fervent, a solemn passion is conceived in my heart; it leans to you, draws you to my centre and spring of life, wrap my existence about you–and, kindling in pure, powerful flame, fuses you and me in one." -- Charlotte Bronte]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

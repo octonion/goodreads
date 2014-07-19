@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/173372-blake-cooper]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/173372-blake-cooper" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 21 Apr 2010 15:35:05 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2032-there-is-nothing-to-writing-all-you-do-is-sit</guid>
+		<pubDate>Wed, 21 Apr 2010 15:35:05 -0700</pubDate>
+		<title>
+			<![CDATA[Blake add a quote by Ernest Hemingway]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2032-there-is-nothing-to-writing-all-you-do-is-sit]]>
+		</link>
+		<description>
+	    <![CDATA["There is nothing to writing. All you do is sit down at a typewriter and bleed." -- Ernest Hemingway]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/974422-he-already-knew-he-could-coach-all-you-had-to</guid>
+		<pubDate>Sat, 28 Dec 2013 17:41:11 -0800</pubDate>
+		<title>
+			<![CDATA[Blake add a quote by Chad Harbach]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/974422-he-already-knew-he-could-coach-all-you-had-to]]>
+		</link>
+		<description>
+	    <![CDATA["He already knew he could coach. All you had to do was look at each of your players and ask yourself: What story does this guy wish someone would tell him about himself? And then you told the guy that story. You told it with a hint of doom. You included his flaws. You emphasized the obstacles that could prevent him from succeeding. That was what made the story epic: the player, the hero, had to suffer mightily en route to his final triumph. Schwartz knew that people loved to suffer, as long as the suffering made sense. Everybody suffered. The key was to choose the form of your suffering. Most people couldn’t do this alone; they needed a coach. A good coach made you suffer in a way that suited you. A bad coach made everyone suffer in the same way, and so was more like a torturer." -- Chad Harbach]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

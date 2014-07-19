@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/628632-seth]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/628632-seth" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 09 Sep 2009 04:00:27 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/191799-in-the-life-of-the-individual-an-aesthetic-sensibility-is</guid>
+		<pubDate>Wed, 09 Sep 2009 04:00:27 -0700</pubDate>
+		<title>
+			<![CDATA[Seth add a quote by Tom Robbins]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/191799-in-the-life-of-the-individual-an-aesthetic-sensibility-is]]>
+		</link>
+		<description>
+	    <![CDATA["In the life of the individual, an aesthetic sensibility is both more authentic and more commendable than a political or religious one." -- Tom Robbins]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/645-it-is-sometimes-an-appropriate-response-to-reality-to-go</guid>
+		<pubDate>Wed, 09 Sep 2009 04:31:29 -0700</pubDate>
+		<title>
+			<![CDATA[Seth add a quote by Philip K. Dick]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/645-it-is-sometimes-an-appropriate-response-to-reality-to-go]]>
+		</link>
+		<description>
+	    <![CDATA["It is sometimes an appropriate response to reality to go insane." -- Philip K. Dick]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

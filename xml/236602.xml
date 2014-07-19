@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/236602-emily]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/236602-emily" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 17 Feb 2008 22:44:41 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/22842-you-have-brains-in-your-head-you-have-feet-in</guid>
+		<pubDate>Sun, 17 Feb 2008 22:44:41 -0800</pubDate>
+		<title>
+			<![CDATA[Emily add a quote by Dr. Seuss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22842-you-have-brains-in-your-head-you-have-feet-in]]>
+		</link>
+		<description>
+	    <![CDATA["You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. You're on your own. And you know what you know. And YOU are the one who'll decide where to go..." -- Dr. Seuss]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/406-all-god-does-is-watch-us-and-kill-us-when</guid>
+		<pubDate>Thu, 27 Dec 2007 08:33:54 -0800</pubDate>
+		<title>
+			<![CDATA[Emily add a quote by Chuck Palahniuk]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/406-all-god-does-is-watch-us-and-kill-us-when]]>
+		</link>
+		<description>
+	    <![CDATA["All God does is watch us and kill us when we get boring. We must never, ever be boring." -- Chuck Palahniuk]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/356-i-learned-this-at-least-by-my-experiment-that-if</guid>
+		<pubDate>Thu, 27 Dec 2007 08:34:57 -0800</pubDate>
+		<title>
+			<![CDATA[Emily add a quote by Henry David Thoreau]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/356-i-learned-this-at-least-by-my-experiment-that-if]]>
+		</link>
+		<description>
+	    <![CDATA["I learned this, at least, by my experiment: that if one advances confidently in the direction of his dreams, and endeavors to live the life which he has imagined, he will meet with a success unexpected in common hours." -- Henry David Thoreau]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5543-insanity-is-doing-the-same-thing-over-and-over-again</guid>
+		<pubDate>Thu, 27 Dec 2007 08:35:15 -0800</pubDate>
+		<title>
+			<![CDATA[Emily add a quote by Narcotics Anonymous]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5543-insanity-is-doing-the-same-thing-over-and-over-again]]>
+		</link>
+		<description>
+	    <![CDATA["Insanity is doing the same thing, over and over again, but expecting different results." -- Narcotics Anonymous]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

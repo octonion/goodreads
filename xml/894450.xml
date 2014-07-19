@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/894450-angela]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/894450-angela" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 13 Nov 2012 18:16:47 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/899-dreams-if-they-re-any-good-are-always-a-little-bit</guid>
+		<pubDate>Tue, 13 Nov 2012 18:16:47 -0800</pubDate>
+		<title>
+			<![CDATA[Angela add a quote by Ray Charles]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/899-dreams-if-they-re-any-good-are-always-a-little-bit]]>
+		</link>
+		<description>
+	    <![CDATA["Dreams, if they're any good, are always a little bit crazy.  " -- Ray Charles]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/641380-i-do-not-know-why-there-is-this-difference-but</guid>
+		<pubDate>Mon, 21 Apr 2014 16:55:29 -0700</pubDate>
+		<title>
+			<![CDATA[Angela add a quote by C.S. Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/641380-i-do-not-know-why-there-is-this-difference-but]]>
+		</link>
+		<description>
+	    <![CDATA["I do not know why there is this difference, but I am sure that God keeps no one waiting unless He sees that it is good for him to wait. When you do enter your room, you will find that the long wait has done you some kind of good which you would not have had otherwise. But you must regard it as waiting, not as camping. You must keep on praying for light: and of course, even in the hall, you must begin trying to obey the rules which are common to the whole house. And above all you must be asking which door is the true one; not which pleases you best by its paint and paneling." -- C.S. Lewis]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

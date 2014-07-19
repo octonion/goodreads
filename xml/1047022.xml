@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1047022-jennifer]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1047022-jennifer" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 18 Apr 2013 15:44:20 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/191135-we-can-express-our-feelings-regarding-the-world-around-us</guid>
+		<pubDate>Thu, 18 Apr 2013 15:44:20 -0700</pubDate>
+		<title>
+			<![CDATA[Jennifer add a quote by Andrei Tarkovsky]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/191135-we-can-express-our-feelings-regarding-the-world-around-us]]>
+		</link>
+		<description>
+	    <![CDATA["We can express our feelings regarding the world around us either by poetic or by descriptive means. I prefer to express myself metaphorically. Let me stress: metaphorically, not symbolically. A symbol contains within itself a definite meaning, certain intellectual formula, while metaphor is an image. An image possessing the same distinguishing features as the world it represents. An image — as opposed to a symbol — is indefinite in meaning. One cannot speak of the infinite world by applying tools that are definite and finite. We can analyse the formula that constitutes a symbol, while metaphor is a being-within-itself, it's a monomial. It falls apart at any attempt of touching it." -- Andrei Tarkovsky]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

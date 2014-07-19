@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/672734-sean]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/672734-sean" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 06 Nov 2012 12:12:20 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/25506-if-complete-and-utter-chaos-was-lightning-then-he-d-be</guid>
+		<pubDate>Tue, 06 Nov 2012 12:12:20 -0800</pubDate>
+		<title>
+			<![CDATA[Sean add a quote by Terry Pratchett]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/25506-if-complete-and-utter-chaos-was-lightning-then-he-d-be]]>
+		</link>
+		<description>
+	    <![CDATA["If complete and utter chaos was lightning, then he'd be the sort to stand on a hilltop in a thunderstorm wearing wet copper armour and shouting 'All gods are bastards!" -- Terry Pratchett]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

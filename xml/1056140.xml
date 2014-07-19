@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1056140-erika]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1056140-erika" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 06 Apr 2008 17:40:23 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/42094-and-now-that-we-have-returned-to-the-desultory-life</guid>
+		<pubDate>Sun, 06 Apr 2008 17:40:23 -0700</pubDate>
+		<title>
+			<![CDATA[Erika add a quote by Henry David Thoreau]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/42094-and-now-that-we-have-returned-to-the-desultory-life]]>
+		</link>
+		<description>
+	    <![CDATA["And now that we have returned to the desultory life of the plain, let us endeavor to import a little of that mountain grandeur into it. We will remember within what walls we lie, and understand that this level life too has its summit, and why from the mountain-top the deepest valleys have a tinge of blue; that there is elevation in every hour, as no part of the earth is so low that the heavens may not be seen from, and we have only to stand on the summit of our hour to command an uninterrupted horizon." -- Henry David Thoreau]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/42098-perhaps-when-we-find-ourselves-wanting-everything-it-is-because</guid>
+		<pubDate>Sun, 06 Apr 2008 17:50:41 -0700</pubDate>
+		<title>
+			<![CDATA[Erika add a quote by sylvia plath]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/42098-perhaps-when-we-find-ourselves-wanting-everything-it-is-because]]>
+		</link>
+		<description>
+	    <![CDATA["Perhaps when we find ourselves wanting everything, it is because we are dangerously close to wanting nothing." -- sylvia plath]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

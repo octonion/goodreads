@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/967057-becky]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/967057-becky" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 05 Sep 2012 15:45:04 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/179153-you-don-t-think-your-way-into-a-new-kind-of</guid>
+		<pubDate>Wed, 05 Sep 2012 15:45:04 -0700</pubDate>
+		<title>
+			<![CDATA[Becky add a quote by Henry Nouwen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/179153-you-don-t-think-your-way-into-a-new-kind-of]]>
+		</link>
+		<description>
+	    <![CDATA["You don't think your way into a new kind of living.  You live your way into a new kind of thinking." -- Henry Nouwen]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/721402-we-need-to-find-ways-of-sharing-our-intimate-experiences</guid>
+		<pubDate>Thu, 08 Aug 2013 06:43:43 -0700</pubDate>
+		<title>
+			<![CDATA[Becky add a quote by John Philip Newell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/721402-we-need-to-find-ways-of-sharing-our-intimate-experiences]]>
+		</link>
+		<description>
+	    <![CDATA["…we need to find ways of sharing our intimate experiences of the Mystery, for we are one.  It is through one another that we will know more of the Life that flows within us all.  It is through sharing our fragments of insight that we will come to a fuller picture of the One who is at the heart of each life." -- John Philip Newell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

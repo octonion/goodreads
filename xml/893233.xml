@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/893233-angelmaye]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/893233-angelmaye" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 11 Feb 2008 17:57:24 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/24040-and-we-ll-be-saying-a-big-hello-to-all-intelligent</guid>
+		<pubDate>Mon, 11 Feb 2008 17:57:24 -0800</pubDate>
+		<title>
+			<![CDATA[Angelmaye add a quote by Douglas Adams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/24040-and-we-ll-be-saying-a-big-hello-to-all-intelligent]]>
+		</link>
+		<description>
+	    <![CDATA["and we’ll be saying a big hello to all intelligent life forms everywhere … and to everyone else out there, the secret is to bang the rocks together, guys." -- Douglas Adams]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/24042-a-book-is-an-arrangement-of-twenty-six-phonetic-symbols-ten</guid>
+		<pubDate>Mon, 11 Feb 2008 18:00:57 -0800</pubDate>
+		<title>
+			<![CDATA[Angelmaye add a quote by Kurt Vonnegut]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/24042-a-book-is-an-arrangement-of-twenty-six-phonetic-symbols-ten]]>
+		</link>
+		<description>
+	    <![CDATA["A book is an arrangement of twenty-six phonetic symbols, ten numerals, and about eight punctuation marks, and people can cast their eyes over these and envision the eruption of Mount Vesuvius or the Battle of Waterloo." -- Kurt Vonnegut]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

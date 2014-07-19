@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/698464-erin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/698464-erin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 11 Apr 2008 08:15:14 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1198-i-am-so-clever-that-sometimes-i-don-t-understand-a</guid>
+		<pubDate>Fri, 11 Apr 2008 08:15:14 -0700</pubDate>
+		<title>
+			<![CDATA[Erin add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1198-i-am-so-clever-that-sometimes-i-don-t-understand-a]]>
+		</link>
+		<description>
+	    <![CDATA["I am so clever that sometimes I don't understand a single word of what I am saying." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1035-when-i-look-back-i-am-so-impressed-again-with</guid>
+		<pubDate>Fri, 11 Apr 2008 08:25:01 -0700</pubDate>
+		<title>
+			<![CDATA[Erin add a quote by Maya Angelou]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1035-when-i-look-back-i-am-so-impressed-again-with]]>
+		</link>
+		<description>
+	    <![CDATA["When I look back, I am so impressed again with the life-giving power of literature. If I were a young person today, trying to gain a sense of myself in the world, I would do that again by reading, just as I did when I was young." -- Maya Angelou]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2153-there-s-a-world-of-difference-between-truth-and-facts-facts</guid>
+		<pubDate>Fri, 11 Apr 2008 08:32:54 -0700</pubDate>
+		<title>
+			<![CDATA[Erin add a quote by Maya Angelou]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2153-there-s-a-world-of-difference-between-truth-and-facts-facts]]>
+		</link>
+		<description>
+	    <![CDATA["There's a world of difference between truth and facts. Facts can obscure truth." -- Maya Angelou]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

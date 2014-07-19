@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1022598-beth-g]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1022598-beth-g" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 26 Mar 2008 08:04:59 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/38444-anything-worth-doing-is-a-pain-in-the-a</guid>
+		<pubDate>Wed, 26 Mar 2008 08:04:59 -0700</pubDate>
+		<title>
+			<![CDATA[Beth add a quote by B.G.Greenlee]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/38444-anything-worth-doing-is-a-pain-in-the-a]]>
+		</link>
+		<description>
+	    <![CDATA["Anything worth doing is a pain in the a**" -- B.G.Greenlee]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/7027-you-can-t-always-get-what-you-want-but-if-you</guid>
+		<pubDate>Wed, 26 Mar 2008 08:05:59 -0700</pubDate>
+		<title>
+			<![CDATA[Beth add a quote by Mick Jagger]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7027-you-can-t-always-get-what-you-want-but-if-you]]>
+		</link>
+		<description>
+	    <![CDATA["You can't always get what you want, but if you try sometimes, you might find, you get what you need." -- Mick Jagger]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/38446-when-life-looks-like-easy-street-there-is-danger-at</guid>
+		<pubDate>Wed, 26 Mar 2008 08:06:48 -0700</pubDate>
+		<title>
+			<![CDATA[Beth add a quote by Robert Hunter]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/38446-when-life-looks-like-easy-street-there-is-danger-at]]>
+		</link>
+		<description>
+	    <![CDATA["When life looks like easy street there is danger at your door" -- Robert Hunter]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

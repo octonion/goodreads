@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/766771-david-neville]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/766771-david-neville" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 15 Sep 2013 19:19:58 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/9406-chronic-remorse-as-all-the-moralists-are-agreed-is-a</guid>
+		<pubDate>Sun, 15 Sep 2013 19:19:58 -0700</pubDate>
+		<title>
+			<![CDATA[David add a quote by Aldous Huxley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9406-chronic-remorse-as-all-the-moralists-are-agreed-is-a]]>
+		</link>
+		<description>
+	    <![CDATA["Chronic remorse, as all the moralists are agreed, is a most undesirable sentiment. If you have behaved badly, repent, make what amends you can and address yourself to the task of behaving better next time. On no account brood over your wrongdoing. Rolling in the muck is not the best way of getting clean." -- Aldous Huxley]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/524987-a-kite-can-t-really-fly-free-that-s-just-an-expression-in</guid>
+		<pubDate>Wed, 28 May 2014 20:00:21 -0700</pubDate>
+		<title>
+			<![CDATA[David add a quote by Simon Napier-Bell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/524987-a-kite-can-t-really-fly-free-that-s-just-an-expression-in]]>
+		</link>
+		<description>
+	    <![CDATA["A kite can't really fly free,that's just an expression.  In order to soar high in the sky the string of a kite needs to be anchored. If the string breaks the kite drops back to the ground.  The kite's freedom depends on it not being as free as he thinks it is." -- Simon Napier-Bell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

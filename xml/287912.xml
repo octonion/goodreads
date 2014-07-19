@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/287912-melissa]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/287912-melissa" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 25 Sep 2013 10:42:25 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/293501-nick-don-t-you-think-maybe-a-drink-would-help-you</guid>
+		<pubDate>Wed, 25 Sep 2013 10:42:25 -0700</pubDate>
+		<title>
+			<![CDATA[Melissa add a quote by Dashiell Hammett]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/293501-nick-don-t-you-think-maybe-a-drink-would-help-you]]>
+		</link>
+		<description>
+	    <![CDATA["Nick: &quot;Don't you think maybe a drink would help you to sleep?&quot;
+Nora: &quot;No, thanks.&quot;
+Nick: &quot;Maybe it would if I took one." -- Dashiell Hammett]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/376-i-hadn-t-the-heart-to-touch-my-breakfast-i-told</guid>
+		<pubDate>Wed, 23 Oct 2013 11:50:48 -0700</pubDate>
+		<title>
+			<![CDATA[Melissa add a quote by P.G. Wodehouse]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/376-i-hadn-t-the-heart-to-touch-my-breakfast-i-told]]>
+		</link>
+		<description>
+	    <![CDATA["I hadn't the heart to touch my breakfast. I told Jeeves to drink it himself." -- P.G. Wodehouse]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/682527-janell]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/682527-janell" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 07 Nov 2008 17:19:01 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/33114-its-important-to-know-stories-i-felt-the-earth-shift</guid>
+		<pubDate>Fri, 07 Nov 2008 17:19:01 -0800</pubDate>
+		<title>
+			<![CDATA[Janell add a quote by Shannon Hale]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/33114-its-important-to-know-stories-i-felt-the-earth-shift]]>
+		</link>
+		<description>
+	    <![CDATA["Its important to know stories.  I felt the earth shift to make a place for you when you were born, and I came to tell you stories while you are young.  And like me, you were born with a word on your tongue." -- Shannon Hale]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

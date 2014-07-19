@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/873705-heidi]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/873705-heidi" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 16 Mar 2009 23:30:41 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6793-punctuality-is-the-virtue-of-the-bored</guid>
+		<pubDate>Mon, 16 Mar 2009 23:30:41 -0700</pubDate>
+		<title>
+			<![CDATA[heidi add a quote by Evelyn Waugh]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6793-punctuality-is-the-virtue-of-the-bored]]>
+		</link>
+		<description>
+	    <![CDATA["Punctuality is the virtue of the bored." -- Evelyn Waugh]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/17155-he-felt-that-his-whole-life-was-some-kind-of</guid>
+		<pubDate>Sun, 29 Nov 2009 14:40:12 -0800</pubDate>
+		<title>
+			<![CDATA[heidi add a quote by Douglas Adams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17155-he-felt-that-his-whole-life-was-some-kind-of]]>
+		</link>
+		<description>
+	    <![CDATA["He felt that his whole life was some kind of dream and he sometimes wondered whose it was and whether they were enjoying it." -- Douglas Adams]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/185610-ritie-don-t-worry-cause-you-ain-t-pretty-plenty-pretty-women</guid>
+		<pubDate>Wed, 28 May 2014 11:18:18 -0700</pubDate>
+		<title>
+			<![CDATA[heidi add a quote by Maya Angelou]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/185610-ritie-don-t-worry-cause-you-ain-t-pretty-plenty-pretty-women]]>
+		</link>
+		<description>
+	    <![CDATA["Ritie, don't worry 'cause you ain't pretty. Plenty pretty women I seen digging ditches or worse. You smart. I swear to God, I rather you have a good mind than a cute behind." -- Maya Angelou]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

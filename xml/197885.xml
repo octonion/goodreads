@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/197885-cassandra]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/197885-cassandra" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 12 Jun 2012 12:06:42 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/21847-there-is-nothing-i-would-not-do-for-those-who</guid>
+		<pubDate>Tue, 12 Jun 2012 12:06:42 -0700</pubDate>
+		<title>
+			<![CDATA[Cassandra add a quote by Jane Austen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21847-there-is-nothing-i-would-not-do-for-those-who]]>
+		</link>
+		<description>
+	    <![CDATA["There is nothing I would not do for those who are really my friends. I have no notion of loving people by halves, it is not my nature." -- Jane Austen]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/101870-though-she-be-but-little-she-is-fierce</guid>
+		<pubDate>Mon, 25 Jun 2012 08:17:09 -0700</pubDate>
+		<title>
+			<![CDATA[Cassandra add a quote by William Shakespeare]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/101870-though-she-be-but-little-she-is-fierce]]>
+		</link>
+		<description>
+	    <![CDATA["Though she be but little, she is fierce!" -- William Shakespeare]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/465988-sometimes-you-read-a-book-and-it-fills-you-with</guid>
+		<pubDate>Fri, 11 Jan 2013 08:06:51 -0800</pubDate>
+		<title>
+			<![CDATA[Cassandra add a quote by John Green]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/465988-sometimes-you-read-a-book-and-it-fills-you-with]]>
+		</link>
+		<description>
+	    <![CDATA["Sometimes, you read a book and it fills you with this weird evangelical zeal, and you become convinced that the shattered world will never be put back together unless and until all living humans read the book." -- John Green]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

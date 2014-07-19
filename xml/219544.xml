@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/219544-malia]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/219544-malia" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 16 Sep 2012 15:03:27 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/35064-in-the-end-these-things-matter-most-how-well-did</guid>
+		<pubDate>Sun, 16 Sep 2012 15:03:27 -0700</pubDate>
+		<title>
+			<![CDATA[malia add a quote by Buddha Siddhartha Guatama Shakyamuni]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/35064-in-the-end-these-things-matter-most-how-well-did]]>
+		</link>
+		<description>
+	    <![CDATA["In the end
+these things matter most:
+How well did you love?
+How fully did you live?
+How deeply did you let go?" -- Buddha Siddhartha Guatama Shakyamuni]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/437952-no-on-can-make-you-feel-inferior-without-your-permission</guid>
+		<pubDate>Sun, 16 Sep 2012 15:04:56 -0700</pubDate>
+		<title>
+			<![CDATA[malia add a quote by Elenore Roosevelt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/437952-no-on-can-make-you-feel-inferior-without-your-permission]]>
+		</link>
+		<description>
+	    <![CDATA["No on can make you feel inferior without your permission." -- Elenore Roosevelt]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

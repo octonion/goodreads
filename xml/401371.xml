@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/401371-laura]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/401371-laura" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 06 Feb 2010 17:22:33 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/129897-grief-is-a-most-peculiar-thing-we-re-so-helpless-in</guid>
+		<pubDate>Sat, 06 Feb 2010 17:22:33 -0800</pubDate>
+		<title>
+			<![CDATA[Laura add a quote by Arthur Golden]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/129897-grief-is-a-most-peculiar-thing-we-re-so-helpless-in]]>
+		</link>
+		<description>
+	    <![CDATA["Grief is a most peculiar thing; we’re so helpless in the face of it. It’s like a window that will simply open of its own accord. The room grows cold, and we can do nothing but shiver. But it opens a little less each time, and a little less; and one day we wonder what has become of it." -- Arthur Golden]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

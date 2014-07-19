@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/764049-lorraine]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/764049-lorraine" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 17 Feb 2008 06:11:16 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/32856-i-don-t-teach-writing-i-teach-patience-toughness-stubbornness-the</guid>
+		<pubDate>Sun, 17 Feb 2008 06:11:16 -0800</pubDate>
+		<title>
+			<![CDATA[Lorraine add a quote by Richard Bausch]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/32856-i-don-t-teach-writing-i-teach-patience-toughness-stubbornness-the]]>
+		</link>
+		<description>
+	    <![CDATA["I don't teach writing.  I teach patience.  Toughness.  Stubbornness.  The willingness to fail.  I teach the life.  The odd thing is most of the things that stop an inexperienced writer are so far from the truth as to be nearly beside the point.  When you feel glosbal doubt about your talent, that is your talent.  People who have no talent don't have any doubt." -- Richard Bausch]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

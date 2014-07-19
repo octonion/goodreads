@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/874744-thomas]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/874744-thomas" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 04 Feb 2008 20:54:15 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1198-i-am-so-clever-that-sometimes-i-don-t-understand-a</guid>
+		<pubDate>Mon, 04 Feb 2008 20:54:15 -0800</pubDate>
+		<title>
+			<![CDATA[Thomas add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1198-i-am-so-clever-that-sometimes-i-don-t-understand-a]]>
+		</link>
+		<description>
+	    <![CDATA["I am so clever that sometimes I don't understand a single word of what I am saying." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/10854-it-never-got-weird-enough-for-me</guid>
+		<pubDate>Wed, 06 Feb 2008 20:11:23 -0800</pubDate>
+		<title>
+			<![CDATA[Thomas add a quote by Hunter S. Thompson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10854-it-never-got-weird-enough-for-me]]>
+		</link>
+		<description>
+	    <![CDATA["It never got weird enough for me." -- Hunter S. Thompson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4078-the-saddest-aspect-of-life-right-now-is-that-science</guid>
+		<pubDate>Wed, 06 Feb 2008 20:20:11 -0800</pubDate>
+		<title>
+			<![CDATA[Thomas add a quote by Isaac Asimov]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4078-the-saddest-aspect-of-life-right-now-is-that-science]]>
+		</link>
+		<description>
+	    <![CDATA["The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom." -- Isaac Asimov]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6221-if-you-are-going-through-hell-keep-going</guid>
+		<pubDate>Thu, 21 Feb 2008 19:38:35 -0800</pubDate>
+		<title>
+			<![CDATA[Thomas add a quote by Winston S. Churchill]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6221-if-you-are-going-through-hell-keep-going]]>
+		</link>
+		<description>
+	    <![CDATA["If you are going through hell, keep going." -- Winston S. Churchill]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

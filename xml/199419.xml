@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/199419-christine]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/199419-christine" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 08 Sep 2009 04:33:46 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/27967-a-slice-of-cake-never-made-anyone-fat-you-don-t</guid>
+		<pubDate>Tue, 08 Sep 2009 04:33:46 -0700</pubDate>
+		<title>
+			<![CDATA[Christine add a quote by Jeanne Ray]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/27967-a-slice-of-cake-never-made-anyone-fat-you-don-t]]>
+		</link>
+		<description>
+	    <![CDATA["A slice of cake never made anyone fat.  You don't eat the whole cake. You don't eat a cake every day of your life. You take the cake when it is offered because the cake is delicious. You have a slice of cake and what it reminds you of is someplace that's safe, uncomplicated, without stress.  A cake is a party, a birthday, a wedding. A cake is what is served on the happiest days of your life." -- Jeanne Ray]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

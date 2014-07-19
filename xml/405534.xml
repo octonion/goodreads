@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/405534-ali]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/405534-ali" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 21 Sep 2008 08:23:23 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/99302-lawrence-has-a-wonderful-hill-in-it-with-a-university</guid>
+		<pubDate>Sun, 21 Sep 2008 08:23:23 -0700</pubDate>
+		<title>
+			<![CDATA[Ali add a quote by Langston Hughes]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/99302-lawrence-has-a-wonderful-hill-in-it-with-a-university]]>
+		</link>
+		<description>
+	    <![CDATA["Lawrence has a wonderful hill in it, with a university on top and the first time I ran away from home, I ran up the hill and looked across the world: Kansas wheat fields and the Kaw River, and I wanted to go some place, too. I got a whipping for it." -- Langston Hughes]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

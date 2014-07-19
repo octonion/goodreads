@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/603324-kirsty]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/603324-kirsty" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 08 Jul 2008 04:58:45 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/29000-it-is-a-truth-universally-acknowledged-that-when-one-part</guid>
+		<pubDate>Tue, 08 Jul 2008 04:58:45 -0700</pubDate>
+		<title>
+			<![CDATA[Kirsty add a quote by Helen Fielding]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/29000-it-is-a-truth-universally-acknowledged-that-when-one-part]]>
+		</link>
+		<description>
+	    <![CDATA["It is a truth universally acknowledged that when one part of your life starts going okay, another falls spectacularly to pieces." -- Helen Fielding]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/137549-my-father-took-one-hundred-and-thirty-two-minutes-to-die</guid>
+		<pubDate>Wed, 04 Apr 2012 20:58:57 -0700</pubDate>
+		<title>
+			<![CDATA[Kirsty add a quote by Melina Marchetta]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/137549-my-father-took-one-hundred-and-thirty-two-minutes-to-die]]>
+		</link>
+		<description>
+	    <![CDATA["My father took one hundred and thirty-two minutes to die.
+
+I counted.
+
+It happened on the Jellicoe Road. The prettiest road I’d ever seen, where trees made breezy canopies like a tunnel to Shangri-La. We were going to the ocean, hundreds of miles away, because I wanted to see the ocean and my father said that it was about time the four of us made that journey. I remember asking, 'What’s the difference between a trip and a journey?' and my father said, 'Narnie, my love, when we get there, you’ll understand,' and that was the last thing he ever said." -- Melina Marchetta]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

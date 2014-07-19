@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/73073-mike-rowan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/73073-mike-rowan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 16 Sep 2012 17:01:23 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/24729-there-are-it-seems-two-muses-the-muse-of-inspiration</guid>
+		<pubDate>Sun, 16 Sep 2012 17:01:23 -0700</pubDate>
+		<title>
+			<![CDATA[Mike add a quote by Wendell Berry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/24729-there-are-it-seems-two-muses-the-muse-of-inspiration]]>
+		</link>
+		<description>
+	    <![CDATA["There are, it seems, two muses: the Muse of Inspiration, who gives us inarticulate visions and desires, and the Muse of Realization, who returns again and again to say &quot;It is yet more difficult than you thought.&quot; This is the muse of form. It may be then that form serves us best when it works as an obstruction, to baffle us and deflect our intended course. It may be that when we no longer know what to do, we have come to our real work and when we no longer know which way to go, we have begun our real journey. The mind that is not baffled is not employed. The impeded stream is the one that sings." -- Wendell Berry]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

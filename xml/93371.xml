@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/93371-sara]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/93371-sara" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 22 Sep 2012 05:28:30 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/512584-it-s-as-if-they-have-thinner-boundaries-separating-them-from</guid>
+		<pubDate>Sat, 22 Sep 2012 05:28:30 -0700</pubDate>
+		<title>
+			<![CDATA[Sara add a quote by Susan Cain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/512584-it-s-as-if-they-have-thinner-boundaries-separating-them-from]]>
+		</link>
+		<description>
+	    <![CDATA["It's as if they have thinner boundaries separating them from other people's emotions and from the tragedies and cruelties of the world." -- Susan Cain]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/592835-so-stay-true-to-your-own-nature-if-you-like</guid>
+		<pubDate>Sat, 22 Sep 2012 05:30:49 -0700</pubDate>
+		<title>
+			<![CDATA[Sara add a quote by Susan Cain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/592835-so-stay-true-to-your-own-nature-if-you-like]]>
+		</link>
+		<description>
+	    <![CDATA["So stay true to your own nature.  If you like to do things in a slow and steady way, don't let others make you feel as if you have to race.  If you enjoy depth, don't force yourself to seek breadth.  If you prefer single-tasking to multi-tasking, stick to your guns.  Being relatively unmoved by rewards gives you the incalculable power to go your own way." -- Susan Cain]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

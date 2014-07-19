@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/550527-emily]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/550527-emily" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 09 Sep 2012 18:06:08 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/290647-you-re-still-trying-to-protect-me-real-or-not-real</guid>
+		<pubDate>Sun, 09 Sep 2012 18:06:08 -0700</pubDate>
+		<title>
+			<![CDATA[Emily add a quote by Suzanne Collins]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/290647-you-re-still-trying-to-protect-me-real-or-not-real]]>
+		</link>
+		<description>
+	    <![CDATA["You're still trying to protect me. Real or not real,&quot; he whispers.
+&quot;Real,&quot; I answer. &quot;Because that's what you and I do, protect each other." -- Suzanne Collins]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/761125-karen-robbins]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/761125-karen-robbins" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 14 Mar 2012 11:00:46 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/519180-from-martin-eden-on-submitting-manuscripts-there-was-no-human</guid>
+		<pubDate>Wed, 14 Mar 2012 11:00:46 -0700</pubDate>
+		<title>
+			<![CDATA[Karen add a quote by Jack London]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/519180-from-martin-eden-on-submitting-manuscripts-there-was-no-human]]>
+		</link>
+		<description>
+	    <![CDATA["From Martin Eden on submitting manuscripts: &quot;There was no human editor at the other end, but a mere cunning arrangement of cogs that changed the manuscript from one envelope to another and stuck on the stamps. It was like the slot machines wherein one dropped pennies, and, with a metallic whirl of machinery had delivered to him a stick of chewing-gum or a tablet of chocolate. It depended upon which slot one dropped the penny in, whether he got chocolate or gum. And so with the editorial machine. One slot brought checks and the other brought rejection slips. So far he had found only the latter slot." -- Jack London]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

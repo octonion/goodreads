@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/853666-romulo]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/853666-romulo" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 30 Jan 2008 12:29:17 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2458-i-am-a-jew-hath-not-a-jew-eyes-hath</guid>
+		<pubDate>Wed, 30 Jan 2008 12:29:17 -0800</pubDate>
+		<title>
+			<![CDATA[Romulo add a quote by William Shakespeare]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2458-i-am-a-jew-hath-not-a-jew-eyes-hath]]>
+		</link>
+		<description>
+	    <![CDATA["I am a Jew. Hath not a Jew eyes? Hath not a Jew hands, organs, dimensions, senses, affections, passions; fed with the same food, hurt with the same weapons, subject to the same diseases, 
+heal'd by the same means, warm'd and cool'd by the same winter and summer, as a Christian is? 
+
+If you prick us, do we not bleed? If 
+you tickle us, do we not laugh? If you poison us, do we not die? 
+
+And if you wrong us, do we not revenge? If we are like you in the rest, we will resemble you in that." -- William Shakespeare]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/664857-jessica]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/664857-jessica" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 08 Dec 2007 14:26:37 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4210-laugh-and-the-world-laughs-with-you-weep-and-you</guid>
+		<pubDate>Sat, 08 Dec 2007 14:26:37 -0800</pubDate>
+		<title>
+			<![CDATA[Jessica add a quote by Ella Wheeler Wilcox]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4210-laugh-and-the-world-laughs-with-you-weep-and-you]]>
+		</link>
+		<description>
+	    <![CDATA["Laugh, and the world laughs with you;
+Weep, and you weep alone.
+For the sad old earth must borrow it's mirth,
+But has trouble enough of its own." -- Ella Wheeler Wilcox]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

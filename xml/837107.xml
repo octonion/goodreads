@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/837107-neil]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/837107-neil" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 08 Jul 2008 12:58:05 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4342-all-the-darkness-in-the-world-cannot-extinguish-the-light</guid>
+		<pubDate>Tue, 08 Jul 2008 12:58:05 -0700</pubDate>
+		<title>
+			<![CDATA[Neil add a quote by St. Francis Of Assisi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4342-all-the-darkness-in-the-world-cannot-extinguish-the-light]]>
+		</link>
+		<description>
+	    <![CDATA["All the darkness in the world cannot extinguish the light of a single candle." -- St. Francis Of Assisi]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/179221-a-friend-is-one-who-walks-in-when-others-walk</guid>
+		<pubDate>Tue, 08 Jul 2008 12:59:06 -0700</pubDate>
+		<title>
+			<![CDATA[Neil add a quote by Walter Winchell ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/179221-a-friend-is-one-who-walks-in-when-others-walk]]>
+		</link>
+		<description>
+	    <![CDATA["A friend is one who walks in when others walk out." -- Walter Winchell ]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

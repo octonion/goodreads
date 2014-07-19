@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/679399-cathleen-daly]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/679399-cathleen-daly" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 27 Apr 2011 20:59:11 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/352-outside-of-a-dog-a-book-is-man-s-best-friend</guid>
+		<pubDate>Wed, 27 Apr 2011 20:59:11 -0700</pubDate>
+		<title>
+			<![CDATA[Cathleen add a quote by Groucho Marx]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/352-outside-of-a-dog-a-book-is-man-s-best-friend]]>
+		</link>
+		<description>
+	    <![CDATA["Outside of a dog, a book is man's best friend. Inside of a dog it's too dark to read." -- Groucho Marx]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/154106-i-maintain-that-truth-is-a-pathless-land-and-you</guid>
+		<pubDate>Wed, 26 Mar 2014 17:07:25 -0700</pubDate>
+		<title>
+			<![CDATA[Cathleen add a quote by Jiddu Krishnamurti]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/154106-i-maintain-that-truth-is-a-pathless-land-and-you]]>
+		</link>
+		<description>
+	    <![CDATA["I maintain that Truth is a pathless land, and you cannot approach it by any path whatsoever, by any religion, by any sect. ... The moment you follow someone you cease to follow Truth." -- Jiddu Krishnamurti]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

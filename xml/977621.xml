@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/977621-darcie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/977621-darcie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 27 Aug 2011 12:56:57 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/428277-it-amazes-me-how-easy-it-is-for-things-to</guid>
+		<pubDate>Sat, 27 Aug 2011 12:56:57 -0700</pubDate>
+		<title>
+			<![CDATA[Darcie add a quote by Lauren Oliver]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/428277-it-amazes-me-how-easy-it-is-for-things-to]]>
+		</link>
+		<description>
+	    <![CDATA["It amazes me how easy it is for things to change, how easy it is to start off down the same road you always take and wind up somewhere new.  Just one false step, one pause, one detour, and you end up with new friends or a bad reputation or a boyfriend or a breakup.  Before I Fall (285)" -- Lauren Oliver]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1032125-lisa]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1032125-lisa" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 04 May 2008 13:20:41 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/81527-there-is-a-god-there-always-has-been-i-see</guid>
+		<pubDate>Sun, 04 May 2008 13:20:41 -0700</pubDate>
+		<title>
+			<![CDATA[Lisa add a quote by Khaled Hosseini]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/81527-there-is-a-god-there-always-has-been-i-see]]>
+		</link>
+		<description>
+	    <![CDATA["there is a God, there always has been. I see him here, in the eyes of the people in this [hospital] corridor of desperation. This is the real house of God, this is where those who have lost God will find Him... there is a God, there has to be, and now I will pray, I will pray that He will forgive that I have neglected Him all of these years, forgive that I have betrayed, lied, and sinned with impunity only to turn to Him now in my hour of need. I pray that He is as merciful, benevolent, and gracious as His book says He is." -- Khaled Hosseini]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

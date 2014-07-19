@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1090194-allen-gandeza]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1090194-allen-gandeza" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 16 Apr 2008 18:11:26 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4325-music-is-a-higher-revelation-than-all-wisdom</guid>
+		<pubDate>Wed, 16 Apr 2008 18:11:26 -0700</pubDate>
+		<title>
+			<![CDATA[Allen add a quote by Ludwig van Beethoven]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4325-music-is-a-higher-revelation-than-all-wisdom]]>
+		</link>
+		<description>
+	    <![CDATA["Music is ... A higher revelation than all Wisdom &amp; Philosophy" -- Ludwig van Beethoven]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/7578-a-serious-and-good-philosophical-work-could-be-written-consisting</guid>
+		<pubDate>Wed, 16 Apr 2008 18:11:39 -0700</pubDate>
+		<title>
+			<![CDATA[Allen add a quote by Ludwig Wittgenstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7578-a-serious-and-good-philosophical-work-could-be-written-consisting]]>
+		</link>
+		<description>
+	    <![CDATA["A serious and good philosophical work could be written consisting entirely of jokes." -- Ludwig Wittgenstein]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

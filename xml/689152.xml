@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/689152-sarah]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/689152-sarah" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 02 Dec 2013 07:49:10 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/129188-there-is-always-room-at-the-top</guid>
+		<pubDate>Mon, 02 Dec 2013 07:49:10 -0800</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by Daniel Webster]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/129188-there-is-always-room-at-the-top]]>
+		</link>
+		<description>
+	    <![CDATA["There is always room at the top." -- Daniel Webster]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

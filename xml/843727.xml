@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/843727-bonnie-dugas]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/843727-bonnie-dugas" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 07 Dec 2012 06:15:07 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/25956-there-are-no-hard-distinctions-between-what-is-real-and</guid>
+		<pubDate>Fri, 07 Dec 2012 06:15:07 -0800</pubDate>
+		<title>
+			<![CDATA[BONNIE add a quote by Harold Pinter ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/25956-there-are-no-hard-distinctions-between-what-is-real-and]]>
+		</link>
+		<description>
+	    <![CDATA["There are no hard distinctions between what is real and what is unreal, nor between what is true and what is false. A thing is not necessarily either true or false; it can be both true and false." -- Harold Pinter ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/41404-the-man-who-views-the-world-at-50-the-same</guid>
+		<pubDate>Wed, 09 Oct 2013 11:52:28 -0700</pubDate>
+		<title>
+			<![CDATA[BONNIE add a quote by Muhammad Ali]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/41404-the-man-who-views-the-world-at-50-the-same]]>
+		</link>
+		<description>
+	    <![CDATA["The man who views the world at 50 the same as he did at 20 has wasted 30 years of his life." -- Muhammad Ali]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

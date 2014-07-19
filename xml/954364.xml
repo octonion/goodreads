@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/954364-sarah-galvan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/954364-sarah-galvan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 29 Feb 2008 10:24:24 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3550-life-is-an-awful-ugly-place-to-not-have-a</guid>
+		<pubDate>Fri, 29 Feb 2008 10:24:24 -0800</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by Sarah Dessen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3550-life-is-an-awful-ugly-place-to-not-have-a]]>
+		</link>
+		<description>
+	    <![CDATA["Life is an awful, ugly place to not have a best friend." -- Sarah Dessen]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/19411-because-with-every-action-comment-conversation-we-have-the-choice</guid>
+		<pubDate>Fri, 29 Feb 2008 10:24:42 -0800</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by Rob Bell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/19411-because-with-every-action-comment-conversation-we-have-the-choice]]>
+		</link>
+		<description>
+	    <![CDATA["Because with every action, comment, conversation, we have the choice to invite Heaven or Hell to Earth." -- Rob Bell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

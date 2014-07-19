@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/609580-ashley]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/609580-ashley" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 18 Jun 2012 18:33:15 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/142187-every-love-relationship-rests-on-an-unwritten-agreement-unthinkingly-concluded</guid>
+		<pubDate>Mon, 18 Jun 2012 18:33:15 -0700</pubDate>
+		<title>
+			<![CDATA[Ashley add a quote by Milan Kundera]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/142187-every-love-relationship-rests-on-an-unwritten-agreement-unthinkingly-concluded]]>
+		</link>
+		<description>
+	    <![CDATA["Every love relationship rests on an unwritten agreement unthinkingly concluded by the lovers in the first weeks of their love. They are still in a kind of dream but at the same time, without knowing it, are drawing up, like uncompromising lawyers, the detailed clauses of their contract. O lovers! Be careful in those dangerous first days! Once you've brought breakfast in bed you'll have to bring it forever, unless you want to be accused of lovelessness and betrayal." -- Milan Kundera]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/614299-cindy-heck]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/614299-cindy-heck" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 23 Jan 2008 05:57:25 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/16242-by-seeking-and-blundering-we-learn</guid>
+		<pubDate>Wed, 23 Jan 2008 05:57:25 -0800</pubDate>
+		<title>
+			<![CDATA[Cindy add a quote by Johann Wolfgang von Goethe]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16242-by-seeking-and-blundering-we-learn]]>
+		</link>
+		<description>
+	    <![CDATA["By seeking and blundering we learn." -- Johann Wolfgang von Goethe]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/16243-education-is-the-most-powerful-weapon-which-you-can-use</guid>
+		<pubDate>Wed, 23 Jan 2008 05:58:27 -0800</pubDate>
+		<title>
+			<![CDATA[Cindy add a quote by Nelson Mandela]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16243-education-is-the-most-powerful-weapon-which-you-can-use]]>
+		</link>
+		<description>
+	    <![CDATA["Education is the most powerful weapon which you can use to change the world." -- Nelson Mandela]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/16244-where-all-think-alike-no-one-thinks-very-much</guid>
+		<pubDate>Wed, 23 Jan 2008 06:00:21 -0800</pubDate>
+		<title>
+			<![CDATA[Cindy add a quote by Walter Lippmann]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16244-where-all-think-alike-no-one-thinks-very-much]]>
+		</link>
+		<description>
+	    <![CDATA["Where all think alike, no one thinks very much." -- Walter Lippmann]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/12757-do-all-the-good-you-can-by-all-the-means</guid>
+		<pubDate>Wed, 23 Jan 2008 06:01:26 -0800</pubDate>
+		<title>
+			<![CDATA[Cindy add a quote by John Wesley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12757-do-all-the-good-you-can-by-all-the-means]]>
+		</link>
+		<description>
+	    <![CDATA["Do all the good you can. By all the means you can. In all the ways you can. In all the places you can. At all the times you can. To all the people you can. As long as ever you can." -- John Wesley]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

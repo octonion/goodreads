@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/222899-holly]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/222899-holly" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 13 Apr 2010 15:30:29 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/118963-i-am-not-an-alcoholic-i-m-a-social-catalyst-people</guid>
+		<pubDate>Tue, 13 Apr 2010 15:30:29 -0700</pubDate>
+		<title>
+			<![CDATA[Holly add a quote by Josh Kilmer-Purcell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/118963-i-am-not-an-alcoholic-i-m-a-social-catalyst-people]]>
+		</link>
+		<description>
+	    <![CDATA["I am not an alcoholic. I'm a social catalyst. People pay me to illustrate for other partygoers the chemical process involved in transforming from one persona into another drunker, more fun one. It's a matter of going from dull point A to exciting point B. And I'm a raving success at it. So successful that sometimes I wind up at Mysterious Point C." -- Josh Kilmer-Purcell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

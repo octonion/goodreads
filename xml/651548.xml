@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/651548-lizzy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/651548-lizzy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 30 Nov 2007 13:52:32 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/20537-don-t-be-so-humble---you-are-not-that-great</guid>
+		<pubDate>Fri, 30 Nov 2007 13:52:32 -0800</pubDate>
+		<title>
+			<![CDATA[Lizzy add a quote by Golda Meir]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20537-don-t-be-so-humble---you-are-not-that-great]]>
+		</link>
+		<description>
+	    <![CDATA["Don't be so humble - you are not that great." -- Golda Meir]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/11079-what-you-do-speaks-so-loudly-that-i-cannot-hear</guid>
+		<pubDate>Tue, 03 Feb 2009 09:28:39 -0800</pubDate>
+		<title>
+			<![CDATA[Lizzy add a quote by Ralph Waldo Emerson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11079-what-you-do-speaks-so-loudly-that-i-cannot-hear]]>
+		</link>
+		<description>
+	    <![CDATA["What you do speaks so loudly that I cannot hear what you say." -- Ralph Waldo Emerson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

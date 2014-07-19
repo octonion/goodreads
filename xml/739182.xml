@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/739182-mark]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/739182-mark" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 07 Jan 2008 15:06:23 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/11251-let-either-of-you-breathe-a-word-or-the-edge</guid>
+		<pubDate>Mon, 07 Jan 2008 15:06:23 -0800</pubDate>
+		<title>
+			<![CDATA[Mark add a quote by Arthur Miller]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11251-let-either-of-you-breathe-a-word-or-the-edge]]>
+		</link>
+		<description>
+	    <![CDATA["Let either of you breathe a word, or the edge of a word, about the other things, and I will come to you in the black of some terrible night and I will bring a pointy reckoning that will shudder you.  And you know I can do it; I saw Indians smash my dear parents' heads on the pillow next to mine, and I have seen some reddish work done at night, and I can make you wish you had never seen the sun go down!
+- Abigail" -- Arthur Miller]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/14646-hide-it-in-a-hiding-place-where-no-one-ever</guid>
+		<pubDate>Fri, 18 Jan 2008 09:30:11 -0800</pubDate>
+		<title>
+			<![CDATA[Mark add a quote by Simon and Garfunkel]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14646-hide-it-in-a-hiding-place-where-no-one-ever]]>
+		</link>
+		<description>
+	    <![CDATA["Hide it in a hiding place where no one ever goes                                 
+Put it in your pantry with your cupcakes" -- Simon and Garfunkel]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

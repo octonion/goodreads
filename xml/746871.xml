@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/746871-etanda]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/746871-etanda" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 05 May 2012 12:16:03 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/548360-we-ve-bought-into-the-idea-that-education-is-about-training</guid>
+		<pubDate>Sat, 05 May 2012 12:16:03 -0700</pubDate>
+		<title>
+			<![CDATA[Etanda add a quote by Chris Hedges]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/548360-we-ve-bought-into-the-idea-that-education-is-about-training]]>
+		</link>
+		<description>
+	    <![CDATA["We’ve bought into the idea that education is about training and “success”, defined monetarily, rather than learning to think critically and to challenge. We should not forget that the true purpose of education is to make minds, not careers. A culture that does not grasp the vital interplay between morality and power, which mistakes management techniques for wisdom, which fails to understand that the measure of a civilization is its compassion, not its speed or ability to consume, condemns itself to death." -- Chris Hedges]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

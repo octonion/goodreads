@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1050309-kathryn]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1050309-kathryn" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 11 Apr 2008 20:56:45 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/14140-coincidence-is-god-s-way-of-remaining-anonymous</guid>
+		<pubDate>Fri, 11 Apr 2008 20:56:45 -0700</pubDate>
+		<title>
+			<![CDATA[Kathryn add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14140-coincidence-is-god-s-way-of-remaining-anonymous]]>
+		</link>
+		<description>
+	    <![CDATA["Coincidence is God's way of remaining anonymous." -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5543-insanity-is-doing-the-same-thing-over-and-over-again</guid>
+		<pubDate>Fri, 11 Apr 2008 20:57:47 -0700</pubDate>
+		<title>
+			<![CDATA[Kathryn add a quote by Narcotics Anonymous]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5543-insanity-is-doing-the-same-thing-over-and-over-again]]>
+		</link>
+		<description>
+	    <![CDATA["Insanity is doing the same thing, over and over again, but expecting different results." -- Narcotics Anonymous]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/10123-you-ve-gotta-dance-like-there-s-nobody-watching-love-like-you-ll</guid>
+		<pubDate>Sun, 14 Dec 2008 21:06:33 -0800</pubDate>
+		<title>
+			<![CDATA[Kathryn add a quote by William W. Purkey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10123-you-ve-gotta-dance-like-there-s-nobody-watching-love-like-you-ll]]>
+		</link>
+		<description>
+	    <![CDATA["You've gotta dance like there's nobody watching,
+Love like you'll never be hurt,
+Sing like there's nobody listening,
+And live like it's heaven on earth." -- William W. Purkey]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

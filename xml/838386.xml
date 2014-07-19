@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/838386-jon]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/838386-jon" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 27 Jan 2008 01:52:40 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/13287-you-see-things-you-say-why-but-i-dream-things</guid>
+		<pubDate>Sun, 27 Jan 2008 01:52:40 -0800</pubDate>
+		<title>
+			<![CDATA[Jon add a quote by George Bernard Shaw]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13287-you-see-things-you-say-why-but-i-dream-things]]>
+		</link>
+		<description>
+	    <![CDATA["You see things; you say, 'Why?' But I dream things that never were; and I say 'Why not?" -- George Bernard Shaw]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/127170-you-must-make-a-decision-that-you-are-going-to</guid>
+		<pubDate>Wed, 29 Jan 2014 21:17:03 -0800</pubDate>
+		<title>
+			<![CDATA[Jon add a quote by Joel Osteen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/127170-you-must-make-a-decision-that-you-are-going-to]]>
+		</link>
+		<description>
+	    <![CDATA["You must make a decision that you are going to move on. It wont happen automatically. You will have to rise up and say, ‘I don’t care how hard this is, I don’t care how disappointed I am, I’m not going to let this get the best of me. I’m moving on with my life." -- Joel Osteen]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

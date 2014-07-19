@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/277970-ttrygve]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/277970-ttrygve" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 17 Jan 2013 07:58:56 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/393124-science-asymptotically-approaches-reality</guid>
+		<pubDate>Thu, 17 Jan 2013 07:58:56 -0800</pubDate>
+		<title>
+			<![CDATA[ttrygve add a quote by Philip C. Plait]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/393124-science-asymptotically-approaches-reality]]>
+		</link>
+		<description>
+	    <![CDATA["Science asymptotically approaches reality" -- Philip C. Plait]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/606036-they-say-that-even-the-brightest-star-won-t-shine-forever</guid>
+		<pubDate>Thu, 17 Jan 2013 07:58:57 -0800</pubDate>
+		<title>
+			<![CDATA[ttrygve add a quote by Philip C. Plait]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/606036-they-say-that-even-the-brightest-star-won-t-shine-forever]]>
+		</link>
+		<description>
+	    <![CDATA["They say that even the brightest star won't shine forever. But in fact, the brightest star would live the shortest amount of time. Feel free to extract whatever life lesson you want from that." -- Philip C. Plait]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/393128-i-am-using-the-word-theory-as-a-scientist-means</guid>
+		<pubDate>Thu, 17 Jan 2013 07:58:59 -0800</pubDate>
+		<title>
+			<![CDATA[ttrygve add a quote by Philip C. Plait]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/393128-i-am-using-the-word-theory-as-a-scientist-means]]>
+		</link>
+		<description>
+	    <![CDATA["I am using the word &lt;i&gt;theory&lt;/i&gt; as a scientist means it: a set of ideas so well established by observations and physical models that it is essentially indistinguishable from fact. That is different from the colloquial use that means &quot;guess.&quot; To a scientist, you can bet your life on a theory. Remember, gravity is &quot;just a theory&quot; too." -- Philip C. Plait]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

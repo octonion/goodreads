@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/608807-abby-sprinkle]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/608807-abby-sprinkle" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 11 Jan 2008 09:54:54 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/12451-you-gotta-fight-for-your-right-to-party</guid>
+		<pubDate>Fri, 11 Jan 2008 09:54:54 -0800</pubDate>
+		<title>
+			<![CDATA[Abby add a quote by Beastie Boys]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12451-you-gotta-fight-for-your-right-to-party]]>
+		</link>
+		<description>
+	    <![CDATA["you gotta fight for your right to party" -- Beastie Boys]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4994-we-are-the-music-makers-and-we-are-the-dreamers</guid>
+		<pubDate>Fri, 11 Jan 2008 09:55:37 -0800</pubDate>
+		<title>
+			<![CDATA[Abby add a quote by Arthur William Edgar O'Shaughnessy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4994-we-are-the-music-makers-and-we-are-the-dreamers]]>
+		</link>
+		<description>
+	    <![CDATA["We are the music makers, and we are the dreamers of dreams." -- Arthur William Edgar O'Shaughnessy]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2989-i-m-not-afraid-of-death-i-just-don-t-want-to</guid>
+		<pubDate>Fri, 11 Jan 2008 09:57:15 -0800</pubDate>
+		<title>
+			<![CDATA[Abby add a quote by Woody Allen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2989-i-m-not-afraid-of-death-i-just-don-t-want-to]]>
+		</link>
+		<description>
+	    <![CDATA["I'm not afraid of death; I just don't want to be there when it happens." -- Woody Allen]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

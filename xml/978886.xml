@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/978886-cherie-bon]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/978886-cherie-bon" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 28 Apr 2008 21:48:59 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/30-that-which-does-not-kill-us-makes-us-stronger</guid>
+		<pubDate>Mon, 28 Apr 2008 21:48:59 -0700</pubDate>
+		<title>
+			<![CDATA[Cherie add a quote by Friedrich Nietzsche]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/30-that-which-does-not-kill-us-makes-us-stronger]]>
+		</link>
+		<description>
+	    <![CDATA["That which does not kill us makes us stronger." -- Friedrich Nietzsche]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/638-whether-you-say-you-can-t-or-you-can-you-re-right</guid>
+		<pubDate>Mon, 28 Apr 2008 21:57:13 -0700</pubDate>
+		<title>
+			<![CDATA[Cherie add a quote by Walt Disney Company]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/638-whether-you-say-you-can-t-or-you-can-you-re-right]]>
+		</link>
+		<description>
+	    <![CDATA["Whether you say you can't or you can, you're right." -- Walt Disney Company]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

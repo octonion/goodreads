@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1046344-laura]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1046344-laura" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 18 May 2008 21:52:11 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3823-you-gain-strength-courage-and-confidence-by-every-experience-in</guid>
+		<pubDate>Sun, 18 May 2008 21:52:11 -0700</pubDate>
+		<title>
+			<![CDATA[Laura add a quote by Eleanor Roosevelt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3823-you-gain-strength-courage-and-confidence-by-every-experience-in]]>
+		</link>
+		<description>
+	    <![CDATA["You gain strength, courage and confidence by every experience in which you really stop to look fear in the face. You are able to say to yourself, 'I have lived through this horror. I can take the next thing that comes along.' You must do the thing you think you cannot do." -- Eleanor Roosevelt]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/26110-you-wouldn-t-worry-so-much-about-what-others-think-of</guid>
+		<pubDate>Wed, 02 Apr 2008 23:09:28 -0700</pubDate>
+		<title>
+			<![CDATA[Laura add a quote by Eleanor Roosevelt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/26110-you-wouldn-t-worry-so-much-about-what-others-think-of]]>
+		</link>
+		<description>
+	    <![CDATA["You wouldn't worry so much about what others think of you if you realized how seldom they do." -- Eleanor Roosevelt]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/24045-our-greatest-national-resource-is-the-minds-of-our-children</guid>
+		<pubDate>Wed, 02 Apr 2008 23:11:56 -0700</pubDate>
+		<title>
+			<![CDATA[Laura add a quote by Walt Disney]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/24045-our-greatest-national-resource-is-the-minds-of-our-children]]>
+		</link>
+		<description>
+	    <![CDATA["Our greatest national resource is the minds of our children." -- Walt Disney]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

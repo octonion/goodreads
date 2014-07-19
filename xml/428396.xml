@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/428396-alina-brewer]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/428396-alina-brewer" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 10 Aug 2012 03:02:03 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/191-my-tongue-will-tell-the-anger-of-my-heart-or</guid>
+		<pubDate>Fri, 10 Aug 2012 03:02:03 -0700</pubDate>
+		<title>
+			<![CDATA[Alina add a quote by William Shakespeare]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/191-my-tongue-will-tell-the-anger-of-my-heart-or]]>
+		</link>
+		<description>
+	    <![CDATA["My tongue will tell the anger of my heart, or else my heart concealing it will break." -- William Shakespeare]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1151627-there-is-a-sacredness-in-tears-they-are-the-messengers-of</guid>
+		<pubDate>Thu, 03 Apr 2014 15:13:06 -0700</pubDate>
+		<title>
+			<![CDATA[Alina add a quote by Washington Irving]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1151627-there-is-a-sacredness-in-tears-they-are-the-messengers-of]]>
+		</link>
+		<description>
+	    <![CDATA["There is a sacredness in tears....They are the messengers of overwhelming grief, of deep contrition and of unspeakable love." -- Washington Irving]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1024580-anna]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1024580-anna" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 23 Apr 2010 15:05:29 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/10980-when-did-the-future-switch-from-being-a-promise-to</guid>
+		<pubDate>Fri, 23 Apr 2010 15:05:29 -0700</pubDate>
+		<title>
+			<![CDATA[Anna add a quote by Chuck Palahniuk]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10980-when-did-the-future-switch-from-being-a-promise-to]]>
+		</link>
+		<description>
+	    <![CDATA["When did the future switch from being a promise to being a threat?" -- Chuck Palahniuk]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/100582-catherine-earnshaw-may-you-not-rest-as-long-as-i</guid>
+		<pubDate>Thu, 03 Mar 2011 03:07:46 -0800</pubDate>
+		<title>
+			<![CDATA[Anna add a quote by Emily Brontë]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/100582-catherine-earnshaw-may-you-not-rest-as-long-as-i]]>
+		</link>
+		<description>
+	    <![CDATA["Catherine Earnshaw, may you not rest as long as I am living. You said I killed you--haunt me then. The murdered do haunt their murderers. I believe--I know that ghosts have wandered the earth. Be with me always--take any form--drive me mad. Only do not leave me in this abyss, where I cannot find you! Oh, God! It is unutterable! I cannot live without my life! I cannot live without my soul!" -- Emily Brontë]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

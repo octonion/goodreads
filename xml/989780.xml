@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/989780-shirley-w-mitchell]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/989780-shirley-w-mitchell" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 06 Feb 2014 21:37:05 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1028961-the-life-that-conquers-is-the-life-that-moves-with</guid>
+		<pubDate>Thu, 06 Feb 2014 21:37:05 -0800</pubDate>
+		<title>
+			<![CDATA[Shirley W. add a quote by W.J.Davison]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1028961-the-life-that-conquers-is-the-life-that-moves-with]]>
+		</link>
+		<description>
+	    <![CDATA["The life that conquers is the life that moves with a steady resolution and persistence toward a predetermined goal. Those who succeed are those who have thoroughly learned the immense importance of plan in life, and the tragic brevity of time ~ W.J. Davison" -- W.J.Davison]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1028963-we-can-often-do-more-for-other-men-by-trying</guid>
+		<pubDate>Thu, 06 Feb 2014 21:38:24 -0800</pubDate>
+		<title>
+			<![CDATA[Shirley W. add a quote by Francois Fenelon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1028963-we-can-often-do-more-for-other-men-by-trying]]>
+		</link>
+		<description>
+	    <![CDATA["We can often do more for other men by trying to correct our own faults than by trying to correct theirs ~ Francois Fenelon" -- Francois Fenelon]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

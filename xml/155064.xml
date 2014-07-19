@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/155064-melissa-weisman]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/155064-melissa-weisman" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 17 Sep 2013 16:27:44 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/257262-there-are-books-that-one-has-for-twenty-years-without</guid>
+		<pubDate>Tue, 17 Sep 2013 16:27:44 -0700</pubDate>
+		<title>
+			<![CDATA[Melissa add a quote by Elias Canetti]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/257262-there-are-books-that-one-has-for-twenty-years-without]]>
+		</link>
+		<description>
+	    <![CDATA["There are books, that one has for twenty years without reading them, that one always keeps at hand, that one takes along from city to city, from country to country, carefully packed, even when there is very little room, and perhaps one leafs through them while removing them from a trunk; yet one carefully refrains from reading even a complete sentence. Then after twenty years, there comes a moment when suddenly, as though under a high compulsion, one cannot help taking in such a book from beginning to end, at one sitting: it is like a revelation. Now one knows why one made such a fuss about it. It had to be with one for a long time; it had to travel; it had to occupy space; it had to be a burden; and now it has reached the goal of its voyage, now it reveals itself, now it illuminates the twenty bygone years it mutely lived with one. It could not say so much if it had not been there mutely the whole time, and what idiot would dare to assert that the same things had always been in it." -- Elias Canetti]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

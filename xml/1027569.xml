@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1027569-tammy-powley]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1027569-tammy-powley" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 02 Apr 2008 18:17:56 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/59164-to-invent-you-need-a-good-imagination-and-a-pile</guid>
+		<pubDate>Wed, 02 Apr 2008 18:17:56 -0700</pubDate>
+		<title>
+			<![CDATA[Tammy add a quote by Thomas A. Edison]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/59164-to-invent-you-need-a-good-imagination-and-a-pile]]>
+		</link>
+		<description>
+	    <![CDATA["To invent, you need a good imagination and a pile of junk." -- Thomas A. Edison]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/512754-hope-is-the-thing-with-feathers</guid>
+		<pubDate>Sat, 03 Mar 2012 11:04:54 -0800</pubDate>
+		<title>
+			<![CDATA[Tammy add a quote by Emily Dickenson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/512754-hope-is-the-thing-with-feathers]]>
+		</link>
+		<description>
+	    <![CDATA["Hope is the thing with feathers" -- Emily Dickenson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

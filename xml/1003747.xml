@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1003747-joe]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1003747-joe" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 19 Mar 2008 11:00:39 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/36279-vencer-is-pero-no-convencer-is</guid>
+		<pubDate>Wed, 19 Mar 2008 11:00:39 -0700</pubDate>
+		<title>
+			<![CDATA[Joe add a quote by Miguel de Unamuno]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/36279-vencer-is-pero-no-convencer-is]]>
+		</link>
+		<description>
+	    <![CDATA["venceréis pero no convenceréis" -- Miguel de Unamuno]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/36283-siempre-imagin-que-el-para-so-ser-a-alg-n-tipo-de-biblioteca</guid>
+		<pubDate>Wed, 19 Mar 2008 11:02:41 -0700</pubDate>
+		<title>
+			<![CDATA[Joe add a quote by Jorge Luis Borges]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/36283-siempre-imagin-que-el-para-so-ser-a-alg-n-tipo-de-biblioteca]]>
+		</link>
+		<description>
+	    <![CDATA["Siempre imaginé que el Paraíso sería algún tipo de biblioteca." -- Jorge Luis Borges]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/36285-yo-no-hablo-de-venganzas-ni-perdones-el-olvido-es</guid>
+		<pubDate>Wed, 19 Mar 2008 11:03:28 -0700</pubDate>
+		<title>
+			<![CDATA[Joe add a quote by Borges]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/36285-yo-no-hablo-de-venganzas-ni-perdones-el-olvido-es]]>
+		</link>
+		<description>
+	    <![CDATA["Yo no hablo de venganzas ni perdones, el olvido es la única venganza y el único perdón." -- Borges]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/36286-quienes-dicen-que-el-arte-no-debe-propagar-doctrinas-suelen</guid>
+		<pubDate>Wed, 19 Mar 2008 11:04:27 -0700</pubDate>
+		<title>
+			<![CDATA[Joe add a quote by Jorge Luis Borges]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/36286-quienes-dicen-que-el-arte-no-debe-propagar-doctrinas-suelen]]>
+		</link>
+		<description>
+	    <![CDATA["Quienes dicen que el arte no debe propagar doctrinas suelen referirse a doctrinas contrarias a las suyas." -- Jorge Luis Borges]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/82821-sam]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/82821-sam" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 01 May 2014 05:38:47 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/116283-when-i-was-your-age-television-was-called-books</guid>
+		<pubDate>Thu, 01 May 2014 05:38:47 -0700</pubDate>
+		<title>
+			<![CDATA[Sam add a quote by William Goldman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/116283-when-i-was-your-age-television-was-called-books]]>
+		</link>
+		<description>
+	    <![CDATA["When I was your age, television was called books." -- William Goldman]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/249530-now-what-happens-asked-the-man-in-black-we-face</guid>
+		<pubDate>Thu, 01 May 2014 05:40:10 -0700</pubDate>
+		<title>
+			<![CDATA[Sam add a quote by William Goldman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/249530-now-what-happens-asked-the-man-in-black-we-face]]>
+		</link>
+		<description>
+	    <![CDATA["Now what happens?&quot; asked the man in black. 
+&quot;We face each other as God intended,&quot; Fezzik said. &quot;No tricks, no weapons, skill against skill alone.&quot;
+&quot;You mean you'll put down your rock and I'll put down my sword and we'll try to kill each other like civilized people, is that it?" -- William Goldman]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/34536-it-is-a-great-thing-to-start-life-with-a</guid>
+		<pubDate>Thu, 22 May 2014 06:38:07 -0700</pubDate>
+		<title>
+			<![CDATA[Sam add a quote by Arthur Conan Doyle]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/34536-it-is-a-great-thing-to-start-life-with-a]]>
+		</link>
+		<description>
+	    <![CDATA["It is a great thing to start life with a small number of really good books which are your very own." -- Arthur Conan Doyle]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

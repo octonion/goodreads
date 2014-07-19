@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/667779-cathy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/667779-cathy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 07 Dec 2007 15:34:00 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4020-all-the-marvels-of-nature-are-glimpses-of-his-divine</guid>
+		<pubDate>Fri, 07 Dec 2007 15:34:00 -0800</pubDate>
+		<title>
+			<![CDATA[Cathy add a quote by M. Russell Ballard]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4020-all-the-marvels-of-nature-are-glimpses-of-his-divine]]>
+		</link>
+		<description>
+	    <![CDATA["All the marvels of nature are glimpses of His divine power and expressions of His love." -- M. Russell Ballard]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4021-some-day-in-years-to-come-you-will-be-wrestling</guid>
+		<pubDate>Tue, 25 Mar 2008 15:54:50 -0700</pubDate>
+		<title>
+			<![CDATA[Cathy add a quote by Phillip Brooks]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4021-some-day-in-years-to-come-you-will-be-wrestling]]>
+		</link>
+		<description>
+	    <![CDATA["Some day, in years to come, you will be wrestling with the great temptation, or trembling under the great sorrow of your life.  But the real struggle is here, now, in these quiet weeks.  Now it is being decided whether, in the day or your supreme sorrow or temptation, you shall miserably fail or gloriously conquer.  Character cannot be made except by a steady, long-continued process." -- Phillip Brooks]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

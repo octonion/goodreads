@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/713877-sharla]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/713877-sharla" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 Apr 2014 19:14:27 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/90829-the-god-of-dirt-came-up-to-me-many-times</guid>
+		<pubDate>Tue, 01 Apr 2014 19:14:27 -0700</pubDate>
+		<title>
+			<![CDATA[Sharla add a quote by Mary Oliver]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/90829-the-god-of-dirt-came-up-to-me-many-times]]>
+		</link>
+		<description>
+	    <![CDATA["The god of dirt
+came up to me many times and said
+so many wise and delectable things, 
+I lay
+on the grass listening
+to his dog voice,
+frog voice; now,
+he said, and now,
+and never once mentioned forever
+
+from, One or Two Things" -- Mary Oliver]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

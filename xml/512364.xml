@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/512364-kevin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/512364-kevin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 18 Jun 2008 12:49:43 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/64802-i-met-him-in-the-language-lab-in-a-lull</guid>
+		<pubDate>Wed, 18 Jun 2008 12:49:43 -0700</pubDate>
+		<title>
+			<![CDATA[Kevin add a quote by John Irving]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/64802-i-met-him-in-the-language-lab-in-a-lull]]>
+		</link>
+		<description>
+	    <![CDATA["I met him in the language lab. In a lull between lab sections, I was editing tapes for freshman German when this shuffling man of hair came in. Possibly twenty, or forty; possibly student, or faculty, Trotskyite or Amish farmer, human or animal; a theif lumbering out of a camera shop, laden with lenses and light meters; a bear who after a terrible and violent struggle ate a photographer. This beast approached me." -- John Irving]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

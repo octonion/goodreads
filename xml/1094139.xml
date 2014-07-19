@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1094139-luseka]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1094139-luseka" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 18 Aug 2013 04:36:11 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/112142-why-sometimes-i-ve-believed-as-many-as-six-impossible-things</guid>
+		<pubDate>Sun, 18 Aug 2013 04:36:11 -0700</pubDate>
+		<title>
+			<![CDATA[Luseka add a quote by Lewis Carroll]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/112142-why-sometimes-i-ve-believed-as-many-as-six-impossible-things]]>
+		</link>
+		<description>
+	    <![CDATA["Why, sometimes I've believed as many as six impossible things before breakfast." -- Lewis Carroll]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

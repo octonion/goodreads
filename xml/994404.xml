@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/994404-shannon]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/994404-shannon" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 14 Mar 2008 22:44:58 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/18195-the-nice-part-about-being-a-pessimist-is-that-you</guid>
+		<pubDate>Fri, 14 Mar 2008 22:44:58 -0700</pubDate>
+		<title>
+			<![CDATA[Shannon add a quote by George F. Will]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18195-the-nice-part-about-being-a-pessimist-is-that-you]]>
+		</link>
+		<description>
+	    <![CDATA["The nice part about being a pessimist is that you are constantly being either proven right or pleasantly surprised." -- George F. Will]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/34885-don-t-take-life-seriously-because-you-can-t-come-out-of</guid>
+		<pubDate>Fri, 14 Mar 2008 22:46:56 -0700</pubDate>
+		<title>
+			<![CDATA[Shannon add a quote by Warren Miller]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/34885-don-t-take-life-seriously-because-you-can-t-come-out-of]]>
+		</link>
+		<description>
+	    <![CDATA["Don't take life seriously because you can't come out of it alive." -- Warren Miller]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

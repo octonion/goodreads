@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/676361-corona]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/676361-corona" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Dec 2007 11:07:24 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4823-nature-abhors-a-vacuum</guid>
+		<pubDate>Tue, 11 Dec 2007 11:07:24 -0800</pubDate>
+		<title>
+			<![CDATA[Corona add a quote by Aristotle]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4823-nature-abhors-a-vacuum]]>
+		</link>
+		<description>
+	    <![CDATA["Nature abhors a vacuum." -- Aristotle]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/13048-write-what-should-not-be-forgotten</guid>
+		<pubDate>Mon, 03 Nov 2008 06:59:53 -0800</pubDate>
+		<title>
+			<![CDATA[Corona add a quote by Isabel Allende]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13048-write-what-should-not-be-forgotten]]>
+		</link>
+		<description>
+	    <![CDATA["Write what should not be forgotten." -- Isabel Allende]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/111189-accept-the-children-the-way-we-accept-trees-with-gratitude-because</guid>
+		<pubDate>Mon, 03 Nov 2008 07:07:59 -0800</pubDate>
+		<title>
+			<![CDATA[Corona add a quote by Isabel Allende]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/111189-accept-the-children-the-way-we-accept-trees-with-gratitude-because]]>
+		</link>
+		<description>
+	    <![CDATA["Accept the children the way we accept trees—with gratitude, because they are a blessing—but do not have expectations or desires. You don’t expect trees to change, you love them as they are." -- Isabel Allende]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

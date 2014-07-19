@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/720613-elahe]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/720613-elahe" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 14 Jun 2011 12:13:42 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/80489-a-dog-has-no-use-for-fancy-cars-or-big</guid>
+		<pubDate>Tue, 14 Jun 2011 12:13:42 -0700</pubDate>
+		<title>
+			<![CDATA[Elahe add a quote by John Grogan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/80489-a-dog-has-no-use-for-fancy-cars-or-big]]>
+		</link>
+		<description>
+	    <![CDATA["A dog has no use for fancy cars or big homes or designer clothes. Status symbol means nothing to him. A waterlogged stick will do just fine. A dog judges others not by their color or creed or class but by who they are inside. A dog doesn't care if you are rich or poor, educated or illiterate, clever or dull. Give him your heart and he will give you his. It was really quite simple, and yet we humans, so much wiser and more sophisticated, have always had trouble figuring out what really counts and what does not. As I wrote that farewell column to Marley, I realized it was all right there in front of us, if only we opened our eyes. Sometimes it took a dog with bad breath, worse manners, and pure intentions to help us see." -- John Grogan]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

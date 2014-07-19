@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/963243-sorsha]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/963243-sorsha" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 03 Mar 2008 14:09:19 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/30610-the-sunflower-is-mine-in-a-way</guid>
+		<pubDate>Mon, 03 Mar 2008 14:09:19 -0800</pubDate>
+		<title>
+			<![CDATA[Sorsha add a quote by Vincent van Gogh]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/30610-the-sunflower-is-mine-in-a-way]]>
+		</link>
+		<description>
+	    <![CDATA["The sunflower is mine, in a way." -- Vincent van Gogh]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1971-i-must-have-flowers-always-and-always</guid>
+		<pubDate>Mon, 03 Mar 2008 14:10:31 -0800</pubDate>
+		<title>
+			<![CDATA[Sorsha add a quote by Claude Monet]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1971-i-must-have-flowers-always-and-always]]>
+		</link>
+		<description>
+	    <![CDATA["I must have flowers, always, and always." -- Claude Monet]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/30616-if-they-can-make-penicillin-out-of-moldy-bread-then</guid>
+		<pubDate>Mon, 03 Mar 2008 14:17:09 -0800</pubDate>
+		<title>
+			<![CDATA[Sorsha add a quote by Muhammad Ali]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/30616-if-they-can-make-penicillin-out-of-moldy-bread-then]]>
+		</link>
+		<description>
+	    <![CDATA["If they can make penicillin out of moldy bread, then they can sure make something out of you." -- Muhammad Ali]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

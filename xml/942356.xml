@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/942356-hannah]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/942356-hannah" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 26 Feb 2008 06:05:21 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3867-for-what-do-we-live-but-to-make-sport-for</guid>
+		<pubDate>Tue, 26 Feb 2008 06:05:21 -0800</pubDate>
+		<title>
+			<![CDATA[Hannah add a quote by Jane Austen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3867-for-what-do-we-live-but-to-make-sport-for]]>
+		</link>
+		<description>
+	    <![CDATA["For what do we live, but to make sport for our neighbors, and laugh at them in our turn?" -- Jane Austen]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

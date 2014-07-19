@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/624301-nadja]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/624301-nadja" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 04 Nov 2013 14:37:29 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/74723-be-bad-but-at-least-don-t-be-a-liar-a</guid>
+		<pubDate>Mon, 04 Nov 2013 14:37:29 -0800</pubDate>
+		<title>
+			<![CDATA[Nadja add a quote by Leo Tolstoy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/74723-be-bad-but-at-least-don-t-be-a-liar-a]]>
+		</link>
+		<description>
+	    <![CDATA["Be bad, but at least don't be a liar, a deceiver!" -- Leo Tolstoy]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1477-the-liar-s-punishment-is-not-in-the-least-that-he</guid>
+		<pubDate>Mon, 04 Nov 2013 14:37:36 -0800</pubDate>
+		<title>
+			<![CDATA[Nadja add a quote by George Bernard Shaw]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1477-the-liar-s-punishment-is-not-in-the-least-that-he]]>
+		</link>
+		<description>
+	    <![CDATA["The liar's punishment is, not in the least that he is not believed, but that he cannot believe anyone else." -- George Bernard Shaw]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/11864-i-m-not-upset-that-you-lied-to-me-i-m-upset</guid>
+		<pubDate>Mon, 04 Nov 2013 14:51:06 -0800</pubDate>
+		<title>
+			<![CDATA[Nadja add a quote by Friedrich Nietzsche]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11864-i-m-not-upset-that-you-lied-to-me-i-m-upset]]>
+		</link>
+		<description>
+	    <![CDATA["I'm not upset that you lied to me, I'm upset that from now on I can't believe you." -- Friedrich Nietzsche]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

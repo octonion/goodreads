@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/221222-kelly]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/221222-kelly" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 30 Nov 2012 16:36:54 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/217931-where-the-mind-is-without-fear-and-the-head-is</guid>
+		<pubDate>Fri, 30 Nov 2012 16:36:54 -0800</pubDate>
+		<title>
+			<![CDATA[Kelly add a quote by Rabindranath Tagore]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/217931-where-the-mind-is-without-fear-and-the-head-is]]>
+		</link>
+		<description>
+	    <![CDATA["Where the mind is without fear
+and the head is held high,
+where knowledge is free.
+Where the world has not been broken up into fragments by narrow domestic walls.
+Where words come out from the depth of truth,
+where tireless striving stretches its arms toward perfection.
+Where the clear stream of reason has not lost it's way
+into the dreary desert sand of dead habit.
+Where the mind is led forward by thee
+into ever widening thought and action.
+In to that heaven of freedom, my father,
+LET MY COUNTRY AWAKE!" -- Rabindranath Tagore]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

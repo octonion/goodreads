@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/413119-jason-mcnamara]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/413119-jason-mcnamara" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 17 Jul 2013 20:36:52 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/295378-if-you-wrote-something-for-which-someone-sent-you-a</guid>
+		<pubDate>Wed, 17 Jul 2013 20:36:52 -0700</pubDate>
+		<title>
+			<![CDATA[Jason add a quote by Stephen King]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/295378-if-you-wrote-something-for-which-someone-sent-you-a]]>
+		</link>
+		<description>
+	    <![CDATA["If you wrote something for which someone sent you a check, if you cashed the check and it didn't bounce, and if you then paid the light bill with the money, I consider you talented." -- Stephen King]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/143368-thus-strangely-are-our-souls-constructed-and-by-slight-ligaments</guid>
+		<pubDate>Wed, 11 Sep 2013 14:08:22 -0700</pubDate>
+		<title>
+			<![CDATA[Jason add a quote by Mary Shelley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/143368-thus-strangely-are-our-souls-constructed-and-by-slight-ligaments]]>
+		</link>
+		<description>
+	    <![CDATA["Thus strangely are our souls constructed, and by slight ligaments are we bound to prosperity and ruin." -- Mary Shelley]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/38363-if-you-end-up-with-a-boring-miserable-life-because</guid>
+		<pubDate>Wed, 07 May 2014 13:10:58 -0700</pubDate>
+		<title>
+			<![CDATA[Jason add a quote by Frank Zappa]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/38363-if-you-end-up-with-a-boring-miserable-life-because]]>
+		</link>
+		<description>
+	    <![CDATA["If you end up with a boring miserable life because you listened to your mom, your dad, your teacher, your priest, or some guy on television telling you how to do your shit, then you deserve it." -- Frank Zappa]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

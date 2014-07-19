@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/781453-carolina]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/781453-carolina" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 19 Apr 2008 17:43:01 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/46328-ela-n-o-tem-amizade-por-mim-nem-ternura-nem-estima</guid>
+		<pubDate>Sat, 19 Apr 2008 17:43:01 -0700</pubDate>
+		<title>
+			<![CDATA[Carolina add a quote by Sartre, Jean-Paul]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/46328-ela-n-o-tem-amizade-por-mim-nem-ternura-nem-estima]]>
+		</link>
+		<description>
+	    <![CDATA["Ela não tem amizade por mim. Nem ternura. Nem estima. Ela me ama, simplesmente: qual de nós dois é o pior?" -- Sartre, Jean-Paul]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/187702-in-books-we-never-find-anything-but-ourselves-strangely-enough</guid>
+		<pubDate>Tue, 31 Aug 2010 17:25:28 -0700</pubDate>
+		<title>
+			<![CDATA[Carolina add a quote by Thomas Mann]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/187702-in-books-we-never-find-anything-but-ourselves-strangely-enough]]>
+		</link>
+		<description>
+	    <![CDATA["In books we never find anything but ourselves. Strangely enough, that always gives us great pleasure, and we say the author is a genius." -- Thomas Mann]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

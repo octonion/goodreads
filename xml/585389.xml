@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/585389-jen-aggie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/585389-jen-aggie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 23 Sep 2008 05:20:21 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/350-i-with-a-deeper-instinct-choose-a-man-who-compels</guid>
+		<pubDate>Tue, 23 Sep 2008 05:20:21 -0700</pubDate>
+		<title>
+			<![CDATA[Jen.aggie add a quote by Anaïs Nin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/350-i-with-a-deeper-instinct-choose-a-man-who-compels]]>
+		</link>
+		<description>
+	    <![CDATA["I, with a deeper instinct, choose a man who compels my strength, who makes enormous demands on me, who does not doubt my courage or my toughness, who does not believe me naïve or innocent, who has the courage to treat me like a woman." -- Anaïs Nin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1012-we-have-to-dare-to-be-ourselves-however-frightening-or</guid>
+		<pubDate>Tue, 23 Sep 2008 05:21:56 -0700</pubDate>
+		<title>
+			<![CDATA[Jen.aggie add a quote by May Sarton]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1012-we-have-to-dare-to-be-ourselves-however-frightening-or]]>
+		</link>
+		<description>
+	    <![CDATA["We have to dare to be ourselves, however frightening or strange that self may prove to be." -- May Sarton]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

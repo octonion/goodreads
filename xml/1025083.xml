@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1025083-don-bredes]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1025083-don-bredes" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 26 Mar 2008 07:58:10 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/38442-the-religion-of-one-age-is-the-literary-entertainment-of</guid>
+		<pubDate>Wed, 26 Mar 2008 07:58:10 -0700</pubDate>
+		<title>
+			<![CDATA[Don add a quote by Ralph Waldo Emerson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/38442-the-religion-of-one-age-is-the-literary-entertainment-of]]>
+		</link>
+		<description>
+	    <![CDATA["The religion of one age is the literary entertainment of the next." -- Ralph Waldo Emerson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

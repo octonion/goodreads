@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/783794-rhiannon]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/783794-rhiannon" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 07 Apr 2008 20:42:00 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6362-every-sweet-has-its-sour-every-evil-its-good</guid>
+		<pubDate>Mon, 07 Apr 2008 20:42:00 -0700</pubDate>
+		<title>
+			<![CDATA[Rhiannon add a quote by Ralph Waldo Emerson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6362-every-sweet-has-its-sour-every-evil-its-good]]>
+		</link>
+		<description>
+	    <![CDATA["Every sweet has its sour; every evil its good." -- Ralph Waldo Emerson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/8808-wise-men-speak-because-they-have-something-to-say-fools</guid>
+		<pubDate>Mon, 07 Apr 2008 20:43:56 -0700</pubDate>
+		<title>
+			<![CDATA[Rhiannon add a quote by Plato]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8808-wise-men-speak-because-they-have-something-to-say-fools]]>
+		</link>
+		<description>
+	    <![CDATA["Wise men speak because they have something to say; fools because they have to say something." -- Plato]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/15776-there-are-three-classes-of-men-lovers-of-wisdom-lovers</guid>
+		<pubDate>Mon, 07 Apr 2008 20:44:24 -0700</pubDate>
+		<title>
+			<![CDATA[Rhiannon add a quote by Plato]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/15776-there-are-three-classes-of-men-lovers-of-wisdom-lovers]]>
+		</link>
+		<description>
+	    <![CDATA["There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain." -- Plato]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

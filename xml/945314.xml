@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/945314-dodka]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/945314-dodka" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 21 Jul 2008 01:29:38 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/22406-what-does-he-say-he-asked-he-s-very-sad-rsula</guid>
+		<pubDate>Mon, 21 Jul 2008 01:29:38 -0700</pubDate>
+		<title>
+			<![CDATA[Dodka add a quote by Gabriel García Márquez]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22406-what-does-he-say-he-asked-he-s-very-sad-rsula]]>
+		</link>
+		<description>
+	    <![CDATA["What does he say?' he asked.
+'He’s very sad,’ Úrsula answered, ‘because he thinks that you’re going to die.'
+'Tell him,' the colonel said, smiling, 'that a person doesn’t die when he should but when he can." -- Gabriel García Márquez]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/25531-the-problem-with-marriage-is-that-it-ends-every-night</guid>
+		<pubDate>Mon, 21 Jul 2008 01:29:55 -0700</pubDate>
+		<title>
+			<![CDATA[Dodka add a quote by Gabriel García Márquez]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/25531-the-problem-with-marriage-is-that-it-ends-every-night]]>
+		</link>
+		<description>
+	    <![CDATA["The problem with marriage is that it ends every night after making love, and it must be rebuilt every morning before breakfast." -- Gabriel García Márquez]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

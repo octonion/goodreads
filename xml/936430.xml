@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/936430-amy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/936430-amy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 20 Jun 2008 04:45:10 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/8594-around-here-however-we-don-t-look-backwards-for-very-long</guid>
+		<pubDate>Fri, 20 Jun 2008 04:45:10 -0700</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Walt Disney Company]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8594-around-here-however-we-don-t-look-backwards-for-very-long]]>
+		</link>
+		<description>
+	    <![CDATA["Around here, however, we don't look backwards for very long. We keep moving forward, opening up new doors and doing new things, because we're curious...and curiosity keeps leading us down new paths." -- Walt Disney Company]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/65331-when-you-believe-in-a-thing-believe-in-it-all</guid>
+		<pubDate>Fri, 20 Jun 2008 04:47:53 -0700</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Walt Disney]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/65331-when-you-believe-in-a-thing-believe-in-it-all]]>
+		</link>
+		<description>
+	    <![CDATA["When you believe in a thing, believe in it all the way, implicitly and unquestionable." -- Walt Disney]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1283-all-our-dreams-can-come-true-if-we-have-the</guid>
+		<pubDate>Fri, 20 Jun 2008 04:49:11 -0700</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Walt Disney]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1283-all-our-dreams-can-come-true-if-we-have-the]]>
+		</link>
+		<description>
+	    <![CDATA["All our dreams can come true, if we have the courage to pursue them." -- Walt Disney]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

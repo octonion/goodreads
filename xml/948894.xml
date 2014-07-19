@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/948894-erin-mckenna]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/948894-erin-mckenna" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 24 May 2013 06:28:56 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/371038-thirty-years-ago-my-older-brother-who-was-ten-years</guid>
+		<pubDate>Fri, 24 May 2013 06:28:56 -0700</pubDate>
+		<title>
+			<![CDATA[Erin add a quote by Anne Lamott]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/371038-thirty-years-ago-my-older-brother-who-was-ten-years]]>
+		</link>
+		<description>
+	    <![CDATA["Thirty years ago my older brother, who was ten years old at the time, was trying to get a report written on birds that he'd had three months to write, which was due the next day. We were out at our family cabin in Bolinas, and he was at the kitchen table close to tears, surrounded by binder paper and pencils and unopened books about birds, immobilized by the hugeness of the task ahead. Then my father sat down beside him put his arm around my brother's shoulder, and said, &quot;Bird by bird, buddy. Just take it bird by bird." -- Anne Lamott]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

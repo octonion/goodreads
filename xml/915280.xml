@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/915280-eileen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/915280-eileen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 18 Feb 2008 16:56:06 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/939-if-the-world-were-merely-seductive-that-would-be-easy</guid>
+		<pubDate>Mon, 18 Feb 2008 16:56:06 -0800</pubDate>
+		<title>
+			<![CDATA[Eileen add a quote by E.B. White]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/939-if-the-world-were-merely-seductive-that-would-be-easy]]>
+		</link>
+		<description>
+	    <![CDATA["If the world were merely seductive, that would be easy. If it were merely challenging, that would be no problem. But I arise in the morning torn between a desire to improve the world and a desire to enjoy the world. This makes it hard to plan the day." -- E.B. White]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

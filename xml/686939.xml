@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/686939-joshua-casteel]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/686939-joshua-casteel" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 20 Jan 2008 12:08:39 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/15194-nothing-has-ever-been-more-insupportable-for-a-man-and</guid>
+		<pubDate>Sun, 20 Jan 2008 12:08:39 -0800</pubDate>
+		<title>
+			<![CDATA[Joshua add a quote by Fyodor Dostoevsky]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/15194-nothing-has-ever-been-more-insupportable-for-a-man-and]]>
+		</link>
+		<description>
+	    <![CDATA["Nothing has ever been more insupportable for a man and a human society than freedom.
+–The Grand Inquisitor" -- Fyodor Dostoevsky]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/21646-plato-was-a-bore</guid>
+		<pubDate>Sun, 20 Jan 2008 12:21:13 -0800</pubDate>
+		<title>
+			<![CDATA[Joshua add a quote by Friedrich Nietzsche]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21646-plato-was-a-bore]]>
+		</link>
+		<description>
+	    <![CDATA["Plato was a bore." -- Friedrich Nietzsche]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1008121-chris-antenen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1008121-chris-antenen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 12 Jul 2013 13:17:04 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/564289-nobody-gets-everything-in-this-life-you-decide-your-priorities</guid>
+		<pubDate>Fri, 12 Jul 2013 13:17:04 -0700</pubDate>
+		<title>
+			<![CDATA[Chris add a quote by Donald E. Westlake]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/564289-nobody-gets-everything-in-this-life-you-decide-your-priorities]]>
+		</link>
+		<description>
+	    <![CDATA["Nobody gets everything in this life. You decide your priorities and you make your choices. I'd decided long ago that any cake I had would be eaten." -- Donald E. Westlake]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/21045-if-a-man-is-called-to-be-a-street-sweeper</guid>
+		<pubDate>Tue, 21 Jan 2014 14:57:23 -0800</pubDate>
+		<title>
+			<![CDATA[Chris add a quote by Martin Luther King Jr.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21045-if-a-man-is-called-to-be-a-street-sweeper]]>
+		</link>
+		<description>
+	    <![CDATA["If a man is called to be a street sweeper, he should sweep streets even as a Michaelangelo painted, or Beethoven composed music or Shakespeare wrote poetry. He should sweep streets so well that all the hosts of heaven and earth will pause to say, 'Here lived a great street sweeper who did his job well." -- Martin Luther King Jr.]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

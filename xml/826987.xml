@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/826987-adam]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/826987-adam" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 17 Dec 2008 08:08:42 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4353-the-ultimate-measure-of-a-man-is-not-where-he</guid>
+		<pubDate>Wed, 17 Dec 2008 08:08:42 -0800</pubDate>
+		<title>
+			<![CDATA[Adam add a quote by Martin Luther King Jr.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4353-the-ultimate-measure-of-a-man-is-not-where-he]]>
+		</link>
+		<description>
+	    <![CDATA["The ultimate measure of a man is not where he stands in moments of comfort and convenience, but where he stands at times of challenge and controversy." -- Martin Luther King Jr.]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/26963-if-you-can-t-fly-then-run-if-you-can-t-run</guid>
+		<pubDate>Wed, 17 Dec 2008 08:09:34 -0800</pubDate>
+		<title>
+			<![CDATA[Adam add a quote by Martin Luther King Jr.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/26963-if-you-can-t-fly-then-run-if-you-can-t-run]]>
+		</link>
+		<description>
+	    <![CDATA["If you can't fly then run, if you can't run then walk, if you can't walk then crawl, but whatever you do you have to keep moving forward." -- Martin Luther King Jr.]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/61983-its-not-over-until-the-lord-says-its-over</guid>
+		<pubDate>Wed, 17 Dec 2008 08:09:47 -0800</pubDate>
+		<title>
+			<![CDATA[Adam add a quote by T.D. JAKES]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/61983-its-not-over-until-the-lord-says-its-over]]>
+		</link>
+		<description>
+	    <![CDATA["Its not over, until the Lord says its over." -- T.D. JAKES]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

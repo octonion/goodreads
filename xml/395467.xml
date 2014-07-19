@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/395467-david]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/395467-david" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 11 Apr 2008 11:23:57 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5075-i-say-beware-of-all-enterprises-that-require-new-clothes</guid>
+		<pubDate>Fri, 11 Apr 2008 11:23:57 -0700</pubDate>
+		<title>
+			<![CDATA[david add a quote by Henry David Thoreau]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5075-i-say-beware-of-all-enterprises-that-require-new-clothes]]>
+		</link>
+		<description>
+	    <![CDATA["I say, beware of all enterprises that require new clothes, and not rather a new wearer of clothes." -- Henry David Thoreau]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/11123-there-is-no-remedy-for-love-but-to-love-more</guid>
+		<pubDate>Fri, 11 Apr 2008 11:30:18 -0700</pubDate>
+		<title>
+			<![CDATA[david add a quote by Henry David Thoreau]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11123-there-is-no-remedy-for-love-but-to-love-more]]>
+		</link>
+		<description>
+	    <![CDATA["There is no remedy for love, but to love more." -- Henry David Thoreau]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/43725-i-love-the-smell-of-napalm-in-the-morning</guid>
+		<pubDate>Fri, 11 Apr 2008 11:31:55 -0700</pubDate>
+		<title>
+			<![CDATA[david add a quote by kilgore]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/43725-i-love-the-smell-of-napalm-in-the-morning]]>
+		</link>
+		<description>
+	    <![CDATA["I love the smell of napalm in the morning." -- kilgore]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/9469-they-always-say-time-changes-things-but-you-actually-have</guid>
+		<pubDate>Fri, 11 Apr 2008 14:35:18 -0700</pubDate>
+		<title>
+			<![CDATA[david add a quote by Andy Warhol]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9469-they-always-say-time-changes-things-but-you-actually-have]]>
+		</link>
+		<description>
+	    <![CDATA["They always say time changes things, but you actually have to change them yourself." -- Andy Warhol]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

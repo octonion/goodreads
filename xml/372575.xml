@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/372575-shea]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/372575-shea" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 06 Sep 2008 12:56:00 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/94909-wind-and-storm-colored-july-also-in-the-middle-cadaverous</guid>
+		<pubDate>Sat, 06 Sep 2008 12:56:00 -0700</pubDate>
+		<title>
+			<![CDATA[Shea add a quote by Virginia Woolf]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/94909-wind-and-storm-colored-july-also-in-the-middle-cadaverous]]>
+		</link>
+		<description>
+	    <![CDATA["Wind and storm colored July. Also, in the middle, cadaverous, awful, lay the grey puddle in the courtyard, when holding an envelope in my hand, I carried a message. I came to the puddle. I could not cross it. Identity failed me. We are nothing, I said, and fell. I was blown like a feather. I was wafted down tunnels. Then very gingerly, I pushed my foot across. I laid my hand against a brick wall. I returned very painfully, drawing myself back into my body over the grey, cadaverous space of the puddle. This is life then to which I am committed." -- Virginia Woolf]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

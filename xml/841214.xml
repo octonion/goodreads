@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/841214-megan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/841214-megan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 13 Feb 2013 16:16:17 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/31829-you-are-doing-god-s-work-you-are-doing-it-wonderfully</guid>
+		<pubDate>Wed, 13 Feb 2013 16:16:17 -0800</pubDate>
+		<title>
+			<![CDATA[Megan add a quote by Jeffrey R. Holland]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/31829-you-are-doing-god-s-work-you-are-doing-it-wonderfully]]>
+		</link>
+		<description>
+	    <![CDATA["You are doing God's work. You are doing it wonderfully well. He is blessing you, and He will bless you, --even--no, -especially--when your days and your nights may be most challenging. Like the woman who anonymously, meekly, perhaps even with hesitation and some embarrassment, fought her way through the crowd just to touch the hem of the Master's garment, so Christ will say to the women who worry and wonder and weep over their responsibility as mothers, `Daughter, be of good comfort; thy faith hath made thee whole.' And it will make your children whole as well." -- Jeffrey R. Holland]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/559587-j-mark]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/559587-j-mark" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 04 Feb 2008 14:51:15 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/21302-the-only-difference-between-me-and-a-madman-is-i-m</guid>
+		<pubDate>Mon, 04 Feb 2008 14:51:15 -0800</pubDate>
+		<title>
+			<![CDATA[J. Mark add a quote by Salvador Dali]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21302-the-only-difference-between-me-and-a-madman-is-i-m]]>
+		</link>
+		<description>
+	    <![CDATA["The only difference between me and a madman is I'm not mad." -- Salvador Dali]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/486209-because-you-are-beautiful-i-enjoy-looking-at-beautiful-people</guid>
+		<pubDate>Mon, 10 Mar 2014 22:42:21 -0700</pubDate>
+		<title>
+			<![CDATA[J. Mark add a quote by John Green]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/486209-because-you-are-beautiful-i-enjoy-looking-at-beautiful-people]]>
+		</link>
+		<description>
+	    <![CDATA["Because you are beautiful. I enjoy looking at beautiful people, and I decided a while ago not to deny myself the simpler pleasures of existence" -- John Green]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

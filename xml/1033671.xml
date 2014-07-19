@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1033671-will-amato]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1033671-will-amato" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 01 Aug 2012 10:31:38 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/54670-shudder-in-fact-is-not-quite-the-word-for-the</guid>
+		<pubDate>Wed, 01 Aug 2012 10:31:38 -0700</pubDate>
+		<title>
+			<![CDATA[Will add a quote by Sam Lipsyte]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/54670-shudder-in-fact-is-not-quite-the-word-for-the]]>
+		</link>
+		<description>
+	    <![CDATA["Shudder, in fact, is not quite the word for the feeling. Feeling is not quite the word for the feeling. How's bathing at knifepoint in the phlegm of the dead? Is that a feeling?" -- Sam Lipsyte]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1088590-mc]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1088590-mc" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 08 Jun 2011 14:21:07 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/12228-all-his-faces-were-designed-to-express-rage-or</guid>
+		<pubDate>Wed, 08 Jun 2011 14:21:07 -0700</pubDate>
+		<title>
+			<![CDATA[MC add a quote by Kingsley Amis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12228-all-his-faces-were-designed-to-express-rage-or]]>
+		</link>
+		<description>
+	    <![CDATA["... all his faces were designed to express rage or loathing. Now that something had happened which really deserved a face, he had none to celebrate it with. As a kind of token, he made his Sex Life in Ancient Rome face." -- Kingsley Amis]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/12-consciousness-was-upon-him-before-he-could-get-out-of</guid>
+		<pubDate>Wed, 08 Jun 2011 14:21:14 -0700</pubDate>
+		<title>
+			<![CDATA[MC add a quote by Kingsley Amis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12-consciousness-was-upon-him-before-he-could-get-out-of]]>
+		</link>
+		<description>
+	    <![CDATA["Consciousness was upon him before he could get out of the way." -- Kingsley Amis]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

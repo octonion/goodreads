@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/643056-hallie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/643056-hallie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 28 Sep 2011 23:28:26 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/31427-language-is-courage-the-ability-to-conceive-a-thought-to</guid>
+		<pubDate>Wed, 28 Sep 2011 23:28:26 -0700</pubDate>
+		<title>
+			<![CDATA[Hallie add a quote by Salman Rushdie]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/31427-language-is-courage-the-ability-to-conceive-a-thought-to]]>
+		</link>
+		<description>
+	    <![CDATA["Language is courage: the ability to conceive a thought, to speak it, and by doing so to make it true." -- Salman Rushdie]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

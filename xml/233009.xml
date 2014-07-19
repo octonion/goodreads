@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/233009-renee]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/233009-renee" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 10 Mar 2014 07:27:59 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/53130-money-can-t-buy-happiness-but-it-can-make-you-awfully</guid>
+		<pubDate>Mon, 10 Mar 2014 07:27:59 -0700</pubDate>
+		<title>
+			<![CDATA[Renee add a quote by Clare Boothe Luce]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/53130-money-can-t-buy-happiness-but-it-can-make-you-awfully]]>
+		</link>
+		<description>
+	    <![CDATA["Money can't buy happiness, but it can make you awfully comfortable while you're being miserable." -- Clare Boothe Luce]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/11776-last-night-i-dreamt-i-went-to-manderley-again</guid>
+		<pubDate>Thu, 13 Mar 2014 10:30:44 -0700</pubDate>
+		<title>
+			<![CDATA[Renee add a quote by Daphne Du Maurier]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11776-last-night-i-dreamt-i-went-to-manderley-again]]>
+		</link>
+		<description>
+	    <![CDATA["Last night I dreamt I went to Manderley again." -- Daphne Du Maurier]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/64602-a-bit-of-trash-now-and-then-is-good-for</guid>
+		<pubDate>Fri, 21 Mar 2014 09:58:02 -0700</pubDate>
+		<title>
+			<![CDATA[Renee add a quote by Phyllis McGinley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/64602-a-bit-of-trash-now-and-then-is-good-for]]>
+		</link>
+		<description>
+	    <![CDATA["A bit of trash now and then is good for the severest reader. It provides the necessary roughage in the literary diet." -- Phyllis McGinley]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1012360-florencia]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1012360-florencia" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 24 Mar 2008 20:16:00 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/38023-nothing-can-bring-you-peace-but-yourself-nothing-can-bring</guid>
+		<pubDate>Mon, 24 Mar 2008 20:16:00 -0700</pubDate>
+		<title>
+			<![CDATA[Florencia add a quote by Ralph Waldo Emerson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/38023-nothing-can-bring-you-peace-but-yourself-nothing-can-bring]]>
+		</link>
+		<description>
+	    <![CDATA["Nothing can bring you peace but yourself. Nothing can bring you peace but the triumph of principles." -- Ralph Waldo Emerson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/18525-one-half-of-the-world-cannot-understand-the-pleasures-of</guid>
+		<pubDate>Mon, 24 Mar 2008 20:21:22 -0700</pubDate>
+		<title>
+			<![CDATA[Florencia add a quote by Jane Austen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18525-one-half-of-the-world-cannot-understand-the-pleasures-of]]>
+		</link>
+		<description>
+	    <![CDATA["One half of the world cannot understand the pleasures of the other." -- Jane Austen]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

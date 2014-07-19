@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/777248-anya]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/777248-anya" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 22 Apr 2009 07:40:43 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/45320-i-am-not-an-angel-i-asserted-and-i-will</guid>
+		<pubDate>Wed, 22 Apr 2009 07:40:43 -0700</pubDate>
+		<title>
+			<![CDATA[Anya add a quote by Charlotte Brontë]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/45320-i-am-not-an-angel-i-asserted-and-i-will]]>
+		</link>
+		<description>
+	    <![CDATA["I am not an angel,' I asserted; 'and I will not be one till I die: I will be myself.  Mr. Rochester, you must neither expect nor exact anything celestial of me - for you will not get it, any more than I shall get it of you: which I do not at all anticipate." -- Charlotte Brontë]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/140154-the-planet-is-fine-the-people-are-fucked</guid>
+		<pubDate>Wed, 22 Apr 2009 07:42:06 -0700</pubDate>
+		<title>
+			<![CDATA[Anya add a quote by George Carlin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/140154-the-planet-is-fine-the-people-are-fucked]]>
+		</link>
+		<description>
+	    <![CDATA["The planet is fine. The people are fucked." -- George Carlin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/130785-our-great-democracies-still-tend-to-think-that-a-stupid</guid>
+		<pubDate>Wed, 22 Apr 2009 07:48:04 -0700</pubDate>
+		<title>
+			<![CDATA[Anya add a quote by Bertrand Russell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/130785-our-great-democracies-still-tend-to-think-that-a-stupid]]>
+		</link>
+		<description>
+	    <![CDATA["Our great democracies still tend to think that a stupid man is more likely to be honest than a clever man, and our politicians take advantage of this prejudice by pretending to be even more stupid than nature made them." -- Bertrand Russell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

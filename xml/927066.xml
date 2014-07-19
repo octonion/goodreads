@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/927066-geary-brewer]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/927066-geary-brewer" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 04 Jun 2009 22:46:36 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/167175-be-conscious-of-god-and-speak-always-the-truth</guid>
+		<pubDate>Thu, 04 Jun 2009 22:46:36 -0700</pubDate>
+		<title>
+			<![CDATA[Geary add a quote by Barack Obama]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/167175-be-conscious-of-god-and-speak-always-the-truth]]>
+		</link>
+		<description>
+	    <![CDATA["Be conscious of God and speak always the truth," -- Barack Obama]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/7186-some-cause-happiness-wherever-they-go-others-whenever-they-go</guid>
+		<pubDate>Thu, 04 Jun 2009 22:58:24 -0700</pubDate>
+		<title>
+			<![CDATA[Geary add a quote by Oscar Wilde (attributed to)]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7186-some-cause-happiness-wherever-they-go-others-whenever-they-go]]>
+		</link>
+		<description>
+	    <![CDATA["Some cause happiness wherever they go; others whenever they go." -- Oscar Wilde (attributed to)]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/376026-kate]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/376026-kate" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 13 Oct 2013 18:40:52 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2279-being-deeply-loved-by-someone-gives-you-strength-while-loving</guid>
+		<pubDate>Sun, 13 Oct 2013 18:40:52 -0700</pubDate>
+		<title>
+			<![CDATA[Kate add a quote by Lao Tzu]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2279-being-deeply-loved-by-someone-gives-you-strength-while-loving]]>
+		</link>
+		<description>
+	    <![CDATA["Being deeply loved by someone gives you strength, while loving someone deeply gives you courage." -- Lao Tzu]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/7915-each-friend-represents-a-world-in-us-a-world-possibly</guid>
+		<pubDate>Sun, 13 Oct 2013 18:41:44 -0700</pubDate>
+		<title>
+			<![CDATA[Kate add a quote by Anais Nin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7915-each-friend-represents-a-world-in-us-a-world-possibly]]>
+		</link>
+		<description>
+	    <![CDATA["Each friend represents a world in us, a world possibly not born until they arrive, and it is only by this meeting that a new world is born." -- Anais Nin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/65612-music-melts-all-the-separate-parts-of-our-bodies-together</guid>
+		<pubDate>Sun, 13 Oct 2013 18:51:37 -0700</pubDate>
+		<title>
+			<![CDATA[Kate add a quote by Anais Nin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/65612-music-melts-all-the-separate-parts-of-our-bodies-together]]>
+		</link>
+		<description>
+	    <![CDATA["Music melts all the separate parts of our bodies together." -- Anais Nin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

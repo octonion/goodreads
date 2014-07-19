@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/969495-mary]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/969495-mary" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 05 Mar 2008 11:17:49 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/31241-any-human-face-is-a-claim-on-you-because-you</guid>
+		<pubDate>Wed, 05 Mar 2008 11:17:49 -0800</pubDate>
+		<title>
+			<![CDATA[Mary add a quote by Marilynne Robinson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/31241-any-human-face-is-a-claim-on-you-because-you]]>
+		</link>
+		<description>
+	    <![CDATA["Any human face is a claim on you, because you can't help but understand the singularity of it, the courage and loneliness of it. But this is truest of the face of an infant. I consider that to be one kind of vision, as mystical as any." -- Marilynne Robinson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

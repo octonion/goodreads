@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/822061-erlina-v]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/822061-erlina-v" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 16 Apr 2008 17:15:36 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/298-a-day-without-sunshine-is-like-you-know-night</guid>
+		<pubDate>Wed, 16 Apr 2008 17:15:36 -0700</pubDate>
+		<title>
+			<![CDATA[Erlina add a quote by Steve Martin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/298-a-day-without-sunshine-is-like-you-know-night]]>
+		</link>
+		<description>
+	    <![CDATA["A day without sunshine is like, you know, night." -- Steve Martin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1336-piglet-sidled-up-to-pooh-from-behind-pooh-he-whispered</guid>
+		<pubDate>Wed, 16 Apr 2008 17:19:25 -0700</pubDate>
+		<title>
+			<![CDATA[Erlina add a quote by A.A. Milne]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1336-piglet-sidled-up-to-pooh-from-behind-pooh-he-whispered]]>
+		</link>
+		<description>
+	    <![CDATA["Piglet sidled up to Pooh from behind. &quot;Pooh?&quot; he whispered.
+&quot;Yes, Piglet?&quot;
+&quot;Nothing,&quot; said Piglet, taking Pooh's hand. &quot;I just wanted to be sure of you." -- A.A. Milne]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3929-yesterday-is-history-tomorrow-is-a-mystery-today-is-a</guid>
+		<pubDate>Wed, 16 Apr 2008 17:20:15 -0700</pubDate>
+		<title>
+			<![CDATA[Erlina add a quote by Bill Keane]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3929-yesterday-is-history-tomorrow-is-a-mystery-today-is-a]]>
+		</link>
+		<description>
+	    <![CDATA["Yesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present." -- Bill Keane]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

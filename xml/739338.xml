@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/739338-amanda]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/739338-amanda" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 09 Mar 2008 12:03:54 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/33008-pride-is-a-wonderful-terrible-thing-a-seed-that-bears</guid>
+		<pubDate>Sun, 09 Mar 2008 12:03:54 -0700</pubDate>
+		<title>
+			<![CDATA[Amanda add a quote by James Hurst]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/33008-pride-is-a-wonderful-terrible-thing-a-seed-that-bears]]>
+		</link>
+		<description>
+	    <![CDATA["Pride is a wonderful terrible thing a seed that bears two vines life and death." -- James Hurst]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/79818-in-the-middle-of-the-journey-of-our-life-i</guid>
+		<pubDate>Sun, 09 Mar 2008 12:47:00 -0700</pubDate>
+		<title>
+			<![CDATA[Amanda add a quote by Dante Alighieri]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/79818-in-the-middle-of-the-journey-of-our-life-i]]>
+		</link>
+		<description>
+	    <![CDATA["In the middle of the journey of our life I found myself within a dark woods where the straight way was lost." -- Dante Alighieri]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/33020-all-hope-abandon-ye-who-enter-here</guid>
+		<pubDate>Sun, 09 Mar 2008 12:47:55 -0700</pubDate>
+		<title>
+			<![CDATA[Amanda add a quote by Dante Alighieri]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/33020-all-hope-abandon-ye-who-enter-here]]>
+		</link>
+		<description>
+	    <![CDATA["All hope abandon, ye who enter here!" -- Dante Alighieri]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

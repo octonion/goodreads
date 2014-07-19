@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/608954-brooke]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/608954-brooke" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 25 Jul 2010 00:43:14 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/23536-but-is-it-such-a-bad-thing-to-live-like</guid>
+		<pubDate>Sun, 25 Jul 2010 00:43:14 -0700</pubDate>
+		<title>
+			<![CDATA[Brooke add a quote by Elizabeth Gilbert]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/23536-but-is-it-such-a-bad-thing-to-live-like]]>
+		</link>
+		<description>
+	    <![CDATA["But is it such a bad thing to live like this for just a little while? Just for a few months of one's life, is it so awful to travel through time with no greater ambition than to find the next lovely meal? Or to learn how to speak a language for no higher purpose than that it pleases your ear to hear it? Or to nap in a garden, in a patch of sunlight, in the middle of the day, right next to your favourite fountain? And then to do it again the next day?" -- Elizabeth Gilbert]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/10837-happiness-is-the-consequence-of-personal-effort-you-fight-for</guid>
+		<pubDate>Sun, 25 Jul 2010 00:43:35 -0700</pubDate>
+		<title>
+			<![CDATA[Brooke add a quote by Elizabeth Gilbert]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10837-happiness-is-the-consequence-of-personal-effort-you-fight-for]]>
+		</link>
+		<description>
+	    <![CDATA["Happiness is the consequence of personal effort.  You fight for it, strive for it, insist upon it, and sometimes even travel around the world looking for it.  You have to participate relentlessly in the manifestations of your own blessings.  And once you have achieved a state of happiness, you must never become lax about maintaining it.  You must make a mighty effort to keep swimming upward into that happiness forever, to stay afloat on top of it." -- Elizabeth Gilbert]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

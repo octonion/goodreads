@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/408-bettina]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/408-bettina" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 25 Nov 2013 18:40:39 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/151638-secrets-funny-how-when-you-re-about-to-be-given-something</guid>
+		<pubDate>Mon, 25 Nov 2013 18:40:39 -0800</pubDate>
+		<title>
+			<![CDATA[bettina add a quote by Aidan Chambers]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/151638-secrets-funny-how-when-you-re-about-to-be-given-something]]>
+		</link>
+		<description>
+	    <![CDATA["Secrets. Funny how, when you're about to be given something precious, something you've wanted for a long time, you suddenly feel nervous over taking it.
+Everyone wants more than anything to be allowed into someone else's most secret self. Everyone wants to allow someone into their most secret self. Everyone feels so alone inside that their deepest wish is for someone to know their secret being, because then they are alone no longer. Don't we all long for this? Yet when it's offered it's frightening, because you might not live up to the desires of the one who bestows the gift. And frightening because you know that accepting such a gift means you'll want-perhaps be expected- to offer a similar gift in return. Which means giving your *self* away. And what's more frightening than that?" -- Aidan Chambers]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

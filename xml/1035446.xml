@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1035446-mt]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1035446-mt" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 02 Oct 2012 20:58:39 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/19338-fools-talk-cowards-are-silent-wise-men-listen</guid>
+		<pubDate>Tue, 02 Oct 2012 20:58:39 -0700</pubDate>
+		<title>
+			<![CDATA[mt add a quote by Carlos Ruiz Zafon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/19338-fools-talk-cowards-are-silent-wise-men-listen]]>
+		</link>
+		<description>
+	    <![CDATA["Fools talk, cowards are silent, wise men listen." -- Carlos Ruiz Zafon]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/17687-i-don-t-believe-in-charity-i-believe-in-solidarity-charity</guid>
+		<pubDate>Tue, 02 Oct 2012 21:13:00 -0700</pubDate>
+		<title>
+			<![CDATA[mt add a quote by Eduardo Galeano]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17687-i-don-t-believe-in-charity-i-believe-in-solidarity-charity]]>
+		</link>
+		<description>
+	    <![CDATA["I don't believe in charity. I believe in solidarity. Charity is so vertical. It goes from the top to the bottom. Solidarity is horizontal. It respects the other person. I have a lot to learn from other people." -- Eduardo Galeano]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

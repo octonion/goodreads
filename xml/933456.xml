@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/933456-jessica]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/933456-jessica" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 22 Feb 2008 11:22:45 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5797-the-person-be-it-gentleman-or-lady-who-has-not</guid>
+		<pubDate>Fri, 22 Feb 2008 11:22:45 -0800</pubDate>
+		<title>
+			<![CDATA[Jessica add a quote by Jane Austen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5797-the-person-be-it-gentleman-or-lady-who-has-not]]>
+		</link>
+		<description>
+	    <![CDATA["The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid." -- Jane Austen]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1985-i-never-understood-why-clark-kent-was-so-hell-bent</guid>
+		<pubDate>Mon, 25 Feb 2008 22:38:06 -0800</pubDate>
+		<title>
+			<![CDATA[Jessica add a quote by Audrey Niffenegger]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1985-i-never-understood-why-clark-kent-was-so-hell-bent]]>
+		</link>
+		<description>
+	    <![CDATA["I never understood why Clark Kent was so hell bent on keeping Lois Lane in the dark." -- Audrey Niffenegger]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/7737-do-what-you-feel-in-your-heart-to-be-right</guid>
+		<pubDate>Wed, 04 Jun 2014 21:32:01 -0700</pubDate>
+		<title>
+			<![CDATA[Jessica add a quote by Eleanor Roosevelt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7737-do-what-you-feel-in-your-heart-to-be-right]]>
+		</link>
+		<description>
+	    <![CDATA["Do what you feel in your heart to be right – for you’ll be criticized anyway." -- Eleanor Roosevelt]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/11035-no-one-can-make-you-feel-inferior-without-your-consent</guid>
+		<pubDate>Wed, 04 Jun 2014 21:32:02 -0700</pubDate>
+		<title>
+			<![CDATA[Jessica add a quote by Eleanor Roosevelt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11035-no-one-can-make-you-feel-inferior-without-your-consent]]>
+		</link>
+		<description>
+	    <![CDATA["No one can make you feel inferior without your consent." -- Eleanor Roosevelt]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

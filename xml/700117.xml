@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/700117-david-clearwood]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/700117-david-clearwood" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 19 Dec 2007 19:41:34 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6532-of-all-the-wonders-that-i-have-heard-it-seems</guid>
+		<pubDate>Wed, 19 Dec 2007 19:41:34 -0800</pubDate>
+		<title>
+			<![CDATA[David add a quote by William Shakespeare]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6532-of-all-the-wonders-that-i-have-heard-it-seems]]>
+		</link>
+		<description>
+	    <![CDATA["Of all the wonders that I have heard,
+It seems to me most strange that men should fear;
+Seeing death, a necessary end,
+Will come when it will come.
+(Act II, Scene 2)" -- William Shakespeare]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

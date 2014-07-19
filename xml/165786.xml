@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/165786-jalu-wardhana]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/165786-jalu-wardhana" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 12 Jul 2010 19:38:43 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/783-what-is-love-i-have-met-in-the-streets-a</guid>
+		<pubDate>Mon, 12 Jul 2010 19:38:43 -0700</pubDate>
+		<title>
+			<![CDATA[Jalu add a quote by Victor Hugo ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/783-what-is-love-i-have-met-in-the-streets-a]]>
+		</link>
+		<description>
+	    <![CDATA["What Is Love? I have met in the streets a very poor young man who was in love. His hat was old, his coat worn, the water passed through his shoes and the stars through his soul" -- Victor Hugo ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1173-don-t-cry-because-it-s-over-smile-because-it-happened</guid>
+		<pubDate>Fri, 15 Mar 2013 22:05:09 -0700</pubDate>
+		<title>
+			<![CDATA[Jalu add a quote by Dr. Seuss ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1173-don-t-cry-because-it-s-over-smile-because-it-happened]]>
+		</link>
+		<description>
+	    <![CDATA["Don't cry because it's over, smile because it happened." -- Dr. Seuss ]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

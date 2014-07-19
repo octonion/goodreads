@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/906796-jon-reilly]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/906796-jon-reilly" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 17 Feb 2013 12:12:57 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/31895-one-morning-i-shot-an-elephant-in-my-pajamas-how</guid>
+		<pubDate>Sun, 17 Feb 2013 12:12:57 -0800</pubDate>
+		<title>
+			<![CDATA[Jon add a quote by Groucho Marx]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/31895-one-morning-i-shot-an-elephant-in-my-pajamas-how]]>
+		</link>
+		<description>
+	    <![CDATA["One morning I shot an elephant in my pajamas.  How he got in my pajamas I'll never know." -- Groucho Marx]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

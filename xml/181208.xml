@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/181208-leoni-hofmeyr]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/181208-leoni-hofmeyr" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 06 Mar 2008 00:03:33 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/7313-what-you-risk-reveals-what-you-value</guid>
+		<pubDate>Thu, 06 Mar 2008 00:03:33 -0800</pubDate>
+		<title>
+			<![CDATA[Leoni add a quote by Jeanette Winterson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7313-what-you-risk-reveals-what-you-value]]>
+		</link>
+		<description>
+	    <![CDATA["What you risk reveals what you value." -- Jeanette Winterson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/31472-we-may-avoid-shame-if-we-choose-for-shame-seldom</guid>
+		<pubDate>Thu, 06 Mar 2008 00:05:51 -0800</pubDate>
+		<title>
+			<![CDATA[Leoni add a quote by Rose Tremain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/31472-we-may-avoid-shame-if-we-choose-for-shame-seldom]]>
+		</link>
+		<description>
+	    <![CDATA["We may avoid shame if we choose, for shame seldom takes us unawares but has its warning cry, and we can hear that cry as clearly as we can hear the coming of the north wind... The man lying in the mud hadn't heard the coming of the north wind." -- Rose Tremain]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

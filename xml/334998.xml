@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/334998-tricia]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/334998-tricia" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 May 2012 23:12:47 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/289668-you-love-me-he-said-that-s-all-i-need-to</guid>
+		<pubDate>Tue, 01 May 2012 23:12:47 -0700</pubDate>
+		<title>
+			<![CDATA[Tricia add a quote by Suzanne Brockmann]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/289668-you-love-me-he-said-that-s-all-i-need-to]]>
+		</link>
+		<description>
+	    <![CDATA["You love me,” he said. “That’s all I need to know.” 
+“You always say the right thing,” Savannah told him, her eyes so filled with love that he almost wept. “Sometimes it takes you awhile to get to it, but you always get there, and what you say is always worth waiting for." -- Suzanne Brockmann]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

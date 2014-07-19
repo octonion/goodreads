@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/571707-shauna]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/571707-shauna" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 02 May 2008 01:37:56 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/865-be-who-you-are-and-say-what-you-feel-because</guid>
+		<pubDate>Fri, 02 May 2008 01:37:56 -0700</pubDate>
+		<title>
+			<![CDATA[Shauna add a quote by Bernard M. Baruch]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/865-be-who-you-are-and-say-what-you-feel-because]]>
+		</link>
+		<description>
+	    <![CDATA["Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind." -- Bernard M. Baruch]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/146542-i-think-one-remains-the-same-person-throughout-merely-passing</guid>
+		<pubDate>Wed, 11 Mar 2009 05:50:19 -0700</pubDate>
+		<title>
+			<![CDATA[Shauna add a quote by J.M. Barrie]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/146542-i-think-one-remains-the-same-person-throughout-merely-passing]]>
+		</link>
+		<description>
+	    <![CDATA["I think one remains the same person throughout, merely passing, as it were, i these lapses of time from one room to another, but all in the same house." -- J.M. Barrie]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

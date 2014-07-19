@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/839671-marti]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/839671-marti" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 18 Jul 2008 19:27:09 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/25-we-are-all-in-the-gutter-but-some-of-us</guid>
+		<pubDate>Fri, 18 Jul 2008 19:27:09 -0700</pubDate>
+		<title>
+			<![CDATA[Marti add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/25-we-are-all-in-the-gutter-but-some-of-us]]>
+		</link>
+		<description>
+	    <![CDATA["We are all in the gutter, but some of us are looking at the stars." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/358562-the-worst-enemy-to-creativity-is-self-doubt</guid>
+		<pubDate>Thu, 15 Nov 2012 11:47:22 -0800</pubDate>
+		<title>
+			<![CDATA[Marti add a quote by Sylvia Plath]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/358562-the-worst-enemy-to-creativity-is-self-doubt]]>
+		</link>
+		<description>
+	    <![CDATA["The worst enemy to creativity is self-doubt." -- Sylvia Plath]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/48508-few-tasks-are-more-like-the-torture-of-sisyphus-than</guid>
+		<pubDate>Tue, 20 Nov 2012 17:20:31 -0800</pubDate>
+		<title>
+			<![CDATA[Marti add a quote by Simone de Beauvoir]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/48508-few-tasks-are-more-like-the-torture-of-sisyphus-than]]>
+		</link>
+		<description>
+	    <![CDATA["Few tasks are more like the torture of Sisyphus than housework, with its endless repetition: the clean becomes soiled, the soiled is made clean, over and over, day after day." -- Simone de Beauvoir]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

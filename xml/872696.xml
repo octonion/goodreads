@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/872696-jill]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/872696-jill" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Aug 2009 08:19:02 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3570-for-harry-potter-i-have-all-the-time-in-the</guid>
+		<pubDate>Tue, 11 Aug 2009 08:19:02 -0700</pubDate>
+		<title>
+			<![CDATA[Jill add a quote by Philippa Gregory]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3570-for-harry-potter-i-have-all-the-time-in-the]]>
+		</link>
+		<description>
+	    <![CDATA["For Harry Potter I have all the time in the world." -- Philippa Gregory]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/817534-i-wanted-a-perfect-ending-now-i-ve-learned-the-hard</guid>
+		<pubDate>Fri, 28 Jun 2013 08:30:54 -0700</pubDate>
+		<title>
+			<![CDATA[Jill add a quote by Gilda Radner]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/817534-i-wanted-a-perfect-ending-now-i-ve-learned-the-hard]]>
+		</link>
+		<description>
+	    <![CDATA["I wanted a perfect ending. Now I've learned, the hard way, that some poems don't rhyme, and some stories don't have a clear beginning, middle, and end." -- Gilda Radner]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

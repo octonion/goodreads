@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/513201-jessica]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/513201-jessica" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 07 Apr 2012 07:54:16 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/451233-if-you-wanted-to-create-an-education-environment-that-was</guid>
+		<pubDate>Sat, 07 Apr 2012 07:54:16 -0700</pubDate>
+		<title>
+			<![CDATA[Jessica add a quote by John Medina]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/451233-if-you-wanted-to-create-an-education-environment-that-was]]>
+		</link>
+		<description>
+	    <![CDATA["If you wanted to create an education environment that was directly opposed to what the brain was good at doing, you probably would design something like a classroom. If you wanted to create a business environment that was directly opposed to what the brain was good at doing, you probably would design something like a cubicle. And if you wanted to change things, you might have to tear down both and start over." -- John Medina]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/268327-we-do-children-an-enormous-disservice-when-we-assume-that</guid>
+		<pubDate>Sat, 07 Apr 2012 07:55:39 -0700</pubDate>
+		<title>
+			<![CDATA[Jessica add a quote by Victoria Moran]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/268327-we-do-children-an-enormous-disservice-when-we-assume-that]]>
+		</link>
+		<description>
+	    <![CDATA["We do children an enormous disservice when we assume that they cannot appreciate anything beyond drive through fare and nutritionally marginal, kid-targeted convenience foods.  Our children are capable of consuming something that grew in a garden or on a tree and never saw a deep fryer.  They are capable of making it through diner at a sit-down restaurant with tablecloths and no climbing equipment.  Children deserve quality nourishment." -- Victoria Moran]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

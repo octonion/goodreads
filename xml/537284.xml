@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/537284-joel]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/537284-joel" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 22 Oct 2013 12:44:30 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/920323-you-discovered-yourself-and-what-really-mattered-only-after-you</guid>
+		<pubDate>Tue, 22 Oct 2013 12:44:30 -0700</pubDate>
+		<title>
+			<![CDATA[Joel add a quote by Jonathan Lethem]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/920323-you-discovered-yourself-and-what-really-mattered-only-after-you]]>
+		</link>
+		<description>
+	    <![CDATA["You discovered yourself and what really mattered only after you passed through the lens of the fairy tale, imposed on every human female and male alike, that someone existed out in the forest of the world for you to love and marry." -- Jonathan Lethem]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1003107-dead-people-need-us-to-remember-them-even-if</guid>
+		<pubDate>Sat, 18 Jan 2014 18:14:35 -0800</pubDate>
+		<title>
+			<![CDATA[Joel add a quote by Audrey Niffenegger]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1003107-dead-people-need-us-to-remember-them-even-if]]>
+		</link>
+		<description>
+	    <![CDATA["… dead people need us to remember them, even if it eats us, even if all we can do is say &lt;i&gt;I'm sorry&lt;/i&gt; until it is as meaningless as air." -- Audrey Niffenegger]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

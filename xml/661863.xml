@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/661863-aa]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/661863-aa" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 28 Apr 2009 12:50:50 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/63380-miss-jenkyns-wore-a-cravat-and-a-little-bonnet-like</guid>
+		<pubDate>Tue, 28 Apr 2009 12:50:50 -0700</pubDate>
+		<title>
+			<![CDATA[AA add a quote by Elisabeth Gaskell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/63380-miss-jenkyns-wore-a-cravat-and-a-little-bonnet-like]]>
+		</link>
+		<description>
+	    <![CDATA["Miss Jenkyns wore a cravat, and a little bonnet like a jockey-cap, and altogether had the appearance of a strong-minded woman; although she would have despised the modern idea of women being equal to men. Equal, indeed! she knew they were superior." -- Elisabeth Gaskell]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/192202-i-think-i-just-had-an-evilgasm</guid>
+		<pubDate>Mon, 11 Feb 2013 14:23:13 -0800</pubDate>
+		<title>
+			<![CDATA[AA add a quote by Rich Burlew]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/192202-i-think-i-just-had-an-evilgasm]]>
+		</link>
+		<description>
+	    <![CDATA["I think I just had an evilgasm." -- Rich Burlew]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

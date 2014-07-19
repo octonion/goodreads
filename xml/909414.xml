@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/909414-kat]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/909414-kat" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 15 Feb 2008 22:07:32 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4093-the-most-beautiful-experience-we-can-have-is-the-mysterious</guid>
+		<pubDate>Fri, 15 Feb 2008 22:07:32 -0800</pubDate>
+		<title>
+			<![CDATA[Kat add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4093-the-most-beautiful-experience-we-can-have-is-the-mysterious]]>
+		</link>
+		<description>
+	    <![CDATA["The most beautiful experience we can have is the mysterious - the fundamental emotion which stands at the cradle of true art and true science." -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/105553-however-contradictory-the-coroner-s-report-whether-he-pronounces-consumption</guid>
+		<pubDate>Fri, 15 Feb 2008 22:12:06 -0800</pubDate>
+		<title>
+			<![CDATA[Kat add a quote by J.D. Salinger]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/105553-however-contradictory-the-coroner-s-report-whether-he-pronounces-consumption]]>
+		</link>
+		<description>
+	    <![CDATA["However contradictory the coroner's report — whether he pronounces Consumption or Loneliness or Suicide to be the cause of death — isn't it plain how the true artist-seer actually dies? I say that the true artist-seer, the heavenly fool who can and does produce beauty, is mainly dazzled to death by his own scruples, the blinding shapes and colors of his own sacred human conscience." -- J.D. Salinger]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

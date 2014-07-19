@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/810251-sampriti]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/810251-sampriti" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 20 Aug 2013 13:54:41 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/16736-they-were-things-for-which-it-was-impossible-to-prepare</guid>
+		<pubDate>Tue, 20 Aug 2013 13:54:41 -0700</pubDate>
+		<title>
+			<![CDATA[Sampriti add a quote by Jhumpa Lahiri]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16736-they-were-things-for-which-it-was-impossible-to-prepare]]>
+		</link>
+		<description>
+	    <![CDATA["They were things for which it was impossible to prepare but which one spent a lifetime looking back at, trying to accept, interpret, comprehend. Things that should never have happened, that seemed out of place and wrong, these were what prevailed, what endured, in the end." -- Jhumpa Lahiri]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

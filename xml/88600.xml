@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/88600-amy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/88600-amy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 02 Dec 2008 21:38:03 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/11257-we-laugh-and-laugh-and-nothing-can-ever-be-sad</guid>
+		<pubDate>Tue, 02 Dec 2008 21:38:03 -0800</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Audrey Niffenegger]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11257-we-laugh-and-laugh-and-nothing-can-ever-be-sad]]>
+		</link>
+		<description>
+	    <![CDATA["We laugh and laugh, and nothing can ever be sad, no one can be lost, or dead, or far away:  right now we are here, and nothing can mar our perfection, or steal the joy of this perfect moment." -- Audrey Niffenegger]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

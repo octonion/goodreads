@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/98119-n]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/98119-n" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 14 Nov 2011 14:56:01 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/315932-once-a-little-boy-sent-me-a-charming-card-with</guid>
+		<pubDate>Mon, 14 Nov 2011 14:56:01 -0800</pubDate>
+		<title>
+			<![CDATA[N. add a quote by Maurice Sendak]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/315932-once-a-little-boy-sent-me-a-charming-card-with]]>
+		</link>
+		<description>
+	    <![CDATA["Once a little boy sent me a charming card with a little drawing on it. I loved it. I answer all my children’s letters — sometimes very hastily — but this one I lingered over. I sent him a card and I drew a picture of a Wild Thing on it. I wrote, “Dear Jim: I loved your card.” Then I got a letter back from his mother and she said, “Jim loved your card so much he ate it.” That to me was one of the highest compliments I’ve ever received. He didn’t care that it was an original Maurice Sendak drawing or anything. He saw it, he loved it, he ate it." -- Maurice Sendak]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

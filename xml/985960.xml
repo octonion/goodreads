@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/985960-alena-davis]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/985960-alena-davis" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 22 Dec 2013 18:53:52 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/639321-can-i-be-blamed-for-wanting-a-real-body-to</guid>
+		<pubDate>Sun, 22 Dec 2013 18:53:52 -0800</pubDate>
+		<title>
+			<![CDATA[Alena add a quote by Margaret Atwood]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/639321-can-i-be-blamed-for-wanting-a-real-body-to]]>
+		</link>
+		<description>
+	    <![CDATA["Can I be blamed for wanting a real body, to put my arms around? Without it I too am disembodied. I can listen to my own heartbeat against the bedsprings...but there’s something dead about it, something deserted." -- Margaret Atwood]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/8745-beauty-is-how-you-feel-inside-and-it-reflects-in</guid>
+		<pubDate>Wed, 14 May 2014 11:30:10 -0700</pubDate>
+		<title>
+			<![CDATA[Alena add a quote by Sophia Loren]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8745-beauty-is-how-you-feel-inside-and-it-reflects-in]]>
+		</link>
+		<description>
+	    <![CDATA["Beauty is how you feel inside, and it reflects in your eyes. It is not something physical." -- Sophia Loren]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

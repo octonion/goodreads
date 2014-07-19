@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/238289-phil]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/238289-phil" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 02 Dec 2008 11:33:35 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/9985-the-difference-between-stupid-and-intelligent-people-and-this</guid>
+		<pubDate>Tue, 02 Dec 2008 11:33:35 -0800</pubDate>
+		<title>
+			<![CDATA[Phil add a quote by Neal Stephenson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9985-the-difference-between-stupid-and-intelligent-people-and-this]]>
+		</link>
+		<description>
+	    <![CDATA["The difference between stupid and intelligent people – and this is true whether or not they are well-educated – is that intelligent people can handle subtlety. " -- Neal Stephenson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/121650-the-buddha-the-godhead-resides-quite-as-comfortably-in-the</guid>
+		<pubDate>Sun, 28 Dec 2008 15:45:23 -0800</pubDate>
+		<title>
+			<![CDATA[Phil add a quote by Robert M. Pirsig]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/121650-the-buddha-the-godhead-resides-quite-as-comfortably-in-the]]>
+		</link>
+		<description>
+	    <![CDATA["The Buddha, the Godhead, resides quite as comfortably in the circuits of a digital computer or the gears of a cycle transmission as he does at the top of the mountain, or in the petals of a flower. To think otherwise is to demean the Buddha - which is to demean oneself." -- Robert M. Pirsig]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

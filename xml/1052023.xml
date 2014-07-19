@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1052023-angie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1052023-angie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 10 Sep 2008 14:20:03 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/54-don-t-walk-behind-me-i-may-not-lead-don-t-walk</guid>
+		<pubDate>Wed, 10 Sep 2008 14:20:03 -0700</pubDate>
+		<title>
+			<![CDATA[Angie add a quote by Albert Camus]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/54-don-t-walk-behind-me-i-may-not-lead-don-t-walk]]>
+		</link>
+		<description>
+	    <![CDATA["Don't walk behind me; I may not lead. Don't walk in front of me; I may not follow. Just walk beside me and be my friend." -- Albert Camus]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/24556-a-bad-past-is-like-gristle-you-can-chew-on</guid>
+		<pubDate>Wed, 10 Sep 2008 14:21:13 -0700</pubDate>
+		<title>
+			<![CDATA[Angie add a quote by Lisa Wingate]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/24556-a-bad-past-is-like-gristle-you-can-chew-on]]>
+		</link>
+		<description>
+	    <![CDATA["A bad past is like gristle.  You can chew on it forever and starve yourself to death, or you can spit it out and see what else is on the table." -- Lisa Wingate]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/865-be-who-you-are-and-say-what-you-feel-because</guid>
+		<pubDate>Wed, 10 Sep 2008 14:22:14 -0700</pubDate>
+		<title>
+			<![CDATA[Angie add a quote by Bernard M. Baruch]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/865-be-who-you-are-and-say-what-you-feel-because]]>
+		</link>
+		<description>
+	    <![CDATA["Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind." -- Bernard M. Baruch]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

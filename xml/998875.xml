@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/998875-patricia-s]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/998875-patricia-s" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 24 May 2009 08:22:52 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/51975-tip-the-world-over-on-its-side-and-everything-loose</guid>
+		<pubDate>Sun, 24 May 2009 08:22:52 -0700</pubDate>
+		<title>
+			<![CDATA[Patricia add a quote by Frank Lloyd Wright]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/51975-tip-the-world-over-on-its-side-and-everything-loose]]>
+		</link>
+		<description>
+	    <![CDATA["Tip the world over on its side and everything loose will land in Los Angeles." -- Frank Lloyd Wright]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/163962-strong-convictions-precede-great-actions</guid>
+		<pubDate>Sun, 24 May 2009 08:24:37 -0700</pubDate>
+		<title>
+			<![CDATA[Patricia add a quote by Louisa May Alcott]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/163962-strong-convictions-precede-great-actions]]>
+		</link>
+		<description>
+	    <![CDATA["Strong convictions precede great actions." -- Louisa May Alcott]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/127412-no-matter-how-hard-the-loss-defeat-might-serve-as</guid>
+		<pubDate>Sun, 24 May 2009 08:25:24 -0700</pubDate>
+		<title>
+			<![CDATA[Patricia add a quote by Al Gore]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/127412-no-matter-how-hard-the-loss-defeat-might-serve-as]]>
+		</link>
+		<description>
+	    <![CDATA["No matter how hard the loss, defeat might serve as well as victory to shake the soul and let the glory out." -- Al Gore]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

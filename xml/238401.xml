@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/238401-lillibet-moore]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/238401-lillibet-moore" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 03 Dec 2011 15:00:56 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/38387-only-when-he-no-longer-knows-what-he-is-doing</guid>
+		<pubDate>Sat, 03 Dec 2011 15:00:56 -0800</pubDate>
+		<title>
+			<![CDATA[Lillibet add a quote by Edgar Degas]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/38387-only-when-he-no-longer-knows-what-he-is-doing]]>
+		</link>
+		<description>
+	    <![CDATA["Only when he no longer knows what he is doing does the painter do good things." -- Edgar Degas]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/22884-we-are-not-to-simply-bandage-the-wounds-of-victims</guid>
+		<pubDate>Wed, 25 Sep 2013 12:14:28 -0700</pubDate>
+		<title>
+			<![CDATA[Lillibet add a quote by Dietrich Bonhoeffer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22884-we-are-not-to-simply-bandage-the-wounds-of-victims]]>
+		</link>
+		<description>
+	    <![CDATA["We are not to simply bandage the wounds of victims beneath the wheels of injustice, we are to drive a spoke into the wheel itself." -- Dietrich Bonhoeffer]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/764-a-room-without-books-is-like-a-body-without-a</guid>
+		<pubDate>Wed, 25 Sep 2013 12:14:31 -0700</pubDate>
+		<title>
+			<![CDATA[Lillibet add a quote by Marcus Tullius Cicero]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/764-a-room-without-books-is-like-a-body-without-a]]>
+		</link>
+		<description>
+	    <![CDATA["A room without books is like a body without a soul." -- Marcus Tullius Cicero]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

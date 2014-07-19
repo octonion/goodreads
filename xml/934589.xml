@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/934589-jack-beltane]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/934589-jack-beltane" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 22 Feb 2008 17:38:47 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/27557-life-must-be-rich-and-full-of-loving--it-s-no-good</guid>
+		<pubDate>Fri, 22 Feb 2008 17:38:47 -0800</pubDate>
+		<title>
+			<![CDATA[Jack add a quote by Jack Kerouac]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/27557-life-must-be-rich-and-full-of-loving--it-s-no-good]]>
+		</link>
+		<description>
+	    <![CDATA["Life must be rich and full of loving--it's no good otherwise, no good at all, for anyone." -- Jack Kerouac]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1024456-simply-telling-the-truth-wasn-t-half-enough-it-still-has</guid>
+		<pubDate>Tue, 04 Feb 2014 16:53:53 -0800</pubDate>
+		<title>
+			<![CDATA[Jack add a quote by John Clellon Holmes]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1024456-simply-telling-the-truth-wasn-t-half-enough-it-still-has]]>
+		</link>
+		<description>
+	    <![CDATA["...simply telling the truth wasn’t half enough. It still has to be brought to fictional life." -- John Clellon Holmes]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1024458-most-people-who-deal-in-words-don-t-have-much-faith</guid>
+		<pubDate>Tue, 04 Feb 2014 16:57:05 -0800</pubDate>
+		<title>
+			<![CDATA[Jack add a quote by Hunter S. Thompson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1024458-most-people-who-deal-in-words-don-t-have-much-faith]]>
+		</link>
+		<description>
+	    <![CDATA["Most people who deal in words don't have much faith in them and I am no exception." -- Hunter S. Thompson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

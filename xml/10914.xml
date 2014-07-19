@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/10914-maryam-tara]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/10914-maryam-tara" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 08 Jan 2014 00:13:21 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/897507-the-strength-was-always-in-you-all-you-had-to</guid>
+		<pubDate>Wed, 08 Jan 2014 00:13:21 -0800</pubDate>
+		<title>
+			<![CDATA[maryam add a quote by Katherine Givens]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/897507-the-strength-was-always-in-you-all-you-had-to]]>
+		</link>
+		<description>
+	    <![CDATA["The strength was always in you. All you had to do was find it." -- Katherine Givens]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

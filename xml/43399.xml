@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/43399-rosie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/43399-rosie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 18 Jul 2012 13:48:21 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/359928-so-when-you-find-yourself-locked-onto-an-unpleasant-train</guid>
+		<pubDate>Wed, 18 Jul 2012 13:48:21 -0700</pubDate>
+		<title>
+			<![CDATA[Rosie add a quote by Alan Moore]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/359928-so-when-you-find-yourself-locked-onto-an-unpleasant-train]]>
+		</link>
+		<description>
+	    <![CDATA["So when you find yourself locked onto an unpleasant train of thought, heading for the places in your past where the screaming is unbearable, remember there's always madness.  Madness is the emergency exit." -- Alan Moore]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/238616-the-thoughts-written-on-the-walls-of-madhouses-by-their</guid>
+		<pubDate>Wed, 18 Jul 2012 13:48:38 -0700</pubDate>
+		<title>
+			<![CDATA[Rosie add a quote by Georg Christoph Lichtenberg ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/238616-the-thoughts-written-on-the-walls-of-madhouses-by-their]]>
+		</link>
+		<description>
+	    <![CDATA["The thoughts written on the walls of madhouses by their inmates might be worth publicizing." -- Georg Christoph Lichtenberg ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/382355-a-great-many-men-are-mad-and-no-one-knows</guid>
+		<pubDate>Wed, 18 Jul 2012 14:45:54 -0700</pubDate>
+		<title>
+			<![CDATA[Rosie add a quote by Agatha Christie]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/382355-a-great-many-men-are-mad-and-no-one-knows]]>
+		</link>
+		<description>
+	    <![CDATA["A great many men are mad, and no one knows it. They do not know it themselves" -- Agatha Christie]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/810461-cheryl-jensen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/810461-cheryl-jensen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 27 Apr 2014 11:57:13 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/207436-what-i-am-suggesting-is-that-each-of-us-turn</guid>
+		<pubDate>Sun, 27 Apr 2014 11:57:13 -0700</pubDate>
+		<title>
+			<![CDATA[Cheryl add a quote by Gordon B. Hinckley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/207436-what-i-am-suggesting-is-that-each-of-us-turn]]>
+		</link>
+		<description>
+	    <![CDATA["What I am suggesting is that each of us turn from the negativism that permeates our society and look for the remarkable good among those with whom we associate, that we speak of one another’s virtues more than we speak of one another’s faults, that optimism replace pessimism, that our faith exceed our fears. When I was a young man and was prone to speak critically, my father would say: “Cynics do not contribute, skeptics do not create, doubters do not achieve." -- Gordon B. Hinckley]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

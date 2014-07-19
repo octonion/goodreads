@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/850549-nancy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/850549-nancy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jan 2011 21:11:16 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/330867-it-s-such-a-colossal-effort-not-to-be-haunted-by</guid>
+		<pubDate>Tue, 11 Jan 2011 21:11:16 -0800</pubDate>
+		<title>
+			<![CDATA[Nancy add a quote by Jandy Nelson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/330867-it-s-such-a-colossal-effort-not-to-be-haunted-by]]>
+		</link>
+		<description>
+	    <![CDATA["It's such a colossal effort not to be haunted by what's lost, but to be enchanted by what was." -- Jandy Nelson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/835603-how-would-you-like-your-eggs-i-tried-i-really</guid>
+		<pubDate>Fri, 19 Jul 2013 13:41:14 -0700</pubDate>
+		<title>
+			<![CDATA[Nancy add a quote by Darynda Jones]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/835603-how-would-you-like-your-eggs-i-tried-i-really]]>
+		</link>
+		<description>
+	    <![CDATA["How would you like your eggs?&quot;
+
+I tried.  I really did.  But I glanced at his crotch and it came out anyway.  &quot;Fertilized?" -- Darynda Jones]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/701000-time-is-the-coin-of-your-life-you-spend-it</guid>
+		<pubDate>Mon, 30 Jun 2014 05:40:34 -0700</pubDate>
+		<title>
+			<![CDATA[Nancy add a quote by Carl Sandburg]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/701000-time-is-the-coin-of-your-life-you-spend-it]]>
+		</link>
+		<description>
+	    <![CDATA["Time is the coin of your life. You spend it. Do not allow others to spend it for you." -- Carl Sandburg]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

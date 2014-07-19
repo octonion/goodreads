@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/677751-ian]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/677751-ian" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 18 Dec 2007 23:26:31 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6332-that-s-it-for-me-i-m-fucked-as-per-usual-always</guid>
+		<pubDate>Tue, 18 Dec 2007 23:26:31 -0800</pubDate>
+		<title>
+			<![CDATA[Ian add a quote by George Saunders]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6332-that-s-it-for-me-i-m-fucked-as-per-usual-always]]>
+		</link>
+		<description>
+	    <![CDATA["That's it for me. I'm fucked. As per usual. Always the bridesmaid, never the bride. Although come to think of it I was never even the freaking bridesmaid. Look, show your cock. It's the shortest line between two points. The world ain't giving away nice lives. You got a trust fund? You a genius? Show your cock. It's what you got." -- George Saunders]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6728-and-you-you-ridiculous-people-you-expect-me-to-help</guid>
+		<pubDate>Thu, 20 Dec 2007 19:50:33 -0800</pubDate>
+		<title>
+			<![CDATA[Ian add a quote by Denis Johnson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6728-and-you-you-ridiculous-people-you-expect-me-to-help]]>
+		</link>
+		<description>
+	    <![CDATA["And you, you ridiculous people, you expect me to help you." -- Denis Johnson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

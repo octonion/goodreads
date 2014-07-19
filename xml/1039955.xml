@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1039955-rita]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1039955-rita" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 29 Apr 2008 16:29:57 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/49707-my-dear-sister-i-m-amazed-to-discover-that-you-can</guid>
+		<pubDate>Tue, 29 Apr 2008 16:29:57 -0700</pubDate>
+		<title>
+			<![CDATA[Rita add a quote by Wolfgang Amadeus Mozart]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/49707-my-dear-sister-i-m-amazed-to-discover-that-you-can]]>
+		</link>
+		<description>
+	    <![CDATA["My dear sister! I’m amazed to discover that you can compose so delightfully. In a word, your Lied is beautiful. You must compose more often." -- Wolfgang Amadeus Mozart]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/49752-the-music-is-not-in-the-notes-but-in-the</guid>
+		<pubDate>Sat, 17 May 2008 13:57:03 -0700</pubDate>
+		<title>
+			<![CDATA[Rita add a quote by Wolfgang Amadeus Mozart]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/49752-the-music-is-not-in-the-notes-but-in-the]]>
+		</link>
+		<description>
+	    <![CDATA["The music is not in the notes,
+but in the silence between." -- Wolfgang Amadeus Mozart]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

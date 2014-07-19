@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/910940-don]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/910940-don" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 17 Mar 2008 07:55:04 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/56262-if-i-repent-of-anything-it-is-very-likely-to</guid>
+		<pubDate>Mon, 17 Mar 2008 07:55:04 -0700</pubDate>
+		<title>
+			<![CDATA[Don add a quote by henry david thoreau]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/56262-if-i-repent-of-anything-it-is-very-likely-to]]>
+		</link>
+		<description>
+	    <![CDATA["if i repent of anything, it is very likely to be my good behavior.  what demon possessed me that i behaved so well?" -- henry david thoreau]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/35532-if-by-some-fiat-i-had-to-restrict-all-this</guid>
+		<pubDate>Mon, 17 Mar 2008 08:04:32 -0700</pubDate>
+		<title>
+			<![CDATA[Don add a quote by John McPhee]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/35532-if-by-some-fiat-i-had-to-restrict-all-this]]>
+		</link>
+		<description>
+	    <![CDATA["If by some fiat I had to restrict all this writing to one sentence, this is the one I would choose: The summit of Mt. Everest is marine limestone. 
+" -- John McPhee]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3895-thus-from-the-war-of-nature-from-famine-and-death</guid>
+		<pubDate>Mon, 17 Mar 2008 08:16:11 -0700</pubDate>
+		<title>
+			<![CDATA[Don add a quote by Charles Darwin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3895-thus-from-the-war-of-nature-from-famine-and-death]]>
+		</link>
+		<description>
+	    <![CDATA["Thus, from the war of nature, from famine and death, the most exalted object which we are capable of conceiving, namely, the production of the higher animals, directly follows. There is grandeur in this view of life, with its several powers, having been originally breathed into a few forms or into one; and that, whilst this planet has gone cycling on according to the fixed law of gravity, from so simple a beginning endless forms most beautiful and most wonderful have been, and are being, evolved." -- Charles Darwin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

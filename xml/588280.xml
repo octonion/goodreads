@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/588280-felicity]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/588280-felicity" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 22 Jun 2012 15:43:55 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/575396-i-have-a-high-respect-for-your-nerves-they-are</guid>
+		<pubDate>Fri, 22 Jun 2012 15:43:55 -0700</pubDate>
+		<title>
+			<![CDATA[Felicity add a quote by Jane Austen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/575396-i-have-a-high-respect-for-your-nerves-they-are]]>
+		</link>
+		<description>
+	    <![CDATA["I have a high respect for your nerves. They are my old friends. I have heard you mention them with consideration these twenty years at least." -- Jane Austen]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/21884-no-one-asked-you-to-be-happy-get-to-work</guid>
+		<pubDate>Thu, 01 Aug 2013 17:33:07 -0700</pubDate>
+		<title>
+			<![CDATA[Felicity add a quote by Colette]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21884-no-one-asked-you-to-be-happy-get-to-work]]>
+		</link>
+		<description>
+	    <![CDATA["No one asked you to be happy. Get to work." -- Colette]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

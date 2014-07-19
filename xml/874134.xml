@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/874134-autumn]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/874134-autumn" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 23 Apr 2010 12:15:48 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/252083-but-it-s-sunday-mr-bell-clocks-are-slow-on-sundays</guid>
+		<pubDate>Fri, 23 Apr 2010 12:15:48 -0700</pubDate>
+		<title>
+			<![CDATA[Autumn add a quote by Truman Capote]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/252083-but-it-s-sunday-mr-bell-clocks-are-slow-on-sundays]]>
+		</link>
+		<description>
+	    <![CDATA["But it's Sunday, Mr. Bell. Clocks are slow on Sundays." -- Truman Capote]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/267936-so-word-for-word-my-master-spoke-and-i-asked-him</guid>
+		<pubDate>Mon, 14 Jun 2010 08:14:42 -0700</pubDate>
+		<title>
+			<![CDATA[Autumn add a quote by Dante ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/267936-so-word-for-word-my-master-spoke-and-i-asked-him]]>
+		</link>
+		<description>
+	    <![CDATA["...so word for word/My master spoke, and I asked him for the food/To fill the appetite these words inspired." -- Dante ]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

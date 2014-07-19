@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/778826-brittany]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/778826-brittany" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 14 Aug 2012 21:14:08 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/8446-the-only-real-stumbling-block-is-fear-of-failure-in</guid>
+		<pubDate>Tue, 14 Aug 2012 21:14:08 -0700</pubDate>
+		<title>
+			<![CDATA[Brittany add a quote by Julia Child]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8446-the-only-real-stumbling-block-is-fear-of-failure-in]]>
+		</link>
+		<description>
+	    <![CDATA["The only real stumbling block is fear of failure. In cooking you've got to have a what-the-hell attitude." -- Julia Child]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/171696-nothing-is-too-much-trouble-if-it-turns-out-the</guid>
+		<pubDate>Tue, 14 Aug 2012 21:15:06 -0700</pubDate>
+		<title>
+			<![CDATA[Brittany add a quote by Julia Child]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/171696-nothing-is-too-much-trouble-if-it-turns-out-the]]>
+		</link>
+		<description>
+	    <![CDATA["...nothing is too much trouble if it turns out the way it should." -- Julia Child]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/351592-cheril-clarke]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/351592-cheril-clarke" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 30 Jun 2014 08:22:59 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/121663-impossible-is-just-a-big-word-thrown-around-by-small</guid>
+		<pubDate>Mon, 30 Jun 2014 08:22:59 -0700</pubDate>
+		<title>
+			<![CDATA[Cheril add a quote by Muhammad Ali]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/121663-impossible-is-just-a-big-word-thrown-around-by-small]]>
+		</link>
+		<description>
+	    <![CDATA["Impossible is just a big word thrown around by small men who find it easier to live in the world they've been given than to explore the power they have to change it. Impossible is not a fact. It's an opinion. Impossible is not a declaration. It's a dare. Impossible is potential. Impossible is temporary. Impossible is nothing." -- Muhammad Ali]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/924502-jacquie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/924502-jacquie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 06 Mar 2008 16:51:22 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/31672-once-i-learned-to-read-i-could-not-imagine-my</guid>
+		<pubDate>Thu, 06 Mar 2008 16:51:22 -0800</pubDate>
+		<title>
+			<![CDATA[Jacquie add a quote by Keith Donohue]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/31672-once-i-learned-to-read-i-could-not-imagine-my]]>
+		</link>
+		<description>
+	    <![CDATA["Once I learned to read, I could not imagine my life otherwise." -- Keith Donohue]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

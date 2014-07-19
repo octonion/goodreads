@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/680554-tessia]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/680554-tessia" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 12 Dec 2007 22:05:26 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5107-the-great-object-of-life-is-sensation--to-feel-that</guid>
+		<pubDate>Wed, 12 Dec 2007 22:05:26 -0800</pubDate>
+		<title>
+			<![CDATA[Tessia add a quote by Lord Byron]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5107-the-great-object-of-life-is-sensation--to-feel-that]]>
+		</link>
+		<description>
+	    <![CDATA["The great object of life is sensation- to feel that we exist, even though in pain." -- Lord Byron]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2852-art-is-the-reason-i-get-up-in-the-morning</guid>
+		<pubDate>Sun, 16 Dec 2007 23:08:30 -0800</pubDate>
+		<title>
+			<![CDATA[Tessia add a quote by Ani DiFranco]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2852-art-is-the-reason-i-get-up-in-the-morning]]>
+		</link>
+		<description>
+	    <![CDATA["Art is the reason I get up in the morning, but the definition ends there. It doesn't seem fair that I'm living for something I can't even define." -- Ani DiFranco]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

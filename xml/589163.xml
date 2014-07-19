@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/589163-gemma]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/589163-gemma" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 28 Dec 2007 15:12:09 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/764-a-room-without-books-is-like-a-body-without-a</guid>
+		<pubDate>Fri, 28 Dec 2007 15:12:09 -0800</pubDate>
+		<title>
+			<![CDATA[Gemma add a quote by Marcus Tullius Cicero]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/764-a-room-without-books-is-like-a-body-without-a]]>
+		</link>
+		<description>
+	    <![CDATA["A room without books is like a body without a soul." -- Marcus Tullius Cicero]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/770-the-love-of-learning-the-sequestered-nooks-and-all-the</guid>
+		<pubDate>Fri, 28 Dec 2007 15:13:31 -0800</pubDate>
+		<title>
+			<![CDATA[Gemma add a quote by Henry Wadsworth Longfellow]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/770-the-love-of-learning-the-sequestered-nooks-and-all-the]]>
+		</link>
+		<description>
+	    <![CDATA["The love of learning, the sequestered nooks,
+And all the sweet serenity of books" -- Henry Wadsworth Longfellow]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/367-do-not-fear-to-be-eccentric-in-opinion-for-every</guid>
+		<pubDate>Fri, 28 Dec 2007 15:14:58 -0800</pubDate>
+		<title>
+			<![CDATA[Gemma add a quote by Bertrand Russell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/367-do-not-fear-to-be-eccentric-in-opinion-for-every]]>
+		</link>
+		<description>
+	    <![CDATA["Do not fear to be eccentric in opinion, for every opinion now accepted was once eccentric." -- Bertrand Russell]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/676-how-wonderful-it-is-that-nobody-need-wait-a-single</guid>
+		<pubDate>Fri, 28 Dec 2007 15:15:13 -0800</pubDate>
+		<title>
+			<![CDATA[Gemma add a quote by Anne Frank]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/676-how-wonderful-it-is-that-nobody-need-wait-a-single]]>
+		</link>
+		<description>
+	    <![CDATA["How wonderful it is that nobody need wait a single moment before starting to improve the world." -- Anne Frank]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

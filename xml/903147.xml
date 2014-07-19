@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/903147-rob]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/903147-rob" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 16 Oct 2009 16:34:23 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/185983-the-notion-of-marriage-as-a-union-between-two-sovereign</guid>
+		<pubDate>Fri, 16 Oct 2009 16:34:23 -0700</pubDate>
+		<title>
+			<![CDATA[Rob add a quote by Barbara Dafoe Whitehead]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/185983-the-notion-of-marriage-as-a-union-between-two-sovereign]]>
+		</link>
+		<description>
+	    <![CDATA["The notion of marriage as a union between two sovereign selves affirms virtues like independence, initiative, and self-reliance.  Yet while attending to the virtues associated with the integrity of the individual, our contemporary discourse on marriage entirely neglects the virtues that are essential to the integrity of bonds--virtues like fidelity, kindness, forgiveness, modesty, gratitude, loyalty, patience, generosity, and selflessness." -- Barbara Dafoe Whitehead]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

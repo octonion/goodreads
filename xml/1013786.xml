@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1013786-pje12]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1013786-pje12" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 16 Jun 2012 12:22:41 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/10743-loneliness-is-the-human-condition-cultivate-it-the-way-it</guid>
+		<pubDate>Sat, 16 Jun 2012 12:22:41 -0700</pubDate>
+		<title>
+			<![CDATA[Pje12 add a quote by Janet Fitch]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10743-loneliness-is-the-human-condition-cultivate-it-the-way-it]]>
+		</link>
+		<description>
+	    <![CDATA[" Loneliness is the human condition. Cultivate it. The way it tunnels into you allows your soul room to grow. Never expect to outgrow loneliness. Never hope to find people who will understand you, someone to fill that space. An intelligent, sensitive person is the exception, the very great exception. If you expect to find people who will understand you, you will grow murderous with disappointment. The best you'll ever do is to understand yourself, know what it is that you want, and not let the cattle stand in your way." -- Janet Fitch]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

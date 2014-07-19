@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/961208-bryan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/961208-bryan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 08 Mar 2008 11:49:53 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/32085-if-you-aren-t-in-over-your-head-how-do-you</guid>
+		<pubDate>Sat, 08 Mar 2008 11:49:53 -0800</pubDate>
+		<title>
+			<![CDATA[Bryan add a quote by T.S. Eliot]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/32085-if-you-aren-t-in-over-your-head-how-do-you]]>
+		</link>
+		<description>
+	    <![CDATA["If you aren't in over your head, how do you know how tall you are?" -- T.S. Eliot]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/17703-i-would-not-know-how-i-am-supposed-to-feel</guid>
+		<pubDate>Sat, 08 Mar 2008 11:56:09 -0800</pubDate>
+		<title>
+			<![CDATA[Bryan add a quote by Dave Barry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17703-i-would-not-know-how-i-am-supposed-to-feel]]>
+		</link>
+		<description>
+	    <![CDATA["I would not know how I am supposed to feel about many stories if not for the fact that the TV news personalities make sad faces for sad stories and happy faces for happy stories. " -- Dave Barry]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/29278-i-haven-t-the-slightest-idea-how-to-change-people-but</guid>
+		<pubDate>Sat, 08 Mar 2008 11:58:33 -0800</pubDate>
+		<title>
+			<![CDATA[Bryan add a quote by David Sedaris]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/29278-i-haven-t-the-slightest-idea-how-to-change-people-but]]>
+		</link>
+		<description>
+	    <![CDATA["I haven't the slightest idea how to change people, but still I keep a long list of prospective candidates just in case I should ever figure it out." -- David Sedaris]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

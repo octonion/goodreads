@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/264694-meg]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/264694-meg" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 23 Dec 2007 21:10:54 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2203-it-is-what-you-read-when-you-don-t-have-to</guid>
+		<pubDate>Sun, 23 Dec 2007 21:10:54 -0800</pubDate>
+		<title>
+			<![CDATA[Meg add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2203-it-is-what-you-read-when-you-don-t-have-to]]>
+		</link>
+		<description>
+	    <![CDATA["It is what you read when you don't have to that determines what you will be when you can't help it." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4122-only-dull-people-are-brilliant-at-breakfast</guid>
+		<pubDate>Sun, 23 Dec 2007 21:11:33 -0800</pubDate>
+		<title>
+			<![CDATA[Meg add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4122-only-dull-people-are-brilliant-at-breakfast]]>
+		</link>
+		<description>
+	    <![CDATA["Only dull people are brilliant at breakfast." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6155-the-basis-of-optimism-is-sheer-terror</guid>
+		<pubDate>Sun, 23 Dec 2007 21:12:31 -0800</pubDate>
+		<title>
+			<![CDATA[Meg add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6155-the-basis-of-optimism-is-sheer-terror]]>
+		</link>
+		<description>
+	    <![CDATA["The basis of optimism is sheer terror." -- Oscar Wilde]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

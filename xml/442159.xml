@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/442159-tessha]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/442159-tessha" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 15 Feb 2008 00:47:02 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/633-i-have-found-the-paradox-that-if-you-love-until</guid>
+		<pubDate>Fri, 15 Feb 2008 00:47:02 -0800</pubDate>
+		<title>
+			<![CDATA[Tessha add a quote by Daphne Rae]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/633-i-have-found-the-paradox-that-if-you-love-until]]>
+		</link>
+		<description>
+	    <![CDATA["I have found the paradox, that if you love until it hurts, there can be no more hurt, only more love." -- Daphne Rae]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/21270-love-the-heart-that-hurts-you-but-never-hurt-the</guid>
+		<pubDate>Fri, 15 Feb 2008 00:51:18 -0800</pubDate>
+		<title>
+			<![CDATA[Tessha add a quote by Vipin Sharma]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21270-love-the-heart-that-hurts-you-but-never-hurt-the]]>
+		</link>
+		<description>
+	    <![CDATA["Love the heart that hurts you, but never hurt the heart that loves you.
+" -- Vipin Sharma]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

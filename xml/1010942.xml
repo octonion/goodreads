@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1010942-samantha]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1010942-samantha" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 26 Mar 2008 12:26:59 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/25740-in-the-end-there-is-no-end</guid>
+		<pubDate>Wed, 26 Mar 2008 12:26:59 -0700</pubDate>
+		<title>
+			<![CDATA[Samantha add a quote by Robert Lowell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/25740-in-the-end-there-is-no-end]]>
+		</link>
+		<description>
+	    <![CDATA["In the end, there is no end." -- Robert Lowell]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/10122-that-proves-you-are-unusual-returned-the-scarecrow-and-i</guid>
+		<pubDate>Wed, 26 Mar 2008 12:28:35 -0700</pubDate>
+		<title>
+			<![CDATA[Samantha add a quote by L. Frank Baum]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10122-that-proves-you-are-unusual-returned-the-scarecrow-and-i]]>
+		</link>
+		<description>
+	    <![CDATA["That proves you are unusual,' returned the Scarecrow; 'and I am convinced that the only people worthy of consideration in this world are the unusual ones. For the common folks are like the leaves of a tree, and live and die unnoticed." -- L. Frank Baum]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/212281-we-had-to-save-you-because-you-re-the-mockingjay-katniss</guid>
+		<pubDate>Mon, 23 Aug 2010 01:22:23 -0700</pubDate>
+		<title>
+			<![CDATA[Samantha add a quote by Suzanne Collins]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/212281-we-had-to-save-you-because-you-re-the-mockingjay-katniss]]>
+		</link>
+		<description>
+	    <![CDATA["We had to save you because you're the mockingjay, Katniss,&quot; says Plutarch. &quot;While you live, the revolution lives." -- Suzanne Collins]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

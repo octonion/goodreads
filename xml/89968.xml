@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/89968-jane]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/89968-jane" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 12 Sep 2012 07:17:17 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/222043-people-don-t-respect-the-morning-an-alarm-clock-violently-wakes</guid>
+		<pubDate>Wed, 12 Sep 2012 07:17:17 -0700</pubDate>
+		<title>
+			<![CDATA[Jane add a quote by Milan Kundera]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/222043-people-don-t-respect-the-morning-an-alarm-clock-violently-wakes]]>
+		</link>
+		<description>
+	    <![CDATA["...people don't respect the morning. An alarm clock violently wakes them up, shatters their sleep like the blow of an ax, and they immediately surrender themselves to deadly haste. Can you tell me what kind of day can follow a beginning of such violence? What happens to people whose alarm clock daily gives them a small electric shock? Each day they become more used to violence and less used to pleasure." -- Milan Kundera]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

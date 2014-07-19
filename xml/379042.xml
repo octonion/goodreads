@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/379042-gina-masland]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/379042-gina-masland" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 17 May 2014 18:42:33 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/450183-don-t-do-it-eleanor-told-the-little-girl-insist-on</guid>
+		<pubDate>Sat, 17 May 2014 18:42:33 -0700</pubDate>
+		<title>
+			<![CDATA[Gina add a quote by Shirley Jackson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/450183-don-t-do-it-eleanor-told-the-little-girl-insist-on]]>
+		</link>
+		<description>
+	    <![CDATA["Don't do it, Eleanor told the little girl; insist on your cup of stars; once they have trapped you into being like everyone else you will never see your cup of stars again; don't do it; and the little girl glanced at her, and smiled a little subtle, dimpling, wholly comprehending smile, and shook her head stubbornly at the glass. Brave girl, Eleanor thought; wise, brave girl." -- Shirley Jackson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

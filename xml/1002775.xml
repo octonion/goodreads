@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1002775-joanna]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1002775-joanna" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 06 May 2008 15:52:57 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/942-two-things-are-infinite-the-universe-and-human-stupidity-and</guid>
+		<pubDate>Tue, 06 May 2008 15:52:57 -0700</pubDate>
+		<title>
+			<![CDATA[Joanna add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/942-two-things-are-infinite-the-universe-and-human-stupidity-and]]>
+		</link>
+		<description>
+	    <![CDATA["Two things are infinite: the universe and human stupidity; and I'm not sure about the universe." -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6747-life-is-like-a-box-of-chocolates</guid>
+		<pubDate>Sat, 14 Mar 2009 23:14:34 -0700</pubDate>
+		<title>
+			<![CDATA[Joanna add a quote by Winston Groom]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6747-life-is-like-a-box-of-chocolates]]>
+		</link>
+		<description>
+	    <![CDATA["Life is like a box of chocolates." -- Winston Groom]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/102582-girls-are-like-apples-the-best-ones-are-at-the-top</guid>
+		<pubDate>Sat, 10 Jan 2009 22:42:16 -0800</pubDate>
+		<title>
+			<![CDATA[Joanna add a quote by Pete Wentz]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/102582-girls-are-like-apples-the-best-ones-are-at-the-top]]>
+		</link>
+		<description>
+	    <![CDATA["Girls are like apples...the best ones are at the top of the trees. The boys don't want to reach for the good ones because they are afraid of falling and getting hurt. Instead, they just get the rotten apples that are on the ground that aren't as good, but easy. So the apples at the top think there is something wrong with them, when, in reality, they are amazing. They just have to wait for the right boy to come along, the one who's brave enough to climb all the way to the top of the tree..." -- Pete Wentz]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/132836-life-isn-t-about-waiting-for-the-storm-to-pass-it-s-about</guid>
+		<pubDate>Wed, 21 Jan 2009 18:08:53 -0800</pubDate>
+		<title>
+			<![CDATA[Joanna add a quote by Vivian Greene]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/132836-life-isn-t-about-waiting-for-the-storm-to-pass-it-s-about]]>
+		</link>
+		<description>
+	    <![CDATA["Life isn't about waiting for the storm to pass...It's about learning to dance in the rain." -- Vivian Greene]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

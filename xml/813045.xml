@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/813045-micha]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/813045-micha" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 04 Jan 2009 14:35:10 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/127457-in-fact-there-is-no-such-thing-as-character-something</guid>
+		<pubDate>Sun, 04 Jan 2009 14:35:10 -0800</pubDate>
+		<title>
+			<![CDATA[Micha add a quote by Soseki Natsume]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/127457-in-fact-there-is-no-such-thing-as-character-something]]>
+		</link>
+		<description>
+	    <![CDATA["In fact, there is no such thing as character, something fixed and final. The real thing is something that novelists don’t know how to write about. Or, if they tried, the end result would never be a novel. Real people are strangely difficult to make sense out of. Even a god would have his hands full trying. But maybe I’m jumping to conclusions, presuming that other people are a mess just because I’m put together in such a disorderly way. If so, I should apologize." -- Soseki Natsume]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/971478-a-new-generation-forgets-the-specters-that-may-have-tormented</guid>
+		<pubDate>Thu, 26 Dec 2013 03:37:00 -0800</pubDate>
+		<title>
+			<![CDATA[Micha add a quote by Halldór Laxness]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/971478-a-new-generation-forgets-the-specters-that-may-have-tormented]]>
+		</link>
+		<description>
+	    <![CDATA["A new generation forgets the specters that may have tormented the old… And yet, always, to all eternity, it is the same specter assailing the same man century after century." -- Halldór Laxness]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

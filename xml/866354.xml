@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/866354-hanako]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/866354-hanako" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 11 Sep 2008 23:49:04 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/39980-just-the-other-day-i-was-in-my-neighborhood-starbucks</guid>
+		<pubDate>Thu, 11 Sep 2008 23:49:04 -0700</pubDate>
+		<title>
+			<![CDATA[Hanako add a quote by Sarah Vowell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/39980-just-the-other-day-i-was-in-my-neighborhood-starbucks]]>
+		</link>
+		<description>
+	    <![CDATA["Just the other day, I was in my neighborhood Starbucks, waiting for the post office to open. I was enjoying a chocolatey cafe mocha when it occurred to me that to drink a mocha is to gulp down the entire history of the New World. From the Spanish exportation of Aztec cacao, and the Dutch invention of the chemical process for making cocoa, on down to the capitalist empire of Hershey, PA, and the lifestyle marketing of Seattle's Starbucks, the modern mocha is a bittersweet concoction of imperialism, genocide, invention, and consumerism served with whipped cream on top." -- Sarah Vowell]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/95478-despite-his-consistent-party-line-voting-record-some-independents-and-democrats</guid>
+		<pubDate>Thu, 11 Sep 2008 23:49:23 -0700</pubDate>
+		<title>
+			<![CDATA[Hanako add a quote by Sarah Vowell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/95478-despite-his-consistent-party-line-voting-record-some-independents-and-democrats]]>
+		</link>
+		<description>
+	    <![CDATA["Despite his consistent party-line voting record, some independents and Democrats still think of Senator McCain as the most palatable, independent-minded Republican. But this is the sort of empty compliment a friend of mine once compared to being called “the coolest Osmond." -- Sarah Vowell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

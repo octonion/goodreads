@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/170673-lce]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/170673-lce" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 20 Sep 2009 17:05:06 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3616-i-am-nothing-special-of-this-i-am-sure-i</guid>
+		<pubDate>Sun, 20 Sep 2009 17:05:06 -0700</pubDate>
+		<title>
+			<![CDATA[LCE add a quote by Nicholas Sparks]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3616-i-am-nothing-special-of-this-i-am-sure-i]]>
+		</link>
+		<description>
+	    <![CDATA["I am nothing special, of this I am sure. I am a common man with common thoughts and I've led a common life. There are no monuments dedicated to me and my name will soon be forgotten, but I've loved another with all my heart and soul, and to me, this has always been enough.." -- Nicholas Sparks]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/29865-just-when-you-think-it-can-t-get-any-worse-it</guid>
+		<pubDate>Sun, 20 Sep 2009 17:05:18 -0700</pubDate>
+		<title>
+			<![CDATA[LCE add a quote by Nicholas Sparks]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/29865-just-when-you-think-it-can-t-get-any-worse-it]]>
+		</link>
+		<description>
+	    <![CDATA["Just when you think it can't get any worse, it can. And just when you think it can't get any better, it can." -- Nicholas Sparks]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/21010-to-fred-those-years-seemed-to-pass-like-quickly-skimming</guid>
+		<pubDate>Sun, 20 Sep 2009 18:31:53 -0700</pubDate>
+		<title>
+			<![CDATA[LCE add a quote by Sarah Addison Allen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21010-to-fred-those-years-seemed-to-pass-like-quickly-skimming]]>
+		</link>
+		<description>
+	    <![CDATA["To Fred, those years seemed to pass like quickly skimming a book and then finding the ending wasn't what he expected.  He wished he'd paid more attention to the story." -- Sarah Addison Allen]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

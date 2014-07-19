@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/976101-rebecca]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/976101-rebecca" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 01 Jun 2014 15:48:00 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1151629-the-stormlight-rising-from-his-exposed-skin-was-enough-to</guid>
+		<pubDate>Sun, 01 Jun 2014 15:48:00 -0700</pubDate>
+		<title>
+			<![CDATA[Rebecca add a quote by Brandon Sanderson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1151629-the-stormlight-rising-from-his-exposed-skin-was-enough-to]]>
+		</link>
+		<description>
+	    <![CDATA["The Stormlight rising from his exposed skin was enough to illuminate the chasm, and it cast shadows on the walls as he ran. Those seemed to become figures, crafted by the bones and branches stretching from the heaps on the ground. Bodies and souls. His movement made the shadows twist, as if turning to regard him." -- Brandon Sanderson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

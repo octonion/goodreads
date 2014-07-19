@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/917238-monika]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/917238-monika" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 18 Feb 2008 09:48:49 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/939-if-the-world-were-merely-seductive-that-would-be-easy</guid>
+		<pubDate>Mon, 18 Feb 2008 09:48:49 -0800</pubDate>
+		<title>
+			<![CDATA[Monika add a quote by E.B. White]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/939-if-the-world-were-merely-seductive-that-would-be-easy]]>
+		</link>
+		<description>
+	    <![CDATA["If the world were merely seductive, that would be easy. If it were merely challenging, that would be no problem. But I arise in the morning torn between a desire to improve the world and a desire to enjoy the world. This makes it hard to plan the day." -- E.B. White]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/919-the-man-who-does-not-read-has-no-advantage-over</guid>
+		<pubDate>Mon, 18 Feb 2008 14:32:44 -0800</pubDate>
+		<title>
+			<![CDATA[Monika add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/919-the-man-who-does-not-read-has-no-advantage-over]]>
+		</link>
+		<description>
+	    <![CDATA["The man who does not read has no advantage over the man who cannot read." -- Mark Twain]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5882-it-is-a-truth-universally-acknowledged-that-a-single-man</guid>
+		<pubDate>Mon, 18 Feb 2008 09:51:35 -0800</pubDate>
+		<title>
+			<![CDATA[Monika add a quote by Jane Austen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5882-it-is-a-truth-universally-acknowledged-that-a-single-man]]>
+		</link>
+		<description>
+	    <![CDATA["It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife." -- Jane Austen]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

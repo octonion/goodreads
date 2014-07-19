@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/576422-brandon-c]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/576422-brandon-c" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 26 May 2008 13:23:17 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/57659-we-are-deaf-to-what-life-brings-us</guid>
+		<pubDate>Mon, 26 May 2008 13:23:17 -0700</pubDate>
+		<title>
+			<![CDATA[Brandon add a quote by Andrew Sean Greer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/57659-we-are-deaf-to-what-life-brings-us]]>
+		</link>
+		<description>
+	    <![CDATA["We are deaf to what life brings us." -- Andrew Sean Greer]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/13565-the-soul-should-always-stand-ajar-ready-to-welcome-the</guid>
+		<pubDate>Mon, 26 May 2008 13:28:01 -0700</pubDate>
+		<title>
+			<![CDATA[Brandon add a quote by Emily Dickinson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13565-the-soul-should-always-stand-ajar-ready-to-welcome-the]]>
+		</link>
+		<description>
+	    <![CDATA["The soul should always stand ajar, ready to welcome the ecstatic experience." -- Emily Dickinson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/14443-we-are-all-worms-but-i-do-believe-that-i</guid>
+		<pubDate>Thu, 12 Jun 2008 09:15:28 -0700</pubDate>
+		<title>
+			<![CDATA[Brandon add a quote by Winston S. Churchill]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14443-we-are-all-worms-but-i-do-believe-that-i]]>
+		</link>
+		<description>
+	    <![CDATA["We are all worms, But I do believe that I am a glow worm." -- Winston S. Churchill]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

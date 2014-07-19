@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/356236-ellen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/356236-ellen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 24 Jan 2009 08:45:49 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2448-to-live-is-the-rarest-thing-in-the-world-most</guid>
+		<pubDate>Sat, 24 Jan 2009 08:45:49 -0800</pubDate>
+		<title>
+			<![CDATA[Ellen add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2448-to-live-is-the-rarest-thing-in-the-world-most]]>
+		</link>
+		<description>
+	    <![CDATA["To live is the rarest thing in the world. Most people exist, that is all." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/365-you-have-to-write-the-book-that-wants-to-be</guid>
+		<pubDate>Sat, 24 Jan 2009 08:46:09 -0800</pubDate>
+		<title>
+			<![CDATA[Ellen add a quote by Madeleine L'Engle]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/365-you-have-to-write-the-book-that-wants-to-be]]>
+		</link>
+		<description>
+	    <![CDATA["You have to write the book that wants to be written. And if the book will be too difficult for grown-ups, then you write it for children." -- Madeleine L'Engle]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/8287-i-have-not-failed-i-ve-just-found-10-000-ways-that</guid>
+		<pubDate>Sat, 24 Jan 2009 08:50:05 -0800</pubDate>
+		<title>
+			<![CDATA[Ellen add a quote by Thomas A. Edison]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8287-i-have-not-failed-i-ve-just-found-10-000-ways-that]]>
+		</link>
+		<description>
+	    <![CDATA["I have not failed. I've just found 10,000 ways that won't work." -- Thomas A. Edison]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

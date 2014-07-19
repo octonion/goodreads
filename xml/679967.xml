@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/679967-james-ball]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/679967-james-ball" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 08 Nov 2012 09:34:40 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/658163-to-the-man-who-only-has-a-hammer-everything-he</guid>
+		<pubDate>Thu, 08 Nov 2012 09:34:40 -0800</pubDate>
+		<title>
+			<![CDATA[James add a quote by Abraham Maslow]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/658163-to-the-man-who-only-has-a-hammer-everything-he]]>
+		</link>
+		<description>
+	    <![CDATA["To the man who only has a hammer, everything he encounters begins to look like a nail." -- Abraham Maslow]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/47334-a-cat-has-absolute-emotional-honesty-human-beings-for-one</guid>
+		<pubDate>Fri, 28 Jun 2013 16:04:31 -0700</pubDate>
+		<title>
+			<![CDATA[James add a quote by Ernest Hemingway]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/47334-a-cat-has-absolute-emotional-honesty-human-beings-for-one]]>
+		</link>
+		<description>
+	    <![CDATA["A cat has absolute emotional honesty: human beings, for one reason or another, may hide their feelings, but a cat does not." -- Ernest Hemingway]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1066-i-don-t-want-to-achieve-immortality-through-my-work-i</guid>
+		<pubDate>Tue, 20 May 2014 16:54:26 -0700</pubDate>
+		<title>
+			<![CDATA[James add a quote by Woody Allen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1066-i-don-t-want-to-achieve-immortality-through-my-work-i]]>
+		</link>
+		<description>
+	    <![CDATA["I don't want to achieve immortality through my work; I want to achieve immortality through not dying. I don't want to live on in the hearts of my countrymen; I want to live on in my apartment." -- Woody Allen]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

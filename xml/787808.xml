@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/787808-rachel-kim]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/787808-rachel-kim" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 09 Sep 2012 18:51:29 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/495864-no-man-is-brave-that-has-never-walked-a-hundred</guid>
+		<pubDate>Sun, 09 Sep 2012 18:51:29 -0700</pubDate>
+		<title>
+			<![CDATA[Rachel add a quote by Patrick Rothfuss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/495864-no-man-is-brave-that-has-never-walked-a-hundred]]>
+		</link>
+		<description>
+	    <![CDATA["No man is brave that has never walked a hundred miles. If you want to know the truth of who you are, walk until not a person knows your name. Travel is the great leveler, the great teacher, bitter as medicine, crueler than mirror-glass. A long stretch of road will teach you more about yourself than a hundred years of quiet." -- Patrick Rothfuss]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/393317-in-many-ways-unwise-love-is-the-truest-love-anyone</guid>
+		<pubDate>Sun, 09 Sep 2012 18:52:39 -0700</pubDate>
+		<title>
+			<![CDATA[Rachel add a quote by Patrick Rothfuss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/393317-in-many-ways-unwise-love-is-the-truest-love-anyone]]>
+		</link>
+		<description>
+	    <![CDATA["In many ways, unwise love is the truest love. Anyone can love a thing because. That's as easy as putting a penny in your pocket. But to love something despite. To know the flaws and love them too. That is rare and pure and perfect." -- Patrick Rothfuss]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

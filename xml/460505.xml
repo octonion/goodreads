@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/460505-kevyna-gardner]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/460505-kevyna-gardner" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 14 Jan 2008 04:59:47 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/13285-after-all-what-could-you-expect-from-a-pig-but</guid>
+		<pubDate>Mon, 14 Jan 2008 04:59:47 -0800</pubDate>
+		<title>
+			<![CDATA[Kevyna add a quote by LM Montgomery]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13285-after-all-what-could-you-expect-from-a-pig-but]]>
+		</link>
+		<description>
+	    <![CDATA["After all, what could you expect from a pig but a grunt?" -- LM Montgomery]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

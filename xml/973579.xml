@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/973579-fan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/973579-fan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 18 Mar 2008 19:16:13 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/36137-everybody-gets-a-tag-if-you-listen-to-a-velvet</guid>
+		<pubDate>Tue, 18 Mar 2008 19:16:13 -0700</pubDate>
+		<title>
+			<![CDATA[Fan add a quote by Elliott Smith]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/36137-everybody-gets-a-tag-if-you-listen-to-a-velvet]]>
+		</link>
+		<description>
+	    <![CDATA["Everybody gets a tag. If you listen to a Velvet Underground record, you don't think, 'Godfathers of Punk.' You just think, 'This sounds great.' The tags are there in order to help try to sell something by giving it a name that's going to stick in somebody's memory. But it doesn't describe it. So 'depressing' isn't a word I would use to describe my music. But there is some sadness in it -- there has to be, so that the happiness in it will matter." -- Elliott Smith]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

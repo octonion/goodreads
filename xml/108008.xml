@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/108008-zoya]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/108008-zoya" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 05 Aug 2008 09:24:20 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/79667-we-are-fat-and-sick-and-dying-because-we-have</guid>
+		<pubDate>Tue, 05 Aug 2008 09:24:20 -0700</pubDate>
+		<title>
+			<![CDATA[Zoya add a quote by Alton Brown]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/79667-we-are-fat-and-sick-and-dying-because-we-have]]>
+		</link>
+		<description>
+	    <![CDATA["We are fat and sick and dying because we have handed a basic, fundamental and intimate function of life over to corporations. We choose to value our nourishment so little that we entrust it to strangers. This is insanity. Feed yourselves. Feed your loved ones. And for God's sake feed your children." -- Alton Brown]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/41665-a-nation-that-continues-year-after-year-to-spend-more</guid>
+		<pubDate>Tue, 16 Sep 2008 12:01:02 -0700</pubDate>
+		<title>
+			<![CDATA[Zoya add a quote by Martin Luther King Jr.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/41665-a-nation-that-continues-year-after-year-to-spend-more]]>
+		</link>
+		<description>
+	    <![CDATA["A nation that continues year after year to spend more money on military defense than on programs of social uplift is approaching spiritual doom." -- Martin Luther King Jr.]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

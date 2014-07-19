@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/644802-bryce]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/644802-bryce" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 18 Jul 2008 10:31:01 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/36952-there-are-books-full-of-great-writing-that-don-t-have</guid>
+		<pubDate>Fri, 18 Jul 2008 10:31:01 -0700</pubDate>
+		<title>
+			<![CDATA[Bryce add a quote by Stephen King]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/36952-there-are-books-full-of-great-writing-that-don-t-have]]>
+		</link>
+		<description>
+	    <![CDATA["There are books full of great writing that don't have very good stories. Read sometimes for the story... don't be like the book-snobs who won't do that. Read sometimes for the words--the language. Don't be like the play-it-safers who won't do that. But when you find a book that has both a good story and good words, treasure that book." -- Stephen King]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/368055-sally]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/368055-sally" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 14 Nov 2012 03:50:13 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/608055-there-are-still-more-days-to-travel-in-this-life</guid>
+		<pubDate>Wed, 14 Nov 2012 03:50:13 -0800</pubDate>
+		<title>
+			<![CDATA[Sally add a quote by M.L. Stedman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/608055-there-are-still-more-days-to-travel-in-this-life]]>
+		</link>
+		<description>
+	    <![CDATA["There are still more days to travel in this life. And he knows that the man who makes the journey has been shaped by every day and every person along the way. Scars are just another kind of memory....Soon enough the days will close over their lives, the grass will grow over their graves, until their story is just an unvisited headstone." -- M.L. Stedman]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

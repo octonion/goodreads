@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/104151-alex]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/104151-alex" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 08 Nov 2010 19:14:40 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/752-nobody-has-ever-measured-not-even-poets-how-much-the</guid>
+		<pubDate>Mon, 08 Nov 2010 19:14:40 -0800</pubDate>
+		<title>
+			<![CDATA[Alex add a quote by Zelda Fitzgerald]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/752-nobody-has-ever-measured-not-even-poets-how-much-the]]>
+		</link>
+		<description>
+	    <![CDATA["Nobody has ever measured, not even poets, how much the heart can hold." -- Zelda Fitzgerald]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6277-every-year-back-comes-spring-with-nasty-little-birds-yapping</guid>
+		<pubDate>Tue, 25 Mar 2014 11:14:28 -0700</pubDate>
+		<title>
+			<![CDATA[Alex add a quote by Dorothy Parker]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6277-every-year-back-comes-spring-with-nasty-little-birds-yapping]]>
+		</link>
+		<description>
+	    <![CDATA["Every year, back comes Spring, with nasty little birds yapping their fool heads off and the ground all mucked up with plants." -- Dorothy Parker]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

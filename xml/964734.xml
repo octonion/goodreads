@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/964734-anna]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/964734-anna" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 04 Mar 2008 01:35:40 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/20293-the-essence-of-being-human-is-that-one-does-not</guid>
+		<pubDate>Tue, 04 Mar 2008 01:35:40 -0800</pubDate>
+		<title>
+			<![CDATA[Anna add a quote by George Orwell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20293-the-essence-of-being-human-is-that-one-does-not]]>
+		</link>
+		<description>
+	    <![CDATA["The essence of being human is that one does not seek perfection." -- George Orwell]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/293256-things-don-t-matter-people-do</guid>
+		<pubDate>Wed, 20 Apr 2011 11:53:38 -0700</pubDate>
+		<title>
+			<![CDATA[Anna add a quote by Rosie Thomas]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/293256-things-don-t-matter-people-do]]>
+		</link>
+		<description>
+	    <![CDATA["Things don't matter, people do" -- Rosie Thomas]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/132781-what-on-earth-could-be-more-luxurious-than-a-sofa</guid>
+		<pubDate>Sat, 14 Jul 2012 05:51:46 -0700</pubDate>
+		<title>
+			<![CDATA[Anna add a quote by Anthony Trollope]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/132781-what-on-earth-could-be-more-luxurious-than-a-sofa]]>
+		</link>
+		<description>
+	    <![CDATA["What on earth could be more luxurious than a sofa, a book, and a cup of coffee?...Was ever anything so civil?" -- Anthony Trollope]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/28504-be-glad-be-good-be-brave</guid>
+		<pubDate>Thu, 19 Dec 2013 08:21:44 -0800</pubDate>
+		<title>
+			<![CDATA[Anna add a quote by Eleanor Hodgman Porter]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/28504-be-glad-be-good-be-brave]]>
+		</link>
+		<description>
+	    <![CDATA["Be glad. Be good. Be brave." -- Eleanor Hodgman Porter]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

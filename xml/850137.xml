@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/850137-stacy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/850137-stacy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 14 Sep 2009 13:19:36 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/18439-the-greater-part-of-our-happiness-or-misery-depends-upon</guid>
+		<pubDate>Mon, 14 Sep 2009 13:19:36 -0700</pubDate>
+		<title>
+			<![CDATA[Stacy add a quote by Martha Washington]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18439-the-greater-part-of-our-happiness-or-misery-depends-upon]]>
+		</link>
+		<description>
+	    <![CDATA["The greater part of our happiness or misery depends upon our dispositions, and not upon our circumstances." -- Martha Washington]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/34771-every-one-of-us-lives-this-life-just-once-if</guid>
+		<pubDate>Wed, 09 Apr 2008 09:53:22 -0700</pubDate>
+		<title>
+			<![CDATA[Stacy add a quote by Greta Garbo]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/34771-every-one-of-us-lives-this-life-just-once-if]]>
+		</link>
+		<description>
+	    <![CDATA["Every one of us lives this life just once, if we are honest, to live once is enough." -- Greta Garbo]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/11609-creativity-is-allowing-yourself-to-make-mistakes-art-is-knowing</guid>
+		<pubDate>Wed, 09 Apr 2008 09:53:55 -0700</pubDate>
+		<title>
+			<![CDATA[Stacy add a quote by Scott Adams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11609-creativity-is-allowing-yourself-to-make-mistakes-art-is-knowing]]>
+		</link>
+		<description>
+	    <![CDATA["Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep." -- Scott Adams]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

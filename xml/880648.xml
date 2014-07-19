@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/880648-sascha]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/880648-sascha" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 27 Oct 2010 10:45:57 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/42723-love-is-so-short-forgetting-is-so-long</guid>
+		<pubDate>Wed, 27 Oct 2010 10:45:57 -0700</pubDate>
+		<title>
+			<![CDATA[Sascha add a quote by Pablo Neruda]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/42723-love-is-so-short-forgetting-is-so-long]]>
+		</link>
+		<description>
+	    <![CDATA["Love is so short, forgetting is so long." -- Pablo Neruda]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/16898-i-can-write-the-saddest-poem-of-all-tonight-i</guid>
+		<pubDate>Wed, 27 Oct 2010 10:46:11 -0700</pubDate>
+		<title>
+			<![CDATA[Sascha add a quote by Pablo Neruda]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16898-i-can-write-the-saddest-poem-of-all-tonight-i]]>
+		</link>
+		<description>
+	    <![CDATA["I can write the saddest poem of all tonight. I loved her, and sometimes she loved me too." -- Pablo Neruda]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/180067-you-can-cut-all-the-flowers-but-you-cannot-keep</guid>
+		<pubDate>Wed, 27 Oct 2010 10:46:36 -0700</pubDate>
+		<title>
+			<![CDATA[Sascha add a quote by Pablo Neruda]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/180067-you-can-cut-all-the-flowers-but-you-cannot-keep]]>
+		</link>
+		<description>
+	    <![CDATA["You can cut all the flowers but you cannot keep Spring from coming." -- Pablo Neruda]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

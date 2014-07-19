@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/10513-sanaz]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/10513-sanaz" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 16 Nov 2012 13:55:42 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/130249-talking-nonsense-is-the-sole-privilege-mankind-possesses-over-the</guid>
+		<pubDate>Fri, 16 Nov 2012 13:55:42 -0800</pubDate>
+		<title>
+			<![CDATA[Sanaz add a quote by Fyodor Dostoevsky]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/130249-talking-nonsense-is-the-sole-privilege-mankind-possesses-over-the]]>
+		</link>
+		<description>
+	    <![CDATA["Talking nonsense is the sole privilege mankind possesses over the other organisms. It's by talking nonsense that one gets to the truth! I talk nonsense, therefore I'm human" -- Fyodor Dostoevsky]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/139865-brijesh-kartha]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/139865-brijesh-kartha" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 15 Aug 2012 00:29:21 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/602983-teaching-ramanujan-was-like-writing-on-a-blackboard-covered-with</guid>
+		<pubDate>Wed, 15 Aug 2012 00:29:21 -0700</pubDate>
+		<title>
+			<![CDATA[Brijesh add a quote by Lawrence Young]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/602983-teaching-ramanujan-was-like-writing-on-a-blackboard-covered-with]]>
+		</link>
+		<description>
+	    <![CDATA["Teaching Ramanujan was like writing on a blackboard covered with excerpts from a more interesting lecture." -- Lawrence Young]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

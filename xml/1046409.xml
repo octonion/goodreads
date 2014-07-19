@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1046409-stephanie-harris]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1046409-stephanie-harris" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 25 Jun 2008 14:33:01 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/66965-it-s-an-odd-feeling-farewell-there-is-some-envy-in-it-men</guid>
+		<pubDate>Wed, 25 Jun 2008 14:33:01 -0700</pubDate>
+		<title>
+			<![CDATA[Stephanie add a quote by Isak Dinesen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/66965-it-s-an-odd-feeling-farewell-there-is-some-envy-in-it-men]]>
+		</link>
+		<description>
+	    <![CDATA["It's an odd feeling-farewell-there is some envy in it. Men go off to be tested for courage and if we're tested at all, it's for patience, for doing without, for how well we can endure loneliness." -- Isak Dinesen]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

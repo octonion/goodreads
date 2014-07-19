@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1017644-robin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1017644-robin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 14 Nov 2008 20:42:32 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1387-life-is-pain-highness-anyone-who-says-differently-is-selling</guid>
+		<pubDate>Fri, 14 Nov 2008 20:42:32 -0800</pubDate>
+		<title>
+			<![CDATA[Robin add a quote by William Goldman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1387-life-is-pain-highness-anyone-who-says-differently-is-selling]]>
+		</link>
+		<description>
+	    <![CDATA["Life is pain, highness. Anyone who says differently is selling something." -- William Goldman]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/18276-good-books-don-t-give-up-all-their-secrets-at-once</guid>
+		<pubDate>Mon, 24 Mar 2008 05:19:52 -0700</pubDate>
+		<title>
+			<![CDATA[Robin add a quote by Stephen King]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18276-good-books-don-t-give-up-all-their-secrets-at-once]]>
+		</link>
+		<description>
+	    <![CDATA["Good books don't give up all their secrets at once." -- Stephen King]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2755-the-man-in-black-fled-across-the-desert-and-the</guid>
+		<pubDate>Mon, 24 Mar 2008 05:21:29 -0700</pubDate>
+		<title>
+			<![CDATA[Robin add a quote by Stephen King]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2755-the-man-in-black-fled-across-the-desert-and-the]]>
+		</link>
+		<description>
+	    <![CDATA["The man in black fled across the desert, and the gunslinger followed." -- Stephen King]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

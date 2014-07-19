@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/306201-m]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/306201-m" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 19 Feb 2008 10:13:08 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/26328-when-going-back-makes-sense-you-are-going-ahead</guid>
+		<pubDate>Tue, 19 Feb 2008 10:13:08 -0800</pubDate>
+		<title>
+			<![CDATA[M add a quote by Wendell Berry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/26328-when-going-back-makes-sense-you-are-going-ahead]]>
+		</link>
+		<description>
+	    <![CDATA["When going back makes sense, you are going ahead." -- Wendell Berry]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4889-to-be-nobody-but-yourself-in-a-world-which-is</guid>
+		<pubDate>Sat, 04 Oct 2008 02:04:07 -0700</pubDate>
+		<title>
+			<![CDATA[M add a quote by e.e. cummings]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4889-to-be-nobody-but-yourself-in-a-world-which-is]]>
+		</link>
+		<description>
+	    <![CDATA["To be nobody but 
+yourself in a world 
+which is doing its best day and night to make you like 
+everybody else means to fight the hardest battle 
+which any human being can fight and never stop fighting." -- e.e. cummings]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/137356-about-a-third-of-my-cases-are-suffering-from-no</guid>
+		<pubDate>Thu, 05 Feb 2009 07:50:24 -0800</pubDate>
+		<title>
+			<![CDATA[M add a quote by Carl Gustav Jung ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/137356-about-a-third-of-my-cases-are-suffering-from-no]]>
+		</link>
+		<description>
+	    <![CDATA["About a third of my cases are suffering from no clinically definable neurosis, but from the senselessness and emptiness of their lives. This can be defined as the general neurosis of our times." -- Carl Gustav Jung ]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

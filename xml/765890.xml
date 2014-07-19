@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/765890-gina]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/765890-gina" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 08 Mar 2008 05:21:40 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/942-two-things-are-infinite-the-universe-and-human-stupidity-and</guid>
+		<pubDate>Sat, 08 Mar 2008 05:21:40 -0800</pubDate>
+		<title>
+			<![CDATA[Gina add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/942-two-things-are-infinite-the-universe-and-human-stupidity-and]]>
+		</link>
+		<description>
+	    <![CDATA["Two things are infinite: the universe and human stupidity; and I'm not sure about the universe." -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/157862-don-t-be-ashamed-to-weep-tis-right-to-grieve-tears</guid>
+		<pubDate>Fri, 07 Sep 2012 08:40:56 -0700</pubDate>
+		<title>
+			<![CDATA[Gina add a quote by Brian Jacques]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/157862-don-t-be-ashamed-to-weep-tis-right-to-grieve-tears]]>
+		</link>
+		<description>
+	    <![CDATA["Don't be ashamed to weep; 'tis right to grieve.  Tears are only water, and flowers, trees, and fruit cannot grow without water.  But there must be sunlight also.  A wounded heart will heal in time, and when it does, the memory and love of our lost ones is sealed inside to comfort us." -- Brian Jacques]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

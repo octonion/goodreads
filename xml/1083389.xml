@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1083389-e-a]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1083389-e-a" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 08 Aug 2008 14:13:01 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/80801-there-is-always-time-for-another-last-minute</guid>
+		<pubDate>Fri, 08 Aug 2008 14:13:01 -0700</pubDate>
+		<title>
+			<![CDATA[E.A. add a quote by Terry Pratchett]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/80801-there-is-always-time-for-another-last-minute]]>
+		</link>
+		<description>
+	    <![CDATA["There is always time for another last minute" -- Terry Pratchett]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/35464-i-always-prefer-to-believe-the-best-of-everybody-it</guid>
+		<pubDate>Fri, 15 Aug 2008 10:54:51 -0700</pubDate>
+		<title>
+			<![CDATA[E.A. add a quote by Rudyard Kipling]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/35464-i-always-prefer-to-believe-the-best-of-everybody-it]]>
+		</link>
+		<description>
+	    <![CDATA["I always prefer to believe the best of everybody; it saves so much trouble" -- Rudyard Kipling]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/109804-there-is-no-surer-foundation-for-a-beautiful-friendship-than</guid>
+		<pubDate>Fri, 21 Nov 2008 13:19:31 -0800</pubDate>
+		<title>
+			<![CDATA[E.A. add a quote by P.G. Wodehouse]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/109804-there-is-no-surer-foundation-for-a-beautiful-friendship-than]]>
+		</link>
+		<description>
+	    <![CDATA["There is no surer foundation for a beautiful friendship than a mutual taste in literature." -- P.G. Wodehouse]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

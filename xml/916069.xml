@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/916069-olive-demetrius]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/916069-olive-demetrius" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 25 Sep 2008 12:12:45 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5732-all-that-you-touch-you-change-all-that-you-change</guid>
+		<pubDate>Thu, 25 Sep 2008 12:12:45 -0700</pubDate>
+		<title>
+			<![CDATA[Olive add a quote by Octavia E. Butler]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5732-all-that-you-touch-you-change-all-that-you-change]]>
+		</link>
+		<description>
+	    <![CDATA["All that you touch
+You Change.
+
+All that you Change
+Changes you.
+
+The only lasting truth
+is Change.
+
+God
+is Change." -- Octavia E. Butler]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

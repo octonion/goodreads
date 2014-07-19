@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/155469-scott]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/155469-scott" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 12 May 2009 01:44:54 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/161209-we-all-know-that-books-will-burn----yet-we</guid>
+		<pubDate>Tue, 12 May 2009 01:44:54 -0700</pubDate>
+		<title>
+			<![CDATA[Scott add a quote by Franklin Delano Roosevelt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/161209-we-all-know-that-books-will-burn----yet-we]]>
+		</link>
+		<description>
+	    <![CDATA["We all know that books will burn -- yet we have the greater knowledge that books cannot be killed by fire. People die, but books never die. No man and no force can abolish memory..." -- Franklin Delano Roosevelt]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/23974-it-is-a-good-rule-after-reading-a-new-book</guid>
+		<pubDate>Tue, 03 Apr 2012 09:25:10 -0700</pubDate>
+		<title>
+			<![CDATA[Scott add a quote by C.S. Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/23974-it-is-a-good-rule-after-reading-a-new-book]]>
+		</link>
+		<description>
+	    <![CDATA["It is a good rule after reading a new book, never to allow yourself another new one till you have read an old one in between." -- C.S. Lewis]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2397-there-is-a-theory-which-states-that-if-ever-anyone</guid>
+		<pubDate>Tue, 09 Jul 2013 15:26:20 -0700</pubDate>
+		<title>
+			<![CDATA[Scott add a quote by Douglas Adams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2397-there-is-a-theory-which-states-that-if-ever-anyone]]>
+		</link>
+		<description>
+	    <![CDATA["There is a theory which states that if ever anyone discovers exactly what the Universe is for and why it is here, it will instantly disappear and be replaced by something even more bizarre and inexplicable. 
+There is another theory which states that this has already happened." -- Douglas Adams]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/19406-first-we-thought-the-pc-was-a-calculator-then-we</guid>
+		<pubDate>Tue, 09 Jul 2013 15:36:55 -0700</pubDate>
+		<title>
+			<![CDATA[Scott add a quote by Douglas Adams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/19406-first-we-thought-the-pc-was-a-calculator-then-we]]>
+		</link>
+		<description>
+	    <![CDATA["First we thought the PC was a calculator. Then we found out how to turn numbers into letters with ASCII — and we thought it was a typewriter. Then we discovered graphics, and we thought it was a television. With the World Wide Web, we've realized it's a brochure." -- Douglas Adams]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

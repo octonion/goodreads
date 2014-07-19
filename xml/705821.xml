@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/705821-audrey-smith]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/705821-audrey-smith" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 21 Dec 2007 16:54:14 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/352-outside-of-a-dog-a-book-is-man-s-best-friend</guid>
+		<pubDate>Fri, 21 Dec 2007 16:54:14 -0800</pubDate>
+		<title>
+			<![CDATA[Audrey add a quote by Groucho Marx]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/352-outside-of-a-dog-a-book-is-man-s-best-friend]]>
+		</link>
+		<description>
+	    <![CDATA["Outside of a dog, a book is man's best friend. Inside of a dog it's too dark to read." -- Groucho Marx]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1599-i-generally-avoid-temptation-unless-i-can-t-resist-it</guid>
+		<pubDate>Fri, 21 Dec 2007 16:55:09 -0800</pubDate>
+		<title>
+			<![CDATA[Audrey add a quote by Mae West]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1599-i-generally-avoid-temptation-unless-i-can-t-resist-it]]>
+		</link>
+		<description>
+	    <![CDATA["I generally avoid temptation unless I can't resist it." -- Mae West]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

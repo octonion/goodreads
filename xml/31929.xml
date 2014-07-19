@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/31929-thomas]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/31929-thomas" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 08 Apr 2014 16:39:19 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/204455-i-caution-you-as-i-was-never-cautioned-you-will</guid>
+		<pubDate>Tue, 08 Apr 2014 16:39:19 -0700</pubDate>
+		<title>
+			<![CDATA[Thomas add a quote by Louise Glück]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/204455-i-caution-you-as-i-was-never-cautioned-you-will]]>
+		</link>
+		<description>
+	    <![CDATA["I caution you as I was never cautioned:
+
+You will never let go, you will never be satiated.
+You will be damaged and scarred, you will continue to hunger.
+
+Your body will age, you will continue to need.
+You will want the earth, then more of the earth--
+
+Sublime, indifferent, it is present, it will not respond.
+It is encompassing, it will not minister.
+
+Meaning, it will feed you, it will ravish you.
+It will not keep you alive." -- Louise Glück]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

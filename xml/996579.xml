@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/996579-kristine]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/996579-kristine" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 24 Mar 2008 01:55:13 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/37819-you-can-always-tell-what-kind-of-a-person-a</guid>
+		<pubDate>Mon, 24 Mar 2008 01:55:13 -0700</pubDate>
+		<title>
+			<![CDATA[Kristine add a quote by Audrey Hepburn]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/37819-you-can-always-tell-what-kind-of-a-person-a]]>
+		</link>
+		<description>
+	    <![CDATA["You can always tell what kind of a person a man really thinks you are by the earrings he gives you." -- Audrey Hepburn]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1098401-zondra-hughes]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1098401-zondra-hughes" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 21 Apr 2008 19:57:17 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/47123-fredo-you-re-my-older-brother-and-i-love-you-but</guid>
+		<pubDate>Mon, 21 Apr 2008 19:57:17 -0700</pubDate>
+		<title>
+			<![CDATA[Zondra add a quote by mario puzo]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/47123-fredo-you-re-my-older-brother-and-i-love-you-but]]>
+		</link>
+		<description>
+	    <![CDATA["Fredo you're my older brother and I love you. But don't ever take sides against the family..." -- mario puzo]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

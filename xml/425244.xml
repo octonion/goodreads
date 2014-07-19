@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/425244-kristi-jones]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/425244-kristi-jones" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 03 Apr 2014 07:33:11 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/84666-the-3-types-of-terror-the-gross-out-the-sight-of</guid>
+		<pubDate>Thu, 03 Apr 2014 07:33:11 -0700</pubDate>
+		<title>
+			<![CDATA[Kristi add a quote by Stephen King]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/84666-the-3-types-of-terror-the-gross-out-the-sight-of]]>
+		</link>
+		<description>
+	    <![CDATA["The 3 types of terror: The Gross-out: the sight of a severed head tumbling down a flight of stairs, it's when the lights go out and something green and slimy splatters against your arm. The Horror: the unnatural, spiders the size of bears, the dead waking up and walking around, it's when the lights go out and something with claws grabs you by the arm. And the last and worse one: Terror, when you come home and notice everything you own had been taken away and replaced by an exact substitute. It's when the lights go out and you feel something behind you, you hear it, you feel its breath against your ear, but when you turn around, there's nothing there..." -- Stephen King]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

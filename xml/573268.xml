@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/573268-etta-mo]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/573268-etta-mo" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 15 Dec 2007 21:50:13 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5637-no-human-had-ever-seen-an-adult-giant-squid-alive</guid>
+		<pubDate>Sat, 15 Dec 2007 21:50:13 -0800</pubDate>
+		<title>
+			<![CDATA[Etta add a quote by kiran desai]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5637-no-human-had-ever-seen-an-adult-giant-squid-alive]]>
+		</link>
+		<description>
+	    <![CDATA["No human had ever seen an adult giant squid alive, and though they had eyes as big as apples to scope the dark of the ocean, theirs was a solitude so profound they might never encounter another of their tribe...Could fulfilment ever be felt as deeply as loss? Romantically she decided that love must surely reside in the gap between desire and fulfilment, in the lack, not the contentment. Love was the ache, the anticipation, the retreat, everything around it but the emotion itself." -- kiran desai]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

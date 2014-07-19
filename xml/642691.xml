@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/642691-ivy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/642691-ivy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 10 Feb 2009 10:02:53 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/138732-the-heart-is-the-only-book-worth-reading</guid>
+		<pubDate>Tue, 10 Feb 2009 10:02:53 -0800</pubDate>
+		<title>
+			<![CDATA[Ivy add a quote by Ajahn Chah]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/138732-the-heart-is-the-only-book-worth-reading]]>
+		</link>
+		<description>
+	    <![CDATA["The heart is the only book worth reading." -- Ajahn Chah]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/138733-all-philosophies-are-mental-fabrications</guid>
+		<pubDate>Tue, 10 Feb 2009 10:03:41 -0800</pubDate>
+		<title>
+			<![CDATA[Ivy add a quote by Nagarjuna   Erik Hoogcarspel]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/138733-all-philosophies-are-mental-fabrications]]>
+		</link>
+		<description>
+	    <![CDATA["All philosophies are mental fabrications." -- Nagarjuna   Erik Hoogcarspel]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/47739-sex-is-part-of-nature-i-go-along-with-nature</guid>
+		<pubDate>Tue, 10 Feb 2009 10:09:56 -0800</pubDate>
+		<title>
+			<![CDATA[Ivy add a quote by Marilyn Monroe]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/47739-sex-is-part-of-nature-i-go-along-with-nature]]>
+		</link>
+		<description>
+	    <![CDATA["Sex is part of nature. I go along with nature." -- Marilyn Monroe]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/33937-early-to-bed-and-early-to-rise-makes-a-man</guid>
+		<pubDate>Tue, 10 Feb 2009 10:12:51 -0800</pubDate>
+		<title>
+			<![CDATA[Ivy add a quote by Benjamin Franklin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/33937-early-to-bed-and-early-to-rise-makes-a-man]]>
+		</link>
+		<description>
+	    <![CDATA["Early to bed and early to rise makes a man healthy, wealthy, and wise." -- Benjamin Franklin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

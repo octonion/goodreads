@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1096527-lalodelce-sinape]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1096527-lalodelce-sinape" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 18 Apr 2008 16:12:39 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/46042-no-es-suficiente-ser-comedido-si-no-que-hay-que</guid>
+		<pubDate>Fri, 18 Apr 2008 16:12:39 -0700</pubDate>
+		<title>
+			<![CDATA[Lalodelce add a quote by Lalodelce]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/46042-no-es-suficiente-ser-comedido-si-no-que-hay-que]]>
+		</link>
+		<description>
+	    <![CDATA["No es suficiente ser comedido, si no, que hay que ser además eficiente." -- Lalodelce]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4097-wonder-is-the-beginning-of-wisdom</guid>
+		<pubDate>Sun, 29 Nov 2009 19:36:53 -0800</pubDate>
+		<title>
+			<![CDATA[Lalodelce add a quote by Socrates]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4097-wonder-is-the-beginning-of-wisdom]]>
+		</link>
+		<description>
+	    <![CDATA["Wonder is the beginning of wisdom." -- Socrates]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4586-beer-is-proof-that-god-loves-us-and-wants-us</guid>
+		<pubDate>Fri, 18 Apr 2008 16:14:46 -0700</pubDate>
+		<title>
+			<![CDATA[Lalodelce add a quote by Benjamin Franklin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4586-beer-is-proof-that-god-loves-us-and-wants-us]]>
+		</link>
+		<description>
+	    <![CDATA["Beer is proof that God loves us and wants us to be happy.
+
+[misquote of a letter about wine, see quotes/831031]" -- Benjamin Franklin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

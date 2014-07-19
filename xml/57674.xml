@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/57674-h-moore]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/57674-h-moore" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 28 Dec 2013 11:41:59 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/974144-in-a-world-where-data-is-coin-of-the-realm</guid>
+		<pubDate>Sat, 28 Dec 2013 11:41:59 -0800</pubDate>
+		<title>
+			<![CDATA[H add a quote by C.S. Friedman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/974144-in-a-world-where-data-is-coin-of-the-realm]]>
+		</link>
+		<description>
+	    <![CDATA["In a world where data is coin of the realm, and transmissions are guarded by no better sentinels than man-made codes and corruptible devices, there is no such thing as a secret." -- C.S. Friedman]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/974145-all-data-leaves-a-trail-the-search-for-data-leaves</guid>
+		<pubDate>Sat, 28 Dec 2013 11:42:39 -0800</pubDate>
+		<title>
+			<![CDATA[H add a quote by C.S. Friedman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/974145-all-data-leaves-a-trail-the-search-for-data-leaves]]>
+		</link>
+		<description>
+	    <![CDATA["All data leaves a trail. The search for data leaves a trail. The erasure of data leaves a trail. The absence of data, under the right circumstances, can leave the clearest trail of all." -- C.S. Friedman]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

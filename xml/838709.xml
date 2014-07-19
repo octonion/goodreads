@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/838709-stacey-jean]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/838709-stacey-jean" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 10 Mar 2008 20:29:12 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/298-a-day-without-sunshine-is-like-you-know-night</guid>
+		<pubDate>Mon, 10 Mar 2008 20:29:12 -0700</pubDate>
+		<title>
+			<![CDATA[Stacey Jean add a quote by Steve Martin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/298-a-day-without-sunshine-is-like-you-know-night]]>
+		</link>
+		<description>
+	    <![CDATA["A day without sunshine is like, you know, night." -- Steve Martin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2887-if-you-judge-people-you-have-no-time-to-love</guid>
+		<pubDate>Tue, 27 Nov 2012 00:42:54 -0800</pubDate>
+		<title>
+			<![CDATA[Stacey Jean add a quote by Mother Teresa]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2887-if-you-judge-people-you-have-no-time-to-love]]>
+		</link>
+		<description>
+	    <![CDATA["If you judge people, you have no time to love them." -- Mother Teresa]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1858-for-most-of-history-anonymous-was-a-woman</guid>
+		<pubDate>Tue, 27 Nov 2012 00:44:32 -0800</pubDate>
+		<title>
+			<![CDATA[Stacey Jean add a quote by Virginia Woolf]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1858-for-most-of-history-anonymous-was-a-woman]]>
+		</link>
+		<description>
+	    <![CDATA["For most of history, Anonymous was a woman." -- Virginia Woolf]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

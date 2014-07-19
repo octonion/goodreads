@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/805473-guy-jacobs]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/805473-guy-jacobs" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 01 Dec 2013 02:23:25 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/155949-surely-every-one-realizes-at-some-point-along-the-way</guid>
+		<pubDate>Sun, 01 Dec 2013 02:23:25 -0800</pubDate>
+		<title>
+			<![CDATA[Guy add a quote by Henry Miller]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/155949-surely-every-one-realizes-at-some-point-along-the-way]]>
+		</link>
+		<description>
+	    <![CDATA["Surely every one realizes, at some point along the way, that he is capable of living a far better life than the one he has chosen." -- Henry Miller]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

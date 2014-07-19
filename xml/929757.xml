@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/929757-gerry]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/929757-gerry" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 05 Feb 2014 16:01:24 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/450512-my-dental-hygienist-is-cute-every-time-i-visit-i</guid>
+		<pubDate>Wed, 05 Feb 2014 16:01:24 -0800</pubDate>
+		<title>
+			<![CDATA[Gerry add a quote by Steven Wright]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/450512-my-dental-hygienist-is-cute-every-time-i-visit-i]]>
+		</link>
+		<description>
+	    <![CDATA["My dental hygienist is cute. Every time I visit, I eat a whole package of Oreo cookies while waiting in the lobby. Sometimes she has to cancel the rest of the afternoon's appointments." -- Steven Wright]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

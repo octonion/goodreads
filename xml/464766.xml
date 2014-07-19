@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/464766-memories]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/464766-memories" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 05 Jun 2013 07:46:41 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/150532-sometimes-you-wake-up-from-a-dream-sometimes-you-wake</guid>
+		<pubDate>Wed, 05 Jun 2013 07:46:41 -0700</pubDate>
+		<title>
+			<![CDATA[Memories add a quote by Richelle Mead]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/150532-sometimes-you-wake-up-from-a-dream-sometimes-you-wake]]>
+		</link>
+		<description>
+	    <![CDATA["Sometimes you wake up from a dream. Sometimes you wake up in a dream. And sometimes, every once in a while, you wake up in someone else's dream. " -- Richelle Mead]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/35678-everybody-has-a-plan-until-they-get-punched-in-the</guid>
+		<pubDate>Sun, 20 Apr 2014 05:14:12 -0700</pubDate>
+		<title>
+			<![CDATA[Memories add a quote by Mike Tyson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/35678-everybody-has-a-plan-until-they-get-punched-in-the]]>
+		</link>
+		<description>
+	    <![CDATA["Everybody has a plan until they get punched in the face." -- Mike Tyson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

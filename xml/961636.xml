@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/961636-lydia-poole]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/961636-lydia-poole" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 03 Mar 2008 12:49:55 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/30579-the-best-day-of-your-life-is-the-one-on</guid>
+		<pubDate>Mon, 03 Mar 2008 12:49:55 -0800</pubDate>
+		<title>
+			<![CDATA[Lydia add a quote by Bob Moawad]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/30579-the-best-day-of-your-life-is-the-one-on]]>
+		</link>
+		<description>
+	    <![CDATA["The best day of your life is the one on which you decide your life is your own. No apologies or excuses. No one to lean on, rely on, or blame. The gift is yours - it is an amazing journey - and you alone are responsible for the quality of it. This is the day your life really begins." -- Bob Moawad]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/18093-it-is-amazing-what-you-can-accomplish-if-you-do</guid>
+		<pubDate>Mon, 03 Mar 2008 12:53:30 -0800</pubDate>
+		<title>
+			<![CDATA[Lydia add a quote by Harry S. Truman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18093-it-is-amazing-what-you-can-accomplish-if-you-do]]>
+		</link>
+		<description>
+	    <![CDATA["It is amazing what you can accomplish if you do not care who gets the credit." -- Harry S. Truman]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

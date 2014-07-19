@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/63255-wildflower]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/63255-wildflower" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 30 Oct 2012 07:18:16 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/73368-everything-we-hear-is-an-opinion-not-a-fact-everything</guid>
+		<pubDate>Tue, 30 Oct 2012 07:18:16 -0700</pubDate>
+		<title>
+			<![CDATA[wildflower add a quote by Marcus Aurelius ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/73368-everything-we-hear-is-an-opinion-not-a-fact-everything]]>
+		</link>
+		<description>
+	    <![CDATA["Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth." -- Marcus Aurelius ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/77774-how-much-more-grievous-are-the-consequences-of-anger-than</guid>
+		<pubDate>Tue, 30 Oct 2012 07:20:37 -0700</pubDate>
+		<title>
+			<![CDATA[wildflower add a quote by Marcus Aurelius]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/77774-how-much-more-grievous-are-the-consequences-of-anger-than]]>
+		</link>
+		<description>
+	    <![CDATA["How much more grievous are the consequences of anger than the causes of it." -- Marcus Aurelius]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/21296-dwell-on-the-beauty-of-life-watch-the-stars-and</guid>
+		<pubDate>Tue, 30 Oct 2012 07:27:15 -0700</pubDate>
+		<title>
+			<![CDATA[wildflower add a quote by Marcus Aurelius]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21296-dwell-on-the-beauty-of-life-watch-the-stars-and]]>
+		</link>
+		<description>
+	    <![CDATA["Dwell on the beauty of life. Watch the stars, and see yourself running with them." -- Marcus Aurelius]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

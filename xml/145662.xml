@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/145662-michelle]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/145662-michelle" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 28 Dec 2008 09:47:19 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/125426-piracy-is-our-only-option</guid>
+		<pubDate>Sun, 28 Dec 2008 09:47:19 -0800</pubDate>
+		<title>
+			<![CDATA[Michelle add a quote by Emma Thompson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/125426-piracy-is-our-only-option]]>
+		</link>
+		<description>
+	    <![CDATA["Piracy is our only option." -- Emma Thompson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/108947-oh-i-don-t-read-i-skulk-about-in-search-of</guid>
+		<pubDate>Tue, 10 Feb 2009 15:47:53 -0800</pubDate>
+		<title>
+			<![CDATA[Michelle add a quote by Tasha Alexander]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/108947-oh-i-don-t-read-i-skulk-about-in-search-of]]>
+		</link>
+		<description>
+	    <![CDATA["Oh, I don't read. I skulk about in search of quotations that might make me appear educated." -- Tasha Alexander]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

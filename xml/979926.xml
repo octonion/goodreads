@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/979926-monica-bhide]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/979926-monica-bhide" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 21 Feb 2014 11:15:30 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2846-and-the-day-came-when-the-risk-to-remain-tight</guid>
+		<pubDate>Fri, 21 Feb 2014 11:15:30 -0800</pubDate>
+		<title>
+			<![CDATA[Monica add a quote by Anais Nin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2846-and-the-day-came-when-the-risk-to-remain-tight]]>
+		</link>
+		<description>
+	    <![CDATA["And the day came when the risk to remain tight in a bud was more painful than the risk it took to blossom." -- Anais Nin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/507211-somewhere-over-the-rainbow-skies-are-blue-and-the-dreams</guid>
+		<pubDate>Tue, 08 Apr 2014 06:07:31 -0700</pubDate>
+		<title>
+			<![CDATA[Monica add a quote by E.Y. Harburg]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/507211-somewhere-over-the-rainbow-skies-are-blue-and-the-dreams]]>
+		</link>
+		<description>
+	    <![CDATA["Somewhere over the rainbow, skies are blue, and the dreams that you dare to dream really do come true." -- E.Y. Harburg]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

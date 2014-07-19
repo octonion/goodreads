@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/253664-melody]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/253664-melody" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 01 Nov 2013 15:24:26 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/547456-the-reformation-was-a-time-when-men-went-blind-staggering</guid>
+		<pubDate>Fri, 01 Nov 2013 15:24:26 -0700</pubDate>
+		<title>
+			<![CDATA[Melody add a quote by Robert Farrar Capon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/547456-the-reformation-was-a-time-when-men-went-blind-staggering]]>
+		</link>
+		<description>
+	    <![CDATA["The Reformation was a time when men went blind, staggering drunk because they had discovered, in the dusty basement of late medievalism, a whole cellar full of fifteen-hundred-year-old, two-hundred proof Grace–bottle after bottle of pure distilate of Scripture, one sip of which would convince anyone that God saves us single-handedly. The word of the Gospel–after all those centuries of trying to lift yourself into heaven by worrying about the perfection of your bootstraps–suddenly turned out to be a flat announcement that the saved were home before they started…Grace has to be drunk straight: no water, no ice, and certainly no ginger ale; neither goodness, nor badness, not the flowers that bloom in the spring of super spirituality could be allowed to enter into the case." -- Robert Farrar Capon]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

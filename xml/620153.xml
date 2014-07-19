@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/620153-andrea-hagen-arndt]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/620153-andrea-hagen-arndt" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 27 Aug 2012 05:37:20 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/44321-so-the-midwest-nourishes-us-and-presents-us-with</guid>
+		<pubDate>Mon, 27 Aug 2012 05:37:20 -0700</pubDate>
+		<title>
+			<![CDATA[Andrea add a quote by Annie Dillard]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/44321-so-the-midwest-nourishes-us-and-presents-us-with]]>
+		</link>
+		<description>
+	    <![CDATA["So the Midwest nourishes us [...] and presents us with the spectacle of a land and a people completed and certain.  And so we run to our bedrooms and read in a fever, and love the big hardwood trees outside the windows, and the terrible Midwest summers, and the terrible Midwest winters [...].  And so we leave it sorrowfully, having grown strong and restless by opposing with all our will and mind and muscle its simple, loving, single will for us: that we stay, that we stay and find a place among its familiar possibilities.  Mother knew we would go; she encouraged us." -- Annie Dillard]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

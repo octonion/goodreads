@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/876228-ariel]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/876228-ariel" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 05 Feb 2008 03:47:29 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/21511-as-i-looked-back-over-my-life-i-realized-that</guid>
+		<pubDate>Tue, 05 Feb 2008 03:47:29 -0800</pubDate>
+		<title>
+			<![CDATA[Ariel add a quote by Gore Vidal]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21511-as-i-looked-back-over-my-life-i-realized-that]]>
+		</link>
+		<description>
+	    <![CDATA["As I looked back over my life, I realized that I enjoyed nothing--not art, not sex--more than going to the movies. " -- Gore Vidal]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/66-so-many-books-so-little-time</guid>
+		<pubDate>Tue, 05 Feb 2008 03:49:40 -0800</pubDate>
+		<title>
+			<![CDATA[Ariel add a quote by Frank Zappa]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/66-so-many-books-so-little-time]]>
+		</link>
+		<description>
+	    <![CDATA["So many books, so little time." -- Frank Zappa]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

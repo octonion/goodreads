@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1045929-jenna-lane]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1045929-jenna-lane" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 08 Apr 2008 05:42:21 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/21667-society-is-like-a-stew-if-you-don-t-stir-it</guid>
+		<pubDate>Tue, 08 Apr 2008 05:42:21 -0700</pubDate>
+		<title>
+			<![CDATA[Jenna add a quote by Edward Abbey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21667-society-is-like-a-stew-if-you-don-t-stir-it]]>
+		</link>
+		<description>
+	    <![CDATA["Society is like a stew. If you don't stir it up every once in a while then a layer of scum floats to the top." -- Edward Abbey]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/42505-a-drink-a-day-keeps-the-shrink-away</guid>
+		<pubDate>Tue, 08 Apr 2008 05:43:06 -0700</pubDate>
+		<title>
+			<![CDATA[Jenna add a quote by Edward Abbey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/42505-a-drink-a-day-keeps-the-shrink-away]]>
+		</link>
+		<description>
+	    <![CDATA["A drink a day keeps the shrink away." -- Edward Abbey]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/42506-abolition-of-a-woman-s-right-to-abortion-when-and-if</guid>
+		<pubDate>Tue, 08 Apr 2008 05:46:18 -0700</pubDate>
+		<title>
+			<![CDATA[Jenna add a quote by Edward Abbey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/42506-abolition-of-a-woman-s-right-to-abortion-when-and-if]]>
+		</link>
+		<description>
+	    <![CDATA["Abolition of a woman's right to abortion, when and if she wants it, amounts to compulsory maternity: a form of rape by the State." -- Edward Abbey]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

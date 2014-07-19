@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/148421-tomi-ann]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/148421-tomi-ann" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Sep 2012 19:37:13 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/211000-i-like-people-too-much-or-not-at-all-i-ve</guid>
+		<pubDate>Tue, 11 Sep 2012 19:37:13 -0700</pubDate>
+		<title>
+			<![CDATA[Tomi-Ann add a quote by Sylvia Plath]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/211000-i-like-people-too-much-or-not-at-all-i-ve]]>
+		</link>
+		<description>
+	    <![CDATA["I like people too much or not at all. I've got to go down deep, to fall into people, to really know them." -- Sylvia Plath]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/372402-jane]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/372402-jane" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 20 May 2013 23:10:09 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/413510-there-are-times-when-a-feeling-of-expectancy-comes-to</guid>
+		<pubDate>Mon, 20 May 2013 23:10:09 -0700</pubDate>
+		<title>
+			<![CDATA[Jane add a quote by Sylvia Plath]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/413510-there-are-times-when-a-feeling-of-expectancy-comes-to]]>
+		</link>
+		<description>
+	    <![CDATA["There are times when a feeling of expectancy comes to me, as if something is there, beneath the surface of my understanding, waiting for me to grasp it. It is the same tantalizing sensation when you almost remember a name, but don't quite reach it. I can feel it when I think of human beings, of the hints of evolution suggested by the removal of wisdom teeth, the narrowing of the jaw no longer needed to chew such roughage as it was accustomed to; the gradual disappearance of hair from the human body; the adjustment of the human eye to the fine print, the swift, colored motion of the twentieth century. The feeling comes, vague and nebulous, when I consider the prolonged adolesence of our species; the rites of birth, marriage and death; all the primitive, barbaric ceremonies streamlined to modern times. Almost, I think, the unreasoning, bestial purity was best. Oh, something is there, waiting for me. Perhaps someday the revelation will burst in upon me and I will see the other side of this monumental grotesque joke. And then I'll laugh. And then I'll know what life is." -- Sylvia Plath]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

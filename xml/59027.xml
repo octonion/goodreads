@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/59027-susie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/59027-susie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Oct 2011 00:29:38 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1487-the-chinese-use-two-brush-strokes-to-write-the-word</guid>
+		<pubDate>Tue, 11 Oct 2011 00:29:38 -0700</pubDate>
+		<title>
+			<![CDATA[susie add a quote by John F. Kennedy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1487-the-chinese-use-two-brush-strokes-to-write-the-word]]>
+		</link>
+		<description>
+	    <![CDATA["The Chinese use two brush strokes to write the word 'crisis.' One brush stroke stands for danger; the other for opportunity. In a crisis, be aware of the danger--but recognize the opportunity." -- John F. Kennedy]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

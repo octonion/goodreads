@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/893450-haley]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/893450-haley" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 26 Feb 2013 19:43:31 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/60172-if-you-expect-nothing-from-anybody-you-re-never-disappointed</guid>
+		<pubDate>Tue, 26 Feb 2013 19:43:31 -0800</pubDate>
+		<title>
+			<![CDATA[Haley add a quote by Sylvia Plath]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/60172-if-you-expect-nothing-from-anybody-you-re-never-disappointed]]>
+		</link>
+		<description>
+	    <![CDATA["If you expect nothing from anybody, you’re never disappointed." -- Sylvia Plath]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4063-the-silence-depressed-me-it-wasn-t-the-silence-of-silence</guid>
+		<pubDate>Tue, 26 Feb 2013 19:43:41 -0800</pubDate>
+		<title>
+			<![CDATA[Haley add a quote by Sylvia Plath]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4063-the-silence-depressed-me-it-wasn-t-the-silence-of-silence]]>
+		</link>
+		<description>
+	    <![CDATA["The silence depressed me. It wasn't the silence of silence. It was my own silence." -- Sylvia Plath]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

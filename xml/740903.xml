@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/740903-sarah]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/740903-sarah" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 14 Jan 2012 15:39:41 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5030-we-don-t-see-things-as-they-are-we-see-them</guid>
+		<pubDate>Sat, 14 Jan 2012 15:39:41 -0800</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by Anaïs Nin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5030-we-don-t-see-things-as-they-are-we-see-them]]>
+		</link>
+		<description>
+	    <![CDATA["We don't see things as they are, we see them as we are." -- Anaïs Nin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/9590-we-read-to-know-we-re-not-alone</guid>
+		<pubDate>Sat, 14 Jan 2012 15:40:47 -0800</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by William Nicholson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9590-we-read-to-know-we-re-not-alone]]>
+		</link>
+		<description>
+	    <![CDATA["We read to know we're not alone." -- William Nicholson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/7986-education-is-not-the-filling-of-a-pail-but-the</guid>
+		<pubDate>Sun, 03 Feb 2013 18:24:52 -0800</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by William Butler Yeats]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7986-education-is-not-the-filling-of-a-pail-but-the]]>
+		</link>
+		<description>
+	    <![CDATA["Education is not the filling of a pail, but the lighting of a fire." -- William Butler Yeats]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/56399-claire]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/56399-claire" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 14 Mar 2014 14:37:06 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/90592-and-as-he-drove-on-the-rainclouds-dragged-down-the</guid>
+		<pubDate>Fri, 14 Mar 2014 14:37:06 -0700</pubDate>
+		<title>
+			<![CDATA[Claire add a quote by Douglas Adams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/90592-and-as-he-drove-on-the-rainclouds-dragged-down-the]]>
+		</link>
+		<description>
+	    <![CDATA["And as he drove on, the rainclouds dragged down the sky after him, for, though he did not know it, Rob McKenna was a Rain God. All he knew was that his working days were miserable and he had a succession of lousy holidays. All the clouds knew was that they loved him and wanted to be near him, to cherish him, and to water him." -- Douglas Adams]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

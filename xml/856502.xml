@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/856502-shivanand-velmurugan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/856502-shivanand-velmurugan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 28 Dec 2011 17:03:03 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/134283-one-of-the-greatest-tragedies-in-mankind-s-entire-history-may</guid>
+		<pubDate>Wed, 28 Dec 2011 17:03:03 -0800</pubDate>
+		<title>
+			<![CDATA[Shivanand add a quote by Arthur C. Clarke]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/134283-one-of-the-greatest-tragedies-in-mankind-s-entire-history-may]]>
+		</link>
+		<description>
+	    <![CDATA["One of the greatest tragedies in mankind's entire history may be that morality was hijacked by religion." -- Arthur C. Clarke]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

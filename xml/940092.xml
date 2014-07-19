@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/940092-zane]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/940092-zane" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 20 Apr 2012 10:46:32 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/46223-in-the-dark-times-will-there-also-be-singing-yes</guid>
+		<pubDate>Fri, 20 Apr 2012 10:46:32 -0700</pubDate>
+		<title>
+			<![CDATA[Zane add a quote by Bertolt Brecht]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/46223-in-the-dark-times-will-there-also-be-singing-yes]]>
+		</link>
+		<description>
+	    <![CDATA["In the dark times 
+Will there also be singing? 
+Yes, there will also be singing.
+About the dark times." -- Bertolt Brecht]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/666521-but-it-s-still-a-big-fight-to-get-the-work</guid>
+		<pubDate>Thu, 22 Nov 2012 18:17:52 -0800</pubDate>
+		<title>
+			<![CDATA[Zane add a quote by Brandon Graham]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/666521-but-it-s-still-a-big-fight-to-get-the-work]]>
+		</link>
+		<description>
+	    <![CDATA["But it’s still a big fight to get the work you’re really excited about onto shelves. And past that, convincing someone to pay you to do the work that you are most excited about is more than a trick, it’s a fucking scam of a magic trick." -- Brandon Graham]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/642864-a-tyrant-institutionalises-stupidity-but-he-is-the-first-servant</guid>
+		<pubDate>Wed, 30 Apr 2014 11:56:46 -0700</pubDate>
+		<title>
+			<![CDATA[Zane add a quote by Gilles Deleuze]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/642864-a-tyrant-institutionalises-stupidity-but-he-is-the-first-servant]]>
+		</link>
+		<description>
+	    <![CDATA["A tyrant institutionalises stupidity, but he is the first servant of his own system and the first to be installed within it." -- Gilles Deleuze]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

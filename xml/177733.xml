@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/177733-sheri]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/177733-sheri" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 10 Jan 2008 05:35:09 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4468-a-man-is-but-the-product-of-his-thoughts-what</guid>
+		<pubDate>Thu, 10 Jan 2008 05:35:09 -0800</pubDate>
+		<title>
+			<![CDATA[Sheri add a quote by Mahatma Gandhi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4468-a-man-is-but-the-product-of-his-thoughts-what]]>
+		</link>
+		<description>
+	    <![CDATA["A man is but the product of his thoughts.  What he thinks, he becomes." -- Mahatma Gandhi]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/291-we-all-do-better-when-we-work-together-our-differences</guid>
+		<pubDate>Thu, 10 Jan 2008 05:36:04 -0800</pubDate>
+		<title>
+			<![CDATA[Sheri add a quote by Bill Clinton]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/291-we-all-do-better-when-we-work-together-our-differences]]>
+		</link>
+		<description>
+	    <![CDATA["We all do better when we work together. Our differences do matter, but our common humanity matters more." -- Bill Clinton]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

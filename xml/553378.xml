@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/553378-juni]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/553378-juni" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 12 Dec 2007 17:38:29 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2489-if-there-hadn-t-been-a-sixth-day-man-would-not</guid>
+		<pubDate>Wed, 12 Dec 2007 17:38:29 -0800</pubDate>
+		<title>
+			<![CDATA[Juni add a quote by Paulo Coelho]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2489-if-there-hadn-t-been-a-sixth-day-man-would-not]]>
+		</link>
+		<description>
+	    <![CDATA["If there hadn't been a sixth day, man would not exist; copper would always be copper; and lead just lead. It's true that everything has its Personal Legend, but one day that Personal Legend will be realized. So each thing has to transform itself into something better, and to acquire a new Personal Legend, until, someday, the Soul of the World becomes one thing only." -- Paulo Coelho]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

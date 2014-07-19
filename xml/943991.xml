@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/943991-a-w]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/943991-a-w" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 24 Mar 2008 05:15:30 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/37832-sometimes-nothing-is-a-real-cool-hand</guid>
+		<pubDate>Mon, 24 Mar 2008 05:15:30 -0700</pubDate>
+		<title>
+			<![CDATA[A.W. add a quote by Don Pearce]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/37832-sometimes-nothing-is-a-real-cool-hand]]>
+		</link>
+		<description>
+	    <![CDATA["Sometimes nothing is a real cool hand" -- Don Pearce]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/164-it-is-one-of-the-blessings-of-old-friends-that</guid>
+		<pubDate>Thu, 07 May 2009 11:30:48 -0700</pubDate>
+		<title>
+			<![CDATA[A.W. add a quote by Ralph Waldo Emerson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/164-it-is-one-of-the-blessings-of-old-friends-that]]>
+		</link>
+		<description>
+	    <![CDATA["It is one of the blessings of old friends that you can afford to be stupid with them." -- Ralph Waldo Emerson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/17144-love-is-the-longing-for-the-half-of-ourselves-we</guid>
+		<pubDate>Thu, 07 May 2009 11:31:16 -0700</pubDate>
+		<title>
+			<![CDATA[A.W. add a quote by Milan Kundera]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17144-love-is-the-longing-for-the-half-of-ourselves-we]]>
+		</link>
+		<description>
+	    <![CDATA["Love is the longing for the half of ourselves we have lost." -- Milan Kundera]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

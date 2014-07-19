@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1042267-joey]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1042267-joey" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 12 Dec 2008 21:52:59 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/29865-just-when-you-think-it-can-t-get-any-worse-it</guid>
+		<pubDate>Fri, 12 Dec 2008 21:52:59 -0800</pubDate>
+		<title>
+			<![CDATA[Joey add a quote by Nicholas Sparks]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/29865-just-when-you-think-it-can-t-get-any-worse-it]]>
+		</link>
+		<description>
+	    <![CDATA["Just when you think it can't get any worse, it can. And just when you think it can't get any better, it can." -- Nicholas Sparks]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/288170-sometimes-we-know-in-our-bones-what-we-really-need</guid>
+		<pubDate>Wed, 13 Oct 2010 18:18:43 -0700</pubDate>
+		<title>
+			<![CDATA[Joey add a quote by Wil Wheaton]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/288170-sometimes-we-know-in-our-bones-what-we-really-need]]>
+		</link>
+		<description>
+	    <![CDATA["Sometimes we know in our bones what we really need to do, but we're afraid to do it. Taking a chance and stepping beyond the safety of the world we've always known is the only way to grow, though and without risk there is no reward." -- Wil Wheaton]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

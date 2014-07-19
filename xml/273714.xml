@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/273714-susannah-goldstein]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/273714-susannah-goldstein" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 16 Jul 2011 04:19:14 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/408245-darling-you-asked-me-to-write-you-a-letter-so</guid>
+		<pubDate>Sat, 16 Jul 2011 04:19:14 -0700</pubDate>
+		<title>
+			<![CDATA[Susannah add a quote by Jonathan Safran Foer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/408245-darling-you-asked-me-to-write-you-a-letter-so]]>
+		</link>
+		<description>
+	    <![CDATA["Darling,
+You asked me to write you a letter, so I am writing you a letter. I do not know why I am writing you this letter, or what this letter is supposed to be about, but I am writing it nonetheless, because I love you very much and trust that you have some good purpose for having me write this letter. I hope that one day you will have the experience of doing something you do not understand for someone you love.
+Your father" -- Jonathan Safran Foer]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

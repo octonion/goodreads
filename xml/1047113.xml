@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1047113-ketrisse]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1047113-ketrisse" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 17 Jan 2013 13:03:37 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/278019-i-wonder-if-people-will-ever-say-let-s-hear-about</guid>
+		<pubDate>Thu, 17 Jan 2013 13:03:37 -0800</pubDate>
+		<title>
+			<![CDATA[Ketrisse add a quote by J.R.R. Tolkien]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/278019-i-wonder-if-people-will-ever-say-let-s-hear-about]]>
+		</link>
+		<description>
+	    <![CDATA["I wonder if people will ever say, &quot;Let's hear about Frodo and the Ring.&quot; And they'll say, &quot;Yes, that's one of my favorite stories. Frodo was really courageous, wasn't he, Dad?&quot; &quot;Yes, m'boy, the most famousest of hobbits. And that's saying a lot." -- J.R.R. Tolkien]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/220214-i-ve-never-thought-of-you-like-that-said-christopher-how</guid>
+		<pubDate>Thu, 03 Apr 2014 10:33:11 -0700</pubDate>
+		<title>
+			<![CDATA[Ketrisse add a quote by Elizabeth Marie Pope]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/220214-i-ve-never-thought-of-you-like-that-said-christopher-how]]>
+		</link>
+		<description>
+	    <![CDATA["I've never thought of you like that,' said Christopher. 'How could I?  If you were any other woman, I could tell you I loved you, easily enough, but not you-- because you've always seemed to me like a part of myself, and it would be like saying I loved my own eyes or my own mind.  But have you ever thought of what it would be to have to live without your mind or your eyes, Kate?  To be mad?  Or blind?" -- Elizabeth Marie Pope]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

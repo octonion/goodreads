@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/949025-laura]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/949025-laura" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 12 May 2008 17:42:32 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/18637-librarians-dusty-possess-a-vast-store-of-politeness-these-are</guid>
+		<pubDate>Mon, 12 May 2008 17:42:32 -0700</pubDate>
+		<title>
+			<![CDATA[Laura add a quote by Garrison Keillor]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18637-librarians-dusty-possess-a-vast-store-of-politeness-these-are]]>
+		</link>
+		<description>
+	    <![CDATA["Librarians, Dusty, possess a vast store of politeness. These are people who get asked regularly the dumbest questions on God's green earth. These people tolerate every kind of crank and eccentric and mouth breather there is." -- Garrison Keillor]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/54596-dad-claims-that-library-science-is-the-foundation-of-all</guid>
+		<pubDate>Fri, 16 May 2008 10:11:57 -0700</pubDate>
+		<title>
+			<![CDATA[Laura add a quote by Robert Heinlein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/54596-dad-claims-that-library-science-is-the-foundation-of-all]]>
+		</link>
+		<description>
+	    <![CDATA["Dad claims that library science is the foundation of all sciences just 
+as math is the key -- and we will survive or founder, depending on how 
+well the librarians do their jobs.  Librarians didn't look glamorous to 
+me but maybe Dad had hit on a not very obvious truth." -- Robert Heinlein]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

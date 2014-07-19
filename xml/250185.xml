@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/250185-margaret]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/250185-margaret" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 02 Jan 2014 11:40:04 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/81081-everything-in-nature-invites-us-constantly-to-be-what-we</guid>
+		<pubDate>Thu, 02 Jan 2014 11:40:04 -0800</pubDate>
+		<title>
+			<![CDATA[Margaret add a quote by Gretel Ehrlich]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/81081-everything-in-nature-invites-us-constantly-to-be-what-we]]>
+		</link>
+		<description>
+	    <![CDATA["Everything in nature invites us constantly to be what we are." -- Gretel Ehrlich]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/35103-the-truest-art-i-would-strive-for-in-any-work</guid>
+		<pubDate>Thu, 02 Jan 2014 11:40:17 -0800</pubDate>
+		<title>
+			<![CDATA[Margaret add a quote by Gretel Ehrlich]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/35103-the-truest-art-i-would-strive-for-in-any-work]]>
+		</link>
+		<description>
+	    <![CDATA["The truest art I would strive for in any work would be to give the page the same qualities as earth: weather would land on it harshly; light would elucidate the most difficult truths; wind would sweep away obtuse padding." -- Gretel Ehrlich]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

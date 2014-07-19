@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/424128-lady-ozma]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/424128-lady-ozma" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 12 Jul 2010 20:37:17 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/66608-when-everything-goes-to-hell-the-people-who-stand-by</guid>
+		<pubDate>Mon, 12 Jul 2010 20:37:17 -0700</pubDate>
+		<title>
+			<![CDATA[Lady Ozma add a quote by Jim Butcher]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/66608-when-everything-goes-to-hell-the-people-who-stand-by]]>
+		</link>
+		<description>
+	    <![CDATA["When everything goes to hell, the people who stand by you without flinching -- they are your family. " -- Jim Butcher]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/168725-there-is-no-music-in-hell-for-all-good-music</guid>
+		<pubDate>Mon, 21 Feb 2011 03:21:53 -0800</pubDate>
+		<title>
+			<![CDATA[Lady Ozma add a quote by Brigham Young]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/168725-there-is-no-music-in-hell-for-all-good-music]]>
+		</link>
+		<description>
+	    <![CDATA["There is no music in hell, for all good music belongs to heaven." -- Brigham Young]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

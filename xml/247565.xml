@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/247565-neil]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/247565-neil" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 08 Dec 2010 11:02:40 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/320280-it-doesn-t-do-me-any-good-to-be-proud-it-s</guid>
+		<pubDate>Wed, 08 Dec 2010 11:02:40 -0800</pubDate>
+		<title>
+			<![CDATA[Neil add a quote by Pat Tillman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/320280-it-doesn-t-do-me-any-good-to-be-proud-it-s]]>
+		</link>
+		<description>
+	    <![CDATA["It doesn’t do me any good to be proud. It’s better to just force myself to be naïve about things, because otherwise I’ll start being happy with myself, and then I’ll stand still, and then I’m old news." -- Pat Tillman]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/7086-in-a-time-of-deceit-telling-the-truth-is-a</guid>
+		<pubDate>Wed, 09 Feb 2011 13:52:03 -0800</pubDate>
+		<title>
+			<![CDATA[Neil add a quote by George Orwell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7086-in-a-time-of-deceit-telling-the-truth-is-a]]>
+		</link>
+		<description>
+	    <![CDATA["In a time of deceit telling the truth is a revolutionary act." -- George Orwell]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/364636-we-should-enjoy-and-make-the-most-of-life-not</guid>
+		<pubDate>Tue, 09 Oct 2012 17:43:08 -0700</pubDate>
+		<title>
+			<![CDATA[Neil add a quote by Greg Graffin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/364636-we-should-enjoy-and-make-the-most-of-life-not]]>
+		</link>
+		<description>
+	    <![CDATA["We should enjoy and make the most of life, not because we are in constant fear of what might happen to us in a mythical afterlife, but because we have only one opportunity to live." -- Greg Graffin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

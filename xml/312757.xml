@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/312757-alantria-harris]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/312757-alantria-harris" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 10 Jan 2014 06:39:36 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/697113-if-you-are-brave-enough-to-say-goodbye-life-will</guid>
+		<pubDate>Fri, 10 Jan 2014 06:39:36 -0800</pubDate>
+		<title>
+			<![CDATA[Alantria add a quote by paulo coehlo]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/697113-if-you-are-brave-enough-to-say-goodbye-life-will]]>
+		</link>
+		<description>
+	    <![CDATA["If you are brave enough to say goodbye, life will reward you with a new Hello.
+
+Paulo Coehlo" -- paulo coehlo]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/17637-the-purpose-of-life-is-to-discover-your-gift-the</guid>
+		<pubDate>Sun, 20 Apr 2014 13:50:55 -0700</pubDate>
+		<title>
+			<![CDATA[Alantria add a quote by David Viscott]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17637-the-purpose-of-life-is-to-discover-your-gift-the]]>
+		</link>
+		<description>
+	    <![CDATA["The purpose of life is to discover your gift. The meaning of life is to give your gift away." -- David Viscott]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

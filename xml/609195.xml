@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/609195-kate]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/609195-kate" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 03 Oct 2009 17:23:46 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/43334-i-love-you-also-means-i-love-you-more-than</guid>
+		<pubDate>Sat, 03 Oct 2009 17:23:46 -0700</pubDate>
+		<title>
+			<![CDATA[Kate add a quote by Jonathan Safran Foer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/43334-i-love-you-also-means-i-love-you-more-than]]>
+		</link>
+		<description>
+	    <![CDATA["I love you also means I love you more than anyone loves you, or has loved you, or will love you, and also, I love you in a way that no one loves you, or has loved you, or will love you, and also, I love you in a way that I love no one else, and never have loved anyone else, and never will love anyone else." -- Jonathan Safran Foer]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/43412-the-only-way-to-find-true-happiness-is-to-risk</guid>
+		<pubDate>Sat, 03 Oct 2009 17:24:16 -0700</pubDate>
+		<title>
+			<![CDATA[Kate add a quote by Chuck Palahniuk]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/43412-the-only-way-to-find-true-happiness-is-to-risk]]>
+		</link>
+		<description>
+	    <![CDATA["The only way to find true happiness is to risk being completely cut open." -- Chuck Palahniuk]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/43017-she-had-fallen-in-love-so-many-times-that-she</guid>
+		<pubDate>Sat, 03 Oct 2009 17:25:00 -0700</pubDate>
+		<title>
+			<![CDATA[Kate add a quote by Jonathan Safran Foer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/43017-she-had-fallen-in-love-so-many-times-that-she]]>
+		</link>
+		<description>
+	    <![CDATA["She had fallen in love so many times that she began to suspect she was not falling in love at all, but doing something much more ordinary." -- Jonathan Safran Foer]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

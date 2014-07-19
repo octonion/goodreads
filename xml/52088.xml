@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/52088-ali-entezari]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/52088-ali-entezari" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 08 Nov 2011 23:48:29 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/78022</guid>
+		<pubDate>Tue, 08 Nov 2011 23:48:29 -0800</pubDate>
+		<title>
+			<![CDATA[Ali add a quote by صادق هدایت / Sadegh Hedayat]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/78022]]>
+		</link>
+		<description>
+	    <![CDATA["در همین جهان است که دست کم می توانی امیدوار باشی که روزی کلک خودت را بکنی، امیدی که در آن جهان نمی تواند وجود داشته باشد." -- صادق هدایت / Sadegh Hedayat]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/55185-believe-me-religions-are-on-the-wrong-track-the-moment</guid>
+		<pubDate>Sun, 14 Apr 2013 21:57:58 -0700</pubDate>
+		<title>
+			<![CDATA[Ali add a quote by Albert Camus]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/55185-believe-me-religions-are-on-the-wrong-track-the-moment]]>
+		</link>
+		<description>
+	    <![CDATA["Believe me, religions are on the wrong track the moment they moralize and fulminate commandments. God is not needed to create guilt or to punish. Our fellow men suffice, aided by ourselves." -- Albert Camus]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/11871-that-s-the-problem-with-drinking-i-thought-as-i-poured</guid>
+		<pubDate>Mon, 15 Apr 2013 02:52:24 -0700</pubDate>
+		<title>
+			<![CDATA[Ali add a quote by Charles Bukowski]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11871-that-s-the-problem-with-drinking-i-thought-as-i-poured]]>
+		</link>
+		<description>
+	    <![CDATA["That's the problem with drinking, I thought, as I poured myself a drink. If something bad happens you drink in an attempt to forget; if something good happens you drink in order to celebrate; and if nothing happens you drink to make something happen." -- Charles Bukowski]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

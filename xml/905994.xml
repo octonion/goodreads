@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/905994-edward-oneill]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/905994-edward-oneill" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 10 Jun 2012 09:34:00 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/414466-some-people-say-never-let-them-see-you-cry-i</guid>
+		<pubDate>Sun, 10 Jun 2012 09:34:00 -0700</pubDate>
+		<title>
+			<![CDATA[Edward add a quote by Tina Fey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/414466-some-people-say-never-let-them-see-you-cry-i]]>
+		</link>
+		<description>
+	    <![CDATA["Some people say, “Never let them see you cry.” I say, if you’re so mad you could just cry, then cry. It terrifies everyone." -- Tina Fey]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/273728-the-trouble-is-if-you-don-t-spend-your-life-yourself</guid>
+		<pubDate>Sat, 18 May 2013 19:05:56 -0700</pubDate>
+		<title>
+			<![CDATA[Edward add a quote by Peter Shaffer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/273728-the-trouble-is-if-you-don-t-spend-your-life-yourself]]>
+		</link>
+		<description>
+	    <![CDATA["The trouble is if you don’t spend your life yourself, other people spend it for you." -- Peter Shaffer]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

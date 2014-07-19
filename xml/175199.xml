@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/175199-mel]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/175199-mel" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 22 Jun 2013 18:22:44 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/209103-perhaps-some-of-my-hearers-this-evening-may-have-occasionally</guid>
+		<pubDate>Sat, 22 Jun 2013 18:22:44 -0700</pubDate>
+		<title>
+			<![CDATA[Mel add a quote by John Ruskin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/209103-perhaps-some-of-my-hearers-this-evening-may-have-occasionally]]>
+		</link>
+		<description>
+	    <![CDATA["Perhaps some of my hearers this evening may have occasionally heard it stated of me that I am rather apt to contradict myself. I hope I am exceedingly apt to do so. I never met wth a question yet, of any importance, which did not need, for the right solution of it, at least one positive and one negative answer, like an equation of the second degree. Mostly, matters of any consequence are three-sided, or four-sided, or polygonal; and the trotting round a polygon is severe work for people any way stiff in their opinions. For myself, I am never satisfied that I have handled a subject properly till I have contradicted myself at least three times: but once must do for this evening." -- John Ruskin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

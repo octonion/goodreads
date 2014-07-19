@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/941536-carol]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/941536-carol" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 23 Dec 2011 15:08:17 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/93967-if-we-can-just-let-go-and-trust-that-things</guid>
+		<pubDate>Fri, 23 Dec 2011 15:08:17 -0800</pubDate>
+		<title>
+			<![CDATA[Carol add a quote by Goldie Hawn]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/93967-if-we-can-just-let-go-and-trust-that-things]]>
+		</link>
+		<description>
+	    <![CDATA["If we can just let go and trust that things will work out they way they're supposed to, without trying to control the outcome, then we can begin to enjoy the moment more fully.  The joy of the freedom it brings becomes more pleasurable than the experience itself." -- Goldie Hawn]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/67454-understanding-is-the-first-step-to-acceptance-and-only-with</guid>
+		<pubDate>Tue, 12 Jun 2012 14:18:21 -0700</pubDate>
+		<title>
+			<![CDATA[Carol add a quote by J.K. Rowling]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/67454-understanding-is-the-first-step-to-acceptance-and-only-with]]>
+		</link>
+		<description>
+	    <![CDATA["Understanding is the first step to acceptance, and only with acceptance can there be recovery." -- J.K. Rowling]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

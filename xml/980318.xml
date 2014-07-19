@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/980318-sarah]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/980318-sarah" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 06 Jul 2011 17:08:43 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/405133-who-wants-to-become-a-writer-and-why-it-s</guid>
+		<pubDate>Wed, 06 Jul 2011 17:08:43 -0700</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by Enid Bagnold]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/405133-who-wants-to-become-a-writer-and-why-it-s]]>
+		</link>
+		<description>
+	    <![CDATA["Who wants to become a writer? And why? ... It's the streaming reason for living. To note, to pin down, to build up, to create, to be astonished at nothing, to cherish the oddities, to let nothing go down the drain, to make something, to make a great flower of life, even if it's a cactus." -- Enid Bagnold]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/669769-the-first-time-my-mom-told-me-liars-didn-t-go</guid>
+		<pubDate>Wed, 24 Apr 2013 17:27:42 -0700</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by Carrie Arcos]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/669769-the-first-time-my-mom-told-me-liars-didn-t-go]]>
+		</link>
+		<description>
+	    <![CDATA["The first time my mom told me liars didn't go to heaven was when she tried to get me to confess to hitting my eight-year-old brother. I was seven." -- Carrie Arcos]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

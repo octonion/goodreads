@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/706240-jenniferann-chisholm]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/706240-jenniferann-chisholm" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 21 Dec 2007 14:49:30 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6904-sometimes-you-get-shown-the-light-in-the-strangest-of</guid>
+		<pubDate>Fri, 21 Dec 2007 14:49:30 -0800</pubDate>
+		<title>
+			<![CDATA[Jenniferann add a quote by Grateful Dead]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6904-sometimes-you-get-shown-the-light-in-the-strangest-of]]>
+		</link>
+		<description>
+	    <![CDATA["Sometimes you get shown the light in the strangest of places if you look at it right" -- Grateful Dead]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

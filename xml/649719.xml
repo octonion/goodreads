@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/649719-boots]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/649719-boots" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 29 Apr 2008 19:10:19 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/49748-laugh-and-grow-strong</guid>
+		<pubDate>Tue, 29 Apr 2008 19:10:19 -0700</pubDate>
+		<title>
+			<![CDATA[Boots add a quote by Ignatius of Loyola]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/49748-laugh-and-grow-strong]]>
+		</link>
+		<description>
+	    <![CDATA["Laugh and grow strong" -- Ignatius of Loyola]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/49752-the-music-is-not-in-the-notes-but-in-the</guid>
+		<pubDate>Tue, 29 Apr 2008 19:11:51 -0700</pubDate>
+		<title>
+			<![CDATA[Boots add a quote by Wolfgang Amadeus Mozart]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/49752-the-music-is-not-in-the-notes-but-in-the]]>
+		</link>
+		<description>
+	    <![CDATA["The music is not in the notes,
+but in the silence between." -- Wolfgang Amadeus Mozart]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

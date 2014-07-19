@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/374821-witness]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/374821-witness" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 12 Jan 2008 07:57:48 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/12658-akin-to-the-idea-that-time-is-money-is-the</guid>
+		<pubDate>Sat, 12 Jan 2008 07:57:48 -0800</pubDate>
+		<title>
+			<![CDATA[Witness add a quote by Wendell Berry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12658-akin-to-the-idea-that-time-is-money-is-the]]>
+		</link>
+		<description>
+	    <![CDATA["Akin to the idea that time is money is the concept, less spoken but as commonly assumed, that we may be adequately represented by money. The giving of money has thus become our characteristic virtue. But to give is not to do. The money is given in lieu of action, thought, care, time." -- Wendell Berry]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/12670-if-we-re-not-supposed-to-eat-animals-how-come-they-re</guid>
+		<pubDate>Sat, 12 Jan 2008 08:27:57 -0800</pubDate>
+		<title>
+			<![CDATA[Witness add a quote by Tom Snyder]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12670-if-we-re-not-supposed-to-eat-animals-how-come-they-re]]>
+		</link>
+		<description>
+	    <![CDATA["If we're not supposed to eat animals, how come they're made out of meat?" -- Tom Snyder]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

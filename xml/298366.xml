@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/298366-tracey-duncan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/298366-tracey-duncan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 26 May 2008 10:24:47 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3831-the-only-people-for-me-are-the-mad-ones-the</guid>
+		<pubDate>Mon, 26 May 2008 10:24:47 -0700</pubDate>
+		<title>
+			<![CDATA[Tracey add a quote by Jack Kerouac]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3831-the-only-people-for-me-are-the-mad-ones-the]]>
+		</link>
+		<description>
+	    <![CDATA["the only people for me are the mad ones, the ones who are mad to live, mad to talk, mad to be saved, desirous of everything at the same time, the ones who never yawn or say a commonplace thing, but burn, burn, burn like fabulous yellow roman candles exploding like spiders across the stars." -- Jack Kerouac]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/72727-he-whose-face-gives-no-light-shall-never-become-a</guid>
+		<pubDate>Mon, 14 Jul 2008 09:23:53 -0700</pubDate>
+		<title>
+			<![CDATA[Tracey add a quote by William Blake]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/72727-he-whose-face-gives-no-light-shall-never-become-a]]>
+		</link>
+		<description>
+	    <![CDATA["He whose face gives no light, shall never become a star." -- William Blake]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/8206-do-i-contradict-myself-very-well-then-i-contradict-myself</guid>
+		<pubDate>Fri, 01 Aug 2008 09:27:46 -0700</pubDate>
+		<title>
+			<![CDATA[Tracey add a quote by Walt Whitman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8206-do-i-contradict-myself-very-well-then-i-contradict-myself]]>
+		</link>
+		<description>
+	    <![CDATA["Do I contradict myself? Very well, then, I contradict myself; I am large -- I contain multitudes." -- Walt Whitman]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

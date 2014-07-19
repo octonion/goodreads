@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/68600-mary]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/68600-mary" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 31 May 2011 05:53:13 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/312964-in-the-world-i-notice-persons-are-nearly-always-stressed</guid>
+		<pubDate>Tue, 31 May 2011 05:53:13 -0700</pubDate>
+		<title>
+			<![CDATA[Mary add a quote by Emma Donoghue]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/312964-in-the-world-i-notice-persons-are-nearly-always-stressed]]>
+		</link>
+		<description>
+	    <![CDATA["In the world I notice persons are nearly always stressed and have no time...I don't know how persons with jobs do the jobs and all the living as well...I guess the time gets spread very thin like butter all over the world, the roads and houses and playgrounds and stores, so there's only a little smear of time on each place, then everyone has to hurry on to the next bit." -- Emma Donoghue]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

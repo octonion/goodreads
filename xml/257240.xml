@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/257240-rachael]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/257240-rachael" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 15 Oct 2010 17:25:43 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/305628-god-gave-us-our-relatives-thank-god-we-can-choose</guid>
+		<pubDate>Fri, 15 Oct 2010 17:25:43 -0700</pubDate>
+		<title>
+			<![CDATA[Rachael add a quote by Ethel Watts Mumford]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/305628-god-gave-us-our-relatives-thank-god-we-can-choose]]>
+		</link>
+		<description>
+	    <![CDATA["God gave us our relatives: thank god we can choose our friends." -- Ethel Watts Mumford]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/101806-half-the-harm-that-is-done-in-this-world-is</guid>
+		<pubDate>Fri, 15 Oct 2010 17:29:57 -0700</pubDate>
+		<title>
+			<![CDATA[Rachael add a quote by T.S. Eliot]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/101806-half-the-harm-that-is-done-in-this-world-is]]>
+		</link>
+		<description>
+	    <![CDATA["Half the harm that is done in this world is due to people who want to feel important. They don't mean to do harm; but the harm does not interest them. Or they do not see it, or they justify it because they are absorbed in the endless struggle to think well of themselves." -- T.S. Eliot]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/305633-some-people-never-find-it-some-only-pretend-but-i</guid>
+		<pubDate>Fri, 15 Oct 2010 17:32:52 -0700</pubDate>
+		<title>
+			<![CDATA[Rachael add a quote by Jimmy Buffett]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/305633-some-people-never-find-it-some-only-pretend-but-i]]>
+		</link>
+		<description>
+	    <![CDATA["Some people never find it
+Some only pretend
+But I just want to live
+Happily ever after, now and then" -- Jimmy Buffett]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

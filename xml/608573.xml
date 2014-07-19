@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/608573-amy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/608573-amy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 20 Oct 2013 22:47:45 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/108380-genius-is-the-recovery-of-childhood-at-will</guid>
+		<pubDate>Sun, 20 Oct 2013 22:47:45 -0700</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Arthur Rimbaud]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/108380-genius-is-the-recovery-of-childhood-at-will]]>
+		</link>
+		<description>
+	    <![CDATA["Genius is the recovery of childhood at will." -- Arthur Rimbaud]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/973323-i-hope-that-in-this-year-to-come-you-make</guid>
+		<pubDate>Wed, 01 Jan 2014 04:32:22 -0800</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Neil Gaiman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/973323-i-hope-that-in-this-year-to-come-you-make]]>
+		</link>
+		<description>
+	    <![CDATA["I hope that in this year to come, you make mistakes. Because if you are making mistakes...you're Doing Something." -- Neil Gaiman]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/994146-say-what-you-will-tis-better-to-be-left-than</guid>
+		<pubDate>Fri, 24 Jan 2014 05:47:14 -0800</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by William Congreve]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/994146-say-what-you-will-tis-better-to-be-left-than]]>
+		</link>
+		<description>
+	    <![CDATA["Say what you will, ’tis better to be left than never to have been loved." -- William Congreve]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

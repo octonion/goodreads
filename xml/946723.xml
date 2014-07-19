@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/946723-brandt]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/946723-brandt" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 22 Jun 2013 13:31:17 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/61454-the-world-of-books-is-the-most-remarkable-creation-of</guid>
+		<pubDate>Sat, 22 Jun 2013 13:31:17 -0700</pubDate>
+		<title>
+			<![CDATA[Brandt add a quote by Clarence Day]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/61454-the-world-of-books-is-the-most-remarkable-creation-of]]>
+		</link>
+		<description>
+	    <![CDATA["The world of books is the most remarkable creation of man. Nothing else that he builds ever lasts. Monuments fall, nations perish, civilizations grow old and die out, and after an era new races build others. But in the world of books are volumes that have seen this happen again and again and yet live on, still young, still as fresh as the day they were written, still telling men's hearts of the heart of men centuries dead.
+- " -- Clarence Day]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

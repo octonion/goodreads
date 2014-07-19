@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/587415-edy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/587415-edy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 05 Feb 2008 09:45:04 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6-anyone-who-lives-within-their-means-suffers-from-a-lack</guid>
+		<pubDate>Tue, 05 Feb 2008 09:45:04 -0800</pubDate>
+		<title>
+			<![CDATA[Edy add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6-anyone-who-lives-within-their-means-suffers-from-a-lack]]>
+		</link>
+		<description>
+	    <![CDATA["Anyone who lives within their means suffers from a lack of imagination." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1935-quotation-is-a-serviceable-substitute-for-wit</guid>
+		<pubDate>Wed, 05 Mar 2008 11:49:23 -0800</pubDate>
+		<title>
+			<![CDATA[Edy add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1935-quotation-is-a-serviceable-substitute-for-wit]]>
+		</link>
+		<description>
+	    <![CDATA["Quotation is a serviceable substitute for wit." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5853-you-think-your-pain-and-your-heartbreak-are-unprecedented-in</guid>
+		<pubDate>Mon, 04 Aug 2008 08:37:58 -0700</pubDate>
+		<title>
+			<![CDATA[Edy add a quote by James Baldwin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5853-you-think-your-pain-and-your-heartbreak-are-unprecedented-in]]>
+		</link>
+		<description>
+	    <![CDATA["You think your pain and your heartbreak are unprecedented in the history of the world, but then you read. It was books that taught me that the things that tormented me most were the very things that connected me with all the people who were alive, or who had ever been alive." -- James Baldwin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

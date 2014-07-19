@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1038763-lulu]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1038763-lulu" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 31 May 2013 04:28:58 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/186450-walk-with-the-dreamers-the-believers-the-courageous-the-cheerful</guid>
+		<pubDate>Fri, 31 May 2013 04:28:58 -0700</pubDate>
+		<title>
+			<![CDATA[Lulu add a quote by Wilferd Peterson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/186450-walk-with-the-dreamers-the-believers-the-courageous-the-cheerful]]>
+		</link>
+		<description>
+	    <![CDATA["Walk with the dreamers, the believers, the courageous, the cheerful, the planners, the doers, the successful people with their heads in the clouds and their feet on the ground.  Let their spirit ignite a fire within you to leave this world better than when you found it..." -- Wilferd Peterson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/346314-the-proper-function-of-man-is-to-live-not-to</guid>
+		<pubDate>Wed, 16 Apr 2014 02:48:32 -0700</pubDate>
+		<title>
+			<![CDATA[Lulu add a quote by Jack London]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/346314-the-proper-function-of-man-is-to-live-not-to]]>
+		</link>
+		<description>
+	    <![CDATA["The proper function of man is to live, not to exist. I shall not waste my days in trying to prolong them. I shall use my time." -- Jack London]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

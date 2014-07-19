@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/653161-barbara-spalding]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/653161-barbara-spalding" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 03 Dec 2007 16:51:54 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3131-peace-is-not-something-you-can-force-on-anything-or</guid>
+		<pubDate>Mon, 03 Dec 2007 16:51:54 -0800</pubDate>
+		<title>
+			<![CDATA[Barbara add a quote by Gerald May]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3131-peace-is-not-something-you-can-force-on-anything-or]]>
+		</link>
+		<description>
+	    <![CDATA["Peace is not something you can force on anything or anyone... much less upon one's own mind. It is like trying to quiet the ocean by pressing upon the waves. Sanity lies in somehow opening to the chaos, allowing anxiety, moving deeply into the tumult, diving into the waves, where underneath, within, peace simply is." -- Gerald May]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

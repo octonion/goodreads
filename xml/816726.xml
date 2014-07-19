@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/816726-kathryn]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/816726-kathryn" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 02 Nov 2009 13:02:38 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/65810-perhaps-one-central-reason-for-loving-dogs-is-that-they</guid>
+		<pubDate>Mon, 02 Nov 2009 13:02:38 -0800</pubDate>
+		<title>
+			<![CDATA[Kathryn add a quote by Jeffrey Moussaieff Masson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/65810-perhaps-one-central-reason-for-loving-dogs-is-that-they]]>
+		</link>
+		<description>
+	    <![CDATA["Perhaps one central reason for loving dogs is that they take us away from this obsession with ourselves. When our thoughts start to go in circles, and we seem unable to break away, wondering what horrible event the future holds for us, the dog opens a window into the delight of the moment." -- Jeffrey Moussaieff Masson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1078069-shannan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1078069-shannan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 08 Feb 2009 17:42:45 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/11540-you-get-a-little-moody-sometimes-but-i-think-that-s</guid>
+		<pubDate>Sun, 08 Feb 2009 17:42:45 -0800</pubDate>
+		<title>
+			<![CDATA[Shannan add a quote by Pat Conroy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11540-you-get-a-little-moody-sometimes-but-i-think-that-s]]>
+		</link>
+		<description>
+	    <![CDATA["You get a little moody sometimes but I think that's because you like to read. People that like to read are always a little fucked up." -- Pat Conroy]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/101085-i-am-running-into-a-new-year-and-the-old</guid>
+		<pubDate>Wed, 19 Dec 2012 05:27:14 -0800</pubDate>
+		<title>
+			<![CDATA[Shannan add a quote by Lucille Clifton]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/101085-i-am-running-into-a-new-year-and-the-old]]>
+		</link>
+		<description>
+	    <![CDATA["I am running into a new year and the old years blow back like a wind that I catch in my hair like strong fingers like all my old promises and it will be hard to let go of what I said to myself about myself when I was sixteen and twenty-six and thirty-six but I am running into a new year and I beg what i love and I leave to forgive me." -- Lucille Clifton]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

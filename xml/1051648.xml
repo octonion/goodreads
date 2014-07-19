@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1051648-ray]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1051648-ray" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 29 Nov 2011 15:55:16 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/135199-fate-gives-all-of-us-three-teachers-three-friends-three</guid>
+		<pubDate>Tue, 29 Nov 2011 15:55:16 -0800</pubDate>
+		<title>
+			<![CDATA[Ray add a quote by Gregory David Roberts]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/135199-fate-gives-all-of-us-three-teachers-three-friends-three]]>
+		</link>
+		<description>
+	    <![CDATA["Fate gives all of us three teachers, three friends, three enemies, and three great loves in our lives. But these twelve are always disguised, and we can never know which one is which until we’ve loved them, left them, or fought them." -- Gregory David Roberts]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

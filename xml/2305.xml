@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/2305-luda]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/2305-luda" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 02 May 2008 10:58:04 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/14303-writing-is-like-sex-first-you-do-it-for-love</guid>
+		<pubDate>Fri, 02 May 2008 10:58:04 -0700</pubDate>
+		<title>
+			<![CDATA[Luda add a quote by Virginia Woolf]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14303-writing-is-like-sex-first-you-do-it-for-love]]>
+		</link>
+		<description>
+	    <![CDATA["Writing is like sex. First you do it for love, then you do it for your friends, and then you do it for money." -- Virginia Woolf]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/96012-forgiving-men-is-so-much-easier-than-forgiving-women</guid>
+		<pubDate>Sun, 18 Apr 2010 14:22:19 -0700</pubDate>
+		<title>
+			<![CDATA[Luda add a quote by Margaret Atwood]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/96012-forgiving-men-is-so-much-easier-than-forgiving-women]]>
+		</link>
+		<description>
+	    <![CDATA["Forgiving men is so much easier than forgiving women." -- Margaret Atwood]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

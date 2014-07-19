@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/78134-shalynee]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/78134-shalynee" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 17 Mar 2012 13:38:43 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/512073-if-you-were-going-to-be-best-friends-with-anyone</guid>
+		<pubDate>Sat, 17 Mar 2012 13:38:43 -0700</pubDate>
+		<title>
+			<![CDATA[shalynee add a quote by Roddy Doyle]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/512073-if-you-were-going-to-be-best-friends-with-anyone]]>
+		</link>
+		<description>
+	    <![CDATA["If you were going to be best friends with anyone - Kevin - you had to hate a lot of other people, the two of you, together. It made you better friends." -- Roddy Doyle]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/368749-when-you-gone-to-get-married-you-need-to-have</guid>
+		<pubDate>Sun, 29 Apr 2012 15:34:34 -0700</pubDate>
+		<title>
+			<![CDATA[shalynee add a quote by Toni Morrison]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/368749-when-you-gone-to-get-married-you-need-to-have]]>
+		</link>
+		<description>
+	    <![CDATA["When you gone to get married? You need to have some babies. It’ll settle you.'
+'I don’t want to make somebody else. I want to make myself." -- Toni Morrison]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

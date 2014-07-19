@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/780844-rohitcharan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/780844-rohitcharan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 19 Dec 2010 07:32:42 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/269956-if-something-is-going-to-happen-to-me-i-want</guid>
+		<pubDate>Sun, 19 Dec 2010 07:32:42 -0800</pubDate>
+		<title>
+			<![CDATA[Rohitcharan add a quote by Albert Camus]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/269956-if-something-is-going-to-happen-to-me-i-want]]>
+		</link>
+		<description>
+	    <![CDATA["If something is going to happen to me, I want to be there." -- Albert Camus]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

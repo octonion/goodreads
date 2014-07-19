@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/953620-rose]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/953620-rose" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Mar 2008 16:58:24 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/30181-if-you-take-a-book-with-you-on-a-journey</guid>
+		<pubDate>Tue, 11 Mar 2008 16:58:24 -0700</pubDate>
+		<title>
+			<![CDATA[Rose add a quote by Cornelia Funke]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/30181-if-you-take-a-book-with-you-on-a-journey]]>
+		</link>
+		<description>
+	    <![CDATA["If you take a book with you on a journey,&quot; Mo had said when he put the first one in her box, &quot;an odd thing happens: The book begins collecting your memories. And forever after you have only to open that book to be back where you first read it. It will all come into your mind with the very first words: the sights you saw in that place, what it smelled like, the ice cream you ate while you were reading it... yes, books are like flypaper—memories cling to the printed page better than anything else." -- Cornelia Funke]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

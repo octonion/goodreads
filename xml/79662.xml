@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/79662-eunji-kim]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/79662-eunji-kim" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 14 Aug 2010 21:26:38 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4964-love-is-that-condition-in-which-the-happiness-of-another</guid>
+		<pubDate>Sat, 14 Aug 2010 21:26:38 -0700</pubDate>
+		<title>
+			<![CDATA[Eunji add a quote by Robert A. Heinlein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4964-love-is-that-condition-in-which-the-happiness-of-another]]>
+		</link>
+		<description>
+	    <![CDATA["Love is that condition in which the happiness of another person is essential to your own." -- Robert A. Heinlein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1262-love-does-not-begin-and-end-the-way-we-seem</guid>
+		<pubDate>Sat, 14 Aug 2010 21:31:40 -0700</pubDate>
+		<title>
+			<![CDATA[Eunji add a quote by James A. Baldwin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1262-love-does-not-begin-and-end-the-way-we-seem]]>
+		</link>
+		<description>
+	    <![CDATA["Love does not begin and end the way we seem to think it does. Love is a battle, love is a war; love is a growing up." -- James A. Baldwin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

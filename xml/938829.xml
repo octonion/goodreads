@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/938829-chastity]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/938829-chastity" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 06 Jan 2009 10:54:29 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/117229-there-are-two-ways-to-meet-life-you-may-refuse</guid>
+		<pubDate>Tue, 06 Jan 2009 10:54:29 -0800</pubDate>
+		<title>
+			<![CDATA[Chastity add a quote by Dorothy Canfield Fisher]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/117229-there-are-two-ways-to-meet-life-you-may-refuse]]>
+		</link>
+		<description>
+	    <![CDATA["...there are two ways to meet life; you may refuse to care until indifference becomes a habit, a defensive armor, and you are safe - but bored. Or you can care greatly, live greatly, until life breaks you on its wheel. " -- Dorothy Canfield Fisher]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/107369-if-we-would-give-just-once-the-same-amount-of</guid>
+		<pubDate>Tue, 06 Jan 2009 10:54:35 -0800</pubDate>
+		<title>
+			<![CDATA[Chastity add a quote by Dorothy Canfield Fisher]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/107369-if-we-would-give-just-once-the-same-amount-of]]>
+		</link>
+		<description>
+	    <![CDATA["If we would give, just once, the same amount of reflection to what we want out of life that we give to the question of what to do with a two weeks’ vacation, we would be startled at our false standards and the aimless procession of our busy days." -- Dorothy Canfield Fisher]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

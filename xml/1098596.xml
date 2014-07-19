@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1098596-daryl-moore]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1098596-daryl-moore" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 19 Apr 2008 17:39:35 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/34863-the-heights-by-great-men-reached-and-kept-were-not</guid>
+		<pubDate>Sat, 19 Apr 2008 17:39:35 -0700</pubDate>
+		<title>
+			<![CDATA[Daryl add a quote by Henry Wadsworth Longfellow]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/34863-the-heights-by-great-men-reached-and-kept-were-not]]>
+		</link>
+		<description>
+	    <![CDATA["The heights by great men reached and kept were not attained in sudden flight but, they while their companions slept, they were toiling upwards in the night." -- Henry Wadsworth Longfellow]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/46324-only-the-mistakes-were-mine</guid>
+		<pubDate>Sat, 19 Apr 2008 17:40:31 -0700</pubDate>
+		<title>
+			<![CDATA[Daryl add a quote by Malcolm X]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/46324-only-the-mistakes-were-mine]]>
+		</link>
+		<description>
+	    <![CDATA["Only the mistakes were mine." -- Malcolm X]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

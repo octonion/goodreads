@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/820257-sandy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/820257-sandy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 01 Feb 2008 08:49:26 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/20210-the-crucified-jesus-is-the-only-accurate-picture-of-god</guid>
+		<pubDate>Fri, 01 Feb 2008 08:49:26 -0800</pubDate>
+		<title>
+			<![CDATA[Sandy add a quote by John Austin Baker]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20210-the-crucified-jesus-is-the-only-accurate-picture-of-god]]>
+		</link>
+		<description>
+	    <![CDATA["The crucified Jesus is the only accurate picture of God the world has ever seen." -- John Austin Baker]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/20215-the-reality-of-god-as-cosmic-lover-whose-care-for-his</guid>
+		<pubDate>Fri, 01 Feb 2008 09:03:24 -0800</pubDate>
+		<title>
+			<![CDATA[Sandy add a quote by Norman Pittenger]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20215-the-reality-of-god-as-cosmic-lover-whose-care-for-his]]>
+		</link>
+		<description>
+	    <![CDATA["...the reality of God...as cosmic Lover, whose care for his people would go to any lengths and would accept suffering, anguish, even death, if this would bring to his children a full and abundant life...in and under his loving yet demanding care." -- Norman Pittenger]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

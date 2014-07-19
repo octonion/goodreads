@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/142053-tyson]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/142053-tyson" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 06 Jul 2010 10:07:11 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/274696-every-golden-age-is-as-much-a-matter-of-disregard</guid>
+		<pubDate>Tue, 06 Jul 2010 10:07:11 -0700</pubDate>
+		<title>
+			<![CDATA[Tyson add a quote by Michael Chabon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/274696-every-golden-age-is-as-much-a-matter-of-disregard]]>
+		</link>
+		<description>
+	    <![CDATA["Every golden age is as much a matter of disregard as of felicity." -- Michael Chabon]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/305856-he-d-once-told-me-that-the-art-of-getting-ahead</guid>
+		<pubDate>Mon, 03 Jan 2011 15:06:04 -0800</pubDate>
+		<title>
+			<![CDATA[Tyson add a quote by Don DeLillo]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/305856-he-d-once-told-me-that-the-art-of-getting-ahead]]>
+		</link>
+		<description>
+	    <![CDATA["He'd once told me that the art of getting ahead in New York was based on learning how to express dissatisfaction in an interesting way. The air was full of rage and complaint. People had no tolerance for your particular hardship unless you knew how to entertain them with it." -- Don DeLillo]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

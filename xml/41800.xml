@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/41800-bips]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/41800-bips" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 31 May 2013 01:50:34 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/58661-it-s-so-curious-one-can-resist-tears-and-behave-very</guid>
+		<pubDate>Fri, 31 May 2013 01:50:34 -0700</pubDate>
+		<title>
+			<![CDATA[bips add a quote by Colette]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/58661-it-s-so-curious-one-can-resist-tears-and-behave-very]]>
+		</link>
+		<description>
+	    <![CDATA["It's so curious: one can resist tears and 'behave' very well in the hardest hours of grief. But then someone makes you a friendly sign behind a window, or one notices that a flower that was in bud only yesterday has suddenly blossomed, or a letter slips from a drawer... and everything collapses. " -- Colette]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/32062-don-t-grieve-anything-you-lose-comes-round-in-another-form</guid>
+		<pubDate>Fri, 31 May 2013 01:50:58 -0700</pubDate>
+		<title>
+			<![CDATA[bips add a quote by Rumi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/32062-don-t-grieve-anything-you-lose-comes-round-in-another-form]]>
+		</link>
+		<description>
+	    <![CDATA["Don’t grieve. Anything you lose comes round in another form." -- Rumi]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/13928-at-the-temple-there-is-a-poem-called-loss-carved</guid>
+		<pubDate>Fri, 31 May 2013 01:54:58 -0700</pubDate>
+		<title>
+			<![CDATA[bips add a quote by Arthur Golden]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13928-at-the-temple-there-is-a-poem-called-loss-carved]]>
+		</link>
+		<description>
+	    <![CDATA["At the temple there is a poem called &quot;Loss&quot; carved into the stone.  It has three words, but the poet has scratched them out.  You cannot read loss, only feel it." -- Arthur Golden]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

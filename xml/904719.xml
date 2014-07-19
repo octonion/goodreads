@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/904719-sara]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/904719-sara" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 13 Feb 2008 08:42:07 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/24565-i-don-t-see-any-use-in-having-a-uniform-and</guid>
+		<pubDate>Wed, 13 Feb 2008 08:42:07 -0800</pubDate>
+		<title>
+			<![CDATA[Sara add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/24565-i-don-t-see-any-use-in-having-a-uniform-and]]>
+		</link>
+		<description>
+	    <![CDATA["I don't see any use in having a uniform and arbitrary way of spelling words. We might as well make all clothes alike and cook all dishes alike. Sameness is tiresome; variety is pleasing." -- Mark Twain]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/24636-the-necessary-thing-is-after-all-but-this-solitude-great</guid>
+		<pubDate>Wed, 13 Feb 2008 11:31:39 -0800</pubDate>
+		<title>
+			<![CDATA[Sara add a quote by Rainer Maria Rilke]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/24636-the-necessary-thing-is-after-all-but-this-solitude-great]]>
+		</link>
+		<description>
+	    <![CDATA["The necessary thing is after all but this; solitude, great inner solitude. Going into oneself for hours meeting no one - this one must be able to attain." -- Rainer Maria Rilke]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

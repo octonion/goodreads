@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1022277-deena]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1022277-deena" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 30 Dec 2011 11:31:20 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/192640-you-is-kind-you-is-smart-you-is-important</guid>
+		<pubDate>Fri, 30 Dec 2011 11:31:20 -0800</pubDate>
+		<title>
+			<![CDATA[Deena add a quote by Kathryn Stockett]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/192640-you-is-kind-you-is-smart-you-is-important]]>
+		</link>
+		<description>
+	    <![CDATA["You is kind. You is smart. You is important." -- Kathryn Stockett]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/150387-wasn-t-that-the-point-of-the-book-for-women-to</guid>
+		<pubDate>Fri, 30 Dec 2011 11:31:26 -0800</pubDate>
+		<title>
+			<![CDATA[Deena add a quote by Kathryn Stockett]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/150387-wasn-t-that-the-point-of-the-book-for-women-to]]>
+		</link>
+		<description>
+	    <![CDATA["Wasn't that the point of the book?  For women to realize, We are just two people.  Not that much separates us.  Not nearly as much as I'd thought." -- Kathryn Stockett]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

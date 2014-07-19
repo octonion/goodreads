@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/361748-poj216]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/361748-poj216" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 09 Jun 2013 19:58:38 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/27075-be-thankful-for-what-you-have-you-ll-end-up-having</guid>
+		<pubDate>Sun, 09 Jun 2013 19:58:38 -0700</pubDate>
+		<title>
+			<![CDATA[poj216 add a quote by Oprah Winfrey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/27075-be-thankful-for-what-you-have-you-ll-end-up-having]]>
+		</link>
+		<description>
+	    <![CDATA["Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough" -- Oprah Winfrey]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/495450-there-you-are-sir-there-s-nothing-more-than-to-love</guid>
+		<pubDate>Wed, 10 Jul 2013 23:58:13 -0700</pubDate>
+		<title>
+			<![CDATA[poj216 add a quote by Sebastian Faulks]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/495450-there-you-are-sir-there-s-nothing-more-than-to-love]]>
+		</link>
+		<description>
+	    <![CDATA["There you are, sir. There's nothing more than to love and be loved." -- Sebastian Faulks]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/168867-and-when-we-give-each-other-christmas-gifts-in-his</guid>
+		<pubDate>Tue, 24 Dec 2013 03:13:50 -0800</pubDate>
+		<title>
+			<![CDATA[poj216 add a quote by Sigrid Undset]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/168867-and-when-we-give-each-other-christmas-gifts-in-his]]>
+		</link>
+		<description>
+	    <![CDATA["And when we give each other Christmas gifts in His name, let us remember that He has given us the sun and the moon and the stars, and the earth with its forests and mountains and oceans--and all that lives and move upon them.  He has given us all green things and everything that blossoms and bears fruit and all that we quarrel about and all that we have misused--and to save us from our foolishness, from all our sins, He came down to earth and gave us Himself." -- Sigrid Undset]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

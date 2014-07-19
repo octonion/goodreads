@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/841636-terry]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/841636-terry" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 17 Mar 2008 20:56:41 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/35649-millionaires-don-t-use-astrology-billionaires-do</guid>
+		<pubDate>Mon, 17 Mar 2008 20:56:41 -0700</pubDate>
+		<title>
+			<![CDATA[Terry add a quote by J.P. Morgan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/35649-millionaires-don-t-use-astrology-billionaires-do]]>
+		</link>
+		<description>
+	    <![CDATA["Millionaires don't use Astrology, billionaires do." -- J.P. Morgan]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/590009-my-days-were-not-days-of-the-week-bearing-the</guid>
+		<pubDate>Sun, 05 Aug 2012 19:50:18 -0700</pubDate>
+		<title>
+			<![CDATA[Terry add a quote by Henry David Thoreau]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/590009-my-days-were-not-days-of-the-week-bearing-the]]>
+		</link>
+		<description>
+	    <![CDATA["My days were not days of the week, bearing the stamp of any heathen deity, nor were they minced into hours and fretted by the ticking of a clock; for I lived like the Puri Indians, of whom it is said that &quot;for yesterday, today, and tomorrow they have only one word, and they express the variety of meaning by pointing backward for yesterday forward for tomorrow, and overhead for the passing day.&quot; This was sheer idleness to my fellow-townsmen, no doubt; but if the birds and flowers had tried me by their standard, I should not have been found wanting." -- Henry David Thoreau]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

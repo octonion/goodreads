@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/855439-matthew]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/855439-matthew" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 11 Nov 2012 16:22:03 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/77670-my-standard-for-verisimilitude-is-simple-and-i-came-to</guid>
+		<pubDate>Sun, 11 Nov 2012 16:22:03 -0800</pubDate>
+		<title>
+			<![CDATA[Matthew add a quote by David Simon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/77670-my-standard-for-verisimilitude-is-simple-and-i-came-to]]>
+		</link>
+		<description>
+	    <![CDATA["My standard for verisimilitude is simple and I came to it when I started to write prose narrative: fuck the average reader. I was always told to write for the average reader in my newspaper life. The average reader, as they meant it, was some suburban white subscriber with two-point-whatever kids and three-point-whatever cars and a dog and a cat and lawn furniture. He knows nothing and he needs everything explained to him right away, so that exposition becomes this incredible, story-killing burden. Fuck him. Fuck him to hell." -- David Simon]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

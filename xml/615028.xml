@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/615028-alex]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/615028-alex" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 28 Nov 2007 21:37:08 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2032-there-is-nothing-to-writing-all-you-do-is-sit</guid>
+		<pubDate>Wed, 28 Nov 2007 21:37:08 -0800</pubDate>
+		<title>
+			<![CDATA[Alex add a quote by Ernest Hemingway]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2032-there-is-nothing-to-writing-all-you-do-is-sit]]>
+		</link>
+		<description>
+	    <![CDATA["There is nothing to writing. All you do is sit down at a typewriter and bleed." -- Ernest Hemingway]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

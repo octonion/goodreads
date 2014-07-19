@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/634163-frank]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/634163-frank" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 21 Nov 2007 15:02:28 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/239-remember-these-words-when-i-am-dead-first-be-sure</guid>
+		<pubDate>Wed, 21 Nov 2007 15:02:28 -0800</pubDate>
+		<title>
+			<![CDATA[Frank add a quote by Davy Crockett]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/239-remember-these-words-when-i-am-dead-first-be-sure]]>
+		</link>
+		<description>
+	    <![CDATA["Remember these words when I am dead. First be sure you're right, then go ahead." -- Davy Crockett]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

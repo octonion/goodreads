@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/706987-randy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/706987-randy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 31 Jul 2008 10:46:18 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/78334-i-didn-t-play-practical-jokes-at-home-i-had-a</guid>
+		<pubDate>Thu, 31 Jul 2008 10:46:18 -0700</pubDate>
+		<title>
+			<![CDATA[Randy add a quote by George A. Romero]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/78334-i-didn-t-play-practical-jokes-at-home-i-had-a]]>
+		</link>
+		<description>
+	    <![CDATA["I didn't play practical jokes at home. I had a strict upbringing, which is part of my rebellion. I was raised Catholic and went to parochial school, which is why priests and nuns appear in my movies a lot, and I don't have very much nice to say about them." -- George A. Romero]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

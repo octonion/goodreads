@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/369146-karin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/369146-karin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 19 Jun 2014 21:37:52 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/137048-all-of-writing-is-a-huge-lake-there-are-great</guid>
+		<pubDate>Thu, 19 Jun 2014 21:37:52 -0700</pubDate>
+		<title>
+			<![CDATA[Karin add a quote by Jean Rhys]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/137048-all-of-writing-is-a-huge-lake-there-are-great]]>
+		</link>
+		<description>
+	    <![CDATA["All of writing is a huge lake. There are great rivers that feed the lake, like Tolstoy or Dostoyevsky. And then there are mere trickles, like Jean Rhys. All that matters is feeding the lake. I don't matter. The lake matters. You must keep feeding the lake." -- Jean Rhys]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

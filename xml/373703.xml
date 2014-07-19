@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/373703-adrian-colesberry]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/373703-adrian-colesberry" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 19 Aug 2011 21:06:38 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/11551-if-he-failed-the-first-time-he-took-his-driver-s</guid>
+		<pubDate>Fri, 19 Aug 2011 21:06:38 -0700</pubDate>
+		<title>
+			<![CDATA[Adrian add a quote by Vladimir Nabokov]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11551-if-he-failed-the-first-time-he-took-his-driver-s]]>
+		</link>
+		<description>
+	    <![CDATA["...If he failed the first time he took his driver's licence test, it was mainly because he started an argument with the examiner in an ill-timed effort to prove that nothing could be more humiliating to a rational creature than being required to encourage the development of a base conditional reflex by stopping at a red light when there was not an earthly soul around, heeled or wheeled. He was more circumspect the next time, and passed..." -- Vladimir Nabokov]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

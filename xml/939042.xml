@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/939042-katie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/939042-katie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 09 Feb 2014 22:03:24 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1033572-the-assistant-principal-told-me-how-he-loved-to-read</guid>
+		<pubDate>Sun, 09 Feb 2014 22:03:24 -0800</pubDate>
+		<title>
+			<![CDATA[Katie add a quote by John   Owens]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1033572-the-assistant-principal-told-me-how-he-loved-to-read]]>
+		</link>
+		<description>
+	    <![CDATA["the assistant principal told me how he “loved to read a great novel and discuss the meaning of life.” He smiled, sighed wistfully, and then turned suddenly serious. “But we can’t do that at our school. We have to focus on basic skills and classroom management." -- John   Owens]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

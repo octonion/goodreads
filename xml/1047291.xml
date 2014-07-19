@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1047291-john]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1047291-john" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 05 Jan 2011 08:09:09 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/217139-to-follow-jesus-implies-that-we-enter-into-a-way</guid>
+		<pubDate>Wed, 05 Jan 2011 08:09:09 -0800</pubDate>
+		<title>
+			<![CDATA[John add a quote by Eugene Peterson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/217139-to-follow-jesus-implies-that-we-enter-into-a-way]]>
+		</link>
+		<description>
+	    <![CDATA["To follow Jesus implies that we enter into a way of life that is given character and shape and direction by the one who calls us. To follow Jesus means picking up rhythms and ways of doing things that are often unsaid but always derivative from Jesus, formed by the influence of Jesus. To follow Jesus means that we can't separate what Jesus is saying from what Jesus is doing and the way that he is doing it. To follow Jesus is as much, or maybe even more, about feet as it is about ears and eyes&quot; (The Way of Jesus, Eugene H. Peterson, 22)." -- Eugene Peterson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/26320-although-my-memory-s-fading-i-remember-two-things-very-clearly</guid>
+		<pubDate>Sat, 03 Sep 2011 15:59:32 -0700</pubDate>
+		<title>
+			<![CDATA[John add a quote by John Newton]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/26320-although-my-memory-s-fading-i-remember-two-things-very-clearly]]>
+		</link>
+		<description>
+	    <![CDATA["Although my memory's fading, I remember two things very clearly: I am a great sinner and Christ is a great Savior." -- John Newton]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

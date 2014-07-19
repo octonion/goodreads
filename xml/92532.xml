@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/92532-leslye]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/92532-leslye" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 23 Mar 2012 00:26:10 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/42275-everything-in-the-world-exists-in-order-to-end-up</guid>
+		<pubDate>Fri, 23 Mar 2012 00:26:10 -0700</pubDate>
+		<title>
+			<![CDATA[Leslye add a quote by Stéphane Mallarmé]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/42275-everything-in-the-world-exists-in-order-to-end-up]]>
+		</link>
+		<description>
+	    <![CDATA["Everything in the world exists in order to end up as a book." -- Stéphane Mallarmé]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/7507-remember-to-always-be-yourself-unless-you-suck</guid>
+		<pubDate>Tue, 07 May 2013 21:44:14 -0700</pubDate>
+		<title>
+			<![CDATA[Leslye add a quote by Joss Whedon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7507-remember-to-always-be-yourself-unless-you-suck]]>
+		</link>
+		<description>
+	    <![CDATA["Remember to always be yourself. Unless you suck." -- Joss Whedon]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/40088-perfectionism-is-the-voice-of-the-oppressor-the-enemy-of</guid>
+		<pubDate>Fri, 01 Nov 2013 17:49:12 -0700</pubDate>
+		<title>
+			<![CDATA[Leslye add a quote by Anne Lamott]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/40088-perfectionism-is-the-voice-of-the-oppressor-the-enemy-of]]>
+		</link>
+		<description>
+	    <![CDATA["Perfectionism is the voice of the oppressor, the enemy of the people. It will keep you cramped and insane your whole life, and it is the main obstacle between you and a shitty first draft. I think perfectionism is based on the obsessive belief that if you run carefully enough, hitting each stepping-stone just right, you won't have to die. The truth is that you will die anyway and that a lot of people who aren't even looking at their feet are going to do a whole lot better than you, and have a lot more fun while they're doing it." -- Anne Lamott]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

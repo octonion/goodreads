@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/210176-patrick]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/210176-patrick" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 27 Feb 2008 14:46:45 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/28875-freedom-means-the-supremacy-of-human-rights-everywhere-our-support</guid>
+		<pubDate>Wed, 27 Feb 2008 14:46:45 -0800</pubDate>
+		<title>
+			<![CDATA[Patrick add a quote by Franklin Delano Roosevelt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/28875-freedom-means-the-supremacy-of-human-rights-everywhere-our-support]]>
+		</link>
+		<description>
+	    <![CDATA["Freedom means the supremacy of human rights everywhere. Our support goes to those who struggle to gain those rights and keep them. Our strength is our unity of purpose. To that high concept there can be no end save victory." -- Franklin Delano Roosevelt]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

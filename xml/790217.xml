@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/790217-idorunyc357]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/790217-idorunyc357" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 14 Apr 2010 06:45:02 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/64560-arguing-with-anonymous-strangers-on-the-internet-is-a-sucker-s</guid>
+		<pubDate>Wed, 14 Apr 2010 06:45:02 -0700</pubDate>
+		<title>
+			<![CDATA[Idorunyc357 add a quote by Neal Stephenson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/64560-arguing-with-anonymous-strangers-on-the-internet-is-a-sucker-s]]>
+		</link>
+		<description>
+	    <![CDATA["Arguing with anonymous strangers on the Internet is a sucker's game because they almost always turn out to be&amp;mdash;or to be indistinguishable from&amp;mdash;self-righteous sixteen-year-olds possessing infinite amounts of free time." -- Neal Stephenson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

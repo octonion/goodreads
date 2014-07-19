@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/238719-winda]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/238719-winda" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Dec 2007 17:59:55 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4864-to-the-well-organized-mind-death-is-but-the-next-great</guid>
+		<pubDate>Tue, 11 Dec 2007 17:59:55 -0800</pubDate>
+		<title>
+			<![CDATA[winda add a quote by J.K. Rowling]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4864-to-the-well-organized-mind-death-is-but-the-next-great]]>
+		</link>
+		<description>
+	    <![CDATA["To the well-organized mind, death is but the next great adventure." -- J.K. Rowling]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

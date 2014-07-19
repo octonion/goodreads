@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1023656-ian]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1023656-ian" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 16 Jul 2008 14:30:49 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/73532-formerly-when-he-tried-to-do-anything-for-the-good-of</guid>
+		<pubDate>Wed, 16 Jul 2008 14:30:49 -0700</pubDate>
+		<title>
+			<![CDATA[Ian add a quote by Leo Tolstoy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/73532-formerly-when-he-tried-to-do-anything-for-the-good-of]]>
+		</link>
+		<description>
+	    <![CDATA["Formerly...when he tried to do anything for the good of everybody, for humanity...for the whole village, he had noticed that the thoughts of it were agreeable, but the activity itself was always unsatisfactory; there was no full assurance that the work was really necessary, and the activity itself, which at first seemed so great, ever lessened and lessened till it vanished. But now...when he began to confine himself more and more to living for himself, though he no longer felt any joy at the thought of his activity, he felt confident that his work was necessary, saw that it progressed far better than formerly, and that it was always growing more and more." -- Leo Tolstoy]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/613145-outeiro]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/613145-outeiro" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 12 Apr 2012 11:57:11 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/223655-gay-men-are-guardians-of-the-masculine-impulse-to-have</guid>
+		<pubDate>Thu, 12 Apr 2012 11:57:11 -0700</pubDate>
+		<title>
+			<![CDATA[Outeiro add a quote by Camille Paglia]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/223655-gay-men-are-guardians-of-the-masculine-impulse-to-have]]>
+		</link>
+		<description>
+	    <![CDATA["Gay men are guardians of the masculine impulse. To have anonymous sex in a dark alleyway is to pay homage to the dream of male freedom. The unknown stranger is a wandering pagan god. The altar, as in pre-history, is anywhere you kneel." -- Camille Paglia]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

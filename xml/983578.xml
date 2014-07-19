@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/983578-kennethkiffer]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/983578-kennethkiffer" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 26 Jun 2014 21:08:57 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/14273-many-people-lose-the-small-joys-in-the-hope-for</guid>
+		<pubDate>Thu, 26 Jun 2014 21:08:57 -0700</pubDate>
+		<title>
+			<![CDATA[Kennethkiffer add a quote by Pearl S. Buck]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14273-many-people-lose-the-small-joys-in-the-hope-for]]>
+		</link>
+		<description>
+	    <![CDATA["Many people lose the small joys in the hope for the big happiness." -- Pearl S. Buck]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

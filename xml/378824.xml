@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/378824-amy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/378824-amy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 12 Feb 2014 11:21:11 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/699843-this-generation-has-lost-the-true-meaning-of-romance-there</guid>
+		<pubDate>Wed, 12 Feb 2014 11:21:11 -0800</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Tom Hiddleston]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/699843-this-generation-has-lost-the-true-meaning-of-romance-there]]>
+		</link>
+		<description>
+	    <![CDATA["This generation has lost the true meaning of romance. There are so many songs that disrespect women. You can’t treat the woman you love as a piece of meat. You should treat your love like a princess. Give her love songs, something with real meaning. Maybe I’m old fashioned but to respect the woman you love should be a priority." -- Tom Hiddleston]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/883497-you-should-never-say-anything-to-a-woman-that-even</guid>
+		<pubDate>Thu, 20 Feb 2014 18:43:48 -0800</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Dave Barry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/883497-you-should-never-say-anything-to-a-woman-that-even]]>
+		</link>
+		<description>
+	    <![CDATA["You should never say anything to a woman that even remotely suggests you think she's pregnant unless you can see an actual baby emerging from her at that moment." -- Dave Barry]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

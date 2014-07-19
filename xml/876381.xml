@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/876381-mehrdad]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/876381-mehrdad" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 17 Jul 2013 13:19:15 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/526273-stop-hoping-start-believing</guid>
+		<pubDate>Wed, 17 Jul 2013 13:19:15 -0700</pubDate>
+		<title>
+			<![CDATA[Mehrdad add a quote by Nick Jonas]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/526273-stop-hoping-start-believing]]>
+		</link>
+		<description>
+	    <![CDATA["Stop hoping, start believing." -- Nick Jonas]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/511050-stones-in-the-road-i-save-every-single-one-and</guid>
+		<pubDate>Wed, 17 Jul 2013 13:19:17 -0700</pubDate>
+		<title>
+			<![CDATA[Mehrdad add a quote by Nemo Nox]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/511050-stones-in-the-road-i-save-every-single-one-and]]>
+		</link>
+		<description>
+	    <![CDATA["Stones in the road? I save every single one, and one day I’ll build a castle." -- Nemo Nox]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

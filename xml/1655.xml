@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1655-eugenia-vlasova]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1655-eugenia-vlasova" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 08 Jun 2012 09:59:51 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/17931-if-you-want-to-really-hurt-you-parents-and-you</guid>
+		<pubDate>Fri, 08 Jun 2012 09:59:51 -0700</pubDate>
+		<title>
+			<![CDATA[Eugenia add a quote by Kurt Vonnegut]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17931-if-you-want-to-really-hurt-you-parents-and-you]]>
+		</link>
+		<description>
+	    <![CDATA["If you want to really hurt you parents, and you don't have the nerve to be gay, the least you can do is go into the arts. I'm not kidding. The arts are not a way to make a living. They are a very human way of making life more bearable. Practicing an art, no matter how well or badly, is a way to make your soul grow, for heaven's sake. Sing in the shower. Dance to the radio. Tell stories. Write a poem to a friend, even a lousy poem. Do it as well as you possible can. You will get an enormous reward. You will have created something." -- Kurt Vonnegut]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

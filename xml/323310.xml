@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/323310-sanny]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/323310-sanny" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 02 Apr 2011 00:03:43 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/14237-therefore-i-say-unto-you-what-things-soever-ye-desire</guid>
+		<pubDate>Sat, 02 Apr 2011 00:03:43 -0700</pubDate>
+		<title>
+			<![CDATA[sanny add a quote by Anonymous]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14237-therefore-i-say-unto-you-what-things-soever-ye-desire]]>
+		</link>
+		<description>
+	    <![CDATA["Therefore I say unto you, What things soever ye desire, when ye pray, believe that ye receive them, and ye shall have them.
+
+(Jesus, in Mark 11:24)" -- Anonymous]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1264-peace-begins-with-a-smile</guid>
+		<pubDate>Tue, 22 Jul 2008 02:19:51 -0700</pubDate>
+		<title>
+			<![CDATA[sanny add a quote by Mother Teresa]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1264-peace-begins-with-a-smile]]>
+		</link>
+		<description>
+	    <![CDATA["Peace begins with a smile.." -- Mother Teresa]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

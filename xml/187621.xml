@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/187621-cassandra]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/187621-cassandra" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 09 Jun 2010 13:55:16 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/266437-i-want-the-world-i-want-the-whole-world-i</guid>
+		<pubDate>Wed, 09 Jun 2010 13:55:16 -0700</pubDate>
+		<title>
+			<![CDATA[Cassandra add a quote by Leslie Bricusse and Anthony Newley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/266437-i-want-the-world-i-want-the-whole-world-i]]>
+		</link>
+		<description>
+	    <![CDATA["I want the world, I want the whole world.  I want to lock it all up in my pocket,/It's my bar of chocolate/Give it to me now! I want today/I want tomorrow . . . And if I don't get the things I am after/I'm going to scream!" -- Leslie Bricusse and Anthony Newley]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/52202-true-love-is-not-so-much-a-matter-of-romance</guid>
+		<pubDate>Thu, 03 Mar 2011 16:26:25 -0800</pubDate>
+		<title>
+			<![CDATA[Cassandra add a quote by Gordon B. Hinckley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/52202-true-love-is-not-so-much-a-matter-of-romance]]>
+		</link>
+		<description>
+	    <![CDATA["True love is not so much a matter of romance as it is a matter of anxious concern for the well-being of one's companion." -- Gordon B. Hinckley]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/33-men-occasionally-stumble-over-the-truth-but-most-of-them</guid>
+		<pubDate>Tue, 01 Nov 2011 13:41:00 -0700</pubDate>
+		<title>
+			<![CDATA[Cassandra add a quote by Winston S. Churchill]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/33-men-occasionally-stumble-over-the-truth-but-most-of-them]]>
+		</link>
+		<description>
+	    <![CDATA["Men occasionally stumble over the truth, but most of them pick themselves up and hurry off as if nothing ever happened." -- Winston S. Churchill]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

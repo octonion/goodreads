@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/295653-baron-greystone]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/295653-baron-greystone" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 03 Oct 2009 12:11:44 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/197155-the-red-rose-cries-she-is-near-she-is-near</guid>
+		<pubDate>Sat, 03 Oct 2009 12:11:44 -0700</pubDate>
+		<title>
+			<![CDATA[Baron add a quote by Alfred, Lord Tennyson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/197155-the-red-rose-cries-she-is-near-she-is-near]]>
+		</link>
+		<description>
+	    <![CDATA["The red rose cries, &quot;She is near, she is near;&quot;
+And the white rose weeps, &quot;She is late;&quot;
+The larkspur listens, &quot;I hear, I hear;&quot;
+And the lily whispers, &quot;I wait." -- Alfred, Lord Tennyson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

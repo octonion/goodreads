@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/491505-anthony]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/491505-anthony" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 19 Apr 2009 16:03:45 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/156010-not-to-waste-time-on-nonsense-not-to-be-taken</guid>
+		<pubDate>Sun, 19 Apr 2009 16:03:45 -0700</pubDate>
+		<title>
+			<![CDATA[Anthony add a quote by Marcus Aurelius]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/156010-not-to-waste-time-on-nonsense-not-to-be-taken]]>
+		</link>
+		<description>
+	    <![CDATA["Not to waste time on nonsense.  Not to be taken in by conjurors and hoodoo artists with their talk about incantations and exorcism and all the rest of it.  Not to be obsessed with quail-fighting or other crazes like that." -- Marcus Aurelius]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/56545-painting-is-the-silence-of-thought-and-the-music-of</guid>
+		<pubDate>Sun, 19 Apr 2009 16:04:37 -0700</pubDate>
+		<title>
+			<![CDATA[Anthony add a quote by Orhan Pamuk]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/56545-painting-is-the-silence-of-thought-and-the-music-of]]>
+		</link>
+		<description>
+	    <![CDATA["Painting is the silence of thought and the music of sight." -- Orhan Pamuk]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

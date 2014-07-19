@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/111361-hamid]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/111361-hamid" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 11 Oct 2013 14:05:48 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/10624-don-t-ever-tell-anybody-anything-if-you-do-you-start</guid>
+		<pubDate>Fri, 11 Oct 2013 14:05:48 -0700</pubDate>
+		<title>
+			<![CDATA[Hamid add a quote by J. D. Salinger]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10624-don-t-ever-tell-anybody-anything-if-you-do-you-start]]>
+		</link>
+		<description>
+	    <![CDATA["Don't ever tell anybody anything.  If you do, you start missing everybody." -- J. D. Salinger]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/335418-if-a-woman-sleeps-alone-it-puts-a-shame-on</guid>
+		<pubDate>Mon, 11 Nov 2013 00:51:26 -0800</pubDate>
+		<title>
+			<![CDATA[Hamid add a quote by Nikos Kazantzakis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/335418-if-a-woman-sleeps-alone-it-puts-a-shame-on]]>
+		</link>
+		<description>
+	    <![CDATA["If a woman sleeps alone it puts a shame on all men. God has a very big heart, but there is one sin He will not forgive. If a woman calls a man to her bed and he will not go." -- Nikos Kazantzakis]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

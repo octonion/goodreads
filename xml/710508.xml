@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/710508-syavash-agharazi]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/710508-syavash-agharazi" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 17 Nov 2009 14:07:14 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/10624-don-t-ever-tell-anybody-anything-if-you-do-you-start</guid>
+		<pubDate>Tue, 17 Nov 2009 14:07:14 -0800</pubDate>
+		<title>
+			<![CDATA[Syavash add a quote by J. D. Salinger]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10624-don-t-ever-tell-anybody-anything-if-you-do-you-start]]>
+		</link>
+		<description>
+	    <![CDATA["Don't ever tell anybody anything.  If you do, you start missing everybody." -- J. D. Salinger]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/34445-that-s-the-thing-about-girls-every-time-they-do-something</guid>
+		<pubDate>Tue, 17 Nov 2009 14:07:21 -0800</pubDate>
+		<title>
+			<![CDATA[Syavash add a quote by J.D. Salinger]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/34445-that-s-the-thing-about-girls-every-time-they-do-something]]>
+		</link>
+		<description>
+	    <![CDATA["That's the thing about girls. Every time they do something pretty, even if they're not much to look at, or even if they're sort of stupid, you fall in love with them, and then you never know where the hell you are. Girls. Jesus Christ. They can drive you crazy. They really can." -- J.D. Salinger]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

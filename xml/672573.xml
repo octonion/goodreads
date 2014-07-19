@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/672573-kia-taheri]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/672573-kia-taheri" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 04 Jan 2013 17:00:41 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/697544-if-liberty-sang-a-song-little-as-the-larynx-of</guid>
+		<pubDate>Fri, 04 Jan 2013 17:00:41 -0800</pubDate>
+		<title>
+			<![CDATA[Kia add a quote by Ahmad Shamlou]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/697544-if-liberty-sang-a-song-little-as-the-larynx-of]]>
+		</link>
+		<description>
+	    <![CDATA["If liberty sang a song, little,
+as the larynx of a bird,
+nowhere would there remain a tumbling wall." -- Ahmad Shamlou]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/192659</guid>
+		<pubDate>Wed, 04 Sep 2013 14:45:32 -0700</pubDate>
+		<title>
+			<![CDATA[Kia add a quote by برتراند راسل]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/192659]]>
+		</link>
+		<description>
+	    <![CDATA["هرگز حاضر نیستم به خاطر عقایدم بمیرم ، چرا که ممکن است عقایدم اشتباه باشند ." -- برتراند راسل]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

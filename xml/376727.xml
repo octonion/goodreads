@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/376727-alyson]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/376727-alyson" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 03 Jun 2008 08:03:54 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3556-my-purpose-holds-to-sail-beyond-the-sunset-and-the</guid>
+		<pubDate>Tue, 03 Jun 2008 08:03:54 -0700</pubDate>
+		<title>
+			<![CDATA[Alyson add a quote by Alfred Lord Tennyson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3556-my-purpose-holds-to-sail-beyond-the-sunset-and-the]]>
+		</link>
+		<description>
+	    <![CDATA["My purpose holds to sail beyond the sunset and the baths of all the Western stars until I die." -- Alfred Lord Tennyson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/60074-i-would-rather-live-in-a-world-where-my-life</guid>
+		<pubDate>Tue, 03 Jun 2008 08:04:17 -0700</pubDate>
+		<title>
+			<![CDATA[Alyson add a quote by Harry Emerson Fosdick]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/60074-i-would-rather-live-in-a-world-where-my-life]]>
+		</link>
+		<description>
+	    <![CDATA["I would rather live in a world where my life is surrounded by mystery than live in a world so small that my mind could comprehend it." -- Harry Emerson Fosdick]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

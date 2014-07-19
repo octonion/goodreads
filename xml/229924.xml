@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/229924-amy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/229924-amy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 06 Jan 2012 10:06:35 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/7457-we-think-that-the-point-is-to-pass-the-test</guid>
+		<pubDate>Fri, 06 Jan 2012 10:06:35 -0800</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Pema Chodron]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7457-we-think-that-the-point-is-to-pass-the-test]]>
+		</link>
+		<description>
+	    <![CDATA["We think that the point is to pass the test or to overcome the problem, but the truth is that things don't really get solved. They come together and they fall apart." -- Pema Chodron]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/49617-the-most-difficult-times-for-many-of-us-are-the</guid>
+		<pubDate>Fri, 06 Jan 2012 10:07:29 -0800</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Pema Chodron]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/49617-the-most-difficult-times-for-many-of-us-are-the]]>
+		</link>
+		<description>
+	    <![CDATA["The most difficult times for many of us are the ones we give ourselves." -- Pema Chodron]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/197776-the-most-fundamental-aggression-to-ourselves-the-most-fundamental-harm</guid>
+		<pubDate>Fri, 06 Jan 2012 10:10:06 -0800</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Pema Chödrön]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/197776-the-most-fundamental-aggression-to-ourselves-the-most-fundamental-harm]]>
+		</link>
+		<description>
+	    <![CDATA["The most fundamental aggression to ourselves, the most fundamental harm we can do to ourselves, is to remain ignorant by not having the courage and the respect to look at ourselves honestly and gently." -- Pema Chödrön]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

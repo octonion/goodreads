@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/841589-gretel]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/841589-gretel" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 30 May 2008 06:57:32 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/38427-you-could-sing-us-the-phone-book-and-we-would</guid>
+		<pubDate>Fri, 30 May 2008 06:57:32 -0700</pubDate>
+		<title>
+			<![CDATA[Gretel add a quote by Paula Abdul]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/38427-you-could-sing-us-the-phone-book-and-we-would]]>
+		</link>
+		<description>
+	    <![CDATA["You could sing us the phone book and we would still love you." -- Paula Abdul]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/51872-you-didn-t-beat-the-compotition-you-crushed-the-compotition</guid>
+		<pubDate>Fri, 30 May 2008 06:57:35 -0700</pubDate>
+		<title>
+			<![CDATA[Gretel add a quote by Simon Cowell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/51872-you-didn-t-beat-the-compotition-you-crushed-the-compotition]]>
+		</link>
+		<description>
+	    <![CDATA["You didn't beat the compotition you crushed the compotition!" -- Simon Cowell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

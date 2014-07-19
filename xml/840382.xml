@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/840382-christy-lemak]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/840382-christy-lemak" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 18 Apr 2008 05:35:06 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/45847-you-can-either-practice-being-right-or-practice-being-kind</guid>
+		<pubDate>Fri, 18 Apr 2008 05:35:06 -0700</pubDate>
+		<title>
+			<![CDATA[Christy add a quote by Anne Lamott]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/45847-you-can-either-practice-being-right-or-practice-being-kind]]>
+		</link>
+		<description>
+	    <![CDATA["You can either practice being right or practice being kind." -- Anne Lamott]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/45848-nobody-gets-into-heaven-without-a-letter-of-reference-from</guid>
+		<pubDate>Fri, 18 Apr 2008 05:35:48 -0700</pubDate>
+		<title>
+			<![CDATA[Christy add a quote by J. Forbes]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/45848-nobody-gets-into-heaven-without-a-letter-of-reference-from]]>
+		</link>
+		<description>
+	    <![CDATA["Nobody gets into heaven without a letter of reference from the poor." -- J. Forbes]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/45849-you-can-tell-if-people-are-following-jesus-because-they</guid>
+		<pubDate>Fri, 18 Apr 2008 05:36:35 -0700</pubDate>
+		<title>
+			<![CDATA[Christy add a quote by Anne Lamott]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/45849-you-can-tell-if-people-are-following-jesus-because-they]]>
+		</link>
+		<description>
+	    <![CDATA["You can tell if people are following Jesus, because they are fedding the poor, sharing their wealth, and trying to get everyone medical insurance." -- Anne Lamott]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

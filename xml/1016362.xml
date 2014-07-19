@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1016362-polkadotbanner]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1016362-polkadotbanner" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 23 Mar 2008 08:55:58 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/28581-from-your-parents-you-learn-love-and-laughter-and-how</guid>
+		<pubDate>Sun, 23 Mar 2008 08:55:58 -0700</pubDate>
+		<title>
+			<![CDATA[PolkaDotBanner add a quote by Helen Hayes]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/28581-from-your-parents-you-learn-love-and-laughter-and-how]]>
+		</link>
+		<description>
+	    <![CDATA["From your parents you learn love and laughter and how to put one foot before the other.  But when books are opened you discover that you have wings." -- Helen Hayes]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2793-you-have-to-store-up-books-becoming-acquainted-with-human</guid>
+		<pubDate>Sun, 23 Mar 2008 08:59:28 -0700</pubDate>
+		<title>
+			<![CDATA[PolkaDotBanner add a quote by Viktor Shklovsky]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2793-you-have-to-store-up-books-becoming-acquainted-with-human]]>
+		</link>
+		<description>
+	    <![CDATA["You have to store up books, becoming acquainted with human experience; let them lie around your thoughts, becoming yours—ring upon ring, as a tree grows, let them rise up from the depths like coral islands.
+
+If it gets crowded with all the books and there's nowhere to put your bed, it's better to exchange it for a folding bed" -- Viktor Shklovsky]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

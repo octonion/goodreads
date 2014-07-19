@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/350037-pamela]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/350037-pamela" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 23 Feb 2009 21:26:58 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/33663-the-art-of-writing-is-the-art-of-discovering-what</guid>
+		<pubDate>Mon, 23 Feb 2009 21:26:58 -0800</pubDate>
+		<title>
+			<![CDATA[Pamela add a quote by Gustave Flaubert]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/33663-the-art-of-writing-is-the-art-of-discovering-what]]>
+		</link>
+		<description>
+	    <![CDATA["The art of writing is the art of discovering what you believe." -- Gustave Flaubert]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/7136-there-is-not-a-particle-of-life-which-does-not</guid>
+		<pubDate>Mon, 23 Feb 2009 21:27:09 -0800</pubDate>
+		<title>
+			<![CDATA[Pamela add a quote by Gustave Flaubert]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7136-there-is-not-a-particle-of-life-which-does-not]]>
+		</link>
+		<description>
+	    <![CDATA["There is not a particle of life which does not bear poetry within it" -- Gustave Flaubert]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5850-human-speech-is-like-a-cracked-kettle-on-which-we</guid>
+		<pubDate>Mon, 23 Feb 2009 21:27:14 -0800</pubDate>
+		<title>
+			<![CDATA[Pamela add a quote by Gustave Flaubert]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5850-human-speech-is-like-a-cracked-kettle-on-which-we]]>
+		</link>
+		<description>
+	    <![CDATA["Human speech is like a cracked kettle on which we tap crude rhythms for bears to dance to, while we long to make music that will melt the stars." -- Gustave Flaubert]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

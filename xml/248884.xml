@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/248884-anne-bancroft]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/248884-anne-bancroft" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 03 Dec 2012 05:46:03 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/122673-be-as-simple-as-you-can-be-you-will-be</guid>
+		<pubDate>Mon, 03 Dec 2012 05:46:03 -0800</pubDate>
+		<title>
+			<![CDATA[Anne add a quote by Paramahansa Yogananda ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/122673-be-as-simple-as-you-can-be-you-will-be]]>
+		</link>
+		<description>
+	    <![CDATA["Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become." -- Paramahansa Yogananda ]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

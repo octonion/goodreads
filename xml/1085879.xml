@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1085879-miriam]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1085879-miriam" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 17 Aug 2009 12:57:03 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/16949-a-friend-is-someone-who-knows-all-about-you-and</guid>
+		<pubDate>Mon, 17 Aug 2009 12:57:03 -0700</pubDate>
+		<title>
+			<![CDATA[Miriam add a quote by Elbert Hubbard]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16949-a-friend-is-someone-who-knows-all-about-you-and]]>
+		</link>
+		<description>
+	    <![CDATA["A friend is someone who knows all about you and still loves you." -- Elbert Hubbard]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/360-good-friends-good-books-and-a-sleepy-conscience-this-is</guid>
+		<pubDate>Mon, 17 Aug 2009 12:57:17 -0700</pubDate>
+		<title>
+			<![CDATA[Miriam add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/360-good-friends-good-books-and-a-sleepy-conscience-this-is]]>
+		</link>
+		<description>
+	    <![CDATA["Good friends, good books, and a sleepy conscience: this is the ideal life." -- Mark Twain]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/69-folks-are-usually-about-as-happy-as-they-make-their</guid>
+		<pubDate>Mon, 17 Aug 2009 13:07:37 -0700</pubDate>
+		<title>
+			<![CDATA[Miriam add a quote by Abraham Lincoln]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/69-folks-are-usually-about-as-happy-as-they-make-their]]>
+		</link>
+		<description>
+	    <![CDATA["Folks are usually about as happy as they make their minds up to be." -- Abraham Lincoln]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1025-happiness-is-a-warm-puppy</guid>
+		<pubDate>Mon, 17 Aug 2009 13:07:43 -0700</pubDate>
+		<title>
+			<![CDATA[Miriam add a quote by Charles M. Schulz]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1025-happiness-is-a-warm-puppy]]>
+		</link>
+		<description>
+	    <![CDATA["Happiness is a warm puppy." -- Charles M. Schulz]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/17569-you-will-never-be-happy-if-you-continue-to-search</guid>
+		<pubDate>Mon, 17 Aug 2009 13:07:53 -0700</pubDate>
+		<title>
+			<![CDATA[Miriam add a quote by Albert Camus]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17569-you-will-never-be-happy-if-you-continue-to-search]]>
+		</link>
+		<description>
+	    <![CDATA["You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life." -- Albert Camus]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/901758-erica]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/901758-erica" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 28 Jul 2008 10:17:26 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/77100-you-feel-that-properly-alexandra-s-house-is-the-big-out-of-doors-and</guid>
+		<pubDate>Mon, 28 Jul 2008 10:17:26 -0700</pubDate>
+		<title>
+			<![CDATA[Erica add a quote by Will Cather]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/77100-you-feel-that-properly-alexandra-s-house-is-the-big-out-of-doors-and]]>
+		</link>
+		<description>
+	    <![CDATA["You feel that, properly, Alexandra's house  is the big-out-of-doors, and that it is in the soil that she expresses herself. 
+-O Pioneers" -- Will Cather]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/81768-the-future-ours-for-a-while-to-hold-with-its</guid>
+		<pubDate>Tue, 12 Aug 2008 06:34:12 -0700</pubDate>
+		<title>
+			<![CDATA[Erica add a quote by tony hoagland]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/81768-the-future-ours-for-a-while-to-hold-with-its]]>
+		</link>
+		<description>
+	    <![CDATA["The future ours for a while to hold, with its heaviness—
+
+and hope moving from one location to another
+like the holy ghost that it is." -- tony hoagland]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

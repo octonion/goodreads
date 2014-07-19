@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/371015-joke]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/371015-joke" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 10 Jan 2011 03:32:31 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/330079-there-is-no-tomorrow-time-cannot-be-saved-and-spent</guid>
+		<pubDate>Mon, 10 Jan 2011 03:32:31 -0800</pubDate>
+		<title>
+			<![CDATA[Joke add a quote by Christopher Kimball]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/330079-there-is-no-tomorrow-time-cannot-be-saved-and-spent]]>
+		</link>
+		<description>
+	    <![CDATA["There is no tomorrow.  Time cannot be saved and spent.  There is only today and how we choose to live it.  The future is unknowable and unpredictable; it offers no clear path to happiness.  Science will not save us.  Each of us, then, needs to cobble together a daily routine filled with basic human pleasures, wedded, to be sure, to the best that modernity has to offer.  It is a life of compromise rather than extremes.  It is a touch of the old and a taste of the new.  And cooking, it seems to me, offers the most direct way back into the very heart of the good life.  It is useful, it is necessary, it is social, and it offers immediate pleasure and satisfaction.  It connects with the past and ensures the future.  Standing in front of a hot oven, we remind ourselves of who we are, of what we are capable of and how we might stumble back to the center of happiness.  Effort and pleasure go hand in hand." -- Christopher Kimball]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/805335-write-as-if-you-were-dying-at-the-same-time</guid>
+		<pubDate>Sat, 18 May 2013 02:35:48 -0700</pubDate>
+		<title>
+			<![CDATA[Joke add a quote by Annie Dillard]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/805335-write-as-if-you-were-dying-at-the-same-time]]>
+		</link>
+		<description>
+	    <![CDATA["Write as if you were dying. At the same time, assume you write for an audience consisting solely of terminal patients. That is, after all, the case. What would you begin writing if you knew you would die soon? What could you say to a dying person that would not enrage by its triviality." -- Annie Dillard]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

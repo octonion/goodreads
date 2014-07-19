@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/466315-sarah-beebe]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/466315-sarah-beebe" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 08 Feb 2013 07:46:20 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/727130-ever-since-roberta-wohlstetter-s-pathbreaking-study-of-why-the-united</guid>
+		<pubDate>Fri, 08 Feb 2013 07:46:20 -0800</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by Robert Jervis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/727130-ever-since-roberta-wohlstetter-s-pathbreaking-study-of-why-the-united]]>
+		</link>
+		<description>
+	    <![CDATA["Ever since Roberta Wohlstetter’s pathbreaking study of why the United States was taken by surprise at Pearl Harbor 50 years ago, both academics and members of the Intelligence Community (IC) have made significant progress in understanding intelligence failures. About how to correct these errors and do better we know much less, however, and it is to this subject that this volume makes a major contribution. --Foreword to Cases in Intelligence Analysis: Structured Analytic Techniques in Action" -- Robert Jervis]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/727134-this-process-is-like-starting-a-fitness-regimen-for-the</guid>
+		<pubDate>Fri, 08 Feb 2013 07:53:09 -0800</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by Sarah Miller Beebe]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/727134-this-process-is-like-starting-a-fitness-regimen-for-the]]>
+		</link>
+		<description>
+	    <![CDATA["This process is like starting a fitness regimen for the brain. At the beginning, your muscles burn a little. But over time and with repetition, you become stronger, and the improvements you see in yourself can be remarkable. Becoming a better thinker, just like becoming a better athlete, requires practice. We challenge you to feel the burn." -- Sarah Miller Beebe]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

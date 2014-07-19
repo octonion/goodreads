@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/387903-sarah]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/387903-sarah" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 04 Nov 2008 11:38:14 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/66093-in-all-of-living-have-much-fun-and-laughter-life</guid>
+		<pubDate>Tue, 04 Nov 2008 11:38:14 -0800</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by Gordon B. Hinckley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/66093-in-all-of-living-have-much-fun-and-laughter-life]]>
+		</link>
+		<description>
+	    <![CDATA["In all of living, have much fun and laughter.  Life is to be enjoyed, not just endured." -- Gordon B. Hinckley]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

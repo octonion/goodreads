@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/933055-brendan-koerner]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/933055-brendan-koerner" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 06 Jun 2013 12:07:24 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/820418-my-son-from-whence-this-madness-this-neglect-of-my</guid>
+		<pubDate>Thu, 06 Jun 2013 12:07:24 -0700</pubDate>
+		<title>
+			<![CDATA[Brendan add a quote by Virgil]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/820418-my-son-from-whence-this-madness-this-neglect-of-my]]>
+		</link>
+		<description>
+	    <![CDATA["My son, from whence this madness, this neglect
+Of my commands, and those whom I protect?
+Why this unmanly rage? Recall to mind
+Whom you forsake, what pledges leave behind." -- Virgil]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/820421-i-shoulda-stayed-in-job-corps-but-now-i-m-an</guid>
+		<pubDate>Thu, 06 Jun 2013 12:07:20 -0700</pubDate>
+		<title>
+			<![CDATA[Brendan add a quote by Ghostface Killah]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/820421-i-shoulda-stayed-in-job-corps-but-now-i-m-an]]>
+		</link>
+		<description>
+	    <![CDATA["I shoulda stayed in Job Corps,
+but now I'm an outlaw..." -- Ghostface Killah]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/65114-there-is-nothing-like-a-war-for-the-reinvention-of</guid>
+		<pubDate>Tue, 29 Jul 2008 05:15:55 -0700</pubDate>
+		<title>
+			<![CDATA[Brendan add a quote by Salman Rushdie]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/65114-there-is-nothing-like-a-war-for-the-reinvention-of]]>
+		</link>
+		<description>
+	    <![CDATA["There is nothing like a War for the reinvention of lives..." -- Salman Rushdie]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

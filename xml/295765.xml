@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/295765-gene]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/295765-gene" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 23 Aug 2009 16:22:44 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/187834-to-instruct-calls-for-energy-and-to-remain-almost-silent</guid>
+		<pubDate>Sun, 23 Aug 2009 16:22:44 -0700</pubDate>
+		<title>
+			<![CDATA[Gene add a quote by Robertson Davies]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/187834-to-instruct-calls-for-energy-and-to-remain-almost-silent]]>
+		</link>
+		<description>
+	    <![CDATA["To instruct calls for energy, and to remain almost silent, but watchful and helpful, while students instruct themselves, calls for even greater energy. To see someone fall (which will teach him not to fall again) when a word from you would keep him on his feet but ignorant of an important danger, is one of the tasks of the teacher that calls for special energy, because holding in is more demanding than crying out. " -- Robertson Davies]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

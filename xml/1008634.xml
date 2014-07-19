@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1008634-sadie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1008634-sadie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 28 Apr 2008 22:52:57 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/41242-sell-your-cleverness-and-buy-bewilderment</guid>
+		<pubDate>Mon, 28 Apr 2008 22:52:57 -0700</pubDate>
+		<title>
+			<![CDATA[Sadie add a quote by Rumi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/41242-sell-your-cleverness-and-buy-bewilderment]]>
+		</link>
+		<description>
+	    <![CDATA["Sell your cleverness and buy bewilderment." -- Rumi]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/24634-if-we-don-t-believe-in-freedom-of-expression-for-people</guid>
+		<pubDate>Wed, 06 Aug 2008 17:40:31 -0700</pubDate>
+		<title>
+			<![CDATA[Sadie add a quote by Noam Chomsky]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/24634-if-we-don-t-believe-in-freedom-of-expression-for-people]]>
+		</link>
+		<description>
+	    <![CDATA["If we don't believe in freedom of expression for people we despise, we don't believe in it at all." -- Noam Chomsky]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

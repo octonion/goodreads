@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/769474-sidnee]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/769474-sidnee" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 18 Apr 2014 21:33:44 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1177080-you-can-choose-to-focus-on-the-surprises-and-pleasures</guid>
+		<pubDate>Fri, 18 Apr 2014 21:33:44 -0700</pubDate>
+		<title>
+			<![CDATA[Sidnee add a quote by Chris Hadfield]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1177080-you-can-choose-to-focus-on-the-surprises-and-pleasures]]>
+		</link>
+		<description>
+	    <![CDATA["You can choose to focus on the surprises and pleasures, or the frustrations. And you can choose to appreciate the smallest scraps of experience, the everyday moments, or to value only the grandest, most stirring ones. Ultimately, the real question is whether you want to be happy." -- Chris Hadfield]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

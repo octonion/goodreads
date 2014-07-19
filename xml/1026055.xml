@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1026055-tori]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1026055-tori" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 06 May 2008 12:00:18 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6691-if-i-should-ever-die-god-forbid-let-this-be</guid>
+		<pubDate>Tue, 06 May 2008 12:00:18 -0700</pubDate>
+		<title>
+			<![CDATA[Tori add a quote by kurt vonnegut]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6691-if-i-should-ever-die-god-forbid-let-this-be]]>
+		</link>
+		<description>
+	    <![CDATA["If I should ever die, God forbid, let this be my epitaph:
+THE ONLY PROOF HE NEEDED
+FOR THE EXISTENCE OF GOD
+WAS MUSIC" -- kurt vonnegut]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/51772-i-learned-through-my-body-and-soul-that-it-was</guid>
+		<pubDate>Tue, 06 May 2008 12:06:26 -0700</pubDate>
+		<title>
+			<![CDATA[Tori add a quote by Hermann Hesse]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/51772-i-learned-through-my-body-and-soul-that-it-was]]>
+		</link>
+		<description>
+	    <![CDATA["I learned through my body and soul that it was necessary to sin, that I needed lust, that I had to strive for property and experience nausea and the depths of despair in order to learn not to resist them, in order to learn to love the world, and no longer compare it with some kind of desired imaginary vision of perfection, but to leave it as it is, to love it and be glad to belong to it." -- Hermann Hesse]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

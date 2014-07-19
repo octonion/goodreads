@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/973562-kat]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/973562-kat" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 02 Jan 2013 12:27:20 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/614454-in-olden-times-gold-was-manufactured-by-science-nowadays-science</guid>
+		<pubDate>Wed, 02 Jan 2013 12:27:20 -0800</pubDate>
+		<title>
+			<![CDATA[Kat add a quote by Éliphas Lévi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/614454-in-olden-times-gold-was-manufactured-by-science-nowadays-science]]>
+		</link>
+		<description>
+	    <![CDATA["In olden times gold was manufactured by science; nowadays science must be renewed by gold.  We have fixed the volatile and we must now volatilize the fixed—in other words, we have materialized spirit, and we must now spiritualize matter." -- Éliphas Lévi]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/766193-carrie-st-clair]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/766193-carrie-st-clair" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 10 Jan 2008 07:59:55 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/12124-the-past-is-never-dead-it-s-not-even-past</guid>
+		<pubDate>Thu, 10 Jan 2008 07:59:55 -0800</pubDate>
+		<title>
+			<![CDATA[Carrie add a quote by William Faulkner]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12124-the-past-is-never-dead-it-s-not-even-past]]>
+		</link>
+		<description>
+	    <![CDATA["The past is never dead.  It's not even past." -- William Faulkner]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/12126-man-is-what-he-wills-himself-to-be</guid>
+		<pubDate>Thu, 10 Jan 2008 08:01:07 -0800</pubDate>
+		<title>
+			<![CDATA[Carrie add a quote by Jean-Paul Sartre]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12126-man-is-what-he-wills-himself-to-be]]>
+		</link>
+		<description>
+	    <![CDATA["Man is what he wills himself to be." -- Jean-Paul Sartre]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2177-i-am-enough-of-an-artist-to-draw-freely-upon</guid>
+		<pubDate>Sun, 30 Mar 2008 20:03:44 -0700</pubDate>
+		<title>
+			<![CDATA[Carrie add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2177-i-am-enough-of-an-artist-to-draw-freely-upon]]>
+		</link>
+		<description>
+	    <![CDATA["I am enough of an artist to draw freely upon my imagination. Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world." -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2534-we-accept-the-love-we-think-we-deserve</guid>
+		<pubDate>Fri, 23 May 2008 23:55:29 -0700</pubDate>
+		<title>
+			<![CDATA[Carrie add a quote by Stephen Chbosky]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2534-we-accept-the-love-we-think-we-deserve]]>
+		</link>
+		<description>
+	    <![CDATA["We accept the love we think we deserve." -- Stephen Chbosky]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

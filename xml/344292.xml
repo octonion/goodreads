@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/344292-christopher-lehmann]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/344292-christopher-lehmann" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 12 Jul 2010 19:23:32 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/276580-whenever-i-give-a-talk-about-my-work-i-am</guid>
+		<pubDate>Mon, 12 Jul 2010 19:23:32 -0700</pubDate>
+		<title>
+			<![CDATA[Christopher add a quote by Robert Gober]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/276580-whenever-i-give-a-talk-about-my-work-i-am]]>
+		</link>
+		<description>
+	    <![CDATA["Whenever I give a talk about my work I  am invariably asked who my influences are. 
+
+Not what my influences are, but who. 
+
+As if the gutter, misunderstandings, memories, sex, dreams, and books matter less than forebears do. 
+
+After all, in terms of influences, it is as much the guy who mugged me on 10th Street, or my beloved dog who passed away much too early, as it was Giotto or Diane Arbus." -- Robert Gober]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/721719-janos]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/721719-janos" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 20 Nov 2011 04:37:26 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/373147-well-roared-lion</guid>
+		<pubDate>Sun, 20 Nov 2011 04:37:26 -0800</pubDate>
+		<title>
+			<![CDATA[Janos add a quote by William Shakespeare]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/373147-well-roared-lion]]>
+		</link>
+		<description>
+	    <![CDATA["Well roared, lion." -- William Shakespeare]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/352-outside-of-a-dog-a-book-is-man-s-best-friend</guid>
+		<pubDate>Sun, 20 Nov 2011 05:25:54 -0800</pubDate>
+		<title>
+			<![CDATA[Janos add a quote by Groucho Marx]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/352-outside-of-a-dog-a-book-is-man-s-best-friend]]>
+		</link>
+		<description>
+	    <![CDATA["Outside of a dog, a book is man's best friend. Inside of a dog it's too dark to read." -- Groucho Marx]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/493251-maybe-ever-body-in-the-whole-damn-world-is-scared-of</guid>
+		<pubDate>Mon, 06 Feb 2012 09:24:27 -0800</pubDate>
+		<title>
+			<![CDATA[Janos add a quote by John Steinbeck]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/493251-maybe-ever-body-in-the-whole-damn-world-is-scared-of]]>
+		</link>
+		<description>
+	    <![CDATA["Maybe ever’body in the whole damn world is scared of each other." -- John Steinbeck]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

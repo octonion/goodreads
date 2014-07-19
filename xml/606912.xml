@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/606912-gina]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/606912-gina" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 08 May 2008 15:25:15 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/52428-we-get-very-few-of-he-true-images-in-our</guid>
+		<pubDate>Thu, 08 May 2008 15:25:15 -0700</pubDate>
+		<title>
+			<![CDATA[Gina add a quote by Robert Penn Warren]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/52428-we-get-very-few-of-he-true-images-in-our]]>
+		</link>
+		<description>
+	    <![CDATA["We get very few of he true images in our heads of the kind I am talking about, the kind which become more and more vivid for us as if the passage of the years did not obscure their reality but, year by year, drew off another veil to expose a meaning which we had only dimly surmised at first. Very probably the last veil will not be removed, for there are not enough years, but the brightness of the image increases and our conviction increases that the brightness is meaning, or the legend of meaning, and without the image our lives would be nothing except an old piece of film rolled on a spool and thrown into a desk drawer of unanswered letters." -- Robert Penn Warren]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

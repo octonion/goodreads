@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1037819-jon]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1037819-jon" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 10 Feb 2012 21:35:34 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/942-two-things-are-infinite-the-universe-and-human-stupidity-and</guid>
+		<pubDate>Fri, 10 Feb 2012 21:35:34 -0800</pubDate>
+		<title>
+			<![CDATA[Jon add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/942-two-things-are-infinite-the-universe-and-human-stupidity-and]]>
+		</link>
+		<description>
+	    <![CDATA["Two things are infinite: the universe and human stupidity; and I'm not sure about the universe." -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/113042-our-love-of-each-other-was-like-two-long-shadows</guid>
+		<pubDate>Fri, 14 Sep 2012 23:41:18 -0700</pubDate>
+		<title>
+			<![CDATA[Jon add a quote by Anaïs Nin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/113042-our-love-of-each-other-was-like-two-long-shadows]]>
+		</link>
+		<description>
+	    <![CDATA["Our love of each other was like two long shadows kissing without hope of reality." -- Anaïs Nin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/108135-all-great-and-precious-things-are-lonely</guid>
+		<pubDate>Fri, 14 Sep 2012 23:57:56 -0700</pubDate>
+		<title>
+			<![CDATA[Jon add a quote by John Steinbeck]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/108135-all-great-and-precious-things-are-lonely]]>
+		</link>
+		<description>
+	    <![CDATA["All great and precious things are lonely." -- John Steinbeck]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/81291-we-think-too-much-and-feel-too-little</guid>
+		<pubDate>Tue, 27 Nov 2012 17:59:58 -0800</pubDate>
+		<title>
+			<![CDATA[Jon add a quote by Charlie Chaplin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/81291-we-think-too-much-and-feel-too-little]]>
+		</link>
+		<description>
+	    <![CDATA["We think too much and feel too little." -- Charlie Chaplin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

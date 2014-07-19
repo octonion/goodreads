@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/564580-scott]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/564580-scott" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 28 Oct 2013 20:15:24 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/831718-some-say-god-created-the-world-out-of-loneliness-others</guid>
+		<pubDate>Mon, 28 Oct 2013 20:15:24 -0700</pubDate>
+		<title>
+			<![CDATA[scott add a quote by R. Mark Liebenow]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/831718-some-say-god-created-the-world-out-of-loneliness-others]]>
+		</link>
+		<description>
+	    <![CDATA["Some say God created the world out of loneliness. Others say the world was created because the Almighty loves stories. I believe the world was created because God has a sense of humor and a love for adventure. When creation was completed, God saw that it was good, and God laughed! Then God rested. Michael Moynahan says the Almighty had to rest because of laughing so hard over the whole thing." -- R. Mark Liebenow]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

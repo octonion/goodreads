@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/646582-beverly]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/646582-beverly" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 21 Jul 2011 12:41:51 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2032-there-is-nothing-to-writing-all-you-do-is-sit</guid>
+		<pubDate>Thu, 21 Jul 2011 12:41:51 -0700</pubDate>
+		<title>
+			<![CDATA[Beverly add a quote by Ernest Hemingway]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2032-there-is-nothing-to-writing-all-you-do-is-sit]]>
+		</link>
+		<description>
+	    <![CDATA["There is nothing to writing. All you do is sit down at a typewriter and bleed." -- Ernest Hemingway]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/133555-the-longer-i-live-the-more-uninformed-i-feel-only</guid>
+		<pubDate>Wed, 23 Nov 2011 05:31:29 -0800</pubDate>
+		<title>
+			<![CDATA[Beverly add a quote by Isabel Allende]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/133555-the-longer-i-live-the-more-uninformed-i-feel-only]]>
+		</link>
+		<description>
+	    <![CDATA["The longer I live, the more uninformed I feel. Only the young have an explanation for everything." -- Isabel Allende]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/7572-i-have-always-imagined-that-paradise-will-be-a-kind</guid>
+		<pubDate>Tue, 11 Feb 2014 21:20:47 -0800</pubDate>
+		<title>
+			<![CDATA[Beverly add a quote by Jorge Luis Borges]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7572-i-have-always-imagined-that-paradise-will-be-a-kind]]>
+		</link>
+		<description>
+	    <![CDATA["I have always imagined that Paradise will be a kind of library." -- Jorge Luis Borges]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/143189-wade]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/143189-wade" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 31 May 2008 11:28:13 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/59273-i-distrust-those-people-who-know-so-well-what-god</guid>
+		<pubDate>Sat, 31 May 2008 11:28:13 -0700</pubDate>
+		<title>
+			<![CDATA[Wade add a quote by Susan B. Anthony]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/59273-i-distrust-those-people-who-know-so-well-what-god]]>
+		</link>
+		<description>
+	    <![CDATA["I distrust those people who know so well what God wants them to do because I notice it always coincides with their own desires." -- Susan B. Anthony]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

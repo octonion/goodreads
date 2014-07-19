@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/895578-aeron-tomino]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/895578-aeron-tomino" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 25 Feb 2008 10:13:59 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/28163-than-this-where-i-doesn-t-exist-nor-you-so</guid>
+		<pubDate>Mon, 25 Feb 2008 10:13:59 -0800</pubDate>
+		<title>
+			<![CDATA[Aeron add a quote by -Pablo Neruda-]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/28163-than-this-where-i-doesn-t-exist-nor-you-so]]>
+		</link>
+		<description>
+	    <![CDATA["Than This :
+Where i doesn't exist nor you
+So close that ur hand on my chest is my hand,
+So close that ur eyes close as i fall as sleep
+
+(Soneta XVII)" -- -Pablo Neruda-]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/906830-holly]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/906830-holly" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 05 Jan 2014 12:00:30 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/7603-if-i-were-not-a-physicist-i-would-probably-be</guid>
+		<pubDate>Sun, 05 Jan 2014 12:00:30 -0800</pubDate>
+		<title>
+			<![CDATA[Holly add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7603-if-i-were-not-a-physicist-i-would-probably-be]]>
+		</link>
+		<description>
+	    <![CDATA["If I were not a physicist, I would probably be a musician. I often think in music. I live my daydreams in music. I see my life in terms of music." -- Albert Einstein]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

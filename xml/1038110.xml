@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1038110-janet]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1038110-janet" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 13 Aug 2012 03:38:09 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/151317-one-of-the-things-i-know-about-writing-is-this</guid>
+		<pubDate>Mon, 13 Aug 2012 03:38:09 -0700</pubDate>
+		<title>
+			<![CDATA[Janet add a quote by Annie Dillard]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/151317-one-of-the-things-i-know-about-writing-is-this]]>
+		</link>
+		<description>
+	    <![CDATA["One of the things I know about writing is this:  spend it all, shoot it, play it, lose it, all, right away, every time.  Do not hoard what seems good for a later place in the book or for another book; give it, give it all, give it now.  The impulse to save something good for a better place later is the signal to spend it now.  Something more will arise for later, something better. These things fill from behind, from beneath, like well water. Similarly, the impulse to keep to yourself what you have learned is not only shameful, it is destructive. Anything you do not give freely and abundantly becomes lost to you. You open your safe and find ashes." -- Annie Dillard]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/80353-clare]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/80353-clare" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 07 Jul 2013 22:29:07 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/330189-power-tends-to-corrupt-and-absolute-power-corrupts-absolutely-great</guid>
+		<pubDate>Sun, 07 Jul 2013 22:29:07 -0700</pubDate>
+		<title>
+			<![CDATA[Clare add a quote by ohn Emerich Edward Dalberg Acton Lord Acton]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/330189-power-tends-to-corrupt-and-absolute-power-corrupts-absolutely-great]]>
+		</link>
+		<description>
+	    <![CDATA["Power tends to corrupt, and absolute power corrupts absolutely. Great men are almost always bad men." -- ohn Emerich Edward Dalberg Acton Lord Acton]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1036399-jessica-barst]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1036399-jessica-barst" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 21 Nov 2012 21:04:24 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/312095-i-m-so-glad-i-live-in-a-world-where-there</guid>
+		<pubDate>Wed, 21 Nov 2012 21:04:24 -0800</pubDate>
+		<title>
+			<![CDATA[Jessica add a quote by L. M. Montgomery]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/312095-i-m-so-glad-i-live-in-a-world-where-there]]>
+		</link>
+		<description>
+	    <![CDATA["I'm so glad I live in a world where there are Octobers." -- L. M. Montgomery]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/27075-be-thankful-for-what-you-have-you-ll-end-up-having</guid>
+		<pubDate>Wed, 21 Nov 2012 21:04:52 -0800</pubDate>
+		<title>
+			<![CDATA[Jessica add a quote by Oprah Winfrey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/27075-be-thankful-for-what-you-have-you-ll-end-up-having]]>
+		</link>
+		<description>
+	    <![CDATA["Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough" -- Oprah Winfrey]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

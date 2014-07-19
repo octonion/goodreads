@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/825492-adrienne]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/825492-adrienne" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 15 Aug 2013 10:05:01 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/322262-i-was-32-when-i-started-cooking-up-until-then</guid>
+		<pubDate>Thu, 15 Aug 2013 10:05:01 -0700</pubDate>
+		<title>
+			<![CDATA[Adrienne add a quote by Julia Child]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/322262-i-was-32-when-i-started-cooking-up-until-then]]>
+		</link>
+		<description>
+	    <![CDATA["I was 32 when I started cooking; up until then, I just ate." -- Julia Child]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/863382-he-s-not-feeling-well-clary-said-catching-at-simon-s-wrist</guid>
+		<pubDate>Mon, 02 Sep 2013 07:53:45 -0700</pubDate>
+		<title>
+			<![CDATA[Adrienne add a quote by Cassandra Clare]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/863382-he-s-not-feeling-well-clary-said-catching-at-simon-s-wrist]]>
+		</link>
+		<description>
+	    <![CDATA["He’s not feeling well,” Clary said, catching at Simon’s wrist. “We’re going.” 
+“No,” Simon said. “No, I — I need to talk to him. To the Inquisitor.&quot; 
+Robert reached into his jacket and drew out a crucifix. Clary stared in shock as he held it up between himself and Simon. “I speak to the Night’s Children Council representative, or to the head of the New York clan,” he said. “Not to any vampire who comes to knock at my door —“ 
+Simon reached out and plucked the cross out of Robert’s hand. “Wrong religion,” he said." -- Cassandra Clare]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2340-twenty-years-from-now-you-will-be-more-disappointed-by</guid>
+		<pubDate>Fri, 07 Feb 2014 07:07:59 -0800</pubDate>
+		<title>
+			<![CDATA[Adrienne add a quote by H. Jackson Brown Jr.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2340-twenty-years-from-now-you-will-be-more-disappointed-by]]>
+		</link>
+		<description>
+	    <![CDATA["Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover." -- H. Jackson Brown Jr.]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

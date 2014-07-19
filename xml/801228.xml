@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/801228-lynzee]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/801228-lynzee" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 30 Jan 2008 06:22:01 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/19229-if-you-sit-around-and-wait-for-it-to-happen</guid>
+		<pubDate>Wed, 30 Jan 2008 06:22:01 -0800</pubDate>
+		<title>
+			<![CDATA[Lynzee add a quote by Lonnie Scruggs]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/19229-if-you-sit-around-and-wait-for-it-to-happen]]>
+		</link>
+		<description>
+	    <![CDATA["If you sit around and wait for it to happen, its going to happen.. its just going to happen for somebody else" -- Lonnie Scruggs]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

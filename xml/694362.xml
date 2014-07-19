@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/694362-brian-utley]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/694362-brian-utley" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 30 Mar 2012 10:44:19 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/14904-some-say-it-is-best-not-to-go-near-the</guid>
+		<pubDate>Fri, 30 Mar 2012 10:44:19 -0700</pubDate>
+		<title>
+			<![CDATA[Brian add a quote by Alan Lightman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14904-some-say-it-is-best-not-to-go-near-the]]>
+		</link>
+		<description>
+	    <![CDATA["Some say it is best not to go near the center of time.  Life is a vessel of sadness, but is noble to live life and without time there is no life.  Others disagree.  They would rather have an eternity of contentment, even if that eternity were fixed and frozen, like a butterfly mounted in a case." -- Alan Lightman]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

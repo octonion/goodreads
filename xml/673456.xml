@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/673456-jim]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/673456-jim" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 10 Dec 2007 11:39:02 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3418-i-wanted-so-many-times-while-driving-to-flip-to</guid>
+		<pubDate>Mon, 10 Dec 2007 11:39:02 -0800</pubDate>
+		<title>
+			<![CDATA[jim add a quote by Dave Eggers]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3418-i-wanted-so-many-times-while-driving-to-flip-to]]>
+		</link>
+		<description>
+	    <![CDATA["I wanted so many times while driving to flip, to skid and flip and fall from the car and have something happen.  I wanted to land on my head and lose half of it, or land on my legs and lose one or both.  I wanted something to happen so my choices would be fewer, so my map would have a route straight through, in red.  I wanted limitations, boundaries, to ease the burden; because the agony, Jack, when we were up there in the dark, was in the silence!  All I ever wanted was to know what to do.  In these last months I've had no clue, I've been paralyzed by the quiet, and for a moment something spoke to me, and we came here, or came to Africa, and intermittently there were answers, intermittently there was a chorus and they sang to us and pointing, and were watching and approving, but just as often there was silence, and we stood blinking under the sun, or under the black sky, and we had to think of what to do next." -- Dave Eggers]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

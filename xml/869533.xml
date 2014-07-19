@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/869533-roxy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/869533-roxy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 09 Feb 2008 12:09:07 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/9773-a-man-should-begin-with-his-own-times-he-should</guid>
+		<pubDate>Sat, 09 Feb 2008 12:09:07 -0800</pubDate>
+		<title>
+			<![CDATA[Roxy add a quote by Henry Miller]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9773-a-man-should-begin-with-his-own-times-he-should]]>
+		</link>
+		<description>
+	    <![CDATA["A man should begin with his own times. He should become acquainted first of all with the world in which he is living and participating. He should not be afraid of reading too much or too little. He should take his reading as he does his food or his exercise. The good reader will gravitate to the good books. He will discover from his contemporaries what is inspiring or fecundating, or merely enjoyable, in past literature. He should have the pleasure of making these discoveries on his own, in his own way. What has worth, charm, beauty, wisdom, cannot be lost or forgotten. But things can lose all value, all charm and appeal, if one is dragged to them by the scalp." -- Henry Miller]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

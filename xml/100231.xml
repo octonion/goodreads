@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/100231-rob]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/100231-rob" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 12 Dec 2009 06:27:46 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4416-we-are-all-atheists-about-most-of-the-gods-that</guid>
+		<pubDate>Sat, 12 Dec 2009 06:27:46 -0800</pubDate>
+		<title>
+			<![CDATA[Rob add a quote by Richard Dawkins]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4416-we-are-all-atheists-about-most-of-the-gods-that]]>
+		</link>
+		<description>
+	    <![CDATA["We are all atheists about most of the gods that humanity has ever believed in. Some of us just go one god further." -- Richard Dawkins]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/8079-i-never-travel-without-my-diary-one-should-always-have</guid>
+		<pubDate>Sun, 16 Oct 2011 12:05:39 -0700</pubDate>
+		<title>
+			<![CDATA[Rob add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8079-i-never-travel-without-my-diary-one-should-always-have]]>
+		</link>
+		<description>
+	    <![CDATA["I never travel without my diary. One should always have something sensational to read in the train." -- Oscar Wilde]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

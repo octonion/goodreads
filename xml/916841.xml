@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/916841-sl]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/916841-sl" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 23 Apr 2008 20:07:31 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/47762-if-it-works-it-s-out-of-date</guid>
+		<pubDate>Wed, 23 Apr 2008 20:07:31 -0700</pubDate>
+		<title>
+			<![CDATA[SL add a quote by David Bowie]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/47762-if-it-works-it-s-out-of-date]]>
+		</link>
+		<description>
+	    <![CDATA["If it works, it's out of date." -- David Bowie]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/569127-when-the-men-were-all-back-in-their-places-in</guid>
+		<pubDate>Sat, 22 Dec 2012 09:32:43 -0800</pubDate>
+		<title>
+			<![CDATA[SL add a quote by Ulysses S. Grant]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/569127-when-the-men-were-all-back-in-their-places-in]]>
+		</link>
+		<description>
+	    <![CDATA["When the men were all back in their places in line, the command to advance was given. As I looked down that long line of about three thousand armed men, advancing towards a larger force also armed, I thought what a fearful responsibility General Taylor must feel, commanding such a host and so far away from friends. The Mexicans immediately opened fire upon us, first with artillery and then with infantry. At first their shots did not reach us, and the advance was continued. As we got nearer, the cannon balls commenced going through the ranks. They hurt no one, however, during this advance, because they would strike the ground long before they reached our line, and ricochetted through the tall grass so slowly that the men would see them and open ranks and let them pass." -- Ulysses S. Grant]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

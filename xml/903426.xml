@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/903426-casey]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/903426-casey" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 05 Jan 2009 10:50:49 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/8630-i-m-selfish-impatient-and-a-little-insecure-i-make-mistakes</guid>
+		<pubDate>Mon, 05 Jan 2009 10:50:49 -0800</pubDate>
+		<title>
+			<![CDATA[Casey add a quote by Marilyn Monroe]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8630-i-m-selfish-impatient-and-a-little-insecure-i-make-mistakes]]>
+		</link>
+		<description>
+	    <![CDATA["I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best." -- Marilyn Monroe]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1198-i-am-so-clever-that-sometimes-i-don-t-understand-a</guid>
+		<pubDate>Mon, 05 Jan 2009 10:51:05 -0800</pubDate>
+		<title>
+			<![CDATA[Casey add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1198-i-am-so-clever-that-sometimes-i-don-t-understand-a]]>
+		</link>
+		<description>
+	    <![CDATA["I am so clever that sometimes I don't understand a single word of what I am saying." -- Oscar Wilde]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

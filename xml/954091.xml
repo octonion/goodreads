@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/954091-rujuta-paradkar]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/954091-rujuta-paradkar" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 03 Mar 2008 05:44:41 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5814-i-do-not-seek-i-find</guid>
+		<pubDate>Mon, 03 Mar 2008 05:44:41 -0800</pubDate>
+		<title>
+			<![CDATA[Rujuta add a quote by Pablo Picasso]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5814-i-do-not-seek-i-find]]>
+		</link>
+		<description>
+	    <![CDATA["I do not seek. I find." -- Pablo Picasso]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/30465-beneath-every-no-lays-a-passion-for-yes-that-had</guid>
+		<pubDate>Mon, 03 Mar 2008 05:46:01 -0800</pubDate>
+		<title>
+			<![CDATA[Rujuta add a quote by Wallace Stevens]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/30465-beneath-every-no-lays-a-passion-for-yes-that-had]]>
+		</link>
+		<description>
+	    <![CDATA["Beneath every no lays a passion for yes that had never been broken." -- Wallace Stevens]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/30-that-which-does-not-kill-us-makes-us-stronger</guid>
+		<pubDate>Mon, 03 Mar 2008 05:50:05 -0800</pubDate>
+		<title>
+			<![CDATA[Rujuta add a quote by Friedrich Nietzsche]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/30-that-which-does-not-kill-us-makes-us-stronger]]>
+		</link>
+		<description>
+	    <![CDATA["That which does not kill us makes us stronger." -- Friedrich Nietzsche]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2207-a-poem-begins-as-a-lump-in-the-throat-a</guid>
+		<pubDate>Mon, 03 Mar 2008 05:51:35 -0800</pubDate>
+		<title>
+			<![CDATA[Rujuta add a quote by Robert Frost]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2207-a-poem-begins-as-a-lump-in-the-throat-a]]>
+		</link>
+		<description>
+	    <![CDATA["A poem begins as a lump in the throat, a sense of wrong, a homesickness, a lovesickness." -- Robert Frost]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

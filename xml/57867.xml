@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/57867-joanne]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/57867-joanne" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 03 Feb 2011 12:02:21 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/919-the-man-who-does-not-read-has-no-advantage-over</guid>
+		<pubDate>Thu, 03 Feb 2011 12:02:21 -0800</pubDate>
+		<title>
+			<![CDATA[Joanne add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/919-the-man-who-does-not-read-has-no-advantage-over]]>
+		</link>
+		<description>
+	    <![CDATA["The man who does not read has no advantage over the man who cannot read." -- Mark Twain]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/308900-leo-so-giants-who-can-throw-mountains-friendly-wolves-that-will</guid>
+		<pubDate>Thu, 21 Apr 2011 15:13:17 -0700</pubDate>
+		<title>
+			<![CDATA[Joanne add a quote by Rick Riordan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/308900-leo-so-giants-who-can-throw-mountains-friendly-wolves-that-will]]>
+		</link>
+		<description>
+	    <![CDATA["Leo: &quot;So...giants who can throw mountains. Friendly wolves that will eat us if we show weakness. Evil espresso drinks. Gotcha. Maybe this isn't the best time to bring up my psycho babysitter.&quot;
+Piper: &quot;Is that another joke?" -- Rick Riordan]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

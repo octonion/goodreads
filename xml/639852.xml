@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/639852-rose]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/639852-rose" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 25 Nov 2007 20:22:57 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1226-your-opponent-in-the-end-is-never-really-the-player</guid>
+		<pubDate>Sun, 25 Nov 2007 20:22:57 -0800</pubDate>
+		<title>
+			<![CDATA[Rose add a quote by Grace Lichtenstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1226-your-opponent-in-the-end-is-never-really-the-player]]>
+		</link>
+		<description>
+	    <![CDATA["Your opponent, in the end, is never really the player on the other side of the net, or the swimmer in the next lane, or the team on the other side of the field, or even the bar you must high-jump.  
+Your opponent is yourself, your negative internal voices, your level of determination." -- Grace Lichtenstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1227-of-all-forms-of-caution-caution-in-love-is-perhaps</guid>
+		<pubDate>Sun, 25 Nov 2007 20:25:56 -0800</pubDate>
+		<title>
+			<![CDATA[Rose add a quote by Bertrand Russell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1227-of-all-forms-of-caution-caution-in-love-is-perhaps]]>
+		</link>
+		<description>
+	    <![CDATA["Of all forms of caution, caution in love is perhaps the most fatal to true happiness." -- Bertrand Russell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

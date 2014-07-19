@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/239249-lica]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/239249-lica" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 11 Oct 2008 22:44:52 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3893-and-forget-not-that-the-earth-delights-to-feel-your</guid>
+		<pubDate>Sat, 11 Oct 2008 22:44:52 -0700</pubDate>
+		<title>
+			<![CDATA[Lica add a quote by Khalil Gibran]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3893-and-forget-not-that-the-earth-delights-to-feel-your]]>
+		</link>
+		<description>
+	    <![CDATA["And forget not that the earth delights to feel your bare feet and the winds long to play with your hair" -- Khalil Gibran]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/18125-adversity-is-like-a-strong-wind-i-don-t-mean-just</guid>
+		<pubDate>Sat, 11 Oct 2008 22:45:46 -0700</pubDate>
+		<title>
+			<![CDATA[Lica add a quote by Arthur Golden]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18125-adversity-is-like-a-strong-wind-i-don-t-mean-just]]>
+		</link>
+		<description>
+	    <![CDATA["Adversity is like a strong wind.  I don't mean just that it holds us back from places we might otherwise go.  It also tears away from us all but the things that cannot be torn, so that afterward we see ourselves as we really are, and not merely as we might like to be." -- Arthur Golden]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

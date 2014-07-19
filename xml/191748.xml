@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/191748-denta]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/191748-denta" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 26 Apr 2009 09:21:33 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/157558-every-new-beginning-comes-from-some-other-beginning-s-end</guid>
+		<pubDate>Sun, 26 Apr 2009 09:21:33 -0700</pubDate>
+		<title>
+			<![CDATA[Denta add a quote by Semisonic]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/157558-every-new-beginning-comes-from-some-other-beginning-s-end]]>
+		</link>
+		<description>
+	    <![CDATA["Every new beginning comes from some other beginning's end." -- Semisonic]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/79357-seorang-terpelajar-harus-sudah-berbuat-adil-sejak-dalam-pikiran-apalagi</guid>
+		<pubDate>Tue, 04 Aug 2009 16:09:02 -0700</pubDate>
+		<title>
+			<![CDATA[Denta add a quote by Pramoedya Ananta Toer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/79357-seorang-terpelajar-harus-sudah-berbuat-adil-sejak-dalam-pikiran-apalagi]]>
+		</link>
+		<description>
+	    <![CDATA["seorang terpelajar harus sudah berbuat adil sejak dalam pikiran apalagi dalam perbuatan" -- Pramoedya Ananta Toer]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/233-i-don-t-know-half-of-you-half-as-well-as</guid>
+		<pubDate>Wed, 19 Aug 2009 16:06:31 -0700</pubDate>
+		<title>
+			<![CDATA[Denta add a quote by J.R.R. Tolkien]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/233-i-don-t-know-half-of-you-half-as-well-as]]>
+		</link>
+		<description>
+	    <![CDATA["I don't know half of you half as well as I should like; and I like less than half of you half as well as you deserve." -- J.R.R. Tolkien]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

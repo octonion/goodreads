@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/244982-don]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/244982-don" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 30 Oct 2013 19:52:18 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/117587-if-we-long-for-our-planet-to-be-important-there</guid>
+		<pubDate>Wed, 30 Oct 2013 19:52:18 -0700</pubDate>
+		<title>
+			<![CDATA[Don add a quote by Carl Sagan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/117587-if-we-long-for-our-planet-to-be-important-there]]>
+		</link>
+		<description>
+	    <![CDATA["If we long for our planet to be important, there is something we can do about it. We make our world significant by the courage of our questions and by the depth of our answers." -- Carl Sagan]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

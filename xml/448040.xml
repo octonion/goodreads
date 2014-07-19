@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/448040-wulan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/448040-wulan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 17 Apr 2010 19:37:46 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2875-walk-on-with-hope-in-your-heart-and-you-ll-never</guid>
+		<pubDate>Sat, 17 Apr 2010 19:37:46 -0700</pubDate>
+		<title>
+			<![CDATA[Wulan add a quote by Shah Rukh Khan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2875-walk-on-with-hope-in-your-heart-and-you-ll-never]]>
+		</link>
+		<description>
+	    <![CDATA["Walk on with hope in your heart, 
+and you'll never walk alone" -- Shah Rukh Khan]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5920-hope-is-the-thing-with-feathers-that-perches-in-the</guid>
+		<pubDate>Sat, 17 Apr 2010 19:39:14 -0700</pubDate>
+		<title>
+			<![CDATA[Wulan add a quote by Emily Dickinson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5920-hope-is-the-thing-with-feathers-that-perches-in-the]]>
+		</link>
+		<description>
+	    <![CDATA["Hope is the thing with feathers 
+That perches in the soul 
+And sings the tune without the words 
+And never stops at all." -- Emily Dickinson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

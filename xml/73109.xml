@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/73109-robert]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/73109-robert" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 May 2012 09:57:42 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/40086-e-l-doctorow-said-once-said-that-writing-a-novel-is</guid>
+		<pubDate>Tue, 01 May 2012 09:57:42 -0700</pubDate>
+		<title>
+			<![CDATA[Robert add a quote by Anne Lamott]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/40086-e-l-doctorow-said-once-said-that-writing-a-novel-is]]>
+		</link>
+		<description>
+	    <![CDATA["E.L. Doctorow said once said that 'Writing a novel is like driving a car at night. You can see only as far as your headlights, but you can make the whole trip that way.' You don't have to see where you're going, you don't have to see your destination or everything you will pass along the way. You just have to see two or three feet ahead of you. This is right up there with the best advice on writing, or life, I have ever heard." -- Anne Lamott]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

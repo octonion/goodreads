@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/176129-jessica]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/176129-jessica" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 01 Oct 2012 06:38:44 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/107268-listen-the-wind-is-rising-and-the-air-is-wild</guid>
+		<pubDate>Mon, 01 Oct 2012 06:38:44 -0700</pubDate>
+		<title>
+			<![CDATA[Jessica add a quote by Humbert Wolfe]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/107268-listen-the-wind-is-rising-and-the-air-is-wild]]>
+		</link>
+		<description>
+	    <![CDATA["Listen! The wind is rising, and the air is wild with leaves,
+We have had our summer evenings, now for October eves!" -- Humbert Wolfe]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

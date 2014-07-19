@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/350874-coffcat]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/350874-coffcat" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 28 Aug 2009 11:11:12 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/189022-never-feed-your-cat-anything-that-clashes-with-the-carpet</guid>
+		<pubDate>Fri, 28 Aug 2009 11:11:12 -0700</pubDate>
+		<title>
+			<![CDATA[Coffcat add a quote by a cat lover]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/189022-never-feed-your-cat-anything-that-clashes-with-the-carpet]]>
+		</link>
+		<description>
+	    <![CDATA["Never feed your cat anything that clashes with the carpet. " -- a cat lover]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/189025-i-like-to-think-of-my-behavior-in-the-sixties</guid>
+		<pubDate>Fri, 28 Aug 2009 11:14:25 -0700</pubDate>
+		<title>
+			<![CDATA[Coffcat add a quote by P.J. O’Rourke]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/189025-i-like-to-think-of-my-behavior-in-the-sixties]]>
+		</link>
+		<description>
+	    <![CDATA["I like to think of my behavior in the sixties as a 'learning experience.' Then again, I like to think of anything stupid I’ve done as a 'learning experience.' It makes me feel less stupid." -- P.J. O’Rourke]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/190606-think-twice-before-you-speak-and-then-you-may-be</guid>
+		<pubDate>Thu, 03 Sep 2009 15:02:08 -0700</pubDate>
+		<title>
+			<![CDATA[Coffcat add a quote by Evan Esar]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/190606-think-twice-before-you-speak-and-then-you-may-be]]>
+		</link>
+		<description>
+	    <![CDATA["Think twice before you speak, and then you may be able to say something more insulting than if you spoke right out at once." -- Evan Esar]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

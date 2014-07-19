@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1042141-megan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1042141-megan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 12 Jul 2013 11:10:17 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/411386-i-m-bored-is-a-useless-thing-to-say-i-mean</guid>
+		<pubDate>Fri, 12 Jul 2013 11:10:17 -0700</pubDate>
+		<title>
+			<![CDATA[Megan add a quote by Louis C.K.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/411386-i-m-bored-is-a-useless-thing-to-say-i-mean]]>
+		</link>
+		<description>
+	    <![CDATA["I’m bored’ is a useless thing to say. I mean, you live in a great, big, vast world that you’ve seen none percent of. Even the inside of your own mind is endless; it goes on forever, inwardly, do you understand? The fact that you’re alive is amazing, so you don’t get to say ‘I’m bored." -- Louis C.K.]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/423699-liz]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/423699-liz" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 17 Jan 2011 12:11:30 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/17266-never-never-be-afraid-to-do-what-s-right-especially-if</guid>
+		<pubDate>Mon, 17 Jan 2011 12:11:30 -0800</pubDate>
+		<title>
+			<![CDATA[Liz add a quote by Martin Luther King Jr.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17266-never-never-be-afraid-to-do-what-s-right-especially-if]]>
+		</link>
+		<description>
+	    <![CDATA["Never, never be afraid to do what's right, especially if the well-being of a person or animal is at stake. Society's punishments are small compared to the wounds we inflict on our soul when we look the other way." -- Martin Luther King Jr.]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

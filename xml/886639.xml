@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/886639-elisabeth]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/886639-elisabeth" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 11 Nov 2012 16:35:25 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/32964-there-is-one-friend-in-the-life-of-each-of</guid>
+		<pubDate>Sun, 11 Nov 2012 16:35:25 -0800</pubDate>
+		<title>
+			<![CDATA[Elisabeth add a quote by Edith Wharton]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/32964-there-is-one-friend-in-the-life-of-each-of]]>
+		</link>
+		<description>
+	    <![CDATA["There is one friend in the life of each of us who seems not a separate person, however dear and beloved, but an expansion, an interpretation, of one's self, the very meaning of one's soul." -- Edith Wharton]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/149606-the-shelf-was-filled-with-books-that-were-hard-to</guid>
+		<pubDate>Sat, 24 Nov 2012 15:41:36 -0800</pubDate>
+		<title>
+			<![CDATA[Elisabeth add a quote by Mark Helprin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/149606-the-shelf-was-filled-with-books-that-were-hard-to]]>
+		</link>
+		<description>
+	    <![CDATA["The shelf was filled with books that were hard to read, that could devastate and remake one's soul, and that, when they were finished, had a kick like a mule." -- Mark Helprin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

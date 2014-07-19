@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1090242-michelle-green]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1090242-michelle-green" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 16 Apr 2008 18:23:51 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/39080-nothing-ever-goes-wrong-tidak-ada-satu-pun-yang-berjalan</guid>
+		<pubDate>Wed, 16 Apr 2008 18:23:51 -0700</pubDate>
+		<title>
+			<![CDATA[Michelle add a quote by Nisargadatta Maharaj]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/39080-nothing-ever-goes-wrong-tidak-ada-satu-pun-yang-berjalan]]>
+		</link>
+		<description>
+	    <![CDATA["Nothing ever goes wrong.&quot;
+(Tidak ada satu pun yang berjalan keliru)" -- Nisargadatta Maharaj]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/26431-you-cannot-be-lonely-if-you-like-the-person-you-re</guid>
+		<pubDate>Wed, 16 Apr 2008 18:24:08 -0700</pubDate>
+		<title>
+			<![CDATA[Michelle add a quote by Wayne W. Dyer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/26431-you-cannot-be-lonely-if-you-like-the-person-you-re]]>
+		</link>
+		<description>
+	    <![CDATA["You cannot be lonely if you like the person you're alone with." -- Wayne W. Dyer]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/28743-don-t-try-to-steer-the-river</guid>
+		<pubDate>Wed, 16 Apr 2008 18:25:42 -0700</pubDate>
+		<title>
+			<![CDATA[Michelle add a quote by Deepak Chopra]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/28743-don-t-try-to-steer-the-river]]>
+		</link>
+		<description>
+	    <![CDATA["Don't try to steer the river." -- Deepak Chopra]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

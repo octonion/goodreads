@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1025651-stan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1025651-stan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 11 Apr 2008 19:14:20 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/43856-one-man-s-tears---he-was-a-fascist-before-it</guid>
+		<pubDate>Fri, 11 Apr 2008 19:14:20 -0700</pubDate>
+		<title>
+			<![CDATA[Stan add a quote by John Wesley Harding, &quot;Hitler's Tears&quot;]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/43856-one-man-s-tears---he-was-a-fascist-before-it]]>
+		</link>
+		<description>
+	    <![CDATA["One man's tears -
+He was a fascist before it was cool.
+'cos now it's so expected
+Just accept it that power is cruel." -- John Wesley Harding, &quot;Hitler's Tears&quot;]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

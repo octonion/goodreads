@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1056168-harry]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1056168-harry" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 04 Apr 2008 13:53:50 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/13796-if-you-cannot-read-all-your-books-fondle-them---peer-into-them</guid>
+		<pubDate>Fri, 04 Apr 2008 13:53:50 -0700</pubDate>
+		<title>
+			<![CDATA[Harry add a quote by Winston S. Churchill]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13796-if-you-cannot-read-all-your-books-fondle-them---peer-into-them]]>
+		</link>
+		<description>
+	    <![CDATA["If you cannot read all your books...fondle them---peer into them, let them fall open where they will, read from the first sentence that arrests the eye, set them back on the shelves with your own hands, arrange them on your own plan so that you at least know where they are. Let them be your friends; let them, at any rate, be your acquaintances." -- Winston S. Churchill]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

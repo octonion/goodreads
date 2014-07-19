@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/783319-tracy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/783319-tracy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 09 Jan 2014 17:41:54 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/364377-authenticity-is-a-collection-of-choices-that-we-have-to</guid>
+		<pubDate>Thu, 09 Jan 2014 17:41:54 -0800</pubDate>
+		<title>
+			<![CDATA[Tracy add a quote by Brene Brown]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/364377-authenticity-is-a-collection-of-choices-that-we-have-to]]>
+		</link>
+		<description>
+	    <![CDATA["Authenticity is a collection of choices that we have to make every day. It's about the choice to show up and be real. The choice to be honest. The choice to let our true selves be seen." -- Brene Brown]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

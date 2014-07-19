@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/103996-elizabeth-brookbank]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/103996-elizabeth-brookbank" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 03 Jun 2012 15:24:56 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/72014-i-have-dreamt-in-my-life-dreams-that-have-stayed</guid>
+		<pubDate>Sun, 03 Jun 2012 15:24:56 -0700</pubDate>
+		<title>
+			<![CDATA[Elizabeth add a quote by Emily Brontë]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/72014-i-have-dreamt-in-my-life-dreams-that-have-stayed]]>
+		</link>
+		<description>
+	    <![CDATA["I have dreamt in my life, dreams that have stayed with me ever after, and changed my ideas; they have gone through and through me, like wine through water, and altered the color of my mind. And this is one: I'm going to tell it - but take care not to smile at any part of it." -- Emily Brontë]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/94515-there-are-as-many-forms-of-love-as-there-are</guid>
+		<pubDate>Sun, 03 Jun 2012 15:26:33 -0700</pubDate>
+		<title>
+			<![CDATA[Elizabeth add a quote by Jane Austen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/94515-there-are-as-many-forms-of-love-as-there-are]]>
+		</link>
+		<description>
+	    <![CDATA["There are as many forms of love as there are moments in time." -- Jane Austen]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/17062-i-do-not-want-people-to-be-very-agreeable-as</guid>
+		<pubDate>Sun, 03 Jun 2012 15:27:56 -0700</pubDate>
+		<title>
+			<![CDATA[Elizabeth add a quote by Jane Austen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17062-i-do-not-want-people-to-be-very-agreeable-as]]>
+		</link>
+		<description>
+	    <![CDATA["I do not want people to be very agreeable, as it saves me the trouble of liking them a great deal." -- Jane Austen]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

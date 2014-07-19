@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/897078-erin-benard]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/897078-erin-benard" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 22 Mar 2009 11:49:22 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/865-be-who-you-are-and-say-what-you-feel-because</guid>
+		<pubDate>Sun, 22 Mar 2009 11:49:22 -0700</pubDate>
+		<title>
+			<![CDATA[Erin add a quote by Bernard M. Baruch]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/865-be-who-you-are-and-say-what-you-feel-because]]>
+		</link>
+		<description>
+	    <![CDATA["Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind." -- Bernard M. Baruch]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2253-live-as-if-you-were-to-die-tomorrow-learn-as</guid>
+		<pubDate>Sun, 22 Mar 2009 11:49:59 -0700</pubDate>
+		<title>
+			<![CDATA[Erin add a quote by Mahatma Gandhi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2253-live-as-if-you-were-to-die-tomorrow-learn-as]]>
+		</link>
+		<description>
+	    <![CDATA["Live as if you were to die tomorrow. Learn as if you were to live forever." -- Mahatma Gandhi]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/298-a-day-without-sunshine-is-like-you-know-night</guid>
+		<pubDate>Sun, 22 Mar 2009 11:51:22 -0700</pubDate>
+		<title>
+			<![CDATA[Erin add a quote by Steve Martin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/298-a-day-without-sunshine-is-like-you-know-night]]>
+		</link>
+		<description>
+	    <![CDATA["A day without sunshine is like, you know, night." -- Steve Martin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

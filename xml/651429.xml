@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/651429-peder]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/651429-peder" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 28 Nov 2008 09:18:55 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/49261-at-the-end-of-the-game-the-team-with-the</guid>
+		<pubDate>Fri, 28 Nov 2008 09:18:55 -0800</pubDate>
+		<title>
+			<![CDATA[Peder add a quote by john madden]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/49261-at-the-end-of-the-game-the-team-with-the]]>
+		</link>
+		<description>
+	    <![CDATA["at the end of the game the team with the most points on the board is going to win." -- john madden]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/17521-it-s-so-hard-to-forget-pain-but-it-s-even-harder</guid>
+		<pubDate>Mon, 05 Nov 2012 11:32:50 -0800</pubDate>
+		<title>
+			<![CDATA[Peder add a quote by Chuck Palahniuk]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17521-it-s-so-hard-to-forget-pain-but-it-s-even-harder]]>
+		</link>
+		<description>
+	    <![CDATA["It's so hard to forget pain, but it's even harder to remember sweetness.  We have no scar to show for happiness. We learn so little from peace." -- Chuck Palahniuk]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

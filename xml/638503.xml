@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/638503-curious-squid]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/638503-curious-squid" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 28 Apr 2012 15:24:11 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3063-a-half-read-book-is-a-half-finished-love-affair</guid>
+		<pubDate>Sat, 28 Apr 2012 15:24:11 -0700</pubDate>
+		<title>
+			<![CDATA[Curious Squid add a quote by David Mitchell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3063-a-half-read-book-is-a-half-finished-love-affair]]>
+		</link>
+		<description>
+	    <![CDATA["A half-read book is a half-finished love affair." -- David Mitchell]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/122404-all-that-we-don-t-know-is-astonishing-even-more-astonishing</guid>
+		<pubDate>Fri, 27 Jun 2014 05:57:57 -0700</pubDate>
+		<title>
+			<![CDATA[Curious Squid add a quote by Philip Roth]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/122404-all-that-we-don-t-know-is-astonishing-even-more-astonishing]]>
+		</link>
+		<description>
+	    <![CDATA["All that we don’t know is astonishing. Even more astonishing is what passes for knowing." -- Philip Roth]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

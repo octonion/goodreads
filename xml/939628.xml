@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/939628-rachel-belloma]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/939628-rachel-belloma" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 25 Feb 2008 17:40:57 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/28294-like-our-bodies-and-our-desires-the-machines-we-have</guid>
+		<pubDate>Mon, 25 Feb 2008 17:40:57 -0800</pubDate>
+		<title>
+			<![CDATA[Rachel add a quote by W.G. Sebald]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/28294-like-our-bodies-and-our-desires-the-machines-we-have]]>
+		</link>
+		<description>
+	    <![CDATA["Like our bodies and our desires, the machines we have devised are possessed of a heart which is slowly reduced to embers. From the earliest times, human civilization has been no more than a strange luminescence growing more intense by the hour, of which no one can say when it will begin to wane and when it will fade away." -- W.G. Sebald]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

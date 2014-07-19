@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/755557-shauna]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/755557-shauna" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 08 Feb 2008 08:59:43 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/188-do-what-you-can-with-what-you-have-where-you</guid>
+		<pubDate>Fri, 08 Feb 2008 08:59:43 -0800</pubDate>
+		<title>
+			<![CDATA[Shauna add a quote by Theodore Roosevelt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/188-do-what-you-can-with-what-you-have-where-you]]>
+		</link>
+		<description>
+	    <![CDATA["Do what you can, with what you have, where you are." -- Theodore Roosevelt]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5797-the-person-be-it-gentleman-or-lady-who-has-not</guid>
+		<pubDate>Fri, 08 Feb 2008 09:01:00 -0800</pubDate>
+		<title>
+			<![CDATA[Shauna add a quote by Jane Austen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5797-the-person-be-it-gentleman-or-lady-who-has-not]]>
+		</link>
+		<description>
+	    <![CDATA["The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid." -- Jane Austen]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/349811-but-kids-don-t-stay-with-you-if-you-do-it</guid>
+		<pubDate>Fri, 10 May 2013 08:16:52 -0700</pubDate>
+		<title>
+			<![CDATA[Shauna add a quote by Barbara Kingsolver]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/349811-but-kids-don-t-stay-with-you-if-you-do-it]]>
+		</link>
+		<description>
+	    <![CDATA["But kids don't stay with you if you do it right. It's the one job where, the better you are, the more surely you won't be needed in the long run." -- Barbara Kingsolver]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

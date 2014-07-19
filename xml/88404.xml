@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/88404-linda-ragusano]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/88404-linda-ragusano" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 09 Oct 2011 13:34:16 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/334354-a-melancholy-air-can-never-be-the-right-thing-what</guid>
+		<pubDate>Sun, 09 Oct 2011 13:34:16 -0700</pubDate>
+		<title>
+			<![CDATA[Linda add a quote by Stendhal]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/334354-a-melancholy-air-can-never-be-the-right-thing-what]]>
+		</link>
+		<description>
+	    <![CDATA["A melancholy air can never be the right thing; what you want is a bored air. If you are melancholy, it must be because you want something, there is something in which you have not succeeded.
+&lt;i&gt;It is shewing your inferiority.&lt;/i&gt; If you are bored, on the other hand, it is the person who has tried in vain to please you who is inferior." -- Stendhal]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

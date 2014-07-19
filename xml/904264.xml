@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/904264-nico-macdonald]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/904264-nico-macdonald" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 28 May 2014 15:22:43 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/26162-how-do-i-know-what-i-think-until-i-see</guid>
+		<pubDate>Wed, 28 May 2014 15:22:43 -0700</pubDate>
+		<title>
+			<![CDATA[Nico add a quote by E.M. Forster]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/26162-how-do-i-know-what-i-think-until-i-see]]>
+		</link>
+		<description>
+	    <![CDATA["How do I know what I think until I see what I say?" -- E.M. Forster]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

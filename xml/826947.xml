@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/826947-gerry]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/826947-gerry" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 26 Jan 2008 05:44:01 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/17575-a-gentleman-accepts-the-responsibility-of-his-actions-and-bears</guid>
+		<pubDate>Sat, 26 Jan 2008 05:44:01 -0800</pubDate>
+		<title>
+			<![CDATA[Gerry add a quote by William Faulkner]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17575-a-gentleman-accepts-the-responsibility-of-his-actions-and-bears]]>
+		</link>
+		<description>
+	    <![CDATA["A gentleman accepts the responsibility of his actions and bears the burden of their consequences." -- William Faulkner]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/22315-fell-in-love-with-a-beautiful-blonde-once-drove-me</guid>
+		<pubDate>Sat, 26 Jan 2008 15:42:22 -0800</pubDate>
+		<title>
+			<![CDATA[Gerry add a quote by W.C. Fields]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22315-fell-in-love-with-a-beautiful-blonde-once-drove-me]]>
+		</link>
+		<description>
+	    <![CDATA["Fell in love with a beautiful blonde once. Drove me to drink. And I never had the decency to thank her." -- W.C. Fields]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

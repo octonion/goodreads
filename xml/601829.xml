@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/601829-shawn-raiford]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/601829-shawn-raiford" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 05 Sep 2013 06:17:36 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/371196-like-people-would-ever-want-to-read-books-on-an</guid>
+		<pubDate>Thu, 05 Sep 2013 06:17:36 -0700</pubDate>
+		<title>
+			<![CDATA[Shawn add a quote by Blake Crouch]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/371196-like-people-would-ever-want-to-read-books-on-an]]>
+		</link>
+		<description>
+	    <![CDATA["Like people would ever want to read books on an electronic screen." -- Blake Crouch]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1195033-the-surest-defense-against-evil-is-extreme-individualism-originality-of</guid>
+		<pubDate>Sat, 24 May 2014 14:48:57 -0700</pubDate>
+		<title>
+			<![CDATA[Shawn add a quote by Joseph Brodsky]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1195033-the-surest-defense-against-evil-is-extreme-individualism-originality-of]]>
+		</link>
+		<description>
+	    <![CDATA["The surest defense against Evil is extreme individualism, originality of thinking, whimsicality, even—if you will—eccentricity." -- Joseph Brodsky]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/780610-charlie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/780610-charlie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 24 Apr 2014 06:48:05 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/9972-you-are-not-entitled-to-your-opinion-you-are-entitled</guid>
+		<pubDate>Thu, 24 Apr 2014 06:48:05 -0700</pubDate>
+		<title>
+			<![CDATA[Charlie add a quote by Harlan Ellison]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9972-you-are-not-entitled-to-your-opinion-you-are-entitled]]>
+		</link>
+		<description>
+	    <![CDATA["You are not entitled to your opinion. You are entitled to your &lt;i&gt;informed&lt;/i&gt; opinion. No one is entitled to be ignorant." -- Harlan Ellison]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/20725-the-two-most-common-elements-in-the-universe-are-hydrogen</guid>
+		<pubDate>Thu, 24 Apr 2014 06:49:38 -0700</pubDate>
+		<title>
+			<![CDATA[Charlie add a quote by Harlan Ellison]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20725-the-two-most-common-elements-in-the-universe-are-hydrogen]]>
+		</link>
+		<description>
+	    <![CDATA["The two most common elements in the universe are Hydrogen and stupidity." -- Harlan Ellison]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/194432-david]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/194432-david" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 31 Oct 2008 13:32:44 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/13201-all-of-old-nothing-else-ever-ever-tried-ever-failed</guid>
+		<pubDate>Fri, 31 Oct 2008 13:32:44 -0700</pubDate>
+		<title>
+			<![CDATA[David add a quote by Samuel Beckett]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13201-all-of-old-nothing-else-ever-ever-tried-ever-failed]]>
+		</link>
+		<description>
+	    <![CDATA["All of old. Nothing else ever.  Ever tried.  Ever failed.  No matter.  Try again.  Fail again.  Fail better." -- Samuel Beckett]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1342-goodbye-said-the-fox-and-now-here-is-my-secret</guid>
+		<pubDate>Fri, 31 Oct 2008 13:33:51 -0700</pubDate>
+		<title>
+			<![CDATA[David add a quote by Antoine de Saint-Exupéry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1342-goodbye-said-the-fox-and-now-here-is-my-secret]]>
+		</link>
+		<description>
+	    <![CDATA["Goodbye,&quot; said the fox. &quot;And now here is my secret, a very simple secret: It is only with the heart that one can see rightly; what is essential is invisible to the eye." -- Antoine de Saint-Exupéry]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/110610-the-most-exquisite-pleasure-is-giving-pleasure-to-others</guid>
+		<pubDate>Fri, 31 Oct 2008 13:34:31 -0700</pubDate>
+		<title>
+			<![CDATA[David add a quote by La Bruyere]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/110610-the-most-exquisite-pleasure-is-giving-pleasure-to-others]]>
+		</link>
+		<description>
+	    <![CDATA["The most exquisite pleasure is giving pleasure to others." -- La Bruyere]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

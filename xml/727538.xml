@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/727538-christy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/727538-christy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 20 Mar 2014 15:34:46 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/65833-we-all-need-someone-to-look-at-us-we-can</guid>
+		<pubDate>Thu, 20 Mar 2014 15:34:46 -0700</pubDate>
+		<title>
+			<![CDATA[Christy add a quote by Milan Kundera]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/65833-we-all-need-someone-to-look-at-us-we-can]]>
+		</link>
+		<description>
+	    <![CDATA["We all need someone to look at us. we can be divided into four categories according to the kind of look we wish to live under. the first category longs for the look of an infinite number of anonymous eyes, in other words, for the look of the public. the second category is made up of people who have a vital need to be looked at by many known eyes. they are the tireless hosts of cocktail parties and dinners. they are happier than the people in the first category, who, when they lose their public, have the feeling that the lights have gone out in the room of their lives. this happens to nearly all of them sooner or later. people in the second category, on the other hand, can always come up with the eyes they need. then there is the third category, the category of people who need to be constantly before the eyes of the person they love. their situation is as dangerous as the situation of people in the first category. one day the eyes of their beloved will close, and the room will go dark. and finally there is the fourth category, the rarest, the category of people who live in the imaginary eyes of those who are not present. they are the dreamers." -- Milan Kundera]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

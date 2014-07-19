@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/814140-jana]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/814140-jana" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 22 Jan 2011 08:35:46 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/16894-abby-began-to-think-that-all-the-beauty-and-ugliness</guid>
+		<pubDate>Sat, 22 Jan 2011 08:35:46 -0800</pubDate>
+		<title>
+			<![CDATA[Jana add a quote by Lorrie Moore]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16894-abby-began-to-think-that-all-the-beauty-and-ugliness]]>
+		</link>
+		<description>
+	    <![CDATA["Abby began to think that all the beauty and ugliness and turbulence one found scattered through nature, one could also find in people themselves, all collected there, all together in a single place. No matter what terror or loveliness the earth could produce- wind, seas- a person could produce the same, lived with the same, lived with all that mixed-up nature swirling inside, every bit. There was nothing as complex in the world- no flower or stone- as a single hello from a human being." -- Lorrie Moore]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/188869-books-remember-all-the-things-you-cannot-contain</guid>
+		<pubDate>Sat, 22 Jan 2011 08:36:01 -0800</pubDate>
+		<title>
+			<![CDATA[Jana add a quote by Elizabeth McCracken]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/188869-books-remember-all-the-things-you-cannot-contain]]>
+		</link>
+		<description>
+	    <![CDATA["Books remember all the things you cannot contain." -- Elizabeth McCracken]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

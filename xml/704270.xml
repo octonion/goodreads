@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/704270-scott-hartshorn]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/704270-scott-hartshorn" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 16 Apr 2012 00:53:22 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/199502-my-work-is-one-long-triumph-over-my-limitations</guid>
+		<pubDate>Mon, 16 Apr 2012 00:53:22 -0700</pubDate>
+		<title>
+			<![CDATA[Scott add a quote by Charles Willeford]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/199502-my-work-is-one-long-triumph-over-my-limitations]]>
+		</link>
+		<description>
+	    <![CDATA["My work is one long triumph over my limitations." -- Charles Willeford]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/512289-nothing-human-surprises-me</guid>
+		<pubDate>Mon, 16 Apr 2012 00:53:45 -0700</pubDate>
+		<title>
+			<![CDATA[Scott add a quote by Charles Willeford]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/512289-nothing-human-surprises-me]]>
+		</link>
+		<description>
+	    <![CDATA["Nothing human surprises me." -- Charles Willeford]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/149763-just-tell-the-truth-and-they-ll-accuse-you-of-writing</guid>
+		<pubDate>Mon, 16 Apr 2012 00:53:48 -0700</pubDate>
+		<title>
+			<![CDATA[Scott add a quote by Charles Willeford]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/149763-just-tell-the-truth-and-they-ll-accuse-you-of-writing]]>
+		</link>
+		<description>
+	    <![CDATA["Just tell the truth, and they'll accuse you of writing black humor. " -- Charles Willeford]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

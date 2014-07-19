@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/236795-shank]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/236795-shank" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 29 May 2011 10:52:44 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/127126-machines-and-relatives-get-most-of-the-yelling-but-never</guid>
+		<pubDate>Sun, 29 May 2011 10:52:44 -0700</pubDate>
+		<title>
+			<![CDATA[Shank add a quote by Robert Fulghum]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/127126-machines-and-relatives-get-most-of-the-yelling-but-never]]>
+		</link>
+		<description>
+	    <![CDATA["Machines and relatives get most of the yelling. But never trees. As for people, well, the Solomon islanders may have a point. Yelling at living thing does tend to kill the spirit in them. Sticks and stones may break our bones, but words will break our hearts." -- Robert Fulghum]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

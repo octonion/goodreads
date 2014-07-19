@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1086993-kreg]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1086993-kreg" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 24 May 2011 21:06:05 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/137970-edda-danced-in-the-ballet-that-was-her-job-job</guid>
+		<pubDate>Tue, 24 May 2011 21:06:05 -0700</pubDate>
+		<title>
+			<![CDATA[Kreg add a quote by Brooke McEldowney]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/137970-edda-danced-in-the-ballet-that-was-her-job-job]]>
+		</link>
+		<description>
+	    <![CDATA["Edda danced in the ballet. That was her job. 'Job' was not the word other people chose to describe what Edda did, but the right word nonetheless. Words were queer that way, Edda often thought. They classified things. In her case they could place someone in another dimension." -- Brooke McEldowney]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

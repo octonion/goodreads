@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/811074-xan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/811074-xan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 15 Apr 2009 09:47:01 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/10626-i-m-sick-of-just-liking-people-i-wish-to-god</guid>
+		<pubDate>Wed, 15 Apr 2009 09:47:01 -0700</pubDate>
+		<title>
+			<![CDATA[Xan add a quote by J.D. Salinger]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10626-i-m-sick-of-just-liking-people-i-wish-to-god]]>
+		</link>
+		<description>
+	    <![CDATA["I'm sick of just liking people. I wish to God I could meet somebody I could respect." -- J.D. Salinger]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/29664-i-m-the-most-terrific-liar-you-ever-saw-in-your</guid>
+		<pubDate>Wed, 15 Apr 2009 09:53:19 -0700</pubDate>
+		<title>
+			<![CDATA[Xan add a quote by J.D. Salinger]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/29664-i-m-the-most-terrific-liar-you-ever-saw-in-your]]>
+		</link>
+		<description>
+	    <![CDATA["I'm the most terrific liar you ever saw in your life. It's awful. If I'm on my way to the store to buy a magazine, even, and somebody asks me where I'm going, I'm liable to say I'm going to the opera. It's terrible." -- J.D. Salinger]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/551510-barry]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/551510-barry" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 03 May 2014 16:47:11 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/117992-a-guy-and-a-girl-can-be-just-friends-but</guid>
+		<pubDate>Sat, 03 May 2014 16:47:11 -0700</pubDate>
+		<title>
+			<![CDATA[Barry add a quote by Dave Matthews Band]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/117992-a-guy-and-a-girl-can-be-just-friends-but]]>
+		</link>
+		<description>
+	    <![CDATA["A guy and a girl can be just friends, but at one point or another, they will fall for each other...Maybe temporarily, maybe at the wrong time, maybe too late, or maybe forever" -- Dave Matthews Band]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

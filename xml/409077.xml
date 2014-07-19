@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/409077-kara]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/409077-kara" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Aug 2009 17:13:20 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/177758-i-want-neither-a-terrorist-spirituality-that-keeps-me-in</guid>
+		<pubDate>Sun, 02 Aug 2009 17:13:20 -0700</pubDate>
+		<title>
+			<![CDATA[Kara add a quote by Brennan Manning]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/177758-i-want-neither-a-terrorist-spirituality-that-keeps-me-in]]>
+		</link>
+		<description>
+	    <![CDATA["I want neither a terrorist spirituality that keeps me in a perpetual state of fright about being in right relationship with my heavenly Father nor a sappy spirituality that portrays God as such a benign teddy bear that there is no aberrant behavior or desire of mine that he will not condone. I want a relationship with the Abba of Jesus, who is infinitely compassionate with my brokenness and at the same time an awesome, incomprehensible, and unwieldy Mystery. " -- Brennan Manning]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

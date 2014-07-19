@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/428847-bishop-bishop]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/428847-bishop-bishop" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 08 Jan 2009 14:33:43 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/128579-marco-enters-a-city-he-sees-someone-in-a-square</guid>
+		<pubDate>Thu, 08 Jan 2009 14:33:43 -0800</pubDate>
+		<title>
+			<![CDATA[Bishop add a quote by Italo Calvino]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/128579-marco-enters-a-city-he-sees-someone-in-a-square]]>
+		</link>
+		<description>
+	    <![CDATA["Marco enters a city; he sees someone in a square living a life or an instant that could be his; he could now be in that man's place, if he had stopped in time, long ago; or if, long ago, at a crossroads, instead of taking one road he had taken the opposite one, and after long wandering he had come to be in the place of that man in the square.  By now, from that real or hypothetical past of his, he is excluded; he cannot stop; he must go on to another city, where another of his pasts awaits him, or something perhaps that had been a possible future of his and is now someone else's present. Futures not achieved are only branches of the past: dead branches." -- Italo Calvino]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

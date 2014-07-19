@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/118423-cherie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/118423-cherie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 13 Aug 2013 16:36:00 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6806-the-more-that-you-read-the-more-things-you-will</guid>
+		<pubDate>Tue, 13 Aug 2013 16:36:00 -0700</pubDate>
+		<title>
+			<![CDATA[Cherie add a quote by Dr. Seuss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6806-the-more-that-you-read-the-more-things-you-will]]>
+		</link>
+		<description>
+	    <![CDATA["The more that you read, the more things you will know. The more that you learn, the more places you'll go." -- Dr. Seuss]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/19884-be-yourself-everyone-else-is-already-taken</guid>
+		<pubDate>Wed, 14 Aug 2013 15:30:12 -0700</pubDate>
+		<title>
+			<![CDATA[Cherie add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/19884-be-yourself-everyone-else-is-already-taken]]>
+		</link>
+		<description>
+	    <![CDATA["Be yourself; everyone else is already taken." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/7572-i-have-always-imagined-that-paradise-will-be-a-kind</guid>
+		<pubDate>Wed, 14 Aug 2013 18:26:24 -0700</pubDate>
+		<title>
+			<![CDATA[Cherie add a quote by Jorge Luis Borges]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7572-i-have-always-imagined-that-paradise-will-be-a-kind]]>
+		</link>
+		<description>
+	    <![CDATA["I have always imagined that Paradise will be a kind of library." -- Jorge Luis Borges]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4957-the-difference-between-the-right-word-and-the-almost-right</guid>
+		<pubDate>Thu, 15 Aug 2013 19:16:09 -0700</pubDate>
+		<title>
+			<![CDATA[Cherie add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4957-the-difference-between-the-right-word-and-the-almost-right]]>
+		</link>
+		<description>
+	    <![CDATA["The difference between the right word and the almost right word is the difference between lightning and a lightning bug." -- Mark Twain]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

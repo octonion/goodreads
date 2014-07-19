@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/582582-tim-strzechowski]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/582582-tim-strzechowski" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 13 Dec 2012 18:41:27 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/173616-i-don-t-like-animals-it-s-a-strange-thing-i-don-t</guid>
+		<pubDate>Thu, 13 Dec 2012 18:41:27 -0800</pubDate>
+		<title>
+			<![CDATA[Tim add a quote by Samuel Beckett]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/173616-i-don-t-like-animals-it-s-a-strange-thing-i-don-t]]>
+		</link>
+		<description>
+	    <![CDATA["I don’t like animals. It’s a strange thing, I don’t like men and I don’t like animals. As for God, he is beginning to disgust me." -- Samuel Beckett]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/580983-life-is-a-shipwreck-but-we-must-not-forget-to</guid>
+		<pubDate>Fri, 04 Jan 2013 03:37:04 -0800</pubDate>
+		<title>
+			<![CDATA[Tim add a quote by Voltaire]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/580983-life-is-a-shipwreck-but-we-must-not-forget-to]]>
+		</link>
+		<description>
+	    <![CDATA["‎Life is a shipwreck, but we must not forget to sing in the lifeboats." -- Voltaire]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/204145-books-cats-life-is-good</guid>
+		<pubDate>Tue, 05 Mar 2013 17:04:22 -0800</pubDate>
+		<title>
+			<![CDATA[Tim add a quote by Edward Gorey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/204145-books-cats-life-is-good]]>
+		</link>
+		<description>
+	    <![CDATA["Books, Cats, Life is Good." -- Edward Gorey]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/14838-either-write-something-worth-reading-or-do-something-worth-writing</guid>
+		<pubDate>Sat, 15 Jun 2013 20:59:42 -0700</pubDate>
+		<title>
+			<![CDATA[Tim add a quote by Benjamin Franklin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14838-either-write-something-worth-reading-or-do-something-worth-writing]]>
+		</link>
+		<description>
+	    <![CDATA["Either write something worth reading or do something worth writing." -- Benjamin Franklin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

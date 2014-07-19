@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/125594-sabrina]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/125594-sabrina" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 06 Jun 2012 15:00:38 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/80894-there-s-one-way-to-find-out-if-a-man-is</guid>
+		<pubDate>Wed, 06 Jun 2012 15:00:38 -0700</pubDate>
+		<title>
+			<![CDATA[Sabrina add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/80894-there-s-one-way-to-find-out-if-a-man-is]]>
+		</link>
+		<description>
+	    <![CDATA["There's one way to find out if a man is honest: ask him; if he says yes, you know he's crooked." -- Mark Twain]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/28598-oh-what-a-tangled-web-we-weave-when-first-we-practice</guid>
+		<pubDate>Wed, 06 Jun 2012 15:01:00 -0700</pubDate>
+		<title>
+			<![CDATA[Sabrina add a quote by Walter Scott]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/28598-oh-what-a-tangled-web-we-weave-when-first-we-practice]]>
+		</link>
+		<description>
+	    <![CDATA["Oh, what a tangled web we weave...when first we practice to deceive." -- Walter Scott]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

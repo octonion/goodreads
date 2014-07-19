@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/192833-jennifer]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/192833-jennifer" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 23 May 2011 09:52:19 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/35461-let-the-beauty-we-love-be-what-we-do-there</guid>
+		<pubDate>Mon, 23 May 2011 09:52:19 -0700</pubDate>
+		<title>
+			<![CDATA[Jennifer add a quote by Rumi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/35461-let-the-beauty-we-love-be-what-we-do-there]]>
+		</link>
+		<description>
+	    <![CDATA["Let the beauty we love be what we do. There are hundreds of ways to kneel and kiss the ground." -- Rumi]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/299262-walk-as-if-you-are-kissing-the-earth-with-your</guid>
+		<pubDate>Tue, 13 May 2014 19:26:04 -0700</pubDate>
+		<title>
+			<![CDATA[Jennifer add a quote by Thich Nhat Hanh]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/299262-walk-as-if-you-are-kissing-the-earth-with-your]]>
+		</link>
+		<description>
+	    <![CDATA["Walk as if you are kissing the Earth with your feet." -- Thich Nhat Hanh]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

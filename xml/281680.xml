@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/281680-runningfox]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/281680-runningfox" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 16 Oct 2011 17:05:53 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/449500-when-you-fully-live-each-moment-nothing-in-the-future</guid>
+		<pubDate>Sun, 16 Oct 2011 17:05:53 -0700</pubDate>
+		<title>
+			<![CDATA[Runningfox add a quote by James Runningfox Moss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/449500-when-you-fully-live-each-moment-nothing-in-the-future]]>
+		</link>
+		<description>
+	    <![CDATA["When you fully live each moment, nothing in the future exists because you are making the next moment right now - and nothing you did before this moment is holding you back." -- James Runningfox Moss]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

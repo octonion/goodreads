@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/722963-miriam-matthews]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/722963-miriam-matthews" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 04 Aug 2009 03:27:22 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/68782-women-are-the-worst-they-zero-in-on-some-guy-oh</guid>
+		<pubDate>Tue, 04 Aug 2009 03:27:22 -0700</pubDate>
+		<title>
+			<![CDATA[Miriam add a quote by JD Robb]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/68782-women-are-the-worst-they-zero-in-on-some-guy-oh]]>
+		</link>
+		<description>
+	    <![CDATA["Women are the worst. They zero in on some guy.Oh boy, he's the one, gotta get me that one. So they do. Then they spend the rest of their time trying to figure out how to change him. Then if they manage it, they're not all that interested anymore, because guess what? He's not the one anymore." -- JD Robb]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

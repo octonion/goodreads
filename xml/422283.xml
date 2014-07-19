@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/422283-kirk]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/422283-kirk" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 09 Jan 2008 08:20:24 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/7597-in-addition-to-my-other-numerous-acquaintances-i-have-one</guid>
+		<pubDate>Wed, 09 Jan 2008 08:20:24 -0800</pubDate>
+		<title>
+			<![CDATA[Kirk add a quote by Soren Kierkegaard]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7597-in-addition-to-my-other-numerous-acquaintances-i-have-one]]>
+		</link>
+		<description>
+	    <![CDATA["In addition to my other numerous acquaintances, I have one more intimate confidant… My depression is the most faithful mistress I have known — no wonder, then, that I return the love." -- Soren Kierkegaard]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/140989-i-must-learn-to-love-the-fool-in-me--the-one</guid>
+		<pubDate>Mon, 20 May 2013 07:33:13 -0700</pubDate>
+		<title>
+			<![CDATA[Kirk add a quote by Theodore Isaac Rubin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/140989-i-must-learn-to-love-the-fool-in-me--the-one]]>
+		</link>
+		<description>
+	    <![CDATA["I must learn to love the fool in me--the one who feels too much, talks too much, takes too many chances, wins sometimes and loses often, lacks self-control, loves and hates, hurts and gets hurt, promises and breaks promises, laughs and cries. It alone protects me against that utterly self-controlled, masterful tyrant whom I also harbor and who would rob me of my human aliveness, humility, and dignity but for my Fool." -- Theodore Isaac Rubin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/857607-noor-al-samarrai]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/857607-noor-al-samarrai" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 09 Apr 2008 23:59:41 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/43126-nothing-is-more-humbling-than-to-look-with-a-strong</guid>
+		<pubDate>Wed, 09 Apr 2008 23:59:41 -0700</pubDate>
+		<title>
+			<![CDATA[Noor add a quote by Rudolf Arnheim]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/43126-nothing-is-more-humbling-than-to-look-with-a-strong]]>
+		</link>
+		<description>
+	    <![CDATA["Nothing is more humbling than to look with a strong magnifying glass at an insect so tiny that the naked eye sees only the barest speck and to discover that nevertheless it is sculpted and articulated and striped with the same care and imagination as a zebra. Apparently it does not occur to nature whether or not a creature is within our range of vision, and the suspicion arises that even the zebra was not designed for our benefit." -- Rudolf Arnheim]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

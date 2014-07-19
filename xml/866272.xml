@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/866272-jihan-baluyut]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/866272-jihan-baluyut" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 12 Oct 2011 11:04:11 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/441986-it-s-better-to-be-absolutely-ridiculous-than-absolutely-boring</guid>
+		<pubDate>Wed, 12 Oct 2011 11:04:11 -0700</pubDate>
+		<title>
+			<![CDATA[Jihan  add a quote by Marilyn Monroe]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/441986-it-s-better-to-be-absolutely-ridiculous-than-absolutely-boring]]>
+		</link>
+		<description>
+	    <![CDATA["It’s better to be absolutely ridiculous than absolutely boring." -- Marilyn Monroe]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/343580-i-have-a-feeling-that-once-you-live-through-something</guid>
+		<pubDate>Sun, 18 May 2014 04:12:39 -0700</pubDate>
+		<title>
+			<![CDATA[Jihan  add a quote by Gayle Forman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/343580-i-have-a-feeling-that-once-you-live-through-something]]>
+		</link>
+		<description>
+	    <![CDATA["I have a feeling that once you live through something like this, you become a little bit invincible." -- Gayle Forman]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

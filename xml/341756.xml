@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/341756-lynn-siler]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/341756-lynn-siler" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 16 Jan 2013 11:36:06 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/634013-my-library-is-an-archive-of-longings</guid>
+		<pubDate>Wed, 16 Jan 2013 11:36:06 -0800</pubDate>
+		<title>
+			<![CDATA[Lynn add a quote by Susan Sontag]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/634013-my-library-is-an-archive-of-longings]]>
+		</link>
+		<description>
+	    <![CDATA["My library is an archive of longings." -- Susan Sontag]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/74399-the-greatest-threat-to-freedom-is-the-absence-of-criticism</guid>
+		<pubDate>Sat, 13 Jul 2013 13:16:01 -0700</pubDate>
+		<title>
+			<![CDATA[Lynn add a quote by Wole Soyinka]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/74399-the-greatest-threat-to-freedom-is-the-absence-of-criticism]]>
+		</link>
+		<description>
+	    <![CDATA["The greatest threat to freedom is the absence of criticism." -- Wole Soyinka]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

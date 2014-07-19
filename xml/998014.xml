@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/998014-deb]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/998014-deb" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 24 Jun 2012 20:12:18 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/107768-i-have-a-lot-of-faith-but-i-am-also</guid>
+		<pubDate>Sun, 24 Jun 2012 20:12:18 -0700</pubDate>
+		<title>
+			<![CDATA[Deb add a quote by Anne Lamott]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/107768-i-have-a-lot-of-faith-but-i-am-also]]>
+		</link>
+		<description>
+	    <![CDATA["I have a lot of faith. But I am also afraid a lot, and have no real certainty about anything.  I remembered something Father Tom had told me--that the opposite of faith is not doubt, but certainty.  Certainty is missing the point entirely.  Faith includes noticing the mess, the emptiness and discomfort, and letting it be there until some light returns." -- Anne Lamott]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

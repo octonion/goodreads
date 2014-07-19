@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/972732-corinne]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/972732-corinne" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 01 Mar 2009 08:01:08 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/15139-i-am-a-product-of-endless-books-my-father-bought</guid>
+		<pubDate>Sun, 01 Mar 2009 08:01:08 -0800</pubDate>
+		<title>
+			<![CDATA[Corinne add a quote by C.S. Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/15139-i-am-a-product-of-endless-books-my-father-bought]]>
+		</link>
+		<description>
+	    <![CDATA["I am a product [...of] endless books. My father bought all the books he read and never got rid of any of them. There were books in the study, books in the drawing room, books in the cloakroom, books (two deep) in the great bookcase on the landing, books in a bedroom, books piled as high as my shoulder in the cistern attic, books of all kinds reflecting every transient stage of my parents' interest, books readable and unreadable, books suitable for a child and books most emphatically not. Nothing was forbidden me. In the seemingly endless rainy afternoons I took volume after volume from the shelves. I had always the same certainty of finding a book that was new to me as a man who walks into a field has of finding a new blade of grass." -- C.S. Lewis]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

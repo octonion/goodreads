@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/398751-jenny]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/398751-jenny" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 19 Oct 2009 07:54:03 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2801-but-the-effect-of-her-being-on-those-around-her</guid>
+		<pubDate>Mon, 19 Oct 2009 07:54:03 -0700</pubDate>
+		<title>
+			<![CDATA[Jenny add a quote by George Eliot]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2801-but-the-effect-of-her-being-on-those-around-her]]>
+		</link>
+		<description>
+	    <![CDATA["But the effect of her being on those around her was incalculably diffusive: for the growing good of the world is partly dependent on unhistoric acts; and that things are not so ill with you and me as they might have been, is half owing to the number who lived faithfully a hidden life, and rest in unvisited tombs." -- George Eliot]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

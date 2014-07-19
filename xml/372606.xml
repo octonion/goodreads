@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/372606-charlotte]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/372606-charlotte" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 04 Jan 2012 20:54:13 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/482374-but-down-through-the-centuries-man-has-developed-a-mind</guid>
+		<pubDate>Wed, 04 Jan 2012 20:54:13 -0800</pubDate>
+		<title>
+			<![CDATA[Charlotte add a quote by Benjamin Hoff]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/482374-but-down-through-the-centuries-man-has-developed-a-mind]]>
+		</link>
+		<description>
+	    <![CDATA["But down through the centuries, man has developed a mind that separates him from the world of reality, the world of natural laws. This mind tries too hard, wears itself out, and ends up weak and sloppy. Such a mind, even if of high intelligence, is inefficient. It drives down the street in a fast-moving car and thinks its at the store, going over a grocery list. Then it wonders why accidents occur." -- Benjamin Hoff]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/482379-cleverness-after-all-has-its-limitations-its-mechanical-judgments-and</guid>
+		<pubDate>Wed, 04 Jan 2012 21:05:50 -0800</pubDate>
+		<title>
+			<![CDATA[Charlotte add a quote by Benjamin Hoff]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/482379-cleverness-after-all-has-its-limitations-its-mechanical-judgments-and]]>
+		</link>
+		<description>
+	    <![CDATA["Cleverness, after all, has its limitations. Its mechanical judgments and clever remarks tend to prove inaccurate with passing time, because it doesn't look very deeply into things to begin with" -- Benjamin Hoff]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

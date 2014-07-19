@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/725273-renee]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/725273-renee" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 16 Oct 2012 04:47:34 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/292212-when-someone-loves-you-the-way-they-say-your-name</guid>
+		<pubDate>Tue, 16 Oct 2012 04:47:34 -0700</pubDate>
+		<title>
+			<![CDATA[Renee add a quote by Jess C. Scott]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/292212-when-someone-loves-you-the-way-they-say-your-name]]>
+		</link>
+		<description>
+	    <![CDATA["When someone loves you, the way they say your name is different. You know that your name is safe in their mouth." -- Jess C. Scott]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/66-so-many-books-so-little-time</guid>
+		<pubDate>Mon, 25 Mar 2013 15:55:56 -0700</pubDate>
+		<title>
+			<![CDATA[Renee add a quote by Frank Zappa]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/66-so-many-books-so-little-time]]>
+		</link>
+		<description>
+	    <![CDATA["So many books, so little time." -- Frank Zappa]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4-whenever-you-find-yourself-on-the-side-of-the-majority</guid>
+		<pubDate>Mon, 25 Mar 2013 15:57:30 -0700</pubDate>
+		<title>
+			<![CDATA[Renee add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4-whenever-you-find-yourself-on-the-side-of-the-majority]]>
+		</link>
+		<description>
+	    <![CDATA["Whenever you find yourself on the side of the majority, it is time to pause and reflect." -- Mark Twain]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3312-women-and-cats-will-do-as-they-please-and-men</guid>
+		<pubDate>Mon, 25 Mar 2013 16:03:06 -0700</pubDate>
+		<title>
+			<![CDATA[Renee add a quote by Robert A. Heinlein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3312-women-and-cats-will-do-as-they-please-and-men]]>
+		</link>
+		<description>
+	    <![CDATA["Women and cats will do as they please, and men and dogs should relax and get used to the idea." -- Robert A. Heinlein]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

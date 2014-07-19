@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/965122-stacy-greenfield]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/965122-stacy-greenfield" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 05 Mar 2008 20:54:28 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1597-when-i-m-good-i-m-very-good-but-when-i-m-bad</guid>
+		<pubDate>Wed, 05 Mar 2008 20:54:28 -0800</pubDate>
+		<title>
+			<![CDATA[Stacy add a quote by Mae West]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1597-when-i-m-good-i-m-very-good-but-when-i-m-bad]]>
+		</link>
+		<description>
+	    <![CDATA["When I'm good, I'm very good, but when I'm bad, I'm better. " -- Mae West]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6027-i-like-to-have-a-martini-two-at-the-very</guid>
+		<pubDate>Wed, 05 Mar 2008 20:56:07 -0800</pubDate>
+		<title>
+			<![CDATA[Stacy add a quote by Dorothy Parker]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6027-i-like-to-have-a-martini-two-at-the-very]]>
+		</link>
+		<description>
+	    <![CDATA["I like to have a martini,
+Two at the very most.
+After three I'm under the table,
+after four I'm under my host." -- Dorothy Parker]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

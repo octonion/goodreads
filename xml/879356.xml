@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/879356-lyonsmbox]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/879356-lyonsmbox" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 08 Dec 2012 15:11:07 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/585184-promise-you-won-t-forget-me-ever-not-even-when-i-m</guid>
+		<pubDate>Sat, 08 Dec 2012 15:11:07 -0800</pubDate>
+		<title>
+			<![CDATA[Lyonsmbox add a quote by A.A. Milne]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/585184-promise-you-won-t-forget-me-ever-not-even-when-i-m]]>
+		</link>
+		<description>
+	    <![CDATA["Promise you won't forget me, ever. Not even when I'm a hundred." -- A.A. Milne]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/709478-jabeen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/709478-jabeen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 24 Dec 2007 09:06:21 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2875-walk-on-with-hope-in-your-heart-and-you-ll-never</guid>
+		<pubDate>Mon, 24 Dec 2007 09:06:21 -0800</pubDate>
+		<title>
+			<![CDATA[Jabeen add a quote by Shah Rukh Khan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2875-walk-on-with-hope-in-your-heart-and-you-ll-never]]>
+		</link>
+		<description>
+	    <![CDATA["Walk on with hope in your heart, 
+and you'll never walk alone" -- Shah Rukh Khan]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

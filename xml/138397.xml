@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/138397-danielle]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/138397-danielle" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 07 Apr 2009 17:11:45 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/72914-it-s-the-first-thing-i-tell-my-students-if-you</guid>
+		<pubDate>Tue, 07 Apr 2009 17:11:45 -0700</pubDate>
+		<title>
+			<![CDATA[Danielle add a quote by Dan Barden]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/72914-it-s-the-first-thing-i-tell-my-students-if-you]]>
+		</link>
+		<description>
+	    <![CDATA["It's the first thing I tell my students: If you could understand, really understand, that no one &lt;i&gt;needs&lt;/i&gt; to read your work, then your writing would improve vastly by the time we meet in this classroom again." -- Dan Barden]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/25106-do-one-thing-every-day-that-scares-you</guid>
+		<pubDate>Wed, 16 Oct 2013 16:22:33 -0700</pubDate>
+		<title>
+			<![CDATA[Danielle add a quote by Eleanor Roosevelt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/25106-do-one-thing-every-day-that-scares-you]]>
+		</link>
+		<description>
+	    <![CDATA["Do one thing every day that scares you." -- Eleanor Roosevelt]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

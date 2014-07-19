@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/112687-cristov]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/112687-cristov" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 14 Sep 2011 14:46:57 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/139949-understanding-is-a-three-edged-sword-your-side-their-side</guid>
+		<pubDate>Wed, 14 Sep 2011 14:46:57 -0700</pubDate>
+		<title>
+			<![CDATA[Cristov add a quote by J. Michael Straczynski]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/139949-understanding-is-a-three-edged-sword-your-side-their-side]]>
+		</link>
+		<description>
+	    <![CDATA["Understanding is a three edged sword: your side, their side, and the truth." -- J. Michael Straczynski]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/534931-a-complete-stranger-has-the-capacity-to-alter-the-life</guid>
+		<pubDate>Fri, 17 Aug 2012 23:28:26 -0700</pubDate>
+		<title>
+			<![CDATA[Cristov add a quote by J.D. Stroube]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/534931-a-complete-stranger-has-the-capacity-to-alter-the-life]]>
+		</link>
+		<description>
+	    <![CDATA["A complete stranger has the capacity to alter the life of another irrevocably. This domino effect has the capacity to change the course of an entire world. That is what life is; a chain reaction of individuals colliding with others and influencing their lives without realizing it. A decision that seems miniscule to you, may be monumental to the fate of the world." -- J.D. Stroube]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/816180-leslie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/816180-leslie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 23 Apr 2008 08:56:56 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/47554-the-world-must-live-we-are-only-one-species-among</guid>
+		<pubDate>Wed, 23 Apr 2008 08:56:56 -0700</pubDate>
+		<title>
+			<![CDATA[Leslie add a quote by Daniel Quinn]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/47554-the-world-must-live-we-are-only-one-species-among]]>
+		</link>
+		<description>
+	    <![CDATA["The world must live. We are only one species among billions. The gods don't love us any more than they love spiders or bears or whales or water lilies." -- Daniel Quinn]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/47555-we-re-straying-from-the-path-of-salvation-because-we-remember</guid>
+		<pubDate>Wed, 23 Apr 2008 08:58:26 -0700</pubDate>
+		<title>
+			<![CDATA[Leslie add a quote by Daniel Quinn]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/47555-we-re-straying-from-the-path-of-salvation-because-we-remember]]>
+		</link>
+		<description>
+	    <![CDATA["We're straying from the path of salvation because we remember that we once belonged to the world and were content in that belonging." -- Daniel Quinn]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/47556-there-comes-a-time-when-the-operation-of-the-machine</guid>
+		<pubDate>Wed, 23 Apr 2008 08:59:44 -0700</pubDate>
+		<title>
+			<![CDATA[Leslie add a quote by Utah Philips]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/47556-there-comes-a-time-when-the-operation-of-the-machine]]>
+		</link>
+		<description>
+	    <![CDATA["There comes a time when the operation of the machine is so odious that you cannot even passively participate. You've got to place your bodies on the gears, the wheels, all the mechanism, and you've got to indicate to those who own it and those who run it that unless you are free the machine will be prevented from working at all." -- Utah Philips]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

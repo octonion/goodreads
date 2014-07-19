@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/112004-fern-chasida]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/112004-fern-chasida" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 08 Jan 2012 15:09:41 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/69032-reading-one-book-is-like-eating-one-potato-chip</guid>
+		<pubDate>Sun, 08 Jan 2012 15:09:41 -0800</pubDate>
+		<title>
+			<![CDATA[Fern Chasida add a quote by Diane Duane]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/69032-reading-one-book-is-like-eating-one-potato-chip]]>
+		</link>
+		<description>
+	    <![CDATA["Reading one book is like eating one potato chip." -- Diane Duane]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/720829-we-talk-for-a-very-long-time-and-i-ask</guid>
+		<pubDate>Thu, 31 Jan 2013 23:09:29 -0800</pubDate>
+		<title>
+			<![CDATA[Fern Chasida add a quote by Liz Moore]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/720829-we-talk-for-a-very-long-time-and-i-ask]]>
+		</link>
+		<description>
+	    <![CDATA["We talk for a very long time and I ask her if it gets easier and she says not really, just different. A different duller kind of hurt, the kind that doesn't surprise you anymore. 
+I ask what her parent were like when it happened and she says they have never been the same." -- Liz Moore]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

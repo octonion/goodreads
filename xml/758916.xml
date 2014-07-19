@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/758916-emily]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/758916-emily" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 25 Nov 2013 22:21:00 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/49922-i-m-not-like-the-rest-of-you-i-never-made</guid>
+		<pubDate>Mon, 25 Nov 2013 22:21:00 -0800</pubDate>
+		<title>
+			<![CDATA[Emily add a quote by Louisa May Alcott]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/49922-i-m-not-like-the-rest-of-you-i-never-made]]>
+		</link>
+		<description>
+	    <![CDATA["I’m not like the rest of you; I never made any plans about what I’d do when I grew up; I never thought of being married, as you did. I couldn’t seem to imagine myself anything but stupid little Beth, trotting about at home, of no use anywhere but there. I never wanted to go away, and the hard part now is leaving you all. I’m not afraid, but it seems as if I should be homesick for you even in heaven." -- Louisa May Alcott]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/216519-i-don-t-pretend-to-be-wise-but-i-am-observing</guid>
+		<pubDate>Mon, 25 Nov 2013 22:21:31 -0800</pubDate>
+		<title>
+			<![CDATA[Emily add a quote by Louisa Alcott]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/216519-i-don-t-pretend-to-be-wise-but-i-am-observing]]>
+		</link>
+		<description>
+	    <![CDATA["I don't pretend to be wise, but I am observing, and I see a great deal more than you'd imagine. I'm interested in other people's experiences and inconsistencies, and, though I can't explain, I remember and use them for my own benefit." -- Louisa Alcott]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

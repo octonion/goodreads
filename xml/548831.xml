@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/548831-drew]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/548831-drew" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 03 Aug 2012 11:55:50 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/321638-addictions-started-out-like-magical-pets-pocket-monsters-they</guid>
+		<pubDate>Fri, 03 Aug 2012 11:55:50 -0700</pubDate>
+		<title>
+			<![CDATA[Drew add a quote by William Gibson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/321638-addictions-started-out-like-magical-pets-pocket-monsters-they]]>
+		</link>
+		<description>
+	    <![CDATA["Addictions [...] started out like magical pets, pocket monsters. They did extraordinary tricks, showed you things you hadn't seen, were fun. But came, through some gradual dire alchemy, to make decisions for you. Eventually, they were making your most crucial life-decisions. And they were [...] less intelligent than goldfish." -- William Gibson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/230547-we-interpret-life-at-moments-of-the-deepest-desperation</guid>
+		<pubDate>Mon, 15 Apr 2013 16:59:12 -0700</pubDate>
+		<title>
+			<![CDATA[Drew add a quote by Roberto Bolaño]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/230547-we-interpret-life-at-moments-of-the-deepest-desperation]]>
+		</link>
+		<description>
+	    <![CDATA["we interpret life at moments of the deepest desperation." -- Roberto Bolaño]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

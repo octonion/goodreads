@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/58290-tom]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/58290-tom" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 16 Apr 2008 08:56:34 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/66-so-many-books-so-little-time</guid>
+		<pubDate>Wed, 16 Apr 2008 08:56:34 -0700</pubDate>
+		<title>
+			<![CDATA[Tom add a quote by Frank Zappa]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/66-so-many-books-so-little-time]]>
+		</link>
+		<description>
+	    <![CDATA["So many books, so little time." -- Frank Zappa]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/942-two-things-are-infinite-the-universe-and-human-stupidity-and</guid>
+		<pubDate>Wed, 16 Apr 2008 08:57:13 -0700</pubDate>
+		<title>
+			<![CDATA[Tom add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/942-two-things-are-infinite-the-universe-and-human-stupidity-and]]>
+		</link>
+		<description>
+	    <![CDATA["Two things are infinite: the universe and human stupidity; and I'm not sure about the universe." -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/30-that-which-does-not-kill-us-makes-us-stronger</guid>
+		<pubDate>Wed, 16 Apr 2008 08:58:38 -0700</pubDate>
+		<title>
+			<![CDATA[Tom add a quote by Friedrich Nietzsche]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/30-that-which-does-not-kill-us-makes-us-stronger]]>
+		</link>
+		<description>
+	    <![CDATA["That which does not kill us makes us stronger." -- Friedrich Nietzsche]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/876-to-be-yourself-in-a-world-that-is-constantly-trying</guid>
+		<pubDate>Wed, 16 Apr 2008 08:59:00 -0700</pubDate>
+		<title>
+			<![CDATA[Tom add a quote by Ralph Waldo Emerson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/876-to-be-yourself-in-a-world-that-is-constantly-trying]]>
+		</link>
+		<description>
+	    <![CDATA["To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment." -- Ralph Waldo Emerson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

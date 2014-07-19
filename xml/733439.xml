@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/733439-tammi]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/733439-tammi" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 28 Jan 2011 06:19:01 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/337311-and-so-taking-the-long-way-home-through-the-market</guid>
+		<pubDate>Fri, 28 Jan 2011 06:19:01 -0800</pubDate>
+		<title>
+			<![CDATA[Tammi add a quote by Alexandra Potter]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/337311-and-so-taking-the-long-way-home-through-the-market]]>
+		</link>
+		<description>
+	    <![CDATA["And so taking the long way home through the market I slow my pace down.  It doesn't come naturally.  My legs are programmed to trot briskly and my arms to pump up and down like pistons, but I force myself to stroll past the stalls and pavement cafes.  To enjoy just being somewhere, rather than rushing from somewhere, to somewhere.  Inhaling deep lungfuls of air, instead of my usual shallow breaths.  I take a moment to just stop and look around me.  And smile to myself.
+For the first time in a long time, I can, quite literally, smell the coffee." -- Alexandra Potter]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

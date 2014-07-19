@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/647547-mariel]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/647547-mariel" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 21 Dec 2013 21:29:30 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/968067-to-read-great-books-does-not-mean-one-becomes-bookish</guid>
+		<pubDate>Sat, 21 Dec 2013 21:29:30 -0800</pubDate>
+		<title>
+			<![CDATA[Mariel add a quote by John Cowper Powys]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/968067-to-read-great-books-does-not-mean-one-becomes-bookish]]>
+		</link>
+		<description>
+	    <![CDATA["To read great books does not mean one becomes ‘bookish’; it means that something of the terrible insight of Dostoyevsky, of the richly-charged imagination of Shakespeare, of the luminous wisdom of Goethe, actually passes into the personality of the reader; so that in contact with the chaos of ordinary life certain free and flowing outlines emerge, like the forms of some classic picture, endowing both people and things with a grandeur beyond what is visible to the superficial glance." -- John Cowper Powys]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

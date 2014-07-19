@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/792060-mr-hill]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/792060-mr-hill" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 27 Feb 2014 17:54:22 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/68139-because-to-take-away-a-man-s-freedom-of-choice-even</guid>
+		<pubDate>Thu, 27 Feb 2014 17:54:22 -0800</pubDate>
+		<title>
+			<![CDATA[Mr. Hill add a quote by Madeline L'Engle]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/68139-because-to-take-away-a-man-s-freedom-of-choice-even]]>
+		</link>
+		<description>
+	    <![CDATA["Because to take away a man's freedom of choice, even his freedom to make the wrong choice, is to manipulate him as though he were a puppet and not a person." -- Madeline L'Engle]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/952741-not-enough-people-know-or-understand-just-how-little-freedom</guid>
+		<pubDate>Thu, 27 Feb 2014 18:01:01 -0800</pubDate>
+		<title>
+			<![CDATA[Mr. Hill add a quote by Korban Blake]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/952741-not-enough-people-know-or-understand-just-how-little-freedom]]>
+		</link>
+		<description>
+	    <![CDATA["Not enough people know or understand just how little freedom we have left." -- Korban Blake]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

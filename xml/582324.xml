@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/582324-al]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/582324-al" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 19 Dec 2013 14:47:54 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/215182-god-uses-chronic-pain-and-weakness-along-with-other-afflictions</guid>
+		<pubDate>Thu, 19 Dec 2013 14:47:54 -0800</pubDate>
+		<title>
+			<![CDATA[Al add a quote by J.I. Packer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/215182-god-uses-chronic-pain-and-weakness-along-with-other-afflictions]]>
+		</link>
+		<description>
+	    <![CDATA["God uses chronic pain and weakness, along with other afflictions, as his chisel for sculpting our lives. Felt weakness deepens dependence on Christ for strength each day. The weaker we feel, the harder we lean. And the harder we lean, the stronger we grow spiritually, even while our bodies waste away. To live with your ‘thorn’ uncomplainingly — that is, sweet, patient, and free in heart to love and help others, even though every day you feel weak — is true sanctification. It is true healing for the spirit. It is a supreme victory of grace." -- J.I. Packer]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

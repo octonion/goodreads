@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/359022-jasmine]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/359022-jasmine" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 30 Nov 2008 17:40:14 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/118524-i-couldn-t-go-on-too-conscious-all-at-once-of</guid>
+		<pubDate>Sun, 30 Nov 2008 17:40:14 -0800</pubDate>
+		<title>
+			<![CDATA[Jasmine add a quote by John Champlin Gardner Jr.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/118524-i-couldn-t-go-on-too-conscious-all-at-once-of]]>
+		</link>
+		<description>
+	    <![CDATA["I couldn't go on, too conscious all at once of my whispering, my eternal posturing, always transforming the world with words--changing nothing." -- John Champlin Gardner Jr.]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/44499-i-should-like-to-know-which-is-worse-to-be</guid>
+		<pubDate>Sun, 30 Nov 2008 17:57:30 -0800</pubDate>
+		<title>
+			<![CDATA[Jasmine add a quote by Voltaire]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/44499-i-should-like-to-know-which-is-worse-to-be]]>
+		</link>
+		<description>
+	    <![CDATA["I should like to know which is worse: to be ravished a hundred times by pirates, and have a buttock cut off, and run the gauntlet of the Bulgarians, and be flogged and hanged in an auto-da-fe, and be dissected, and have to row in a galley -- in short, to undergo all the miseries we have each of us suffered -- or simply to sit here and do nothing?'
+That is a hard question,' said Candide." -- Voltaire]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

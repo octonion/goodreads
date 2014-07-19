@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1012892-denise]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1012892-denise" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 16 Apr 2014 08:56:06 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1173186-who-was-it-said-that-coincidence-was-just-god-s-way</guid>
+		<pubDate>Wed, 16 Apr 2014 08:56:06 -0700</pubDate>
+		<title>
+			<![CDATA[Denise add a quote by Donna Tartt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1173186-who-was-it-said-that-coincidence-was-just-god-s-way]]>
+		</link>
+		<description>
+	    <![CDATA["Who was it said that coincidence was just God’s way of remaining anonymous?" -- Donna Tartt]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1034972-that-s-the-thing-about-pain-augustus-said-and-then-glanced</guid>
+		<pubDate>Thu, 12 Jun 2014 19:36:21 -0700</pubDate>
+		<title>
+			<![CDATA[Denise add a quote by John Green]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1034972-that-s-the-thing-about-pain-augustus-said-and-then-glanced]]>
+		</link>
+		<description>
+	    <![CDATA["That’s the thing about pain,” Augustus said, and then glanced back at me. “It demands to be felt." -- John Green]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

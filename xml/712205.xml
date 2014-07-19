@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/712205-sam-bloom]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/712205-sam-bloom" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 23 Jan 2013 19:12:27 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/183366-they-looked-for-one-another-when-nothing-else-was-happening</guid>
+		<pubDate>Wed, 23 Jan 2013 19:12:27 -0800</pubDate>
+		<title>
+			<![CDATA[Sam add a quote by Lynne Rae Perkins]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/183366-they-looked-for-one-another-when-nothing-else-was-happening]]>
+		</link>
+		<description>
+	    <![CDATA["They looked for one another when nothing else was happening, the way you pick up a magazine or look in the cupboard for a snack. Not exactly by accident and not exactly on purpose. You could go out in the world and do new things and meet new people, and then you could come home and just sit on the stoop with someone you had never not known, and watch lightning bugs blink on and off." -- Lynne Rae Perkins]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

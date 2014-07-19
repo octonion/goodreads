@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/990660-shelley]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/990660-shelley" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 13 Aug 2011 15:51:17 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/120767-finding-someone-you-love-and-who-loves-you-back-is</guid>
+		<pubDate>Sat, 13 Aug 2011 15:51:17 -0700</pubDate>
+		<title>
+			<![CDATA[Shelley add a quote by Cecilia Ahern]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/120767-finding-someone-you-love-and-who-loves-you-back-is]]>
+		</link>
+		<description>
+	    <![CDATA["Finding someone you love and who loves you back is a wonderful, wonderful feeling. But finding a true soul mate is an even better feeling. A soul mate is someone who understands you like no other, loves you like no other, will be there for you forever, no matter what. They say that nothing lasts forever, but I am a firm believer in the fact that for some, love lives on even after we're gone." -- Cecilia Ahern]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

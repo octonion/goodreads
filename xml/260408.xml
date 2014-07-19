@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/260408-kelly]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/260408-kelly" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 30 Jun 2013 20:06:57 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/836490-this-is-how-i-show-my-students-that-i-love</guid>
+		<pubDate>Sun, 30 Jun 2013 20:06:57 -0700</pubDate>
+		<title>
+			<![CDATA[Kelly add a quote by Donalyn Miller]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/836490-this-is-how-i-show-my-students-that-i-love]]>
+		</link>
+		<description>
+	    <![CDATA["This is how I show my students that I love them - by putting books in their hands, by noticing what they are about, and finding books that tell them, &quot;I know. I know. I know how it is.  I know who you are, and even though we may never speak of it, read this book, and know that I understand you." -- Donalyn Miller]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

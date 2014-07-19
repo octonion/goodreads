@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/15870-jason]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/15870-jason" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 08 Apr 2008 16:39:22 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/27456-a-library-book-lasts-as-long-as-a-house-for</guid>
+		<pubDate>Tue, 08 Apr 2008 16:39:22 -0700</pubDate>
+		<title>
+			<![CDATA[Jason add a quote by Thomas Jefferson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/27456-a-library-book-lasts-as-long-as-a-house-for]]>
+		</link>
+		<description>
+	    <![CDATA["A library book lasts as long as a house, for hundreds of years. It is not an article for mere consumption, but fairly of capital, and often in the case of professional men, setting  out in life, it is their only capital." -- Thomas Jefferson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/16148-what-does-one-want-when-one-is-engaged-in-the</guid>
+		<pubDate>Tue, 08 Apr 2008 16:45:06 -0700</pubDate>
+		<title>
+			<![CDATA[Jason add a quote by Marquis de Sade]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16148-what-does-one-want-when-one-is-engaged-in-the]]>
+		</link>
+		<description>
+	    <![CDATA["What does one want when one is engaged in the sexual act? That everything around you give you its utter attention, think only of you, care only for you...every man wants to be a tyrant when he fornicates." -- Marquis de Sade]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

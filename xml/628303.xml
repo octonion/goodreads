@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/628303-kate-vanderbeek]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/628303-kate-vanderbeek" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 24 Mar 2008 09:39:37 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/37873-don-t-spend-your-precious-time-asking-why-isn-t-the-world</guid>
+		<pubDate>Mon, 24 Mar 2008 09:39:37 -0700</pubDate>
+		<title>
+			<![CDATA[Kate add a quote by Leo Buscaglia]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/37873-don-t-spend-your-precious-time-asking-why-isn-t-the-world]]>
+		</link>
+		<description>
+	    <![CDATA["Don't spend your precious time asking &quot;Why isn't the world a better place?&quot; It will only be time wasted. The question to ask is &quot;How can I make it better?&quot; To that there is an answer." -- Leo Buscaglia]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/241611-briee]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/241611-briee" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 30 May 2012 07:36:28 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/423716-we-paid-for-this-instead-of-a-generation-of-health</guid>
+		<pubDate>Wed, 30 May 2012 07:36:28 -0700</pubDate>
+		<title>
+			<![CDATA[Briee add a quote by Matt Taibbi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/423716-we-paid-for-this-instead-of-a-generation-of-health]]>
+		</link>
+		<description>
+	    <![CDATA["We paid for this instead of a generation of health insurance, or an alternative energy grid, or a brand-new system of roads and highways. With the $13-plus trillion we are estimated to ultimately spend on the bailouts, we could not only have bought and paid off every single sub-prime mortgage in the country (that would only have cost $1.4 trillion), we could have paid off every remaining mortgage of any kind in this country - and still have had enough money left over to buy a new house for every American who does not already have one." -- Matt Taibbi]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/413070-in-most-cases-being-a-good-boss-means-hiring-talented</guid>
+		<pubDate>Tue, 03 Jul 2012 09:01:45 -0700</pubDate>
+		<title>
+			<![CDATA[Briee add a quote by Tina Fey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/413070-in-most-cases-being-a-good-boss-means-hiring-talented]]>
+		</link>
+		<description>
+	    <![CDATA["In most cases being a good boss means hiring talented people and then getting out of their way." -- Tina Fey]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

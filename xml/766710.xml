@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/766710-irene-morales]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/766710-irene-morales" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 11 Jan 2008 11:31:15 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/12475-if-you-cannot-be-a-poet-be-the-poem</guid>
+		<pubDate>Fri, 11 Jan 2008 11:31:15 -0800</pubDate>
+		<title>
+			<![CDATA[Irene add a quote by David Carradine]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12475-if-you-cannot-be-a-poet-be-the-poem]]>
+		</link>
+		<description>
+	    <![CDATA["If you cannot be a poet, be the poem." -- David Carradine]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/12476-there-are-two-types-of-people-those-who-come-into-a</guid>
+		<pubDate>Fri, 11 Jan 2008 11:32:38 -0800</pubDate>
+		<title>
+			<![CDATA[Irene add a quote by Frederick L. Collins]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12476-there-are-two-types-of-people-those-who-come-into-a]]>
+		</link>
+		<description>
+	    <![CDATA["There are two types of people-those who come into a room and say, &quot;Well, here I am!&quot; and those who come in and say, &quot;Ah, there you are." -- Frederick L. Collins]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/859253-nikla]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/859253-nikla" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 05 Mar 2008 14:06:37 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/31286-efficiency-is-doing-the-thing-right-effectiveness-is-doing-the</guid>
+		<pubDate>Wed, 05 Mar 2008 14:06:37 -0800</pubDate>
+		<title>
+			<![CDATA[Nikla add a quote by Peter F. Drucker]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/31286-efficiency-is-doing-the-thing-right-effectiveness-is-doing-the]]>
+		</link>
+		<description>
+	    <![CDATA["Efficiency is doing the thing right. Effectiveness is doing the right thing." -- Peter F. Drucker]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/73240-the-man-on-top-of-the-mountain-didn-t-fall-there</guid>
+		<pubDate>Tue, 15 Jul 2008 15:08:56 -0700</pubDate>
+		<title>
+			<![CDATA[Nikla add a quote by A Poster ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/73240-the-man-on-top-of-the-mountain-didn-t-fall-there]]>
+		</link>
+		<description>
+	    <![CDATA["The man on top of the mountain
+didn't fall there.
+
+" -- A Poster ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/26-on-matters-of-style-swim-with-the-current-on-matters</guid>
+		<pubDate>Fri, 04 Sep 2009 15:21:48 -0700</pubDate>
+		<title>
+			<![CDATA[Nikla add a quote by Thomas Jefferson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/26-on-matters-of-style-swim-with-the-current-on-matters]]>
+		</link>
+		<description>
+	    <![CDATA["On matters of style, swim with the current, on matters of principle, stand like a rock." -- Thomas Jefferson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

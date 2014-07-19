@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/226910-mr]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/226910-mr" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 15 Jul 2009 23:33:39 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/178310-i-clicked-the-gate-shut-and-slipped-down-the-alley</guid>
+		<pubDate>Wed, 15 Jul 2009 23:33:39 -0700</pubDate>
+		<title>
+			<![CDATA[Mr add a quote by Haruki Murakami]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/178310-i-clicked-the-gate-shut-and-slipped-down-the-alley]]>
+		</link>
+		<description>
+	    <![CDATA["I clicked the gate shut and slipped down the alley.  Through one fence after another, I caught glimpses of people in their dining rooms and living rooms, eating and watching TV dramas.  Food smells drifted into the alley through kitchen windows and exhaust fans.  One teenaged boy was practicing a fast passage on his electric guitar, with the volume turned down.  In a second floor window, a tiny girl was studying at her desk, an earnest expression on her face.  A married couple in a heated argument sent their voices out to the alley.  A baby was screaming.  A telephone rang.  Reality spilled out into the alley like water from an overfilled bowl - as sound, as smell, as image, as plea, as response." -- Haruki Murakami]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

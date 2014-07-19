@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/695922-cynthia-mcmahon]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/695922-cynthia-mcmahon" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 05 Mar 2008 15:54:27 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/31335-we-human-beings-are-social-beings-we-come-into-the</guid>
+		<pubDate>Wed, 05 Mar 2008 15:54:27 -0800</pubDate>
+		<title>
+			<![CDATA[Cynthia add a quote by Dalai Lama XIV]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/31335-we-human-beings-are-social-beings-we-come-into-the]]>
+		</link>
+		<description>
+	    <![CDATA["We human beings are social beings.  We come into the world as the result of others’ actions.  We survive here in dependence on others.  Whether we like it or not, there is hardly a moment of our lives when we do not benefit from others’ activities.  For this reason, it is hardly surprising that most of our happiness arises in the context of our relationships with others." -- Dalai Lama XIV]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

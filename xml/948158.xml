@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/948158-rebekah]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/948158-rebekah" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 12 Nov 2012 20:07:52 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/160720-i-have-to-be-alone-very-often-i-d-be-quite</guid>
+		<pubDate>Mon, 12 Nov 2012 20:07:52 -0800</pubDate>
+		<title>
+			<![CDATA[Rebekah add a quote by Audrey Hepburn]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/160720-i-have-to-be-alone-very-often-i-d-be-quite]]>
+		</link>
+		<description>
+	    <![CDATA["I have to be alone very often.  I'd be quite happy if I spent from Saturday night until Monday morning alone in my apartment.  That's how I refuel.&quot;
+
+(&lt;i&gt;Audrey Hepburn: Many-Sided Charmer&lt;/i&gt;, LIFE Magazine, December 7, 1953)" -- Audrey Hepburn]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/384067-if-you-want-to-build-a-ship-don-t-drum-up</guid>
+		<pubDate>Mon, 17 Mar 2014 17:55:44 -0700</pubDate>
+		<title>
+			<![CDATA[Rebekah add a quote by Antoine de Saint-Exupéry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/384067-if-you-want-to-build-a-ship-don-t-drum-up]]>
+		</link>
+		<description>
+	    <![CDATA["If you want to build a ship, don’t drum up the men to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea." -- Antoine de Saint-Exupéry]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

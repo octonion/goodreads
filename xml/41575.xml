@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/41575-robin-rountree]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/41575-robin-rountree" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 08 May 2008 07:15:52 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/47545-the-thing-that-is-really-hard-and-really-amazing-is</guid>
+		<pubDate>Thu, 08 May 2008 07:15:52 -0700</pubDate>
+		<title>
+			<![CDATA[Robin add a quote by Anna Quindlen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/47545-the-thing-that-is-really-hard-and-really-amazing-is]]>
+		</link>
+		<description>
+	    <![CDATA["The thing that is really hard, and really amazing, is giving up on being perfect and beginning the work of becoming yourself." -- Anna Quindlen]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/130647-reading-good-books-ruins-you-for-enjoying-bad-ones</guid>
+		<pubDate>Thu, 09 Apr 2009 03:43:04 -0700</pubDate>
+		<title>
+			<![CDATA[Robin add a quote by The Guernsey Literary and Potato Peel Pie Society]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/130647-reading-good-books-ruins-you-for-enjoying-bad-ones]]>
+		</link>
+		<description>
+	    <![CDATA["Reading good books ruins you for enjoying bad ones" -- The Guernsey Literary and Potato Peel Pie Society]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1269914-optimistic-science-worshipping-culture-wants-to-medicalize-aging-and-make-it</guid>
+		<pubDate>Tue, 01 Jul 2014 16:55:26 -0700</pubDate>
+		<title>
+			<![CDATA[Robin add a quote by Katy Butler]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1269914-optimistic-science-worshipping-culture-wants-to-medicalize-aging-and-make-it]]>
+		</link>
+		<description>
+	    <![CDATA["optimistic, science-worshipping culture wants to medicalize aging and make it nothing more than a collection of specific diseases that medicine can prevent or fix, one item at a time. But no matter what deal we make with the devil, nature outwits us. Dying can be postponed, but aging cannot be cured." -- Katy Butler]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

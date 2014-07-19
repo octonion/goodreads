@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/893191-goose]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/893191-goose" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 24 Feb 2008 15:28:06 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/14504-it-is-clear-that-the-books-owned-the-shop-rather</guid>
+		<pubDate>Sun, 24 Feb 2008 15:28:06 -0800</pubDate>
+		<title>
+			<![CDATA[Goose add a quote by Agatha Christie]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14504-it-is-clear-that-the-books-owned-the-shop-rather]]>
+		</link>
+		<description>
+	    <![CDATA["It is clear that the books owned the shop rather than the other way about.  Everywhere they had run wild and taken possession of their habitat, breeding and multiplying, and clearly lacking any strong hand to keep them down." -- Agatha Christie]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

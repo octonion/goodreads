@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/537857-taua]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/537857-taua" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 15 Dec 2007 00:00:32 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5502-the-more-one-pleases-generally-the-less-one-pleases-profoundly</guid>
+		<pubDate>Sat, 15 Dec 2007 00:00:32 -0800</pubDate>
+		<title>
+			<![CDATA[Taua add a quote by Krister Stendahl]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5502-the-more-one-pleases-generally-the-less-one-pleases-profoundly]]>
+		</link>
+		<description>
+	    <![CDATA["The more one pleases generally, the less one pleases profoundly." -- Krister Stendahl]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5503-look-at-every-path-closely-and-deliberately-then-ask-ourselves</guid>
+		<pubDate>Sat, 15 Dec 2007 00:02:50 -0800</pubDate>
+		<title>
+			<![CDATA[Taua add a quote by Carlos Casteneda]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5503-look-at-every-path-closely-and-deliberately-then-ask-ourselves]]>
+		</link>
+		<description>
+	    <![CDATA["Look at every path closely and deliberately, then ask ourselves this crucial question: Does this path have a heart?  If it does, then the path is good.  If it doesn't then it is of no use to us." -- Carlos Casteneda]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

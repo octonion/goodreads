@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/956291-carolyn]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/956291-carolyn" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 24 May 2008 06:35:23 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/21535-the-journey-of-a-thousand-miles-begins-with-a-single</guid>
+		<pubDate>Sat, 24 May 2008 06:35:23 -0700</pubDate>
+		<title>
+			<![CDATA[Carolyn add a quote by Lao Tzu]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21535-the-journey-of-a-thousand-miles-begins-with-a-single]]>
+		</link>
+		<description>
+	    <![CDATA["The journey of a thousand miles begins with a single step." -- Lao Tzu]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/57138-i-am-a-firm-believer-that-the-lord-sometimes-has</guid>
+		<pubDate>Sat, 24 May 2008 06:37:05 -0700</pubDate>
+		<title>
+			<![CDATA[Carolyn add a quote by Tony Dungy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/57138-i-am-a-firm-believer-that-the-lord-sometimes-has]]>
+		</link>
+		<description>
+	    <![CDATA["I am a firm believer that the Lord sometimes has to short-circuit even our best plans for our benefit." -- Tony Dungy]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/57139-no-excuses-no-explanations</guid>
+		<pubDate>Sat, 24 May 2008 06:38:02 -0700</pubDate>
+		<title>
+			<![CDATA[Carolyn add a quote by Tony Dungy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/57139-no-excuses-no-explanations]]>
+		</link>
+		<description>
+	    <![CDATA["No excuses.  No explanations." -- Tony Dungy]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

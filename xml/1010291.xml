@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1010291-carlos-cumpian]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1010291-carlos-cumpian" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 22 Mar 2008 09:19:57 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/37265-no-statue-of-liberty-ever-greeted-our-arrival-in-this</guid>
+		<pubDate>Sat, 22 Mar 2008 09:19:57 -0700</pubDate>
+		<title>
+			<![CDATA[Carlos add a quote by Luis Valdez]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/37265-no-statue-of-liberty-ever-greeted-our-arrival-in-this]]>
+		</link>
+		<description>
+	    <![CDATA["No Statue of Liberty ever greeted our arrival in this country...we did not, in fact, come to the United States at all. The United States came to us." -- Luis Valdez]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/37276-a-man-who-knows-how-little-he-knows-is-well</guid>
+		<pubDate>Sat, 22 Mar 2008 09:43:55 -0700</pubDate>
+		<title>
+			<![CDATA[Carlos add a quote by Lao Tzu]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/37276-a-man-who-knows-how-little-he-knows-is-well]]>
+		</link>
+		<description>
+	    <![CDATA["A man who knows how little he knows is well, a man who knows how much he knows is sick. If, when you see the symptoms, you can tell, Your cure is quick.
+A sound man knows that sickness makes him sick and before he catches it his cure is quick." -- Lao Tzu]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/764-a-room-without-books-is-like-a-body-without-a</guid>
+		<pubDate>Sat, 22 Mar 2008 09:47:06 -0700</pubDate>
+		<title>
+			<![CDATA[Carlos add a quote by Marcus Tullius Cicero]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/764-a-room-without-books-is-like-a-body-without-a]]>
+		</link>
+		<description>
+	    <![CDATA["A room without books is like a body without a soul." -- Marcus Tullius Cicero]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

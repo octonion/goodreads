@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/927839-adam]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/927839-adam" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 20 Feb 2008 18:52:10 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/26735-you-can-t-depend-on-your-eyes-when-your-imagination-is</guid>
+		<pubDate>Wed, 20 Feb 2008 18:52:10 -0800</pubDate>
+		<title>
+			<![CDATA[Adam add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/26735-you-can-t-depend-on-your-eyes-when-your-imagination-is]]>
+		</link>
+		<description>
+	    <![CDATA["You can't depend on your eyes when your imagination is out of focus." -- Mark Twain]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4985-faith-not-wanting-to-know-what-the-truth-is</guid>
+		<pubDate>Wed, 20 Feb 2008 18:57:50 -0800</pubDate>
+		<title>
+			<![CDATA[Adam add a quote by Friedrich Nietzsche]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4985-faith-not-wanting-to-know-what-the-truth-is]]>
+		</link>
+		<description>
+	    <![CDATA["Faith: not wanting to know what the truth is." -- Friedrich Nietzsche]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/17434-the-invisible-and-the-non-existent-look-very-much-alike</guid>
+		<pubDate>Wed, 20 Feb 2008 19:02:22 -0800</pubDate>
+		<title>
+			<![CDATA[Adam add a quote by Delos Banning McKown]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17434-the-invisible-and-the-non-existent-look-very-much-alike]]>
+		</link>
+		<description>
+	    <![CDATA["The invisible and the non-existent look very much alike." -- Delos Banning McKown]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

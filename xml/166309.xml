@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/166309-jeff-newberry]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/166309-jeff-newberry" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 12 May 2014 13:58:33 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/63704-all-artists-work-is-autobiographical-any-writer-s</guid>
+		<pubDate>Mon, 12 May 2014 13:58:33 -0700</pubDate>
+		<title>
+			<![CDATA[Jeff add a quote by Kim Addonizio]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/63704-all-artists-work-is-autobiographical-any-writer-s]]>
+		</link>
+		<description>
+	    <![CDATA[". . . All artists’ work is autobiographical. Any writer’s work is a map of their psyche. You can really see what their concerns are, what their obsessions are, and what interests them." -- Kim Addonizio]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1257217-there-is-time-and-then-there-is-timelessness-and-if</guid>
+		<pubDate>Sat, 21 Jun 2014 06:14:07 -0700</pubDate>
+		<title>
+			<![CDATA[Jeff add a quote by Wendell Berry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1257217-there-is-time-and-then-there-is-timelessness-and-if]]>
+		</link>
+		<description>
+	    <![CDATA["There is time, and then there is timelessness. And if you're lucky, and if you can be still enough, observant enough, you may be able to know and speak about that intersection of time and timelessness, or time and eternity." -- Wendell Berry]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

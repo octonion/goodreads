@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/967652-kaitlin-grott]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/967652-kaitlin-grott" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Mar 2008 23:36:08 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/33960-is-it-hard-not-if-you-have-the-right-attitudes</guid>
+		<pubDate>Tue, 11 Mar 2008 23:36:08 -0700</pubDate>
+		<title>
+			<![CDATA[Kaitlin add a quote by Robert M. Pirsig]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/33960-is-it-hard-not-if-you-have-the-right-attitudes]]>
+		</link>
+		<description>
+	    <![CDATA["Is it hard?'
+Not if you have the right attitudes.  Its having the right attitudes thats hard." -- Robert M. Pirsig]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

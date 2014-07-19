@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/333580-budi]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/333580-budi" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 09 Mar 2008 19:12:27 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/987-there-are-only-two-ways-to-live-your-life-one</guid>
+		<pubDate>Sun, 09 Mar 2008 19:12:27 -0700</pubDate>
+		<title>
+			<![CDATA[Budi add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/987-there-are-only-two-ways-to-live-your-life-one]]>
+		</link>
+		<description>
+	    <![CDATA["There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle." -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/236-let-us-read-and-let-us-dance-these-two-amusements</guid>
+		<pubDate>Sun, 09 Mar 2008 19:12:58 -0700</pubDate>
+		<title>
+			<![CDATA[Budi add a quote by Voltaire]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/236-let-us-read-and-let-us-dance-these-two-amusements]]>
+		</link>
+		<description>
+	    <![CDATA["Let us read, and let us dance; these two amusements will never do any harm to the world." -- Voltaire]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

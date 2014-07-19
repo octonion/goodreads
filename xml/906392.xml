@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/906392-tracy-stewart]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/906392-tracy-stewart" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 23 Apr 2008 15:17:07 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4974-you-will-do-foolish-things-but-do-them-with-enthusiasm</guid>
+		<pubDate>Wed, 23 Apr 2008 15:17:07 -0700</pubDate>
+		<title>
+			<![CDATA[Tracy add a quote by Colette]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4974-you-will-do-foolish-things-but-do-them-with-enthusiasm]]>
+		</link>
+		<description>
+	    <![CDATA["You will do foolish things, but do them with enthusiasm." -- Colette]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5304-diplomacy-is-the-art-of-saying-nice-doggie-until-you</guid>
+		<pubDate>Wed, 23 Apr 2008 15:19:27 -0700</pubDate>
+		<title>
+			<![CDATA[Tracy add a quote by Will Rogers]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5304-diplomacy-is-the-art-of-saying-nice-doggie-until-you]]>
+		</link>
+		<description>
+	    <![CDATA["Diplomacy is the art of saying ‘nice doggie’ until you can find a rock." -- Will Rogers]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

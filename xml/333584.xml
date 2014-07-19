@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/333584-shanda]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/333584-shanda" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 23 Apr 2008 08:20:25 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/47545-the-thing-that-is-really-hard-and-really-amazing-is</guid>
+		<pubDate>Wed, 23 Apr 2008 08:20:25 -0700</pubDate>
+		<title>
+			<![CDATA[Shanda add a quote by Anna Quindlen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/47545-the-thing-that-is-really-hard-and-really-amazing-is]]>
+		</link>
+		<description>
+	    <![CDATA["The thing that is really hard, and really amazing, is giving up on being perfect and beginning the work of becoming yourself." -- Anna Quindlen]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/47546-you-are-in-a-partnership-with-all-other-human-beings</guid>
+		<pubDate>Wed, 23 Apr 2008 08:22:51 -0700</pubDate>
+		<title>
+			<![CDATA[Shanda add a quote by Dr. Wayne Dyer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/47546-you-are-in-a-partnership-with-all-other-human-beings]]>
+		</link>
+		<description>
+	    <![CDATA["You are in a partnership with all other human beings, not a contest to be judged better than some and worse than others." -- Dr. Wayne Dyer]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/39982-people-are-always-blaming-their-circumstances-for-what-they-are</guid>
+		<pubDate>Wed, 23 Apr 2008 08:27:26 -0700</pubDate>
+		<title>
+			<![CDATA[Shanda add a quote by George Bernard Shaw]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/39982-people-are-always-blaming-their-circumstances-for-what-they-are]]>
+		</link>
+		<description>
+	    <![CDATA["People are always blaming their circumstances for what they are. I don't believe in circumstances. The people who get on in this world are the people who get up and look for the circumstances they want, and if they can't find them, make them." -- George Bernard Shaw]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

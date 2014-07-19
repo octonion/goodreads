@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/780256-michael-mcmahon]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/780256-michael-mcmahon" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 27 Feb 2008 14:42:23 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/29007-every-day-think-as-you-wake-up-today-i-am</guid>
+		<pubDate>Wed, 27 Feb 2008 14:42:23 -0800</pubDate>
+		<title>
+			<![CDATA[Michael add a quote by The Dalai Lama]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/29007-every-day-think-as-you-wake-up-today-i-am]]>
+		</link>
+		<description>
+	    <![CDATA["Every day, think as you wake up, today I am fortunate to be alive, I have a precious human life, I am not going to waste it. I am going to use all my energies to develop myself, to expand my heart out to others; to achieve enlightenment for the benefit of all beings. I am going to have kind thoughts towards others, I am not going to get angry or think badly about others. I am going to benefit others as much as I can." -- The Dalai Lama]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

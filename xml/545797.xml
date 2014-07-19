@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/545797-carl-jackson]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/545797-carl-jackson" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 19 Feb 2014 20:23:08 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/119766-i-have-been-mortal-and-some-part-of-me-is</guid>
+		<pubDate>Wed, 19 Feb 2014 20:23:08 -0800</pubDate>
+		<title>
+			<![CDATA[Carl add a quote by Peter S. Beagle]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/119766-i-have-been-mortal-and-some-part-of-me-is]]>
+		</link>
+		<description>
+	    <![CDATA["I have been mortal, and some part of me is mortal yet. I am full of tears and hunger and the fear of death, although I cannot weep, and I want nothing, and I cannot die. I am not like the others now, for no unicorn was ever born who could regret, but I do. I regret." -- Peter S. Beagle]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

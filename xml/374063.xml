@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/374063-art]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/374063-art" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 27 Jan 2009 23:58:54 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/16811-the-multitude-of-books-is-making-us-ignorant</guid>
+		<pubDate>Tue, 27 Jan 2009 23:58:54 -0800</pubDate>
+		<title>
+			<![CDATA[Art add a quote by Voltaire Foundation]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16811-the-multitude-of-books-is-making-us-ignorant]]>
+		</link>
+		<description>
+	    <![CDATA["The multitude of books is making us ignorant. 
+" -- Voltaire Foundation]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/38019-reading-after-a-certain-age-diverts-the-mind-too-much</guid>
+		<pubDate>Wed, 28 Jan 2009 00:04:28 -0800</pubDate>
+		<title>
+			<![CDATA[Art add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/38019-reading-after-a-certain-age-diverts-the-mind-too-much]]>
+		</link>
+		<description>
+	    <![CDATA["Reading, after a certain age, diverts the mind too much from its creative pursuits. Any man who reads too much and uses his own brain too little falls into lazy habits of thinking." -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/407-from-the-moment-i-picked-your-book-up-until-i</guid>
+		<pubDate>Fri, 14 Aug 2009 21:06:42 -0700</pubDate>
+		<title>
+			<![CDATA[Art add a quote by Groucho Marx]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/407-from-the-moment-i-picked-your-book-up-until-i]]>
+		</link>
+		<description>
+	    <![CDATA["From the moment I picked your book up until I laid it down, I convulsed with laughter. Someday I intend on reading it." -- Groucho Marx]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/893660-nele]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/893660-nele" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 17 Oct 2012 16:56:32 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/21017-love-is-an-engraved-invitation-to-grief</guid>
+		<pubDate>Wed, 17 Oct 2012 16:56:32 -0700</pubDate>
+		<title>
+			<![CDATA[Nele add a quote by Sunshine O'Donnell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21017-love-is-an-engraved-invitation-to-grief]]>
+		</link>
+		<description>
+	    <![CDATA["Love is an engraved invitation to grief." -- Sunshine O'Donnell]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/294902-i-have-lived-with-you-and-loved-you-and-now</guid>
+		<pubDate>Wed, 17 Oct 2012 16:58:49 -0700</pubDate>
+		<title>
+			<![CDATA[Nele add a quote by Victoria Hanley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/294902-i-have-lived-with-you-and-loved-you-and-now]]>
+		</link>
+		<description>
+	    <![CDATA["I have lived with you and loved you, and now you are gone.  Gone where I cannot follow, until I have finished all of my days." -- Victoria Hanley]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

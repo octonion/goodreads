@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/271109-fran]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/271109-fran" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 09 Apr 2013 15:57:01 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/360-good-friends-good-books-and-a-sleepy-conscience-this-is</guid>
+		<pubDate>Tue, 09 Apr 2013 15:57:01 -0700</pubDate>
+		<title>
+			<![CDATA[Fran add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/360-good-friends-good-books-and-a-sleepy-conscience-this-is]]>
+		</link>
+		<description>
+	    <![CDATA["Good friends, good books, and a sleepy conscience: this is the ideal life." -- Mark Twain]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/702629-autonomy-n-i-want-my-books-to-have-their-own</guid>
+		<pubDate>Tue, 16 Apr 2013 21:02:21 -0700</pubDate>
+		<title>
+			<![CDATA[Fran add a quote by David Levithan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/702629-autonomy-n-i-want-my-books-to-have-their-own]]>
+		</link>
+		<description>
+	    <![CDATA["&lt;b&gt;autonomy&lt;/b&gt;, &lt;i&gt;n&lt;/i&gt;.
+
+&quot;I want my books to have their own shelves&quot;, you said, and that's how I knew it would be okay to live together." -- David Levithan]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

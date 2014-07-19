@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/702147-kim]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/702147-kim" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 26 Feb 2008 10:18:21 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/7075-every-child-is-an-artist-the-problem-is-how-to</guid>
+		<pubDate>Tue, 26 Feb 2008 10:18:21 -0800</pubDate>
+		<title>
+			<![CDATA[Kim add a quote by Pablo Picasso]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7075-every-child-is-an-artist-the-problem-is-how-to]]>
+		</link>
+		<description>
+	    <![CDATA["Every child is an artist. The problem is how to remain an artist once he grows up." -- Pablo Picasso]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/9298-when-one-door-is-closed-don-t-you-know-that-many</guid>
+		<pubDate>Tue, 26 Feb 2008 10:24:13 -0800</pubDate>
+		<title>
+			<![CDATA[Kim add a quote by Bob Marley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9298-when-one-door-is-closed-don-t-you-know-that-many]]>
+		</link>
+		<description>
+	    <![CDATA["When one door is closed, don't you know that many more are open" -- Bob Marley]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

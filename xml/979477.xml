@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/979477-dennis-lid]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/979477-dennis-lid" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 02 Jun 2008 20:35:09 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/59974-for-where-thy-treasure-is-there-also-will-thy-heart</guid>
+		<pubDate>Mon, 02 Jun 2008 20:35:09 -0700</pubDate>
+		<title>
+			<![CDATA[Dennis add a quote by Anonymous]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/59974-for-where-thy-treasure-is-there-also-will-thy-heart]]>
+		</link>
+		<description>
+	    <![CDATA["For where thy treasure is, there also will thy heart be." -- Anonymous]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

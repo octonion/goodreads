@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/587197-jennifer]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/587197-jennifer" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 26 Apr 2014 21:26:27 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1189634-where-wisdom-reigns-there-is-no-conflict-between-thinking-and</guid>
+		<pubDate>Sat, 26 Apr 2014 21:26:27 -0700</pubDate>
+		<title>
+			<![CDATA[Jennifer add a quote by Carl Jung]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1189634-where-wisdom-reigns-there-is-no-conflict-between-thinking-and]]>
+		</link>
+		<description>
+	    <![CDATA["Where wisdom reigns, there is no conflict between thinking and feeling." -- Carl Jung]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/246305-confront-the-dark-parts-of-yourself-and-work-to-banish</guid>
+		<pubDate>Wed, 07 May 2014 20:59:48 -0700</pubDate>
+		<title>
+			<![CDATA[Jennifer add a quote by August Wilson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/246305-confront-the-dark-parts-of-yourself-and-work-to-banish]]>
+		</link>
+		<description>
+	    <![CDATA["Confront the dark parts of yourself, and work to banish them with illumination and forgiveness. Your willingness to wrestle with your demons will cause your angels to sing." -- August Wilson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

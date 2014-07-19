@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/871871-alan-wilson]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/871871-alan-wilson" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 02 Dec 2008 15:15:01 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5686-if-more-of-us-valued-food-and-cheer-and-song</guid>
+		<pubDate>Tue, 02 Dec 2008 15:15:01 -0800</pubDate>
+		<title>
+			<![CDATA[Alan add a quote by J.R.R. Tolkien]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5686-if-more-of-us-valued-food-and-cheer-and-song]]>
+		</link>
+		<description>
+	    <![CDATA["If more of us valued food  and cheer and song above hoarded gold, it would be a merrier world." -- J.R.R. Tolkien]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/17500-good-books-are-as-friends-willing-to-give-to-us</guid>
+		<pubDate>Tue, 02 Dec 2008 15:15:32 -0800</pubDate>
+		<title>
+			<![CDATA[Alan add a quote by Gordon B. Hinckley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17500-good-books-are-as-friends-willing-to-give-to-us]]>
+		</link>
+		<description>
+	    <![CDATA["Good books are as friends, willing to give to us if we are willing to make a little effort." -- Gordon B. Hinckley]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

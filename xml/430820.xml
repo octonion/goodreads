@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/430820-hoda-hm]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/430820-hoda-hm" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Dec 2007 03:13:30 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2776</guid>
+		<pubDate>Sun, 02 Dec 2007 03:13:30 -0800</pubDate>
+		<title>
+			<![CDATA[Hoda add a quote by جیمز فین گارنر]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2776]]>
+		</link>
+		<description>
+	    <![CDATA["دیگر کم کم کاسه ی صبرگرگ از این که خوک ها نمی توانند دنیا را از چشم یک گوشت خوار ببینند لبریز می شد.." -- جیمز فین گارنر]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2777</guid>
+		<pubDate>Sun, 02 Dec 2007 03:18:13 -0800</pubDate>
+		<title>
+			<![CDATA[Hoda add a quote by داستا یوفسکی_ابله]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2777]]>
+		</link>
+		<description>
+	    <![CDATA["گاهی دلش می خواست از آنجا دور شود و خود را جایی گم و گور کند...حتی از بیغوله ی تاریک و غمکده اش بدش نمی آمد به شرط این که بتواند با افکار خود تنها باشد و کسی نداند او کجاست..." -- داستا یوفسکی_ابله]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

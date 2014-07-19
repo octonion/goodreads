@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/304835-peter]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/304835-peter" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 12 Oct 2008 13:22:37 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/101330-our-opponent-is-an-alien-starship-packed-with-atomic-bombs</guid>
+		<pubDate>Sun, 12 Oct 2008 13:22:37 -0700</pubDate>
+		<title>
+			<![CDATA[Peter add a quote by Neal Stephenson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/101330-our-opponent-is-an-alien-starship-packed-with-atomic-bombs]]>
+		</link>
+		<description>
+	    <![CDATA["Our opponent is an alien starship packed with atomic bombs,&quot; I said. &quot;We have a protractor." -- Neal Stephenson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/106072-jad-said-the-leakage-was-forcing-choices-the-making-of</guid>
+		<pubDate>Tue, 14 Oct 2008 11:41:39 -0700</pubDate>
+		<title>
+			<![CDATA[Peter add a quote by Neal Stephenson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/106072-jad-said-the-leakage-was-forcing-choices-the-making-of]]>
+		</link>
+		<description>
+	    <![CDATA["Jad said, &quot;The leakage was forcing choices, the making of which in no way improved matters.&quot;
+
+Okay. So we were, in effect, locked in a room with a madman sorcerer. That clarified things a little." -- Neal Stephenson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

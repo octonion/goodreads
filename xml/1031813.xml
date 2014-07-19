@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1031813-shawn-ruth]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1031813-shawn-ruth" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 31 Dec 2011 15:11:09 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/45451-isn-t-it-nice-to-think-that-tomorrow-is-a-new</guid>
+		<pubDate>Sat, 31 Dec 2011 15:11:09 -0800</pubDate>
+		<title>
+			<![CDATA[Shawn add a quote by L.M. Montgomery]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/45451-isn-t-it-nice-to-think-that-tomorrow-is-a-new]]>
+		</link>
+		<description>
+	    <![CDATA["Isn't it nice to think that tomorrow is a new day with no mistakes in it yet?" -- L.M. Montgomery]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/37223-tyger-tyger-burning-bright-in-the-forests-of-the-night</guid>
+		<pubDate>Thu, 28 Nov 2013 21:45:56 -0800</pubDate>
+		<title>
+			<![CDATA[Shawn add a quote by William Blake]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/37223-tyger-tyger-burning-bright-in-the-forests-of-the-night]]>
+		</link>
+		<description>
+	    <![CDATA["Tyger! Tyger! burning bright 
+In the forests of the night, 
+What immortal hand or eye 
+Could frame thy fearful symmetry?" -- William Blake]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

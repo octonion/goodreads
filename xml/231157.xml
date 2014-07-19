@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/231157-christina]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/231157-christina" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 01 Mar 2013 15:08:53 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/14913-making-the-decision-to-have-a-child---it-is</guid>
+		<pubDate>Fri, 01 Mar 2013 15:08:53 -0800</pubDate>
+		<title>
+			<![CDATA[Christina add a quote by Elizabeth Stone]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14913-making-the-decision-to-have-a-child---it-is]]>
+		</link>
+		<description>
+	    <![CDATA["Making the decision to have a child - it is momentous. It is to decide forever to have your heart go walking around outside your body. " -- Elizabeth Stone]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/174690-those-who-don-t-believe-in-magic-will-never-find-it</guid>
+		<pubDate>Tue, 21 May 2013 09:25:00 -0700</pubDate>
+		<title>
+			<![CDATA[Christina add a quote by Roald Dahl]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/174690-those-who-don-t-believe-in-magic-will-never-find-it]]>
+		</link>
+		<description>
+	    <![CDATA["Those who don't believe in magic will never find it." -- Roald Dahl]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

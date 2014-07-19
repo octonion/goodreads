@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/913663-nate]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/913663-nate" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 14 May 2013 21:15:31 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/228958-between-every-two-pines-is-a-doorway-to-a-new</guid>
+		<pubDate>Tue, 14 May 2013 21:15:31 -0700</pubDate>
+		<title>
+			<![CDATA[Nate add a quote by John Muir]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/228958-between-every-two-pines-is-a-doorway-to-a-new]]>
+		</link>
+		<description>
+	    <![CDATA["Between every two pines is a doorway to a new world." -- John Muir]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/375020-another-glorious-day-the-air-as-delicious-to-the-lungs</guid>
+		<pubDate>Tue, 14 May 2013 21:16:46 -0700</pubDate>
+		<title>
+			<![CDATA[Nate add a quote by John Muir]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/375020-another-glorious-day-the-air-as-delicious-to-the-lungs]]>
+		</link>
+		<description>
+	    <![CDATA["Another glorious day, the air as delicious to the lungs as nectar to the tongue." -- John Muir]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

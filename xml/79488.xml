@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/79488-laura-wetsel]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/79488-laura-wetsel" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 21 Apr 2014 11:42:54 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/39009-read-read-read-read-everything----trash-classics-good-and</guid>
+		<pubDate>Mon, 21 Apr 2014 11:42:54 -0700</pubDate>
+		<title>
+			<![CDATA[Laura add a quote by William Faulkner]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/39009-read-read-read-read-everything----trash-classics-good-and]]>
+		</link>
+		<description>
+	    <![CDATA["Read, read, read. Read everything -- trash, classics, good and bad, and see how they do it. Just like a carpenter who works as an apprentice and studies the master. Read! You'll absorb it.
+Then write. If it's good, you'll find out. If it's not, throw it out of the window." -- William Faulkner]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/189370-from-a-certain-point-onward-there-is-no-longer-any</guid>
+		<pubDate>Fri, 25 Apr 2014 08:34:14 -0700</pubDate>
+		<title>
+			<![CDATA[Laura add a quote by Franz Kafka]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/189370-from-a-certain-point-onward-there-is-no-longer-any]]>
+		</link>
+		<description>
+	    <![CDATA["From a certain point onward there is no longer any turning back. That is the point that must be reached." -- Franz Kafka]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

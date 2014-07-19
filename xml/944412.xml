@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/944412-patrico-suave]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/944412-patrico-suave" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 26 Feb 2008 08:52:05 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2209-the-question-isn-t-who-is-going-to-let-me-it-s</guid>
+		<pubDate>Tue, 26 Feb 2008 08:52:05 -0800</pubDate>
+		<title>
+			<![CDATA[Patrico add a quote by Ayn Rand]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2209-the-question-isn-t-who-is-going-to-let-me-it-s]]>
+		</link>
+		<description>
+	    <![CDATA["The question isn't who is going to let me; it's who is going to stop me." -- Ayn Rand]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/35465-only-the-guy-who-isn-t-rowing-has-time-to-rock</guid>
+		<pubDate>Wed, 20 Aug 2008 00:41:55 -0700</pubDate>
+		<title>
+			<![CDATA[Patrico add a quote by Jean-Paul Sartre]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/35465-only-the-guy-who-isn-t-rowing-has-time-to-rock]]>
+		</link>
+		<description>
+	    <![CDATA["Only the guy who isn't rowing has time to rock the boat." -- Jean-Paul Sartre]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/83970-people-ask-why-is-there-poverty-in-the-world-it-s</guid>
+		<pubDate>Wed, 20 Aug 2008 00:44:51 -0700</pubDate>
+		<title>
+			<![CDATA[Patrico add a quote by Jonah Goldberg]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/83970-people-ask-why-is-there-poverty-in-the-world-it-s]]>
+		</link>
+		<description>
+	    <![CDATA["People ask, “Why is there poverty in the world?” It’s a silly question. Poverty is the default human condition. It is the factory preset of this mortal coil." -- Jonah Goldberg]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

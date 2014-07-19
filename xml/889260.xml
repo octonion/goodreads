@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/889260-jessica]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/889260-jessica" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 11 Feb 2008 09:07:29 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/23885-our-civilization-rests-on-a-faulty-premise-that-the-world</guid>
+		<pubDate>Mon, 11 Feb 2008 09:07:29 -0800</pubDate>
+		<title>
+			<![CDATA[Jessica add a quote by Richard Grossinger]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/23885-our-civilization-rests-on-a-faulty-premise-that-the-world]]>
+		</link>
+		<description>
+	    <![CDATA["Our civilization rests on a faulty premise, that the world is physical and mechanical, energy and matter only. We do not pay for it in our bridges, we pay for it in the quality of our lives. &quot; 
+" -- Richard Grossinger]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

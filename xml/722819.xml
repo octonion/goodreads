@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/722819-christopher-dumm]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/722819-christopher-dumm" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 28 Dec 2007 19:12:32 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2634-give-a-man-a-fire-and-he-s-warm-for-a</guid>
+		<pubDate>Fri, 28 Dec 2007 19:12:32 -0800</pubDate>
+		<title>
+			<![CDATA[Christopher.dumm add a quote by Terry Pratchett]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2634-give-a-man-a-fire-and-he-s-warm-for-a]]>
+		</link>
+		<description>
+	    <![CDATA["Give a man a fire and he's warm for a day, but set fire to him and he's warm for the rest of his life." -- Terry Pratchett]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2627-the-trouble-with-having-an-open-mind-of-course-is</guid>
+		<pubDate>Fri, 28 Dec 2007 19:12:34 -0800</pubDate>
+		<title>
+			<![CDATA[Christopher.dumm add a quote by Terry Pratchett]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2627-the-trouble-with-having-an-open-mind-of-course-is]]>
+		</link>
+		<description>
+	    <![CDATA["The trouble with having an open mind, of course, is that people will insist on coming along and trying to put things in it." -- Terry Pratchett]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2400-some-humans-would-do-anything-to-see-if-it-was</guid>
+		<pubDate>Fri, 28 Dec 2007 19:12:50 -0800</pubDate>
+		<title>
+			<![CDATA[Christopher.dumm add a quote by Terry Pratchett]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2400-some-humans-would-do-anything-to-see-if-it-was]]>
+		</link>
+		<description>
+	    <![CDATA["Some humans would do anything to see if it was possible to do it. If you put a large switch in some cave somewhere, with a sign on it saying 'End-of-the-World Switch. PLEASE DO NOT TOUCH', the paint wouldn't even have time to dry." -- Terry Pratchett]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

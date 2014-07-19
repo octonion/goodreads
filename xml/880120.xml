@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/880120-eric]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/880120-eric" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 24 Apr 2012 14:03:57 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/439292-it-is-the-privilege-of-the-rich-to-waste-the</guid>
+		<pubDate>Tue, 24 Apr 2012 14:03:57 -0700</pubDate>
+		<title>
+			<![CDATA[Eric add a quote by Stevie Smith]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/439292-it-is-the-privilege-of-the-rich-to-waste-the]]>
+		</link>
+		<description>
+	    <![CDATA["It is the privilege of the rich
+To waste the time of the poor
+To water with tears in secret
+A tree that grows in secret
+That bears fruit in secret
+That ripened falls to the ground in secret
+And manures the parent tree
+Oh the wicked tree of hatred and the secret
+The sap rising and the tears falling." -- Stevie Smith]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

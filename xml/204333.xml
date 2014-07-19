@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/204333-joanna]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/204333-joanna" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 07 Jan 2008 08:34:05 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/11094-in-a-wonderland-they-lie-dreaming-as-the-days-go</guid>
+		<pubDate>Mon, 07 Jan 2008 08:34:05 -0800</pubDate>
+		<title>
+			<![CDATA[Joanna add a quote by Lewis Carroll]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11094-in-a-wonderland-they-lie-dreaming-as-the-days-go]]>
+		</link>
+		<description>
+	    <![CDATA["In a Wonderland they lie, Dreaming as the days go by, Dreaming as the summers die: 
+Ever drifting down the stream- Lingering in the golden gleam- Life, what is it but a dream?" -- Lewis Carroll]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1044279-melissa]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1044279-melissa" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 21 Oct 2008 09:19:03 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/80279-don-t-be-afraid-of-death-be-afraid-of-an-unlived</guid>
+		<pubDate>Tue, 21 Oct 2008 09:19:03 -0700</pubDate>
+		<title>
+			<![CDATA[Melissa add a quote by Natalie Babbitt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/80279-don-t-be-afraid-of-death-be-afraid-of-an-unlived]]>
+		</link>
+		<description>
+	    <![CDATA["Don't be afraid of death; be afraid of an unlived life. You don't have to live forever, you just have to live." -- Natalie Babbitt]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/12415-it-is-our-choices-harry-that-show-what-we-truly</guid>
+		<pubDate>Wed, 24 Dec 2008 11:05:04 -0800</pubDate>
+		<title>
+			<![CDATA[Melissa add a quote by J.K. Rowling]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12415-it-is-our-choices-harry-that-show-what-we-truly]]>
+		</link>
+		<description>
+	    <![CDATA["It is our choices, Harry, that show what we truly are, far more than our abilities." -- J.K. Rowling]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/251283-kindred-spirits-are-not-so-scarce-as-i-used-to</guid>
+		<pubDate>Sat, 30 Nov 2013 09:30:18 -0800</pubDate>
+		<title>
+			<![CDATA[Melissa add a quote by L.M. Montgomery]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/251283-kindred-spirits-are-not-so-scarce-as-i-used-to]]>
+		</link>
+		<description>
+	    <![CDATA["Kindred spirits are not so scarce as I used to think.  It's splendid to find out there are so many of them in the world." -- L.M. Montgomery]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

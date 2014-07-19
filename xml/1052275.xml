@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1052275-eilfie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1052275-eilfie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 10 Dec 2012 00:39:20 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/19884-be-yourself-everyone-else-is-already-taken</guid>
+		<pubDate>Mon, 10 Dec 2012 00:39:20 -0800</pubDate>
+		<title>
+			<![CDATA[Eilfie add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/19884-be-yourself-everyone-else-is-already-taken]]>
+		</link>
+		<description>
+	    <![CDATA["Be yourself; everyone else is already taken." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/766029-ghosts-don-t-haunt-us-that-s-not-how-it-works-they-re</guid>
+		<pubDate>Wed, 24 Apr 2013 04:39:56 -0700</pubDate>
+		<title>
+			<![CDATA[Eilfie add a quote by Sue Grafton]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/766029-ghosts-don-t-haunt-us-that-s-not-how-it-works-they-re]]>
+		</link>
+		<description>
+	    <![CDATA["Ghosts don't haunt us. That's not how it works. They're present among us because we won't let go of them." -- Sue Grafton]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

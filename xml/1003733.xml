@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1003733-ashley]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1003733-ashley" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 24 Sep 2008 16:14:58 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/229-all-that-is-gold-does-not-glitter-not-all-those</guid>
+		<pubDate>Wed, 24 Sep 2008 16:14:58 -0700</pubDate>
+		<title>
+			<![CDATA[Ashley add a quote by J.R.R. Tolkien]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/229-all-that-is-gold-does-not-glitter-not-all-those]]>
+		</link>
+		<description>
+	    <![CDATA["All that is gold does not glitter,
+Not all those who wander are lost;
+The old that is strong does not wither,
+Deep roots are not reached by the frost.
+
+From the ashes a fire shall be woken,
+A light from the shadows shall spring;
+Renewed shall be blade that was broken,
+The crownless again shall be king." -- J.R.R. Tolkien]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4093-the-most-beautiful-experience-we-can-have-is-the-mysterious</guid>
+		<pubDate>Thu, 04 Sep 2008 05:47:47 -0700</pubDate>
+		<title>
+			<![CDATA[Ashley add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4093-the-most-beautiful-experience-we-can-have-is-the-mysterious]]>
+		</link>
+		<description>
+	    <![CDATA["The most beautiful experience we can have is the mysterious - the fundamental emotion which stands at the cradle of true art and true science." -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/36207-whoever-loves-much-performs-much-and-can-accomplish-much-and</guid>
+		<pubDate>Wed, 19 Mar 2008 01:13:02 -0700</pubDate>
+		<title>
+			<![CDATA[Ashley add a quote by Vincent Van Gogh]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/36207-whoever-loves-much-performs-much-and-can-accomplish-much-and]]>
+		</link>
+		<description>
+	    <![CDATA["Whoever loves much, performs much, and can accomplish much, and what is done in love is done well." -- Vincent Van Gogh]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

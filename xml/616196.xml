@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/616196-nicol-s-boullosa]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/616196-nicol-s-boullosa" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 25 Sep 2012 12:44:05 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/294381-it-starts-with-this-put-your-desk-in-the-corner</guid>
+		<pubDate>Tue, 25 Sep 2012 12:44:05 -0700</pubDate>
+		<title>
+			<![CDATA[Nicolás add a quote by Stephen King]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/294381-it-starts-with-this-put-your-desk-in-the-corner]]>
+		</link>
+		<description>
+	    <![CDATA["It starts with this: put your desk in the corner, and every time you sit down there to write, remind yourself why it isn't in the middle of the room. Life isn't a support system for art. It's the other way around." -- Stephen King]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/76633-you-say-i-am-not-free-but-i-have-raised</guid>
+		<pubDate>Thu, 20 Mar 2014 07:40:49 -0700</pubDate>
+		<title>
+			<![CDATA[Nicolás add a quote by Leo Tolstoy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/76633-you-say-i-am-not-free-but-i-have-raised]]>
+		</link>
+		<description>
+	    <![CDATA["You say: I am not free. But I have raised and lowered my arm. Everyone understands that this illogical answer is an irrefutable proof of freedom." -- Leo Tolstoy]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/76615-there-will-be-today-there-will-be-tomorrow-there-will</guid>
+		<pubDate>Thu, 20 Mar 2014 07:41:07 -0700</pubDate>
+		<title>
+			<![CDATA[Nicolás add a quote by Leo Tolstoy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/76615-there-will-be-today-there-will-be-tomorrow-there-will]]>
+		</link>
+		<description>
+	    <![CDATA["There will be today, there will be tomorrow, there will be always, and there was yesterday, and there was the day before..." -- Leo Tolstoy]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

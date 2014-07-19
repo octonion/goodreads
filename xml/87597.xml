@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/87597-christina]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/87597-christina" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 08 Jun 2012 12:42:12 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/111508-the-answer-is-good-things-only-happen-to-you-if</guid>
+		<pubDate>Fri, 08 Jun 2012 12:42:12 -0700</pubDate>
+		<title>
+			<![CDATA[Christina add a quote by Truman Capote]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/111508-the-answer-is-good-things-only-happen-to-you-if]]>
+		</link>
+		<description>
+	    <![CDATA["The answer is good things only happen to you if you're good. Good? Honest is more what I mean... Be anything but a coward, a pretender, an emotional crook, a whore: I'd rather have cancer than a dishonest heart." -- Truman Capote]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2323-1492-as-children-we-were-taught-to-memorize-this-year</guid>
+		<pubDate>Fri, 08 Jun 2012 13:05:59 -0700</pubDate>
+		<title>
+			<![CDATA[Christina add a quote by Kurt Vonnegut]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2323-1492-as-children-we-were-taught-to-memorize-this-year]]>
+		</link>
+		<description>
+	    <![CDATA["1492. As children we were taught to memorize this year with pride and joy as the year people began living full and imaginative lives on the continent of North America. Actually, people had been living full and imaginative lives on the continent of North America for hundreds of years before that. 1492 was simply the year sea pirates began to rob, cheat, and kill them." -- Kurt Vonnegut]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

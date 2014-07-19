@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/688322-henry-mclaughlin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/688322-henry-mclaughlin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 27 Sep 2013 13:52:48 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/352-outside-of-a-dog-a-book-is-man-s-best-friend</guid>
+		<pubDate>Fri, 27 Sep 2013 13:52:48 -0700</pubDate>
+		<title>
+			<![CDATA[Henry add a quote by Groucho Marx]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/352-outside-of-a-dog-a-book-is-man-s-best-friend]]>
+		</link>
+		<description>
+	    <![CDATA["Outside of a dog, a book is man's best friend. Inside of a dog it's too dark to read." -- Groucho Marx]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3309-you-can-t-wait-for-inspiration-you-have-to-go-after</guid>
+		<pubDate>Fri, 27 Sep 2013 13:54:44 -0700</pubDate>
+		<title>
+			<![CDATA[Henry add a quote by Jack London]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3309-you-can-t-wait-for-inspiration-you-have-to-go-after]]>
+		</link>
+		<description>
+	    <![CDATA["You can't wait for inspiration. You have to go after it with a club." -- Jack London]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/9940-the-best-index-to-a-person-s-character-is-how-he</guid>
+		<pubDate>Fri, 10 Jan 2014 09:40:34 -0800</pubDate>
+		<title>
+			<![CDATA[Henry add a quote by Abigail Van Buren]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9940-the-best-index-to-a-person-s-character-is-how-he]]>
+		</link>
+		<description>
+	    <![CDATA["The best index to a person's character is how he treats people who can't do him any good, and how he treats people who can't fight back." -- Abigail Van Buren]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/61217-it-is-impossible-to-live-without-failing-at-something-unless</guid>
+		<pubDate>Wed, 28 May 2014 13:46:43 -0700</pubDate>
+		<title>
+			<![CDATA[Henry add a quote by J.K. Rowling]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/61217-it-is-impossible-to-live-without-failing-at-something-unless]]>
+		</link>
+		<description>
+	    <![CDATA["It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all - in which case, you fail by default." -- J.K. Rowling]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

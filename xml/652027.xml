@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/652027-emma]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/652027-emma" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 09 Apr 2008 16:13:17 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/29026-sing-me-no-songs-tell-me-no-tales-cry-me</guid>
+		<pubDate>Wed, 09 Apr 2008 16:13:17 -0700</pubDate>
+		<title>
+			<![CDATA[Emma add a quote by Danielle Steel]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/29026-sing-me-no-songs-tell-me-no-tales-cry-me]]>
+		</link>
+		<description>
+	    <![CDATA["Sing Me no songs tell me no tales cry me no tears, but remember me kindly." -- Danielle Steel]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/227035-aditya-arie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/227035-aditya-arie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 13 Jan 2009 13:07:52 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/79967-orang-jawa-itu-juga-manusia-pembaca</guid>
+		<pubDate>Tue, 13 Jan 2009 13:07:52 -0800</pubDate>
+		<title>
+			<![CDATA[Aditya Arie add a quote by Multatuli (Eduard Douwes Dekker)]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/79967-orang-jawa-itu-juga-manusia-pembaca]]>
+		</link>
+		<description>
+	    <![CDATA["orang Jawa itu juga manusia, pembaca!" -- Multatuli (Eduard Douwes Dekker)]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/9131-if-you-tell-the-truth-you-don-t-have-to-remember</guid>
+		<pubDate>Fri, 23 Jan 2009 18:24:19 -0800</pubDate>
+		<title>
+			<![CDATA[Aditya Arie add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9131-if-you-tell-the-truth-you-don-t-have-to-remember]]>
+		</link>
+		<description>
+	    <![CDATA["If you tell the truth, you don't have to remember anything." -- Mark Twain]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/811717-max-tuula]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/811717-max-tuula" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 15 Jun 2009 18:16:51 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/170161---</guid>
+		<pubDate>Mon, 15 Jun 2009 18:16:51 -0700</pubDate>
+		<title>
+			<![CDATA[Max add a quote by Venedikt Erofeev]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/170161---]]>
+		</link>
+		<description>
+	    <![CDATA["Да разве ж я как поебанный! Просто -- немотствуют уста..." -- Venedikt Erofeev]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/170163</guid>
+		<pubDate>Mon, 15 Jun 2009 18:21:19 -0700</pubDate>
+		<title>
+			<![CDATA[Max add a quote by Venedikt Erofeev]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/170163]]>
+		</link>
+		<description>
+	    <![CDATA["Свобода так и остается призраком на этом континенте скорби" -- Venedikt Erofeev]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/170164</guid>
+		<pubDate>Mon, 15 Jun 2009 18:25:47 -0700</pubDate>
+		<title>
+			<![CDATA[Max add a quote by Venedikt Erofeev]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/170164]]>
+		</link>
+		<description>
+	    <![CDATA["Мне как феномену присущ самовозрастающий Логос." -- Venedikt Erofeev]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

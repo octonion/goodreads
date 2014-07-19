@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/982289-gordon]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/982289-gordon" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 29 Jan 2012 01:23:39 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/16383-don-t-tell-me-the-moon-is-shining-show-me-the</guid>
+		<pubDate>Sun, 29 Jan 2012 01:23:39 -0800</pubDate>
+		<title>
+			<![CDATA[Gordon add a quote by Anton Chekhov]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16383-don-t-tell-me-the-moon-is-shining-show-me-the]]>
+		</link>
+		<description>
+	    <![CDATA["Don't tell me the moon is shining; show me the glint of light on broken glass." -- Anton Chekhov]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

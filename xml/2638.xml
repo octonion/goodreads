@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/2638-alex]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/2638-alex" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 27 Jan 2010 23:52:16 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/47349-el-hombre-es-civilizado-en-la-medida-que-comprende-a</guid>
+		<pubDate>Wed, 27 Jan 2010 23:52:16 -0800</pubDate>
+		<title>
+			<![CDATA[Alex add a quote by George Bernard Shaw]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/47349-el-hombre-es-civilizado-en-la-medida-que-comprende-a]]>
+		</link>
+		<description>
+	    <![CDATA["El hombre es civilizado en la medida que comprende a un gato." -- George Bernard Shaw]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/886373-it-s-a-strange-courage-you-give-me-ancient-star-shine</guid>
+		<pubDate>Tue, 17 Sep 2013 20:43:10 -0700</pubDate>
+		<title>
+			<![CDATA[Alex add a quote by William Carlos Williams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/886373-it-s-a-strange-courage-you-give-me-ancient-star-shine]]>
+		</link>
+		<description>
+	    <![CDATA["It's a strange courage
+you give me ancient star:
+Shine alone in the sunrise
+toward which you lend no part!" -- William Carlos Williams]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

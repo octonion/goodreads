@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/25077-kate-mackinnon]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/25077-kate-mackinnon" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 09 Aug 2009 07:42:55 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/184261-read-the-directions-and-directly-you-will-be-directed-in</guid>
+		<pubDate>Sun, 09 Aug 2009 07:42:55 -0700</pubDate>
+		<title>
+			<![CDATA[Kate add a quote by Lewis Carroll]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/184261-read-the-directions-and-directly-you-will-be-directed-in]]>
+		</link>
+		<description>
+	    <![CDATA["Read the directions and directly you will be directed in the right direction." -- Lewis Carroll]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/778-it-is-not-a-lack-of-love-but-a-lack</guid>
+		<pubDate>Mon, 14 Feb 2011 16:15:41 -0800</pubDate>
+		<title>
+			<![CDATA[Kate add a quote by Friedrich Nietzsche]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/778-it-is-not-a-lack-of-love-but-a-lack]]>
+		</link>
+		<description>
+	    <![CDATA["It is not a lack of love, but a lack of friendship that makes unhappy marriages." -- Friedrich Nietzsche]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3356-i-like-nonsense-it-wakes-up-the-brain-cells-fantasy</guid>
+		<pubDate>Wed, 13 Jul 2011 16:50:11 -0700</pubDate>
+		<title>
+			<![CDATA[Kate add a quote by Dr. Seuss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3356-i-like-nonsense-it-wakes-up-the-brain-cells-fantasy]]>
+		</link>
+		<description>
+	    <![CDATA["I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living." -- Dr. Seuss]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/160302-paloma]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/160302-paloma" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 19 Jul 2009 21:03:27 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/179180-my-sisters-and-i-cannot-spend-any-substantial-time-searching</guid>
+		<pubDate>Sun, 19 Jul 2009 21:03:27 -0700</pubDate>
+		<title>
+			<![CDATA[Paloma add a quote by Seth Grahame-Smith]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/179180-my-sisters-and-i-cannot-spend-any-substantial-time-searching]]>
+		</link>
+		<description>
+	    <![CDATA["My sisters and I cannot spend any substantial time searching for Wickham, as we are each commanded by His Majesty to defend Hertfordshire from all enemies until such time as we are dead, rendered lame, or married." -- Seth Grahame-Smith]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/895499-if-you-think-of-doing-something-in-new-york-city</guid>
+		<pubDate>Mon, 16 Sep 2013 22:42:54 -0700</pubDate>
+		<title>
+			<![CDATA[Paloma add a quote by E.L. Konigsburg]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/895499-if-you-think-of-doing-something-in-new-york-city]]>
+		</link>
+		<description>
+	    <![CDATA["If you think of doing something in New York City, you can be certain that at least two thousand other people have the same thought. And of the two thousand who do, about one thousand will be standing in line waiting to do it." -- E.L. Konigsburg]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

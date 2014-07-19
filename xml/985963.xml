@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/985963-beth]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/985963-beth" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 12 Mar 2008 07:18:34 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4703-the-aim-of-life-is-to-live-and-to-live</guid>
+		<pubDate>Wed, 12 Mar 2008 07:18:34 -0700</pubDate>
+		<title>
+			<![CDATA[Beth add a quote by Henry Miller]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4703-the-aim-of-life-is-to-live-and-to-live]]>
+		</link>
+		<description>
+	    <![CDATA["The aim of life is to live, and to live means to be aware, joyously, drunkenly, serenely, divinely aware." -- Henry Miller]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/33989-always-be-on-the-lookout-for-the-presence-of-wonder</guid>
+		<pubDate>Wed, 12 Mar 2008 07:19:42 -0700</pubDate>
+		<title>
+			<![CDATA[Beth add a quote by E.B. White]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/33989-always-be-on-the-lookout-for-the-presence-of-wonder]]>
+		</link>
+		<description>
+	    <![CDATA["Always be on the lookout for the presence of wonder." -- E.B. White]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/55800-just-as-food-is-necessary-to-the-life-of</guid>
+		<pubDate>Tue, 20 May 2008 19:32:01 -0700</pubDate>
+		<title>
+			<![CDATA[Beth add a quote by Pope John XXIII]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/55800-just-as-food-is-necessary-to-the-life-of]]>
+		</link>
+		<description>
+	    <![CDATA["... just as food is necessary to the life of the body, so good reading is necessary to the life of the soul." -- Pope John XXIII]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

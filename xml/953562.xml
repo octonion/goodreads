@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/953562-andrew]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/953562-andrew" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 08 Mar 2008 13:03:41 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/16559-bee-why-are-you-staring-at-me-i-am-not</guid>
+		<pubDate>Sat, 08 Mar 2008 13:03:41 -0800</pubDate>
+		<title>
+			<![CDATA[Andrew add a quote by Jack Kerouac]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16559-bee-why-are-you-staring-at-me-i-am-not]]>
+		</link>
+		<description>
+	    <![CDATA["Bee, why are you staring at me?  I am not a flower??" -- Jack Kerouac]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/865-be-who-you-are-and-say-what-you-feel-because</guid>
+		<pubDate>Mon, 24 Mar 2008 19:09:38 -0700</pubDate>
+		<title>
+			<![CDATA[Andrew add a quote by Bernard M. Baruch]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/865-be-who-you-are-and-say-what-you-feel-because]]>
+		</link>
+		<description>
+	    <![CDATA["Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind." -- Bernard M. Baruch]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/943-darkness-cannot-drive-out-darkness-only-light-can-do-that</guid>
+		<pubDate>Mon, 24 Mar 2008 19:10:50 -0700</pubDate>
+		<title>
+			<![CDATA[Andrew add a quote by Martin Luther King Jr.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/943-darkness-cannot-drive-out-darkness-only-light-can-do-that]]>
+		</link>
+		<description>
+	    <![CDATA["Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that." -- Martin Luther King Jr.]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/76-a-lie-can-travel-half-way-around-the-world-while</guid>
+		<pubDate>Mon, 24 Mar 2008 19:13:05 -0700</pubDate>
+		<title>
+			<![CDATA[Andrew add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/76-a-lie-can-travel-half-way-around-the-world-while]]>
+		</link>
+		<description>
+	    <![CDATA["A lie can travel half way around the world while the truth is putting on its shoes." -- Mark Twain]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

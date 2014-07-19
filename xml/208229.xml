@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/208229-josh]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/208229-josh" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 03 May 2011 05:55:52 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/180933-and-if-there-were-a-devil-it-would-not-be</guid>
+		<pubDate>Tue, 03 May 2011 05:55:52 -0700</pubDate>
+		<title>
+			<![CDATA[Josh add a quote by Martin Buber]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/180933-and-if-there-were-a-devil-it-would-not-be]]>
+		</link>
+		<description>
+	    <![CDATA["And if there were a devil it would not be one who decided against God, but one who, in eternity, came to no decision. " -- Martin Buber]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/178156-all-real-living-is-meeting</guid>
+		<pubDate>Tue, 03 May 2011 05:56:09 -0700</pubDate>
+		<title>
+			<![CDATA[Josh add a quote by Martin Buber]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/178156-all-real-living-is-meeting]]>
+		</link>
+		<description>
+	    <![CDATA["All real living is meeting." -- Martin Buber]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/83160-the-real-struggle-is-not-between-east-and-west-or</guid>
+		<pubDate>Tue, 03 May 2011 05:56:25 -0700</pubDate>
+		<title>
+			<![CDATA[Josh add a quote by Martin Buber]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/83160-the-real-struggle-is-not-between-east-and-west-or]]>
+		</link>
+		<description>
+	    <![CDATA["The real struggle is not between East and West, or capitalism and communism, but between education and propaganda." -- Martin Buber]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

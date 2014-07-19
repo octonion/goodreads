@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/592053-mohsen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/592053-mohsen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 17 Apr 2010 09:21:38 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/250324</guid>
+		<pubDate>Sat, 17 Apr 2010 09:21:38 -0700</pubDate>
+		<title>
+			<![CDATA[Mohsen add a quote by محمود دولت آبادی]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/250324]]>
+		</link>
+		<description>
+	    <![CDATA["... و من او را می‌دیدم در اتاق کاه‌گلی خانه‌ی برادرزاده‌ام که امانی است، و دوری را حس می‌کردم و ناچاری استخوان‌هایم را می‌خورد و فکر می‌کردم –یک لحظه فکر کردم- نکند زندگی این‌قدرها که من بهش اهمیت می‌دهم، اهمیت نداشته باشد! و جوابم این بود که چه فرقی می‌کند طرح این سوال؟ چون وقتی یک آدم دچار خلق و خوی خودش می‌شود حد و حدود ارزش‌ها و اهمیت‌ها هم در ذهن و در نظر او، حدود ویژه‌ای دارند که تاثیرات‌شان روی عواطفش امری نیست که به اراده‌ی او باشد...." -- محمود دولت آبادی]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/837406-katie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/837406-katie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 01 Sep 2011 14:17:38 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/40088-perfectionism-is-the-voice-of-the-oppressor-the-enemy-of</guid>
+		<pubDate>Thu, 01 Sep 2011 14:17:38 -0700</pubDate>
+		<title>
+			<![CDATA[katie add a quote by Anne Lamott]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/40088-perfectionism-is-the-voice-of-the-oppressor-the-enemy-of]]>
+		</link>
+		<description>
+	    <![CDATA["Perfectionism is the voice of the oppressor, the enemy of the people. It will keep you cramped and insane your whole life, and it is the main obstacle between you and a shitty first draft. I think perfectionism is based on the obsessive belief that if you run carefully enough, hitting each stepping-stone just right, you won't have to die. The truth is that you will die anyway and that a lot of people who aren't even looking at their feet are going to do a whole lot better than you, and have a lot more fun while they're doing it." -- Anne Lamott]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/512845-to-write-as-if-your-life-depended-on-it-to</guid>
+		<pubDate>Wed, 28 Mar 2012 15:14:04 -0700</pubDate>
+		<title>
+			<![CDATA[katie add a quote by Adrienne Rich]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/512845-to-write-as-if-your-life-depended-on-it-to]]>
+		</link>
+		<description>
+	    <![CDATA["To write as if your life depended on it; to write across the chalkboard, putting up there in public the words you have dredged; sieved up in dreams, from behind screen memories, out of silence-- words you have dreaded and needed in order to know you exist." -- Adrienne Rich]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/292640-shawn]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/292640-shawn" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 03 Jul 2013 03:03:22 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/71388-the-moon-and-sun-are-travelers-through-eternity-even-the</guid>
+		<pubDate>Wed, 03 Jul 2013 03:03:22 -0700</pubDate>
+		<title>
+			<![CDATA[Shawn add a quote by Basho]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/71388-the-moon-and-sun-are-travelers-through-eternity-even-the]]>
+		</link>
+		<description>
+	    <![CDATA["The moon and sun are travelers through eternity. Even the years wander on. Whether drifting through life on a boat or climbing toward old age leading a horse, each day is a journey, and the journey itself is home." -- Basho]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/14964-resentment-is-like-drinking-poison-and-waiting-for-the-other</guid>
+		<pubDate>Sat, 13 Jul 2013 10:59:31 -0700</pubDate>
+		<title>
+			<![CDATA[Shawn add a quote by Carrie Fisher]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14964-resentment-is-like-drinking-poison-and-waiting-for-the-other]]>
+		</link>
+		<description>
+	    <![CDATA["Resentment is like drinking poison and waiting for the other person to die. " -- Carrie Fisher]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

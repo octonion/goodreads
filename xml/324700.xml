@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/324700-ann]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/324700-ann" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 21 Jun 2011 06:25:33 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/398677-the-actor-playing-lee-got-really-irritated-he-tried-to</guid>
+		<pubDate>Tue, 21 Jun 2011 06:25:33 -0700</pubDate>
+		<title>
+			<![CDATA[Ann add a quote by Pete Earley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/398677-the-actor-playing-lee-got-really-irritated-he-tried-to]]>
+		</link>
+		<description>
+	    <![CDATA["The actor playing Lee got really irritated.  He tried to escape by turning, running, or twisting and talking or yelling above the voice of the illness, but the illness didn't sit quietly." -- Pete Earley]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

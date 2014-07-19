@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/737397-ann]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/737397-ann" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 30 Oct 2013 01:08:04 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2838-a-writer-is-someone-for-whom-writing-is-more-difficult</guid>
+		<pubDate>Wed, 30 Oct 2013 01:08:04 -0700</pubDate>
+		<title>
+			<![CDATA[Ann add a quote by Thomas Mann]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2838-a-writer-is-someone-for-whom-writing-is-more-difficult]]>
+		</link>
+		<description>
+	    <![CDATA["A writer is someone for whom writing is more difficult than it is for other people." -- Thomas Mann]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1102149-you-can-t-imagine-how-stupid-the-whole-world-has-grown</guid>
+		<pubDate>Wed, 05 Mar 2014 08:50:38 -0800</pubDate>
+		<title>
+			<![CDATA[Ann add a quote by Gogol]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1102149-you-can-t-imagine-how-stupid-the-whole-world-has-grown]]>
+		</link>
+		<description>
+	    <![CDATA["You can't imagine how stupid the whole world has grown nowadays. The things these scribblers write! ” 
+― Nikolai Gogol, Dead Souls" -- Gogol]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

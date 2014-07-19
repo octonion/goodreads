@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/251100-jess]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/251100-jess" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 08 Feb 2014 03:19:35 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/83730-personal-affection-is-a-luxury-you-can-have-only-after</guid>
+		<pubDate>Sat, 08 Feb 2014 03:19:35 -0800</pubDate>
+		<title>
+			<![CDATA[Jess add a quote by Orson Scott Card]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/83730-personal-affection-is-a-luxury-you-can-have-only-after]]>
+		</link>
+		<description>
+	    <![CDATA["Personal affection is a luxury you can have only after all your enemies are eliminated. Until then, everyone you love is a hostage, sapping your courage and corrupting your judgment." -- Orson Scott Card]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/504893-it-was-sort-of-the-pattern-to-my-life--</guid>
+		<pubDate>Sat, 08 Feb 2014 03:20:49 -0800</pubDate>
+		<title>
+			<![CDATA[Jess add a quote by Stephenie Meyer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/504893-it-was-sort-of-the-pattern-to-my-life--]]>
+		</link>
+		<description>
+	    <![CDATA["It was sort of the pattern to my life - I'd never been strong enough to deal with the things outside my control, to attack the enemies or outrun them. To avoid the pain. Always human and weak, the only thing I'd ever been able to do was keep going. Endure. Survive." -- Stephenie Meyer]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

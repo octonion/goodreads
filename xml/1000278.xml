@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1000278-heather]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1000278-heather" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 22 Mar 2009 05:49:56 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/8594-around-here-however-we-don-t-look-backwards-for-very-long</guid>
+		<pubDate>Sun, 22 Mar 2009 05:49:56 -0700</pubDate>
+		<title>
+			<![CDATA[Heather add a quote by Walt Disney Company]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8594-around-here-however-we-don-t-look-backwards-for-very-long]]>
+		</link>
+		<description>
+	    <![CDATA["Around here, however, we don't look backwards for very long. We keep moving forward, opening up new doors and doing new things, because we're curious...and curiosity keeps leading us down new paths." -- Walt Disney Company]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

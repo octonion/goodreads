@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/283686-wanda-kamarga]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/283686-wanda-kamarga" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 04 Jan 2008 08:22:18 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/9986-it-s-all-in-the-mind</guid>
+		<pubDate>Fri, 04 Jan 2008 08:22:18 -0800</pubDate>
+		<title>
+			<![CDATA[Wanda add a quote by George Harrison]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9986-it-s-all-in-the-mind]]>
+		</link>
+		<description>
+	    <![CDATA["It's all in the mind." -- George Harrison]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6193-the-world-is-a-book-and-those-who-do-not</guid>
+		<pubDate>Fri, 04 Jan 2008 08:40:56 -0800</pubDate>
+		<title>
+			<![CDATA[Wanda add a quote by St. Augustine]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6193-the-world-is-a-book-and-those-who-do-not]]>
+		</link>
+		<description>
+	    <![CDATA["The world is a book and those who do not travel read only one page." -- St. Augustine]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/13570-love-between-the-ugly-is-the-most-beautiful-love-of</guid>
+		<pubDate>Tue, 15 Jan 2008 07:04:15 -0800</pubDate>
+		<title>
+			<![CDATA[Wanda add a quote by Todd Rundgren]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13570-love-between-the-ugly-is-the-most-beautiful-love-of]]>
+		</link>
+		<description>
+	    <![CDATA["Love between the ugly, is the most beautiful love of all" -- Todd Rundgren]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1419-two-things-fill-the-mind-with-ever-new-and-increasing</guid>
+		<pubDate>Thu, 17 Jan 2008 01:54:20 -0800</pubDate>
+		<title>
+			<![CDATA[Wanda add a quote by Immanuel Kant]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1419-two-things-fill-the-mind-with-ever-new-and-increasing]]>
+		</link>
+		<description>
+	    <![CDATA["Two things fill the mind with ever new and increasing admiration and awe, the oftener and more steadily we reflect on them: the starry heavens above and the moral law within." -- Immanuel Kant]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/754017-donna]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/754017-donna" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 12 Sep 2011 03:31:48 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5169-what-really-knocks-me-out-is-a-book-that-when</guid>
+		<pubDate>Mon, 12 Sep 2011 03:31:48 -0700</pubDate>
+		<title>
+			<![CDATA[Donna add a quote by J.D. Salinger]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5169-what-really-knocks-me-out-is-a-book-that-when]]>
+		</link>
+		<description>
+	    <![CDATA["What really knocks me out is a book that, when you're all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it. That doesn't happen much, though." -- J.D. Salinger]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1006169-i-wasn-t-born-with-a-silver-spoon-in-my-mouth</guid>
+		<pubDate>Tue, 21 Jan 2014 07:34:00 -0800</pubDate>
+		<title>
+			<![CDATA[Donna add a quote by Heather Long]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1006169-i-wasn-t-born-with-a-silver-spoon-in-my-mouth]]>
+		</link>
+		<description>
+	    <![CDATA["I wasn’t born with a silver spoon in my mouth. Yeah, I’m lucky, I know exactly where I came from. I know what failure tastes like and every single thing I have I earned—by busting my ass." -- Heather Long]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/737782-purboyo]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/737782-purboyo" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 03 Jan 2008 08:45:15 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/7702-upon-your-feet-you-have-ten-toes-they-look-just</guid>
+		<pubDate>Thu, 03 Jan 2008 08:45:15 -0800</pubDate>
+		<title>
+			<![CDATA[Purboyo add a quote by Jeff Smith]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7702-upon-your-feet-you-have-ten-toes-they-look-just]]>
+		</link>
+		<description>
+	    <![CDATA["Upon your feet you have ten toes, they look just like PO-TA-TOES!" -- Jeff Smith]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/233-i-don-t-know-half-of-you-half-as-well-as</guid>
+		<pubDate>Thu, 03 Jan 2008 08:54:54 -0800</pubDate>
+		<title>
+			<![CDATA[Purboyo add a quote by J.R.R. Tolkien]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/233-i-don-t-know-half-of-you-half-as-well-as]]>
+		</link>
+		<description>
+	    <![CDATA["I don't know half of you half as well as I should like; and I like less than half of you half as well as you deserve." -- J.R.R. Tolkien]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/923253-danielle]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/923253-danielle" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 19 Feb 2008 23:56:45 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/26529-there-are-many-things-in-life-that-will-catch-your</guid>
+		<pubDate>Tue, 19 Feb 2008 23:56:45 -0800</pubDate>
+		<title>
+			<![CDATA[Danielle add a quote by Michael Nolan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/26529-there-are-many-things-in-life-that-will-catch-your]]>
+		</link>
+		<description>
+	    <![CDATA["There are many things in life that will catch your eye, but only a few will catch your heart. Pursue these." -- Michael Nolan]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/26530-all-of-history-is-moving-toward-one-great-goal-the</guid>
+		<pubDate>Wed, 20 Feb 2008 00:11:37 -0800</pubDate>
+		<title>
+			<![CDATA[Danielle add a quote by John Piper]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/26530-all-of-history-is-moving-toward-one-great-goal-the]]>
+		</link>
+		<description>
+	    <![CDATA["All of history is moving toward one great goal, the white-hot worship of God and His Son among all the peoples of the earth. Missions is not that goal. It is the means. And for that reason it is the second greatest human activity in the world." -- John Piper]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

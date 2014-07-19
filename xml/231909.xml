@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/231909-jacqueline]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/231909-jacqueline" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 31 Mar 2008 22:52:05 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/34048-in-their-behavior-toward-creatures-all-men-are-nazis-human</guid>
+		<pubDate>Mon, 31 Mar 2008 22:52:05 -0700</pubDate>
+		<title>
+			<![CDATA[Jacqueline add a quote by Isaac Bashevis Singer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/34048-in-their-behavior-toward-creatures-all-men-are-nazis-human]]>
+		</link>
+		<description>
+	    <![CDATA["In their behavior toward creatures, all men are Nazis. Human beings see oppression vividly when they're the victims. Otherwise they victimize blindly and without a thought." -- Isaac Bashevis Singer]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/343-non-violence-leads-to-the-highest-ethics-which-is-the-goal</guid>
+		<pubDate>Mon, 31 Mar 2008 22:53:43 -0700</pubDate>
+		<title>
+			<![CDATA[Jacqueline add a quote by Thomas A. Edison]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/343-non-violence-leads-to-the-highest-ethics-which-is-the-goal]]>
+		</link>
+		<description>
+	    <![CDATA["Non-violence leads to the highest ethics, which is the goal of all evolution. Until we stop harming all other living beings, we are still savages." -- Thomas A. Edison]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

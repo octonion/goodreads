@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/690269-paul]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/690269-paul" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 17 Dec 2007 23:43:45 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6093-really-high-minded-people-are-indifferent-to-happiness-especially-other-people-s</guid>
+		<pubDate>Mon, 17 Dec 2007 23:43:45 -0800</pubDate>
+		<title>
+			<![CDATA[Paul add a quote by Bertrand Russell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6093-really-high-minded-people-are-indifferent-to-happiness-especially-other-people-s]]>
+		</link>
+		<description>
+	    <![CDATA["Really high-minded people are indifferent to happiness, especially other people's." -- Bertrand Russell]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6094-thus-i-assume-that-to-each-according-to-his-threat</guid>
+		<pubDate>Mon, 17 Dec 2007 23:53:36 -0800</pubDate>
+		<title>
+			<![CDATA[Paul add a quote by John Rawls]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6094-thus-i-assume-that-to-each-according-to-his-threat]]>
+		</link>
+		<description>
+	    <![CDATA["Thus I assume that to each according to his threat advantage is not a conception of justice." -- John Rawls]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6097-the-long-run-is-a-misleading-guide-to-current-affairs</guid>
+		<pubDate>Mon, 17 Dec 2007 23:58:19 -0800</pubDate>
+		<title>
+			<![CDATA[Paul add a quote by John Maynard Keynes]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6097-the-long-run-is-a-misleading-guide-to-current-affairs]]>
+		</link>
+		<description>
+	    <![CDATA["The long run is a misleading guide to current affairs. In the long run we are all dead." -- John Maynard Keynes]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1396-isn-t-it-enough-to-see-that-a-garden-is-beautiful</guid>
+		<pubDate>Fri, 12 Dec 2008 20:42:10 -0800</pubDate>
+		<title>
+			<![CDATA[Paul add a quote by Douglas Adams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1396-isn-t-it-enough-to-see-that-a-garden-is-beautiful]]>
+		</link>
+		<description>
+	    <![CDATA["Isn't it enough to see that a garden is beautiful without having to believe that there are fairies at the bottom of it too?" -- Douglas Adams]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

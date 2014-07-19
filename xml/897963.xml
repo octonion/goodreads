@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/897963-sean]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/897963-sean" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 22 Nov 2008 12:44:34 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/870-a-patriot-must-always-be-ready-to-defend-his-country</guid>
+		<pubDate>Sat, 22 Nov 2008 12:44:34 -0800</pubDate>
+		<title>
+			<![CDATA[Sean add a quote by Edward Abbey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/870-a-patriot-must-always-be-ready-to-defend-his-country]]>
+		</link>
+		<description>
+	    <![CDATA["A patriot must always be ready to defend his country against his government." -- Edward Abbey]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/80191-you-have-to-die-a-few-times-before-you-can</guid>
+		<pubDate>Sat, 22 Nov 2008 12:55:22 -0800</pubDate>
+		<title>
+			<![CDATA[Sean add a quote by Charles Bukowski]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/80191-you-have-to-die-a-few-times-before-you-can]]>
+		</link>
+		<description>
+	    <![CDATA["You have to die a few times before you can really
+live." -- Charles Bukowski]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

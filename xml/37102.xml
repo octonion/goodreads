@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/37102-daniel]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/37102-daniel" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 Mar 2011 19:17:57 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/10364-men-will-always-be-mad-and-those-who-think-they</guid>
+		<pubDate>Tue, 01 Mar 2011 19:17:57 -0800</pubDate>
+		<title>
+			<![CDATA[Daniel add a quote by Voltaire]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10364-men-will-always-be-mad-and-those-who-think-they]]>
+		</link>
+		<description>
+	    <![CDATA["Men will always be mad, and those who think they can cure them are the maddest of all." -- Voltaire]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/28899-it-is-easier-to-build-strong-children-than-to-repair</guid>
+		<pubDate>Tue, 01 Mar 2011 19:18:39 -0800</pubDate>
+		<title>
+			<![CDATA[Daniel add a quote by Frederick Douglass]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/28899-it-is-easier-to-build-strong-children-than-to-repair]]>
+		</link>
+		<description>
+	    <![CDATA["It is easier to build strong children than to repair broken men." -- Frederick Douglass]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6806-the-more-that-you-read-the-more-things-you-will</guid>
+		<pubDate>Tue, 01 Mar 2011 19:19:05 -0800</pubDate>
+		<title>
+			<![CDATA[Daniel add a quote by Dr. Seuss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6806-the-more-that-you-read-the-more-things-you-will]]>
+		</link>
+		<description>
+	    <![CDATA["The more that you read, the more things you will know. The more that you learn, the more places you'll go." -- Dr. Seuss]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/725564-george]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/725564-george" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 09 Dec 2008 23:09:28 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/92297-you-must-know-nothing-before-you-can-learn-something-and</guid>
+		<pubDate>Tue, 09 Dec 2008 23:09:28 -0800</pubDate>
+		<title>
+			<![CDATA[George add a quote by Lloyd Alexander]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/92297-you-must-know-nothing-before-you-can-learn-something-and]]>
+		</link>
+		<description>
+	    <![CDATA["You must know nothing before you can learn something, and be empty before you can be filled.  Is not the emptiness of the bowl what makes it useful?  As for laws, a parrot can repeat them word for word.  Their spirit is something else again.  As for governing, one must first be lowest before being highest." -- Lloyd Alexander]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/10682-you-don-t-have-a-soul-doctor-you-are-a-soul</guid>
+		<pubDate>Tue, 09 Dec 2008 23:10:14 -0800</pubDate>
+		<title>
+			<![CDATA[George add a quote by Walter M. Miller Jr.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10682-you-don-t-have-a-soul-doctor-you-are-a-soul]]>
+		</link>
+		<description>
+	    <![CDATA["You don’t &lt;i&gt;have&lt;/i&gt; a soul, Doctor. You &lt;i&gt;are&lt;/i&gt; a soul. You &lt;i&gt;have&lt;/i&gt; a body, temporarily." -- Walter M. Miller Jr.]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/19967-of-all-tyrannies-a-tyranny-sincerely-exercised-for-the-good</guid>
+		<pubDate>Tue, 09 Dec 2008 23:13:30 -0800</pubDate>
+		<title>
+			<![CDATA[George add a quote by C. S. Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/19967-of-all-tyrannies-a-tyranny-sincerely-exercised-for-the-good]]>
+		</link>
+		<description>
+	    <![CDATA["Of all tyrannies, a tyranny sincerely exercised for the good of its victims may be the most oppressive. It would be better to live under robber barons than under omnipotent moral busybodies. The robber baron's cruelty may sometimes sleep, his cupidity may at some point be satiated; but those who torment us for our own good will torment us without end for they do so with the approval of their own conscience." -- C. S. Lewis]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

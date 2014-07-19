@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/305349-sarah]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/305349-sarah" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 04 Aug 2012 12:56:24 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/121478-i-really-didn-t-realize-the-librarians-were-you-know-such</guid>
+		<pubDate>Sat, 04 Aug 2012 12:56:24 -0700</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by Michael Moore]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/121478-i-really-didn-t-realize-the-librarians-were-you-know-such]]>
+		</link>
+		<description>
+	    <![CDATA["I really didn't realize the librarians were, you know, such a dangerous group. 
+They are subversive. You think they're just sitting there at the desk, all quiet and everything. They're like plotting the revolution, man. I wouldn't mess with them." -- Michael Moore]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/17242-never-apologize-for-your-reading-tastes</guid>
+		<pubDate>Sun, 22 Dec 2013 18:24:19 -0800</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by Betty Rosenberg]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17242-never-apologize-for-your-reading-tastes]]>
+		</link>
+		<description>
+	    <![CDATA["Never apologize for your reading tastes." -- Betty Rosenberg]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

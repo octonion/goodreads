@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/931941-j-simpson]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/931941-j-simpson" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 07 May 2014 23:09:27 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/497283-i-also-believe-that-introversion-is-my-greatest-strength-i</guid>
+		<pubDate>Wed, 07 May 2014 23:09:27 -0700</pubDate>
+		<title>
+			<![CDATA[J add a quote by Susan Cain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/497283-i-also-believe-that-introversion-is-my-greatest-strength-i]]>
+		</link>
+		<description>
+	    <![CDATA["...I also believe that introversion is my greatest strength. I have such a strong inner life that I’m never bored and only occasionally lonely. No matter what mayhem is happening around me, I know I can always turn inward." -- Susan Cain]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/445707-when-he-walks-he-sounds-like-a-tree-still-full</guid>
+		<pubDate>Wed, 07 May 2014 23:09:30 -0700</pubDate>
+		<title>
+			<![CDATA[J add a quote by Zachary Schomburg]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/445707-when-he-walks-he-sounds-like-a-tree-still-full]]>
+		</link>
+		<description>
+	    <![CDATA["...when he walks, he sounds like a tree still full of dead leaves holding on." -- Zachary Schomburg]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

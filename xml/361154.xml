@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/361154-bruno]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/361154-bruno" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 04 Jun 2011 10:31:04 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/391054-sorte-isto-merecer-e-ter</guid>
+		<pubDate>Sat, 04 Jun 2011 10:31:04 -0700</pubDate>
+		<title>
+			<![CDATA[Bruno add a quote by João Guimarães Rosa]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/391054-sorte-isto-merecer-e-ter]]>
+		</link>
+		<description>
+	    <![CDATA["Sorte é isto. Merecer e ter." -- João Guimarães Rosa]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/349258-como-j-dever-amos-saber-a-representa-o-mais-exacta-mais-precisa</guid>
+		<pubDate>Sun, 26 Jun 2011 22:10:40 -0700</pubDate>
+		<title>
+			<![CDATA[Bruno add a quote by José Saramago]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/349258-como-j-dever-amos-saber-a-representa-o-mais-exacta-mais-precisa]]>
+		</link>
+		<description>
+	    <![CDATA["Como já deveríamos saber, a representação mais exacta, mais precisa, da alma humana é o labirinto. Com ela tudo é possível." -- José Saramago]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

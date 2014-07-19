@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/991163-marty]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/991163-marty" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 14 Mar 2008 18:07:42 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/22566-what-s-meant-to-be-will-always-find-a-way</guid>
+		<pubDate>Fri, 14 Mar 2008 18:07:42 -0700</pubDate>
+		<title>
+			<![CDATA[Marty add a quote by Trisha Yearwood]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22566-what-s-meant-to-be-will-always-find-a-way]]>
+		</link>
+		<description>
+	    <![CDATA["What's meant to be will always find a way" -- Trisha Yearwood]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/25106-do-one-thing-every-day-that-scares-you</guid>
+		<pubDate>Fri, 14 Mar 2008 18:07:50 -0700</pubDate>
+		<title>
+			<![CDATA[Marty add a quote by Eleanor Roosevelt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/25106-do-one-thing-every-day-that-scares-you]]>
+		</link>
+		<description>
+	    <![CDATA["Do one thing every day that scares you." -- Eleanor Roosevelt]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

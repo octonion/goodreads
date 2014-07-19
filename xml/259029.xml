@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/259029-jan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/259029-jan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 04 May 2014 20:56:48 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/916972-i-want-to-be-around-people-that-do-things-i</guid>
+		<pubDate>Sun, 04 May 2014 20:56:48 -0700</pubDate>
+		<title>
+			<![CDATA[Jan add a quote by Amy Poehler]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/916972-i-want-to-be-around-people-that-do-things-i]]>
+		</link>
+		<description>
+	    <![CDATA["I want to be around people that do things. I don’t want to be around people anymore that judge or talk about what people do. I want to be around people that dream and support and do things." -- Amy Poehler]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

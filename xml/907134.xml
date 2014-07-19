@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/907134-victoria]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/907134-victoria" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 13 Feb 2008 21:15:11 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5927-there-is-a-tide-in-the-affairs-of-men-which</guid>
+		<pubDate>Wed, 13 Feb 2008 21:15:11 -0800</pubDate>
+		<title>
+			<![CDATA[Victoria add a quote by William Shakespeare]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5927-there-is-a-tide-in-the-affairs-of-men-which]]>
+		</link>
+		<description>
+	    <![CDATA["There is a tide in the affairs of men 
+which, taken at the floud, leads on to fortune 
+ommitted, all the voyage of their lives
+are bound in shallows and in miseries" -- William Shakespeare]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

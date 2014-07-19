@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/896646-julieta]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/896646-julieta" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 12 Jan 2009 06:34:58 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/129629-hay-algo-m-s-seductor-y-a-la-vez-m-s-doloroso</guid>
+		<pubDate>Mon, 12 Jan 2009 06:34:58 -0800</pubDate>
+		<title>
+			<![CDATA[julieta add a quote by Fyodor Dostoyevsky]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/129629-hay-algo-m-s-seductor-y-a-la-vez-m-s-doloroso]]>
+		</link>
+		<description>
+	    <![CDATA["¿Hay algo más seductor y a la vez más doloroso para el hombre que el libre albedrío?" -- Fyodor Dostoyevsky]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/156790-haber-nacido-me-ha-estropeado-la-salud</guid>
+		<pubDate>Thu, 23 Apr 2009 12:37:03 -0700</pubDate>
+		<title>
+			<![CDATA[julieta add a quote by Clarice Lispector]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/156790-haber-nacido-me-ha-estropeado-la-salud]]>
+		</link>
+		<description>
+	    <![CDATA["Haber nacido me ha estropeado la salud." -- Clarice Lispector]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

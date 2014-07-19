@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/180744-valerie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/180744-valerie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 07 Oct 2012 11:30:13 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/42590-i-will-not-have-my-life-narrowed-down-i-will</guid>
+		<pubDate>Sun, 07 Oct 2012 11:30:13 -0700</pubDate>
+		<title>
+			<![CDATA[Valerie add a quote by bell hooks]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/42590-i-will-not-have-my-life-narrowed-down-i-will]]>
+		</link>
+		<description>
+	    <![CDATA["I will not have my life narrowed down. I will not bow down to somebody else's whim or to someone else's ignorance." -- bell hooks]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/710785-i-have-friends-wherever-there-are-companies-of-trees-wounded</guid>
+		<pubDate>Sun, 20 Jan 2013 17:07:54 -0800</pubDate>
+		<title>
+			<![CDATA[Valerie add a quote by Marcel Proust]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/710785-i-have-friends-wherever-there-are-companies-of-trees-wounded]]>
+		</link>
+		<description>
+	    <![CDATA["I have friends wherever there are companies of trees, wounded but not vanquished, which huddle together with touching obstinancy to implore an inclement and pitiless sky." -- Marcel Proust]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/373545-octavia]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/373545-octavia" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 06 Jul 2008 20:53:47 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1173-don-t-cry-because-it-s-over-smile-because-it-happened</guid>
+		<pubDate>Sun, 06 Jul 2008 20:53:47 -0700</pubDate>
+		<title>
+			<![CDATA[Octavia add a quote by Dr. Seuss ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1173-don-t-cry-because-it-s-over-smile-because-it-happened]]>
+		</link>
+		<description>
+	    <![CDATA["Don't cry because it's over, smile because it happened." -- Dr. Seuss ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/66-so-many-books-so-little-time</guid>
+		<pubDate>Mon, 12 Jan 2009 23:06:11 -0800</pubDate>
+		<title>
+			<![CDATA[Octavia add a quote by Frank Zappa]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/66-so-many-books-so-little-time]]>
+		</link>
+		<description>
+	    <![CDATA["So many books, so little time." -- Frank Zappa]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/258-in-three-words-i-can-sum-up-everything-i-ve-learned</guid>
+		<pubDate>Mon, 12 Jan 2009 23:06:34 -0800</pubDate>
+		<title>
+			<![CDATA[Octavia add a quote by Robert Frost]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/258-in-three-words-i-can-sum-up-everything-i-ve-learned]]>
+		</link>
+		<description>
+	    <![CDATA["In three words I can sum up everything I've learned about life: it goes on." -- Robert Frost]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

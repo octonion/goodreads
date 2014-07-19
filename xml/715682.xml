@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/715682-lois]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/715682-lois" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 18 Jul 2013 05:10:24 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/280426-you-re-terrified-of-being-alone-anything-you-do-now-will</guid>
+		<pubDate>Thu, 18 Jul 2013 05:10:24 -0700</pubDate>
+		<title>
+			<![CDATA[Lois add a quote by Jonathan Tropper]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/280426-you-re-terrified-of-being-alone-anything-you-do-now-will]]>
+		</link>
+		<description>
+	    <![CDATA["You're terrified of being alone. Anything you do now will be motivated by that fear. You have to stop worrying about finding love again. It will come when it comes. Get comfortable with being alone. It will empower you." -- Jonathan Tropper]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/324994-at-some-point-being-angry-is-just-another-bad-habit</guid>
+		<pubDate>Thu, 18 Jul 2013 05:10:55 -0700</pubDate>
+		<title>
+			<![CDATA[Lois add a quote by Jonathan Tropper]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/324994-at-some-point-being-angry-is-just-another-bad-habit]]>
+		</link>
+		<description>
+	    <![CDATA["At some point, being angry is just another bad habit, like smoking, and you keep poisoning yourself without thinking about it." -- Jonathan Tropper]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

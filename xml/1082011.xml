@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1082011-rebecca-henrie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1082011-rebecca-henrie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 11 Jul 2013 08:59:24 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/131460-for-the-first-twenty-years-of-my-life-i-rocked</guid>
+		<pubDate>Thu, 11 Jul 2013 08:59:24 -0700</pubDate>
+		<title>
+			<![CDATA[Rebecca add a quote by David Sedaris]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/131460-for-the-first-twenty-years-of-my-life-i-rocked]]>
+		</link>
+		<description>
+	    <![CDATA["For the first twenty years of my life, I rocked myself to sleep.  It was a harmless enough hobby, but eventually, I had to give it up.  Throughout the next twenty-two years I lay still and discovered that after a few minutes I could drop off with no problem.  Follow seven beers with a couple of scotches and a thimble of good marijuana, and it’s funny how sleep just sort of comes on its own.  Often I never even made it to the bed.  I’d squat down to pet the cat and wake up on the floor eight hours later, having lost a perfectly good excuse to change my clothes.  I’m now told that this is not called “going to sleep” but rather “passing out,” a phrase that carries a distinct hint of judgment." -- David Sedaris]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

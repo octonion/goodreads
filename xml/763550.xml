@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/763550-megan-kennedy-kelly]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/763550-megan-kennedy-kelly" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 03 Jul 2008 16:08:55 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/69720-there-is-force-in-the-universe-which-if-we-permit</guid>
+		<pubDate>Thu, 03 Jul 2008 16:08:55 -0700</pubDate>
+		<title>
+			<![CDATA[Megan add a quote by Mahatma Gandhi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/69720-there-is-force-in-the-universe-which-if-we-permit]]>
+		</link>
+		<description>
+	    <![CDATA["There is force in the universe, which, if we permit it, will flow through us and produce miraculous results." -- Mahatma Gandhi]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/69721-faith-goes-up-the-stairs-that-love-has-built-and</guid>
+		<pubDate>Thu, 03 Jul 2008 16:12:45 -0700</pubDate>
+		<title>
+			<![CDATA[Megan add a quote by Charles H. Spurgeon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/69721-faith-goes-up-the-stairs-that-love-has-built-and]]>
+		</link>
+		<description>
+	    <![CDATA["Faith goes up the stairs that love has built and looks out the windows which hope has opened." -- Charles H. Spurgeon]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

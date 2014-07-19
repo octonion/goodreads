@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/756462-jen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/756462-jen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 06 Feb 2008 17:16:59 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/10789-let-me-tell-you-what-i-think-of-bicycling-i</guid>
+		<pubDate>Wed, 06 Feb 2008 17:16:59 -0800</pubDate>
+		<title>
+			<![CDATA[Jen add a quote by Susan B. Anthony]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10789-let-me-tell-you-what-i-think-of-bicycling-i]]>
+		</link>
+		<description>
+	    <![CDATA["Let me tell you what I think of bicycling. I think it has done more to emancipate women than anything else in the world. It gives women a feeling of freedom and self-reliance. I stand and rejoice every time I see a woman ride by on a wheel…the picture of free, untrammeled womanhood." -- Susan B. Anthony]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

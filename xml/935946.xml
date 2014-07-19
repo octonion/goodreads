@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/935946-jj]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/935946-jj" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 29 Oct 2012 22:20:09 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/234389-you-ll-miss-the-best-things-if-you-keep-your-eyes</guid>
+		<pubDate>Mon, 29 Oct 2012 22:20:09 -0700</pubDate>
+		<title>
+			<![CDATA[JJ add a quote by Dr. Seuss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/234389-you-ll-miss-the-best-things-if-you-keep-your-eyes]]>
+		</link>
+		<description>
+	    <![CDATA["You’ll miss the best things if you keep your eyes shut." -- Dr. Seuss]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

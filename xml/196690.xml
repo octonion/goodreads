@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/196690-simi]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/196690-simi" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 17 Jun 2008 14:40:46 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/64593-give-me-silence-water-hope-give-me-struggle-iron-volcanoes</guid>
+		<pubDate>Tue, 17 Jun 2008 14:40:46 -0700</pubDate>
+		<title>
+			<![CDATA[Simi add a quote by Pablo Neruda]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/64593-give-me-silence-water-hope-give-me-struggle-iron-volcanoes]]>
+		</link>
+		<description>
+	    <![CDATA["Give me silence, water, hope
+Give me struggle, iron, volcanoes." -- Pablo Neruda]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/64594-i-am-pleased-enough-with-the-surfaces---in-fact</guid>
+		<pubDate>Tue, 17 Jun 2008 14:44:51 -0700</pubDate>
+		<title>
+			<![CDATA[Simi add a quote by Edward Abbey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/64594-i-am-pleased-enough-with-the-surfaces---in-fact]]>
+		</link>
+		<description>
+	    <![CDATA["I am pleased enough with the surfaces - in fact they alone seem to me to be of much importance. Such things for example as the grasp of a child's hand in your own, the flavor of an apple, the embrace of a friend or lover, the silk of a girl's thigh, the sunlight on the rock and leaves, the feel of music, the bark of a tree, the abrasion of granite and sand, the plunge of clear water into a pool, the face of the wind - what else is there? What else do we need?" -- Edward Abbey]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/128947-darby]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/128947-darby" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 28 Sep 2012 15:17:33 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/633849-there-is-a-time-to-submit-and-there-is-a</guid>
+		<pubDate>Fri, 28 Sep 2012 15:17:33 -0700</pubDate>
+		<title>
+			<![CDATA[Darby add a quote by Ruth Graham]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/633849-there-is-a-time-to-submit-and-there-is-a]]>
+		</link>
+		<description>
+	    <![CDATA["There is a time to submit and there is a time to outwit." -- Ruth Graham]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/382913-why-do-we-marry-why-take-friends-and-lovers-why</guid>
+		<pubDate>Wed, 27 Feb 2013 15:23:41 -0800</pubDate>
+		<title>
+			<![CDATA[Darby add a quote by Robert Farrar Capon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/382913-why-do-we-marry-why-take-friends-and-lovers-why]]>
+		</link>
+		<description>
+	    <![CDATA["Why do we marry, why take friends and lovers? Why give ourselves to music, painting, chemistry or cooking? Out of simple delight in the resident goodness of creation, of course; but out of more than that, too. Half earth's gorgeousness lies hidden in the glimpsed city it longs to become." -- Robert Farrar Capon]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

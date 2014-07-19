@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/845609-kate]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/845609-kate" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 14 Feb 2009 01:09:26 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/139790-reasonable-orders-are-easy-enough-to-obey-it-is-capricious</guid>
+		<pubDate>Sat, 14 Feb 2009 01:09:26 -0800</pubDate>
+		<title>
+			<![CDATA[Kate add a quote by Barbara Tuchman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/139790-reasonable-orders-are-easy-enough-to-obey-it-is-capricious]]>
+		</link>
+		<description>
+	    <![CDATA["Reasonable orders are easy enough to obey; it is capricious, bureaucratic or plain idiotic demands that form the habit of discipline." -- Barbara Tuchman]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/139791-nothing-sickens-me-more-than-the-closed-door-of-a</guid>
+		<pubDate>Sat, 14 Feb 2009 01:10:25 -0800</pubDate>
+		<title>
+			<![CDATA[Kate add a quote by Barbara Tuchman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/139791-nothing-sickens-me-more-than-the-closed-door-of-a]]>
+		</link>
+		<description>
+	    <![CDATA["Nothing sickens me more than the closed door of a library." -- Barbara Tuchman]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/8287-i-have-not-failed-i-ve-just-found-10-000-ways-that</guid>
+		<pubDate>Thu, 15 Oct 2009 12:45:31 -0700</pubDate>
+		<title>
+			<![CDATA[Kate add a quote by Thomas A. Edison]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8287-i-have-not-failed-i-ve-just-found-10-000-ways-that]]>
+		</link>
+		<description>
+	    <![CDATA["I have not failed. I've just found 10,000 ways that won't work." -- Thomas A. Edison]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3730-i-find-television-very-educating-every-time-somebody-turns-on</guid>
+		<pubDate>Thu, 15 Oct 2009 12:47:17 -0700</pubDate>
+		<title>
+			<![CDATA[Kate add a quote by Groucho Marx ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3730-i-find-television-very-educating-every-time-somebody-turns-on]]>
+		</link>
+		<description>
+	    <![CDATA["I find television very educating. Every time somebody turns on the set, I go into the other room and read a book." -- Groucho Marx ]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

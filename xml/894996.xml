@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/894996-beth-caruso]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/894996-beth-caruso" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 22 Mar 2013 07:52:16 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/752504-you-will-always-be-the-bread-and-the-knife-not</guid>
+		<pubDate>Fri, 22 Mar 2013 07:52:16 -0700</pubDate>
+		<title>
+			<![CDATA[Beth add a quote by Billy Collins]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/752504-you-will-always-be-the-bread-and-the-knife-not]]>
+		</link>
+		<description>
+	    <![CDATA["You will always be the bread and the knife, not to mention the crystal goblet and—somehow—the wine." -- Billy Collins]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

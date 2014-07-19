@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1050206-eloise]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1050206-eloise" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 18 Apr 2008 09:12:50 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/18508-eat-food-not-too-much-mostly-plants</guid>
+		<pubDate>Fri, 18 Apr 2008 09:12:50 -0700</pubDate>
+		<title>
+			<![CDATA[Eloise add a quote by Michael Pollan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18508-eat-food-not-too-much-mostly-plants]]>
+		</link>
+		<description>
+	    <![CDATA["Eat food.  Not too much.  Mostly plants." -- Michael Pollan]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/11268-it-makes-you-wonder-all-the-brilliant-things-we-might</guid>
+		<pubDate>Thu, 03 Apr 2008 19:18:45 -0700</pubDate>
+		<title>
+			<![CDATA[Eloise add a quote by Ann Patchett]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11268-it-makes-you-wonder-all-the-brilliant-things-we-might]]>
+		</link>
+		<description>
+	    <![CDATA["It makes you wonder. All the brilliant things we might have done with our lives if only we suspected we knew how." -- Ann Patchett]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

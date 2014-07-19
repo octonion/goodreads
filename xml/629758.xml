@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/629758-robin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/629758-robin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 04 Dec 2007 13:20:49 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/9131-if-you-tell-the-truth-you-don-t-have-to-remember</guid>
+		<pubDate>Tue, 04 Dec 2007 13:20:49 -0800</pubDate>
+		<title>
+			<![CDATA[Robin add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9131-if-you-tell-the-truth-you-don-t-have-to-remember]]>
+		</link>
+		<description>
+	    <![CDATA["If you tell the truth, you don't have to remember anything." -- Mark Twain]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/54-don-t-walk-behind-me-i-may-not-lead-don-t-walk</guid>
+		<pubDate>Tue, 04 Dec 2007 13:21:03 -0800</pubDate>
+		<title>
+			<![CDATA[Robin add a quote by Albert Camus]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/54-don-t-walk-behind-me-i-may-not-lead-don-t-walk]]>
+		</link>
+		<description>
+	    <![CDATA["Don't walk behind me; I may not lead. Don't walk in front of me; I may not follow. Just walk beside me and be my friend." -- Albert Camus]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/11035-no-one-can-make-you-feel-inferior-without-your-consent</guid>
+		<pubDate>Sun, 17 Feb 2008 16:39:56 -0800</pubDate>
+		<title>
+			<![CDATA[Robin add a quote by Eleanor Roosevelt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11035-no-one-can-make-you-feel-inferior-without-your-consent]]>
+		</link>
+		<description>
+	    <![CDATA["No one can make you feel inferior without your consent." -- Eleanor Roosevelt]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

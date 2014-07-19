@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/903600-nita-kapadia]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/903600-nita-kapadia" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 15 Feb 2008 03:39:48 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/25201-it-occurs-to-me-that-our-survival-may-depend-upon</guid>
+		<pubDate>Fri, 15 Feb 2008 03:39:48 -0800</pubDate>
+		<title>
+			<![CDATA[Nita add a quote by Dan Simmons]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/25201-it-occurs-to-me-that-our-survival-may-depend-upon]]>
+		</link>
+		<description>
+	    <![CDATA["It occurs to me that our survival may depend upon our talking to one another." -- Dan Simmons]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/67-the-only-thing-we-have-to-fear-is-fear-itself</guid>
+		<pubDate>Fri, 15 Feb 2008 03:41:30 -0800</pubDate>
+		<title>
+			<![CDATA[Nita add a quote by Franklin D. Roosevelt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/67-the-only-thing-we-have-to-fear-is-fear-itself]]>
+		</link>
+		<description>
+	    <![CDATA["The only thing we have to fear is fear itself." -- Franklin D. Roosevelt]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/289764-squeaky-skull]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/289764-squeaky-skull" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 25 Apr 2008 17:51:28 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/48476-there-is-scarcely-any-great-author-in-european-literature-old</guid>
+		<pubDate>Fri, 25 Apr 2008 17:51:28 -0700</pubDate>
+		<title>
+			<![CDATA[Squeaky add a quote by Lafcadio Hearn]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/48476-there-is-scarcely-any-great-author-in-european-literature-old]]>
+		</link>
+		<description>
+	    <![CDATA["There is scarcely any great author in European literature, old or new, who has not distinguished himself in his treatment of the supernatural. In English literature, I believe there is no exception from the time of the Anglo-Saxon poets to Shakespeare, and from Shakespeare to our own day. And this introduces us to the consideration of a general and remarkable fact, a fact that I do not remember to have seen in any books, but which is of very great philosophical importance: there is something ghostly in all great art, whether of literature, music, sculpture, or architecture. It touches something within us that relates to infinity" -- Lafcadio Hearn]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

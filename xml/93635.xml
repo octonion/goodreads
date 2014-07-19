@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/93635-jason]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/93635-jason" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 10 Feb 2012 08:14:31 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1668-there-is-neither-happiness-nor-misery-in-the-world-there</guid>
+		<pubDate>Fri, 10 Feb 2012 08:14:31 -0800</pubDate>
+		<title>
+			<![CDATA[Jason add a quote by Alexandre Dumas]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1668-there-is-neither-happiness-nor-misery-in-the-world-there]]>
+		</link>
+		<description>
+	    <![CDATA["There is neither happiness nor misery in the world; there is only the comparison of one state with another, nothing more. He who has felt the deepest grief is best able to experience supreme happiness. We must have felt what it is to die, Morrel, that we may appreciate the enjoyments of life. 
+&quot; Live, then, and be happy, beloved children of my heart, and never forget, that until the day God will deign to reveal the future to man, all human wisdom is contained in these two words, 'Wait and Hope." -- Alexandre Dumas]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

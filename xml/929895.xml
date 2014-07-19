@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/929895-caitlin-emery]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/929895-caitlin-emery" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 17 Sep 2013 15:31:01 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/13146-never-trust-anyone-who-has-not-brought-a-book-with</guid>
+		<pubDate>Tue, 17 Sep 2013 15:31:01 -0700</pubDate>
+		<title>
+			<![CDATA[Caitlin add a quote by Lemony Snicket]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13146-never-trust-anyone-who-has-not-brought-a-book-with]]>
+		</link>
+		<description>
+	    <![CDATA["Never trust anyone who has not brought a book with them." -- Lemony Snicket]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

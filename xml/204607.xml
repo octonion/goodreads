@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/204607-jenn]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/204607-jenn" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 20 Feb 2012 16:41:10 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/376816-i-was-a-little-excited-but-mostly-blorft-blorft-is</guid>
+		<pubDate>Mon, 20 Feb 2012 16:41:10 -0800</pubDate>
+		<title>
+			<![CDATA[Jenn add a quote by Tina Fey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/376816-i-was-a-little-excited-but-mostly-blorft-blorft-is]]>
+		</link>
+		<description>
+	    <![CDATA["I was a little excited but mostly blorft. &quot;Blorft&quot; is an adjective I just made up that means 'Completely overwhelmed but proceeding as if everything is fine and reacting to the stress with the torpor of a possum.' I have been blorft every day for the past seven years." -- Tina Fey]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

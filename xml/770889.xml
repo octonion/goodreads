@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/770889-ray]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/770889-ray" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 20 Jan 2008 16:49:49 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5153-if-the-physicists-seem-to-achieve-their-ends-more-successfully</guid>
+		<pubDate>Sun, 20 Jan 2008 16:49:49 -0800</pubDate>
+		<title>
+			<![CDATA[Ray add a quote by John Polkinghorne]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5153-if-the-physicists-seem-to-achieve-their-ends-more-successfully]]>
+		</link>
+		<description>
+	    <![CDATA["If the physicists seem to achieve their ends more successfully than the theologians, that is simply a reflection of how much easier science is than theology." -- John Polkinghorne]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/119184-man-s-capacity-for-justice-makes-democracy-possible-but-man-s-inclination</guid>
+		<pubDate>Sun, 09 Sep 2012 12:10:18 -0700</pubDate>
+		<title>
+			<![CDATA[Ray add a quote by Reinhold Niebuhr]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/119184-man-s-capacity-for-justice-makes-democracy-possible-but-man-s-inclination]]>
+		</link>
+		<description>
+	    <![CDATA["Man's capacity for justice makes democracy possible, but man's inclination to injustice makes democracy necessary." -- Reinhold Niebuhr]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

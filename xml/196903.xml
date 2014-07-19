@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/196903-erik-melissa-salyer]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/196903-erik-melissa-salyer" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 25 May 2012 06:07:11 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/442886-in-a-way-the-futile-excuses-many-people-use-to</guid>
+		<pubDate>Fri, 25 May 2012 06:07:11 -0700</pubDate>
+		<title>
+			<![CDATA[Erik&amp;Melissa add a quote by John Calvin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/442886-in-a-way-the-futile-excuses-many-people-use-to]]>
+		</link>
+		<description>
+	    <![CDATA["In a way, the futile excuses many people use to cover their superstitions are demolished.  They think it is enough to have some sort of religious fervor, however ridiculous, not realizing that true religion must be according to God's will as the perfect measure; that He can never deny Himself and is no mere spirit form to be changed around according to individual preference." -- John Calvin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/919103-linda-lavid]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/919103-linda-lavid" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 13 Apr 2009 11:09:56 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/10127-illusion-is-the-first-of-all-pleasures</guid>
+		<pubDate>Mon, 13 Apr 2009 11:09:56 -0700</pubDate>
+		<title>
+			<![CDATA[Linda add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10127-illusion-is-the-first-of-all-pleasures]]>
+		</link>
+		<description>
+	    <![CDATA["Illusion is the first of all pleasures" -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/26546-everyone-wants-to-be-cary-grant-even-i-want-to</guid>
+		<pubDate>Wed, 20 Feb 2008 03:54:29 -0800</pubDate>
+		<title>
+			<![CDATA[Linda add a quote by Cary Grant]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/26546-everyone-wants-to-be-cary-grant-even-i-want-to]]>
+		</link>
+		<description>
+	    <![CDATA["Everyone wants to be Cary Grant. Even I want to be Cary Grant." -- Cary Grant]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

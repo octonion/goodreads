@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/897421-tammie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/897421-tammie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 28 May 2008 14:48:49 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/10325-i-m-convinced-that-you-never-have-to-give-up-liberties</guid>
+		<pubDate>Wed, 28 May 2008 14:48:49 -0700</pubDate>
+		<title>
+			<![CDATA[Tammie add a quote by Ron Paul]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10325-i-m-convinced-that-you-never-have-to-give-up-liberties]]>
+		</link>
+		<description>
+	    <![CDATA["I'm convinced that you never have to give up liberties to be safe. I think you're less safe when you give up your liberties." -- Ron Paul]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/23363-one-thing-is-clear-the-founding-fathers-never-intended-a</guid>
+		<pubDate>Wed, 28 May 2008 14:48:57 -0700</pubDate>
+		<title>
+			<![CDATA[Tammie add a quote by Ron Paul]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/23363-one-thing-is-clear-the-founding-fathers-never-intended-a]]>
+		</link>
+		<description>
+	    <![CDATA["One thing is clear: The Founding Fathers never intended a nation where citizens would pay nearly half of everything they earn to the government." -- Ron Paul]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

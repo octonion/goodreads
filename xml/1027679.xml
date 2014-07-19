@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1027679-ruth-neese]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1027679-ruth-neese" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 14 May 2012 18:54:28 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/501256-if-we-want-to-grow-as-teachers----we-must</guid>
+		<pubDate>Mon, 14 May 2012 18:54:28 -0700</pubDate>
+		<title>
+			<![CDATA[Ruth add a quote by Parker J. Palmer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/501256-if-we-want-to-grow-as-teachers----we-must]]>
+		</link>
+		<description>
+	    <![CDATA["If we want to grow as teachers -- we must do something alien to academic culture: we must talk to each other about our inner lives -- risky stuff in a profession that fears the personal and seeks safety in the technical, the distant, the abstract." -- Parker J. Palmer]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/190320-i-want-my-inner-truth-to-be-the-plumb-line</guid>
+		<pubDate>Mon, 14 May 2012 18:55:09 -0700</pubDate>
+		<title>
+			<![CDATA[Ruth add a quote by Parker Palmer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/190320-i-want-my-inner-truth-to-be-the-plumb-line]]>
+		</link>
+		<description>
+	    <![CDATA["I want my inner truth to be the plumb line for the choices I make about my life - about the work that I do and how I do it, about the relationships I enter into and how I conduct them." -- Parker Palmer]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

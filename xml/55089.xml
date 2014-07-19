@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/55089-lora]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/55089-lora" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 23 Apr 2012 13:31:16 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/244639-high-schools-are-ultimately-a-messy-stew-of-hearts-and</guid>
+		<pubDate>Mon, 23 Apr 2012 13:31:16 -0700</pubDate>
+		<title>
+			<![CDATA[Lora add a quote by Jeff Alexander]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/244639-high-schools-are-ultimately-a-messy-stew-of-hearts-and]]>
+		</link>
+		<description>
+	    <![CDATA["High schools are, ultimately, a messy stew of hearts and hormones all swirling around together in the smallest possible space. Don't feel bad about not having gotten out of there with your dignity intact, because nobody did. Even dreamy Jordan Catalano will always have to live with the embarrassment of having mistakenly addressed Brian as 'Brain." -- Jeff Alexander]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

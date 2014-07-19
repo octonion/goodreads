@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/161670-katrin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/161670-katrin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 30 May 2014 08:08:06 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/488940-there-is-something-in-the-new-york-air-that-makes</guid>
+		<pubDate>Fri, 30 May 2014 08:08:06 -0700</pubDate>
+		<title>
+			<![CDATA[Katrin add a quote by Simone de Beauvoir]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/488940-there-is-something-in-the-new-york-air-that-makes]]>
+		</link>
+		<description>
+	    <![CDATA["There is something in the New York air that makes sleep useless." -- Simone de Beauvoir]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/517755-i-think-that-where-you-go-wrong-is-that-you</guid>
+		<pubDate>Fri, 30 May 2014 08:21:16 -0700</pubDate>
+		<title>
+			<![CDATA[Katrin add a quote by Simone de Beauvoir]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/517755-i-think-that-where-you-go-wrong-is-that-you]]>
+		</link>
+		<description>
+	    <![CDATA["I think that where you go wrong is that you imagine that your reasons for living ought to fall on you, ready-made from heaven, whereas we have to find them for ourselves." -- Simone de Beauvoir]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

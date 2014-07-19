@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/176415-norah]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/176415-norah" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 04 Mar 2010 10:44:17 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/65372-a-sailor-chooses-the-wind-that-takes-the-ship-from</guid>
+		<pubDate>Thu, 04 Mar 2010 10:44:17 -0800</pubDate>
+		<title>
+			<![CDATA[Norah add a quote by Avi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/65372-a-sailor-chooses-the-wind-that-takes-the-ship-from]]>
+		</link>
+		<description>
+	    <![CDATA["A sailor chooses the wind that takes the ship from a safe port. Ah, yes, but once you're abroad, as you have seen, winds have a mind of their own. Be careful, Charlotte, careful of the wind you choose." -- Avi]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

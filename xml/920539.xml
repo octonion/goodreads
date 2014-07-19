@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/920539-stephen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/920539-stephen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 05 Jan 2010 10:27:12 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/21894-beware-of-the-man-who-works-hard-to-learn-something</guid>
+		<pubDate>Tue, 05 Jan 2010 10:27:12 -0800</pubDate>
+		<title>
+			<![CDATA[Stephen add a quote by Kurt Vonnegut]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21894-beware-of-the-man-who-works-hard-to-learn-something]]>
+		</link>
+		<description>
+	    <![CDATA["Beware of the man who works hard to learn something, learns it, and finds himself no wiser than before." -- Kurt Vonnegut]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/222206-she-was-in-that-highly-wrought-state-when-the-reasoning-powers</guid>
+		<pubDate>Wed, 13 Jan 2010 22:31:49 -0800</pubDate>
+		<title>
+			<![CDATA[Stephen add a quote by Leo Tolstoy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/222206-she-was-in-that-highly-wrought-state-when-the-reasoning-powers]]>
+		</link>
+		<description>
+	    <![CDATA["She was in that highly-wrought state when the reasoning powers act with great rapidity: the state a man is in before a battle or a struggle, in danger, and at the decisive moments of life - those moments when a man shows once and for all what he is worth, that his past was not lived in vain but was a preparation for these moments." -- Leo Tolstoy]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/690656-hamed]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/690656-hamed" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 15 Jan 2013 08:39:17 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/360-good-friends-good-books-and-a-sleepy-conscience-this-is</guid>
+		<pubDate>Tue, 15 Jan 2013 08:39:17 -0800</pubDate>
+		<title>
+			<![CDATA[Hamed add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/360-good-friends-good-books-and-a-sleepy-conscience-this-is]]>
+		</link>
+		<description>
+	    <![CDATA["Good friends, good books, and a sleepy conscience: this is the ideal life." -- Mark Twain]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5740-you-believe-in-a-book-that-has-talking-animals-wizards</guid>
+		<pubDate>Tue, 15 Jan 2013 08:45:04 -0800</pubDate>
+		<title>
+			<![CDATA[Hamed add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5740-you-believe-in-a-book-that-has-talking-animals-wizards]]>
+		</link>
+		<description>
+	    <![CDATA["You believe in a book that has talking animals, wizards, witches, demons, sticks turning into snakes, burning bushes, food falling from the sky, people walking on water, and all sorts of magical, absurd and primitive stories, and you say that we are the ones that need help?" -- Mark Twain]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/634013-my-library-is-an-archive-of-longings</guid>
+		<pubDate>Wed, 16 Jan 2013 04:18:43 -0800</pubDate>
+		<title>
+			<![CDATA[Hamed add a quote by Susan Sontag]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/634013-my-library-is-an-archive-of-longings]]>
+		</link>
+		<description>
+	    <![CDATA["My library is an archive of longings." -- Susan Sontag]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/166341-amir]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/166341-amir" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 24 Aug 2012 12:06:09 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/110065-my-unhappiness-protects-me-from-life</guid>
+		<pubDate>Fri, 24 Aug 2012 12:06:09 -0700</pubDate>
+		<title>
+			<![CDATA[Amir add a quote by Orhan Pamuk]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/110065-my-unhappiness-protects-me-from-life]]>
+		</link>
+		<description>
+	    <![CDATA["My unhappiness protects me from life." -- Orhan Pamuk]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/287122-that-is-one-thing-i-am-sure-of-amid-my</guid>
+		<pubDate>Fri, 24 Aug 2012 12:20:31 -0700</pubDate>
+		<title>
+			<![CDATA[Amir add a quote by Mario Vargas Llosa]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/287122-that-is-one-thing-i-am-sure-of-amid-my]]>
+		</link>
+		<description>
+	    <![CDATA["That is one thing I am sure of amid my many uncertainties regarding the literary vocation: deep inside, a writer feels that writing is the best thing that ever happened to him, or could ever happen to him, because as far as he is concerned, writing is the best possible way of life, never mind the social, political, or financial rewards of what he might achieve through it." -- Mario Vargas Llosa]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

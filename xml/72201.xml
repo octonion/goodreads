@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/72201-pauline]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/72201-pauline" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 20 Aug 2012 08:15:46 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/13119-you-never-change-things-by-fighting-the-existing-reality-to</guid>
+		<pubDate>Mon, 20 Aug 2012 08:15:46 -0700</pubDate>
+		<title>
+			<![CDATA[Pauline add a quote by Buckminster Fuller]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13119-you-never-change-things-by-fighting-the-existing-reality-to]]>
+		</link>
+		<description>
+	    <![CDATA["You never change things by fighting the existing reality.
+To change something, build a new model that makes the existing model obsolete." -- Buckminster Fuller]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/38044-there-is-nothing-in-a-caterpillar-that-tells-you-it-s</guid>
+		<pubDate>Mon, 20 Aug 2012 08:15:51 -0700</pubDate>
+		<title>
+			<![CDATA[Pauline add a quote by Buckminster R. Fuller]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/38044-there-is-nothing-in-a-caterpillar-that-tells-you-it-s]]>
+		</link>
+		<description>
+	    <![CDATA["There is nothing in a caterpillar that tells you it's going to be a butterfly." -- Buckminster R. Fuller]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/467583-if-you-want-to-teach-people-a-new-way-of</guid>
+		<pubDate>Mon, 20 Aug 2012 08:25:28 -0700</pubDate>
+		<title>
+			<![CDATA[Pauline add a quote by Richard Buckminster Fuller]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/467583-if-you-want-to-teach-people-a-new-way-of]]>
+		</link>
+		<description>
+	    <![CDATA["If you want to teach people a new way of thinking, don't bother trying to teach them.  Instead, give them a tool, the use of which will lead to new ways of thinking." -- Richard Buckminster Fuller]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/911011-agus]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/911011-agus" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 04 May 2009 06:35:52 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/98651-all-generalizations-are-dangerous-even-this-one</guid>
+		<pubDate>Mon, 04 May 2009 06:35:52 -0700</pubDate>
+		<title>
+			<![CDATA[agus add a quote by Alexandre Dumas]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/98651-all-generalizations-are-dangerous-even-this-one]]>
+		</link>
+		<description>
+	    <![CDATA["All generalizations are dangerous, even this one." -- Alexandre Dumas]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/162580-and-if-you-wish-to-receive-of-the-ancient-city</guid>
+		<pubDate>Wed, 20 Oct 2010 13:36:58 -0700</pubDate>
+		<title>
+			<![CDATA[agus add a quote by Victor Hugo]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/162580-and-if-you-wish-to-receive-of-the-ancient-city]]>
+		</link>
+		<description>
+	    <![CDATA["And if you wish to receive of the ancient city an impression with which the modern one can no longer furnish you, climb--on the morning of some grand festival, beneath the rising sun of Easter or of Pentecost--climb upon some elevated point, whence you command the entire capital; and be present at the wakening of the chimes. Behold, at a signal given from heaven, for it is the sun which gives it, all those churches quiver simultaneously. First come scattered strokes, running from one church to another, as when musicians give warning that they are about to begin. Then, all at once, behold!--for it seems at times, as though the ear also possessed a sight of its own,--behold, rising from each bell tower, something like a column of sound, a cloud of harmony. First, the vibration of each bell mounts straight upwards, pure and, so to speak, isolated from the others, into the splendid morning sky; then, little by little, as they swell they melt together, mingle, are lost in each other, and amalgamate in a magnificent concert. It is no longer anything but a mass of sonorous vibrations incessantly sent forth from the numerous belfries; floats, undulates, bounds, whirls over the city, and prolongs far beyond the horizon the deafening circle of its oscillations.
+
+Nevertheless, this sea of harmony is not a chaos; great and profound as it is, it has not lost its transparency; you behold the windings of each group of notes which escapes from the belfries. " -- Victor Hugo]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

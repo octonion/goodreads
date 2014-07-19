@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/746878-bullmonty-aw-yeong]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/746878-bullmonty-aw-yeong" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 28 Sep 2012 03:15:46 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/205589-envy-is-the-religion-of-the-mediocre-it-comforts-them</guid>
+		<pubDate>Fri, 28 Sep 2012 03:15:46 -0700</pubDate>
+		<title>
+			<![CDATA[Bullmonty add a quote by Carlos Ruiz Zafón]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/205589-envy-is-the-religion-of-the-mediocre-it-comforts-them]]>
+		</link>
+		<description>
+	    <![CDATA["Envy is the religion of the mediocre. It comforts them, it soothes their worries, and finally it rots their souls, allowing them to justify their meanness and their greed until they believe these to be virtues. Such people are convinced that the doors of heaven will be opened only to poor wretches like themselves who go through life without leaving any trace but their threadbare attempts to belittle others and to exclude - and destroy if possible - those who, by the simple fact of their existence, show up their own poorness of spirit, mind, and guts. Blessed be the one at whom the fools bark, because his soul will never belong to them." -- Carlos Ruiz Zafón]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

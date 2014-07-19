@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/863375-amber]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/863375-amber" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 16 Nov 2013 09:15:35 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/49472-if-you-look-the-right-way-you-can-see-that</guid>
+		<pubDate>Sat, 16 Nov 2013 09:15:35 -0800</pubDate>
+		<title>
+			<![CDATA[Amber add a quote by Frances Hodgson Burnett]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/49472-if-you-look-the-right-way-you-can-see-that]]>
+		</link>
+		<description>
+	    <![CDATA["If you look the right way, you can see that the whole world is a garden." -- Frances Hodgson Burnett]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/67318-we-can-complain-because-rose-bushes-have-thorns-or-rejoice</guid>
+		<pubDate>Sat, 16 Nov 2013 09:15:53 -0800</pubDate>
+		<title>
+			<![CDATA[Amber add a quote by Abraham Lincoln]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/67318-we-can-complain-because-rose-bushes-have-thorns-or-rejoice]]>
+		</link>
+		<description>
+	    <![CDATA["We can complain because rose bushes have thorns, or rejoice because thorn bushes have roses." -- Abraham Lincoln]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

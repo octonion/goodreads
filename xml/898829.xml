@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/898829-nicholas]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/898829-nicholas" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 24 Jul 2012 18:22:46 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/12890-death-is-always-on-the-way-but-the-fact-that</guid>
+		<pubDate>Tue, 24 Jul 2012 18:22:46 -0700</pubDate>
+		<title>
+			<![CDATA[Nicholas add a quote by Paul Bowles]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12890-death-is-always-on-the-way-but-the-fact-that]]>
+		</link>
+		<description>
+	    <![CDATA["Death is always on the way, but the fact that you don't know when it will arrive seems to take away from the finiteness of life. It's that terrible precision that we hate so much. But because we don't know, we get to think of life as an inexhaustible well. Yet everything happens a certain number of times, and a very small number, really. How many more times will you remember a certain afternoon of your childhood, some afternoon that's so deeply a part of your being that you can't even conceive of your life without it? Perhaps four or five times more. Perhaps not even. How many more times will you watch the full moon rise? Perhaps twenty. And yet it all seems limitless." -- Paul Bowles]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

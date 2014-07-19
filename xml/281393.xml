@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/281393-jim]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/281393-jim" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Dec 2007 19:06:45 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/79650-time-is-what-keeps-everything-from-happening-at-once</guid>
+		<pubDate>Tue, 11 Dec 2007 19:06:45 -0800</pubDate>
+		<title>
+			<![CDATA[Jim add a quote by Ray Cummings]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/79650-time-is-what-keeps-everything-from-happening-at-once]]>
+		</link>
+		<description>
+	    <![CDATA["Time is what keeps everything from happening at once." -- Ray Cummings]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4877-conversations-consist-for-the-most-part-of-things-one-does</guid>
+		<pubDate>Tue, 11 Dec 2007 19:07:33 -0800</pubDate>
+		<title>
+			<![CDATA[Jim add a quote by Cees Nooteboom]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4877-conversations-consist-for-the-most-part-of-things-one-does]]>
+		</link>
+		<description>
+	    <![CDATA["Conversations consist for the most part of things one does not say." -- Cees Nooteboom]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/664960-i-don-t-know-how-to-pray-but-i-ve-seen-them</guid>
+		<pubDate>Sun, 18 Nov 2012 03:06:27 -0800</pubDate>
+		<title>
+			<![CDATA[Jim add a quote by Jessica Bell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/664960-i-don-t-know-how-to-pray-but-i-ve-seen-them]]>
+		</link>
+		<description>
+	    <![CDATA["I don’t know how to pray,
+but I’ve seen them do it
+on TV; kneeling by a bed
+in nightgowns, hands woven
+like secret friends." -- Jessica Bell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

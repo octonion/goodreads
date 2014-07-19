@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/980417-f-a]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/980417-f-a" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 07 Apr 2013 18:16:50 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/451870-they-minute-people-fall-in-love-they-become-liars</guid>
+		<pubDate>Sun, 07 Apr 2013 18:16:50 -0700</pubDate>
+		<title>
+			<![CDATA[F. add a quote by Harlan Ellison]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/451870-they-minute-people-fall-in-love-they-become-liars]]>
+		</link>
+		<description>
+	    <![CDATA["They minute people fall in love they become liars." -- Harlan Ellison]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/66966-they-fuck-you-up-your-mum-and-dad-they-may</guid>
+		<pubDate>Thu, 24 Oct 2013 12:14:47 -0700</pubDate>
+		<title>
+			<![CDATA[F. add a quote by Philip Larkin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/66966-they-fuck-you-up-your-mum-and-dad-they-may]]>
+		</link>
+		<description>
+	    <![CDATA["They fuck you up, your mum and dad.
+  They may not mean to, but they do.
+They fill you with the faults they had
+  And add some extra, just for you.
+
+But they were fucked up in their turn
+  By fools in old-style hats and coats,
+Who half the time were soppy-stern
+  And half at one another's throats.
+
+Man hands on misery to man.
+  It deepens like a coastal shelf.
+Get out as early as you can,
+  And don't have any kids yourself." -- Philip Larkin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5408-i-have-no-enemies-but-my-friends-don-t-like-me</guid>
+		<pubDate>Thu, 24 Oct 2013 12:16:29 -0700</pubDate>
+		<title>
+			<![CDATA[F. add a quote by Philip Larkin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5408-i-have-no-enemies-but-my-friends-don-t-like-me]]>
+		</link>
+		<description>
+	    <![CDATA["I have no enemies.  But my friends don't like me." -- Philip Larkin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

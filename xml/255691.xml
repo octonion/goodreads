@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/255691-julie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/255691-julie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 12 Jan 2013 20:29:18 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/704535-the-cultural-insistence-that-parenting-is-the-most-important-job</guid>
+		<pubDate>Sat, 12 Jan 2013 20:29:18 -0800</pubDate>
+		<title>
+			<![CDATA[Julie add a quote by Jessica Valenti]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/704535-the-cultural-insistence-that-parenting-is-the-most-important-job]]>
+		</link>
+		<description>
+	    <![CDATA["The cultural insistence that parenting is the 'most important' job in the world is a smart way to satiate unappreciated women without doing a damn thing for them." -- Jessica Valenti]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/704547-as-indicated-by-the-increase-in-maternal-mortality-in-2010</guid>
+		<pubDate>Sat, 12 Jan 2013 20:39:57 -0800</pubDate>
+		<title>
+			<![CDATA[Julie add a quote by Jessica Valenti]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/704547-as-indicated-by-the-increase-in-maternal-mortality-in-2010]]>
+		</link>
+		<description>
+	    <![CDATA["As indicated by the increase in maternal mortality in 2010, right now it's more dangerous to give birth in California than in Kuwait or Bosnia. Amnesty International reports that women in [the United States] have a higher risk of dying due to pregnancy complications than women in forty-nine other countries (black women are almost four times as likely to die as white women). The United States spends more than any other country on maternal health care, yet our risk of dying or coming close to death during pregnancy or in childbirth remains unreasonably high." -- Jessica Valenti]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

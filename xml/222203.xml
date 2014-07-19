@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/222203-lesli]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/222203-lesli" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 15 Mar 2009 08:29:52 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/10682-you-don-t-have-a-soul-doctor-you-are-a-soul</guid>
+		<pubDate>Sun, 15 Mar 2009 08:29:52 -0700</pubDate>
+		<title>
+			<![CDATA[Lesli add a quote by Walter M. Miller Jr.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10682-you-don-t-have-a-soul-doctor-you-are-a-soul]]>
+		</link>
+		<description>
+	    <![CDATA["You don’t &lt;i&gt;have&lt;/i&gt; a soul, Doctor. You &lt;i&gt;are&lt;/i&gt; a soul. You &lt;i&gt;have&lt;/i&gt; a body, temporarily." -- Walter M. Miller Jr.]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/147609-true-love-is-friendship-set-on-fire</guid>
+		<pubDate>Sun, 15 Mar 2009 08:30:41 -0700</pubDate>
+		<title>
+			<![CDATA[Lesli add a quote by annony]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/147609-true-love-is-friendship-set-on-fire]]>
+		</link>
+		<description>
+	    <![CDATA["True love is friendship set on fire. " -- annony]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/12860-every-heart-sings-a-song-incomplete-until-another-heart-whispers</guid>
+		<pubDate>Sun, 15 Mar 2009 08:31:13 -0700</pubDate>
+		<title>
+			<![CDATA[Lesli add a quote by Plato]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12860-every-heart-sings-a-song-incomplete-until-another-heart-whispers]]>
+		</link>
+		<description>
+	    <![CDATA["Every heart sings a song, incomplete, until another heart whispers back. Those who wish to sing always find a song. At the touch of a lover, everyone becomes a poet." -- Plato]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

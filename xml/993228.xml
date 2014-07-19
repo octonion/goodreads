@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/993228]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/993228" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 09 Sep 2008 21:35:04 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home/index/993228.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home/index/993228.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/14814-we-have-eyes-and-we-re-looking-at-stuff-all-the</guid>
+		<pubDate>Tue, 09 Sep 2008 21:35:04 -0700</pubDate>
+		<title>
+			<![CDATA[ريم add a quote by Eric Carle]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14814-we-have-eyes-and-we-re-looking-at-stuff-all-the]]>
+		</link>
+		<description>
+	    <![CDATA["We have eyes, and we're looking at stuff all the time, all day long. And I just think that whatever our eyes touch should be beautiful, tasteful, appealing, and important. 
+" -- Eric Carle]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/24414-i-believe-that-a-good-children-s-book-should-appeal-to</guid>
+		<pubDate>Wed, 10 Sep 2008 04:37:52 -0700</pubDate>
+		<title>
+			<![CDATA[ريم add a quote by Leo Lionni]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/24414-i-believe-that-a-good-children-s-book-should-appeal-to]]>
+		</link>
+		<description>
+	    <![CDATA["I believe that a good children's book should appeal to all people who have not completely lost their original joy and wonder in life. The fact is that I don't make books for children at all. I make them for that part of us, of myself and of my friends, which has never changed, which is still a child." -- Leo Lionni]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

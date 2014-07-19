@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/953517-laura-l]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/953517-laura-l" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 04 Apr 2009 05:37:57 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2314-so-we-beat-on-boats-against-the-current-borne-back</guid>
+		<pubDate>Sat, 04 Apr 2009 05:37:57 -0700</pubDate>
+		<title>
+			<![CDATA[Laura add a quote by F. Scott Fitzgerald]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2314-so-we-beat-on-boats-against-the-current-borne-back]]>
+		</link>
+		<description>
+	    <![CDATA["So we beat on, boats against the current, borne back ceaselessly into the past." -- F. Scott Fitzgerald]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/20419-to-see-a-world-in-a-grain-of-sand-and</guid>
+		<pubDate>Thu, 28 Feb 2008 19:36:44 -0800</pubDate>
+		<title>
+			<![CDATA[Laura add a quote by William Blake]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20419-to-see-a-world-in-a-grain-of-sand-and]]>
+		</link>
+		<description>
+	    <![CDATA["To see a World in a Grain of Sand 
+And a Heaven in a Wild Flower, 
+Hold Infinity in the palm of your hand 
+And Eternity in an hour." -- William Blake]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

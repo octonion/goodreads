@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/121138-chris]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/121138-chris" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 27 Nov 2008 03:18:34 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4353-the-ultimate-measure-of-a-man-is-not-where-he</guid>
+		<pubDate>Thu, 27 Nov 2008 03:18:34 -0800</pubDate>
+		<title>
+			<![CDATA[Chris add a quote by Martin Luther King Jr.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4353-the-ultimate-measure-of-a-man-is-not-where-he]]>
+		</link>
+		<description>
+	    <![CDATA["The ultimate measure of a man is not where he stands in moments of comfort and convenience, but where he stands at times of challenge and controversy." -- Martin Luther King Jr.]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1208-success-is-liking-yourself-liking-what-you-do-and-liking</guid>
+		<pubDate>Thu, 27 Nov 2008 03:18:55 -0800</pubDate>
+		<title>
+			<![CDATA[Chris add a quote by Maya Angelou]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1208-success-is-liking-yourself-liking-what-you-do-and-liking]]>
+		</link>
+		<description>
+	    <![CDATA["Success is liking yourself, liking what you do, and liking how you do it." -- Maya Angelou]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/11458-i-have-no-special-talents-i-am-only-passionately-curious</guid>
+		<pubDate>Thu, 27 Nov 2008 03:19:22 -0800</pubDate>
+		<title>
+			<![CDATA[Chris add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11458-i-have-no-special-talents-i-am-only-passionately-curious]]>
+		</link>
+		<description>
+	    <![CDATA["I have no special talents. I am only passionately curious." -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/30836-the-best-way-to-not-feel-hopeless-is-to-get</guid>
+		<pubDate>Thu, 27 Nov 2008 03:24:07 -0800</pubDate>
+		<title>
+			<![CDATA[Chris add a quote by Barack Obama]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/30836-the-best-way-to-not-feel-hopeless-is-to-get]]>
+		</link>
+		<description>
+	    <![CDATA["The best way to not feel hopeless is to get up and do something. Don’t wait for good things to happen to you. If you go out and make some good things happen, you will fill the world with hope, you will fill yourself with hope." -- Barack Obama]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

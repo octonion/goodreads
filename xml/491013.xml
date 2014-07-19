@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/491013-kristin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/491013-kristin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 15 Jun 2008 18:42:05 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2396-people-aren-t-either-wicked-or-noble-they-re-like-chef-s-salads</guid>
+		<pubDate>Sun, 15 Jun 2008 18:42:05 -0700</pubDate>
+		<title>
+			<![CDATA[Kristin add a quote by Lemony Snicket]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2396-people-aren-t-either-wicked-or-noble-they-re-like-chef-s-salads]]>
+		</link>
+		<description>
+	    <![CDATA["People aren't either wicked or noble. They're like chef's salads, with good things and bad things chopped and mixed together in a vinaigrette of confusion and conflict." -- Lemony Snicket]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5479-taking-one-s-chances-is-like-taking-a-bath-because-sometimes</guid>
+		<pubDate>Sun, 15 Jun 2008 18:44:00 -0700</pubDate>
+		<title>
+			<![CDATA[Kristin add a quote by Lemony Snicket]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5479-taking-one-s-chances-is-like-taking-a-bath-because-sometimes]]>
+		</link>
+		<description>
+	    <![CDATA["Taking one’s chances is like taking a bath, because sometimes you end up feeling comfortable and warm, and sometimes there is something terrible lurking around that you cannot see until it is too late and you can do nothing else but scream and cling to a plastic duck." -- Lemony Snicket]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

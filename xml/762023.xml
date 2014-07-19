@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/762023-kris]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/762023-kris" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 06 Feb 2014 21:05:46 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1028938-instead-i-get-to-know-that-a-greater-yes-is</guid>
+		<pubDate>Thu, 06 Feb 2014 21:05:46 -0800</pubDate>
+		<title>
+			<![CDATA[Kris add a quote by Beth Moore]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1028938-instead-i-get-to-know-that-a-greater-yes-is]]>
+		</link>
+		<description>
+	    <![CDATA["Instead, I get to know that a greater yes is in progress, and I can count on the bigger miracle." -- Beth Moore]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1090520-what-reason-did-god-give-joshua-for-turning-from-fear</guid>
+		<pubDate>Sun, 02 Mar 2014 21:13:56 -0800</pubDate>
+		<title>
+			<![CDATA[Kris add a quote by Beth Moore]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1090520-what-reason-did-god-give-joshua-for-turning-from-fear]]>
+		</link>
+		<description>
+	    <![CDATA["What reason did God give Joshua for turning from fear and discouragement in the face of huge opposition? “The LORD your God will be with you wherever you go” (Josh. 1:9). When Jesus told His disciples not to be afraid in the storm, the reason wasn’t the removal of their frightful circumstances but the presence of their Savior. “Take courage! It is I. Don’t be afraid” (Matt. 14:27)." -- Beth Moore]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

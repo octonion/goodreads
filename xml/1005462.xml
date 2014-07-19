@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1005462-walt]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1005462-walt" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 21 Mar 2008 14:24:26 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/66334-truth-is-a-matter-of-the-imagination</guid>
+		<pubDate>Fri, 21 Mar 2008 14:24:26 -0700</pubDate>
+		<title>
+			<![CDATA[Walt add a quote by Ursula K. Le Guin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/66334-truth-is-a-matter-of-the-imagination]]>
+		</link>
+		<description>
+	    <![CDATA["Truth is a matter of the imagination." -- Ursula K. Le Guin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/37061-everybody-knows-how-to-raise-children-except-the-people-who</guid>
+		<pubDate>Fri, 21 Mar 2008 14:33:42 -0700</pubDate>
+		<title>
+			<![CDATA[Walt add a quote by P. J. O'Rourke]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/37061-everybody-knows-how-to-raise-children-except-the-people-who]]>
+		</link>
+		<description>
+	    <![CDATA["Everybody knows how to raise children, except the people who have them." -- P. J. O'Rourke]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2754-it-was-a-bright-cold-day-in-april-and-the</guid>
+		<pubDate>Fri, 13 Apr 2012 13:42:58 -0700</pubDate>
+		<title>
+			<![CDATA[Walt add a quote by George Orwell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2754-it-was-a-bright-cold-day-in-april-and-the]]>
+		</link>
+		<description>
+	    <![CDATA["It was a bright cold day in April, and the clocks were striking thirteen." -- George Orwell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

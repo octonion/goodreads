@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/251773-aubrey]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/251773-aubrey" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 29 Mar 2014 19:46:41 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/11079-what-you-do-speaks-so-loudly-that-i-cannot-hear</guid>
+		<pubDate>Sat, 29 Mar 2014 19:46:41 -0700</pubDate>
+		<title>
+			<![CDATA[Aubrey add a quote by Ralph Waldo Emerson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11079-what-you-do-speaks-so-loudly-that-i-cannot-hear]]>
+		</link>
+		<description>
+	    <![CDATA["What you do speaks so loudly that I cannot hear what you say." -- Ralph Waldo Emerson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/18014-the-earth-laughs-in-flowers</guid>
+		<pubDate>Sat, 29 Mar 2014 19:47:23 -0700</pubDate>
+		<title>
+			<![CDATA[Aubrey add a quote by Ralph Waldo Emerson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18014-the-earth-laughs-in-flowers]]>
+		</link>
+		<description>
+	    <![CDATA["The earth laughs in flowers." -- Ralph Waldo Emerson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/661703-let-your-soul-stand-cool-and-composed-before-a-million</guid>
+		<pubDate>Sat, 29 Mar 2014 20:25:31 -0700</pubDate>
+		<title>
+			<![CDATA[Aubrey add a quote by Walt Whitman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/661703-let-your-soul-stand-cool-and-composed-before-a-million]]>
+		</link>
+		<description>
+	    <![CDATA["Let your soul stand cool and composed
+    before a million universes." -- Walt Whitman]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/8021-i-sound-my-barbaric-yawp-over-the-rooftops-of-the</guid>
+		<pubDate>Sat, 31 May 2014 18:12:57 -0700</pubDate>
+		<title>
+			<![CDATA[Aubrey add a quote by Walt Whitman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8021-i-sound-my-barbaric-yawp-over-the-rooftops-of-the]]>
+		</link>
+		<description>
+	    <![CDATA["I sound my barbaric yawp over the rooftops of the world." -- Walt Whitman]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

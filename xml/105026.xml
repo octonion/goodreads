@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/105026-rachel]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/105026-rachel" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 29 Mar 2011 09:09:59 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/310212-every-returning-new-yorker-asks-the-question-is-this-still</guid>
+		<pubDate>Tue, 29 Mar 2011 09:09:59 -0700</pubDate>
+		<title>
+			<![CDATA[Rachel add a quote by Gary Shteyngart]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/310212-every-returning-new-yorker-asks-the-question-is-this-still]]>
+		</link>
+		<description>
+	    <![CDATA["Every returning New Yorker asks the question: Is this still my city? I have a ready answer, cloaked in obstinate despair: It is. And if it's not, I will love it all the more. I will love it to the point where it becomes mine again." -- Gary Shteyngart]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/272451-there-is-a-time-for-reciting-poems-and-a-time</guid>
+		<pubDate>Tue, 15 Nov 2011 08:26:43 -0800</pubDate>
+		<title>
+			<![CDATA[Rachel add a quote by Roberto Bolaño]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/272451-there-is-a-time-for-reciting-poems-and-a-time]]>
+		</link>
+		<description>
+	    <![CDATA["There is a time for reciting poems and a time for fists." -- Roberto Bolaño]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

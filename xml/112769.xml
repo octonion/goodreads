@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/112769-sephie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/112769-sephie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 25 Mar 2009 11:52:14 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/150067-a-mind-is-like-an-umbrella---only-useful-when</guid>
+		<pubDate>Wed, 25 Mar 2009 11:52:14 -0700</pubDate>
+		<title>
+			<![CDATA[Sephie add a quote by A work colleague]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/150067-a-mind-is-like-an-umbrella---only-useful-when]]>
+		</link>
+		<description>
+	    <![CDATA["A mind is like an umbrella - only useful when open." -- A work colleague]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2484-time-flies-like-an-arrow-fruit-flies-like-a-banana</guid>
+		<pubDate>Sat, 31 Oct 2009 11:39:56 -0700</pubDate>
+		<title>
+			<![CDATA[Sephie add a quote by Anthony G. Oettinger]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2484-time-flies-like-an-arrow-fruit-flies-like-a-banana]]>
+		</link>
+		<description>
+	    <![CDATA["Time flies like an arrow; fruit flies like a banana." -- Anthony G. Oettinger]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/203750-there-is-no-need-to-do-any-housework-at-all</guid>
+		<pubDate>Sat, 31 Oct 2009 11:50:20 -0700</pubDate>
+		<title>
+			<![CDATA[Sephie add a quote by Quentin Crisp]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/203750-there-is-no-need-to-do-any-housework-at-all]]>
+		</link>
+		<description>
+	    <![CDATA["There is no need to do any housework at all. After the first four years the dirt doesn't get any worse." -- Quentin Crisp]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

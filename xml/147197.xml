@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/147197-tammy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/147197-tammy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 20 May 2011 12:27:21 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/18468-first-they-came-for-the-communists-and-i-did-not</guid>
+		<pubDate>Fri, 20 May 2011 12:27:21 -0700</pubDate>
+		<title>
+			<![CDATA[Tammy add a quote by Martin Niemöller]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18468-first-they-came-for-the-communists-and-i-did-not]]>
+		</link>
+		<description>
+	    <![CDATA["First they came for the communists, and I did not speak out—
+    because I was not a communist;
+Then they came for the socialists, and I did not speak out—
+    because I was not a socialist;
+Then they came for the trade unionists, and I did not speak out—
+    because I was not a trade unionist;
+Then they came for the Jews, and I did not speak out—
+    because I was not a Jew;
+Then they came for me—
+    and there was no one left to speak out for me." -- Martin Niemöller]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/102153-from-the-ashes-a-fire-shall-be-woken-a-light</guid>
+		<pubDate>Thu, 19 Apr 2012 13:05:07 -0700</pubDate>
+		<title>
+			<![CDATA[Tammy add a quote by J.R.R. Tolkien]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/102153-from-the-ashes-a-fire-shall-be-woken-a-light]]>
+		</link>
+		<description>
+	    <![CDATA["From the ashes a fire shall be woken,
+A light from the shadows shall spring;
+Renewed shall be blade that was broken,
+The crownless again shall be king." -- J.R.R. Tolkien]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

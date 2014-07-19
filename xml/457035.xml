@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/457035-terry]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/457035-terry" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 26 Feb 2012 12:37:46 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/447180-we-have-a-large-public-that-is-very-ignorant-about</guid>
+		<pubDate>Sun, 26 Feb 2012 12:37:46 -0800</pubDate>
+		<title>
+			<![CDATA[Terry add a quote by Zbigniew Brzezinski]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/447180-we-have-a-large-public-that-is-very-ignorant-about]]>
+		</link>
+		<description>
+	    <![CDATA["We have a large public that is very ignorant about public affairs and very susceptible to simplistic slogans by candidates who appear out of nowhere, have no track record, but mouth appealing slogans" -- Zbigniew Brzezinski]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/162691-the-technotronic-era-involves-the-gradual-appearance-of-a-more</guid>
+		<pubDate>Sun, 26 Feb 2012 12:38:08 -0800</pubDate>
+		<title>
+			<![CDATA[Terry add a quote by Zbigniew Brzezinski]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/162691-the-technotronic-era-involves-the-gradual-appearance-of-a-more]]>
+		</link>
+		<description>
+	    <![CDATA["The technotronic era involves the gradual appearance of a more controlled society. Such a society would be dominated by an elite, unrestrained by traditional values. Soon it will be possible to assert almost continuous surveillance over every citizen and maintain up-to-date complete files containing even the most personal information about the citizen. These files will be subject to instantaneous retrieval by the authorities. " -- Zbigniew Brzezinski]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

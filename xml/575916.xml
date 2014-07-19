@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/575916-christina]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/575916-christina" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 06 Jul 2008 18:44:51 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/184-animals-are-my-friends-and-i-don-t-eat-my-friends</guid>
+		<pubDate>Sun, 06 Jul 2008 18:44:51 -0700</pubDate>
+		<title>
+			<![CDATA[Christina add a quote by George Bernard Shaw]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/184-animals-are-my-friends-and-i-don-t-eat-my-friends]]>
+		</link>
+		<description>
+	    <![CDATA["Animals are my friends...and I don't eat my friends." -- George Bernard Shaw]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5892-our-life-is-frittered-away-by-detail-simplify-simplify</guid>
+		<pubDate>Fri, 24 Oct 2008 07:13:55 -0700</pubDate>
+		<title>
+			<![CDATA[Christina add a quote by Henry David Thoreau]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5892-our-life-is-frittered-away-by-detail-simplify-simplify]]>
+		</link>
+		<description>
+	    <![CDATA["Our life is frittered away by detail. Simplify, simplify." -- Henry David Thoreau]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/26777-one-day-in-the-country-is-worth-a-month-in</guid>
+		<pubDate>Fri, 24 Oct 2008 07:14:39 -0700</pubDate>
+		<title>
+			<![CDATA[Christina add a quote by Christina Rossetti]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/26777-one-day-in-the-country-is-worth-a-month-in]]>
+		</link>
+		<description>
+	    <![CDATA["One day in the country 
+Is worth a month in town" -- Christina Rossetti]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5543-insanity-is-doing-the-same-thing-over-and-over-again</guid>
+		<pubDate>Sat, 25 Oct 2008 16:53:24 -0700</pubDate>
+		<title>
+			<![CDATA[Christina add a quote by Narcotics Anonymous]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5543-insanity-is-doing-the-same-thing-over-and-over-again]]>
+		</link>
+		<description>
+	    <![CDATA["Insanity is doing the same thing, over and over again, but expecting different results." -- Narcotics Anonymous]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

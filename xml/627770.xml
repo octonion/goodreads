@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/627770-rachel]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/627770-rachel" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 21 Feb 2009 10:35:14 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/62058-all-sanity-depends-on-this-that-it-should-be-a</guid>
+		<pubDate>Sat, 21 Feb 2009 10:35:14 -0800</pubDate>
+		<title>
+			<![CDATA[Rachel add a quote by Doris Lessing]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/62058-all-sanity-depends-on-this-that-it-should-be-a]]>
+		</link>
+		<description>
+	    <![CDATA["All sanity depends on this: that it should be a delight to feel heat strike the skin, a delight to stand upright, knowing the bones moving easily under the flesh." -- Doris Lessing]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/42042-sometimes-i-dislike-women-i-dislike-us-all-because-of</guid>
+		<pubDate>Sat, 21 Feb 2009 10:37:12 -0800</pubDate>
+		<title>
+			<![CDATA[Rachel add a quote by Doris Lessing]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/42042-sometimes-i-dislike-women-i-dislike-us-all-because-of]]>
+		</link>
+		<description>
+	    <![CDATA["Sometimes I dislike women, I dislike us all, because of our capacity for not-thinking when it suits us; we choose not to think when we are reaching our for happiness." -- Doris Lessing]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

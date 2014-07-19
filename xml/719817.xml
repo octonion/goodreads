@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/719817-kelley-barnhardt]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/719817-kelley-barnhardt" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 15 Jan 2014 20:03:14 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/996638-having-clients-still-seemed-a-little-unnatural-though-it-made</guid>
+		<pubDate>Wed, 15 Jan 2014 20:03:14 -0800</pubDate>
+		<title>
+			<![CDATA[Kelley add a quote by Meg Wolitzer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/996638-having-clients-still-seemed-a-little-unnatural-though-it-made]]>
+		</link>
+		<description>
+	    <![CDATA["Having clients still seemed a little unnatural, though; it made Jules feel that she was a businessperson, someone in, say, consulting, that vague field that she’d never really understood, though over the years through Ethan and Ash, she and Dennis had met people who made their livings this way. No one wanted to be a patient anymore; everyone wanted to be a client. More to the point, everyone wanted to be a consultant." -- Meg Wolitzer]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

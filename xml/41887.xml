@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/41887-rebecca]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/41887-rebecca" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 10 Nov 2013 00:57:07 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/751314-pimps-make-the-best-librarians-psycho-killers-the-worst-ditto</guid>
+		<pubDate>Sun, 10 Nov 2013 00:57:07 -0800</pubDate>
+		<title>
+			<![CDATA[Rebecca add a quote by Avi Steinberg]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/751314-pimps-make-the-best-librarians-psycho-killers-the-worst-ditto]]>
+		</link>
+		<description>
+	    <![CDATA["Pimps make the best librarians. Psycho killers, the worst. Ditto con men. Gangsters, gunrunners, bank robbers- adept at crowd control, at collaborating with a small staff, at planning with deliberation and executing with contained fury- all possess the librarian's basic skill set." -- Avi Steinberg]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

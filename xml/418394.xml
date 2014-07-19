@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/418394-amy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/418394-amy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 25 Nov 2007 18:44:00 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/369-a-human-being-is-a-part-of-the-whole-called</guid>
+		<pubDate>Sun, 25 Nov 2007 18:44:00 -0800</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/369-a-human-being-is-a-part-of-the-whole-called]]>
+		</link>
+		<description>
+	    <![CDATA["A human being is a part of the whole called by us universe, a part limited in time and space. He experiences himself, his thoughts and feeling as something separated from the rest, a kind of optical delusion of his consciousness. This delusion is a kind of prison for us, restricting us to our personal desires and to affection for a few persons nearest to us. Our task must be to free ourselves from this prison by widening our circle of compassion to embrace all living creatures and the whole of nature in its beauty." -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/21-man-is-so-intelligent-that-he-feels-impelled-to-invent</guid>
+		<pubDate>Sun, 25 Nov 2007 18:47:08 -0800</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Aldous Huxley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21-man-is-so-intelligent-that-he-feels-impelled-to-invent]]>
+		</link>
+		<description>
+	    <![CDATA["Man is so intelligent that he feels impelled to invent theories to account for what happens in the world.  Unfortunately, he is not quite intelligent enough, in most cases, to find correct explanations. So that when he acts on his theories, he behaves very often like a lunatic." -- Aldous Huxley]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/352-outside-of-a-dog-a-book-is-man-s-best-friend</guid>
+		<pubDate>Sun, 25 Nov 2007 18:49:42 -0800</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Groucho Marx]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/352-outside-of-a-dog-a-book-is-man-s-best-friend]]>
+		</link>
+		<description>
+	    <![CDATA["Outside of a dog, a book is man's best friend. Inside of a dog it's too dark to read." -- Groucho Marx]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

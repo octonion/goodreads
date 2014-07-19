@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/624741-laura]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/624741-laura" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 14 Nov 2008 10:25:11 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/114257-the-significant-difference-between-proust-and-faulkner-for-sartre-is</guid>
+		<pubDate>Fri, 14 Nov 2008 10:25:11 -0800</pubDate>
+		<title>
+			<![CDATA[Laura add a quote by John McCormick]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/114257-the-significant-difference-between-proust-and-faulkner-for-sartre-is]]>
+		</link>
+		<description>
+	    <![CDATA["The significant difference between Proust and Faulkner, for Sartre, is that where Proust discovers salvation in time, in the recovery of time past, for Faulkner time is never lost, however much he may want, like a mystic, to forget time.  Both writers emphasize the transitoriness of emotion, of the condition of love or misery, or whatever passes because it is transitory in time.  &quot;Proust really should have employed a technique like Faulkner's,&quot; Sartre legislates, &quot;that was the logical outcome of his metaphysic.  Faulkner, however, is a lost man, and because he knows that he is lost he risks pushing his thoughts to its conclusion. Proust is a classicist and a Frenchman; and the French lose themselves with caution and always end by finding themselves." -- John McCormick]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1053564-alexis]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1053564-alexis" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 21 Nov 2008 18:57:23 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/48580-usually-we-walk-around-constantly-believing-ourselves-i-m-okay-we</guid>
+		<pubDate>Fri, 21 Nov 2008 18:57:23 -0800</pubDate>
+		<title>
+			<![CDATA[Alexis add a quote by Markus Zusak]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/48580-usually-we-walk-around-constantly-believing-ourselves-i-m-okay-we]]>
+		</link>
+		<description>
+	    <![CDATA["Usually we walk around constantly believing ourselves.  &quot;I'm okay&quot; we say.  &quot;I'm alright&quot;.  But sometimes the truth arrives on you and you can't get it off.  That's when you realize that sometimes it isn't even an answer--it's a question.  Even now, I wonder how much of my life is convinced." -- Markus Zusak]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

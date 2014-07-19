@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1050882-naeem]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1050882-naeem" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 14 Aug 2013 17:47:23 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/558708-o-allah-you-know-me-better-than-i-know-myself</guid>
+		<pubDate>Wed, 14 Aug 2013 17:47:23 -0700</pubDate>
+		<title>
+			<![CDATA[Naeem add a quote by Abu Bakr al-Siddiq]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/558708-o-allah-you-know-me-better-than-i-know-myself]]>
+		</link>
+		<description>
+	    <![CDATA["O Allah, You know me better than I know myself, and I know myself better than these people who praise me. Make me better than what they think of me, and forgive those sins of mine of which they have no knowledge, and do not hold me responsible for what they say." -- Abu Bakr al-Siddiq]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

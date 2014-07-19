@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/597894-kristi]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/597894-kristi" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 25 Oct 2009 14:55:49 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/56800-why-am-i-afraid-to-dance-i-who-love-music</guid>
+		<pubDate>Sun, 25 Oct 2009 14:55:49 -0700</pubDate>
+		<title>
+			<![CDATA[Kristi add a quote by Eugene O'Neill]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/56800-why-am-i-afraid-to-dance-i-who-love-music]]>
+		</link>
+		<description>
+	    <![CDATA["Why am I afraid to dance, I who love music and rhythm and grace and song and laughter?  Why am I afraid to live, I who love life and the beauty of flesh and the living colors of the earth and sky and sea?  Why am I afraid to love, I who love love?" -- Eugene O'Neill]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

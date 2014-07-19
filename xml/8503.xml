@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/8503-k]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/8503-k" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 01 Sep 2013 09:57:09 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/388914-i-bear-the-wounds-of-all-the-battles-i-avoided</guid>
+		<pubDate>Sun, 01 Sep 2013 09:57:09 -0700</pubDate>
+		<title>
+			<![CDATA[k add a quote by Fernando Pessoa ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/388914-i-bear-the-wounds-of-all-the-battles-i-avoided]]>
+		</link>
+		<description>
+	    <![CDATA["I bear the wounds of all the battles I avoided." -- Fernando Pessoa ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/226610-i-think-people-are-dazzled-by-obama-s-rhetoric-and-that</guid>
+		<pubDate>Thu, 17 Oct 2013 19:25:55 -0700</pubDate>
+		<title>
+			<![CDATA[k add a quote by Howard Zinn]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/226610-i-think-people-are-dazzled-by-obama-s-rhetoric-and-that]]>
+		</link>
+		<description>
+	    <![CDATA["I think people are dazzled by Obama's rhetoric, and that people ought to begin to understand that Obama is going to be a mediocre president — which means, in our time, a dangerous president — unless there is some national movement to push him in a better direction." -- Howard Zinn]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/328134-socialism-never-took-root-in-america-because-the-poor-see</guid>
+		<pubDate>Thu, 19 Dec 2013 17:20:57 -0800</pubDate>
+		<title>
+			<![CDATA[k add a quote by John Steinbeck]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/328134-socialism-never-took-root-in-america-because-the-poor-see]]>
+		</link>
+		<description>
+	    <![CDATA["Socialism never took root in America because the poor see themselves not as an exploited proletariat but as temporarily embarrassed millionaires." -- John Steinbeck]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

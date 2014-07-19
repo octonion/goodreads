@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/933093-matt]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/933093-matt" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 28 Mar 2008 06:21:02 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/9073-a-book-no-more-contains-reality-than-a-clock-contains</guid>
+		<pubDate>Fri, 28 Mar 2008 06:21:02 -0700</pubDate>
+		<title>
+			<![CDATA[Matt add a quote by Tom Robbins]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9073-a-book-no-more-contains-reality-than-a-clock-contains]]>
+		</link>
+		<description>
+	    <![CDATA["A book no more contains reality than a clock contains time. A book may measure so-called reality as a clock measures so-called time; a book may create an illusion of reality as a clock creates an illusion of time; a book may be real, just as a clock is real (both more real, perhaps, than those ideas to which they allude); but let's not kid ourselves - all a clock contains is wheels and springs and all a book contains is sentences." -- Tom Robbins]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/360-good-friends-good-books-and-a-sleepy-conscience-this-is</guid>
+		<pubDate>Fri, 28 Mar 2008 06:23:17 -0700</pubDate>
+		<title>
+			<![CDATA[Matt add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/360-good-friends-good-books-and-a-sleepy-conscience-this-is]]>
+		</link>
+		<description>
+	    <![CDATA["Good friends, good books, and a sleepy conscience: this is the ideal life." -- Mark Twain]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

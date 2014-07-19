@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/97804-lily]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/97804-lily" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 27 Nov 2009 22:06:48 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2934-nothing-makes-a-man-so-adventurous-as-an-empty-pocket</guid>
+		<pubDate>Fri, 27 Nov 2009 22:06:48 -0800</pubDate>
+		<title>
+			<![CDATA[Lily add a quote by Victor Hugo]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2934-nothing-makes-a-man-so-adventurous-as-an-empty-pocket]]>
+		</link>
+		<description>
+	    <![CDATA["Nothing makes a man so adventurous as an empty pocket." -- Victor Hugo]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/386558-there-is-only-one-god-and-his-name-is-death</guid>
+		<pubDate>Thu, 25 Oct 2012 21:58:09 -0700</pubDate>
+		<title>
+			<![CDATA[Lily add a quote by George R. R. Martin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/386558-there-is-only-one-god-and-his-name-is-death]]>
+		</link>
+		<description>
+	    <![CDATA["There is only one god and his name is Death. And there is only one thing we say to Death: “Not today." -- George R. R. Martin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/227323-give-me-honorable-enemies-rather-than-ambitious-ones-and-i-ll</guid>
+		<pubDate>Thu, 25 Oct 2012 21:58:56 -0700</pubDate>
+		<title>
+			<![CDATA[Lily add a quote by George R.R. Martin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/227323-give-me-honorable-enemies-rather-than-ambitious-ones-and-i-ll]]>
+		</link>
+		<description>
+	    <![CDATA["Give me honorable enemies rather than ambitious ones, and I'll sleep more easily by night." -- George R.R. Martin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/98539-there-is-so-little-to-remember-of-anyone---an</guid>
+		<pubDate>Fri, 06 Sep 2013 22:25:53 -0700</pubDate>
+		<title>
+			<![CDATA[Lily add a quote by Marilynne Robinson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/98539-there-is-so-little-to-remember-of-anyone---an]]>
+		</link>
+		<description>
+	    <![CDATA["There is so little to remember of anyone - an anecdote, a conversation at a table. But every memory is turned over and over again, every word, however chance, written in the heart in the hope that memory will fulfill itself, and become flesh, and that the wanderers will find a way home, and the perished, whose lack we always feel, will step through the door finally and stroke our hair with dreaming habitual fondness not having meant to keep us waiting long." -- Marilynne Robinson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/741334-kendra]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/741334-kendra" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 08 Nov 2008 05:44:55 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/112399-a-hunch-is-creativity-trying-to-tell-you-something</guid>
+		<pubDate>Sat, 08 Nov 2008 05:44:55 -0800</pubDate>
+		<title>
+			<![CDATA[Kendra add a quote by Frank Capra]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/112399-a-hunch-is-creativity-trying-to-tell-you-something]]>
+		</link>
+		<description>
+	    <![CDATA["A hunch is creativity trying to tell you something." -- Frank Capra]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/22533-ideas-are-like-rabbits-you-get-a-couple-and-learn</guid>
+		<pubDate>Sat, 08 Nov 2008 05:45:30 -0800</pubDate>
+		<title>
+			<![CDATA[Kendra add a quote by John Steinbeck]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22533-ideas-are-like-rabbits-you-get-a-couple-and-learn]]>
+		</link>
+		<description>
+	    <![CDATA["Ideas are like rabbits. You get a couple and learn how to handle them, and pretty soon you have a dozen." -- John Steinbeck]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/112940-more-than-a-building-that-houses-books-and-data-the</guid>
+		<pubDate>Fri, 03 Jun 2011 07:53:14 -0700</pubDate>
+		<title>
+			<![CDATA[Kendra add a quote by Barack Obama]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/112940-more-than-a-building-that-houses-books-and-data-the]]>
+		</link>
+		<description>
+	    <![CDATA["More than a building that houses books and data, the library has always been a window to a larger world--a place where we've always come to discover big ideas and profound concepts that help move the American story forward. . . . .
+
+Libraries remind us that truth isn't about who yells the loudest, but who has the right information. Because even as we're the most religious of people, America's innovative genius has always been preserved because we also have a deep faith in facts.
+
+And so the moment we persuade a child, any child, to cross that threshold into a library, we've changed their lives forever, and for the better. This is an enormous force for good." -- Barack Obama]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

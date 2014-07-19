@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/611521-jordan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/611521-jordan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 30 Nov 2012 15:30:20 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/72361-any-fool-can-know-the-point-is-to-understand</guid>
+		<pubDate>Fri, 30 Nov 2012 15:30:20 -0800</pubDate>
+		<title>
+			<![CDATA[Jordan add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/72361-any-fool-can-know-the-point-is-to-understand]]>
+		</link>
+		<description>
+	    <![CDATA["Any fool can know. The point is to understand." -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/418808-it-is-always-the-novice-who-exaggerates</guid>
+		<pubDate>Sun, 14 Apr 2013 13:19:23 -0700</pubDate>
+		<title>
+			<![CDATA[Jordan add a quote by C.S. Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/418808-it-is-always-the-novice-who-exaggerates]]>
+		</link>
+		<description>
+	    <![CDATA["It is always the novice who exaggerates." -- C.S. Lewis]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/273348-nature-gives-you-the-face-you-have-at-twenty-it</guid>
+		<pubDate>Sat, 23 Nov 2013 11:18:58 -0800</pubDate>
+		<title>
+			<![CDATA[Jordan add a quote by Coco Chanel]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/273348-nature-gives-you-the-face-you-have-at-twenty-it]]>
+		</link>
+		<description>
+	    <![CDATA["Nature gives you the face you have at twenty; it is up to you to merit the face you have at fifty." -- Coco Chanel]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/138848-the-more-sand-that-has-escaped-from-the-hourglass-of</guid>
+		<pubDate>Sat, 23 Nov 2013 11:19:01 -0800</pubDate>
+		<title>
+			<![CDATA[Jordan add a quote by Jean-Paul Sartre]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/138848-the-more-sand-that-has-escaped-from-the-hourglass-of]]>
+		</link>
+		<description>
+	    <![CDATA["The more sand that has escaped from the hourglass of our life, the clearer we should see through it." -- Jean-Paul Sartre]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

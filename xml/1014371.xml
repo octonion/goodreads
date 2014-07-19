@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1014371-kris]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1014371-kris" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 28 Jun 2008 14:45:42 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4889-to-be-nobody-but-yourself-in-a-world-which-is</guid>
+		<pubDate>Sat, 28 Jun 2008 14:45:42 -0700</pubDate>
+		<title>
+			<![CDATA[Kris add a quote by e.e. cummings]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4889-to-be-nobody-but-yourself-in-a-world-which-is]]>
+		</link>
+		<description>
+	    <![CDATA["To be nobody but 
+yourself in a world 
+which is doing its best day and night to make you like 
+everybody else means to fight the hardest battle 
+which any human being can fight and never stop fighting." -- e.e. cummings]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1427-i-have-never-let-my-schooling-interfere-with-my-education</guid>
+		<pubDate>Sat, 28 Jun 2008 14:47:52 -0700</pubDate>
+		<title>
+			<![CDATA[Kris add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1427-i-have-never-let-my-schooling-interfere-with-my-education]]>
+		</link>
+		<description>
+	    <![CDATA["I have never let my schooling interfere with my education." -- Mark Twain]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

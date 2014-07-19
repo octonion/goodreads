@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/820403-val]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/820403-val" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 23 Oct 2011 03:04:57 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/188569-if-you-don-t-know-history-then-you-don-t-know-anything</guid>
+		<pubDate>Sun, 23 Oct 2011 03:04:57 -0700</pubDate>
+		<title>
+			<![CDATA[Val add a quote by Michael Crichton]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/188569-if-you-don-t-know-history-then-you-don-t-know-anything]]>
+		</link>
+		<description>
+	    <![CDATA["If you don't know history, then you don't know anything. You are a leaf that doesn't know it is part of a tree. " -- Michael Crichton]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/308099-joanne]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/308099-joanne" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 13 Sep 2011 02:48:56 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/435590-reading-is-my-pleasure-writing-is-my-passion</guid>
+		<pubDate>Tue, 13 Sep 2011 02:48:56 -0700</pubDate>
+		<title>
+			<![CDATA[Joanne add a quote by Joanne Weck]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/435590-reading-is-my-pleasure-writing-is-my-passion]]>
+		</link>
+		<description>
+	    <![CDATA["Reading is my pleasure; writing is my passion." -- Joanne Weck]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/79625-there-is-no-doubt-fiction-makes-a-better-job-of</guid>
+		<pubDate>Sat, 05 Nov 2011 10:57:48 -0700</pubDate>
+		<title>
+			<![CDATA[Joanne add a quote by Doris May Lessing]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/79625-there-is-no-doubt-fiction-makes-a-better-job-of]]>
+		</link>
+		<description>
+	    <![CDATA["There is no doubt fiction makes a better job of the truth." -- Doris May Lessing]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

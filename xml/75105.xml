@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/75105-matt]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/75105-matt" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 12 Mar 2010 23:37:46 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/34292-i-want-to-give-a-really-bad-party-i-mean</guid>
+		<pubDate>Fri, 12 Mar 2010 23:37:46 -0800</pubDate>
+		<title>
+			<![CDATA[Matt add a quote by F. Scott Fitzgerald]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/34292-i-want-to-give-a-really-bad-party-i-mean]]>
+		</link>
+		<description>
+	    <![CDATA["I want to give a really BAD party. I mean it. I want to give a party where there’s a brawl and seductions and people going home with their feelings hurt and women passed out in the cabinet de toilette. You wait and see." -- F. Scott Fitzgerald]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1250-if-i-knew-that-today-would-be-the-last-time</guid>
+		<pubDate>Tue, 07 Dec 2010 13:55:06 -0800</pubDate>
+		<title>
+			<![CDATA[Matt add a quote by Gabriel García Márquez]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1250-if-i-knew-that-today-would-be-the-last-time]]>
+		</link>
+		<description>
+	    <![CDATA["If I knew that today would be the last time I’d see you, I would hug you tight and pray the Lord be the keeper of your soul. If I knew that this would be the last time you pass through this door, I’d embrace you, kiss you, and call you back for one more. If I knew that this would be the last time I would hear your voice, I’d take hold of each word to be able to hear it over and over again. If I knew this is the last time I see you, I’d tell you I love you, and would not just assume foolishly you know it already." -- Gabriel García Márquez]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

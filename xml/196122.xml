@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/196122-tara]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/196122-tara" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 14 Nov 2012 07:27:03 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/46107-let-us-have-integrity-and-not-write-checks-with-our</guid>
+		<pubDate>Wed, 14 Nov 2012 07:27:03 -0800</pubDate>
+		<title>
+			<![CDATA[Tara add a quote by Neal A. Maxwell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/46107-let-us-have-integrity-and-not-write-checks-with-our]]>
+		</link>
+		<description>
+	    <![CDATA["Let us have integrity and not write checks with our tongues which our conduct cannot cash." -- Neal A. Maxwell]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/212339-faith-in-god-includes-faith-in-god-s-timing</guid>
+		<pubDate>Wed, 14 Nov 2012 08:24:55 -0800</pubDate>
+		<title>
+			<![CDATA[Tara add a quote by Neal A. Maxwell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/212339-faith-in-god-includes-faith-in-god-s-timing]]>
+		</link>
+		<description>
+	    <![CDATA["Faith in God includes Faith in God's timing." -- Neal A. Maxwell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

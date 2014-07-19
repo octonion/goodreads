@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1022362-maria]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1022362-maria" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 07 Sep 2011 11:44:42 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/255415-how-do-you-spell-relax-i-whispered-holding-his-head</guid>
+		<pubDate>Wed, 07 Sep 2011 11:44:42 -0700</pubDate>
+		<title>
+			<![CDATA[Maria add a quote by Yasmine Galenorn]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/255415-how-do-you-spell-relax-i-whispered-holding-his-head]]>
+		</link>
+		<description>
+	    <![CDATA["How Do you spell relax?&quot; I whispered, holding his head with my hands.
+I think the answer is f-u-c-k-m-e.&quot; He answered." -- Yasmine Galenorn]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/278428-some-hurts-can-never-be-mended-he-said-no-matter</guid>
+		<pubDate>Wed, 07 Sep 2011 11:44:43 -0700</pubDate>
+		<title>
+			<![CDATA[Maria add a quote by Yasmine Galenorn]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/278428-some-hurts-can-never-be-mended-he-said-no-matter]]>
+		</link>
+		<description>
+	    <![CDATA["Some hurts can never be mended&quot; he said. &quot;No matter how much time passes. They tattoo themselves on our souls" -- Yasmine Galenorn]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/318221-martin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/318221-martin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 26 Mar 2010 21:06:55 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/140890-there-comes-a-time-when-every-life-goes-off-course</guid>
+		<pubDate>Fri, 26 Mar 2010 21:06:55 -0700</pubDate>
+		<title>
+			<![CDATA[Martin add a quote by H.G. Adler]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/140890-there-comes-a-time-when-every-life-goes-off-course]]>
+		</link>
+		<description>
+	    <![CDATA["There comes a time when every life goes off course, when you must choose a direction. Will you fight to stay on path? Will others tell you who you are, or will you label yourself? Will you face your greatest fear bravely? Or will you succumb to the darkness in your soul? Will you be haunted by your choice? Or will you embrace your new path? Each morning you choose to move forward or simply give up.&quot;
+
+" -- H.G. Adler]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/281594-literature-deals-with-morality-but-does-not-necessarily-does-not</guid>
+		<pubDate>Sat, 26 Oct 2013 04:41:32 -0700</pubDate>
+		<title>
+			<![CDATA[Martin add a quote by Eric Bentley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/281594-literature-deals-with-morality-but-does-not-necessarily-does-not]]>
+		</link>
+		<description>
+	    <![CDATA["Literature deals with morality but does not necessarily, does not, qua literature, help you to be more moral, either by precept or example. It makes you more aware. Which is to say that it makes you more human by making life more, not less, difficult. When you become more aware, the area of moral choice is widened. You can be a better man; you can also be a worse. Literature will not determine which. It is the equivalent of neither grace nor good works." -- Eric Bentley]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

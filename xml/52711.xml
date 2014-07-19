@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/52711-christina]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/52711-christina" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 15 Mar 2013 08:55:54 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/282593-it-is-a-serious-thing-to-live-in-a-society</guid>
+		<pubDate>Fri, 15 Mar 2013 08:55:54 -0700</pubDate>
+		<title>
+			<![CDATA[christina add a quote by C.S. Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/282593-it-is-a-serious-thing-to-live-in-a-society]]>
+		</link>
+		<description>
+	    <![CDATA["It is a serious thing to live in a society of possible gods and goddesses, to remember that the dullest most uninteresting person you talk to may one day be a creature which,if you say it now, you would be strongly tempted to worship, or else a horror and a corruption such as you now meet, if at all, only in a nightmare. All day long we are, in some degree helping each other to one or the other of these destinations. It is in the light of these overwhelming possibilites, it is with the awe and the circumspection proper to them, that we should conduct all of our dealings with one another, all friendships, all loves, all play, all politics. There are no ordinary people. You have never  talked to a mere mortal. nations, cultures, arts, civilizations - These are mortal, and their life is to ours as the life of a gnat. But it is immortals whom we joke with, work with, marry, snub, and exploit - immortal horrors or everlasting splendors." -- C.S. Lewis]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

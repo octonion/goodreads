@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/107369-austin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/107369-austin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 21 Jun 2012 12:36:06 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/22727-when-you-can-t-bear-something-but-it-goes-on-anyway</guid>
+		<pubDate>Thu, 21 Jun 2012 12:36:06 -0700</pubDate>
+		<title>
+			<![CDATA[Austin add a quote by Austin Grossman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22727-when-you-can-t-bear-something-but-it-goes-on-anyway]]>
+		</link>
+		<description>
+	    <![CDATA["When you can't bear something but it goes on anyway, the person who survives isn't you anymore; you've changed and become someone else, a new person, the one who did bear it after all." -- Austin Grossman]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

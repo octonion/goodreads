@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/825356-okyrhoe]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/825356-okyrhoe" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 05 Apr 2012 05:54:45 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/161953-we-enter-into-a-relationship-with-any-text-we-hear</guid>
+		<pubDate>Thu, 05 Apr 2012 05:54:45 -0700</pubDate>
+		<title>
+			<![CDATA[okyrhoe add a quote by Lee A. Siegel]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/161953-we-enter-into-a-relationship-with-any-text-we-hear]]>
+		</link>
+		<description>
+	    <![CDATA["We enter into a relationship with any text we hear or read, like the relationship with a friend, a lover, or an enemy. A relationship is the ultimate meaning of the text." -- Lee A. Siegel]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/504041-you-want-to-know-about-anybody-see-what-books-they</guid>
+		<pubDate>Sun, 09 Mar 2014 10:09:11 -0700</pubDate>
+		<title>
+			<![CDATA[okyrhoe add a quote by Keri Hulme]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/504041-you-want-to-know-about-anybody-see-what-books-they]]>
+		</link>
+		<description>
+	    <![CDATA["You want to know about anybody? See what books they read, and how they've been read..." -- Keri Hulme]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

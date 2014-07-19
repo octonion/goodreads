@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/258404-julie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/258404-julie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 06 Jul 2008 15:42:45 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/10024-once-in-my-father-s-bookshop-i-heard-a-regular-customer</guid>
+		<pubDate>Sun, 06 Jul 2008 15:42:45 -0700</pubDate>
+		<title>
+			<![CDATA[Julie add a quote by Carlos Ruiz Zafon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10024-once-in-my-father-s-bookshop-i-heard-a-regular-customer]]>
+		</link>
+		<description>
+	    <![CDATA["Once, in my father's bookshop, I heard a regular customer say that few things leave a deeper mark on a reader than the first book that finds its way into his heart.  Those first images, the echo of words we think we have left behind, accompany us throughout our lives and sculpt a palace in our memory to which, sooner or later—no matter how many books we read, how many worlds we discover, or how much we learn or forget—we will return." -- Carlos Ruiz Zafon]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

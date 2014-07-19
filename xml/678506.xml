@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/678506-patrick-mccoy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/678506-patrick-mccoy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 07 May 2013 23:48:40 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/798493-i-want-to-urge-you-very-strongly-to-travel-as</guid>
+		<pubDate>Tue, 07 May 2013 23:48:40 -0700</pubDate>
+		<title>
+			<![CDATA[Patrick add a quote by Christopher Hitchens]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/798493-i-want-to-urge-you-very-strongly-to-travel-as]]>
+		</link>
+		<description>
+	    <![CDATA["I want to urge you very strongly to travel as much as you can, and to evolve yourself as an internationalist. It's as important a part of your education as a radical as the reading of any book." -- Christopher Hitchens]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/136464-so-everything-lets-us-down-including-curiosity-and-honesty-and</guid>
+		<pubDate>Mon, 13 May 2013 08:52:21 -0700</pubDate>
+		<title>
+			<![CDATA[Patrick add a quote by Roberto Bolaño]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/136464-so-everything-lets-us-down-including-curiosity-and-honesty-and]]>
+		</link>
+		<description>
+	    <![CDATA["So everything lets us down, including curiosity and honesty and what we love best. Yes, said the voice, but cheer up, it's fun in the end." -- Roberto Bolaño]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

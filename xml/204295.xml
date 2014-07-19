@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/204295-martha]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/204295-martha" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 29 Mar 2011 08:04:25 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/361608-if-you-don-t-have-peace-it-isn-t-because-someone-took</guid>
+		<pubDate>Tue, 29 Mar 2011 08:04:25 -0700</pubDate>
+		<title>
+			<![CDATA[Martha add a quote by John C. Maxwell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/361608-if-you-don-t-have-peace-it-isn-t-because-someone-took]]>
+		</link>
+		<description>
+	    <![CDATA["if you don't have peace, it isn't because someone took it from you; you gave it away.  You cannot always control what happens to you, but you can control what happens in you." -- John C. Maxwell]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/352332-why-not-go-out-on-a-limb-that-s-where-the</guid>
+		<pubDate>Tue, 24 Jun 2014 01:46:55 -0700</pubDate>
+		<title>
+			<![CDATA[Martha add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/352332-why-not-go-out-on-a-limb-that-s-where-the]]>
+		</link>
+		<description>
+	    <![CDATA["Why not go out on a limb? That's where the fruit is." -- Mark Twain]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

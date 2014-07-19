@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/355700-allison]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/355700-allison" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 27 Aug 2008 22:34:33 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/9309-it-is-not-in-the-stars-to-hold-our-destiny</guid>
+		<pubDate>Wed, 27 Aug 2008 22:34:33 -0700</pubDate>
+		<title>
+			<![CDATA[Allison add a quote by William Shakespeare]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9309-it-is-not-in-the-stars-to-hold-our-destiny]]>
+		</link>
+		<description>
+	    <![CDATA["It is not in the stars to hold our destiny but in ourselves." -- William Shakespeare]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/66512-i-believe-in-pink-i-believe-that-laughing-is-the</guid>
+		<pubDate>Mon, 18 May 2009 07:45:00 -0700</pubDate>
+		<title>
+			<![CDATA[Allison add a quote by Audrey Hepburn]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/66512-i-believe-in-pink-i-believe-that-laughing-is-the]]>
+		</link>
+		<description>
+	    <![CDATA["I believe in pink. I believe that laughing is the best calorie burner. I believe in kissing, kissing a lot. I believe in being strong when everything seems to be going wrong. I believe that happy girls are the prettiest girls. I believe that tomorrow is another day and I believe in miracles." -- Audrey Hepburn]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/139960-joe]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/139960-joe" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 17 Jul 2012 14:57:29 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/288867-when-you-go-to-the-movies-these-days-you-know</guid>
+		<pubDate>Tue, 17 Jul 2012 14:57:29 -0700</pubDate>
+		<title>
+			<![CDATA[Joe add a quote by Jimmy Buffett]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/288867-when-you-go-to-the-movies-these-days-you-know]]>
+		</link>
+		<description>
+	    <![CDATA["When you go to the movies these days, you know they try to sell you this jumbo drink, 8 extra ounces of watered down cherry coke for an extra 25 cents. I don't want it. I don't want that much organziation in my life. I don't want other people thinking for me. I want my Junior Mints. Where did the Junior Mints go in the movies? I don't want a 12 lb. Nestle's crunch for 25 dollars. I want Junior Mints.We need more fruitcakes in this world and less bakers! We need people that care! I'm mad as hell! And I don't want to take it anymore!" -- Jimmy Buffett]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

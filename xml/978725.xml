@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/978725-june]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/978725-june" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 07 Feb 2011 08:10:13 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/84301-i-am-not-a-smart-man-particularly-but-one-day</guid>
+		<pubDate>Mon, 07 Feb 2011 08:10:13 -0800</pubDate>
+		<title>
+			<![CDATA[June add a quote by Wally Lamb]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/84301-i-am-not-a-smart-man-particularly-but-one-day]]>
+		</link>
+		<description>
+	    <![CDATA["I am not a smart man, particularly, but one day, at long last, I stumbled from the dark woods of my own, and my family's, and my country's past, holding in my hands these truths: that love grows from the rich loam of forgiveness; that mongrels make good dogs; that the evidence of God exists in the roundness of things. This much, at least, I've figured out. I know this much is true." -- Wally Lamb]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

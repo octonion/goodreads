@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1016386-weyl]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1016386-weyl" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 23 Mar 2008 20:42:42 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1112-when-i-am-attacked-by-gloomy-thoughts-nothing-helps-me</guid>
+		<pubDate>Sun, 23 Mar 2008 20:42:42 -0700</pubDate>
+		<title>
+			<![CDATA[Weyl add a quote by Montaigne]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1112-when-i-am-attacked-by-gloomy-thoughts-nothing-helps-me]]>
+		</link>
+		<description>
+	    <![CDATA["When I am attacked by gloomy thoughts, nothing helps me so much as running to my books. They quickly absorb me and banish the clouds from my mind." -- Montaigne]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/11128-the-ships-hung-in-the-sky-in-much-the-same</guid>
+		<pubDate>Sun, 23 Mar 2008 20:51:42 -0700</pubDate>
+		<title>
+			<![CDATA[Weyl add a quote by Douglas Adams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11128-the-ships-hung-in-the-sky-in-much-the-same]]>
+		</link>
+		<description>
+	    <![CDATA["The ships hung in the sky in much the same way that bricks don't." -- Douglas Adams]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

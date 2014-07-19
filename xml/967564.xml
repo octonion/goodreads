@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/967564-laura]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/967564-laura" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 10 Feb 2010 12:56:58 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/19563-from-the-backstabbing-co-worker-to-the-meddling-sister-in-law-you-are</guid>
+		<pubDate>Wed, 10 Feb 2010 12:56:58 -0800</pubDate>
+		<title>
+			<![CDATA[Laura add a quote by Anais Nin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/19563-from-the-backstabbing-co-worker-to-the-meddling-sister-in-law-you-are]]>
+		</link>
+		<description>
+	    <![CDATA["From the backstabbing co-worker to the meddling sister-in-law, you are in charge of how you react to the people and events in your life. You can either give negativity power over your life or you can choose happiness instead. Take control and choose to focus on what is important in your life. Those who cannot live fully often become destroyers of life." -- Anais Nin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5030-we-don-t-see-things-as-they-are-we-see-them</guid>
+		<pubDate>Wed, 10 Feb 2010 12:57:46 -0800</pubDate>
+		<title>
+			<![CDATA[Laura add a quote by Anaïs Nin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5030-we-don-t-see-things-as-they-are-we-see-them]]>
+		</link>
+		<description>
+	    <![CDATA["We don't see things as they are, we see them as we are." -- Anaïs Nin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

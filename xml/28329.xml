@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/28329-esther-h-lee]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/28329-esther-h-lee" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 29 Oct 2011 06:47:01 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/429347-sic-transit-gloria-mundi-thus-passes-the-glory-of-the</guid>
+		<pubDate>Sat, 29 Oct 2011 06:47:01 -0700</pubDate>
+		<title>
+			<![CDATA[Esther H. add a quote by Thomas à Kempis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/429347-sic-transit-gloria-mundi-thus-passes-the-glory-of-the]]>
+		</link>
+		<description>
+	    <![CDATA["Sic Transit Gloria Mundi (Thus passes the glory of the world)." -- Thomas à Kempis]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/390603-jacques-avait-d-vor-les-livres-qui-lui-tombaient-sous-la</guid>
+		<pubDate>Sat, 29 Oct 2011 10:03:12 -0700</pubDate>
+		<title>
+			<![CDATA[Esther H. add a quote by Albert Camus]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/390603-jacques-avait-d-vor-les-livres-qui-lui-tombaient-sous-la]]>
+		</link>
+		<description>
+	    <![CDATA["Jacques avait dévoré les livres qui lui tombaient sous la main et les avalait avec la même avidité qu’il mettait à vivre, à jouer, à rêver." -- Albert Camus]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

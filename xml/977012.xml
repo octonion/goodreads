@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/977012-keith]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/977012-keith" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 08 Mar 2008 09:26:04 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/23222-let-us-tenderly-and-kindly-cherish-therefore-the-means-of</guid>
+		<pubDate>Sat, 08 Mar 2008 09:26:04 -0800</pubDate>
+		<title>
+			<![CDATA[Keith add a quote by John Adams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/23222-let-us-tenderly-and-kindly-cherish-therefore-the-means-of]]>
+		</link>
+		<description>
+	    <![CDATA["Let us tenderly and kindly cherish therefore, the means of knowledge. Let us dare to read, think, speak, and write ." -- John Adams]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/14310-the-most-valuable-of-all-talents-is-that-of-never</guid>
+		<pubDate>Sat, 08 Mar 2008 09:37:01 -0800</pubDate>
+		<title>
+			<![CDATA[Keith add a quote by Thomas Jefferson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14310-the-most-valuable-of-all-talents-is-that-of-never]]>
+		</link>
+		<description>
+	    <![CDATA["The most valuable of all talents is that of never using two words when one will do." -- Thomas Jefferson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/64983-melinda]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/64983-melinda" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 03 Mar 2012 14:32:45 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3356-i-like-nonsense-it-wakes-up-the-brain-cells-fantasy</guid>
+		<pubDate>Sat, 03 Mar 2012 14:32:45 -0800</pubDate>
+		<title>
+			<![CDATA[Melinda add a quote by Dr. Seuss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3356-i-like-nonsense-it-wakes-up-the-brain-cells-fantasy]]>
+		</link>
+		<description>
+	    <![CDATA["I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living." -- Dr. Seuss]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/9787-i-have-heard-there-are-troubles-of-more-than-one</guid>
+		<pubDate>Sat, 03 Mar 2012 14:32:55 -0800</pubDate>
+		<title>
+			<![CDATA[Melinda add a quote by Dr. Seuss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9787-i-have-heard-there-are-troubles-of-more-than-one]]>
+		</link>
+		<description>
+	    <![CDATA["I have heard there are troubles of more than one kind. Some come from ahead and some come from behind. But I've bought a big bat. I'm all ready you see. Now my troubles are going to have troubles with me!" -- Dr. Seuss]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/9761-when-the-first-baby-laughed-for-the-first-time-its</guid>
+		<pubDate>Wed, 11 Sep 2013 10:34:28 -0700</pubDate>
+		<title>
+			<![CDATA[Melinda add a quote by J.M. Barrie]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9761-when-the-first-baby-laughed-for-the-first-time-its]]>
+		</link>
+		<description>
+	    <![CDATA["When the first baby laughed for the first time, its laugh broke into a thousand pieces, and they all went skipping about, and that was the beginning of fairies." -- J.M. Barrie]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

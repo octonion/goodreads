@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/849366-d]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/849366-d" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 07 Aug 2008 09:37:44 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/17902-to-be-stupid-selfish-and-have-good-health-are-three</guid>
+		<pubDate>Thu, 07 Aug 2008 09:37:44 -0700</pubDate>
+		<title>
+			<![CDATA[D add a quote by Gustave Flaubert]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17902-to-be-stupid-selfish-and-have-good-health-are-three]]>
+		</link>
+		<description>
+	    <![CDATA["To be stupid, selfish, and have good health are three requirements for happiness, though if stupidity is lacking, all is lost." -- Gustave Flaubert]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/12070-finally-from-so-little-sleeping-and-so-much-reading-his</guid>
+		<pubDate>Wed, 29 Feb 2012 10:46:33 -0800</pubDate>
+		<title>
+			<![CDATA[D add a quote by Miguel de Cervantes Saavedra]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12070-finally-from-so-little-sleeping-and-so-much-reading-his]]>
+		</link>
+		<description>
+	    <![CDATA["Finally, from so little sleeping and so much reading, his brain dried up and he went completely out of his mind." -- Miguel de Cervantes Saavedra]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

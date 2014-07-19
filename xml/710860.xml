@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/710860-michele]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/710860-michele" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 11 Apr 2014 20:57:50 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1165332-faith-is-to-the-soul-what-life-is-to-the</guid>
+		<pubDate>Fri, 11 Apr 2014 20:57:50 -0700</pubDate>
+		<title>
+			<![CDATA[Michele add a quote by Ryle (1816-1900), J.C.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1165332-faith-is-to-the-soul-what-life-is-to-the]]>
+		</link>
+		<description>
+	    <![CDATA["Faith is to the soul what life is to the body. Prayer is to faith what breath is to life. How a man can live and not breathe is past my comprehension, and how a man can believe and not pray is past my comprehension too." -- Ryle (1816-1900), J.C.]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

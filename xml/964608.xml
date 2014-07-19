@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/964608-cindy-arredondo]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/964608-cindy-arredondo" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 25 Mar 2014 18:47:41 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1141821-everything-had-changed-suddenly---the-tone-the-moral-climate</guid>
+		<pubDate>Tue, 25 Mar 2014 18:47:41 -0700</pubDate>
+		<title>
+			<![CDATA[Cindy add a quote by Boris Pasternak]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1141821-everything-had-changed-suddenly---the-tone-the-moral-climate]]>
+		</link>
+		<description>
+	    <![CDATA["Everything had changed suddenly - the tone, the moral climate; you didn't know what to think, whom to listen to. As if all your life you'd been led by the hand like a small child and suddenly you were on your own, you had to learn to walk by yourself. There was no one around, neither family nor people whose judgement you respected. At such a time you felt the need of committing yourself to something absolute - life or truth or beauty - of being ruled by it in place of man-made rules that had been discarded. You needed to surrender to some such purpose more fully, more unreservedly than you had ever done in the old familiar, peaceful days, in the old life that was now abolished and gone for good." -- Boris Pasternak]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

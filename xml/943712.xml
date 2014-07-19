@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/943712-tom-nevins]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/943712-tom-nevins" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 08 Feb 2013 10:38:28 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/280669-in-life-finding-a-voice-is-speaking-and-living-the</guid>
+		<pubDate>Fri, 08 Feb 2013 10:38:28 -0800</pubDate>
+		<title>
+			<![CDATA[Tom add a quote by John Grisham]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/280669-in-life-finding-a-voice-is-speaking-and-living-the]]>
+		</link>
+		<description>
+	    <![CDATA["In life, finding a voice is speaking and living the truth.  Each of you is an original.  Each of you has a distinctive voice.  When you find it, your story will be told.  You will be heard." -- John Grisham]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/997176-wherever-you-are-with-whatever-means-you-have-if-you</guid>
+		<pubDate>Thu, 16 Jan 2014 10:55:32 -0800</pubDate>
+		<title>
+			<![CDATA[Tom add a quote by Boyd Varty]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/997176-wherever-you-are-with-whatever-means-you-have-if-you]]>
+		</link>
+		<description>
+	    <![CDATA["Wherever you are, with whatever means you have, if you reclaim a piece of land for nature, your world will grow kinder, more benevolent.  Create havens - for animals, for other people, for yourself - and let this reflect into the world.  Fight for space in your own backyard, in an acre or a flowerpot or simply an embrace of the longing for company that lingers in your wilting heart.  If you take this one step toward them, no matter where you are, the elephants will come to you." -- Boyd Varty]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

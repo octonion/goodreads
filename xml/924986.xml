@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/924986-sebastian]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/924986-sebastian" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 20 Feb 2008 05:06:14 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/26549-i-feel-an-indescribable-ecstasy-and-delirium-in-melting-as</guid>
+		<pubDate>Wed, 20 Feb 2008 05:06:14 -0800</pubDate>
+		<title>
+			<![CDATA[Sebastian add a quote by Jean Jacques Rosseau]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/26549-i-feel-an-indescribable-ecstasy-and-delirium-in-melting-as]]>
+		</link>
+		<description>
+	    <![CDATA["I feel an indescribable ecstasy and delirium in melting, as it were, into the system of being, in identifying myself with the whole of nature.." -- Jean Jacques Rosseau]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/23697-history-stephen-said-is-a-nightmare-from-which-i-am</guid>
+		<pubDate>Wed, 20 Feb 2008 05:07:16 -0800</pubDate>
+		<title>
+			<![CDATA[Sebastian add a quote by James Joyce]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/23697-history-stephen-said-is-a-nightmare-from-which-i-am]]>
+		</link>
+		<description>
+	    <![CDATA["History, Stephen said, is a nightmare from which I am trying to awake." -- James Joyce]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/929433-narajaponesa]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/929433-narajaponesa" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 03 Sep 2008 20:35:45 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/94072-quelqu-un-m-a-dit-que-tu-m-aimes-encore</guid>
+		<pubDate>Wed, 03 Sep 2008 20:35:45 -0700</pubDate>
+		<title>
+			<![CDATA[narajaponesa add a quote by Carla Bruni]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/94072-quelqu-un-m-a-dit-que-tu-m-aimes-encore]]>
+		</link>
+		<description>
+	    <![CDATA["Quelqu'un m'a dit que tu m'aimes encore." -- Carla Bruni]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

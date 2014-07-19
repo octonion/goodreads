@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1090489-cathy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1090489-cathy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 17 Apr 2008 21:32:07 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/45797-i-wish-you-enough</guid>
+		<pubDate>Thu, 17 Apr 2008 21:32:07 -0700</pubDate>
+		<title>
+			<![CDATA[Cathy add a quote by Bob Perks]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/45797-i-wish-you-enough]]>
+		</link>
+		<description>
+	    <![CDATA["I wish you enough" -- Bob Perks]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/590834-the-lesson-learned-never-take-your-loved-ones-for-granted</guid>
+		<pubDate>Sun, 22 Sep 2013 19:00:59 -0700</pubDate>
+		<title>
+			<![CDATA[Cathy add a quote by Sebastian Cole]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/590834-the-lesson-learned-never-take-your-loved-ones-for-granted]]>
+		</link>
+		<description>
+	    <![CDATA["The lesson learned: never take your loved ones for granted. And if you're ever lucky enough to find that one person in life who makes you love more than any other person could possible make you love, you treat every day together as if it were your last. You cherish every moment." -- Sebastian Cole]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

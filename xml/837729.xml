@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/837729-nina]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/837729-nina" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 15 Dec 2008 10:08:47 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/122620-and-why-does-it-make-you-sad-to-see-how</guid>
+		<pubDate>Mon, 15 Dec 2008 10:08:47 -0800</pubDate>
+		<title>
+			<![CDATA[Nina! add a quote by Eldridge Cleaver]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/122620-and-why-does-it-make-you-sad-to-see-how]]>
+		</link>
+		<description>
+	    <![CDATA["And why does it make you sad to see how everything hangs by such thin and whimsical threads? Because you’re a dreamer, an incredible dreamer, with a tiny spark hidden somewhere inside you which cannot die, which even you cannot kill or quench and which tortures you horribly because all the odds are against its continual burning. In the midst of the foulest decay and putrid savagery, this spark speaks to you of beauty, of human warmth and kindness, of goodness, of greatness, of heroism, of martyrdom, and it speaks to you of love." -- Eldridge Cleaver]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

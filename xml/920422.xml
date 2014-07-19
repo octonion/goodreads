@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/920422-richard-cassidy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/920422-richard-cassidy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 18 Feb 2008 20:27:06 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/26209-vacheries-de-vacheries</guid>
+		<pubDate>Mon, 18 Feb 2008 20:27:06 -0800</pubDate>
+		<title>
+			<![CDATA[Richard add a quote by Réjean Ducharme]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/26209-vacheries-de-vacheries]]>
+		</link>
+		<description>
+	    <![CDATA["vacheries de vacheries!" -- Réjean Ducharme]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/26211-my-body-does-not-have-the-same-ideas-i-do</guid>
+		<pubDate>Mon, 18 Feb 2008 20:28:16 -0800</pubDate>
+		<title>
+			<![CDATA[Richard add a quote by Gail Scott]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/26211-my-body-does-not-have-the-same-ideas-i-do]]>
+		</link>
+		<description>
+	    <![CDATA["my body does not have the same ideas i do." -- Gail Scott]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/26724-today-the-entire-country-is-an-immense-university</guid>
+		<pubDate>Wed, 20 Feb 2008 17:54:12 -0800</pubDate>
+		<title>
+			<![CDATA[Richard add a quote by Fidel Castro]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/26724-today-the-entire-country-is-an-immense-university]]>
+		</link>
+		<description>
+	    <![CDATA["Today, the entire country is an immense University." -- Fidel Castro]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

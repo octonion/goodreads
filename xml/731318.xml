@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/731318-cheryl]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/731318-cheryl" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 30 May 2008 22:45:41 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/36454-share-our-similarities-celebrate-our-differences</guid>
+		<pubDate>Fri, 30 May 2008 22:45:41 -0700</pubDate>
+		<title>
+			<![CDATA[Cheryl add a quote by M. Scott Peck]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/36454-share-our-similarities-celebrate-our-differences]]>
+		</link>
+		<description>
+	    <![CDATA["Share our similarities, celebrate our differences." -- M. Scott Peck]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/13151-when-humor-goes-there-goes-civilization</guid>
+		<pubDate>Fri, 30 May 2008 22:50:41 -0700</pubDate>
+		<title>
+			<![CDATA[Cheryl add a quote by Erma Bombeck]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13151-when-humor-goes-there-goes-civilization]]>
+		</link>
+		<description>
+	    <![CDATA["When humor goes, there goes civilization." -- Erma Bombeck]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1352-this-too-shall-pass</guid>
+		<pubDate>Tue, 26 Aug 2008 07:34:53 -0700</pubDate>
+		<title>
+			<![CDATA[Cheryl add a quote by Hakim Sanai]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1352-this-too-shall-pass]]>
+		</link>
+		<description>
+	    <![CDATA["This too shall pass." -- Hakim Sanai]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/22248-change-will-not-come-if-we-wait-for-some-other</guid>
+		<pubDate>Fri, 30 May 2008 22:57:27 -0700</pubDate>
+		<title>
+			<![CDATA[Cheryl add a quote by Barack Obama]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22248-change-will-not-come-if-we-wait-for-some-other]]>
+		</link>
+		<description>
+	    <![CDATA["Change will not come if we wait for some other person, or if we wait for some other time.  We are the ones we've been waiting for.  We are the change that we seek." -- Barack Obama]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

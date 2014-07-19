@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/136392-lolo]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/136392-lolo" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 06 Feb 2008 05:55:22 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/15644-in-the-spring-at-the-end-of-the-day-you</guid>
+		<pubDate>Wed, 06 Feb 2008 05:55:22 -0800</pubDate>
+		<title>
+			<![CDATA[Lolo add a quote by Margaret Atwood]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/15644-in-the-spring-at-the-end-of-the-day-you]]>
+		</link>
+		<description>
+	    <![CDATA["In the spring, at the end of the day, you should smell like dirt." -- Margaret Atwood]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/10727-may-came-home-with-a-smooth-round-stone-as-small</guid>
+		<pubDate>Wed, 06 Feb 2008 06:05:41 -0800</pubDate>
+		<title>
+			<![CDATA[Lolo add a quote by E.E. Cummings]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10727-may-came-home-with-a-smooth-round-stone-as-small]]>
+		</link>
+		<description>
+	    <![CDATA["may came home with a smooth round stone
+as small as a world and as large as alone." -- E.E. Cummings]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/22330-to-live-in-this-world-you-must-be-able-to</guid>
+		<pubDate>Thu, 07 Feb 2008 00:26:01 -0800</pubDate>
+		<title>
+			<![CDATA[Lolo add a quote by Mary Oliver]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22330-to-live-in-this-world-you-must-be-able-to]]>
+		</link>
+		<description>
+	    <![CDATA["to live in this world
+
+you must be able
+to do three things
+to love what is mortal;
+to hold it
+
+against your bones knowing
+your own life depends on it;
+and, when the time comes to let it go,
+to let it go" -- Mary Oliver]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

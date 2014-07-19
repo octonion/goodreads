@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/902940-melissa]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/902940-melissa" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Mar 2008 09:54:07 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5863-a-great-book-should-leave-you-with-many-experiences-and</guid>
+		<pubDate>Sun, 02 Mar 2008 09:54:07 -0800</pubDate>
+		<title>
+			<![CDATA[Melissa add a quote by William Styron]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5863-a-great-book-should-leave-you-with-many-experiences-and]]>
+		</link>
+		<description>
+	    <![CDATA["A great book should leave you with many experiences, and slightly exhausted at the end. You live several lives while reading." -- William Styron]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3304-those-who-bring-sunshine-to-the-lives-of-others-cannot</guid>
+		<pubDate>Sun, 16 Mar 2008 10:26:09 -0700</pubDate>
+		<title>
+			<![CDATA[Melissa add a quote by J.M. Barrie]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3304-those-who-bring-sunshine-to-the-lives-of-others-cannot]]>
+		</link>
+		<description>
+	    <![CDATA["Those who bring sunshine to the lives of others cannot keep it from themselves." -- J.M. Barrie]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5616-laughter-is-timeless-imagination-has-no-age-and-dreams-are</guid>
+		<pubDate>Sun, 08 Jun 2008 22:24:23 -0700</pubDate>
+		<title>
+			<![CDATA[Melissa add a quote by Walt Disney]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5616-laughter-is-timeless-imagination-has-no-age-and-dreams-are]]>
+		</link>
+		<description>
+	    <![CDATA["Laughter is timeless. Imagination has no age. And dreams are forever." -- Walt Disney]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

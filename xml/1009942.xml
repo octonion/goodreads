@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1009942-michael-harley]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1009942-michael-harley" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 30 Dec 2013 18:46:29 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/950535-it-is-such-hard-work-to-keep-your-heart-hidden</guid>
+		<pubDate>Mon, 30 Dec 2013 18:46:29 -0800</pubDate>
+		<title>
+			<![CDATA[Michael add a quote by Catherynne M. Valente]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/950535-it-is-such-hard-work-to-keep-your-heart-hidden]]>
+		</link>
+		<description>
+	    <![CDATA["It is such hard work to keep your heart hidden!  And worse, by the time you find it easy, it will be harder still to show it.  It is a terrible magic in this world to ask for exactly the thing you want.  Not least because to know exactly the thing you want and look it in the eye is a long, long labor." -- Catherynne M. Valente]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/631486-rhy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/631486-rhy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 07 Oct 2009 06:24:20 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/24499-be-the-change-that-you-wish-to-see-in-the</guid>
+		<pubDate>Wed, 07 Oct 2009 06:24:20 -0700</pubDate>
+		<title>
+			<![CDATA[Rhy add a quote by Mahatma Gandhi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/24499-be-the-change-that-you-wish-to-see-in-the]]>
+		</link>
+		<description>
+	    <![CDATA["Be the change that you wish to see in the world." -- Mahatma Gandhi]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4464-peace-cannot-be-kept-by-force-it-can-only-be</guid>
+		<pubDate>Wed, 07 Oct 2009 06:50:53 -0700</pubDate>
+		<title>
+			<![CDATA[Rhy add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4464-peace-cannot-be-kept-by-force-it-can-only-be]]>
+		</link>
+		<description>
+	    <![CDATA["Peace cannot be kept by force; it can only be achieved by understanding." -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1930-think-of-all-the-beauty-still-left-around-you-and</guid>
+		<pubDate>Wed, 07 Oct 2009 06:53:04 -0700</pubDate>
+		<title>
+			<![CDATA[Rhy add a quote by Anne Frank]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1930-think-of-all-the-beauty-still-left-around-you-and]]>
+		</link>
+		<description>
+	    <![CDATA["Think of all the beauty still left around you and be happy." -- Anne Frank]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/194556-the-foolish-man-seeks-happiness-in-the-distance-the-wise</guid>
+		<pubDate>Wed, 07 Oct 2009 07:19:22 -0700</pubDate>
+		<title>
+			<![CDATA[Rhy add a quote by James Oppenheim]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/194556-the-foolish-man-seeks-happiness-in-the-distance-the-wise]]>
+		</link>
+		<description>
+	    <![CDATA["The foolish man seeks happiness in the distance.  The wise grows it under his feet." -- James Oppenheim]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

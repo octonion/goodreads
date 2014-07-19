@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/673736-megan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/673736-megan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 10 Dec 2007 23:23:20 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4740-memory-believes-before-knowing-remembers-believes-longer-than-recollects-longer</guid>
+		<pubDate>Mon, 10 Dec 2007 23:23:20 -0800</pubDate>
+		<title>
+			<![CDATA[Megan add a quote by William Faulkner]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4740-memory-believes-before-knowing-remembers-believes-longer-than-recollects-longer]]>
+		</link>
+		<description>
+	    <![CDATA["Memory believes before knowing remembers. Believes longer than recollects, longer than knowing even wonders." -- William Faulkner]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4741-libraries-are-forever</guid>
+		<pubDate>Mon, 10 Dec 2007 23:23:54 -0800</pubDate>
+		<title>
+			<![CDATA[Megan add a quote by Elaine Svenonius]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4741-libraries-are-forever]]>
+		</link>
+		<description>
+	    <![CDATA["Libraries are forever." -- Elaine Svenonius]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5773-the-secret-of-a-good-librarian-is-that-he-never</guid>
+		<pubDate>Sun, 16 Dec 2007 16:31:28 -0800</pubDate>
+		<title>
+			<![CDATA[Megan add a quote by Robert Musil]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5773-the-secret-of-a-good-librarian-is-that-he-never]]>
+		</link>
+		<description>
+	    <![CDATA["The secret of a good librarian is that he never reads anything more of the literature in his charge than the title and the table of contents. Anyone who lets himself go and starts reading a book is lost as a librarian...He's bound to lose perspective." -- Robert Musil]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

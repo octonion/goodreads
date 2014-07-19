@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/237691-katie-pranga]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/237691-katie-pranga" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 15 Sep 2008 03:53:08 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/15202-a-woman-s-heart-should-be-so-hidden-in-god-that</guid>
+		<pubDate>Mon, 15 Sep 2008 03:53:08 -0700</pubDate>
+		<title>
+			<![CDATA[Katie add a quote by Max Lucado]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/15202-a-woman-s-heart-should-be-so-hidden-in-god-that]]>
+		</link>
+		<description>
+	    <![CDATA["A woman's heart should be so hidden in God that a man has to seek Him just to find her." -- Max Lucado]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/14109-faith-is-not-the-belief-that-god-will-do-what</guid>
+		<pubDate>Mon, 15 Sep 2008 03:53:15 -0700</pubDate>
+		<title>
+			<![CDATA[Katie add a quote by Max Lucado]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14109-faith-is-not-the-belief-that-god-will-do-what]]>
+		</link>
+		<description>
+	    <![CDATA["Faith is not the belief that God will do what you want. It is the belief that God will do what is right." -- Max Lucado]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

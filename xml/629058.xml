@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/629058-linda]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/629058-linda" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 31 Oct 2012 10:55:59 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/556719-if-he-cannot-be-infinite---his-lov-emeeting-its</guid>
+		<pubDate>Wed, 31 Oct 2012 10:55:59 -0700</pubDate>
+		<title>
+			<![CDATA[Linda add a quote by Lauren Groff]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/556719-if-he-cannot-be-infinite---his-lov-emeeting-its]]>
+		</link>
+		<description>
+	    <![CDATA["If he cannot be infinite - his lov emeeting its eventual exhaustion, his light its shadows - this is the nature of landscapes. The forest meets mountain, the sea the shore. Brain meets bone, meets skin, meets hair; meets air. Day would not be, without night. Every limit, a wise woman once wrote, is a beginning as well as an ending." -- Lauren Groff]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

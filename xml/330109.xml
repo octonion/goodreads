@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/330109-victoria]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/330109-victoria" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 07 Feb 2010 19:41:52 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/95262-as-long-as-we-continue-to-live-as-if-we</guid>
+		<pubDate>Sun, 07 Feb 2010 19:41:52 -0800</pubDate>
+		<title>
+			<![CDATA[Victoria add a quote by Henri J.M. Nouwen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/95262-as-long-as-we-continue-to-live-as-if-we]]>
+		</link>
+		<description>
+	    <![CDATA["As long as we continue to live as if we are what we do, what we have, and what other people think about us, we will remain filled with judgments, opinions, evaluations, and condemnations. We will remain addicted to putting people and things in their &quot;right&quot; place." -- Henri J.M. Nouwen]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1625-forgiveness-is-the-name-of-love-practiced-among-people-who</guid>
+		<pubDate>Sun, 07 Feb 2010 19:42:13 -0800</pubDate>
+		<title>
+			<![CDATA[Victoria add a quote by Henri J.M. Nouwen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1625-forgiveness-is-the-name-of-love-practiced-among-people-who]]>
+		</link>
+		<description>
+	    <![CDATA["Forgiveness is the name of love practiced among people who love poorly. The hard truth is that all people love poorly. We need to forgive and be forgiven every day, every hour increasingly. That is the great work of love among the fellowship of the weak that is the human family." -- Henri J.M. Nouwen]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

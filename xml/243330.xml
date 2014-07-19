@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/243330-crystal-vilkaitis]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/243330-crystal-vilkaitis" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 29 Dec 2013 12:25:47 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/493205-we-choose-to-go-to-the-moon-in-this-decade</guid>
+		<pubDate>Sun, 29 Dec 2013 12:25:47 -0800</pubDate>
+		<title>
+			<![CDATA[Crystal add a quote by John F. Kennedy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/493205-we-choose-to-go-to-the-moon-in-this-decade]]>
+		</link>
+		<description>
+	    <![CDATA["We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard, because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one which we intend to win." -- John F. Kennedy]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

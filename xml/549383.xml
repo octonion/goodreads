@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/549383-ellyn]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/549383-ellyn" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 22 Apr 2010 06:28:53 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/55178-madness-need-not-be-all-breakdown-it-may-also-be</guid>
+		<pubDate>Thu, 22 Apr 2010 06:28:53 -0700</pubDate>
+		<title>
+			<![CDATA[Ellyn add a quote by Ronald D. Laing]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/55178-madness-need-not-be-all-breakdown-it-may-also-be]]>
+		</link>
+		<description>
+	    <![CDATA["Madness need not be all breakdown. It may also be break-through. It is potential liberation and renewal as well as enslavement and existential death." -- Ronald D. Laing]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

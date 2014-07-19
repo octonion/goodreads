@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1083466-jacqueline-moustakas]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1083466-jacqueline-moustakas" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 28 Apr 2011 06:54:08 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/12147-once-upon-a-time-there-lived-in-berlin-germany-a</guid>
+		<pubDate>Thu, 28 Apr 2011 06:54:08 -0700</pubDate>
+		<title>
+			<![CDATA[Jacqueline add a quote by Vladimir Nabokov]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12147-once-upon-a-time-there-lived-in-berlin-germany-a]]>
+		</link>
+		<description>
+	    <![CDATA["Once upon a time there lived in Berlin, Germany, a man called Albinus. He was rich, respectable, happy; one day he abandoned his wife for the sake of a youthful mistress; he loved; was not loved; and his life ended in disaster.
+
+This is the whole of the story and we might have left it at that had there not been profit and pleasure in the telling; and although there is plenty of space on a gravestone to contain, bound in moss, the abridged version of a man's life, detail is always welcome." -- Vladimir Nabokov]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

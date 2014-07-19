@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/251645-frances]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/251645-frances" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 22 Jun 2013 15:59:04 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/8779-my-fault-my-failure-is-not-in-the-passions-i</guid>
+		<pubDate>Sat, 22 Jun 2013 15:59:04 -0700</pubDate>
+		<title>
+			<![CDATA[Frances add a quote by Jack Kerouac]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8779-my-fault-my-failure-is-not-in-the-passions-i]]>
+		</link>
+		<description>
+	    <![CDATA["My fault, my failure, is not in the passions I have, but in my lack of control of them." -- Jack Kerouac]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/200439-nothing-behind-me-everything-ahead-of-me-as-is-ever</guid>
+		<pubDate>Sat, 22 Jun 2013 15:59:14 -0700</pubDate>
+		<title>
+			<![CDATA[Frances add a quote by Jack Kerouac]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/200439-nothing-behind-me-everything-ahead-of-me-as-is-ever]]>
+		</link>
+		<description>
+	    <![CDATA["Nothing behind me, everything ahead of me, as is ever so on the road." -- Jack Kerouac]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

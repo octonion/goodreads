@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/207088-melissa]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/207088-melissa" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 08 Aug 2011 05:22:08 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/43878-we-look-for-medicine-to-be-an-orderly-field-of</guid>
+		<pubDate>Mon, 08 Aug 2011 05:22:08 -0700</pubDate>
+		<title>
+			<![CDATA[Melissa add a quote by Atul Gawande]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/43878-we-look-for-medicine-to-be-an-orderly-field-of]]>
+		</link>
+		<description>
+	    <![CDATA["We look for medicine to be an orderly field of knowledge and procedure.  But it is not.  It is an imperfect science, an enterprise of constantly changing knowledge, uncertain information, fallible individuals, and at the same time lives on the line.  There is science in what we do, yes, but also habit, intuition, and sometimes plain old guessing.  The gap between what we know and what we aim for persists.  And this gap complicates everything we do." -- Atul Gawande]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

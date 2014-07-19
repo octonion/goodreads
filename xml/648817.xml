@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/648817-nicholas]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/648817-nicholas" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 20 Dec 2012 20:16:48 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/420164-people-know-what-they-do-they-frequently-know-why-they</guid>
+		<pubDate>Thu, 20 Dec 2012 20:16:48 -0800</pubDate>
+		<title>
+			<![CDATA[Nicholas add a quote by Michel Foucault]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/420164-people-know-what-they-do-they-frequently-know-why-they]]>
+		</link>
+		<description>
+	    <![CDATA["People know what they do; they frequently know why they do what they do; but what they don’t know is what what they do does." -- Michel Foucault]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/507129-i-m-no-prophet-my-job-is-making-windows-where-there</guid>
+		<pubDate>Thu, 20 Dec 2012 20:19:38 -0800</pubDate>
+		<title>
+			<![CDATA[Nicholas add a quote by Michel Foucault]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/507129-i-m-no-prophet-my-job-is-making-windows-where-there]]>
+		</link>
+		<description>
+	    <![CDATA["I'm no prophet. My job is making windows where there were once walls." -- Michel Foucault]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

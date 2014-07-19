@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/626326-cathryn]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/626326-cathryn" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 22 Apr 2012 13:13:22 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/538360-let-all-of-life-be-an-unfettered-howl-like-the</guid>
+		<pubDate>Sun, 22 Apr 2012 13:13:22 -0700</pubDate>
+		<title>
+			<![CDATA[Cathryn add a quote by Vladimir Nabokov]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/538360-let-all-of-life-be-an-unfettered-howl-like-the]]>
+		</link>
+		<description>
+	    <![CDATA["Let all of life be an unfettered howl. Like the crowd greeting the gladiator. Don't stop to think, don't interrupt the scream, exhale, release life's rapture." -- Vladimir Nabokov]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/71126-if-i-know-a-song-of-africa-of-the-giraffe</guid>
+		<pubDate>Sun, 10 Jun 2012 01:49:41 -0700</pubDate>
+		<title>
+			<![CDATA[Cathryn add a quote by Isak Dinesen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/71126-if-i-know-a-song-of-africa-of-the-giraffe]]>
+		</link>
+		<description>
+	    <![CDATA["If I know a song of Africa, of the giraffe and the African new moon lying on her back, of the plows in the fields and the sweaty faces of the coffee pickers, does Africa know a song of me? Will the air over the plain quiver with a color that I have had on, or the children invent a game in which my name is, or the full moon throw a shadow over the gravel of the drive that was like me, or will the eagles of the Ngong Hills look out for me?" -- Isak Dinesen]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

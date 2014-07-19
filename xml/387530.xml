@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/387530-mark]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/387530-mark" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 10 Apr 2008 15:35:47 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6403-they-who-can-give-up-essential-liberty-to-obtain-a</guid>
+		<pubDate>Thu, 10 Apr 2008 15:35:47 -0700</pubDate>
+		<title>
+			<![CDATA[Mark add a quote by Benjamin Franklin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6403-they-who-can-give-up-essential-liberty-to-obtain-a]]>
+		</link>
+		<description>
+	    <![CDATA["They who can give up essential liberty to obtain a little temporary safety deserve neither liberty nor safety." -- Benjamin Franklin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5115-loyalty-to-country-always-loyalty-to-government-when-it-deserves</guid>
+		<pubDate>Thu, 10 Apr 2008 15:38:37 -0700</pubDate>
+		<title>
+			<![CDATA[Mark add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5115-loyalty-to-country-always-loyalty-to-government-when-it-deserves]]>
+		</link>
+		<description>
+	    <![CDATA["Loyalty to country ALWAYS. Loyalty to government, when it deserves it." -- Mark Twain]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4078-the-saddest-aspect-of-life-right-now-is-that-science</guid>
+		<pubDate>Thu, 10 Apr 2008 15:42:37 -0700</pubDate>
+		<title>
+			<![CDATA[Mark add a quote by Isaac Asimov]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4078-the-saddest-aspect-of-life-right-now-is-that-science]]>
+		</link>
+		<description>
+	    <![CDATA["The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom." -- Isaac Asimov]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/596966-enoch]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/596966-enoch" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 28 Jul 2013 20:18:55 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/72237-i-believe-in-intuitions-and-inspirations-i-sometimes-feel-that-i</guid>
+		<pubDate>Sun, 28 Jul 2013 20:18:55 -0700</pubDate>
+		<title>
+			<![CDATA[Enoch add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/72237-i-believe-in-intuitions-and-inspirations-i-sometimes-feel-that-i]]>
+		</link>
+		<description>
+	    <![CDATA["I believe in intuitions and inspirations...I sometimes FEEL that I am right. I do not KNOW that I am." -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/24141-ignorance-more-frequently-begets-confidence-than-does-knowledge-it-is</guid>
+		<pubDate>Sun, 28 Jul 2013 20:19:05 -0700</pubDate>
+		<title>
+			<![CDATA[Enoch add a quote by Charles Darwin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/24141-ignorance-more-frequently-begets-confidence-than-does-knowledge-it-is]]>
+		</link>
+		<description>
+	    <![CDATA["Ignorance more frequently begets confidence than does knowledge: it is those who know little, not those who know much, who so positively assert that this or that problem will never be solved by science." -- Charles Darwin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

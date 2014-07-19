@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/253422-maggie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/253422-maggie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 15 Dec 2007 11:24:39 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5543-insanity-is-doing-the-same-thing-over-and-over-again</guid>
+		<pubDate>Sat, 15 Dec 2007 11:24:39 -0800</pubDate>
+		<title>
+			<![CDATA[Maggie add a quote by Narcotics Anonymous]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5543-insanity-is-doing-the-same-thing-over-and-over-again]]>
+		</link>
+		<description>
+	    <![CDATA["Insanity is doing the same thing, over and over again, but expecting different results." -- Narcotics Anonymous]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5544-the-trouble-with-being-in-the-rat-race-is-that</guid>
+		<pubDate>Sat, 15 Dec 2007 11:26:15 -0800</pubDate>
+		<title>
+			<![CDATA[Maggie add a quote by Lily Tomlin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5544-the-trouble-with-being-in-the-rat-race-is-that]]>
+		</link>
+		<description>
+	    <![CDATA["The trouble with being in the rat race is that even if you win, you're still a rat." -- Lily Tomlin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1180258-be-kind-for-everyone-is-fighting-a-hard-battle</guid>
+		<pubDate>Mon, 21 Apr 2014 08:36:02 -0700</pubDate>
+		<title>
+			<![CDATA[Maggie add a quote by Plato]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1180258-be-kind-for-everyone-is-fighting-a-hard-battle]]>
+		</link>
+		<description>
+	    <![CDATA["Be kind. For everyone is fighting a hard battle." -- Plato]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/693932-i-find-that-the-harder-i-work-the-more-luck</guid>
+		<pubDate>Mon, 21 Apr 2014 08:36:45 -0700</pubDate>
+		<title>
+			<![CDATA[Maggie add a quote by Thomas Jefferson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/693932-i-find-that-the-harder-i-work-the-more-luck]]>
+		</link>
+		<description>
+	    <![CDATA["I find that the harder I work, the more luck I seem to have." -- Thomas Jefferson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

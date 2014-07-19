@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/420319-chris-eboch]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/420319-chris-eboch" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 16 Apr 2012 07:26:56 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/72410-insofar-as-she-recognized-at-all-that-she-was-dreaming</guid>
+		<pubDate>Mon, 16 Apr 2012 07:26:56 -0700</pubDate>
+		<title>
+			<![CDATA[Chris add a quote by Douglas Adams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/72410-insofar-as-she-recognized-at-all-that-she-was-dreaming]]>
+		</link>
+		<description>
+	    <![CDATA["Insofar as she recognized at all that she was dreaming, she realized that she must be exploring her subconscious mind.  She had heard it said that humans are supposed only to use about a tenth of their brains, and that no one was really clear what the other nine tenths were for, but she had certainly never heard it suggested that they were used for storing penguins." -- Douglas Adams]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/150550-i-am-a-private-detective-i-am-paid-to-be</guid>
+		<pubDate>Mon, 16 Apr 2012 08:55:58 -0700</pubDate>
+		<title>
+			<![CDATA[Chris add a quote by Douglas Adams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/150550-i-am-a-private-detective-i-am-paid-to-be]]>
+		</link>
+		<description>
+	    <![CDATA["I am a private detective.  I am paid to be inquisitive and presumptuous." -- Douglas Adams]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

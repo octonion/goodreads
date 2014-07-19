@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/941171-abbie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/941171-abbie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 01 Mar 2008 18:34:54 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3345-death-ends-a-life-not-a-relationship</guid>
+		<pubDate>Sat, 01 Mar 2008 18:34:54 -0800</pubDate>
+		<title>
+			<![CDATA[Abbie add a quote by Mitch Albom]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3345-death-ends-a-life-not-a-relationship]]>
+		</link>
+		<description>
+	    <![CDATA["Death ends a life, not a relationship." -- Mitch Albom]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/30042-without-love-we-all-like-birds-with-broken-wings</guid>
+		<pubDate>Sat, 01 Mar 2008 18:37:10 -0800</pubDate>
+		<title>
+			<![CDATA[Abbie add a quote by Mitch Albom]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/30042-without-love-we-all-like-birds-with-broken-wings]]>
+		</link>
+		<description>
+	    <![CDATA["Without love we all like birds with broken wings." -- Mitch Albom]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

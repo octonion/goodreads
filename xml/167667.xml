@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/167667-britt-selvitelle]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/167667-britt-selvitelle" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 14 Jul 2013 06:29:42 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/108277-fear-is-a-strange-soil-it-grows-obedience-like-corn</guid>
+		<pubDate>Sun, 14 Jul 2013 06:29:42 -0700</pubDate>
+		<title>
+			<![CDATA[Britt add a quote by Terry Pratchett]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/108277-fear-is-a-strange-soil-it-grows-obedience-like-corn]]>
+		</link>
+		<description>
+	    <![CDATA["Fear is a strange soil. It grows obedience like corn, which grow in straight lines to make weeding easier. But sometimes it grows the potatoes of defiance, which flourish underground." -- Terry Pratchett]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

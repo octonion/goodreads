@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/631369-thomas-barfoed]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/631369-thomas-barfoed" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 18 Feb 2014 05:15:32 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/77617-it-is-a-curious-thing-harry-but-perhaps-those-who</guid>
+		<pubDate>Tue, 18 Feb 2014 05:15:32 -0800</pubDate>
+		<title>
+			<![CDATA[Thomas add a quote by J.K. Rowling]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/77617-it-is-a-curious-thing-harry-but-perhaps-those-who]]>
+		</link>
+		<description>
+	    <![CDATA["It is a curious thing, Harry, but perhaps those who are best suited to power are those who have never sought it. Those who, like you, have leadership thrust upon them, and take up the mantle because they must, and find to their own surprise that they wear it well." -- J.K. Rowling]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

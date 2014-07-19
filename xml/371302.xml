@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/371302-liza]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/371302-liza" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 18 Oct 2011 04:31:17 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/13155-it-is-a-curious-thing-the-death-of-a-loved</guid>
+		<pubDate>Tue, 18 Oct 2011 04:31:17 -0700</pubDate>
+		<title>
+			<![CDATA[Liza add a quote by Lemony Snicket]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13155-it-is-a-curious-thing-the-death-of-a-loved]]>
+		</link>
+		<description>
+	    <![CDATA["It is a curious thing, the death of a loved one. We all know that our time in this world is limited, and that eventually all of us will end up underneath some sheet, never to wake up. And yet it is always a surprise when it happens to someone we know. It is like walking up the stairs to your bedroom in the dark, and thinking there is one more stair than there is. Your foot falls down, through the air, and there is a sickly moment of dark surprise as you try and readjust the way you thought of things." -- Lemony Snicket]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

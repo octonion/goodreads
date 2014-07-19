@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/539417-sheila-jungco]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/539417-sheila-jungco" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 29 Dec 2013 17:49:39 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/727915-our-young-people-think-about-nothing-more-than-love-affairs</guid>
+		<pubDate>Sun, 29 Dec 2013 17:49:39 -0800</pubDate>
+		<title>
+			<![CDATA[Sheila add a quote by José Rizal]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/727915-our-young-people-think-about-nothing-more-than-love-affairs]]>
+		</link>
+		<description>
+	    <![CDATA["Our young people think about nothing more than love affairs and pleasure. They spend more time attempting to seduce and dishonor young women than in thinking about their country's welfare. Our women, in order to take care of the house and family of God, forget their own. Our men limit their activities to vice and their heroics to shameful acts. Children wake up in a fog of routine, adolescents live out their best years without ideals, and their elders are sterile, and only serve to corrupt our young people by their example." -- José Rizal]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

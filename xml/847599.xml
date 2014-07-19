@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/847599-shelly]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/847599-shelly" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 06 Sep 2008 14:16:20 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/69404-give-yourself-permission-to-dream-fuel-your-kids-dreams-too</guid>
+		<pubDate>Sat, 06 Sep 2008 14:16:20 -0700</pubDate>
+		<title>
+			<![CDATA[Shelly add a quote by Randy Pausch]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/69404-give-yourself-permission-to-dream-fuel-your-kids-dreams-too]]>
+		</link>
+		<description>
+	    <![CDATA["Give yourself permission to dream. Fuel your kids' dreams too. Once in a while, that might even mean letting them stay up past their bedtimes." -- Randy Pausch]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/933337-deb-vanasse]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/933337-deb-vanasse" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 14 Oct 2013 09:55:05 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/198601-moments-of-kindness-and-reconciliation-are-worth-having-even-if</guid>
+		<pubDate>Mon, 14 Oct 2013 09:55:05 -0700</pubDate>
+		<title>
+			<![CDATA[Deb add a quote by Alice Munro]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/198601-moments-of-kindness-and-reconciliation-are-worth-having-even-if]]>
+		</link>
+		<description>
+	    <![CDATA["Moments of kindness and reconciliation are worth having, even if the parting has to come sooner or later." -- Alice Munro]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/649734-the-constant-happiness-is-curiosity</guid>
+		<pubDate>Mon, 14 Oct 2013 09:55:52 -0700</pubDate>
+		<title>
+			<![CDATA[Deb add a quote by Alice Munro]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/649734-the-constant-happiness-is-curiosity]]>
+		</link>
+		<description>
+	    <![CDATA["The constant happiness is curiosity." -- Alice Munro]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/836598-hilary]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/836598-hilary" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 29 Feb 2008 17:38:24 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/29737-i-love-man-as-my-fellow-but-his-scepter-real</guid>
+		<pubDate>Fri, 29 Feb 2008 17:38:24 -0800</pubDate>
+		<title>
+			<![CDATA[Hilary add a quote by Mary Wollstonecraft]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/29737-i-love-man-as-my-fellow-but-his-scepter-real]]>
+		</link>
+		<description>
+	    <![CDATA["I love man as my fellow; but his scepter, real, or usurped, extends not to me, unless the reason of an individual demands my homage; and even then the submission is to reason, and not to man." -- Mary Wollstonecraft]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/29739-sanity-is-not-statistical</guid>
+		<pubDate>Fri, 29 Feb 2008 17:40:44 -0800</pubDate>
+		<title>
+			<![CDATA[Hilary add a quote by George Orwell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/29739-sanity-is-not-statistical]]>
+		</link>
+		<description>
+	    <![CDATA["Sanity is not statistical." -- George Orwell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

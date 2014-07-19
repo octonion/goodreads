@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/822607-andrea]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/822607-andrea" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 20 Mar 2008 11:04:25 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/36610-but-then-books-as-i-m-sure-you-know-seldom-prompt</guid>
+		<pubDate>Thu, 20 Mar 2008 11:04:25 -0700</pubDate>
+		<title>
+			<![CDATA[Andrea add a quote by Alan Bennett ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/36610-but-then-books-as-i-m-sure-you-know-seldom-prompt]]>
+		</link>
+		<description>
+	    <![CDATA["But then books, as I'm sure you know, seldom prompt a course of action.  Books generally just confirm you in what you have, perhaps unwittingly, decided to do already.  You go to a book to have your convictions corroborated.  A book, as it were, closes the book.  " -- Alan Bennett ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/36731-the-best-answer-i-can-give-is-that-poetry-is</guid>
+		<pubDate>Thu, 20 Mar 2008 18:50:06 -0700</pubDate>
+		<title>
+			<![CDATA[Andrea add a quote by Haven Kimmel]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/36731-the-best-answer-i-can-give-is-that-poetry-is]]>
+		</link>
+		<description>
+	    <![CDATA["The best answer I can give is that poetry is all about the effect it has on a reader, and Robert Frost was very, very good at that.  If you're asking whatit MEANS that the line is repeated [and miles to go before I sleep] I'd have to say I don't know.  It's stylistic.  But the effect is pretty clear." -- Haven Kimmel]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

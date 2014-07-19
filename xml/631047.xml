@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/631047-daniel]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/631047-daniel" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 10 May 2009 10:15:02 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/53088-i-have-been-a-believer-in-the-magic-of-language</guid>
+		<pubDate>Sun, 10 May 2009 10:15:02 -0700</pubDate>
+		<title>
+			<![CDATA[Daniel add a quote by Katherine Dunn]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/53088-i-have-been-a-believer-in-the-magic-of-language]]>
+		</link>
+		<description>
+	    <![CDATA["I have been a believer in the magic of language since, at a very early age, I discovered that some words got me into trouble and others got me out. " -- Katherine Dunn]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/17177-those-who-believe-in-telekinetics-raise-my-hand</guid>
+		<pubDate>Mon, 31 Jan 2011 15:51:13 -0800</pubDate>
+		<title>
+			<![CDATA[Daniel add a quote by Kurt Vonnegut]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17177-those-who-believe-in-telekinetics-raise-my-hand]]>
+		</link>
+		<description>
+	    <![CDATA["Those who believe in telekinetics, raise my hand." -- Kurt Vonnegut]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/697635-lara]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/697635-lara" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 13 May 2012 03:48:43 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/168987-i-wished-she-d-never-stop-squeezing-me-i-wished-i</guid>
+		<pubDate>Sun, 13 May 2012 03:48:43 -0700</pubDate>
+		<title>
+			<![CDATA[Lara add a quote by Gail Carson Levine]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/168987-i-wished-she-d-never-stop-squeezing-me-i-wished-i]]>
+		</link>
+		<description>
+	    <![CDATA["I wished she’d never stop squeezing me.  I wished I could spend the rest of my life as a child, being slightly crushed by someone who loved me." -- Gail Carson Levine]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

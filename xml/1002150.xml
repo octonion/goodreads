@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1002150-jamie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1002150-jamie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 13 Feb 2009 03:48:13 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/101200-the-time-will-come-when-diligent-research-over-long-periods</guid>
+		<pubDate>Fri, 13 Feb 2009 03:48:13 -0800</pubDate>
+		<title>
+			<![CDATA[Jamie add a quote by Seneca]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/101200-the-time-will-come-when-diligent-research-over-long-periods]]>
+		</link>
+		<description>
+	    <![CDATA["The time will come when diligent research over long periods will bring to light things which now lie hidden. A single lifetime, even though entirely devoted to the sky, would not be enough for the investigation of so vast a subject... And so this knowledge will be unfolded only through long successive ages. There will come a time when our descendants will be amazed that we did not know things that are so plain to them... Many discoveries are reserved for ages still to come, when memory of us will have been effaced." -- Seneca]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/10805-if-a-cluttered-desk-is-a-sign-of-a-cluttered</guid>
+		<pubDate>Fri, 13 Feb 2009 03:49:06 -0800</pubDate>
+		<title>
+			<![CDATA[Jamie add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10805-if-a-cluttered-desk-is-a-sign-of-a-cluttered]]>
+		</link>
+		<description>
+	    <![CDATA["If a cluttered desk is a sign of a cluttered mind, of what, then, is an empty desk a sign?" -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/22730-the-joke-loses-everything-when-the-joker-laughs-himself</guid>
+		<pubDate>Fri, 13 Feb 2009 03:51:23 -0800</pubDate>
+		<title>
+			<![CDATA[Jamie add a quote by Friedrich von Schiller]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22730-the-joke-loses-everything-when-the-joker-laughs-himself]]>
+		</link>
+		<description>
+	    <![CDATA["The joke loses everything when the joker laughs himself." -- Friedrich von Schiller]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/20725-the-two-most-common-elements-in-the-universe-are-hydrogen</guid>
+		<pubDate>Wed, 27 May 2009 10:24:09 -0700</pubDate>
+		<title>
+			<![CDATA[Jamie add a quote by Harlan Ellison]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20725-the-two-most-common-elements-in-the-universe-are-hydrogen]]>
+		</link>
+		<description>
+	    <![CDATA["The two most common elements in the universe are Hydrogen and stupidity." -- Harlan Ellison]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

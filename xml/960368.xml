@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/960368-cheryl-dunford]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/960368-cheryl-dunford" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 Jan 2013 12:41:25 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/100814-most-mothers-worry-when-their-daughters-reach-adolescence-but-i</guid>
+		<pubDate>Tue, 01 Jan 2013 12:41:25 -0800</pubDate>
+		<title>
+			<![CDATA[Cheryl add a quote by Margaret Atwood]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/100814-most-mothers-worry-when-their-daughters-reach-adolescence-but-i]]>
+		</link>
+		<description>
+	    <![CDATA["Most mothers worry when their daughters reach adolescence but I was the opposite. I relaxed, I sighed with relief. Little girls are cute and small only to adults. To one another they are not cute. They are life sized." -- Margaret Atwood]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/103547-little-girls-are-cute-and-small-only-to-adults-to</guid>
+		<pubDate>Tue, 01 Jan 2013 12:41:22 -0800</pubDate>
+		<title>
+			<![CDATA[Cheryl add a quote by Margaret Atwood]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/103547-little-girls-are-cute-and-small-only-to-adults-to]]>
+		</link>
+		<description>
+	    <![CDATA["Little girls are cute and small only to adults. To one another they are not cute. They are life sized." -- Margaret Atwood]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

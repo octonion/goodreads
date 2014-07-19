@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/780230-peter]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/780230-peter" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 14 Jan 2008 16:59:43 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/13437-when-the-railroad-trains-moaned-and-river-winds-blew-bringing-echoes</guid>
+		<pubDate>Mon, 14 Jan 2008 16:59:43 -0800</pubDate>
+		<title>
+			<![CDATA[Peter add a quote by Jack Kerouac]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13437-when-the-railroad-trains-moaned-and-river-winds-blew-bringing-echoes]]>
+		</link>
+		<description>
+	    <![CDATA["When the railroad trains moaned, and river-winds blew, bringing echoes through the vale, it was as if a wild hum of voices, the dear voices of everybody he had known, were crying: &quot;Peter, Peter! Where are you going, Peter?&quot; And a big soft gust of rain came down.
+   He put up the collar of his jacket, and bowed his head, and hurried along." -- Jack Kerouac]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/251319-matt]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/251319-matt" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 28 Nov 2011 12:16:18 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3659-people-of-ze-wurl-relax</guid>
+		<pubDate>Mon, 28 Nov 2011 12:16:18 -0800</pubDate>
+		<title>
+			<![CDATA[Matt add a quote by Tom Robbins]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3659-people-of-ze-wurl-relax]]>
+		</link>
+		<description>
+	    <![CDATA["People of ze wurl, relax!" -- Tom Robbins]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/40732-sounds-travel-through-space-long-after-their-wave-patterns-have</guid>
+		<pubDate>Mon, 28 Nov 2011 12:20:16 -0800</pubDate>
+		<title>
+			<![CDATA[Matt add a quote by Tom Robbins]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/40732-sounds-travel-through-space-long-after-their-wave-patterns-have]]>
+		</link>
+		<description>
+	    <![CDATA["Sounds travel through space long after their wave patterns have ceased to be detectable by the human ear: some cut right through the ionosphere and barrel on out into the cosmic heartland, while others bounce around, eventually being absorbed into the vibratory fields of earthly barriers, but in neither case does the energy succumb; it goes on forever - which is why we, each of us, should take pains to make sweet notes." -- Tom Robbins]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

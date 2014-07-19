@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/86122-tamara]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/86122-tamara" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 21 Mar 2009 18:23:50 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3498-she-had-the-perpetual-sense-as-she-watched-the-taxi</guid>
+		<pubDate>Sat, 21 Mar 2009 18:23:50 -0700</pubDate>
+		<title>
+			<![CDATA[Tamara add a quote by Virginia Woolf]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3498-she-had-the-perpetual-sense-as-she-watched-the-taxi]]>
+		</link>
+		<description>
+	    <![CDATA["She had the perpetual sense, as she watched the taxi cabs, of being out, out, far out to sea and alone; she always had the feeling that it was very, very, dangerous to live even one day." -- Virginia Woolf]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/154364-in-the-immemorial-style-of-young-men-under-pressure-they</guid>
+		<pubDate>Sun, 12 Apr 2009 17:08:12 -0700</pubDate>
+		<title>
+			<![CDATA[Tamara add a quote by Michael Chabon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/154364-in-the-immemorial-style-of-young-men-under-pressure-they]]>
+		</link>
+		<description>
+	    <![CDATA["In the immemorial style of young men under pressure, they decided to lie down for a while and waste time." -- Michael Chabon]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

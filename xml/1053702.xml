@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1053702-laura]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1053702-laura" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 07 Apr 2008 07:16:32 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/7811-when-a-person-doesn-t-have-gratitude-something-is-missing-in</guid>
+		<pubDate>Mon, 07 Apr 2008 07:16:32 -0700</pubDate>
+		<title>
+			<![CDATA[Laura add a quote by Elie Wiesel]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7811-when-a-person-doesn-t-have-gratitude-something-is-missing-in]]>
+		</link>
+		<description>
+	    <![CDATA["When a person doesn’t have gratitude, something is missing in his or her humanity. A person can almost be defined by his or her attitude toward gratitude." -- Elie Wiesel]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/74973-the-past-has-no-power-over-the-present-moment</guid>
+		<pubDate>Sat, 03 Dec 2011 16:33:56 -0800</pubDate>
+		<title>
+			<![CDATA[Laura add a quote by Eckhart Tolle]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/74973-the-past-has-no-power-over-the-present-moment]]>
+		</link>
+		<description>
+	    <![CDATA["The past has no power over the present moment." -- Eckhart Tolle]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

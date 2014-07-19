@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/977345-joel-will]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/977345-joel-will" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Mar 2008 07:02:24 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/33623-whatever-became-of-the-moment-when-one-first-knew-about</guid>
+		<pubDate>Tue, 11 Mar 2008 07:02:24 -0700</pubDate>
+		<title>
+			<![CDATA[Joel add a quote by Tom Stoppard]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/33623-whatever-became-of-the-moment-when-one-first-knew-about]]>
+		</link>
+		<description>
+	    <![CDATA["Whatever became of the moment
+when one first knew about death? There must have been one, a moment, in childhood, when it first occurred to you that you don't go on forever. It must have been shattering, stamped into one's memory. And yet I can't remember it. It never occurred to me at all. We must be born with an intuition of mortality. Before we know the word for it, before we know that there are words,out we come, bloodied and squalling...with the knowledge that for all the points of the compass, there's only one direction
+and time is its only measure.&quot; -Rosencrantz and Guildenstern are Dead." -- Tom Stoppard]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

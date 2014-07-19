@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1012322-cherise]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1012322-cherise" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 11 Sep 2009 19:42:32 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/12009-yet-each-man-kills-the-thing-he-loves-by-each</guid>
+		<pubDate>Fri, 11 Sep 2009 19:42:32 -0700</pubDate>
+		<title>
+			<![CDATA[Cherise add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12009-yet-each-man-kills-the-thing-he-loves-by-each]]>
+		</link>
+		<description>
+	    <![CDATA["Yet each man kills the thing he loves
+By each let this be heard
+Some do it with a bitter look
+Some with a flattering word
+The coward does it with a kiss
+The brave man with a sword" -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/33473-i-cannot-fix-on-the-hour-or-the-spot-or</guid>
+		<pubDate>Fri, 17 Dec 2010 16:36:12 -0800</pubDate>
+		<title>
+			<![CDATA[Cherise add a quote by Jane Austen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/33473-i-cannot-fix-on-the-hour-or-the-spot-or]]>
+		</link>
+		<description>
+	    <![CDATA["I cannot fix on the hour, or the spot, or the look or the words, which laid the foundation. It is too long ago. I was in the middle before I knew that I had begun." -- Jane Austen]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/21847-there-is-nothing-i-would-not-do-for-those-who</guid>
+		<pubDate>Sun, 31 Jan 2010 23:33:03 -0800</pubDate>
+		<title>
+			<![CDATA[Cherise add a quote by Jane Austen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21847-there-is-nothing-i-would-not-do-for-those-who]]>
+		</link>
+		<description>
+	    <![CDATA["There is nothing I would not do for those who are really my friends. I have no notion of loving people by halves, it is not my nature." -- Jane Austen]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

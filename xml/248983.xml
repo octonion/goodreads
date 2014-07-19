@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/248983-rosa]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/248983-rosa" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 22 Feb 2014 15:59:42 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1056303-continually-question-climbing-pursuits-do-they-draw-one-back-to</guid>
+		<pubDate>Sat, 22 Feb 2014 15:59:42 -0800</pubDate>
+		<title>
+			<![CDATA[Rosa add a quote by Jon Krakauer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1056303-continually-question-climbing-pursuits-do-they-draw-one-back-to]]>
+		</link>
+		<description>
+	    <![CDATA["Continually question climbing pursuits. Do they draw one back to the climbing community? Or do they lead along the [inner-directed] path? This questioning generates a tension that is heightened by disillusionment. Ultimately, one reaches an
+emptiness, and this is where our basic spontaneous nature leads to the beginning of the path... Thereafter one can continually stand apart from the outer world of climbing, yet at times be fiercely involved in it. Philosophical and mystical dimensions emerge when the two worlds are brought together." -- Jon Krakauer]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

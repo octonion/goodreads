@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/864551-alex]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/864551-alex" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 20 Jan 2009 18:18:10 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5488-a-book-is-a-gift-you-can-open-again-and</guid>
+		<pubDate>Tue, 20 Jan 2009 18:18:10 -0800</pubDate>
+		<title>
+			<![CDATA[Alex add a quote by Garrison Keillor]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5488-a-book-is-a-gift-you-can-open-again-and]]>
+		</link>
+		<description>
+	    <![CDATA["A book is a gift you can open again and again." -- Garrison Keillor]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

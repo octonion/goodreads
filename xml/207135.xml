@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/207135-camera-gimbal]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/207135-camera-gimbal" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 20 Jul 2008 02:01:12 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/8821-semua-perjalanan-hidup-adalah-sinema-bahkan-lebih-mengerikan-darah-adalah</guid>
+		<pubDate>Sun, 20 Jul 2008 02:01:12 -0700</pubDate>
+		<title>
+			<![CDATA[Camera add a quote by Dee]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8821-semua-perjalanan-hidup-adalah-sinema-bahkan-lebih-mengerikan-darah-adalah]]>
+		</link>
+		<description>
+	    <![CDATA["Semua perjalanan hidup adalah sinema. Bahkan lebih mengerikan. Darah adalah darah, dan tangis adalah tangis. Tak ada pemeran pengganti yang akan menanggung sakitmu." -- Dee]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/572977-kate]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/572977-kate" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 30 Jun 2009 09:52:04 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/174180-i-see-said-the-duke-but-my-own-idear-is</guid>
+		<pubDate>Tue, 30 Jun 2009 09:52:04 -0700</pubDate>
+		<title>
+			<![CDATA[Kate add a quote by Daisy Ashford]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/174180-i-see-said-the-duke-but-my-own-idear-is]]>
+		</link>
+		<description>
+	    <![CDATA["i see said the duke but my own idear is that these things are as piffle before the wind [from memory...]" -- Daisy Ashford]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

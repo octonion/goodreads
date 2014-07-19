@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/596050-natasha]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/596050-natasha" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 23 Jul 2012 21:04:15 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/73809-there-is-no-trap-so-deadly-as-the-trap-you</guid>
+		<pubDate>Mon, 23 Jul 2012 21:04:15 -0700</pubDate>
+		<title>
+			<![CDATA[Natasha add a quote by Raymond Chandler]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/73809-there-is-no-trap-so-deadly-as-the-trap-you]]>
+		</link>
+		<description>
+	    <![CDATA["There is no trap so deadly as the trap you set for yourself." -- Raymond Chandler]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/36317-why-did-you-do-all-this-for-me-he-asked</guid>
+		<pubDate>Fri, 29 Mar 2013 20:09:48 -0700</pubDate>
+		<title>
+			<![CDATA[Natasha add a quote by E.B. White]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/36317-why-did-you-do-all-this-for-me-he-asked]]>
+		</link>
+		<description>
+	    <![CDATA["Why did you do all this for me?' he asked. 'I don't deserve it. I've never done anything for you.' 'You have been my friend,' replied Charlotte. 'That in itself is a tremendous thing." -- E.B. White]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/507716-she-was-not-a-slowpoke-grownup-she-was-a-girl</guid>
+		<pubDate>Sat, 12 Apr 2014 15:19:44 -0700</pubDate>
+		<title>
+			<![CDATA[Natasha add a quote by Beverly Cleary]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/507716-she-was-not-a-slowpoke-grownup-she-was-a-girl]]>
+		</link>
+		<description>
+	    <![CDATA["She was not a slowpoke grownup. She was a girl who could not wait. Life was so interesting she had to find out what happened next." -- Beverly Cleary]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

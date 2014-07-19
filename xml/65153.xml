@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/65153-giovanna]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/65153-giovanna" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 16 Apr 2014 21:43:37 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1894-this-is-not-a-novel-to-be-tossed-aside-lightly</guid>
+		<pubDate>Wed, 16 Apr 2014 21:43:37 -0700</pubDate>
+		<title>
+			<![CDATA[Giovanna add a quote by Dorothy Parker]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1894-this-is-not-a-novel-to-be-tossed-aside-lightly]]>
+		</link>
+		<description>
+	    <![CDATA["This is not a novel to be tossed aside lightly. It should be thrown with great force." -- Dorothy Parker]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/675179-it-s-a-terrible-thing-i-think-in-life-to-wait</guid>
+		<pubDate>Mon, 28 Apr 2014 19:23:31 -0700</pubDate>
+		<title>
+			<![CDATA[Giovanna add a quote by Hugh Laurie]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/675179-it-s-a-terrible-thing-i-think-in-life-to-wait]]>
+		</link>
+		<description>
+	    <![CDATA["It's a terrible thing, I think, in life to wait until you're ready. I have this feeling now that actually no one is ever ready to do anything. There is almost no such thing as ready. There is only now. And you may as well do it now. Generally speaking, now is as good a time as any." -- Hugh Laurie]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/961506-frankie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/961506-frankie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 25 Mar 2008 08:06:10 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/942-two-things-are-infinite-the-universe-and-human-stupidity-and</guid>
+		<pubDate>Tue, 25 Mar 2008 08:06:10 -0700</pubDate>
+		<title>
+			<![CDATA[Frankie add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/942-two-things-are-infinite-the-universe-and-human-stupidity-and]]>
+		</link>
+		<description>
+	    <![CDATA["Two things are infinite: the universe and human stupidity; and I'm not sure about the universe." -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/9431-the-only-true-wisdom-is-in-knowing-you-know-nothing</guid>
+		<pubDate>Sun, 18 May 2008 22:18:21 -0700</pubDate>
+		<title>
+			<![CDATA[Frankie add a quote by Socrates]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9431-the-only-true-wisdom-is-in-knowing-you-know-nothing]]>
+		</link>
+		<description>
+	    <![CDATA["The only true wisdom is in knowing you know nothing." -- Socrates]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2505-a-person-hears-only-what-they-understand</guid>
+		<pubDate>Tue, 25 Mar 2008 08:09:04 -0700</pubDate>
+		<title>
+			<![CDATA[Frankie add a quote by Johann wolfgang von Goethe]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2505-a-person-hears-only-what-they-understand]]>
+		</link>
+		<description>
+	    <![CDATA["A person hears only what they understand." -- Johann wolfgang von Goethe]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/16878-do-not-go-where-the-path-may-lead-go-instead</guid>
+		<pubDate>Tue, 25 Mar 2008 08:12:53 -0700</pubDate>
+		<title>
+			<![CDATA[Frankie add a quote by Ralph Waldo Emerson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16878-do-not-go-where-the-path-may-lead-go-instead]]>
+		</link>
+		<description>
+	    <![CDATA["Do not go where the path may lead, go instead where there is no path and leave a trail." -- Ralph Waldo Emerson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/310494-toni-berkshire]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/310494-toni-berkshire" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 03 Apr 2009 15:50:43 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/59264-we-were-about-to-give-up-and-call-it-a</guid>
+		<pubDate>Fri, 03 Apr 2009 15:50:43 -0700</pubDate>
+		<title>
+			<![CDATA[Toni add a quote by John D. MacDonald]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/59264-we-were-about-to-give-up-and-call-it-a]]>
+		</link>
+		<description>
+	    <![CDATA["We were about to give up and call it a night when somebody threw the girl off the bridge." -- John D. MacDonald]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/13146-never-trust-anyone-who-has-not-brought-a-book-with</guid>
+		<pubDate>Sun, 07 Aug 2011 04:00:21 -0700</pubDate>
+		<title>
+			<![CDATA[Toni add a quote by Lemony Snicket]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13146-never-trust-anyone-who-has-not-brought-a-book-with]]>
+		</link>
+		<description>
+	    <![CDATA["Never trust anyone who has not brought a book with them." -- Lemony Snicket]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/911310-wonderland]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/911310-wonderland" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 27 Feb 2008 09:56:41 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1139-she-generally-gave-herself-very-good-advice-though-she-very</guid>
+		<pubDate>Wed, 27 Feb 2008 09:56:41 -0800</pubDate>
+		<title>
+			<![CDATA[Wonderland add a quote by Lewis Carroll]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1139-she-generally-gave-herself-very-good-advice-though-she-very]]>
+		</link>
+		<description>
+	    <![CDATA["She generally gave herself very good advice, (though she very seldom followed it)." -- Lewis Carroll]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/7953-reality-is-a-crutch-for-people-who-can-t-cope-with</guid>
+		<pubDate>Wed, 27 Feb 2008 10:11:54 -0800</pubDate>
+		<title>
+			<![CDATA[Wonderland add a quote by Lily Tomlin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7953-reality-is-a-crutch-for-people-who-can-t-cope-with]]>
+		</link>
+		<description>
+	    <![CDATA["Reality is a crutch for people who can't cope with drugs." -- Lily Tomlin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/948137-most-people-can-motivate-themselves-to-do-things-simply-by</guid>
+		<pubDate>Thu, 23 Jan 2014 20:43:22 -0800</pubDate>
+		<title>
+			<![CDATA[Wonderland add a quote by Allie Brosh]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/948137-most-people-can-motivate-themselves-to-do-things-simply-by]]>
+		</link>
+		<description>
+	    <![CDATA["Most people can motivate themselves to do things simply by knowing that those things need to be done. But not me. For me, motivation is this horrible, scary game where I try to make myself do something while I actively avoid doing it. If I win, I have to do something I don't want to do. And if I lose, I'm one step closer to ruining my entire life. And I never know whether I'm going to win or lose until the last second." -- Allie Brosh]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

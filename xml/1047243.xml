@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1047243-ruby-barrett]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1047243-ruby-barrett" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 05 Apr 2008 10:09:13 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/26864-is-life-so-dear-or-peace-so-sweet-as-to</guid>
+		<pubDate>Sat, 05 Apr 2008 10:09:13 -0700</pubDate>
+		<title>
+			<![CDATA[Ruby add a quote by Patrick Henry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/26864-is-life-so-dear-or-peace-so-sweet-as-to]]>
+		</link>
+		<description>
+	    <![CDATA["Is life so dear, or peace so sweet, as to be purchased at the price of chains and slavery? Forbid it, Almighty God! I know not what course others may take; but as for me, give me liberty or give me death!" -- Patrick Henry]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/276681-adam]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/276681-adam" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 01 Aug 2011 07:10:02 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/13974-as-my-father-always-used-to-tell-me-you-see</guid>
+		<pubDate>Mon, 01 Aug 2011 07:10:02 -0700</pubDate>
+		<title>
+			<![CDATA[Adam add a quote by Bill Bryson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13974-as-my-father-always-used-to-tell-me-you-see]]>
+		</link>
+		<description>
+	    <![CDATA["As my father always used to tell me, 'You see, son, there's always someone in the world worse off than you.'  And I always used to think, 'So?" -- Bill Bryson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/233583-are-these-things-really-better-than-the-things-i-already</guid>
+		<pubDate>Sat, 26 Apr 2014 13:24:55 -0700</pubDate>
+		<title>
+			<![CDATA[Adam add a quote by Chuck Palahniuk]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/233583-are-these-things-really-better-than-the-things-i-already]]>
+		</link>
+		<description>
+	    <![CDATA["Are these things really better than the things I already have? Or am I just trained to be dissatisfied with what I have now?" -- Chuck Palahniuk]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/8080-the-road-to-hell-is-paved-with-adverbs</guid>
+		<pubDate>Wed, 11 Jun 2014 22:46:08 -0700</pubDate>
+		<title>
+			<![CDATA[Adam add a quote by Stephen King]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8080-the-road-to-hell-is-paved-with-adverbs]]>
+		</link>
+		<description>
+	    <![CDATA["The road to hell is paved with adverbs." -- Stephen King]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

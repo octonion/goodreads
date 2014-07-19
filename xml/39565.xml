@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/39565-sarah]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/39565-sarah" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 15 Feb 2011 13:37:07 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/32832-if-you-re-50-years-old-or-younger-give-every-book</guid>
+		<pubDate>Tue, 15 Feb 2011 13:37:07 -0800</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by Nancy Pearl]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/32832-if-you-re-50-years-old-or-younger-give-every-book]]>
+		</link>
+		<description>
+	    <![CDATA["If you're 50 years old or younger, give every book about 50 pages before you decide to commit yourself to reading it, or give it up.
+
+If you're over 50, which is when time gets shorter, subtract your age from 100 - the result is the number of pages you should read before deciding whether or not to quit. If you're 100 or over you get to judge the book by its cover, despite the dangers in doing so." -- Nancy Pearl]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

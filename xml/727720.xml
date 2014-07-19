@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/727720-steve]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/727720-steve" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 23 Jan 2008 20:52:58 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/16681-force-always-attracts-men-of-low-morality</guid>
+		<pubDate>Wed, 23 Jan 2008 20:52:58 -0800</pubDate>
+		<title>
+			<![CDATA[Steve add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16681-force-always-attracts-men-of-low-morality]]>
+		</link>
+		<description>
+	    <![CDATA["Force always attracts men of low morality." -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/16912-the-rule-of-reason-is-the-true-sovereign-in-the</guid>
+		<pubDate>Thu, 24 Jan 2008 11:37:16 -0800</pubDate>
+		<title>
+			<![CDATA[Steve add a quote by Al Gore]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16912-the-rule-of-reason-is-the-true-sovereign-in-the]]>
+		</link>
+		<description>
+	    <![CDATA["The rule of reason is the true sovereign in the American system." -- Al Gore]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/16913-let-a-crown-be-placed-thereon-by-which-the-world</guid>
+		<pubDate>Thu, 24 Jan 2008 11:40:21 -0800</pubDate>
+		<title>
+			<![CDATA[Steve add a quote by Thomas Paine]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16913-let-a-crown-be-placed-thereon-by-which-the-world]]>
+		</link>
+		<description>
+	    <![CDATA["Let a crown be placed thereon, by which the world may know, that so far as we approve of monarcy, that in America the law is King. For as in absolute governments the King is law, so in free countries the law ought to be King; and there ought to be no other." -- Thomas Paine]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/915394-aya]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/915394-aya" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 01 Apr 2013 07:37:31 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/22783-i-wish-i-could-show-you-when-you-are-lonely</guid>
+		<pubDate>Mon, 01 Apr 2013 07:37:31 -0700</pubDate>
+		<title>
+			<![CDATA[Aya add a quote by Hafiz of Shiraz]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22783-i-wish-i-could-show-you-when-you-are-lonely]]>
+		</link>
+		<description>
+	    <![CDATA["I wish I could show you when you are lonely or in darkness the astonishing light of your own being." -- Hafiz of Shiraz]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/22784-this-sky-where-we-live-is-no-place-to-lose</guid>
+		<pubDate>Mon, 01 Apr 2013 07:39:19 -0700</pubDate>
+		<title>
+			<![CDATA[Aya add a quote by Hafiz of Shiraz]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22784-this-sky-where-we-live-is-no-place-to-lose]]>
+		</link>
+		<description>
+	    <![CDATA["This sky where we live is no place to lose your wings so love, love, love." -- Hafiz of Shiraz]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

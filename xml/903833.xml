@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/903833-aimee]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/903833-aimee" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 13 Mar 2014 14:10:28 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/291810-for-the-master-s-tools-will-never-dismantle-the-master-s-house</guid>
+		<pubDate>Thu, 13 Mar 2014 14:10:28 -0700</pubDate>
+		<title>
+			<![CDATA[Aimee add a quote by Audre Lorde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/291810-for-the-master-s-tools-will-never-dismantle-the-master-s-house]]>
+		</link>
+		<description>
+	    <![CDATA["For the master’s tools will never dismantle the master’s house.  They may allow us to temporarily beat him at his own game, but they will never enable us to bring about genuine change.  Racism and homophobia are real conditions of all our lives in this place and time. I urge each one of us here to reach down into that deep place of knowledge inside herself and touch that terror and loathing of any difference that lives here.  See whose face it wears.  Then the personal as the political can begin to illuminate all our choices." -- Audre Lorde]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

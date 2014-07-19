@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/681695-solanum-tuberosum]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/681695-solanum-tuberosum" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 13 Dec 2007 17:05:15 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5230-it-s-not-whether-you-win-or-lose-it-s-how-you</guid>
+		<pubDate>Thu, 13 Dec 2007 17:05:15 -0800</pubDate>
+		<title>
+			<![CDATA[Solanum add a quote by Grantland Rice]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5230-it-s-not-whether-you-win-or-lose-it-s-how-you]]>
+		</link>
+		<description>
+	    <![CDATA["It's not whether you win or lose, it's how you play the game." -- Grantland Rice]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5231-grantland-rice-can-go-to-hell-as-far-as-i-m</guid>
+		<pubDate>Thu, 13 Dec 2007 17:05:55 -0800</pubDate>
+		<title>
+			<![CDATA[Solanum add a quote by Gene Autry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5231-grantland-rice-can-go-to-hell-as-far-as-i-m]]>
+		</link>
+		<description>
+	    <![CDATA["Grantland Rice can go to hell as far as I'm concerned." -- Gene Autry]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5232-soon-to-come-in-licorice-orange-cinnamon-and-banana-but</guid>
+		<pubDate>Thu, 13 Dec 2007 17:07:12 -0800</pubDate>
+		<title>
+			<![CDATA[Solanum add a quote by Terry Pratchett]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5232-soon-to-come-in-licorice-orange-cinnamon-and-banana-but]]>
+		</link>
+		<description>
+	    <![CDATA["Soon to come in licorice, orange, cinnamon, and banana, but not strawberry, because I hate strawberries." -- Terry Pratchett]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

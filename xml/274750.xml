@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/274750-natasha]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/274750-natasha" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 30 Dec 2012 11:34:45 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/54445-i-stood-there-in-the-kitchen-watching-her-staring-across</guid>
+		<pubDate>Sun, 30 Dec 2012 11:34:45 -0800</pubDate>
+		<title>
+			<![CDATA[Natasha add a quote by William Boyd]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/54445-i-stood-there-in-the-kitchen-watching-her-staring-across]]>
+		</link>
+		<description>
+	    <![CDATA["I stood there in the kitchen, watching her staring across the meadow still searching for her nemesis and I thought, suddenly, that this is all our lives - this is the one fact that applies to us all, that makes us what we are, our common mortality, our common humanity. One day someone is going to come and take us away: you don't need to have been a spy, I thought, to feel like this." -- William Boyd]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

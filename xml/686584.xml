@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/686584-jlfulle]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/686584-jlfulle" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 12 Feb 2014 17:27:47 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/27773-love-is-an-act-of-endless-forgiveness-a-tender-look</guid>
+		<pubDate>Wed, 12 Feb 2014 17:27:47 -0800</pubDate>
+		<title>
+			<![CDATA[Jlfulle add a quote by Peter Ustinov]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/27773-love-is-an-act-of-endless-forgiveness-a-tender-look]]>
+		</link>
+		<description>
+	    <![CDATA["Love is an act of endless forgiveness; a tender look which becomes a habit." -- Peter Ustinov]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/16454-you-re-going-to-come-across-people-in-your-life-who</guid>
+		<pubDate>Wed, 26 Feb 2014 11:09:01 -0800</pubDate>
+		<title>
+			<![CDATA[Jlfulle add a quote by Nicholas Sparks]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16454-you-re-going-to-come-across-people-in-your-life-who]]>
+		</link>
+		<description>
+	    <![CDATA["You're going to come across people in your life who will say all the right words at all the right times. But in the end, it's always their actions you should judge them by. It's actions, not words, that matter." -- Nicholas Sparks]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

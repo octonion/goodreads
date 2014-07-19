@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1056034-merlin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1056034-merlin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 29 May 2008 12:01:09 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4590-without-music-life-would-be-a-mistake</guid>
+		<pubDate>Thu, 29 May 2008 12:01:09 -0700</pubDate>
+		<title>
+			<![CDATA[Merlin add a quote by Friedrich Nietzsche]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4590-without-music-life-would-be-a-mistake]]>
+		</link>
+		<description>
+	    <![CDATA["Without music, life would be a mistake." -- Friedrich Nietzsche]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2121-it-is-hard-enough-to-remember-my-opinions-without-also</guid>
+		<pubDate>Thu, 29 May 2008 12:01:36 -0700</pubDate>
+		<title>
+			<![CDATA[Merlin add a quote by Friedrich Nietzsche]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2121-it-is-hard-enough-to-remember-my-opinions-without-also]]>
+		</link>
+		<description>
+	    <![CDATA["It is hard enough to remember my opinions, without also remembering my reasons for them!" -- Friedrich Nietzsche]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1227-of-all-forms-of-caution-caution-in-love-is-perhaps</guid>
+		<pubDate>Thu, 29 May 2008 13:37:44 -0700</pubDate>
+		<title>
+			<![CDATA[Merlin add a quote by Bertrand Russell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1227-of-all-forms-of-caution-caution-in-love-is-perhaps]]>
+		</link>
+		<description>
+	    <![CDATA["Of all forms of caution, caution in love is perhaps the most fatal to true happiness." -- Bertrand Russell]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6050-the-fundamental-cause-of-the-trouble-is-that-in-the</guid>
+		<pubDate>Thu, 29 May 2008 13:38:14 -0700</pubDate>
+		<title>
+			<![CDATA[Merlin add a quote by Bertrand Russell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6050-the-fundamental-cause-of-the-trouble-is-that-in-the]]>
+		</link>
+		<description>
+	    <![CDATA["The  fundamental cause of the trouble is that in the modern world the stupid are cocksure while the intelligent are full of doubt." -- Bertrand Russell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

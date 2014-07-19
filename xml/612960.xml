@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/612960-samantha]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/612960-samantha" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 07 Feb 2014 12:36:30 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1029873-oh-you-know-me-jean-reached-behind-his-neck-down</guid>
+		<pubDate>Fri, 07 Feb 2014 12:36:30 -0800</pubDate>
+		<title>
+			<![CDATA[Samantha add a quote by Scott Lynch]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1029873-oh-you-know-me-jean-reached-behind-his-neck-down]]>
+		</link>
+		<description>
+	    <![CDATA["Oh, you know me.” Jean reached behind his neck, down behind the loose leather vest he wore over his simple cotton tunic. He withdrew a pair of matching hatchets, each a foot and a half in length, with leather-wrapped handles and straight black blades that narrowed like scalpels. These were balanced with balls of blackened steel, each as wide around as a silver solon. The Wicked Sisters—Jean’s weapons of choice. “I never travel alone. It’s always the three of us." -- Scott Lynch]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

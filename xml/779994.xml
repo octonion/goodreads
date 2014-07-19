@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/779994-alana]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/779994-alana" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 23 Jun 2010 10:50:41 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/52294-you-didn-t-kill-him-he-would-have-killed-you-but</guid>
+		<pubDate>Wed, 23 Jun 2010 10:50:41 -0700</pubDate>
+		<title>
+			<![CDATA[Alana add a quote by Tamora Pierce]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/52294-you-didn-t-kill-him-he-would-have-killed-you-but]]>
+		</link>
+		<description>
+	    <![CDATA["You didn't kill him. He would have killed you, but you didn't kill him.&quot;
+&quot;So? He was stupid. If I killed everyone who was stupid, I wouldn't have time to sleep." -- Tamora Pierce]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/9131-if-you-tell-the-truth-you-don-t-have-to-remember</guid>
+		<pubDate>Wed, 23 Jun 2010 10:51:38 -0700</pubDate>
+		<title>
+			<![CDATA[Alana add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9131-if-you-tell-the-truth-you-don-t-have-to-remember]]>
+		</link>
+		<description>
+	    <![CDATA["If you tell the truth, you don't have to remember anything." -- Mark Twain]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

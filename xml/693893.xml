@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/693893-sa-hika]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/693893-sa-hika" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 22 Jan 2013 01:16:52 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1504-a-torn-jacket-is-soon-mended-but-hard-words-bruise</guid>
+		<pubDate>Tue, 22 Jan 2013 01:16:52 -0800</pubDate>
+		<title>
+			<![CDATA[Saϟhika add a quote by Henry Wadsworth Longfellow]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1504-a-torn-jacket-is-soon-mended-but-hard-words-bruise]]>
+		</link>
+		<description>
+	    <![CDATA["A torn jacket is soon mended, but hard words bruise the heart of a child." -- Henry Wadsworth Longfellow]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/219271-if-we-tend-to-the-things-that-are-important-in</guid>
+		<pubDate>Wed, 27 Mar 2013 23:04:59 -0700</pubDate>
+		<title>
+			<![CDATA[Saϟhika add a quote by Mitch Albom]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/219271-if-we-tend-to-the-things-that-are-important-in]]>
+		</link>
+		<description>
+	    <![CDATA["If we tend to the things that are important in life, if we are right with those we love, and behave in line with our faith, our lives will not be cursed with the aching throb of unfulfilled business. Our words will always be sincere, our embraces will be tight. We will never wallow in the agony of ‘I could have, I should have’. We can sleep in a storm. And when its time, our goodbyes will be complete." -- Mitch Albom]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

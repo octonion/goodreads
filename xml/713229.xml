@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/713229-joe-ashton]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/713229-joe-ashton" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 Jan 2008 21:22:56 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/9347-i-know-that-you-believe-you-understand-what-you-think</guid>
+		<pubDate>Tue, 01 Jan 2008 21:22:56 -0800</pubDate>
+		<title>
+			<![CDATA[JoE add a quote by Robert McCloskey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9347-i-know-that-you-believe-you-understand-what-you-think]]>
+		</link>
+		<description>
+	    <![CDATA["I know that you believe you understand what you think I said, but I'm not sure you realize that what you heard is not what I meant." -- Robert McCloskey]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/8701-between-two-evils-i-always-pick-the-one-i-never</guid>
+		<pubDate>Tue, 01 Jan 2008 21:25:36 -0800</pubDate>
+		<title>
+			<![CDATA[JoE add a quote by Mae West]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8701-between-two-evils-i-always-pick-the-one-i-never]]>
+		</link>
+		<description>
+	    <![CDATA["Between two evils, I always pick the one I never tried before." -- Mae West]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/9350-santa-claus-has-the-right-idea-visit-people-once-a</guid>
+		<pubDate>Tue, 01 Jan 2008 21:26:12 -0800</pubDate>
+		<title>
+			<![CDATA[JoE add a quote by Victor Borge]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9350-santa-claus-has-the-right-idea-visit-people-once-a]]>
+		</link>
+		<description>
+	    <![CDATA["Santa Claus has the right idea: visit people once a year" -- Victor Borge]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

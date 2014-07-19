@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/303369-ani-chaos]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/303369-ani-chaos" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 19 Dec 2007 15:13:59 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5015-what-did-nabokov-and-joyce-have-in-common-apart-from</guid>
+		<pubDate>Wed, 19 Dec 2007 15:13:59 -0800</pubDate>
+		<title>
+			<![CDATA[Ani add a quote by Martin Amis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5015-what-did-nabokov-and-joyce-have-in-common-apart-from]]>
+		</link>
+		<description>
+	    <![CDATA["What did Nabokov and Joyce have in common, apart from the poor teeth and the great prose? Exile, and decades of near pauperism. A compulsive tendency to overtip. An uxoriousness that their wives deservedly inspired. More than that, they both lived their lives 'beautifully'--not in any Jamesian sense (where, besides, ferocious solvency would have been a prerequisite), but in the droll fortitude of their perseverance. They got the work done, with style." -- Martin Amis]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

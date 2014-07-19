@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1049122-rachelle]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1049122-rachelle" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 02 Apr 2008 11:21:57 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/40869-women-are-from-mars-men-have-a-penis</guid>
+		<pubDate>Wed, 02 Apr 2008 11:21:57 -0700</pubDate>
+		<title>
+			<![CDATA[Rachelle add a quote by Gene Simmons]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/40869-women-are-from-mars-men-have-a-penis]]>
+		</link>
+		<description>
+	    <![CDATA["Women are from Mars, men have a penis" -- Gene Simmons]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/40870-never-to-suffer-would-never-to-have-been-blessed</guid>
+		<pubDate>Wed, 02 Apr 2008 11:23:44 -0700</pubDate>
+		<title>
+			<![CDATA[Rachelle add a quote by Edgar Allan Poe]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/40870-never-to-suffer-would-never-to-have-been-blessed]]>
+		</link>
+		<description>
+	    <![CDATA["Never to suffer would never to have been blessed." -- Edgar Allan Poe]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/40871-god-is-a-concept-by-which-we-measure-our-pain</guid>
+		<pubDate>Wed, 02 Apr 2008 11:24:51 -0700</pubDate>
+		<title>
+			<![CDATA[Rachelle add a quote by John Lennon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/40871-god-is-a-concept-by-which-we-measure-our-pain]]>
+		</link>
+		<description>
+	    <![CDATA["God is a concept by which we measure our pain." -- John Lennon]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

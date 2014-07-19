@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/623126-greg]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/623126-greg" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 14 Aug 2011 13:38:13 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3730-i-find-television-very-educating-every-time-somebody-turns-on</guid>
+		<pubDate>Sun, 14 Aug 2011 13:38:13 -0700</pubDate>
+		<title>
+			<![CDATA[Greg add a quote by Groucho Marx ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3730-i-find-television-very-educating-every-time-somebody-turns-on]]>
+		</link>
+		<description>
+	    <![CDATA["I find television very educating. Every time somebody turns on the set, I go into the other room and read a book." -- Groucho Marx ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/59956-in-these-times-i-don-t-in-a-manner-of-speaking</guid>
+		<pubDate>Sun, 09 Oct 2011 08:20:46 -0700</pubDate>
+		<title>
+			<![CDATA[Greg add a quote by Marsilio Ficino]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/59956-in-these-times-i-don-t-in-a-manner-of-speaking]]>
+		</link>
+		<description>
+	    <![CDATA["In these times I don't, in a manner of speaking, know what I want; perhaps I don't want what I know and want what I don't know." -- Marsilio Ficino]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2579-do-not-read-as-children-do-to-amuse-yourself-or</guid>
+		<pubDate>Thu, 10 May 2012 07:56:34 -0700</pubDate>
+		<title>
+			<![CDATA[Greg add a quote by Gustave Flaubert]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2579-do-not-read-as-children-do-to-amuse-yourself-or]]>
+		</link>
+		<description>
+	    <![CDATA["Do not read, as children do, to amuse yourself, or like the ambitious, for the purpose of instruction. No, read in order to live." -- Gustave Flaubert]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

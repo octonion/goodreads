@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/334176-wonderbritches]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/334176-wonderbritches" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 23 Apr 2014 07:09:51 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/873937-as-humans-we-waste-the-shit-out-of-our-words</guid>
+		<pubDate>Wed, 23 Apr 2014 07:09:51 -0700</pubDate>
+		<title>
+			<![CDATA[Wonderbritches add a quote by Louis C.K.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/873937-as-humans-we-waste-the-shit-out-of-our-words]]>
+		</link>
+		<description>
+	    <![CDATA["As humans, we waste the shit out of our words. It’s sad. We use words like “awesome” and “wonderful” like they’re candy. It was awesome? Really? It inspired awe? It was wonderful? Are you serious? It was full of wonder? You use the word “amazing” to describe a goddamn sandwich at Wendy’s. What’s going to happen on your wedding day, or when your first child is born? How will you describe it? You already wasted “amazing” on a fucking sandwich." -- Louis C.K.]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

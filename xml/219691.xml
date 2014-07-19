@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/219691-jess]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/219691-jess" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 08 Jun 2008 10:18:20 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/61277-a-man-said-to-the-universe-a-man-said-to</guid>
+		<pubDate>Sun, 08 Jun 2008 10:18:20 -0700</pubDate>
+		<title>
+			<![CDATA[Jess add a quote by Stephen Crane]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/61277-a-man-said-to-the-universe-a-man-said-to]]>
+		</link>
+		<description>
+	    <![CDATA["&lt;b&gt;A Man Said to the Universe&lt;/b&gt;
+
+A man said to the universe: 
+“Sir, I exist!”
+“However,” replied the universe, 
+“The fact has not created in me 
+A sense of obligation." -- Stephen Crane]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/22-beauty-is-in-the-eye-of-the-beholder-and-it</guid>
+		<pubDate>Sun, 08 Jun 2008 10:27:44 -0700</pubDate>
+		<title>
+			<![CDATA[Jess add a quote by Miss Piggy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22-beauty-is-in-the-eye-of-the-beholder-and-it]]>
+		</link>
+		<description>
+	    <![CDATA["Beauty is in the eye of the beholder and it may be necessary from time to time to give a stupid or misinformed beholder a black eye." -- Miss Piggy]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

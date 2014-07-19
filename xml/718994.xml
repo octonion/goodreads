@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/718994-monique]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/718994-monique" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 28 Dec 2007 20:02:17 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/8344-i-would-give-up-the-unessential-i-would-give-up</guid>
+		<pubDate>Fri, 28 Dec 2007 20:02:17 -0800</pubDate>
+		<title>
+			<![CDATA[Monique add a quote by Kate Chopin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8344-i-would-give-up-the-unessential-i-would-give-up]]>
+		</link>
+		<description>
+	    <![CDATA["I would give up the unessential; I would give up my money, I would give up my life for my children; but I wouldnt give myself. I can't make it more clear; it's only something I am beginning to comprehend, which is revealing itself to me." -- Kate Chopin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/8345-i-don-t-want-to-have-lived-in-vain-like-most</guid>
+		<pubDate>Fri, 28 Dec 2007 20:04:31 -0800</pubDate>
+		<title>
+			<![CDATA[Monique add a quote by Anne Frank]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8345-i-don-t-want-to-have-lived-in-vain-like-most]]>
+		</link>
+		<description>
+	    <![CDATA["I don't want to have lived in vain like most people. I want to be useful or bring enjoyment to all people, even those I've never met. I want to go on living even after my death!" -- Anne Frank]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

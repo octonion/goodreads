@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/856717-bret-mogilefsky]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/856717-bret-mogilefsky" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 08 Jan 2014 01:17:00 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/21224-i-have-only-made-this-letter-longer-because-i-have</guid>
+		<pubDate>Wed, 08 Jan 2014 01:17:00 -0800</pubDate>
+		<title>
+			<![CDATA[Bret add a quote by Blaise Pascal]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21224-i-have-only-made-this-letter-longer-because-i-have]]>
+		</link>
+		<description>
+	    <![CDATA["I have only made this letter longer because I have not had the time to make it shorter.&quot;
+
+(&lt;i&gt;Letter 16&lt;/i&gt;, 1657)" -- Blaise Pascal]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

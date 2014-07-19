@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/927968-erin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/927968-erin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 20 Feb 2008 19:46:17 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/26751-i-had-gone-to-no-such-place-but-to-the</guid>
+		<pubDate>Wed, 20 Feb 2008 19:46:17 -0800</pubDate>
+		<title>
+			<![CDATA[Erin add a quote by Ernest Hemingway]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/26751-i-had-gone-to-no-such-place-but-to-the]]>
+		</link>
+		<description>
+	    <![CDATA["I had gone to no such place but to the smoke of cafes and nights when the room whirled and you needed to look at the wall to make it stop, nights in bed, drunk, when you knew that that was all there was, and the strange excitement of waking and not knowing who it was with you, and the world all unreal in the dark and so exciting that you must resume again unknowing and not caring in the night, sure that this was all and all and all and not caring." -- Ernest Hemingway]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

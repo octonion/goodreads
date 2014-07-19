@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/197091-andrea]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/197091-andrea" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 10 Mar 2014 10:49:08 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/970097-it-made-me-sad-when-i-caught-myself-pretending-that</guid>
+		<pubDate>Mon, 10 Mar 2014 10:49:08 -0700</pubDate>
+		<title>
+			<![CDATA[Andrea add a quote by Ruth Ozeki]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/970097-it-made-me-sad-when-i-caught-myself-pretending-that]]>
+		</link>
+		<description>
+	    <![CDATA["It made me sad when I caught myself pretending that everybody out there in cyberspace cared about what I thought, when really nobody gives a shit. And when I multiplied that sad feeling by all the millions of people in their lonely little rooms, furiously writing and posting to their lonely little pages that nobody has time to read because they’re all so busy writing and posting, it kind of broke my heart." -- Ruth Ozeki]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

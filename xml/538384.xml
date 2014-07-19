@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/538384-jessica]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/538384-jessica" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 06 Jan 2011 10:10:52 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/172746-well-said-the-frog-what-are-you-going-to-do</guid>
+		<pubDate>Thu, 06 Jan 2011 10:10:52 -0800</pubDate>
+		<title>
+			<![CDATA[Jessica add a quote by Patricia C. Wrede]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/172746-well-said-the-frog-what-are-you-going-to-do]]>
+		</link>
+		<description>
+	    <![CDATA["Well,” said the frog, “what are you going to do about it?”
+
+“Marrying Therandil? I don’t know. I’ve tried talking to my parents, but they won’t listen, and neither will Therandil.”
+
+“I didn’t ask what you’d said about it,” the frog snapped. “I asked what you’re going to do. Nine times out of ten, talking is a way of avoiding doing things." -- Patricia C. Wrede]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

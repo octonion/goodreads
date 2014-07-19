@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/740967-franck]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/740967-franck" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 07 Jan 2008 11:14:55 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1494-the-beauty-of-religious-mania-is-that-it-has-the</guid>
+		<pubDate>Mon, 07 Jan 2008 11:14:55 -0800</pubDate>
+		<title>
+			<![CDATA[Franck add a quote by Stephen King]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1494-the-beauty-of-religious-mania-is-that-it-has-the]]>
+		</link>
+		<description>
+	    <![CDATA["The beauty of religious mania is that it has the power to explain everything. Once God (or Satan) is accepted as the first cause of everything which happens in the mortal world, nothing is left to chance...logic can be happily tossed out the window." -- Stephen King]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/811-for-instance-on-the-planet-earth-man-had-always-assumed</guid>
+		<pubDate>Mon, 07 Jan 2008 11:19:16 -0800</pubDate>
+		<title>
+			<![CDATA[Franck add a quote by Douglas Adams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/811-for-instance-on-the-planet-earth-man-had-always-assumed]]>
+		</link>
+		<description>
+	    <![CDATA["For instance, on the planet Earth, man had always assumed that he was more intelligent than dolphins because he had achieved so much&amp;mdash;the wheel, New York, wars and so on&amp;mdash;whilst all the dolphins had ever done was muck about in the water having a good time. But conversely, the dolphins had always believed that they were far more intelligent than man&amp;mdash;for precisely the same reasons." -- Douglas Adams]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

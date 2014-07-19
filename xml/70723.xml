@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/70723-gina]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/70723-gina" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 17 Nov 2010 18:02:27 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/170546-people-always-say-it-s-harder-to-heal-a-wounded-heart</guid>
+		<pubDate>Wed, 17 Nov 2010 18:02:27 -0800</pubDate>
+		<title>
+			<![CDATA[Gina add a quote by Xiaolu Guo]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/170546-people-always-say-it-s-harder-to-heal-a-wounded-heart]]>
+		</link>
+		<description>
+	    <![CDATA["People always say it's harder to heal a wounded heart than a wounded body.  Bullshit.  It's exactly the opposite—a wounded body takes much longer to heal.  A wounded heart is nothing but ashes of memories.  But the body is everything.  The body is blood and veins and cells and nerves.  A wounded body is when, after leaving a man you’ve lived with for three years, you curl up on your side of the bed as if there’s still somebody beside you.  That is a wounded body:  a body that feels connected to someone who is no longer there." -- Xiaolu Guo]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

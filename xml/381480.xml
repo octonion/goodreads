@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/381480-bernadette-darnell]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/381480-bernadette-darnell" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 29 Dec 2012 02:34:57 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/534632-i-do-not-wish-to-criticize-any-system-that-can</guid>
+		<pubDate>Sat, 29 Dec 2012 02:34:57 -0800</pubDate>
+		<title>
+			<![CDATA[Bernadette add a quote by John O'Donohue]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/534632-i-do-not-wish-to-criticize-any-system-that-can]]>
+		</link>
+		<description>
+	    <![CDATA["I do not wish to criticize any system that can nourish people’s spirits, but I find that a lot of New Age writing cherry-picks the attractive bits from the ancient traditions and makes collages of them; it usually excises the ascetic dimension. In general it is not rigorously thought out, but is what I would call “soft” thinking." -- John O'Donohue]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

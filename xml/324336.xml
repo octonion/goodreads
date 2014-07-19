@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/324336-william-welburn]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/324336-william-welburn" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 18 Jul 2012 14:08:37 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/267434-a-great-many-contemporary-artists-from-hugely-diverse-backgrounds-are</guid>
+		<pubDate>Wed, 18 Jul 2012 14:08:37 -0700</pubDate>
+		<title>
+			<![CDATA[William add a quote by Lucy Lippard]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/267434-a-great-many-contemporary-artists-from-hugely-diverse-backgrounds-are]]>
+		</link>
+		<description>
+	    <![CDATA["A great many contemporary artists from hugely diverse backgrounds are currently approaching the prospect of cultural mixing..." -- Lucy Lippard]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/323780-whatever-may-be-the-tensions-and-the-stresses-of-a</guid>
+		<pubDate>Wed, 12 Feb 2014 16:35:32 -0800</pubDate>
+		<title>
+			<![CDATA[William add a quote by Howard Thurman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/323780-whatever-may-be-the-tensions-and-the-stresses-of-a]]>
+		</link>
+		<description>
+	    <![CDATA["Whatever may be the tensions and the stresses of a particular day,  there is always lurking close at hand the trailing beauty of forgotten joy or unremembered peace." -- Howard Thurman]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/774396-joni-devoe]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/774396-joni-devoe" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 14 Jan 2013 19:54:19 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/54619-what-good-is-the-warmth-of-summer-without-the-cold</guid>
+		<pubDate>Mon, 14 Jan 2013 19:54:19 -0800</pubDate>
+		<title>
+			<![CDATA[Joni add a quote by John Steinbeck]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/54619-what-good-is-the-warmth-of-summer-without-the-cold]]>
+		</link>
+		<description>
+	    <![CDATA["What good is the warmth of summer, without the cold of winter to give it sweetness." -- John Steinbeck]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/887803-have-you-ever-tried-thinking-of-god-as-a-person</guid>
+		<pubDate>Sun, 10 Nov 2013 07:42:30 -0800</pubDate>
+		<title>
+			<![CDATA[Joni add a quote by Angela N. Blount]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/887803-have-you-ever-tried-thinking-of-god-as-a-person]]>
+		</link>
+		<description>
+	    <![CDATA["Have you ever tried thinking of God as a person instead of an all-powerful vending machine that never gives you the right amount of change? He has feelings too, you know." -- Angela N. Blount]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

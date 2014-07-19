@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/817840-sarah]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/817840-sarah" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 24 Jan 2008 10:29:09 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6607-a-good-short-story-would-take-me-out-of-myself</guid>
+		<pubDate>Thu, 24 Jan 2008 10:29:09 -0800</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by David Sedaris]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6607-a-good-short-story-would-take-me-out-of-myself]]>
+		</link>
+		<description>
+	    <![CDATA["A good [short story] would take me out of myself and then stuff me back in, outsized, now, and uneasy with the fit." -- David Sedaris]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2843-i-wanted-her-to-see-that-the-only-life-worth</guid>
+		<pubDate>Thu, 24 Jan 2008 10:34:18 -0800</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by Pam Houston]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2843-i-wanted-her-to-see-that-the-only-life-worth]]>
+		</link>
+		<description>
+	    <![CDATA["I wanted her to see that the only life worth living is a life full of love; that loss is always part of the equation; that love and loss conjoined are the best opportunity we get to live fully, to be our strongest, our most compassionate, our most graceful selves. " -- Pam Houston]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/88903-molly]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/88903-molly" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 10 Sep 2013 09:33:31 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/687072-probably-he-was-thinking-what-a-boring-bollocks-i-was</guid>
+		<pubDate>Tue, 10 Sep 2013 09:33:31 -0700</pubDate>
+		<title>
+			<![CDATA[Molly add a quote by Tana French]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/687072-probably-he-was-thinking-what-a-boring-bollocks-i-was]]>
+		</link>
+		<description>
+	    <![CDATA["Probably he was thinking what a boring bollocks I was. Plenty of people think the same thing- all of them are teenagers, mentally if not physically. Only teenagers think boring is bad. Adults, grown men and women who've been around the block a few times, know that boring is a gift straight from God. Life has more then enough excitement up its sleeve, ready to hit you as soon as you're not looking, without you adding to the drama." -- Tana French]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

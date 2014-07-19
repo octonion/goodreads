@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1098928-megan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1098928-megan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 22 May 2008 15:25:14 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/48989-the-moment-god-is-figured-out-with-nice-neat-lines</guid>
+		<pubDate>Thu, 22 May 2008 15:25:14 -0700</pubDate>
+		<title>
+			<![CDATA[Megan add a quote by Rob Bell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/48989-the-moment-god-is-figured-out-with-nice-neat-lines]]>
+		</link>
+		<description>
+	    <![CDATA["The moment God is figured out with nice neat lines and definitions, we are no longer dealing with God." -- Rob Bell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

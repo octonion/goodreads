@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/657933-sue]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/657933-sue" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 20 Jul 2013 10:58:39 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4566-in-vain-have-i-struggled-it-will-not-do-my</guid>
+		<pubDate>Sat, 20 Jul 2013 10:58:39 -0700</pubDate>
+		<title>
+			<![CDATA[Sue add a quote by Jane Austen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4566-in-vain-have-i-struggled-it-will-not-do-my]]>
+		</link>
+		<description>
+	    <![CDATA["In vain have I struggled. It will not do. My feelings will not be repressed. You must allow me to tell you how ardently I admire and love you." -- Jane Austen]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/315945-wesley-rush-doesn-t-chase-girls-but-i-m-chasing-you</guid>
+		<pubDate>Sat, 20 Jul 2013 10:58:40 -0700</pubDate>
+		<title>
+			<![CDATA[Sue add a quote by Kody Keplinger]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/315945-wesley-rush-doesn-t-chase-girls-but-i-m-chasing-you]]>
+		</link>
+		<description>
+	    <![CDATA["&lt;i&gt;Wesley Rush doesn't chase girls, but I'm chasing you.&lt;/i&gt;" -- Kody Keplinger]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/662219-tom-moglia]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/662219-tom-moglia" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 09 Mar 2012 20:55:24 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/170552-the-human-race-is-a-monotonous-affair-most-people-spend</guid>
+		<pubDate>Fri, 09 Mar 2012 20:55:24 -0800</pubDate>
+		<title>
+			<![CDATA[Tom add a quote by Johann Wolfgang von Goethe]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/170552-the-human-race-is-a-monotonous-affair-most-people-spend]]>
+		</link>
+		<description>
+	    <![CDATA["The human race is a monotonous affair. Most people spend the greatest part of their time working in order to live, and what little freedom remains so fills them with fear that they seek out any and every means to be rid of it." -- Johann Wolfgang von Goethe]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

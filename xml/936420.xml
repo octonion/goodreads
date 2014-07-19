@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/936420-james]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/936420-james" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 06 Jul 2013 13:45:11 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/488011-why-is-being-a-nerd-bad-saying-i-notice-you-re</guid>
+		<pubDate>Sat, 06 Jul 2013 13:45:11 -0700</pubDate>
+		<title>
+			<![CDATA[James add a quote by John Green]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/488011-why-is-being-a-nerd-bad-saying-i-notice-you-re]]>
+		</link>
+		<description>
+	    <![CDATA["Why is being a nerd bad? Saying I notice you’re a nerd is like saying, ‘Hey, I notice that you’d rather be intelligent than be stupid, that you’d rather be thoughtful than be vapid, that you believe that there are things that matter more than the arrest record of Linsey Lohan. Why is that?" -- John Green]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/673583-the-further-a-society-drifts-from-truth-the-more-it</guid>
+		<pubDate>Mon, 11 Nov 2013 12:48:11 -0800</pubDate>
+		<title>
+			<![CDATA[James add a quote by George Orwell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/673583-the-further-a-society-drifts-from-truth-the-more-it]]>
+		</link>
+		<description>
+	    <![CDATA["The further a society drifts from truth the more it will hate those who speak it." -- George Orwell]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/492776-take-the-universe-and-grind-it-down-to-the-finest</guid>
+		<pubDate>Wed, 13 Nov 2013 17:09:11 -0800</pubDate>
+		<title>
+			<![CDATA[James add a quote by Terry Pratchett]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/492776-take-the-universe-and-grind-it-down-to-the-finest]]>
+		</link>
+		<description>
+	    <![CDATA["Take the universe and grind it down to the finest powder and sieve it through the finest sieve and then show me one atom of justice, one molecule of mercy. and yet... and yet you act as if there is some ideal order in the world, as if there is some... some rightness in the universe by which it may be judged." -- Terry Pratchett]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

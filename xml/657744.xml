@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/657744-alison]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/657744-alison" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 14 Oct 2009 20:09:39 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/28405-the-only-position-that-leaves-me-with-no-cognitive-dissonance</guid>
+		<pubDate>Wed, 14 Oct 2009 20:09:39 -0700</pubDate>
+		<title>
+			<![CDATA[Alison add a quote by Ayaan Hirsi Ali]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/28405-the-only-position-that-leaves-me-with-no-cognitive-dissonance]]>
+		</link>
+		<description>
+	    <![CDATA["The only position that leaves me with no cognitive dissonance is atheism. It is not a creed. Death is certain, replacing both the siren-song of Paradise and the dread of Hell. Life on this earth, with all its mystery and beauty and pain, is then to be lived far more intensely: we stumble and get up, we are sad, confident, insecure, feel loneliness and joy and love. There is nothing more; but I want nothing more." -- Ayaan Hirsi Ali]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4073-even-if-the-open-windows-of-science-at-first-make</guid>
+		<pubDate>Wed, 14 Oct 2009 20:15:10 -0700</pubDate>
+		<title>
+			<![CDATA[Alison add a quote by Bertrand Russell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4073-even-if-the-open-windows-of-science-at-first-make]]>
+		</link>
+		<description>
+	    <![CDATA["Even if the open windows of science at first make us shiver after the cozy indoor warmth of traditional humanizing myths, in the end the fresh air brings vigor, and the great spaces have a splendor of their own." -- Bertrand Russell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

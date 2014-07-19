@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/758867-kitchengrrl]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/758867-kitchengrrl" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 May 2010 19:36:39 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/66131-regard-man-as-a-mine-rich-in-gems-of-inestimable</guid>
+		<pubDate>Sun, 02 May 2010 19:36:39 -0700</pubDate>
+		<title>
+			<![CDATA[Kitchengrrl add a quote by Baha'u'llah]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/66131-regard-man-as-a-mine-rich-in-gems-of-inestimable]]>
+		</link>
+		<description>
+	    <![CDATA["Regard man as a mine rich in gems of inestimable value. Education can, alone, cause it to reveal its treasures, and enable mankind to benefit there from." -- Baha'u'llah]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

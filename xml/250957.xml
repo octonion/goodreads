@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/250957-joan-jones]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/250957-joan-jones" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 03 Jul 2013 13:44:17 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/615-we-are-not-necessarily-doubting-that-god-will-do-the</guid>
+		<pubDate>Wed, 03 Jul 2013 13:44:17 -0700</pubDate>
+		<title>
+			<![CDATA[Joan add a quote by C.S. Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/615-we-are-not-necessarily-doubting-that-god-will-do-the]]>
+		</link>
+		<description>
+	    <![CDATA["We are not necessarily doubting that God will do the best for us; we are wondering how painful the best will turn out to be." -- C.S. Lewis]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

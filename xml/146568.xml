@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/146568-kea]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/146568-kea" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 27 Jul 2011 19:04:34 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/414079-you-re-only-given-a-little-spark-of-madness-don-t-lose</guid>
+		<pubDate>Wed, 27 Jul 2011 19:04:34 -0700</pubDate>
+		<title>
+			<![CDATA[Kea add a quote by Robin Williams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/414079-you-re-only-given-a-little-spark-of-madness-don-t-lose]]>
+		</link>
+		<description>
+	    <![CDATA["You're only given a little spark of madness. Don't lose it." -- Robin Williams]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/95162-if-the-road-is-easy-you-re-likely-going-the-wrong</guid>
+		<pubDate>Wed, 27 Jul 2011 19:08:42 -0700</pubDate>
+		<title>
+			<![CDATA[Kea add a quote by Terry Goodkind]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/95162-if-the-road-is-easy-you-re-likely-going-the-wrong]]>
+		</link>
+		<description>
+	    <![CDATA["If the road is easy, you're likely going the wrong way." -- Terry Goodkind]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/35396-even-if-i-knew-that-tomorrow-the-world-would-go</guid>
+		<pubDate>Wed, 27 Jul 2011 19:16:21 -0700</pubDate>
+		<title>
+			<![CDATA[Kea add a quote by Martin Luther]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/35396-even-if-i-knew-that-tomorrow-the-world-would-go]]>
+		</link>
+		<description>
+	    <![CDATA["Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree." -- Martin Luther]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1981-my-experience-of-life-is-that-it-is-not-divided</guid>
+		<pubDate>Wed, 27 Jul 2011 19:29:17 -0700</pubDate>
+		<title>
+			<![CDATA[Kea add a quote by Alan Moore]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1981-my-experience-of-life-is-that-it-is-not-divided]]>
+		</link>
+		<description>
+	    <![CDATA["My experience of life is that it is not divided up into genres; it’s a horrifying, romantic, tragic, comical, science-fiction cowboy detective novel. You know, with a bit of pornography if you're lucky." -- Alan Moore]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

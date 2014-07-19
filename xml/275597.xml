@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/275597-shigi]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/275597-shigi" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 16 Mar 2009 19:26:33 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/365-you-have-to-write-the-book-that-wants-to-be</guid>
+		<pubDate>Mon, 16 Mar 2009 19:26:33 -0700</pubDate>
+		<title>
+			<![CDATA[Shigi add a quote by Madeleine L'Engle]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/365-you-have-to-write-the-book-that-wants-to-be]]>
+		</link>
+		<description>
+	    <![CDATA["You have to write the book that wants to be written. And if the book will be too difficult for grown-ups, then you write it for children." -- Madeleine L'Engle]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/8287-i-have-not-failed-i-ve-just-found-10-000-ways-that</guid>
+		<pubDate>Mon, 16 Mar 2009 19:28:03 -0700</pubDate>
+		<title>
+			<![CDATA[Shigi add a quote by Thomas A. Edison]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8287-i-have-not-failed-i-ve-just-found-10-000-ways-that]]>
+		</link>
+		<description>
+	    <![CDATA["I have not failed. I've just found 10,000 ways that won't work." -- Thomas A. Edison]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/14912-if-you-want-your-children-to-be-intelligent-read-them</guid>
+		<pubDate>Mon, 16 Mar 2009 19:30:36 -0700</pubDate>
+		<title>
+			<![CDATA[Shigi add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14912-if-you-want-your-children-to-be-intelligent-read-them]]>
+		</link>
+		<description>
+	    <![CDATA["If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales." -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/8750-i-love-you-without-knowing-how-or-when-or-from</guid>
+		<pubDate>Mon, 16 Mar 2009 19:30:56 -0700</pubDate>
+		<title>
+			<![CDATA[Shigi add a quote by Pablo Neruda]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8750-i-love-you-without-knowing-how-or-when-or-from]]>
+		</link>
+		<description>
+	    <![CDATA["I love you without knowing how, or when, or from where. I love you simply, without problems or pride: I love you in this way because I do not know any other way of loving but this, in which there is no I or you, so intimate that your hand upon my chest is my hand, so intimate that when I fall asleep your eyes close." -- Pablo Neruda]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/888732-mandy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/888732-mandy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 18 Sep 2013 12:21:26 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/291553-it-s-in-the-morning-for-most-of-us-it-s-that</guid>
+		<pubDate>Wed, 18 Sep 2013 12:21:26 -0700</pubDate>
+		<title>
+			<![CDATA[Mandy add a quote by Jerry Spinelli]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/291553-it-s-in-the-morning-for-most-of-us-it-s-that]]>
+		</link>
+		<description>
+	    <![CDATA["It's in the morning, for most of us. It's that time, those few seconds when we're coming out of sleep but we're not really awake yet. For those few seconds we're something more primitive than what we are about to become. We have just slept the sleep of our most distant ancestors, and something of them and their world still clings to us. For those few moments we are unformed, uncivilized. We are not the people we know as ourselves, but creatures more in tune with a tree than a keyboard. We are untitled, unnamed, natural, suspended between was and will be, the tadpole before the frog, the worm before the butterfly. We are for a few brief moments, anything and everything we could be. And then...and then -- ah -- we open our eyes and the day is before us and ... we become ourselves." -- Jerry Spinelli]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/212445-molli-b]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/212445-molli-b" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 20 Oct 2013 15:16:35 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/49628-description-begins-in-the-writer-s-imagination-but-should-finish-in</guid>
+		<pubDate>Sun, 20 Oct 2013 15:16:35 -0700</pubDate>
+		<title>
+			<![CDATA[Molli add a quote by Stephen King]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/49628-description-begins-in-the-writer-s-imagination-but-should-finish-in]]>
+		</link>
+		<description>
+	    <![CDATA["Description begins in the writer’s imagination, but should finish in the reader’s." -- Stephen King]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/319693-bad-writing-is-more-than-a-matter-of-shit-syntax</guid>
+		<pubDate>Sun, 20 Oct 2013 15:17:23 -0700</pubDate>
+		<title>
+			<![CDATA[Molli add a quote by Stephen King]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/319693-bad-writing-is-more-than-a-matter-of-shit-syntax]]>
+		</link>
+		<description>
+	    <![CDATA["Bad writing is more than a matter of shit syntax and faulty observation; bad writing usually arises from a stubborn refusal to tell stories about what people actually do― to face the fact, let us say, that murderers sometimes help old ladies cross the street." -- Stephen King]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/8080-the-road-to-hell-is-paved-with-adverbs</guid>
+		<pubDate>Sun, 20 Oct 2013 15:17:38 -0700</pubDate>
+		<title>
+			<![CDATA[Molli add a quote by Stephen King]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8080-the-road-to-hell-is-paved-with-adverbs]]>
+		</link>
+		<description>
+	    <![CDATA["The road to hell is paved with adverbs." -- Stephen King]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

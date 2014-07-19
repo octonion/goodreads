@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/580407-rick]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/580407-rick" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 31 Jan 2008 12:09:59 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/19851-he-is-being-nibbled-to-death-by-ducks---more-later</guid>
+		<pubDate>Thu, 31 Jan 2008 12:09:59 -0800</pubDate>
+		<title>
+			<![CDATA[Rick add a quote by James Tate]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/19851-he-is-being-nibbled-to-death-by-ducks---more-later]]>
+		</link>
+		<description>
+	    <![CDATA["He is being nibbled to death by ducks.
+
+--More Later, Less the Same" -- James Tate]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/122780-there-was-a-single-blue-line-of-crayon-drawn-across</guid>
+		<pubDate>Thu, 06 Jun 2013 19:41:56 -0700</pubDate>
+		<title>
+			<![CDATA[Rick add a quote by Brian Andreas]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/122780-there-was-a-single-blue-line-of-crayon-drawn-across]]>
+		</link>
+		<description>
+	    <![CDATA["There was a single blue line of crayon drawn across every wall in the house. What does it mean? I asked. A pirate needs the sight of the sea, he said and then he pulled his eye patch down and turned and sailed away." -- Brian Andreas]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/137676-a-few-said-they-d-be-horses-most-said-they-d-be</guid>
+		<pubDate>Fri, 21 Feb 2014 19:11:14 -0800</pubDate>
+		<title>
+			<![CDATA[Rick add a quote by Brian Andreas]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/137676-a-few-said-they-d-be-horses-most-said-they-d-be]]>
+		</link>
+		<description>
+	    <![CDATA["A few said they'd be horses. Most said they'd be some sort of cat. My friend said she'd like to come back as a porcupine. I don't like crowds, she said. " -- Brian Andreas]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

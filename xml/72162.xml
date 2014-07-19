@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/72162-barney]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/72162-barney" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 14 Jul 2008 07:34:50 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/72693-whenever-people-say-we-mustn-t-be-sentimental-you-can-take</guid>
+		<pubDate>Mon, 14 Jul 2008 07:34:50 -0700</pubDate>
+		<title>
+			<![CDATA[Barney add a quote by Brigid Brophy (1929-1995) ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/72693-whenever-people-say-we-mustn-t-be-sentimental-you-can-take]]>
+		</link>
+		<description>
+	    <![CDATA["Whenever people say 'We mustn't be sentimental,' you can take it they are about to do something cruel. And if they add 'We must be realistic,' they mean they are going to make money out of it. " -- Brigid Brophy (1929-1995) ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/72695-history-is-a-vast-early-warning-system</guid>
+		<pubDate>Mon, 14 Jul 2008 07:35:48 -0700</pubDate>
+		<title>
+			<![CDATA[Barney add a quote by Norman Cousins]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/72695-history-is-a-vast-early-warning-system]]>
+		</link>
+		<description>
+	    <![CDATA["History is a vast early warning system." -- Norman Cousins]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

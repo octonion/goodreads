@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/323262-raena-demaris]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/323262-raena-demaris" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 19 May 2008 12:19:35 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/33858-she-used-religion-as-a-therapy-for-the-ills-of</guid>
+		<pubDate>Mon, 19 May 2008 12:19:35 -0700</pubDate>
+		<title>
+			<![CDATA[Raena add a quote by John Steinbeck]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/33858-she-used-religion-as-a-therapy-for-the-ills-of]]>
+		</link>
+		<description>
+	    <![CDATA["She used religion as a therapy for the ills of the world and herself, and she changed the religion to fit the ill. When she found that the theosophy she had developed for communication with a dead husband was not necessary, she cast about for some new unhappiness." -- John Steinbeck]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

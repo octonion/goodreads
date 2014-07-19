@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/613746-msdanae]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/613746-msdanae" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 14 Mar 2009 03:44:51 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/147372-you-know-what-punk-is-a-bunch-of-no-talent-guys</guid>
+		<pubDate>Sat, 14 Mar 2009 03:44:51 -0700</pubDate>
+		<title>
+			<![CDATA[MsDanaE add a quote by Gordon Korman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/147372-you-know-what-punk-is-a-bunch-of-no-talent-guys]]>
+		</link>
+		<description>
+	    <![CDATA["You know what punk is? a bunch of no-talent guys who really, really want to be in a band.  Nobody reads music, nobody plays the mandolin, and you're too dumb to write songs about mythology or Middle-earth.  So what's your style?  Three chords, cranked out fast and loud and distorted because your instruments are crap and you can't play them worth a damn.  And you scream your lungs out to cover up the fact that you can't sing.  It should suck, but here's the thing - it doesn't.  Rock and roll can be so full of itself, but not this.  It's simple and angry and raw." -- Gordon Korman]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/981294-kimberlee]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/981294-kimberlee" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 05 Jul 2012 23:05:58 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/403190-there-is-no-frigate-like-a-book-to-take-us</guid>
+		<pubDate>Thu, 05 Jul 2012 23:05:58 -0700</pubDate>
+		<title>
+			<![CDATA[Kimberlee add a quote by Emily Dickinson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/403190-there-is-no-frigate-like-a-book-to-take-us]]>
+		</link>
+		<description>
+	    <![CDATA["There is no frigate like a book to take us lands away..." -- Emily Dickinson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/377198-there-is-more-treasure-in-books-than-in-all-the</guid>
+		<pubDate>Thu, 05 Jul 2012 23:05:58 -0700</pubDate>
+		<title>
+			<![CDATA[Kimberlee add a quote by Walt Disney]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/377198-there-is-more-treasure-in-books-than-in-all-the]]>
+		</link>
+		<description>
+	    <![CDATA["There is more treasure in books than in all the pirate's loot on Treasure Island." -- Walt Disney]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6806-the-more-that-you-read-the-more-things-you-will</guid>
+		<pubDate>Thu, 05 Jul 2012 23:04:34 -0700</pubDate>
+		<title>
+			<![CDATA[Kimberlee add a quote by Dr. Seuss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6806-the-more-that-you-read-the-more-things-you-will]]>
+		</link>
+		<description>
+	    <![CDATA["The more that you read, the more things you will know. The more that you learn, the more places you'll go." -- Dr. Seuss]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

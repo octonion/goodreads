@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/684188-rachel]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/684188-rachel" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 14 Dec 2007 13:27:42 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1341-books-and-ideas-are-the-most-effective-weapons-against-intolerance</guid>
+		<pubDate>Fri, 14 Dec 2007 13:27:42 -0800</pubDate>
+		<title>
+			<![CDATA[Rachel add a quote by Lyndon Baines Johnson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1341-books-and-ideas-are-the-most-effective-weapons-against-intolerance]]>
+		</link>
+		<description>
+	    <![CDATA["Books and ideas are the most effective weapons against intolerance and ignorance." -- Lyndon Baines Johnson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6017-i-believe-that-the-most-important-single-thing-beyond-discipline</guid>
+		<pubDate>Mon, 17 Dec 2007 16:46:36 -0800</pubDate>
+		<title>
+			<![CDATA[Rachel add a quote by Maya Angelou]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6017-i-believe-that-the-most-important-single-thing-beyond-discipline]]>
+		</link>
+		<description>
+	    <![CDATA["I believe that the most important single thing, beyond discipline and creativity is daring to dare." -- Maya Angelou]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

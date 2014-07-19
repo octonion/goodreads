@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/576598-natty-soltesz]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/576598-natty-soltesz" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 12 Dec 2007 19:34:06 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/651-all-that-we-see-or-seem-is-but-a-dream</guid>
+		<pubDate>Wed, 12 Dec 2007 19:34:06 -0800</pubDate>
+		<title>
+			<![CDATA[Natty add a quote by Edgar Allan Poe]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/651-all-that-we-see-or-seem-is-but-a-dream]]>
+		</link>
+		<description>
+	    <![CDATA["All that we see or seem is but a dream within a dream." -- Edgar Allan Poe]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6921-one-man-s-faith-is-another-man-s-delusion</guid>
+		<pubDate>Fri, 21 Dec 2007 17:40:15 -0800</pubDate>
+		<title>
+			<![CDATA[Natty add a quote by Anthony Storr]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6921-one-man-s-faith-is-another-man-s-delusion]]>
+		</link>
+		<description>
+	    <![CDATA["One man's faith is another man's delusion" -- Anthony Storr]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

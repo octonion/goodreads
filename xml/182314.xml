@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/182314-b]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/182314-b" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 23 Jun 2008 13:40:46 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/66194-nature-is-god-s-first-missionary-where-there-is-no-bible</guid>
+		<pubDate>Mon, 23 Jun 2008 13:40:46 -0700</pubDate>
+		<title>
+			<![CDATA[B. add a quote by Max Lucado]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/66194-nature-is-god-s-first-missionary-where-there-is-no-bible]]>
+		</link>
+		<description>
+	    <![CDATA["Nature is God's first missionary.  Where there is no Bible there are sparkling stars.  Where there are not preachers there are spring times...
+If a person has nothing but nature, then nature is enough to reveal something about God." -- Max Lucado]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

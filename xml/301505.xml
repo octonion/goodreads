@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/301505-jessica-jackson]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/301505-jessica-jackson" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 17 Dec 2009 15:36:26 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/215228-i-wonder-if-i-don-t-give-too-much-of-myself</guid>
+		<pubDate>Thu, 17 Dec 2009 15:36:26 -0800</pubDate>
+		<title>
+			<![CDATA[Jessica add a quote by Natalie Goldberg]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/215228-i-wonder-if-i-don-t-give-too-much-of-myself]]>
+		</link>
+		<description>
+	    <![CDATA["I wonder if I don't give too much of myself to writing: I am always half where I am; the other half is feeding the furnace, kick-starting the heat of creativity.  I am making love with someone but at the same time I'm noticing how this graceful hand across my belly might just fit in with the memory of lilacs in Albuquerque in 1974." -- Natalie Goldberg]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

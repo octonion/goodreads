@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/756810-zach-reddy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/756810-zach-reddy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 20 Apr 2012 14:56:13 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/262140-so-this-zealot-comes-to-my-door-all-glazed-eyes</guid>
+		<pubDate>Fri, 20 Apr 2012 14:56:13 -0700</pubDate>
+		<title>
+			<![CDATA[Zach add a quote by Warren Ellis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/262140-so-this-zealot-comes-to-my-door-all-glazed-eyes]]>
+		</link>
+		<description>
+	    <![CDATA["So this Zealot comes to my door, all glazed eyes and clean reproductive organs, asking me if I ever think about God. So I tell him I killed God. I tracked God down like a rabid dog, hacked off his legs with a hedge trimmer, raped him with a corncob, and boiled off his corpse in an acid bath. So he pulls an alternating-current taser on me and tells me that only the Official Serbian Church of Tesla can save my polyphase intrinsic electric field, known to non-engineers as &quot;the soul.&quot; So I hit him. What would you do?" -- Warren Ellis]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

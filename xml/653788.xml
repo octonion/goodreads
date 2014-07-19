@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/653788-morgan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/653788-morgan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 01 May 2013 14:26:05 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/18719-the-truth-will-set-you-free-but-not-until-it</guid>
+		<pubDate>Wed, 01 May 2013 14:26:05 -0700</pubDate>
+		<title>
+			<![CDATA[Morgan add a quote by David Foster Wallace]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18719-the-truth-will-set-you-free-but-not-until-it]]>
+		</link>
+		<description>
+	    <![CDATA["The truth will set you free. But not until it is finished with you." -- David Foster Wallace]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/392613-everybody-is-identical-in-their-secret-unspoken-belief-that-way</guid>
+		<pubDate>Wed, 01 May 2013 14:26:15 -0700</pubDate>
+		<title>
+			<![CDATA[Morgan add a quote by David Foster Wallace]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/392613-everybody-is-identical-in-their-secret-unspoken-belief-that-way]]>
+		</link>
+		<description>
+	    <![CDATA["Everybody is identical in their secret unspoken belief that way deep down they are different from everyone else." -- David Foster Wallace]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/385500-you-will-become-way-less-concerned-with-what-other-people</guid>
+		<pubDate>Wed, 01 May 2013 14:27:08 -0700</pubDate>
+		<title>
+			<![CDATA[Morgan add a quote by David Foster Wallace]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/385500-you-will-become-way-less-concerned-with-what-other-people]]>
+		</link>
+		<description>
+	    <![CDATA["You will become way less concerned with what other people think of you when you realize how seldom they do." -- David Foster Wallace]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

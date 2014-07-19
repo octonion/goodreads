@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/790859-william]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/790859-william" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 10 Jul 2013 16:50:09 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1864-anyone-who-has-ever-struggled-with-poverty-knows-how-extremely</guid>
+		<pubDate>Wed, 10 Jul 2013 16:50:09 -0700</pubDate>
+		<title>
+			<![CDATA[William add a quote by James Baldwin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1864-anyone-who-has-ever-struggled-with-poverty-knows-how-extremely]]>
+		</link>
+		<description>
+	    <![CDATA["Anyone who has ever struggled with poverty knows how extremely expensive it is to be poor." -- James Baldwin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/305157-the-artistic-image-is-not-intended-to-represent-the-thing</guid>
+		<pubDate>Wed, 10 Jul 2013 16:59:03 -0700</pubDate>
+		<title>
+			<![CDATA[William add a quote by James Baldwin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/305157-the-artistic-image-is-not-intended-to-represent-the-thing]]>
+		</link>
+		<description>
+	    <![CDATA["The artistic image is not intended to represent the thing itself, but, rather, the reality of the force the thing contains." -- James Baldwin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

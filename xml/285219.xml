@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/285219-susan-byrum-rountree]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/285219-susan-byrum-rountree" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 09 Sep 2013 04:32:21 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/677094-when-asked-what-should-i-do-if-i-want-to-become</guid>
+		<pubDate>Mon, 09 Sep 2013 04:32:21 -0700</pubDate>
+		<title>
+			<![CDATA[Susan Byrum add a quote by Doris Betts]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/677094-when-asked-what-should-i-do-if-i-want-to-become]]>
+		</link>
+		<description>
+	    <![CDATA["[when]asked, “What should I do if I want to become a writer?”
+“Well,” Doris said, with that steely twinkle in her dark eyes, “My best advice for
+you, honey, is to stop if you possibly can! And if you just can’t, then get ready to work
+like hell. Hang onto your day job. And remember, you may not make a living, but you’ll
+make a wonderful life." -- Doris Betts]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

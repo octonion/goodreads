@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/708061-jerry-hengehold]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/708061-jerry-hengehold" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 25 Aug 2008 16:22:49 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/11769-conversation-between-a-princess-and-an-outlaw-if-i-stand</guid>
+		<pubDate>Mon, 25 Aug 2008 16:22:49 -0700</pubDate>
+		<title>
+			<![CDATA[Jerry add a quote by Tom Robbins]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11769-conversation-between-a-princess-and-an-outlaw-if-i-stand]]>
+		</link>
+		<description>
+	    <![CDATA["Conversation between a princess and an outlaw: 
+&quot;If I stand for fairy-tale balls and dragon bait--dragon bait--what do you stand for?&quot;
+&quot;Me? I stand for uncertainty, insecurity, bad taste, fun, and things that go boom in the night.&quot;
+&quot;Franky, it seems to me that you've turned yourself into a stereotype.&quot;
+&quot;You may be right. I don't care. As any car freak will tell you, the old models are the most beautiful, even if they aren't the most efficient. People who sacrifice beauty for efficiency get what they deserve.&quot;
+&quot;Well, you may get off on being a beautiful stereotype, regardless of the social consequences, but my conscience won't allow it.&quot; 
+&quot;And I goddamn refuse to be dragon bait. I'm as capable of rescuing you as you are of rescuing me.&quot;
+&quot;I'm an outlaw, not a hero. I never intended to rescue you. We're our own dragons as well as our own heroes, and we have to rescue ourselves from ourselves." -- Tom Robbins]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

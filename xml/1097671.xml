@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1097671-martin-mcclellan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1097671-martin-mcclellan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 25 Jul 2011 21:39:31 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/9094-life-is-made-of-fear-some-people-eat-fear-soup</guid>
+		<pubDate>Mon, 25 Jul 2011 21:39:31 -0700</pubDate>
+		<title>
+			<![CDATA[Martin add a quote by Martin Amis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9094-life-is-made-of-fear-some-people-eat-fear-soup]]>
+		</link>
+		<description>
+	    <![CDATA["Life is made of fear.  Some people eat fear soup three times a day.  Some people eat fear soup all the meals there are.  I eat it sometimes.  When they bring me fear soup to eat, I try not to eat it, I try to send it back.  But sometimes I'm too afraid to and have to eat it anyway." -- Martin Amis]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/416904-who-put-these-fingerprints-on-my-imagination</guid>
+		<pubDate>Wed, 03 Aug 2011 10:26:54 -0700</pubDate>
+		<title>
+			<![CDATA[Martin add a quote by Elvis Costello]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/416904-who-put-these-fingerprints-on-my-imagination]]>
+		</link>
+		<description>
+	    <![CDATA["Who put these fingerprints on my imagination?" -- Elvis Costello]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1210782-answers-forget-answers-the-spectacle-is-all-in-the-questions</guid>
+		<pubDate>Wed, 14 May 2014 21:38:02 -0700</pubDate>
+		<title>
+			<![CDATA[Martin add a quote by Rebecca Goldstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1210782-answers-forget-answers-the-spectacle-is-all-in-the-questions]]>
+		</link>
+		<description>
+	    <![CDATA["Answers? Forget answers. The spectacle is all in the questions." -- Rebecca Goldstein]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

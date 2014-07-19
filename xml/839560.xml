@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/839560-christine]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/839560-christine" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 23 Apr 2013 20:34:47 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/507598-the-road-of-life-is-strewn-with-the-bodies-of</guid>
+		<pubDate>Tue, 23 Apr 2013 20:34:47 -0700</pubDate>
+		<title>
+			<![CDATA[Christine add a quote by Iyanla Vanzant]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/507598-the-road-of-life-is-strewn-with-the-bodies-of]]>
+		</link>
+		<description>
+	    <![CDATA["The road of life is strewn with the bodies of  promising people. People who show promise, yet lack the confidence to act. People who make promises they are unable to keep. People who promise to do tomorrow what they could do today. Promising young stars, athletes, entrepreneurs who wait for promises to come true. Promise without a goal and a plan is like a barren cow. You know what she could do if she could do it, but she can't. Turn your promise into a plan. Make no promise for tomorrow if you are able to keep it today. And if someone calls you promising, know that you are not doing enough today." -- Iyanla Vanzant]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

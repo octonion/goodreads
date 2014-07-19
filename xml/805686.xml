@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/805686-allison]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/805686-allison" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 02 Sep 2010 20:12:05 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/113896-the-basic-fact-about-human-existence-is-not-that-it</guid>
+		<pubDate>Thu, 02 Sep 2010 20:12:05 -0700</pubDate>
+		<title>
+			<![CDATA[Allison add a quote by H.L. Mencken]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/113896-the-basic-fact-about-human-existence-is-not-that-it]]>
+		</link>
+		<description>
+	    <![CDATA["The basic fact about human existence is not that it is a tragedy, but that it is a bore. It is not so much a war as an endless standing in line. The objection to it is not that it is predominantly painful, but that it is lacking in sense." -- H.L. Mencken]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/463164-there-is-no-evidence-that-we-ve-been-placed-on-this</guid>
+		<pubDate>Fri, 20 Jul 2012 08:11:28 -0700</pubDate>
+		<title>
+			<![CDATA[Allison add a quote by Jon Ronson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/463164-there-is-no-evidence-that-we-ve-been-placed-on-this]]>
+		</link>
+		<description>
+	    <![CDATA["There is no evidence that we've been placed on this planet to be especially happy or especially normal. And in fact our unhappiness and our strangeness, our anxieties and compulsions, those least fashionable aspects of our personalities, are quite often what lead us to do rather interesting things." -- Jon Ronson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

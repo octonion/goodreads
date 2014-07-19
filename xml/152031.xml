@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/152031-theresa]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/152031-theresa" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 16 Feb 2008 17:39:36 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/25669-i-always-think-about-what-it-means-to-wear-eyeglasses</guid>
+		<pubDate>Sat, 16 Feb 2008 17:39:36 -0800</pubDate>
+		<title>
+			<![CDATA[Theresa add a quote by Andy Warhol]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/25669-i-always-think-about-what-it-means-to-wear-eyeglasses]]>
+		</link>
+		<description>
+	    <![CDATA["I always think about what it means to wear eyeglasses. When you get used to glasses you don't know how far you could really see. I think about all the people before eyeglasses were invented. It must have been weird because everyone was seeing in different ways according to how bad their eyes were. Now, eyeglasses standardize everyone's vision to 20-20. That's an example of everyone becoming more alike. Everyone could be seeing at different levels if it weren't for glasses." -- Andy Warhol]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

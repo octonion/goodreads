@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/220512-domenica]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/220512-domenica" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 12 Aug 2012 02:33:47 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5030-we-don-t-see-things-as-they-are-we-see-them</guid>
+		<pubDate>Sun, 12 Aug 2012 02:33:47 -0700</pubDate>
+		<title>
+			<![CDATA[Domenica add a quote by Anaïs Nin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5030-we-don-t-see-things-as-they-are-we-see-them]]>
+		</link>
+		<description>
+	    <![CDATA["We don't see things as they are, we see them as we are." -- Anaïs Nin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/188-do-what-you-can-with-what-you-have-where-you</guid>
+		<pubDate>Thu, 10 Feb 2011 03:24:55 -0800</pubDate>
+		<title>
+			<![CDATA[Domenica add a quote by Theodore Roosevelt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/188-do-what-you-can-with-what-you-have-where-you]]>
+		</link>
+		<description>
+	    <![CDATA["Do what you can, with what you have, where you are." -- Theodore Roosevelt]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1204-how-we-spend-our-days-is-of-course-how-we</guid>
+		<pubDate>Thu, 10 Feb 2011 03:32:42 -0800</pubDate>
+		<title>
+			<![CDATA[Domenica add a quote by Annie Dillard]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1204-how-we-spend-our-days-is-of-course-how-we]]>
+		</link>
+		<description>
+	    <![CDATA["How we spend our days is, of course, how we spend our lives." -- Annie Dillard]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

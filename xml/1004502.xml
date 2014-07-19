@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1004502-justine-figurski]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1004502-justine-figurski" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 05 Jul 2014 23:07:26 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1019748-sometimes-the-slightest-things-change-the-directions-of-our-lives</guid>
+		<pubDate>Sat, 05 Jul 2014 23:07:26 -0700</pubDate>
+		<title>
+			<![CDATA[Justine add a quote by Bryce Courtenay]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1019748-sometimes-the-slightest-things-change-the-directions-of-our-lives]]>
+		</link>
+		<description>
+	    <![CDATA["Sometimes the slightest things change the directions of our lives, the merest breath of a circumstance, a random moment that connects like a meteorite striking the earth. Lives have swiveled and changed direction on the strength of a chance remark." -- Bryce Courtenay]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/334130-besides-love-independence-of-thought-is-the</guid>
+		<pubDate>Sat, 05 Jul 2014 23:10:02 -0700</pubDate>
+		<title>
+			<![CDATA[Justine add a quote by Bryce Courtenay]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/334130-besides-love-independence-of-thought-is-the]]>
+		</link>
+		<description>
+	    <![CDATA[". . . besides love, independence of thought is the greatest gift an adult can give a child." -- Bryce Courtenay]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

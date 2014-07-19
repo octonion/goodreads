@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/972863-tania]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/972863-tania" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 24 Jul 2010 23:14:43 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/280572-she-was-a-finisher-unlike-them----she-didn-t-wait</guid>
+		<pubDate>Sat, 24 Jul 2010 23:14:43 -0700</pubDate>
+		<title>
+			<![CDATA[Tania add a quote by Tania Zaverta Chance]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/280572-she-was-a-finisher-unlike-them----she-didn-t-wait]]>
+		</link>
+		<description>
+	    <![CDATA["She was a finisher, unlike them -- she didn’t wait for leaves to fall and see where they’d land, or even waste time anticipating which way the wind would blow them.  No, she was the storm that ripped the leaves from trees and determined their path...         
+-SHEgo, 2010" -- Tania Zaverta Chance]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

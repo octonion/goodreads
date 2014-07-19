@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/114122-peter]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/114122-peter" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 25 Nov 2009 08:48:14 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/167202-now-entertain-conjecture-of-a-time-when-creeping-murmur-and</guid>
+		<pubDate>Wed, 25 Nov 2009 08:48:14 -0800</pubDate>
+		<title>
+			<![CDATA[Peter add a quote by Shakespeare; William]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/167202-now-entertain-conjecture-of-a-time-when-creeping-murmur-and]]>
+		</link>
+		<description>
+	    <![CDATA["Now entertain conjecture of a time,
+When creeping murmur and the pouring dark
+Fill the wide vessel of the universe...
+Chorus Henry V " -- Shakespeare; William]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

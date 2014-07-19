@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/727362-charis-vieira]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/727362-charis-vieira" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 29 Apr 2014 12:39:46 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/423664-i-have-to-admit-an-unrequited-love-is-so-much</guid>
+		<pubDate>Tue, 29 Apr 2014 12:39:46 -0700</pubDate>
+		<title>
+			<![CDATA[Charis add a quote by Sarah Dessen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/423664-i-have-to-admit-an-unrequited-love-is-so-much]]>
+		</link>
+		<description>
+	    <![CDATA["I have to admit, an unrequited love is so much better than a real one. I mean, it's perfect... As long as something is never even started, you never have to worry about it ending. It has endless potential." -- Sarah Dessen]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

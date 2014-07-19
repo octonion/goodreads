@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/116519-ann]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/116519-ann" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 27 Mar 2013 10:55:49 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/193372-be-awesome-be-a-book-nut</guid>
+		<pubDate>Wed, 27 Mar 2013 10:55:49 -0700</pubDate>
+		<title>
+			<![CDATA[Ann add a quote by Dr. Seuss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/193372-be-awesome-be-a-book-nut]]>
+		</link>
+		<description>
+	    <![CDATA["Be awesome! Be a book nut!" -- Dr. Seuss]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/180800-how-did-it-get-so-late-so-soon-it-s-night</guid>
+		<pubDate>Wed, 27 Mar 2013 10:59:19 -0700</pubDate>
+		<title>
+			<![CDATA[Ann add a quote by Dr. Seuss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/180800-how-did-it-get-so-late-so-soon-it-s-night]]>
+		</link>
+		<description>
+	    <![CDATA["How did it get so late so soon? It's night before it's afternoon. December is here before it's June. My goodness how the time has flewn. How did it get so late so soon?" -- Dr. Seuss]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

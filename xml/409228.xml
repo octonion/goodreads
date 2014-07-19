@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/409228-teresa]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/409228-teresa" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 15 Feb 2011 09:55:36 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/176804-play-by-play-day-by-day</guid>
+		<pubDate>Tue, 15 Feb 2011 09:55:36 -0800</pubDate>
+		<title>
+			<![CDATA[Teresa add a quote by Bronco Mendenhall]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/176804-play-by-play-day-by-day]]>
+		</link>
+		<description>
+	    <![CDATA["Play by play, day by day." -- Bronco Mendenhall]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/176803-work-without-vision-is-drudgery-vision-without-work-is-dreaming</guid>
+		<pubDate>Tue, 15 Feb 2011 09:55:38 -0800</pubDate>
+		<title>
+			<![CDATA[Teresa add a quote by Gordon B. Hinckley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/176803-work-without-vision-is-drudgery-vision-without-work-is-dreaming]]>
+		</link>
+		<description>
+	    <![CDATA["Work without vision is drudgery.  Vision without work is dreaming.  Work plus vision-this is destiny.
+" -- Gordon B. Hinckley]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

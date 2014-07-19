@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1012319-kyle]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1012319-kyle" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 17 Aug 2009 13:09:32 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/186312-the-doctor-listens-in-with-a-stethoscope-and-hears-sounds</guid>
+		<pubDate>Mon, 17 Aug 2009 13:09:32 -0700</pubDate>
+		<title>
+			<![CDATA[Kyle add a quote by John McPhee]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/186312-the-doctor-listens-in-with-a-stethoscope-and-hears-sounds]]>
+		</link>
+		<description>
+	    <![CDATA["The doctor listens in with a stethoscope and hears sounds of a warpath Indian drum.  " -- John McPhee]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/186313-the-white-man-hated-to-hear-anything-about-spirits-because</guid>
+		<pubDate>Mon, 17 Aug 2009 13:14:56 -0700</pubDate>
+		<title>
+			<![CDATA[Kyle add a quote by Leslie Marmon Silko]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/186313-the-white-man-hated-to-hear-anything-about-spirits-because]]>
+		</link>
+		<description>
+	    <![CDATA["The white man hated to hear anything about spirits because spirits were already dead and could not be tortured and butchered or shot, the only way the white man knew how to deal with the world. Spirits were immune to the white man's threat...s and to his bribes of money and food. The white man only knew one way to control himself or others and that was with brute force." -- Leslie Marmon Silko]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

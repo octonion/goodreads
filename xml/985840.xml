@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/985840-gene]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/985840-gene" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Mar 2008 21:24:38 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/10687-people-sleep-peacefully-in-their-beds-at-night-because-rough</guid>
+		<pubDate>Tue, 11 Mar 2008 21:24:38 -0700</pubDate>
+		<title>
+			<![CDATA[Gene add a quote by Steven Preece]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10687-people-sleep-peacefully-in-their-beds-at-night-because-rough]]>
+		</link>
+		<description>
+	    <![CDATA["People sleep peacefully in their beds at night, because rough men stand ready to do violence on their behalf.
+
+(By George Orwell) Describing your country's servicemen." -- Steven Preece]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/575378-robert]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/575378-robert" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 26 Jul 2009 09:06:55 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/180779-making-judgments-on-films-is-in-many-ways-so-peculiarly</guid>
+		<pubDate>Sun, 26 Jul 2009 09:06:55 -0700</pubDate>
+		<title>
+			<![CDATA[Robert add a quote by Joan Didion]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/180779-making-judgments-on-films-is-in-many-ways-so-peculiarly]]>
+		</link>
+		<description>
+	    <![CDATA["Making judgments on films is in many ways so peculiarly vaporous an occupation that the only question is why, beyond the obvious opportunities for a few lectures fees and a little careerism at a dispiritingly self-limiting level, anyone does it in the first place." -- Joan Didion]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/206256-sometimes-the-only-answer-to-death-is-lunch</guid>
+		<pubDate>Wed, 11 Nov 2009 11:35:17 -0800</pubDate>
+		<title>
+			<![CDATA[Robert add a quote by Jim Harrison]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/206256-sometimes-the-only-answer-to-death-is-lunch]]>
+		</link>
+		<description>
+	    <![CDATA["Sometimes the only answer to death is lunch." -- Jim Harrison]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

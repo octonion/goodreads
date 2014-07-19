@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/306809-heather]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/306809-heather" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 06 Jan 2013 09:39:10 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/174029-there-s-a-time-and-place-for-everything-and-i-believe</guid>
+		<pubDate>Sun, 06 Jan 2013 09:39:10 -0800</pubDate>
+		<title>
+			<![CDATA[Heather add a quote by Joss Whedon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/174029-there-s-a-time-and-place-for-everything-and-i-believe]]>
+		</link>
+		<description>
+	    <![CDATA["There's a time and place for everything, and I believe it’s called 'fan fiction'." -- Joss Whedon]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1042452-daniel]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1042452-daniel" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 07 Oct 2008 12:18:06 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/10870-i-can-accept-failure-everyone-fails-at-something-but-i</guid>
+		<pubDate>Tue, 07 Oct 2008 12:18:06 -0700</pubDate>
+		<title>
+			<![CDATA[Daniel add a quote by Michael Jordan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10870-i-can-accept-failure-everyone-fails-at-something-but-i]]>
+		</link>
+		<description>
+	    <![CDATA["I can accept failure, everyone fails at something. But I can't accept not trying." -- Michael Jordan]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/801-my-alma-mater-was-books-a-good-library-i-could</guid>
+		<pubDate>Mon, 31 Mar 2008 15:00:47 -0700</pubDate>
+		<title>
+			<![CDATA[Daniel add a quote by Malcolm X]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/801-my-alma-mater-was-books-a-good-library-i-could]]>
+		</link>
+		<description>
+	    <![CDATA["My alma mater was books, a good library.... I could spend the rest of my life reading, just satisfying my curiosity." -- Malcolm X]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/80575-stacym]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/80575-stacym" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 20 Aug 2013 23:29:25 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/632133-they-had-ganged-up-on-her-in-the-claustrophobic-loving</guid>
+		<pubDate>Tue, 20 Aug 2013 23:29:25 -0700</pubDate>
+		<title>
+			<![CDATA[StacyM add a quote by Gregory Maguire]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/632133-they-had-ganged-up-on-her-in-the-claustrophobic-loving]]>
+		</link>
+		<description>
+	    <![CDATA["They had ganged up on her, in the claustrophobic, loving way of families, and she wanted no more of it." -- Gregory Maguire]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

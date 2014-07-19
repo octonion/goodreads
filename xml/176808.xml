@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/176808-oenggun]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/176808-oenggun" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 17 Aug 2010 05:32:47 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/187959-history-which-interprets-the-past-to-understand-the-present-and</guid>
+		<pubDate>Tue, 17 Aug 2010 05:32:47 -0700</pubDate>
+		<title>
+			<![CDATA[oenggun add a quote by P.D. James]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/187959-history-which-interprets-the-past-to-understand-the-present-and]]>
+		</link>
+		<description>
+	    <![CDATA["History, which interprets the past to understand the present and confront the future is the least rewarding discipline for a dying species. " -- P.D. James]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1042109-natasha]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1042109-natasha" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 12 Sep 2008 09:29:54 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/96627-i-say-no-to-drugs-whenever-someone-asks-me-for</guid>
+		<pubDate>Fri, 12 Sep 2008 09:29:54 -0700</pubDate>
+		<title>
+			<![CDATA[Natasha add a quote by Rodney Dangerfield]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/96627-i-say-no-to-drugs-whenever-someone-asks-me-for]]>
+		</link>
+		<description>
+	    <![CDATA["I say 'no' to drugs. Whenever someone asks me for some of my drugs 
+I say, 'no." -- Rodney Dangerfield]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

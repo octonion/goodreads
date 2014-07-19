@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/205008-lizzie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/205008-lizzie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 13 Apr 2008 16:36:58 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/34496-for-a-very-long-time-everybody-refuses-and-then-almost</guid>
+		<pubDate>Sun, 13 Apr 2008 16:36:58 -0700</pubDate>
+		<title>
+			<![CDATA[lizzie  add a quote by Gertrude Stein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/34496-for-a-very-long-time-everybody-refuses-and-then-almost]]>
+		</link>
+		<description>
+	    <![CDATA["For a very long time everybody refuses and then almost without a pause almost everybody accepts." -- Gertrude Stein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/18070-it-takes-a-lot-of-time-to-be-a-genius</guid>
+		<pubDate>Sat, 18 Apr 2009 10:19:25 -0700</pubDate>
+		<title>
+			<![CDATA[lizzie  add a quote by Gertrude Stein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18070-it-takes-a-lot-of-time-to-be-a-genius]]>
+		</link>
+		<description>
+	    <![CDATA["It takes a lot of time to be a genius. You have to sit around so much, doing nothing, really doing nothing." -- Gertrude Stein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6233-what-would-an-ocean-be-without-a-monster-lurking-in</guid>
+		<pubDate>Sun, 03 May 2009 13:21:28 -0700</pubDate>
+		<title>
+			<![CDATA[lizzie  add a quote by Werner Herzog]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6233-what-would-an-ocean-be-without-a-monster-lurking-in]]>
+		</link>
+		<description>
+	    <![CDATA["What would an ocean be without a monster lurking in the dark?  It would be like sleep without dreams." -- Werner Herzog]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

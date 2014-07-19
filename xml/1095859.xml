@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1095859-angelina-c]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1095859-angelina-c" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 18 Apr 2008 11:23:09 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/44921-you-fly-until-you-crash-two-days-two-nights-no</guid>
+		<pubDate>Fri, 18 Apr 2008 11:23:09 -0700</pubDate>
+		<title>
+			<![CDATA[Angelina add a quote by Ellen Hopkins]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/44921-you-fly-until-you-crash-two-days-two-nights-no]]>
+		</link>
+		<description>
+	    <![CDATA["you fly until you crash two days 
+two nights 
+no sleep,
+no food,
+come down off the monster
+YOU CRASH REAL HARD" -- Ellen Hopkins]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/45902-when-you-love-someone-you-don-t-want-to-hurt-them</guid>
+		<pubDate>Fri, 18 Apr 2008 11:23:25 -0700</pubDate>
+		<title>
+			<![CDATA[Angelina add a quote by Ellen Hopkins]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/45902-when-you-love-someone-you-don-t-want-to-hurt-them]]>
+		</link>
+		<description>
+	    <![CDATA["When you love someone, you don't want to hurt them, even if they deserve to be hurt. When you love someone, you want to hurt them, even when they don't deserve to be hurt." -- Ellen Hopkins]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

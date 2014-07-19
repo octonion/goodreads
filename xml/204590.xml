@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/204590-kate]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/204590-kate" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 03 Aug 2012 19:40:37 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/71018-a-book-is-a-loaded-gun-in-the-house-next</guid>
+		<pubDate>Fri, 03 Aug 2012 19:40:37 -0700</pubDate>
+		<title>
+			<![CDATA[Kate add a quote by Ray Bradbury]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/71018-a-book-is-a-loaded-gun-in-the-house-next]]>
+		</link>
+		<description>
+	    <![CDATA["A book is a loaded gun in the house next door...Who knows who might be the target of the well-read man?" -- Ray Bradbury]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/155143-i-used-to-have-a-sign-pinned-up-on-my</guid>
+		<pubDate>Fri, 03 Aug 2012 19:40:35 -0700</pubDate>
+		<title>
+			<![CDATA[Kate add a quote by Pema Chödrön]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/155143-i-used-to-have-a-sign-pinned-up-on-my]]>
+		</link>
+		<description>
+	    <![CDATA["I used to have a sign pinned up on my wall that read: 'Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible be found in us." -- Pema Chödrön]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/99984-it-was-a-day-as-different-from-other-days-as</guid>
+		<pubDate>Fri, 03 Aug 2012 19:41:14 -0700</pubDate>
+		<title>
+			<![CDATA[Kate add a quote by John Steinbeck]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/99984-it-was-a-day-as-different-from-other-days-as]]>
+		</link>
+		<description>
+	    <![CDATA["It was a day as different from other days as dogs are from cats and both of them from chrysanthemums or tidal waves or scarlet fever." -- John Steinbeck]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

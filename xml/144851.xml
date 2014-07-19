@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/144851-kym]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/144851-kym" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 22 Sep 2012 11:34:21 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/16364-life-s-most-persistent-and-urgent-question-is-what-are-you</guid>
+		<pubDate>Sat, 22 Sep 2012 11:34:21 -0700</pubDate>
+		<title>
+			<![CDATA[kym add a quote by Martin Luther King Jr.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16364-life-s-most-persistent-and-urgent-question-is-what-are-you]]>
+		</link>
+		<description>
+	    <![CDATA["Life's most persistent and urgent question is, 'What are you doing for others?" -- Martin Luther King Jr.]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/27470-and-now-these-three-remain-faith-hope-and-love-but</guid>
+		<pubDate>Wed, 04 Dec 2013 09:30:26 -0800</pubDate>
+		<title>
+			<![CDATA[kym add a quote by Anonymous]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/27470-and-now-these-three-remain-faith-hope-and-love-but]]>
+		</link>
+		<description>
+	    <![CDATA["And now these three remain: faith, hope and love. But the greatest of these is love." -- Anonymous]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/36745-black-holes-are-where-god-divided-by-zero</guid>
+		<pubDate>Wed, 04 Dec 2013 09:32:00 -0800</pubDate>
+		<title>
+			<![CDATA[kym add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/36745-black-holes-are-where-god-divided-by-zero]]>
+		</link>
+		<description>
+	    <![CDATA["Black holes are where God divided by zero." -- Albert Einstein]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

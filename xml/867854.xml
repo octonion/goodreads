@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/867854-tresy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/867854-tresy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2013 23:45:42 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/85250-the-man-has-a-branch-office-in-each-of-our</guid>
+		<pubDate>Tue, 11 Jun 2013 23:45:42 -0700</pubDate>
+		<title>
+			<![CDATA[Tresy add a quote by Thomas Pynchon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/85250-the-man-has-a-branch-office-in-each-of-our]]>
+		</link>
+		<description>
+	    <![CDATA["The Man has a branch office in each of our brains, his corporate emblem is a white albatross, each local rep has a cover known as the Ego, and their mission in this world is Bad Shit.  We do know what's going on, and we let it go on.  As long as we can see them, stare at them, those massively moneyed, once in a while.  As long as they allow us a glimpse, however rarely.  We need that.  And they know it - how often, under what conditions..." -- Thomas Pynchon]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

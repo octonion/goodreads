@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/758689-jmccluer]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/758689-jmccluer" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 31 Mar 2009 20:33:48 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/151601-he-liked-the-works-of-his-friends-which-is-beautiful</guid>
+		<pubDate>Tue, 31 Mar 2009 20:33:48 -0700</pubDate>
+		<title>
+			<![CDATA[Jmccluer add a quote by Ernest Hemingway]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/151601-he-liked-the-works-of-his-friends-which-is-beautiful]]>
+		</link>
+		<description>
+	    <![CDATA["He liked the works of his friends, which is beautiful as loyalty but can be disastrous as judgement." -- Ernest Hemingway]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/66164-the-captain-looked-at-florentino-ariza-his-invincible-power-his</guid>
+		<pubDate>Mon, 23 Jun 2008 12:08:28 -0700</pubDate>
+		<title>
+			<![CDATA[Jmccluer add a quote by Gabriel García Márquez]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/66164-the-captain-looked-at-florentino-ariza-his-invincible-power-his]]>
+		</link>
+		<description>
+	    <![CDATA["[The captain] looked at Florentino Ariza, his invincible power, his intrepid love and was overwhelmed by the belated suspicion that it is life, more than death, that has no limits." -- Gabriel García Márquez]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

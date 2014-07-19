@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/159356-riwnodennyk]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/159356-riwnodennyk" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 12 May 2012 12:07:15 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/223700-what-day-is-it-it-s-today-squeaked-piglet-my-favorite</guid>
+		<pubDate>Sat, 12 May 2012 12:07:15 -0700</pubDate>
+		<title>
+			<![CDATA[Riwnodennyk add a quote by A.A. Milne]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/223700-what-day-is-it-it-s-today-squeaked-piglet-my-favorite]]>
+		</link>
+		<description>
+	    <![CDATA["What day is it?&quot;
+It's today,&quot; squeaked Piglet.
+My favorite day,&quot; said Pooh." -- A.A. Milne]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/484580-money-can-t-buy-you-life</guid>
+		<pubDate>Wed, 30 Oct 2013 16:28:57 -0700</pubDate>
+		<title>
+			<![CDATA[Riwnodennyk add a quote by Bob Marley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/484580-money-can-t-buy-you-life]]>
+		</link>
+		<description>
+	    <![CDATA["Money can't buy you life" -- Bob Marley]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

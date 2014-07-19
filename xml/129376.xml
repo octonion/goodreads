@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/129376-alexis-mokler]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/129376-alexis-mokler" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 05 Mar 2014 08:42:25 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/202724-librarians-are-subversive-you-think-they-re-just-sitting-there-at</guid>
+		<pubDate>Wed, 05 Mar 2014 08:42:25 -0800</pubDate>
+		<title>
+			<![CDATA[Alexis add a quote by Michael Moore]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/202724-librarians-are-subversive-you-think-they-re-just-sitting-there-at]]>
+		</link>
+		<description>
+	    <![CDATA["[Librarians] are subversive. You think they're just sitting there at the desk, all quiet and everything. They're like plotting the revolution, man. I wouldn't mess with them." -- Michael Moore]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/19826-we-must-be-willing-to-let-go-of-the-life</guid>
+		<pubDate>Thu, 22 May 2014 07:34:26 -0700</pubDate>
+		<title>
+			<![CDATA[Alexis add a quote by Joseph Campbell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/19826-we-must-be-willing-to-let-go-of-the-life]]>
+		</link>
+		<description>
+	    <![CDATA["We must be willing to let go of the life we planned so as to have the life that is waiting for us." -- Joseph Campbell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

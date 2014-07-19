@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/924285-mike]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/924285-mike" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 12 Mar 2008 15:34:27 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/34127-above-the-stage-was-a-glass-floored-second-stage-which-allowed</guid>
+		<pubDate>Wed, 12 Mar 2008 15:34:27 -0700</pubDate>
+		<title>
+			<![CDATA[Mike add a quote by Diablo Cody]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/34127-above-the-stage-was-a-glass-floored-second-stage-which-allowed]]>
+		</link>
+		<description>
+	    <![CDATA["Above the stage was a glass-floored second stage, which allowed customers to look up and watch another girl dancing overhead. This multidimensional display of poontang reminded me of the 3-D chessboard on Star Trek, which in turn reminded me that I was a huge nerd." -- Diablo Cody]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

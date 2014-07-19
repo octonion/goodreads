@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/943274-jesse]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/943274-jesse" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 21 Jul 2012 09:43:31 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/31260-the-lord-works-from-the-inside-out-the-world-works</guid>
+		<pubDate>Sat, 21 Jul 2012 09:43:31 -0700</pubDate>
+		<title>
+			<![CDATA[Jesse add a quote by Ezra Taft Benson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/31260-the-lord-works-from-the-inside-out-the-world-works]]>
+		</link>
+		<description>
+	    <![CDATA["The Lord works from the inside out. The world works from the outside in. The world would take people out of the slums. Christ would take the slums out of people, and then they would take themselves out of the slums.
+The world would mold men by changing their environment. Christ changes men, who then change their environment. The world would shape human behavior, but Christ can change human nature." -- Ezra Taft Benson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

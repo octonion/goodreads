@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/956008-jen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/956008-jen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 25 Oct 2011 16:02:15 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/29213-life-is-like-riding-a-bicycle-to-keep-your-balance</guid>
+		<pubDate>Tue, 25 Oct 2011 16:02:15 -0700</pubDate>
+		<title>
+			<![CDATA[Jen add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/29213-life-is-like-riding-a-bicycle-to-keep-your-balance]]>
+		</link>
+		<description>
+	    <![CDATA["Life is like riding a bicycle. To keep your balance, you must keep moving." -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/64682-hell-is-a-state-of-mind---ye-never-said</guid>
+		<pubDate>Sun, 16 Sep 2012 20:54:36 -0700</pubDate>
+		<title>
+			<![CDATA[Jen add a quote by C.S. Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/64682-hell-is-a-state-of-mind---ye-never-said]]>
+		</link>
+		<description>
+	    <![CDATA["Hell is a state of mind - ye never said a truer word.  And every state of mind, left to itself, every shutting up of the creature within the dungeon of its own mind - is, in the end, Hell.  But Heaven is not a state of mind.  Heaven is reality itself.  All that is fully real is Heavenly.  For all that can be shaken will be shaken and only the unshakeable remains." -- C.S. Lewis]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/74804-if-you-look-for-perfection-you-ll-never-be-content</guid>
+		<pubDate>Thu, 04 Oct 2012 14:36:08 -0700</pubDate>
+		<title>
+			<![CDATA[Jen add a quote by Leo Tolstoy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/74804-if-you-look-for-perfection-you-ll-never-be-content]]>
+		</link>
+		<description>
+	    <![CDATA["If you look for perfection, you'll never be content." -- Leo Tolstoy]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/657391-jordan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/657391-jordan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 22 Apr 2014 13:46:59 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/135242-and-the-rest-is-rust-and-stardust</guid>
+		<pubDate>Tue, 22 Apr 2014 13:46:59 -0700</pubDate>
+		<title>
+			<![CDATA[Jordan add a quote by Vladimir Nabokov]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/135242-and-the-rest-is-rust-and-stardust]]>
+		</link>
+		<description>
+	    <![CDATA["And the rest is rust and stardust." -- Vladimir Nabokov]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1204424-how-strange-it-was-that-a-dream-once-realized-could</guid>
+		<pubDate>Fri, 09 May 2014 10:45:00 -0700</pubDate>
+		<title>
+			<![CDATA[Jordan add a quote by Maggie Shipstead]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1204424-how-strange-it-was-that-a-dream-once-realized-could]]>
+		</link>
+		<description>
+	    <![CDATA["How strange it was that a dream, once realized, could quickly turn mundane." -- Maggie Shipstead]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/699892-lori]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/699892-lori" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 23 Jun 2012 17:12:42 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/226128-when-you-have-once-seen-the-glow-of-happiness-on</guid>
+		<pubDate>Sat, 23 Jun 2012 17:12:42 -0700</pubDate>
+		<title>
+			<![CDATA[Lori add a quote by Albert Camus ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/226128-when-you-have-once-seen-the-glow-of-happiness-on]]>
+		</link>
+		<description>
+	    <![CDATA["When you have once seen the glow of happiness on the face of a beloved person, you know that a man can have no vocation but to awaken that light on the faces surrounding him. In the depth of winter, I finally learned that within me there lay an invincible summer." -- Albert Camus ]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

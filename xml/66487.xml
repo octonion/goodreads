@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/66487-shaden-abu-al-haijaa]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/66487-shaden-abu-al-haijaa" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 22 Feb 2014 03:47:54 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3858-how-happy-is-the-blameless-vestal-s-lot-the-world-forgetting</guid>
+		<pubDate>Sat, 22 Feb 2014 03:47:54 -0800</pubDate>
+		<title>
+			<![CDATA[Shaden add a quote by Alexander Pope]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3858-how-happy-is-the-blameless-vestal-s-lot-the-world-forgetting]]>
+		</link>
+		<description>
+	    <![CDATA["How happy is the blameless vestal’s lot!
+The world forgetting, by the world forgot.
+Eternal sunshine of the spotless mind!
+Each pray’r accepted, and each wish resign’d" -- Alexander Pope]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/157357-the-woman-who-follows-the-crowd-will-usually-go-no</guid>
+		<pubDate>Sat, 15 Mar 2014 13:32:56 -0700</pubDate>
+		<title>
+			<![CDATA[Shaden add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/157357-the-woman-who-follows-the-crowd-will-usually-go-no]]>
+		</link>
+		<description>
+	    <![CDATA["The woman who follows the crowd will usually go no further than the crowd. The woman who walks alone is likely to find herself in places no one has ever been before." -- Albert Einstein]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

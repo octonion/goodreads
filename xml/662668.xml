@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/662668-mandy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/662668-mandy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 14 Dec 2007 20:52:55 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4629-there-was-a-boy-called-eustace-clarence-scrubb-and-he</guid>
+		<pubDate>Fri, 14 Dec 2007 20:52:55 -0800</pubDate>
+		<title>
+			<![CDATA[Mandy add a quote by C.S. Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4629-there-was-a-boy-called-eustace-clarence-scrubb-and-he]]>
+		</link>
+		<description>
+	    <![CDATA["There was a boy called Eustace Clarence Scrubb, and he almost deserved it." -- C.S. Lewis]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/98253-be-curious-not-judgmental</guid>
+		<pubDate>Wed, 17 Sep 2008 23:56:34 -0700</pubDate>
+		<title>
+			<![CDATA[Mandy add a quote by Walt Whitman ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/98253-be-curious-not-judgmental]]>
+		</link>
+		<description>
+	    <![CDATA["Be curious, not judgmental." -- Walt Whitman ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/8206-do-i-contradict-myself-very-well-then-i-contradict-myself</guid>
+		<pubDate>Thu, 13 Nov 2008 00:31:14 -0800</pubDate>
+		<title>
+			<![CDATA[Mandy add a quote by Walt Whitman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8206-do-i-contradict-myself-very-well-then-i-contradict-myself]]>
+		</link>
+		<description>
+	    <![CDATA["Do I contradict myself? Very well, then, I contradict myself; I am large -- I contain multitudes." -- Walt Whitman]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

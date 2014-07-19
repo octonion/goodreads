@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/84662-gwen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/84662-gwen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 26 Apr 2012 20:15:04 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/341960-my-favorite-trick-is-to-stop-writing-at-a-point</guid>
+		<pubDate>Thu, 26 Apr 2012 20:15:04 -0700</pubDate>
+		<title>
+			<![CDATA[Gwen add a quote by Erik Larson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/341960-my-favorite-trick-is-to-stop-writing-at-a-point]]>
+		</link>
+		<description>
+	    <![CDATA["My favorite “trick” is to stop writing at a point where I know that I can pick up easily the next day. I’ll stop in mid-paragraph, often in midsentence. It makes getting out of bed so much easier, because I know that all I’ll have to do to be productive is complete the sentence. And by then I’ll be seated at my desk, coffee and Oreo cookie at hand, the morning’s inertia overcome. There’s an added advantage: The human brain hates incomplete sentences. All night my mind will have secretly worked on the passage and likely mapped out the remainder of the page, even the chapter, while simultaneously sending me on a dinner date with Cate Blanchett." -- Erik Larson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

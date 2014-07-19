@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1075552-mandy-smedley]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1075552-mandy-smedley" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 14 Oct 2013 06:32:50 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/357339-i-think-that-we-are-like-stars-something-happens-to</guid>
+		<pubDate>Mon, 14 Oct 2013 06:32:50 -0700</pubDate>
+		<title>
+			<![CDATA[Mandy add a quote by C. JoyBell C.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/357339-i-think-that-we-are-like-stars-something-happens-to]]>
+		</link>
+		<description>
+	    <![CDATA["I think that we are like stars. Something happens to burst us open; but when we burst open and think we are dying; we’re actually turning into a supernova. And then when we look at ourselves again, we see that we’re suddenly more beautiful than we ever were before!" -- C. JoyBell C.]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

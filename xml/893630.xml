@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/893630-trina]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/893630-trina" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 06 Mar 2013 23:09:06 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/33308-what-greater-thing-is-there-for-two-human-souls-than</guid>
+		<pubDate>Wed, 06 Mar 2013 23:09:06 -0800</pubDate>
+		<title>
+			<![CDATA[Trina add a quote by George Eliot]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/33308-what-greater-thing-is-there-for-two-human-souls-than]]>
+		</link>
+		<description>
+	    <![CDATA["What greater thing is there for two human souls, than to feel that they are joined for life--to strengthen each other in all labor, to rest on each other in all sorrow, to minister to each other in all pain, to be one with each other in silent unspeakable memories at the moment of the last parting?" -- George Eliot]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1153079-one-of-the-few-things-i-know-about-writing-is</guid>
+		<pubDate>Wed, 30 Apr 2014 09:52:24 -0700</pubDate>
+		<title>
+			<![CDATA[Trina add a quote by Annie Dillard]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1153079-one-of-the-few-things-i-know-about-writing-is]]>
+		</link>
+		<description>
+	    <![CDATA["One of the few things I know about writing is this: spend it all, shoot it, play it, lose it, all, right away, every time...give it, give it all, give it now." -- Annie Dillard]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

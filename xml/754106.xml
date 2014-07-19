@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/754106-jason]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/754106-jason" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 23 Aug 2013 17:56:40 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/38012-to-this-generation-i-would-say-memorize-some-bit-of</guid>
+		<pubDate>Fri, 23 Aug 2013 17:56:40 -0700</pubDate>
+		<title>
+			<![CDATA[Jason add a quote by Edgar Lee Masters]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/38012-to-this-generation-i-would-say-memorize-some-bit-of]]>
+		</link>
+		<description>
+	    <![CDATA["To this generation I would say:
+Memorize some bit of verse of truth or beauty." -- Edgar Lee Masters]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/651623-racism-is-not-merely-a-simplistic-hatred-it-is-more</guid>
+		<pubDate>Sat, 11 Jan 2014 12:51:10 -0800</pubDate>
+		<title>
+			<![CDATA[Jason add a quote by Ta-Nehisi Coates]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/651623-racism-is-not-merely-a-simplistic-hatred-it-is-more]]>
+		</link>
+		<description>
+	    <![CDATA["Racism is not merely a simplistic hatred. It is, more often, broad sympathy toward some and broader skepticism toward others..." -- Ta-Nehisi Coates]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

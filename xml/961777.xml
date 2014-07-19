@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/961777-nancy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/961777-nancy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 19 Jan 2012 16:19:08 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/487189-books-say-she-did-this-because-life-says-she-did</guid>
+		<pubDate>Thu, 19 Jan 2012 16:19:08 -0800</pubDate>
+		<title>
+			<![CDATA[Nancy add a quote by Julian Barnes]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/487189-books-say-she-did-this-because-life-says-she-did]]>
+		</link>
+		<description>
+	    <![CDATA["Books say: She did this because. Life says: She did this. Books are where things are explained to you; life is where things aren't. I'm not surprised some people prefer books." -- Julian Barnes]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/220599-we-are-always-the-same-age-inside</guid>
+		<pubDate>Sun, 03 Feb 2013 13:53:32 -0800</pubDate>
+		<title>
+			<![CDATA[Nancy add a quote by Gertrude Stein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/220599-we-are-always-the-same-age-inside]]>
+		</link>
+		<description>
+	    <![CDATA["We are always the same age inside. " -- Gertrude Stein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/156247-be-clearly-aware-of-the-stars-and-infinity-on-high</guid>
+		<pubDate>Sat, 30 Mar 2013 08:39:34 -0700</pubDate>
+		<title>
+			<![CDATA[Nancy add a quote by Vincent Van Gogh]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/156247-be-clearly-aware-of-the-stars-and-infinity-on-high]]>
+		</link>
+		<description>
+	    <![CDATA["Be clearly aware of the stars and infinity on high. Then life seems almost enchanted after all." -- Vincent Van Gogh]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

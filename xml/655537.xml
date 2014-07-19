@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/655537-umm]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/655537-umm" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 17 Feb 2008 16:39:57 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/11035-no-one-can-make-you-feel-inferior-without-your-consent</guid>
+		<pubDate>Sun, 17 Feb 2008 16:39:57 -0800</pubDate>
+		<title>
+			<![CDATA[Umm add a quote by Eleanor Roosevelt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11035-no-one-can-make-you-feel-inferior-without-your-consent]]>
+		</link>
+		<description>
+	    <![CDATA["No one can make you feel inferior without your consent." -- Eleanor Roosevelt]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/362-if-you-don-t-stand-for-something-you-will-fall-for</guid>
+		<pubDate>Fri, 14 Dec 2007 06:37:51 -0800</pubDate>
+		<title>
+			<![CDATA[Umm add a quote by Gordon A. Eadie]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/362-if-you-don-t-stand-for-something-you-will-fall-for]]>
+		</link>
+		<description>
+	    <![CDATA["If you don't stand for something you will fall for anything." -- Gordon A. Eadie]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/9131-if-you-tell-the-truth-you-don-t-have-to-remember</guid>
+		<pubDate>Fri, 14 Dec 2007 06:37:54 -0800</pubDate>
+		<title>
+			<![CDATA[Umm add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9131-if-you-tell-the-truth-you-don-t-have-to-remember]]>
+		</link>
+		<description>
+	    <![CDATA["If you tell the truth, you don't have to remember anything." -- Mark Twain]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/467-life-is-what-happens-to-you-while-you-re-busy-making</guid>
+		<pubDate>Fri, 14 Dec 2007 06:38:27 -0800</pubDate>
+		<title>
+			<![CDATA[Umm add a quote by Allen Saunders]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/467-life-is-what-happens-to-you-while-you-re-busy-making]]>
+		</link>
+		<description>
+	    <![CDATA["Life is what happens to you while you're busy making other plans." -- Allen Saunders]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/965205-amy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/965205-amy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 06 Apr 2014 06:16:05 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/251106-i-know-it-is-wet-and-the-sun-is-not</guid>
+		<pubDate>Sun, 06 Apr 2014 06:16:05 -0700</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Dr. Seuss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/251106-i-know-it-is-wet-and-the-sun-is-not]]>
+		</link>
+		<description>
+	    <![CDATA["I know it is wet and the sun is not sunny, but we can have lots of good fun that is funny." -- Dr. Seuss]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/24684-you-can-t-help-respecting-anybody-who-can-spell-tuesday-even</guid>
+		<pubDate>Sun, 06 Apr 2014 06:16:53 -0700</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by A.A. Miline]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/24684-you-can-t-help-respecting-anybody-who-can-spell-tuesday-even]]>
+		</link>
+		<description>
+	    <![CDATA["You can't help respecting anybody who can spell TUESDAY, even if he doesn't spell it right; but spelling isn't everything. There are days when spelling Tuesday simply doesn't count." -- A.A. Miline]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/86152-i-can-t-imagine-anything-worse-than-being-required-to-have</guid>
+		<pubDate>Sun, 06 Apr 2014 06:17:11 -0700</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Scott Westerfeld]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/86152-i-can-t-imagine-anything-worse-than-being-required-to-have]]>
+		</link>
+		<description>
+	    <![CDATA["I can’t imagine anything worse than being required to have fun. " -- Scott Westerfeld]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/301391-life-is-more-fun-if-you-play-games</guid>
+		<pubDate>Sun, 06 Apr 2014 06:18:14 -0700</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Roald Dahl]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/301391-life-is-more-fun-if-you-play-games]]>
+		</link>
+		<description>
+	    <![CDATA["Life is more fun if you play games." -- Roald Dahl]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

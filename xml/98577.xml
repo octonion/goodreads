@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/98577-rick]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/98577-rick" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 13 Dec 2008 22:14:31 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1291-and-on-the-subject-of-burning-books-i-want-to</guid>
+		<pubDate>Sat, 13 Dec 2008 22:14:31 -0800</pubDate>
+		<title>
+			<![CDATA[Rick add a quote by Kurt Vonnegut]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1291-and-on-the-subject-of-burning-books-i-want-to]]>
+		</link>
+		<description>
+	    <![CDATA["And on the subject of burning books: I want to congratulate librarians, not famous for their physical strength or their powerful political connections or their great wealth, who, all over this country, have staunchly resisted anti-democratic bullies who have tried to remove certain books from their shelves, and have refused to reveal to thought police the names of persons who have checked out those titles.
+
+So the America I loved still exists, if not in the White House or the Supreme Court or the Senate or the House of Representatives or the media. The America I love still exists at the front desks of our public libraries." -- Kurt Vonnegut]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/13719-we-are-what-we-pretend-to-be-so-we-must</guid>
+		<pubDate>Sat, 13 Dec 2008 22:14:33 -0800</pubDate>
+		<title>
+			<![CDATA[Rick add a quote by Kurt Vonnegut]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13719-we-are-what-we-pretend-to-be-so-we-must]]>
+		</link>
+		<description>
+	    <![CDATA["We are what we pretend to be, so we must be careful about what we pretend to be." -- Kurt Vonnegut]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

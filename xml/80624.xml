@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/80624-felix]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/80624-felix" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 26 Dec 2011 11:46:39 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/395425-the-struggle-of-the-artist-against-the-art-ideology-against-the</guid>
+		<pubDate>Mon, 26 Dec 2011 11:46:39 -0800</pubDate>
+		<title>
+			<![CDATA[Felix add a quote by Otto Rank]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/395425-the-struggle-of-the-artist-against-the-art-ideology-against-the]]>
+		</link>
+		<description>
+	    <![CDATA["The struggle of the artist against the art-ideology, against the creative impulse and even against his own work also shows itself in his attitude towards success and fame; these two phenomena are but an extension, socially, of the process which began subjectively with the vocation and creation of the personal ego to be an artist. In this entire creative process, which begins with self-nomination as artist and ends in the fame of posterity, two fundamental tendencies — one might almost say, two personalities of the individual — are in continual conflict throughout: one wants to eternalize itself in artistic creation, the other in ordinary life — in brief, immortal man vs. the immortal soul of man." -- Otto Rank]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

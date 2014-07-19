@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/272429-megan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/272429-megan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 02 Nov 2011 06:34:04 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/48-three-things-in-human-life-are-important-the-first-is</guid>
+		<pubDate>Wed, 02 Nov 2011 06:34:04 -0700</pubDate>
+		<title>
+			<![CDATA[Megan add a quote by Henry James]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/48-three-things-in-human-life-are-important-the-first-is]]>
+		</link>
+		<description>
+	    <![CDATA["Three things in human life are important: the first is to be kind; the second is to be kind; and the third is to be kind." -- Henry James]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

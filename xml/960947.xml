@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/960947-aubri]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/960947-aubri" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 29 Oct 2013 11:37:01 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/504565-it-s-up-to-the-artist-to-use-language-that-can</guid>
+		<pubDate>Tue, 29 Oct 2013 11:37:01 -0700</pubDate>
+		<title>
+			<![CDATA[Aubri add a quote by Robert A. Heinlein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/504565-it-s-up-to-the-artist-to-use-language-that-can]]>
+		</link>
+		<description>
+	    <![CDATA["It's up to the artist to use language that can be understood, not hide it in some private code. Most of these jokers don't even want to use language you and I know or can learn . . . they would rather sneer at us and be smug, because we 'fail' to see what they are driving at. If indeed they are driving at anything--obscurity is usually the refuge of incompetence." -- Robert A. Heinlein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/285601-pride-is-the-mother-of-arrogance</guid>
+		<pubDate>Tue, 29 Oct 2013 11:37:30 -0700</pubDate>
+		<title>
+			<![CDATA[Aubri add a quote by Toba Beta]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/285601-pride-is-the-mother-of-arrogance]]>
+		</link>
+		<description>
+	    <![CDATA["Pride is the mother of arrogance." -- Toba Beta]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

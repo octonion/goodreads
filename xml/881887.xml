@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/881887-wendy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/881887-wendy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 07 Apr 2012 23:09:40 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/34046-science-and-religion-are-not-at-odds-science-is-simply</guid>
+		<pubDate>Sat, 07 Apr 2012 23:09:40 -0700</pubDate>
+		<title>
+			<![CDATA[Wendy add a quote by Dan Brown]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/34046-science-and-religion-are-not-at-odds-science-is-simply]]>
+		</link>
+		<description>
+	    <![CDATA["Science and religion are not at odds.  Science is simply too young to understand." -- Dan Brown]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/236563-the-one-thing-we-can-never-get-enough-of-is</guid>
+		<pubDate>Fri, 14 Feb 2014 16:29:15 -0800</pubDate>
+		<title>
+			<![CDATA[Wendy add a quote by Henry Miller]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/236563-the-one-thing-we-can-never-get-enough-of-is]]>
+		</link>
+		<description>
+	    <![CDATA["The one thing we can never get enough of is love. And the one thing we never give enough of is love." -- Henry Miller]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

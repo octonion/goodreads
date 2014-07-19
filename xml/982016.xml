@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/982016-cassaundra-cox]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/982016-cassaundra-cox" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 15 Apr 2008 18:10:36 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/45071-the-human-brain-starts-working-the-moment-you-are</guid>
+		<pubDate>Tue, 15 Apr 2008 18:10:36 -0700</pubDate>
+		<title>
+			<![CDATA[Cassaundra add a quote by George Jessel]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/45071-the-human-brain-starts-working-the-moment-you-are]]>
+		</link>
+		<description>
+	    <![CDATA[" The human brain starts working the moment you are born and never stops until you stand up to speak in public.  " -- George Jessel]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/17411-think-left-and-think-right-and-think-low-and-think</guid>
+		<pubDate>Tue, 22 Apr 2008 17:36:03 -0700</pubDate>
+		<title>
+			<![CDATA[Cassaundra add a quote by Dr. Seuss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17411-think-left-and-think-right-and-think-low-and-think]]>
+		</link>
+		<description>
+	    <![CDATA["Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!" -- Dr. Seuss]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

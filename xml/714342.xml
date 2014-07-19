@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/714342-sigrid-bjerre]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/714342-sigrid-bjerre" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 26 Sep 2012 12:33:34 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/204818-am-i-in-love---yes-since-i-am-waiting-the</guid>
+		<pubDate>Wed, 26 Sep 2012 12:33:34 -0700</pubDate>
+		<title>
+			<![CDATA[Sigrid add a quote by Roland Barthes]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/204818-am-i-in-love---yes-since-i-am-waiting-the]]>
+		</link>
+		<description>
+	    <![CDATA["Am I in love? --yes, since I am waiting. The other one never waits. Sometimes I want to play the part of the one who doesn't wait; I try to busy myself elsewhere, to arrive late; but I always lose at this game. Whatever I do, I find myself there, with nothing to do, punctual, even ahead of time. The lover's fatal identity is precisely this: I am the one who waits." -- Roland Barthes]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/45730-i-am-interested-in-language-because-it-wounds-or-seduces</guid>
+		<pubDate>Tue, 30 Oct 2012 02:35:10 -0700</pubDate>
+		<title>
+			<![CDATA[Sigrid add a quote by Roland Barthes]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/45730-i-am-interested-in-language-because-it-wounds-or-seduces]]>
+		</link>
+		<description>
+	    <![CDATA["I am interested in language because it wounds or seduces me." -- Roland Barthes]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

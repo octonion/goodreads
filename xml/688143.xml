@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/688143-jess]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/688143-jess" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 07 Nov 2013 18:50:29 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/107825-rats-and-roaches-live-by-competition-under-the-laws-of</guid>
+		<pubDate>Thu, 07 Nov 2013 18:50:29 -0800</pubDate>
+		<title>
+			<![CDATA[Jess add a quote by Wendell Berry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/107825-rats-and-roaches-live-by-competition-under-the-laws-of]]>
+		</link>
+		<description>
+	    <![CDATA["Rats and roaches live by competition under the laws of supply and demand; it is the privilege of human beings to live under the laws of justice and mercy." -- Wendell Berry]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/101502-the-plain-fact-is-that-the-planet-does-not-need</guid>
+		<pubDate>Tue, 11 Feb 2014 08:59:20 -0800</pubDate>
+		<title>
+			<![CDATA[Jess add a quote by David W. Orr]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/101502-the-plain-fact-is-that-the-planet-does-not-need]]>
+		</link>
+		<description>
+	    <![CDATA["The plain fact is that the planet does not need more successful people. But it does desperately need more peacemakers, healers, restorers, storytellers, and lovers of every kind. It needs people who live well in their places. It needs people of moral courage willing to join the fight to make the world habitable and humane. And these qualities have little to do with success as we have defined it." -- David W. Orr]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

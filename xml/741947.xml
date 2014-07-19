@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/741947-yejin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/741947-yejin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 09 Jan 2008 10:06:13 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/11813-nothing-more-can-be-attempted-than-to-establish-the-beginning</guid>
+		<pubDate>Wed, 09 Jan 2008 10:06:13 -0800</pubDate>
+		<title>
+			<![CDATA[Yejin add a quote by George Simmel]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11813-nothing-more-can-be-attempted-than-to-establish-the-beginning]]>
+		</link>
+		<description>
+	    <![CDATA["Nothing more can be attempted than to establish the beginning and the direction of an infinitely long road. The pretension of any systematic and definitive completeness would be, at least, a self-illusion. Perfection can here be obtained by the individual student only in the subjective sense that he communicates everything he has been able to see." -- George Simmel]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/24945-if-every-statement-is-incomplete-and-every-expression-is-situated</guid>
+		<pubDate>Thu, 14 Feb 2008 11:15:57 -0800</pubDate>
+		<title>
+			<![CDATA[Yejin add a quote by Merleau-Ponty Maurice]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/24945-if-every-statement-is-incomplete-and-every-expression-is-situated]]>
+		</link>
+		<description>
+	    <![CDATA["If every statement is incomplete and every expression is situated upon a silent tacit comprehension, then it must be that things are said and are thought by a Speech and by a Thought which we do not have but which has us." -- Merleau-Ponty Maurice]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

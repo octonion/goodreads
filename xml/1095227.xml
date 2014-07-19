@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1095227-francoise]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1095227-francoise" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 19 Apr 2008 00:19:43 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/381-to-die-would-be-an-awfully-big-adventure</guid>
+		<pubDate>Sat, 19 Apr 2008 00:19:43 -0700</pubDate>
+		<title>
+			<![CDATA[Francoise add a quote by J.M. Barrie]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/381-to-die-would-be-an-awfully-big-adventure]]>
+		</link>
+		<description>
+	    <![CDATA["To die would be an awfully big adventure." -- J.M. Barrie]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/18499-can-miles-truly-separate-you-from-friends-if-you-want</guid>
+		<pubDate>Tue, 25 Aug 2009 03:02:17 -0700</pubDate>
+		<title>
+			<![CDATA[Francoise add a quote by Richard Bach]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18499-can-miles-truly-separate-you-from-friends-if-you-want]]>
+		</link>
+		<description>
+	    <![CDATA["Can miles truly separate you from friends... If you want to be with someone you love, aren't you already there?" -- Richard Bach]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/31273-every-day-you-may-make-progress-every-step-may-be</guid>
+		<pubDate>Sun, 30 Aug 2009 09:43:23 -0700</pubDate>
+		<title>
+			<![CDATA[Francoise add a quote by Winston S. Churchill]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/31273-every-day-you-may-make-progress-every-step-may-be]]>
+		</link>
+		<description>
+	    <![CDATA["Every day you may make progress. Every step may be fruitful. Yet there will stretch out before you an ever-lengthening, ever-ascending, ever-improving path. You know you will never get to the end of the journey. But this, so far from discouraging, only adds to the joy and glory of the climb." -- Winston S. Churchill]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/861359-charise]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/861359-charise" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 30 Aug 2011 07:42:49 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/188395-the-beginning-is-always-today</guid>
+		<pubDate>Tue, 30 Aug 2011 07:42:49 -0700</pubDate>
+		<title>
+			<![CDATA[Charise add a quote by Mary Wollstonecraft]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/188395-the-beginning-is-always-today]]>
+		</link>
+		<description>
+	    <![CDATA["The beginning is always today." -- Mary Wollstonecraft]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/680355-mistakes-wreck-your-life-but-they-make-what-you-have</guid>
+		<pubDate>Tue, 12 Mar 2013 18:53:17 -0700</pubDate>
+		<title>
+			<![CDATA[Charise add a quote by Barbara Kingsolver]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/680355-mistakes-wreck-your-life-but-they-make-what-you-have]]>
+		</link>
+		<description>
+	    <![CDATA["Mistakes wreck your life. But they make what you have. It's kind of all one. You know what Hester told me when we were working the sheep one time? She said it's no good to complain about your flock, because it's the put-together of all your past choices." -- Barbara Kingsolver]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

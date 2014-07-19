@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/209216-amy-turner]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/209216-amy-turner" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 24 Jul 2011 21:40:08 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/13719-we-are-what-we-pretend-to-be-so-we-must</guid>
+		<pubDate>Sun, 24 Jul 2011 21:40:08 -0700</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Kurt Vonnegut]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13719-we-are-what-we-pretend-to-be-so-we-must]]>
+		</link>
+		<description>
+	    <![CDATA["We are what we pretend to be, so we must be careful about what we pretend to be." -- Kurt Vonnegut]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/13146-never-trust-anyone-who-has-not-brought-a-book-with</guid>
+		<pubDate>Sun, 07 Aug 2011 17:08:24 -0700</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Lemony Snicket]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13146-never-trust-anyone-who-has-not-brought-a-book-with]]>
+		</link>
+		<description>
+	    <![CDATA["Never trust anyone who has not brought a book with them." -- Lemony Snicket]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/44909-science-is-not-only-compatible-with-spirituality-it-is-a</guid>
+		<pubDate>Sat, 07 Apr 2012 16:47:06 -0700</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Carl Sagan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/44909-science-is-not-only-compatible-with-spirituality-it-is-a]]>
+		</link>
+		<description>
+	    <![CDATA["Science is not only compatible with spirituality; it is a profound source of spirituality. When we recognize our place in an immensity of light‐years and in the passage of ages, when we grasp the intricacy, beauty, and subtlety of life, then that soaring feeling, that sense of elation and humility combined, is surely spiritual. So are our emotions in the presence of great art or music or literature, or acts of exemplary selfless courage such as those of Mohandas Gandhi or Martin Luther King, Jr. The notion that science and spirituality are somehow mutually exclusive does a disservice to both." -- Carl Sagan]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

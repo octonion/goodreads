@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/507421-sabra-embury]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/507421-sabra-embury" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 23 Jul 2009 23:03:59 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/180275-we-who-bore-the-mark-might-well-be-considered-by</guid>
+		<pubDate>Thu, 23 Jul 2009 23:03:59 -0700</pubDate>
+		<title>
+			<![CDATA[Sabra add a quote by Hermann Hesse]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/180275-we-who-bore-the-mark-might-well-be-considered-by]]>
+		</link>
+		<description>
+	    <![CDATA["We who bore the mark might well be considered by the rest of the world as strange, even as insane and dangerous. We had awoken, or were awakening, and we were striving for an ever perfect state of wakefulness, whereas the ambition and quest for happiness of the others consisted of linking their opinions, ideals, and duties, their life and happiness, ever more closely with those of the herd. They, too, strove; they, too showed signs of strength and greatness. But as we saw it, whereas we marked men represented Nature's determination to create something new, individual, and forward-looking, the others lived in the determination to stay the same. For them mankind--which they loved as much as we did--was a fully formed entity that had to be preserved and protected. For us mankind was a distant future toward which we were all journeying, whose aspect no one knew, whose laws weren't written down anywhere." -- Hermann Hesse]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

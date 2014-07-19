@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/122618-laurel]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/122618-laurel" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 20 Mar 2012 13:11:28 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/514151-scars-are-just-a-treasure-map-for-pain-you-ve-buried</guid>
+		<pubDate>Tue, 20 Mar 2012 13:11:28 -0700</pubDate>
+		<title>
+			<![CDATA[Laurel add a quote by Jodi Picoult]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/514151-scars-are-just-a-treasure-map-for-pain-you-ve-buried]]>
+		</link>
+		<description>
+	    <![CDATA["Scars are just a treasure map for pain you've buried too deep to remember." -- Jodi Picoult]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/216681-whatever-relationships-you-have-attracted-in-your-life-at-this</guid>
+		<pubDate>Sat, 23 Mar 2013 07:58:38 -0700</pubDate>
+		<title>
+			<![CDATA[Laurel add a quote by Deepak Chopra]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/216681-whatever-relationships-you-have-attracted-in-your-life-at-this]]>
+		</link>
+		<description>
+	    <![CDATA["Whatever relationships you have attracted in your life at this moment, are precisely the ones you need in your life at this moment. There is a hidden meaning behind all events, and this hidden meaning is serving your own evolution." -- Deepak Chopra]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

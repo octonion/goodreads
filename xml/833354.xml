@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/833354-merry]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/833354-merry" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 20 Nov 2009 15:39:04 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/158803-but-choosing-to-lovingly-care-for-her-was-like-steering</guid>
+		<pubDate>Fri, 20 Nov 2009 15:39:04 -0800</pubDate>
+		<title>
+			<![CDATA[Merry add a quote by Jamie Ford]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/158803-but-choosing-to-lovingly-care-for-her-was-like-steering]]>
+		</link>
+		<description>
+	    <![CDATA["But choosing to lovingly care for her was like steering a plane into a mountain as gently as possible. The crash is imminent; it's how you spend your time on the way down that counts." -- Jamie Ford]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

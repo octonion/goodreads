@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/90791-michelle]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/90791-michelle" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 09 Feb 2014 16:12:37 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1033187-i-never-expected-to-find-myself-here-on-the-edge</guid>
+		<pubDate>Sun, 09 Feb 2014 16:12:37 -0800</pubDate>
+		<title>
+			<![CDATA[Michelle add a quote by Michelle Richmond]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1033187-i-never-expected-to-find-myself-here-on-the-edge]]>
+		</link>
+		<description>
+	    <![CDATA["I never expected to find myself here, on the edge of the continent--childless, possibly jobless, with broken bones and a broken marriage, citizen of a broken country. But here I am, and I must make something of it. That's really the only choice one has: make something of it, or don't." -- Michelle Richmond]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

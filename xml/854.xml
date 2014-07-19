@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/854-antonio-tombolini]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/854-antonio-tombolini" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 02 Sep 2013 07:07:22 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/157565-i-d-like-to-give-every-young-teacher-some-good-news</guid>
+		<pubDate>Mon, 02 Sep 2013 07:07:22 -0700</pubDate>
+		<title>
+			<![CDATA[Antonio add a quote by Rafe Esquith]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/157565-i-d-like-to-give-every-young-teacher-some-good-news]]>
+		</link>
+		<description>
+	    <![CDATA["I'd like to give every young teacher some good news.  Teaching is a very easy job.  Administrators will tell you what to do.  You'll be given books and told chapters to assign the children.  Veteran teachers will show you the correct way to fill out forms and have your classes line up.
+
+And here's some more good news.  If you do all of these things badly, they let you keep doing it.  You can go home at three o'clock every day.  You get about three months off a year.  Teaching is a great gig.
+
+However, if you care about what you're doing, it's one of the toughest jobs around." -- Rafe Esquith]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

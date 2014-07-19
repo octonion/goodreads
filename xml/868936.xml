@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/868936-lauren]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/868936-lauren" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 04 Mar 2008 15:34:45 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/187-i-was-gratified-to-be-able-to-answer-promptly-and</guid>
+		<pubDate>Tue, 04 Mar 2008 15:34:45 -0800</pubDate>
+		<title>
+			<![CDATA[Lauren add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/187-i-was-gratified-to-be-able-to-answer-promptly-and]]>
+		</link>
+		<description>
+	    <![CDATA["I was gratified to be able to answer promptly, and I did. I said I didn’t know." -- Mark Twain]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4601-if-everyone-demanded-peace-instead-of-another-television-set-then</guid>
+		<pubDate>Tue, 04 Mar 2008 15:40:29 -0800</pubDate>
+		<title>
+			<![CDATA[Lauren add a quote by John Lennon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4601-if-everyone-demanded-peace-instead-of-another-television-set-then]]>
+		</link>
+		<description>
+	    <![CDATA["If everyone demanded peace instead of another television set, then there'd be peace." -- John Lennon]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

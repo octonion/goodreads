@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/439221-karin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/439221-karin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 08 Jan 2008 03:05:34 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4963-where-is-human-nature-so-weak-as-in-the-bookstore</guid>
+		<pubDate>Tue, 08 Jan 2008 03:05:34 -0800</pubDate>
+		<title>
+			<![CDATA[Karin add a quote by Henry Ward Beecherr]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4963-where-is-human-nature-so-weak-as-in-the-bookstore]]>
+		</link>
+		<description>
+	    <![CDATA["Where is human nature so weak as in the bookstore?" -- Henry Ward Beecherr]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5863-a-great-book-should-leave-you-with-many-experiences-and</guid>
+		<pubDate>Tue, 08 Jan 2008 03:06:19 -0800</pubDate>
+		<title>
+			<![CDATA[Karin add a quote by William Styron]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5863-a-great-book-should-leave-you-with-many-experiences-and]]>
+		</link>
+		<description>
+	    <![CDATA["A great book should leave you with many experiences, and slightly exhausted at the end. You live several lives while reading." -- William Styron]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

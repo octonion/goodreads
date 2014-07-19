@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/114742-farheen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/114742-farheen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 17 May 2013 10:59:11 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5263-when-he-shall-die-take-him-and-cut-him-out</guid>
+		<pubDate>Fri, 17 May 2013 10:59:11 -0700</pubDate>
+		<title>
+			<![CDATA[Farheen add a quote by William Shakespeare]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5263-when-he-shall-die-take-him-and-cut-him-out]]>
+		</link>
+		<description>
+	    <![CDATA["When he shall die,
+Take him and cut him out in little stars,
+And he will make the face of heaven so fine
+That all the world will be in love with night
+And pay no worship to the garish sun." -- William Shakespeare]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

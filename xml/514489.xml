@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/514489-nan-todd]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/514489-nan-todd" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 21 Oct 2012 08:50:54 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/96119-people-who-deny-the-existence-of-dragons-are-often-eaten</guid>
+		<pubDate>Sun, 21 Oct 2012 08:50:54 -0700</pubDate>
+		<title>
+			<![CDATA[Nan add a quote by Ursula K. Le Guin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/96119-people-who-deny-the-existence-of-dragons-are-often-eaten]]>
+		</link>
+		<description>
+	    <![CDATA["People who deny the existence of dragons are often eaten by dragons. From within." -- Ursula K. Le Guin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

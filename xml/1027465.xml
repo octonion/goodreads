@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1027465-zulkifli]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1027465-zulkifli" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 15 Jun 2008 01:32:37 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/764-a-room-without-books-is-like-a-body-without-a</guid>
+		<pubDate>Sun, 15 Jun 2008 01:32:37 -0700</pubDate>
+		<title>
+			<![CDATA[Zulkifli add a quote by Marcus Tullius Cicero]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/764-a-room-without-books-is-like-a-body-without-a]]>
+		</link>
+		<description>
+	    <![CDATA["A room without books is like a body without a soul." -- Marcus Tullius Cicero]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5803-education-is-what-remains-after-one-has-forgotten-what-one</guid>
+		<pubDate>Sun, 15 Jun 2008 01:33:32 -0700</pubDate>
+		<title>
+			<![CDATA[Zulkifli add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5803-education-is-what-remains-after-one-has-forgotten-what-one]]>
+		</link>
+		<description>
+	    <![CDATA["Education is what remains after one has forgotten what one has learned in school." -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4610-the-difference-between-genius-and-stupidity-is-genius-has-its</guid>
+		<pubDate>Sun, 15 Jun 2008 01:33:38 -0700</pubDate>
+		<title>
+			<![CDATA[Zulkifli add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4610-the-difference-between-genius-and-stupidity-is-genius-has-its]]>
+		</link>
+		<description>
+	    <![CDATA["The difference between genius and stupidity is; genius has its limits." -- Albert Einstein]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

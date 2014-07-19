@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1020386-melissa]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1020386-melissa" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 10 Aug 2012 12:41:41 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/163506-yes-it-s-a-well-known-fact-about-you-you-re-like-death</guid>
+		<pubDate>Fri, 10 Aug 2012 12:41:41 -0700</pubDate>
+		<title>
+			<![CDATA[Melissa add a quote by Milan Kundera]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/163506-yes-it-s-a-well-known-fact-about-you-you-re-like-death]]>
+		</link>
+		<description>
+	    <![CDATA["Yes, it's a well-known fact about you: you're like death, you take everything." -- Milan Kundera]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/23288-he-was-well-aware-that-of-the-two-of-three</guid>
+		<pubDate>Fri, 10 Aug 2012 12:42:17 -0700</pubDate>
+		<title>
+			<![CDATA[Melissa add a quote by Milan Kundera]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/23288-he-was-well-aware-that-of-the-two-of-three]]>
+		</link>
+		<description>
+	    <![CDATA["He was well aware that of the two of three thousand times he had made love (how many times had he made love in his life?) only two or three were really essential and unforgettable.  The rest were mere echoes, imitations, repetitions, or reminiscences." -- Milan Kundera]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

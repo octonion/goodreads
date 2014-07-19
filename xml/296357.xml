@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/296357-eliza-t-williamson]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/296357-eliza-t-williamson" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 24 Jan 2008 09:21:58 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/16858-there-is-no-saint-without-a-past-no-sinner-without</guid>
+		<pubDate>Thu, 24 Jan 2008 09:21:58 -0800</pubDate>
+		<title>
+			<![CDATA[Eliza T. add a quote by St. Augustine]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16858-there-is-no-saint-without-a-past-no-sinner-without]]>
+		</link>
+		<description>
+	    <![CDATA["There is no saint without a past, no sinner without a future." -- St. Augustine]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/16869-i-once-heard-a-woman-who-had-lost-her-dog</guid>
+		<pubDate>Thu, 24 Jan 2008 09:35:50 -0800</pubDate>
+		<title>
+			<![CDATA[Eliza T. add a quote by Carolyn Knapp]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16869-i-once-heard-a-woman-who-had-lost-her-dog]]>
+		</link>
+		<description>
+	    <![CDATA["I once heard a woman who had lost her dog say that she felt as though a color were suddenly missing from her world: the dog had introduced to her field of vision some previously unavailable hue and without a dog, that color was gone. That seemed to capture the experience of loving a dog with eminent simplicity. I'd amend it only slightly and say that if we are open to what they have to give, dogs can introduce us to several colors with names like wildness, nurturance, trust and joy." -- Carolyn Knapp]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

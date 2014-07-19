@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/956959-sams]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/956959-sams" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 08 Sep 2012 23:04:27 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/764-a-room-without-books-is-like-a-body-without-a</guid>
+		<pubDate>Sat, 08 Sep 2012 23:04:27 -0700</pubDate>
+		<title>
+			<![CDATA[Sams add a quote by Marcus Tullius Cicero]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/764-a-room-without-books-is-like-a-body-without-a]]>
+		</link>
+		<description>
+	    <![CDATA["A room without books is like a body without a soul." -- Marcus Tullius Cicero]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/11035-no-one-can-make-you-feel-inferior-without-your-consent</guid>
+		<pubDate>Sun, 09 Sep 2012 00:30:38 -0700</pubDate>
+		<title>
+			<![CDATA[Sams add a quote by Eleanor Roosevelt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11035-no-one-can-make-you-feel-inferior-without-your-consent]]>
+		</link>
+		<description>
+	    <![CDATA["No one can make you feel inferior without your consent." -- Eleanor Roosevelt]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/21705-i-know-god-won-t-give-me-anything-i-can-t-handle</guid>
+		<pubDate>Sun, 09 Sep 2012 01:15:46 -0700</pubDate>
+		<title>
+			<![CDATA[Sams add a quote by Mother Theresa]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21705-i-know-god-won-t-give-me-anything-i-can-t-handle]]>
+		</link>
+		<description>
+	    <![CDATA["I know God won't give me anything I can't handle. I just wish he didn't trust me so much." -- Mother Theresa]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2875-walk-on-with-hope-in-your-heart-and-you-ll-never</guid>
+		<pubDate>Sun, 09 Sep 2012 02:32:40 -0700</pubDate>
+		<title>
+			<![CDATA[Sams add a quote by Shah Rukh Khan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2875-walk-on-with-hope-in-your-heart-and-you-ll-never]]>
+		</link>
+		<description>
+	    <![CDATA["Walk on with hope in your heart, 
+and you'll never walk alone" -- Shah Rukh Khan]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

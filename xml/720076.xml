@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/720076-liza]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/720076-liza" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 28 Jun 2009 21:04:11 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/173804-win-or-lose-the-crows-always-laughed--the-hard-old-jaded</guid>
+		<pubDate>Sun, 28 Jun 2009 21:04:11 -0700</pubDate>
+		<title>
+			<![CDATA[Liza add a quote by Ken Kesey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/173804-win-or-lose-the-crows-always-laughed--the-hard-old-jaded]]>
+		</link>
+		<description>
+	    <![CDATA["Win or lose, the crows always laughed--the hard, old jaded laughter that came of looking at the world with a black and practiced eye. From the less skillful the laugh might have hinted of despair, or silliness, like the magpies', but the crows were masters of the wry outlook, and Viv never heard them but what she followed their expert lead and laughed along--they knew the secret of black, that it could not be made blacker, and if neither could it be made lighter, it could still be made funnier." -- Ken Kesey]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/80688-a-venturesome-minority-will-always-be-eager-to-set-off</guid>
+		<pubDate>Sun, 29 Jan 2012 14:54:15 -0800</pubDate>
+		<title>
+			<![CDATA[Liza add a quote by Edward Abbey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/80688-a-venturesome-minority-will-always-be-eager-to-set-off]]>
+		</link>
+		<description>
+	    <![CDATA["A venturesome minority will always be eager to set off on their own, and no obstacles should be placed in their path; let them take risks, for godsake, let them get lost, sunburnt, stranded, drowned, eaten by bears, buried alive under avalanches - that is the right and privilege of any free American." -- Edward Abbey]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

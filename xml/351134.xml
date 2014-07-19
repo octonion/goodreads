@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/351134-meghan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/351134-meghan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 01 Aug 2011 19:18:27 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/156835-we-cannot-live-only-for-ourselves-a-thousand-fibers-connect</guid>
+		<pubDate>Mon, 01 Aug 2011 19:18:27 -0700</pubDate>
+		<title>
+			<![CDATA[Meghan add a quote by Herman Melville]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/156835-we-cannot-live-only-for-ourselves-a-thousand-fibers-connect]]>
+		</link>
+		<description>
+	    <![CDATA["We cannot live only for ourselves. A thousand fibers connect us with our fellow men; and among those fibers, as sympathetic threads, our actions run as causes, and they come back to us as effects." -- Herman Melville]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

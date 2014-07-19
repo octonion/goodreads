@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/715058-jeremy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/715058-jeremy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 31 Jan 2012 11:19:24 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/7603-if-i-were-not-a-physicist-i-would-probably-be</guid>
+		<pubDate>Tue, 31 Jan 2012 11:19:24 -0800</pubDate>
+		<title>
+			<![CDATA[Jeremy add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7603-if-i-were-not-a-physicist-i-would-probably-be]]>
+		</link>
+		<description>
+	    <![CDATA["If I were not a physicist, I would probably be a musician. I often think in music. I live my daydreams in music. I see my life in terms of music." -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/120016-beethoven-tells-you-what-it-s-like-to-be-beethoven-and</guid>
+		<pubDate>Tue, 31 Jan 2012 11:19:44 -0800</pubDate>
+		<title>
+			<![CDATA[Jeremy add a quote by Douglas Adams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/120016-beethoven-tells-you-what-it-s-like-to-be-beethoven-and]]>
+		</link>
+		<description>
+	    <![CDATA["Beethoven tells you what it's like to be Beethoven and Mozart tells you what it's like to be human. Bach tells you what it's like to be the universe." -- Douglas Adams]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/67863-i-haven-t-understood-a-bar-of-music-in-my-life</guid>
+		<pubDate>Tue, 31 Jan 2012 11:19:46 -0800</pubDate>
+		<title>
+			<![CDATA[Jeremy add a quote by Igor Stravinsky]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/67863-i-haven-t-understood-a-bar-of-music-in-my-life]]>
+		</link>
+		<description>
+	    <![CDATA["I haven't understood a bar of music in my life, but I have felt it." -- Igor Stravinsky]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

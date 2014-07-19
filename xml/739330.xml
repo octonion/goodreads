@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/739330-leeann]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/739330-leeann" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 17 Nov 2012 07:58:30 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/220508-books-are-no-more-threatened-by-kindle-than-stairs-by</guid>
+		<pubDate>Sat, 17 Nov 2012 07:58:30 -0800</pubDate>
+		<title>
+			<![CDATA[LeeAnn add a quote by Stephen Fry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/220508-books-are-no-more-threatened-by-kindle-than-stairs-by]]>
+		</link>
+		<description>
+	    <![CDATA["Books are no more threatened by Kindle than stairs by elevators." -- Stephen Fry]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/224868-you-are-who-you-are-when-nobody-s-watching</guid>
+		<pubDate>Sat, 17 Nov 2012 07:58:34 -0800</pubDate>
+		<title>
+			<![CDATA[LeeAnn add a quote by Stephen Fry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/224868-you-are-who-you-are-when-nobody-s-watching]]>
+		</link>
+		<description>
+	    <![CDATA["You are who you are when nobody's watching." -- Stephen Fry]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/14462-an-original-idea-that-can-t-be-too-hard-the-library</guid>
+		<pubDate>Sat, 17 Nov 2012 07:58:36 -0800</pubDate>
+		<title>
+			<![CDATA[LeeAnn add a quote by Stephen Fry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14462-an-original-idea-that-can-t-be-too-hard-the-library]]>
+		</link>
+		<description>
+	    <![CDATA["An original idea. That can't be too hard. The library must be full of them." -- Stephen Fry]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

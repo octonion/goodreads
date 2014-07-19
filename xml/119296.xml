@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/119296-barbara]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/119296-barbara" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 16 Dec 2008 19:40:38 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/25884-housework-is-a-treadmill-from-futility-to-oblivion-with-stop-offs</guid>
+		<pubDate>Tue, 16 Dec 2008 19:40:38 -0800</pubDate>
+		<title>
+			<![CDATA[Barbara add a quote by Erma Bombeck]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/25884-housework-is-a-treadmill-from-futility-to-oblivion-with-stop-offs]]>
+		</link>
+		<description>
+	    <![CDATA["Housework is a treadmill from futility to oblivion with stop-offs at tedium and counter productivity." -- Erma Bombeck]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/27432-when-a-child-is-locked-in-the-bathroom-with-water</guid>
+		<pubDate>Tue, 16 Dec 2008 19:41:47 -0800</pubDate>
+		<title>
+			<![CDATA[Barbara add a quote by Erma Bombeck]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/27432-when-a-child-is-locked-in-the-bathroom-with-water]]>
+		</link>
+		<description>
+	    <![CDATA["When a child is locked in the bathroom with water running and he says he's doing nothing but the dog is barking, call 911. " -- Erma Bombeck]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/27433-thanks-to-my-mother-not-a-single-cardboard-box-has</guid>
+		<pubDate>Tue, 16 Dec 2008 19:43:01 -0800</pubDate>
+		<title>
+			<![CDATA[Barbara add a quote by Erma Bombeck]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/27433-thanks-to-my-mother-not-a-single-cardboard-box-has]]>
+		</link>
+		<description>
+	    <![CDATA["Thanks to my mother, not a single cardboard box has found its way back into society. We receive gifts in boxes from stores that went out of business twenty years ago." -- Erma Bombeck]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

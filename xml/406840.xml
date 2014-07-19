@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/406840-roger]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/406840-roger" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 12 May 2011 19:52:15 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/40073-one-sad-thing-about-this-world-is-that-the-acts</guid>
+		<pubDate>Thu, 12 May 2011 19:52:15 -0700</pubDate>
+		<title>
+			<![CDATA[Roger add a quote by Anne Tyler]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/40073-one-sad-thing-about-this-world-is-that-the-acts]]>
+		</link>
+		<description>
+	    <![CDATA["One sad thing about this world is that the acts that take the most out of you are usually the ones that people will never know about.
+
+(from 'Celestial Navigation')" -- Anne Tyler]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

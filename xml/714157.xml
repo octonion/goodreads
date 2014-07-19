@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/714157-mario]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/714157-mario" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 09 Sep 2013 06:37:38 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/58580-the-high-school-english-teacher-will-be-fulfilling-his-responsibility-if</guid>
+		<pubDate>Mon, 09 Sep 2013 06:37:38 -0700</pubDate>
+		<title>
+			<![CDATA[Mario add a quote by Flannery O'Connor]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/58580-the-high-school-english-teacher-will-be-fulfilling-his-responsibility-if]]>
+		</link>
+		<description>
+	    <![CDATA["The high-school English teacher will be fulfilling his responsibility if he furnishes the student a guided opportunity, through the best writing of the past, to come, in time, to an understanding of the best writing of the present. He will teach literature, not social studies or little lessons in democracy or the customs of many lands. And if the student finds that this is not to his taste? Well, that is regrettable. Most regrettable. His taste should not be consulted; it is being formed." -- Flannery O'Connor]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

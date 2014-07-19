@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/778342-benjamin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/778342-benjamin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 17 Jan 2008 23:05:07 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6359-a-truly-great-book-should-be-read-in-youth-again</guid>
+		<pubDate>Thu, 17 Jan 2008 23:05:07 -0800</pubDate>
+		<title>
+			<![CDATA[Benjamin add a quote by Robertson Davies]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6359-a-truly-great-book-should-be-read-in-youth-again]]>
+		</link>
+		<description>
+	    <![CDATA["A truly great book should be read in youth, again in maturity and once more in old age, as a fine building should be seen by morning light, at noon and by moonlight." -- Robertson Davies]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/19003-i-like-to-eat-crawfish-and-drink-beer-that-s-despair</guid>
+		<pubDate>Mon, 24 Mar 2008 21:48:25 -0700</pubDate>
+		<title>
+			<![CDATA[Benjamin add a quote by Walker Percy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/19003-i-like-to-eat-crawfish-and-drink-beer-that-s-despair]]>
+		</link>
+		<description>
+	    <![CDATA["I like to eat crawfish and drink beer. That's despair?" -- Walker Percy]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

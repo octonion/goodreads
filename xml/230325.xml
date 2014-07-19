@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/230325-jessie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/230325-jessie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 22 Jan 2013 19:36:14 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/553121-i-have-nothing-now-but-praise-for-my-life-i-m</guid>
+		<pubDate>Tue, 22 Jan 2013 19:36:14 -0800</pubDate>
+		<title>
+			<![CDATA[Jessie add a quote by Maurice Sendak]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/553121-i-have-nothing-now-but-praise-for-my-life-i-m]]>
+		</link>
+		<description>
+	    <![CDATA["I have nothing now but praise for my life. I'm not unhappy. I cry a lot because I miss people. They die and I can't stop them. They leave me and I love them more...What I dread is the isolation. ... There are so many beautiful things in the world which I will have to leave when I die, but I'm ready, I'm ready, I'm ready." -- Maurice Sendak]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

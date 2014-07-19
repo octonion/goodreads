@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/200154-alex]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/200154-alex" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 29 Mar 2008 07:43:51 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6726-people-who-love-horror-films-are-people-with-boring-lives</guid>
+		<pubDate>Sat, 29 Mar 2008 07:43:51 -0700</pubDate>
+		<title>
+			<![CDATA[Alex add a quote by Ryu Murakami]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6726-people-who-love-horror-films-are-people-with-boring-lives]]>
+		</link>
+		<description>
+	    <![CDATA["People who love horror films are people with boring lives... when a really scary movie is over, you're reassured to see that you're still alive and the world still exists as it did before. That's the real reason we have horror films - they act as shock absorbers - and if they disappeared altogether, I bet you'd see a big leap in the number of serial killers. After all, anyone stupid enough to get the idea of murdering people from a movie could get the same idea from watching the news." -- Ryu Murakami]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/20047-in-the-very-depths-of-hell-do-not-demons-love</guid>
+		<pubDate>Sat, 29 Mar 2008 07:46:27 -0700</pubDate>
+		<title>
+			<![CDATA[Alex add a quote by Anne Rice]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20047-in-the-very-depths-of-hell-do-not-demons-love]]>
+		</link>
+		<description>
+	    <![CDATA["In the very depths of Hell, do not demons love one another?" -- Anne Rice]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

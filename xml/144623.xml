@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/144623-alex-naidus]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/144623-alex-naidus" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 02 Jan 2014 10:26:21 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/979717-miscavige-keeps-a-number-of-dogs-including-five-beagles-he</guid>
+		<pubDate>Thu, 02 Jan 2014 10:26:21 -0800</pubDate>
+		<title>
+			<![CDATA[Alex add a quote by Lawrence Wright]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/979717-miscavige-keeps-a-number-of-dogs-including-five-beagles-he]]>
+		</link>
+		<description>
+	    <![CDATA["Miscavige keeps a number of dogs, including five beagles. He had blue vests made up for each of them, with four stripes on the shoulder epaulets, indicating the rank of Sea Org Captain. He insists that people salute the dogs as they parade by. The dogs have a mini-treadmill where they work out." -- Lawrence Wright]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1042694-william]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1042694-william" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 Apr 2008 13:04:41 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/40557-something-went-klunk-like-a-nickel-dropping-in-a-soda</guid>
+		<pubDate>Tue, 01 Apr 2008 13:04:41 -0700</pubDate>
+		<title>
+			<![CDATA[William add a quote by David Gerrold]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/40557-something-went-klunk-like-a-nickel-dropping-in-a-soda]]>
+		</link>
+		<description>
+	    <![CDATA["Something went klunk. Like a nickel dropping in a soda machine. One of those small insights that explains everything. This was puberty for these boys. Adolescence. The first date, the first kiss, the first chance to hold hands with someone special. Delayed, postponed, a decade's worth of longing--while everybody around you celebrates life, you pretend, suppress, inhibit, deprive yourself of you own joy--but finally ultimately, eventually, you find a place where you can have a taste of everything denied." -- David Gerrold]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

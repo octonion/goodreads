@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/150671-mike]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/150671-mike" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 03 Dec 2008 16:40:16 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/105940-we-all-have-that-heritage-no-matter-what-old-land</guid>
+		<pubDate>Wed, 03 Dec 2008 16:40:16 -0800</pubDate>
+		<title>
+			<![CDATA[Mike add a quote by John Steinbeck]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/105940-we-all-have-that-heritage-no-matter-what-old-land]]>
+		</link>
+		<description>
+	    <![CDATA["We all have that heritage, no matter what old land our fathers left. All colors and blends of Americans have somewhat the same tendencies. It's a breed - selected out by accident. And so we're overbrave and overfearful - we're kind and cruel as children. We're overfriendly and at the same time frightened of strangers. We boast and are impressed. We're oversentimental and realistic. We are mundane and materialistic - and do you know of any other nation that acts for ideals? We eat too much. We have no taste, no sense of proportion. We throw our energy about like waste. In the old lands they say of us that we go from barbarism to decadence without an intervening culture. Can it be that our critics have not the key or the language of our culture." -- John Steinbeck]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/9131-if-you-tell-the-truth-you-don-t-have-to-remember</guid>
+		<pubDate>Wed, 03 Dec 2008 16:42:02 -0800</pubDate>
+		<title>
+			<![CDATA[Mike add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9131-if-you-tell-the-truth-you-don-t-have-to-remember]]>
+		</link>
+		<description>
+	    <![CDATA["If you tell the truth, you don't have to remember anything." -- Mark Twain]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

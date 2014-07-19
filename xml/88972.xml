@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/88972-raina-lie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/88972-raina-lie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 26 Feb 2009 13:50:25 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/13715-some-books-should-be-tasted-some-devoured-but-only-a</guid>
+		<pubDate>Thu, 26 Feb 2009 13:50:25 -0800</pubDate>
+		<title>
+			<![CDATA[Raina add a quote by Sir Francis Bacon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13715-some-books-should-be-tasted-some-devoured-but-only-a]]>
+		</link>
+		<description>
+	    <![CDATA["Some books should be tasted, some devoured, but only a few should be chewed and digested thoroughly." -- Sir Francis Bacon]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/20928-who-are-you-to-judge-the-life-i-live-i</guid>
+		<pubDate>Wed, 06 Mar 2013 05:38:25 -0800</pubDate>
+		<title>
+			<![CDATA[Raina add a quote by Bob Marley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20928-who-are-you-to-judge-the-life-i-live-i]]>
+		</link>
+		<description>
+	    <![CDATA["Who are you to judge the life I live?
+I know I'm not perfect
+-and I don't live to be-
+but before you start pointing fingers...
+make sure you hands are clean!" -- Bob Marley]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/8154-biology-gives-you-a-brain-life-turns-it-into-a</guid>
+		<pubDate>Sat, 08 Mar 2014 02:08:48 -0800</pubDate>
+		<title>
+			<![CDATA[Raina add a quote by Jeffrey Eugenides]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8154-biology-gives-you-a-brain-life-turns-it-into-a]]>
+		</link>
+		<description>
+	    <![CDATA["Biology gives you a brain. Life turns it into a mind." -- Jeffrey Eugenides]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

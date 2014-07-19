@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/528508-matt]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/528508-matt" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 15 Feb 2013 10:31:42 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/309457-if-you-want-to-get-people-to-believe-something-really</guid>
+		<pubDate>Fri, 15 Feb 2013 10:31:42 -0800</pubDate>
+		<title>
+			<![CDATA[Matt add a quote by Charles Seife]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/309457-if-you-want-to-get-people-to-believe-something-really]]>
+		</link>
+		<description>
+	    <![CDATA["If you want to get people to believe something really, really stupid, just stick a number on it." -- Charles Seife]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/18897-when-people-talk-listen-completely-most-people-never-listen</guid>
+		<pubDate>Fri, 22 Nov 2013 20:04:47 -0800</pubDate>
+		<title>
+			<![CDATA[Matt add a quote by Ernest Hemingway]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18897-when-people-talk-listen-completely-most-people-never-listen]]>
+		</link>
+		<description>
+	    <![CDATA["When people talk, listen completely. Most people never listen." -- Ernest Hemingway]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/70260-there-s-a-lot-of-difference-between-listening-and-hearing</guid>
+		<pubDate>Fri, 22 Nov 2013 20:05:05 -0800</pubDate>
+		<title>
+			<![CDATA[Matt add a quote by G. K. Chesterton]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/70260-there-s-a-lot-of-difference-between-listening-and-hearing]]>
+		</link>
+		<description>
+	    <![CDATA["There's a lot of difference between listening and hearing." -- G. K. Chesterton]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/204685-we-have-two-ears-and-only-one-tongue-in-order</guid>
+		<pubDate>Fri, 22 Nov 2013 20:05:39 -0800</pubDate>
+		<title>
+			<![CDATA[Matt add a quote by Diogenes Laertius]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/204685-we-have-two-ears-and-only-one-tongue-in-order]]>
+		</link>
+		<description>
+	    <![CDATA["We have two ears and only one tongue in order that we may hear more and speak less." -- Diogenes Laertius]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/754508-rita]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/754508-rita" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 08 Mar 2013 08:36:36 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2229-to-be-hopeful-in-bad-times-is-not-just-foolishly</guid>
+		<pubDate>Fri, 08 Mar 2013 08:36:36 -0800</pubDate>
+		<title>
+			<![CDATA[Rita add a quote by Howard Zinn]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2229-to-be-hopeful-in-bad-times-is-not-just-foolishly]]>
+		</link>
+		<description>
+	    <![CDATA["TO BE HOPEFUL in bad times is not just foolishly romantic. It is based on the fact that human history is a history not only of cruelty, but also of compassion, sacrifice, courage, kindness.
+What we choose to emphasize in this complex history will determine our lives. If we see only the worst, it destroys our capacity to do something. If we remember those times and places—and there are so many—where people have behaved magnificently, this gives us the energy to act, and at least the possibility of sending this spinning top of a world in a different direction.
+And if we do act, in however small a way, we don’t have to wait for some grand utopian future. The future is an infinite succession of presents, and to live now as we think human beings should live, in defiance of all that is bad around us, is itself a marvelous victory." -- Howard Zinn]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

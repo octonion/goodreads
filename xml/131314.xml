@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/131314-danica]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/131314-danica" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 13 Mar 2014 11:44:37 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1127076-he-looks-like-a-mixture-of-humpty-dumpty-and-a-cornish</guid>
+		<pubDate>Thu, 13 Mar 2014 11:44:37 -0700</pubDate>
+		<title>
+			<![CDATA[Danica add a quote by John le Carré]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1127076-he-looks-like-a-mixture-of-humpty-dumpty-and-a-cornish]]>
+		</link>
+		<description>
+	    <![CDATA["...he looks like a mixture of Humpty-Dumpty and a Cornish elf -- very short and broad -- and I don't think he's anyone's fool." -- John le Carré]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/457560-survival-is-an-infinite-capacity-for-suspicion</guid>
+		<pubDate>Thu, 13 Mar 2014 11:52:16 -0700</pubDate>
+		<title>
+			<![CDATA[Danica add a quote by John le Carré]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/457560-survival-is-an-infinite-capacity-for-suspicion]]>
+		</link>
+		<description>
+	    <![CDATA["Survival...is an infinite capacity for suspicion." -- John le Carré]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/196553-adam]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/196553-adam" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 02 Apr 2012 00:18:22 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/37346-then-life-began-and-since-then-we</guid>
+		<pubDate>Mon, 02 Apr 2012 00:18:22 -0700</pubDate>
+		<title>
+			<![CDATA[Adam add a quote by Nigel Davis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/37346-then-life-began-and-since-then-we]]>
+		</link>
+		<description>
+	    <![CDATA[". . . then life began, and since then we remember each dumpster, abandoned house, and foot-chase by retail security. At night, after running around, plotting and scheming, our checklist items all crossed out, we paused to think — 'What to do tomorrow?' and the answer was always, 'As we please . . ." -- Nigel Davis]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/37343-it-is-from-the-bible-that-man-has-learned-cruelty</guid>
+		<pubDate>Mon, 02 Apr 2012 00:19:18 -0700</pubDate>
+		<title>
+			<![CDATA[Adam add a quote by Thomas Paine]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/37343-it-is-from-the-bible-that-man-has-learned-cruelty]]>
+		</link>
+		<description>
+	    <![CDATA["It is from the Bible that man has learned cruelty, rapine, and murder; for the belief of a cruel God makes a cruel man." -- Thomas Paine]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

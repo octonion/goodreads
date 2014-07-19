@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/895574-pam-schossau]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/895574-pam-schossau" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 17 Sep 2012 07:07:50 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/453635-as-a-professor-in-two-fields-neurology-and-psychiatry-i</guid>
+		<pubDate>Mon, 17 Sep 2012 07:07:50 -0700</pubDate>
+		<title>
+			<![CDATA[Pam add a quote by Viktor Emil Frankl]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/453635-as-a-professor-in-two-fields-neurology-and-psychiatry-i]]>
+		</link>
+		<description>
+	    <![CDATA["As a professor in two fields, neurology and psychiatry, I am fully aware of the extent to which man is subject to biological, psychological and sociological conditions. But in addition to being a professor in two fields I am a survivor of four camps - concentration camps, that is - and as such I also bear witness to the unexpected extent to which man is capable of defying and braving even the worst conditions conceivable." -- Viktor Emil Frankl]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

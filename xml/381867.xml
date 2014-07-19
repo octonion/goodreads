@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/381867-helen-callaghan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/381867-helen-callaghan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 22 Jun 2013 16:02:59 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/178199-mephistopheles-within-the-bowels-of-these-elements-where-we-are</guid>
+		<pubDate>Sat, 22 Jun 2013 16:02:59 -0700</pubDate>
+		<title>
+			<![CDATA[Helen add a quote by Christopher Marlowe]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/178199-mephistopheles-within-the-bowels-of-these-elements-where-we-are]]>
+		</link>
+		<description>
+	    <![CDATA["Mephistopheles: Within the bowels of these elements,
+Where we are tortured and remain forever.
+Hell hath no limits, nor is circumscribed
+In one self place, for where we are is hell,
+And where hell is must we ever be.
+And, to conclude, when all the world dissolves,
+And every creature shall be purified,
+All places shall be hell that is not heaven." -- Christopher Marlowe]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

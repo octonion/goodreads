@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/731222-mary]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/731222-mary" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 17 Sep 2013 11:57:50 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/118711-incredible-shame-is-associated-with-mental-illness-people-will-confide</guid>
+		<pubDate>Tue, 17 Sep 2013 11:57:50 -0700</pubDate>
+		<title>
+			<![CDATA[Mary add a quote by Candace Pert]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/118711-incredible-shame-is-associated-with-mental-illness-people-will-confide]]>
+		</link>
+		<description>
+	    <![CDATA["Incredible shame is associated with mental illness. People will confide the most intimate details of their love life before they'll mention a relative who had a serious mental breakdown. But the brain is just another organ. It's just a machine, and a machine can go wrong." -- Candace Pert]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

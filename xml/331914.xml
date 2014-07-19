@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/331914-kala]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/331914-kala" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 05 Apr 2009 12:43:20 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2792-and-so-it-goes</guid>
+		<pubDate>Sun, 05 Apr 2009 12:43:20 -0700</pubDate>
+		<title>
+			<![CDATA[Kala add a quote by Kurt Vonnegut]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2792-and-so-it-goes]]>
+		</link>
+		<description>
+	    <![CDATA["And so it goes..." -- Kurt Vonnegut]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/157356-a-person-who-has-good-thoughts-cannot-ever-be-ugly</guid>
+		<pubDate>Sun, 15 Jan 2012 10:08:17 -0800</pubDate>
+		<title>
+			<![CDATA[Kala add a quote by Roald Dahl]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/157356-a-person-who-has-good-thoughts-cannot-ever-be-ugly]]>
+		</link>
+		<description>
+	    <![CDATA["A person who has good thoughts cannot ever be ugly. You can have a wonky nose and a crooked mouth and a double chin and stick-out teeth, but if you have good thoughts they will shine out of your face like sunbeams and you will always look lovely." -- Roald Dahl]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/485442-as-he-read-i-fell-in-love-the-way-you</guid>
+		<pubDate>Wed, 30 Jan 2013 07:28:01 -0800</pubDate>
+		<title>
+			<![CDATA[Kala add a quote by John Green]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/485442-as-he-read-i-fell-in-love-the-way-you]]>
+		</link>
+		<description>
+	    <![CDATA["As he read, I fell in love the way you fall asleep: slowly, and then all at once." -- John Green]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

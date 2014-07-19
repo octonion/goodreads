@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/862133-ant]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/862133-ant" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 02 Feb 2008 15:27:14 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/352-outside-of-a-dog-a-book-is-man-s-best-friend</guid>
+		<pubDate>Sat, 02 Feb 2008 15:27:14 -0800</pubDate>
+		<title>
+			<![CDATA[Ant add a quote by Groucho Marx]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/352-outside-of-a-dog-a-book-is-man-s-best-friend]]>
+		</link>
+		<description>
+	    <![CDATA["Outside of a dog, a book is man's best friend. Inside of a dog it's too dark to read." -- Groucho Marx]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6249-all-of-us-have-a-place-in-history-mine-is</guid>
+		<pubDate>Sun, 03 Feb 2008 17:57:30 -0800</pubDate>
+		<title>
+			<![CDATA[Ant add a quote by richard brautigan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6249-all-of-us-have-a-place-in-history-mine-is]]>
+		</link>
+		<description>
+	    <![CDATA["all of us have a place in history. mine is clouds." -- richard brautigan]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/151588-i-was-anti-everything-and-everyone-i-didn-t-want-people-around</guid>
+		<pubDate>Sun, 14 Jun 2009 16:57:31 -0700</pubDate>
+		<title>
+			<![CDATA[Ant add a quote by Irvine Welsh]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/151588-i-was-anti-everything-and-everyone-i-didn-t-want-people-around]]>
+		</link>
+		<description>
+	    <![CDATA["I was anti-everything and everyone.  I didn't want people around me.  This aversion was not some big crippling anxiety; merely a mature recognition of my own psychological vulnerability and my lack of suitability as a companion.  Thoughts jostled for space in my crowded brain as i struggled to give them some order which might serve to motivate my listless life." -- Irvine Welsh]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

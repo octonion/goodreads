@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/173889-joanna-vaught]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/173889-joanna-vaught" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 26 Jul 2010 19:44:20 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/281112-i-had-a-lot-of-disasters-in-the-kitchen-even</guid>
+		<pubDate>Mon, 26 Jul 2010 19:44:20 -0700</pubDate>
+		<title>
+			<![CDATA[Joanna add a quote by Michael Chabon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/281112-i-had-a-lot-of-disasters-in-the-kitchen-even]]>
+		</link>
+		<description>
+	    <![CDATA["I had a lot of disasters in the kitchen, even during the long period when I was cooking under my mother's supervision and with the benefit of her experience. I still fail all the time, in particular when I turn to baking. After hundreds of attempts, following dozens of different formulas, I don't think I have ever made what I would consider to be a completely successful pie crust. Disaster is somehow part of the appeal of cooking for me. If that first Velvet Crumb Cake had turned out to be a flop, I don't know if I would have pursued my interest in cooking. But cooking entails stubbornness and a tolerance--maybe even a taste--for last-minute collapse. You have to be able to enjoy the repeated and deliberate following of a more of less lengthy, more or less complicated series of steps whose product is very likely--after all that work, with no warning, right at the end--to curdle, sink, scorch, dry up, congeal, burn, or simply taste bad." -- Michael Chabon]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

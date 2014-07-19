@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/959617-brett-lyman]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/959617-brett-lyman" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 07 May 2008 07:09:12 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/52009-a-man-traveling-across-a-field-encountered-a-tiger-he</guid>
+		<pubDate>Wed, 07 May 2008 07:09:12 -0700</pubDate>
+		<title>
+			<![CDATA[Brett add a quote by Buddha]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/52009-a-man-traveling-across-a-field-encountered-a-tiger-he]]>
+		</link>
+		<description>
+	    <![CDATA["A man traveling across a field encountered a tiger. He fled, the tiger after him. Coming to a precipice, he caught hold of the root of a wild vine and swung himself down over the edge. The tiger sniffed at him from above. Trembling, the man looked down to where, far below, another tiger was waiting to eat him. Only the vine sustained him.
+
+Two mice, one white and one black, little by little started to gnaw away the vine. The man saw a luscious strawberry near him. Grasping the vine with one hand, he plucked the strawberry with the other. How sweet it tasted! " -- Buddha]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/202897-scott]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/202897-scott" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 17 Sep 2008 11:11:12 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/98040-society-is-always-has-been-and-always-will-be-a</guid>
+		<pubDate>Wed, 17 Sep 2008 11:11:12 -0700</pubDate>
+		<title>
+			<![CDATA[Scott add a quote by Richard Morgan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/98040-society-is-always-has-been-and-always-will-be-a]]>
+		</link>
+		<description>
+	    <![CDATA["Society is, always has been and always will be a structure for the exploitation and oppression of the majority through systems of political force dictated by an élite, enforced by thugs, uniformed or not, and upheld by a willful ignorance and stupidity on the part of the very majority whom the system oppresses." -- Richard Morgan]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

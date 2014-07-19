@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/267653-holdan29]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/267653-holdan29" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 30 Apr 2008 06:43:10 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/18459-it-doesn-t-pay-to-get-discouraged-keeping-busy-and-making</guid>
+		<pubDate>Wed, 30 Apr 2008 06:43:10 -0700</pubDate>
+		<title>
+			<![CDATA[Holdan29 add a quote by Lucille Ball]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18459-it-doesn-t-pay-to-get-discouraged-keeping-busy-and-making]]>
+		</link>
+		<description>
+	    <![CDATA["It doesn't pay to get discouraged. Keeping busy and making optismism a way of life can restore your faith in yourself" -- Lucille Ball]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/32943-i-d-rather-regret-the-things-i-have-done-than-the</guid>
+		<pubDate>Wed, 30 Apr 2008 06:43:16 -0700</pubDate>
+		<title>
+			<![CDATA[Holdan29 add a quote by Lucille Ball]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/32943-i-d-rather-regret-the-things-i-have-done-than-the]]>
+		</link>
+		<description>
+	    <![CDATA["I'd rather regret the things I have done than the things that I haven't." -- Lucille Ball]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

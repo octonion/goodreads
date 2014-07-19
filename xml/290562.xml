@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/290562-tami]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/290562-tami" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 21 Jan 2011 21:27:52 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/50136-read-every-day-something-no-one-else-is-reading-think</guid>
+		<pubDate>Fri, 21 Jan 2011 21:27:52 -0800</pubDate>
+		<title>
+			<![CDATA[Tami add a quote by Christopher Morley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/50136-read-every-day-something-no-one-else-is-reading-think]]>
+		</link>
+		<description>
+	    <![CDATA["Read, every day, something no one else is reading. Think, every day, something no one else is thinking. Do, every day, something no one else would be silly enough to do. It is bad for the mind to be always part of unanimity." -- Christopher Morley]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

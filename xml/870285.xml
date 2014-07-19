@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/870285-margaret-oneal]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/870285-margaret-oneal" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 03 Feb 2008 14:44:35 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/10188-in-the-face-of-impossible-odds-people-who-love-this</guid>
+		<pubDate>Sun, 03 Feb 2008 14:44:35 -0800</pubDate>
+		<title>
+			<![CDATA[Margaret add a quote by Barack Obama]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10188-in-the-face-of-impossible-odds-people-who-love-this]]>
+		</link>
+		<description>
+	    <![CDATA["In the face of impossible odds, people who love this country can change it." -- Barack Obama]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1260-process-as-process-is-neither-morally-good-nor-morally-bad</guid>
+		<pubDate>Sun, 03 Feb 2008 14:46:38 -0800</pubDate>
+		<title>
+			<![CDATA[Margaret add a quote by Robert Penn Warren]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1260-process-as-process-is-neither-morally-good-nor-morally-bad]]>
+		</link>
+		<description>
+	    <![CDATA["Process as process is neither morally good nor morally bad.  We may judge results but not process.  The morally bad agent may perform the deed which is good.  The morally good agent may perform the deed which is bad.  Maybe a man has to sell his soul to get the power to do good." -- Robert Penn Warren]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/21010-to-fred-those-years-seemed-to-pass-like-quickly-skimming</guid>
+		<pubDate>Sun, 03 Feb 2008 14:51:34 -0800</pubDate>
+		<title>
+			<![CDATA[Margaret add a quote by Sarah Addison Allen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21010-to-fred-those-years-seemed-to-pass-like-quickly-skimming]]>
+		</link>
+		<description>
+	    <![CDATA["To Fred, those years seemed to pass like quickly skimming a book and then finding the ending wasn't what he expected.  He wished he'd paid more attention to the story." -- Sarah Addison Allen]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

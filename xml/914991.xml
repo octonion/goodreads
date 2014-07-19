@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/914991-maryjane-kasper]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/914991-maryjane-kasper" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 13 Apr 2014 10:48:49 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/362947-maybe-this-is-why-we-read-and-why-in-moments</guid>
+		<pubDate>Sun, 13 Apr 2014 10:48:49 -0700</pubDate>
+		<title>
+			<![CDATA[MaryJane add a quote by Alberto Manguel]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/362947-maybe-this-is-why-we-read-and-why-in-moments]]>
+		</link>
+		<description>
+	    <![CDATA["Maybe this is why we read, and why in moments of darkness we return to books: to find words for what we already know." -- Alberto Manguel]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

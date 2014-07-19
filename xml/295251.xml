@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/295251-alex]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/295251-alex" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 12 Dec 2012 05:59:41 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/408129-all-paths-are-the-same-they-lead-nowhere-does</guid>
+		<pubDate>Wed, 12 Dec 2012 05:59:41 -0800</pubDate>
+		<title>
+			<![CDATA[Alex add a quote by Carlos Castaneda]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/408129-all-paths-are-the-same-they-lead-nowhere-does]]>
+		</link>
+		<description>
+	    <![CDATA["All paths are the same: they lead nowhere. ... Does this path have a heart? If it does, the path is good; if it doesn't, it is of no use. Both paths lead nowhere; but one has a heart, the other doesn't. One makes for a joyful journey; as long as you follow it, you are one with it. The other will make you curse your life. One makes you strong; the other weakens you." -- Carlos Castaneda]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

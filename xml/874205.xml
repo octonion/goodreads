@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/874205-forest]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/874205-forest" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 22 Jan 2013 07:45:40 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/140057-you-ll-be-on-your-way-up-you-ll-be-seeing-great</guid>
+		<pubDate>Tue, 22 Jan 2013 07:45:40 -0800</pubDate>
+		<title>
+			<![CDATA[Forest add a quote by Dr. Seuss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/140057-you-ll-be-on-your-way-up-you-ll-be-seeing-great]]>
+		</link>
+		<description>
+	    <![CDATA["You'll be on your way up!
+You'll be seeing great sights!
+You'll join the high fliers
+who soar to high heights." -- Dr. Seuss]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/48823-catch-calls-the-once-ler-he-lets-something-fall-it-s-a</guid>
+		<pubDate>Tue, 22 Jan 2013 09:18:35 -0800</pubDate>
+		<title>
+			<![CDATA[Forest add a quote by Dr. Seuss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/48823-catch-calls-the-once-ler-he-lets-something-fall-it-s-a]]>
+		</link>
+		<description>
+	    <![CDATA["Catch! calls the Once-ler.
+He lets something fall.
+It's a Truffula Seed.
+It's the last one of all!
+You're in charge of the last of the Truffula Seeds.
+And Truffula Trees are what everyone needs.
+Plant a new Truffula. Treat it with care.
+Give it clean water. And feed it fresh air.
+Grow a forest. Protect it from axes that hack.
+Then the Lorax
+and all of his friends
+may come back." -- Dr. Seuss]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

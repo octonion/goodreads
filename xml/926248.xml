@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/926248-patrick]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/926248-patrick" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 16 Jun 2012 05:33:57 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/22237-mr-leopold-bloom-ate-with-relish-the-inner-organs-of</guid>
+		<pubDate>Sat, 16 Jun 2012 05:33:57 -0700</pubDate>
+		<title>
+			<![CDATA[Patrick add a quote by James Joyce]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22237-mr-leopold-bloom-ate-with-relish-the-inner-organs-of]]>
+		</link>
+		<description>
+	    <![CDATA["Mr Leopold Bloom ate with relish the inner organs of beasts and fowls. He liked thick giblet soup, nutty gizzards, a stuffed roast heart, liverslices fried with crustcrumbs, fried hencods' roes. Most of all he liked grilled mutton kidneys which gave to his palate a fine tang of faintly scented urine." -- James Joyce]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

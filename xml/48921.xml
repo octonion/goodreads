@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/48921-michael-stillwell]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/48921-michael-stillwell" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 23 Aug 2011 16:45:31 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/274201-i-have-never-seen-much-point-in-getting-heavy-with</guid>
+		<pubDate>Tue, 23 Aug 2011 16:45:31 -0700</pubDate>
+		<title>
+			<![CDATA[Michael add a quote by Hunter S. Thompson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/274201-i-have-never-seen-much-point-in-getting-heavy-with]]>
+		</link>
+		<description>
+	    <![CDATA["I have never seen much point in getting heavy with stupid people or Jesus freaks, just as long as they don't bother me. In a world as weird and cruel as this one we have made for ourselves, I figure anybody who can find peace and personal happiness without ripping off somebody else deserves to be left alone. They will not inherit the earth, but then neither will I... And I have learned to live, as it were, with the idea that I will never find peace and happiness, either. But as long as I know there's a pretty good chance I can get my hands on either one of them every once in a while, I do the best I can between high spots." -- Hunter S. Thompson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

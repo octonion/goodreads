@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/598748-ken-mixon]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/598748-ken-mixon" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 01 May 2014 08:52:38 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1194572-books-purchasable-at-low-cost-permit-us-to-interrogate-the</guid>
+		<pubDate>Thu, 01 May 2014 08:52:38 -0700</pubDate>
+		<title>
+			<![CDATA[Ken add a quote by Carl Sagan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1194572-books-purchasable-at-low-cost-permit-us-to-interrogate-the]]>
+		</link>
+		<description>
+	    <![CDATA["Books, purchasable at low cost, permit us to interrogate the past with high accuracy; to tap the wisdom of our species; to understand the point of view of others, and not just those in power; to contemplate—with the best teachers—the insights, painfully extracted from Nature, of the greatest minds that ever were, drawn from the entire planet and from all of our history. They allow people long dead to talk inside our heads. Books can accompany us everywhere. Books are patient where we are slow to understand, allow us to go over the hard parts as many times as we wish, and are never critical of our lapses. Books are key to understanding the world and participating in a democratic society." -- Carl Sagan]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

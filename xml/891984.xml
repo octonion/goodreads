@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/891984-norman]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/891984-norman" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 22 Mar 2008 04:41:50 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/37221-learning-is-a-deep-human-need-like-mating-and-eating</guid>
+		<pubDate>Sat, 22 Mar 2008 04:41:50 -0700</pubDate>
+		<title>
+			<![CDATA[norman add a quote by James Paul Gee]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/37221-learning-is-a-deep-human-need-like-mating-and-eating]]>
+		</link>
+		<description>
+	    <![CDATA["Learning is a deep human need, like mating and eating, and like all such needs it is meant to be deeply pleasurable to human beings." -- James Paul Gee]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/202188-omnis-natura-inquantum-natura-est-bonum-est</guid>
+		<pubDate>Sat, 04 Sep 2010 04:43:06 -0700</pubDate>
+		<title>
+			<![CDATA[norman add a quote by Saint Augustine of Hippo]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/202188-omnis-natura-inquantum-natura-est-bonum-est]]>
+		</link>
+		<description>
+	    <![CDATA["Omnis natura, inquantum natura est, bonum est." -- Saint Augustine of Hippo]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

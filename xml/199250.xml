@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/199250-tom-potter]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/199250-tom-potter" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 30 Dec 2012 17:04:14 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/177563-oh-if-only-it-were-possible-to-find-understanding-joseph</guid>
+		<pubDate>Sun, 30 Dec 2012 17:04:14 -0800</pubDate>
+		<title>
+			<![CDATA[Tom add a quote by Hermann Hesse]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/177563-oh-if-only-it-were-possible-to-find-understanding-joseph]]>
+		</link>
+		<description>
+	    <![CDATA["Oh, if only it were possible to find understanding,” Joseph exclaimed. “If only there were a dogma to believe in. Everything is contradictory, everything tangential; there are no certainties anywhere. Everything can be interpreted one way and then again interpreted in the opposite sense. The whole of world history can be explained as development and progress and can also be seen as nothing but decadence and meaninglessness. Isn’t there any truth? Is there no real and valid doctrine?”
+
+The master had never heard him speak so fervently. He walked on in silence for a little, then said: “There is truth, my boy. But the doctrine you desire, absolute, perfect dogma that alone provides wisdom, does not exist. Nor should you long for a perfect doctrine, my friend. Rather, you should long for the perfection of yourself. The deity is within you, not in ideas and books. Truth is lived, not taught. Be prepared for conflicts, Joseph Knecht - I can see that they already have begun." -- Hermann Hesse]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

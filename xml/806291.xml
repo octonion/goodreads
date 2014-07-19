@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/806291-gene-mayes]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/806291-gene-mayes" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 12 Dec 2011 22:34:07 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/16238-some-people-never-go-crazy-what-truly-horrible-lives-they</guid>
+		<pubDate>Mon, 12 Dec 2011 22:34:07 -0800</pubDate>
+		<title>
+			<![CDATA[Gene add a quote by Charles Bukowski]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16238-some-people-never-go-crazy-what-truly-horrible-lives-they]]>
+		</link>
+		<description>
+	    <![CDATA["Some people never go crazy. What truly horrible lives they must lead." -- Charles Bukowski]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/38091-artists-talk-a-lot-about-freedom-so-recalling-the-expression</guid>
+		<pubDate>Sun, 22 Jan 2012 05:54:41 -0800</pubDate>
+		<title>
+			<![CDATA[Gene add a quote by John Cage]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/38091-artists-talk-a-lot-about-freedom-so-recalling-the-expression]]>
+		</link>
+		<description>
+	    <![CDATA["Artists talk a lot about freedom. So, recalling the expression &quot;free as a bird,&quot; Morton Feldman went to a park one day and spent some time watching our feathered friends. When he came back, he said, &quot;You know? They're not free: they're fighting over bits of food." -- John Cage]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/764760-mike]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/764760-mike" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 16 May 2013 19:23:31 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/346133-heart-weeps-head-tries-to-help-heart-head-tells-heart</guid>
+		<pubDate>Thu, 16 May 2013 19:23:31 -0700</pubDate>
+		<title>
+			<![CDATA[Mike add a quote by Lydia Davis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/346133-heart-weeps-head-tries-to-help-heart-head-tells-heart]]>
+		</link>
+		<description>
+	    <![CDATA["Heart weeps.
+Head tries to help heart.
+Head tells heart how it is, again:
+You will lose the ones you love. They will all go. But even the earth will go, someday.
+Heart feels better, then.
+But the words of head do not remain long in the ears of heart.
+Heart is so new to this.
+I want them back, says heart.
+Head is all heart has.
+Help, head. Help heart." -- Lydia Davis]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

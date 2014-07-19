@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/579176-kathy-quinney]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/579176-kathy-quinney" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 08 Oct 2008 10:29:12 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/23380-if-we-have-no-peace-it-is-because-we-have</guid>
+		<pubDate>Wed, 08 Oct 2008 10:29:12 -0700</pubDate>
+		<title>
+			<![CDATA[Kathy add a quote by Mother Teresa]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/23380-if-we-have-no-peace-it-is-because-we-have]]>
+		</link>
+		<description>
+	    <![CDATA["If we have no peace, it is because we have forgotten that we belong to each other." -- Mother Teresa]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/63161-without-love-there-is-no-reason-to-know-anyone-for</guid>
+		<pubDate>Fri, 13 Jun 2008 19:38:49 -0700</pubDate>
+		<title>
+			<![CDATA[Kathy add a quote by Martin Luther King Jr.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/63161-without-love-there-is-no-reason-to-know-anyone-for]]>
+		</link>
+		<description>
+	    <![CDATA["Without love, there is no reason to know anyone, for love will in the end connect us to our neighbors, our children and our hearts." -- Martin Luther King Jr.]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/63162-it-is-this-broken-road-with-pitfalls-and-sharp-turns</guid>
+		<pubDate>Fri, 13 Jun 2008 19:40:10 -0700</pubDate>
+		<title>
+			<![CDATA[Kathy add a quote by Alice Walker]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/63162-it-is-this-broken-road-with-pitfalls-and-sharp-turns]]>
+		</link>
+		<description>
+	    <![CDATA["it is this broken road with pitfalls and sharp turns and unexpected traverses that has brought me joy and adventure. " -- Alice Walker]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/976340-abby]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/976340-abby" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 30 Dec 2013 23:31:43 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/976961-to-make-eating-functional-allow-yourself-to-eat-what-you</guid>
+		<pubDate>Mon, 30 Dec 2013 23:31:43 -0800</pubDate>
+		<title>
+			<![CDATA[Abby add a quote by Robin Phipps Woodall]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/976961-to-make-eating-functional-allow-yourself-to-eat-what-you]]>
+		</link>
+		<description>
+	    <![CDATA["To make eating functional, allow yourself to eat what you want without judgment, and limit quantity, using the body’s signal." -- Robin Phipps Woodall]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

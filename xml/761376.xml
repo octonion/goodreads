@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/761376-beth]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/761376-beth" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 14 Jan 2008 16:11:17 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/13426-three-passions-simple-but-overwhelmingly-strong-have-governed-my-life</guid>
+		<pubDate>Mon, 14 Jan 2008 16:11:17 -0800</pubDate>
+		<title>
+			<![CDATA[Beth add a quote by Bertrand Russell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13426-three-passions-simple-but-overwhelmingly-strong-have-governed-my-life]]>
+		</link>
+		<description>
+	    <![CDATA["Three passions, simple but overwhelmingly strong have governed my life: the longing for love, the search for knowledge, and unbearable pity for the suffering of mankind." -- Bertrand Russell]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/13429-i-like-contradictions-we-have-never-attained-the-infinite-variety</guid>
+		<pubDate>Mon, 14 Jan 2008 16:18:48 -0800</pubDate>
+		<title>
+			<![CDATA[Beth add a quote by Man Ray]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13429-i-like-contradictions-we-have-never-attained-the-infinite-variety]]>
+		</link>
+		<description>
+	    <![CDATA["I like contradictions. We have never attained the infinite variety and contradictions that exist in nature. Tomorrow I shall contradict myself. That is the one way I have of asserting my liberty, the real liberty one does not find as a member of society." -- Man Ray]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/13430-i-have-lived-my-life-according-to-this-principle-if</guid>
+		<pubDate>Mon, 14 Jan 2008 16:19:41 -0800</pubDate>
+		<title>
+			<![CDATA[Beth add a quote by Erica Jong]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13430-i-have-lived-my-life-according-to-this-principle-if]]>
+		</link>
+		<description>
+	    <![CDATA["I have lived my life according to this principle: If I'm afraid of it, then I must do it." -- Erica Jong]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

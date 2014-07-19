@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/697383-donn]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/697383-donn" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 20 Dec 2007 22:50:15 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6760-i-would-argue-that-it-is-not-human-fecundity-that</guid>
+		<pubDate>Thu, 20 Dec 2007 22:50:15 -0800</pubDate>
+		<title>
+			<![CDATA[Donn add a quote by Wendell Berry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6760-i-would-argue-that-it-is-not-human-fecundity-that]]>
+		</link>
+		<description>
+	    <![CDATA["I would argue that it is not human fecundity that is overcrowding the world so much as the technological multipliers of the power of individual humans. The worst disease of the world now is probably the ideology of technological heroism, according to which more and more people willingly cause large-scale effects that they do not see and that they cannot control. This is the ideology of the professional class of the industrial nations—a class whose allegiance to communities and places has been dissolved by their economic motives and by their educations. These are people who will go anywhere and jeopardize anything in order to assure the success of their careers." -- Wendell Berry]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

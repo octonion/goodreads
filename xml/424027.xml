@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/424027-dara]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/424027-dara" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Jun 2013 03:06:48 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/396171-whoever-has-no-house-now-will-never-have-one-whoever</guid>
+		<pubDate>Sun, 02 Jun 2013 03:06:48 -0700</pubDate>
+		<title>
+			<![CDATA[Dara add a quote by Reiner Maria Rilke]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/396171-whoever-has-no-house-now-will-never-have-one-whoever]]>
+		</link>
+		<description>
+	    <![CDATA["Whoever has no house now, will never have one. Whoever is alone will stay alone, will sit, read, write long letters through the evening, and wander on the boulevards, up and down, restlessly, while dry leaves are blowing." -- Reiner Maria Rilke]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

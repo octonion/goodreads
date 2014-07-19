@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/95255-phil]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/95255-phil" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 21 Feb 2012 10:24:19 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5263-when-he-shall-die-take-him-and-cut-him-out</guid>
+		<pubDate>Tue, 21 Feb 2012 10:24:19 -0800</pubDate>
+		<title>
+			<![CDATA[Phil add a quote by William Shakespeare]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5263-when-he-shall-die-take-him-and-cut-him-out]]>
+		</link>
+		<description>
+	    <![CDATA["When he shall die,
+Take him and cut him out in little stars,
+And he will make the face of heaven so fine
+That all the world will be in love with night
+And pay no worship to the garish sun." -- William Shakespeare]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/47188-life-should-not-be-a-journey-to-the-grave-with</guid>
+		<pubDate>Mon, 27 Feb 2012 15:37:32 -0800</pubDate>
+		<title>
+			<![CDATA[Phil add a quote by Hunter S. Thompson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/47188-life-should-not-be-a-journey-to-the-grave-with]]>
+		</link>
+		<description>
+	    <![CDATA["Life should not be a journey to the grave with the intention of arriving safely in a pretty and well preserved body, but rather to skid in broadside in a cloud of smoke, thoroughly used up, totally worn out, and loudly proclaiming &quot;Wow! What a Ride!" -- Hunter S. Thompson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/408441-a-reader-lives-a-thousand-lives-before-he-dies-said</guid>
+		<pubDate>Mon, 11 Feb 2013 10:30:33 -0800</pubDate>
+		<title>
+			<![CDATA[Phil add a quote by George R.R. Martin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/408441-a-reader-lives-a-thousand-lives-before-he-dies-said]]>
+		</link>
+		<description>
+	    <![CDATA["A reader lives a thousand lives before he dies, said Jojen. The man who never reads lives only one." -- George R.R. Martin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

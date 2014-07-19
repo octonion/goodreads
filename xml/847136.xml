@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/847136-anna]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/847136-anna" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 26 Mar 2013 11:27:03 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/90633-he-never-went-out-without-a-book-under-his-arm</guid>
+		<pubDate>Tue, 26 Mar 2013 11:27:03 -0700</pubDate>
+		<title>
+			<![CDATA[Anna add a quote by Victor Hugo]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/90633-he-never-went-out-without-a-book-under-his-arm]]>
+		</link>
+		<description>
+	    <![CDATA["He never went out without a book under his arm, and he often came back with two." -- Victor Hugo]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/225267-every-man-has-his-secret-sorrows-which-the-world-knows</guid>
+		<pubDate>Tue, 26 Mar 2013 11:32:37 -0700</pubDate>
+		<title>
+			<![CDATA[Anna add a quote by Henry Wadsworth Longfellow]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/225267-every-man-has-his-secret-sorrows-which-the-world-knows]]>
+		</link>
+		<description>
+	    <![CDATA["Every man has his secret sorrows which the world knows not; and often times we call a man cold when he is only sad." -- Henry Wadsworth Longfellow]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

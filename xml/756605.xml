@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/756605-sarah]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/756605-sarah" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 26 Oct 2011 08:07:56 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/7573-we-are-all-born-mad-some-remain-so</guid>
+		<pubDate>Wed, 26 Oct 2011 08:07:56 -0700</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by Samuel Beckett]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7573-we-are-all-born-mad-some-remain-so]]>
+		</link>
+		<description>
+	    <![CDATA["We are all born mad. Some remain so." -- Samuel Beckett]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/76821-art-enables-us-to-find-ourselves-and-lose-ourselves-at</guid>
+		<pubDate>Tue, 31 Jan 2012 10:02:16 -0800</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by Thomas Merton ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/76821-art-enables-us-to-find-ourselves-and-lose-ourselves-at]]>
+		</link>
+		<description>
+	    <![CDATA["Art enables us to find ourselves and lose ourselves at the same time." -- Thomas Merton ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/204145-books-cats-life-is-good</guid>
+		<pubDate>Fri, 22 Feb 2013 08:26:53 -0800</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by Edward Gorey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/204145-books-cats-life-is-good]]>
+		</link>
+		<description>
+	    <![CDATA["Books, Cats, Life is Good." -- Edward Gorey]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/27861-i-read-so-i-can-live-more-than-one-life</guid>
+		<pubDate>Fri, 25 Oct 2013 09:04:52 -0700</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by Anne Tyler]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/27861-i-read-so-i-can-live-more-than-one-life]]>
+		</link>
+		<description>
+	    <![CDATA["I read so I can live more than one life in more than one place." -- Anne Tyler]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

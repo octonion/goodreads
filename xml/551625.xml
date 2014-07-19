@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/551625-brenda]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/551625-brenda" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 16 Oct 2013 07:46:49 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/360361-i-realized-that-the-deepest-spiritual-lessons-are-not-learned</guid>
+		<pubDate>Wed, 16 Oct 2013 07:46:49 -0700</pubDate>
+		<title>
+			<![CDATA[Brenda add a quote by Elisabeth Elliot]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/360361-i-realized-that-the-deepest-spiritual-lessons-are-not-learned]]>
+		</link>
+		<description>
+	    <![CDATA["I realized that the deepest spiritual lessons are not learned by His letting us have our way in the end, but by His making us wait, bearing with us in love and patience until we are able to honestly to pray what He taught His disciples to pray: Thy will be done." -- Elisabeth Elliot]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/510289-but-of-course-putting-yourself-out-there-takes-vulnerability-vulnerability</guid>
+		<pubDate>Tue, 01 Apr 2014 21:28:55 -0700</pubDate>
+		<title>
+			<![CDATA[Brenda add a quote by Phil Roland ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/510289-but-of-course-putting-yourself-out-there-takes-vulnerability-vulnerability]]>
+		</link>
+		<description>
+	    <![CDATA["But, of course, putting yourself out there takes vulnerability. Vulnerability is hard, and we, as a rule, tend to go for what’s easy; by that logic, closing ourselves off is the easiest thing in the world. We quote the words of others to do our talking for us, send each other links to articles and stories in lieu of actual conversation, post pretty pictures to adequately convey our current state of mind, all to avoid having to proffer a single identifiable human emotion. We keep in touch with relatives by emailing them mawkishly inspirational chain letters once in a while. We regurgitate memes to approximate the feeling of being in the loop." -- Phil Roland ]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

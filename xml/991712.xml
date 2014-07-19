@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/991712-katie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/991712-katie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 23 Dec 2012 21:19:24 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/60172-if-you-expect-nothing-from-anybody-you-re-never-disappointed</guid>
+		<pubDate>Sun, 23 Dec 2012 21:19:24 -0800</pubDate>
+		<title>
+			<![CDATA[Katie add a quote by Sylvia Plath]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/60172-if-you-expect-nothing-from-anybody-you-re-never-disappointed]]>
+		</link>
+		<description>
+	    <![CDATA["If you expect nothing from anybody, you’re never disappointed." -- Sylvia Plath]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/42098-perhaps-when-we-find-ourselves-wanting-everything-it-is-because</guid>
+		<pubDate>Sun, 23 Dec 2012 21:19:37 -0800</pubDate>
+		<title>
+			<![CDATA[Katie add a quote by sylvia plath]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/42098-perhaps-when-we-find-ourselves-wanting-everything-it-is-because]]>
+		</link>
+		<description>
+	    <![CDATA["Perhaps when we find ourselves wanting everything, it is because we are dangerously close to wanting nothing." -- sylvia plath]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/47924-some-day-you-will-be-old-enough-to-start-reading</guid>
+		<pubDate>Mon, 29 Apr 2013 02:42:38 -0700</pubDate>
+		<title>
+			<![CDATA[Katie add a quote by C.S. Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/47924-some-day-you-will-be-old-enough-to-start-reading]]>
+		</link>
+		<description>
+	    <![CDATA["Some day you will be old enough to start reading fairy tales again." -- C.S. Lewis]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

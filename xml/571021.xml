@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/571021-amy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/571021-amy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 26 Jan 2011 12:56:19 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/63142-anyone-who-falls-in-love-is-searching-for-the-missing</guid>
+		<pubDate>Wed, 26 Jan 2011 12:56:19 -0800</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Murakami, Haruki]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/63142-anyone-who-falls-in-love-is-searching-for-the-missing]]>
+		</link>
+		<description>
+	    <![CDATA["Anyone who falls in love is searching for the missing pieces of themselves. So anyone who's in love gets sad when they think of their lover. It's like stepping back inside a room you have fond memories of, one you haven't seen in a long time." -- Murakami, Haruki]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

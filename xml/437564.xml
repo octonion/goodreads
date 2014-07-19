@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/437564-ms-burgos]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/437564-ms-burgos" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 06 Jun 2008 19:09:47 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/61203-if-growing-up-means-it-would-be-beneath-my-dignity</guid>
+		<pubDate>Fri, 06 Jun 2008 19:09:47 -0700</pubDate>
+		<title>
+			<![CDATA[Ms.burgos add a quote by Peter Pan and the Lost Boys]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/61203-if-growing-up-means-it-would-be-beneath-my-dignity]]>
+		</link>
+		<description>
+	    <![CDATA["If growing up means it would be beneath my dignity to climb a tree, 
+I won't grow up, never grow up, never grow up, not me.  " -- Peter Pan and the Lost Boys]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/61204-deliberate-cruelty-is-unforgivable---blanche-dubois</guid>
+		<pubDate>Fri, 06 Jun 2008 19:10:19 -0700</pubDate>
+		<title>
+			<![CDATA[Ms.burgos add a quote by Tennessee Williams's]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/61204-deliberate-cruelty-is-unforgivable---blanche-dubois]]>
+		</link>
+		<description>
+	    <![CDATA["Deliberate cruelty is unforgivable.
+
+--Blanche Dubois" -- Tennessee Williams's]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/9115-oh-i-am-fortune-s-fool</guid>
+		<pubDate>Fri, 06 Jun 2008 19:12:16 -0700</pubDate>
+		<title>
+			<![CDATA[Ms.burgos add a quote by William Shakespeare]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9115-oh-i-am-fortune-s-fool]]>
+		</link>
+		<description>
+	    <![CDATA["Oh, I am fortune's fool!" -- William Shakespeare]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

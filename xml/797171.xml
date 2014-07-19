@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/797171-robin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/797171-robin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 18 Dec 2010 17:09:20 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/323201-in-waiting-for-the-glorious-moment-of-that-first-book</guid>
+		<pubDate>Sat, 18 Dec 2010 17:09:20 -0800</pubDate>
+		<title>
+			<![CDATA[Robin add a quote by Ron Chernow]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/323201-in-waiting-for-the-glorious-moment-of-that-first-book]]>
+		</link>
+		<description>
+	    <![CDATA["In waiting for the glorious moment of that first book contract, writers must have giant reservoirs of patience. Yet they must persevere because they don't know the destiny that is being worked out for them. They creep humbly along the ground, without the spacious aerial vision of their lives that would show them the destiny in store for them." -- Ron Chernow]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/13539-there-is-a-vitality-a-life-force-an-energy-a</guid>
+		<pubDate>Sun, 19 Dec 2010 08:27:20 -0800</pubDate>
+		<title>
+			<![CDATA[Robin add a quote by Martha Graham]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13539-there-is-a-vitality-a-life-force-an-energy-a]]>
+		</link>
+		<description>
+	    <![CDATA["There is a vitality, a life force, an energy, a quickening that is translated through you into action, and because there is only one of you in all time, this expression is unique. And if you block it, it will never exist through any other medium and will be lost." -- Martha Graham]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

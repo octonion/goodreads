@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/930685-pedro]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/930685-pedro" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 18 Aug 2008 07:56:53 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1730-always-do-sober-what-you-said-you-d-do-drunk-that</guid>
+		<pubDate>Mon, 18 Aug 2008 07:56:53 -0700</pubDate>
+		<title>
+			<![CDATA[Pedro add a quote by Ernest Hemingway ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1730-always-do-sober-what-you-said-you-d-do-drunk-that]]>
+		</link>
+		<description>
+	    <![CDATA["Always do sober what you said you'd do drunk. That will teach you to keep your mouth shut." -- Ernest Hemingway ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/13689-a-vida-a-arte-do-encontro-embora-haja-tanto</guid>
+		<pubDate>Thu, 16 Oct 2008 12:41:53 -0700</pubDate>
+		<title>
+			<![CDATA[Pedro add a quote by Vinicius de Moraes]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13689-a-vida-a-arte-do-encontro-embora-haja-tanto]]>
+		</link>
+		<description>
+	    <![CDATA["A vida é a arte do encontro, embora haja tanto desencontro pela vida." -- Vinicius de Moraes]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6145-he-who-controls-the-past-controls-the-future-he-who</guid>
+		<pubDate>Sun, 07 Dec 2008 17:03:09 -0800</pubDate>
+		<title>
+			<![CDATA[Pedro add a quote by George Orwell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6145-he-who-controls-the-past-controls-the-future-he-who]]>
+		</link>
+		<description>
+	    <![CDATA["He who controls the past controls the future. He who controls the present controls the past." -- George Orwell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

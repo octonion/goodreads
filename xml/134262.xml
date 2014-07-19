@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/134262-chadwick]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/134262-chadwick" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 10 Sep 2010 21:05:40 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/167932-a-world-in-which-time-is-absolute-is-a-world</guid>
+		<pubDate>Fri, 10 Sep 2010 21:05:40 -0700</pubDate>
+		<title>
+			<![CDATA[Chadwick add a quote by Alan Lightman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/167932-a-world-in-which-time-is-absolute-is-a-world]]>
+		</link>
+		<description>
+	    <![CDATA["A world in which time is absolute is a world of consolation. For while the movements of people are unpredictable, the movement of time is predictable. While people can be doubted, time cannot be doubted. While people brood, time skips ahead without looking back.  In the coffee houses, in the government buildings, in boats of Lake Geneva, people look at their watches and take refuge in time. Each person knows that somewhere is recorded the moment she was born, the moment she took her first step, the moment of her first passion, the moment she said goodbye to her parents." -- Alan Lightman]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

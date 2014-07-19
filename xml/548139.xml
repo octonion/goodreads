@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/548139-jody-recksiek]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/548139-jody-recksiek" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 19 Feb 2008 11:23:54 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1198-i-am-so-clever-that-sometimes-i-don-t-understand-a</guid>
+		<pubDate>Tue, 19 Feb 2008 11:23:54 -0800</pubDate>
+		<title>
+			<![CDATA[Jody add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1198-i-am-so-clever-that-sometimes-i-don-t-understand-a]]>
+		</link>
+		<description>
+	    <![CDATA["I am so clever that sometimes I don't understand a single word of what I am saying." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4624-it-s-kind-of-fun-to-do-the-impossible</guid>
+		<pubDate>Sun, 08 Jun 2008 12:47:59 -0700</pubDate>
+		<title>
+			<![CDATA[Jody add a quote by Walt Disney]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4624-it-s-kind-of-fun-to-do-the-impossible]]>
+		</link>
+		<description>
+	    <![CDATA["It's kind of fun to do the impossible." -- Walt Disney]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1286-i-would-rather-entertain-and-hope-that-people-learned-something</guid>
+		<pubDate>Tue, 19 Feb 2008 11:27:12 -0800</pubDate>
+		<title>
+			<![CDATA[Jody add a quote by Walt Disney]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1286-i-would-rather-entertain-and-hope-that-people-learned-something]]>
+		</link>
+		<description>
+	    <![CDATA["I would rather entertain and hope that people learned something than educate people and hope they were entertained" -- Walt Disney]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2203-it-is-what-you-read-when-you-don-t-have-to</guid>
+		<pubDate>Tue, 19 Feb 2008 11:31:22 -0800</pubDate>
+		<title>
+			<![CDATA[Jody add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2203-it-is-what-you-read-when-you-don-t-have-to]]>
+		</link>
+		<description>
+	    <![CDATA["It is what you read when you don't have to that determines what you will be when you can't help it." -- Oscar Wilde]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

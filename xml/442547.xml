@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/442547-janice]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/442547-janice" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 06 Apr 2011 17:10:32 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6406-nothing-in-the-world-is-more-dangerous-than-sincere-ignorance</guid>
+		<pubDate>Wed, 06 Apr 2011 17:10:32 -0700</pubDate>
+		<title>
+			<![CDATA[Janice add a quote by Martin Luther King Jr.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6406-nothing-in-the-world-is-more-dangerous-than-sincere-ignorance]]>
+		</link>
+		<description>
+	    <![CDATA["Nothing in the world is more dangerous than sincere ignorance and conscientious stupidity." -- Martin Luther King Jr.]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/194053-if-you-have-good-thoughts-they-will-shine-out-of</guid>
+		<pubDate>Tue, 18 Feb 2014 22:59:24 -0800</pubDate>
+		<title>
+			<![CDATA[Janice add a quote by Roald Dahl]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/194053-if-you-have-good-thoughts-they-will-shine-out-of]]>
+		</link>
+		<description>
+	    <![CDATA["If you have good thoughts they will shine out of your face like sunbeams and you will always look lovely." -- Roald Dahl]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/775037-kathryn]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/775037-kathryn" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 18 Jun 2014 11:30:35 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1253184-he-knew-she-suspected-he-was-up-to-something-but</guid>
+		<pubDate>Wed, 18 Jun 2014 11:30:35 -0700</pubDate>
+		<title>
+			<![CDATA[Kathryn add a quote by Kathryn Meyer Griffith]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1253184-he-knew-she-suspected-he-was-up-to-something-but]]>
+		</link>
+		<description>
+	    <![CDATA["He knew she suspected he was up to something, but being the good wife that she was, she didn’t question him further. Just gave him a hug and a kiss goodbye and told him to be careful." -- Kathryn Meyer Griffith]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

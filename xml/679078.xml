@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/679078-regalruffian]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/679078-regalruffian" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 03 Jun 2011 14:34:22 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/358990-the-problem-with-abstractions-like-reports-and-documents-is-that</guid>
+		<pubDate>Fri, 03 Jun 2011 14:34:22 -0700</pubDate>
+		<title>
+			<![CDATA[Regalruffian add a quote by Jason Fried, David Heinemeier Hansson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/358990-the-problem-with-abstractions-like-reports-and-documents-is-that]]>
+		</link>
+		<description>
+	    <![CDATA["The problem with abstractions (like reports and documents) is that they create illusions of agreement. A hundred people can read the same words, but in their heads, they’re imagining a hundred different things." -- Jason Fried, David Heinemeier Hansson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/30368-early-to-bed-and-early-to-rise-mazer-intoned-makes</guid>
+		<pubDate>Fri, 03 Jun 2011 14:37:32 -0700</pubDate>
+		<title>
+			<![CDATA[Regalruffian add a quote by Orson Scott Card]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/30368-early-to-bed-and-early-to-rise-mazer-intoned-makes]]>
+		</link>
+		<description>
+	    <![CDATA["Early to bed and early to rise,&quot; Mazer intoned, &quot;makes a man stupid and blind in the eyes." -- Orson Scott Card]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/170334-you-ve-got-about-as-much-charm-as-a-dead-slug</guid>
+		<pubDate>Mon, 03 Jun 2013 14:00:18 -0700</pubDate>
+		<title>
+			<![CDATA[Regalruffian add a quote by Suzanne Collins]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/170334-you-ve-got-about-as-much-charm-as-a-dead-slug]]>
+		</link>
+		<description>
+	    <![CDATA["You’ve got about as much charm as a dead slug." -- Suzanne Collins]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

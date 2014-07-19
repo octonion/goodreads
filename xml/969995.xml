@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/969995-ernie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/969995-ernie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 06 Mar 2008 10:42:11 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/14454-still-round-the-corner-there-may-wait-a-new-road</guid>
+		<pubDate>Thu, 06 Mar 2008 10:42:11 -0800</pubDate>
+		<title>
+			<![CDATA[Ernie add a quote by J.R.R. Tolkien]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14454-still-round-the-corner-there-may-wait-a-new-road]]>
+		</link>
+		<description>
+	    <![CDATA["Still round the corner there may wait
+ A new road or a secret gate
+And though I oft have passed them by
+ A day will come at last when I
+Shall take the hidden paths that run
+ West of the Moon, East of the Sun." -- J.R.R. Tolkien]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

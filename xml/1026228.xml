@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1026228-alan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1026228-alan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 11 Jul 2014 07:23:13 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/973389-we-shall-have-to-stop-thinking-of-technology-as-something</guid>
+		<pubDate>Fri, 11 Jul 2014 07:23:13 -0700</pubDate>
+		<title>
+			<![CDATA[Alan add a quote by Mark Burgess]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/973389-we-shall-have-to-stop-thinking-of-technology-as-something]]>
+		</link>
+		<description>
+	    <![CDATA["We shall have to stop thinking of technology as something invulnerable that is merely used by humans, and view it as part of a greater cybernetic ecology all around us. The key distinction in an environment is not between ‘natural’ and ‘artificial’, but between semantic and dynamic: intention and behaviour. Biology has already drawn these lines, and through us, it will integrate the inanimate with the animate in information systems, until we no longer see a pertinent difference between the two." -- Mark Burgess]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/167197-brian-h]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/167197-brian-h" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 25 Nov 2013 18:05:30 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/949318-bach-a-colossal-syllable-one-which-makes-composers-tremble-brings</guid>
+		<pubDate>Mon, 25 Nov 2013 18:05:30 -0800</pubDate>
+		<title>
+			<![CDATA[Brian add a quote by Paul Elie]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/949318-bach-a-colossal-syllable-one-which-makes-composers-tremble-brings]]>
+		</link>
+		<description>
+	    <![CDATA["BACH! A colossal syllable, one which makes composers tremble, brings performers to their knees, beatifies the Bach-lover, and apparently bores the daylights out of everyone else," -- Paul Elie]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

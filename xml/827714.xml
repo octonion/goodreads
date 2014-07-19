@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/827714-amanda]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/827714-amanda" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 27 Jan 2008 13:12:24 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6707-happiness-is-excitement-that-has-found-a-settling-down-place</guid>
+		<pubDate>Sun, 27 Jan 2008 13:12:24 -0800</pubDate>
+		<title>
+			<![CDATA[Amanda add a quote by E.L. Konigsburg]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6707-happiness-is-excitement-that-has-found-a-settling-down-place]]>
+		</link>
+		<description>
+	    <![CDATA["Happiness is excitement that has found a settling down place, but there is always a little corner that keeps flapping around." -- E.L. Konigsburg]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/8150-as-gregor-samsa-awoke-one-morning-from-uneasy-dreams-he</guid>
+		<pubDate>Sun, 27 Jan 2008 13:13:02 -0800</pubDate>
+		<title>
+			<![CDATA[Amanda add a quote by Franz Kafka]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8150-as-gregor-samsa-awoke-one-morning-from-uneasy-dreams-he]]>
+		</link>
+		<description>
+	    <![CDATA["As Gregor Samsa awoke one morning from uneasy dreams he found himself transformed in his bed into a gigantic insect." -- Franz Kafka]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

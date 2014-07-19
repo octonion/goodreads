@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/567156-christina]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/567156-christina" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 26 Feb 2010 06:40:33 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/49995-bring-me-the-sunset-in-a-cup</guid>
+		<pubDate>Fri, 26 Feb 2010 06:40:33 -0800</pubDate>
+		<title>
+			<![CDATA[Christina add a quote by Emily Dickinson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/49995-bring-me-the-sunset-in-a-cup]]>
+		</link>
+		<description>
+	    <![CDATA["Bring me the sunset in a cup." -- Emily Dickinson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/23671-a-thing-of-beauty-is-a-joy-forever</guid>
+		<pubDate>Fri, 26 Feb 2010 06:40:33 -0800</pubDate>
+		<title>
+			<![CDATA[Christina add a quote by John Keats]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/23671-a-thing-of-beauty-is-a-joy-forever]]>
+		</link>
+		<description>
+	    <![CDATA["A thing of beauty is a joy forever." -- John Keats]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/49997-it-keeps-eternal-whisperings-around-desolate-shores</guid>
+		<pubDate>Fri, 26 Feb 2010 06:39:34 -0800</pubDate>
+		<title>
+			<![CDATA[Christina add a quote by John Keats]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/49997-it-keeps-eternal-whisperings-around-desolate-shores]]>
+		</link>
+		<description>
+	    <![CDATA["It keeps eternal whisperings around desolate shores" -- John Keats]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

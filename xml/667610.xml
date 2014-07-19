@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/667610-melody]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/667610-melody" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 07 Dec 2007 13:59:09 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3987-hope-is-a-waking-dream</guid>
+		<pubDate>Fri, 07 Dec 2007 13:59:09 -0800</pubDate>
+		<title>
+			<![CDATA[Melody add a quote by Aristotle]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3987-hope-is-a-waking-dream]]>
+		</link>
+		<description>
+	    <![CDATA["Hope is a waking dream." -- Aristotle]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3990-in-prosperity-our-friends-know-us-in-adversity-we-know</guid>
+		<pubDate>Fri, 07 Dec 2007 14:08:42 -0800</pubDate>
+		<title>
+			<![CDATA[Melody add a quote by John Churton Collins]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3990-in-prosperity-our-friends-know-us-in-adversity-we-know]]>
+		</link>
+		<description>
+	    <![CDATA["In prosperity our friends know us; in adversity we know our friends." -- John Churton Collins]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

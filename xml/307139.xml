@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/307139-tracie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/307139-tracie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 21 Dec 2008 08:22:19 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/25425-you-can-t-create-experience-you-undergo-it</guid>
+		<pubDate>Sun, 21 Dec 2008 08:22:19 -0800</pubDate>
+		<title>
+			<![CDATA[Tracie add a quote by Albert Camus]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/25425-you-can-t-create-experience-you-undergo-it]]>
+		</link>
+		<description>
+	    <![CDATA["You can't create experience, you undergo it." -- Albert Camus]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/32234-seven-deadly-sins-wealth-without-work-pleasure-without-conscience-science</guid>
+		<pubDate>Tue, 30 Dec 2008 19:51:13 -0800</pubDate>
+		<title>
+			<![CDATA[Tracie add a quote by Mahatma Gandhi ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/32234-seven-deadly-sins-wealth-without-work-pleasure-without-conscience-science]]>
+		</link>
+		<description>
+	    <![CDATA["Seven Deadly Sins
+
+Wealth without work
+Pleasure without conscience
+Science without humanity
+Knowledge without character
+Politics without principle
+Commerce without morality
+Worship without sacrifice." -- Mahatma Gandhi ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/688706-a-book-lying-idle-on-a-shelf-is-wasted-ammunition</guid>
+		<pubDate>Wed, 26 Dec 2012 15:42:38 -0800</pubDate>
+		<title>
+			<![CDATA[Tracie add a quote by Henry Miller]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/688706-a-book-lying-idle-on-a-shelf-is-wasted-ammunition]]>
+		</link>
+		<description>
+	    <![CDATA["A book lying idle on a shelf is wasted ammunition." -- Henry Miller]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

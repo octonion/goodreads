@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/30945-adam]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/30945-adam" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 23 Sep 2011 00:23:29 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/239146-but-when-you-re-in-front-of-an-audience-and-you</guid>
+		<pubDate>Fri, 23 Sep 2011 00:23:29 -0700</pubDate>
+		<title>
+			<![CDATA[Adam add a quote by George Carlin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/239146-but-when-you-re-in-front-of-an-audience-and-you]]>
+		</link>
+		<description>
+	    <![CDATA["But when you're in front of an audience and you make them laugh at a new idea, you're guiding the whole being for the moment. No one is ever more him/herself than when they really laugh. Their defenses are down. It's very Zen-like, that moment. They are completely open, completely themselves when that message hits the brain and the laugh begins. That's when new ideas can be implanted. If a new idea slips in at that moment, it has a chance to grow." -- George Carlin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

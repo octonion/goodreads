@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/873570-kristen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/873570-kristen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 19 Oct 2012 05:36:40 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/74804-if-you-look-for-perfection-you-ll-never-be-content</guid>
+		<pubDate>Fri, 19 Oct 2012 05:36:40 -0700</pubDate>
+		<title>
+			<![CDATA[Kristen add a quote by Leo Tolstoy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/74804-if-you-look-for-perfection-you-ll-never-be-content]]>
+		</link>
+		<description>
+	    <![CDATA["If you look for perfection, you'll never be content." -- Leo Tolstoy]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/239043-the-days-are-long-but-the-years-are-short</guid>
+		<pubDate>Fri, 26 Oct 2012 07:37:34 -0700</pubDate>
+		<title>
+			<![CDATA[Kristen add a quote by Gretchen Rubin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/239043-the-days-are-long-but-the-years-are-short]]>
+		</link>
+		<description>
+	    <![CDATA["The days are long, but the years are short." -- Gretchen Rubin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/541181-what-you-do-every-day-matters-more-than-what-you</guid>
+		<pubDate>Fri, 26 Oct 2012 07:38:12 -0700</pubDate>
+		<title>
+			<![CDATA[Kristen add a quote by Gretchen Rubin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/541181-what-you-do-every-day-matters-more-than-what-you]]>
+		</link>
+		<description>
+	    <![CDATA["What you do every day matters more than what you do once in a while." -- Gretchen Rubin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

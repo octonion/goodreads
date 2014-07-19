@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1011341-kristen-lasher]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1011341-kristen-lasher" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 24 Mar 2008 11:11:21 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/37889-this-is-the-type-of-arrant-pedantry-up-with-which</guid>
+		<pubDate>Mon, 24 Mar 2008 11:11:21 -0700</pubDate>
+		<title>
+			<![CDATA[Kristen add a quote by Winston S. Churchill]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/37889-this-is-the-type-of-arrant-pedantry-up-with-which]]>
+		</link>
+		<description>
+	    <![CDATA["This is the type of arrant pedantry up with which I will not put." -- Winston S. Churchill]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/37890-the-delicous-breath-of-rain-was-in-the-air</guid>
+		<pubDate>Mon, 24 Mar 2008 11:13:01 -0700</pubDate>
+		<title>
+			<![CDATA[Kristen add a quote by Kate Chopin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/37890-the-delicous-breath-of-rain-was-in-the-air]]>
+		</link>
+		<description>
+	    <![CDATA["The delicous breath of rain was in the air." -- Kate Chopin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/12236-we-know-what-we-are-but-not-what-we-may</guid>
+		<pubDate>Mon, 24 Mar 2008 11:16:18 -0700</pubDate>
+		<title>
+			<![CDATA[Kristen add a quote by William Shakespeare]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12236-we-know-what-we-are-but-not-what-we-may]]>
+		</link>
+		<description>
+	    <![CDATA["We know what we are, but not what we may be." -- William Shakespeare]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

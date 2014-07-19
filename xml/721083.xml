@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/721083-jodi]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/721083-jodi" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 18 Jan 2008 23:51:58 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/14892-the-great-enemy-of-truth-is-very-often-not-the</guid>
+		<pubDate>Fri, 18 Jan 2008 23:51:58 -0800</pubDate>
+		<title>
+			<![CDATA[Jodi add a quote by John F. Kennedy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14892-the-great-enemy-of-truth-is-very-often-not-the]]>
+		</link>
+		<description>
+	    <![CDATA["The great enemy of truth is very often not the lie--deliberate, contrived and dishonest--but the myth--persistent, persuasive and unrealistic. Too often we hold fast to the cliches of our forebears. We subject all facts to a prefabricated set of interpretations. We enjoy the comfort of opinion without the discomfort of thought.
+
+&lt;i&gt;[Commencement Address at Yale University, June 11 1962]&lt;/i&gt;" -- John F. Kennedy]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

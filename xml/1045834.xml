@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1045834-mike-kruse]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1045834-mike-kruse" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 02 Apr 2008 11:33:22 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/22377-you-teach-a-child-to-read-and-he-or-her</guid>
+		<pubDate>Wed, 02 Apr 2008 11:33:22 -0700</pubDate>
+		<title>
+			<![CDATA[Mike add a quote by Bush]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22377-you-teach-a-child-to-read-and-he-or-her]]>
+		</link>
+		<description>
+	    <![CDATA["You teach a child to read, and he or her will be able to pass a literacy test." -- Bush]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/352-outside-of-a-dog-a-book-is-man-s-best-friend</guid>
+		<pubDate>Wed, 02 Apr 2008 11:34:15 -0700</pubDate>
+		<title>
+			<![CDATA[Mike add a quote by Groucho Marx]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/352-outside-of-a-dog-a-book-is-man-s-best-friend]]>
+		</link>
+		<description>
+	    <![CDATA["Outside of a dog, a book is man's best friend. Inside of a dog it's too dark to read." -- Groucho Marx]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

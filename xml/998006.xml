@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/998006-lolo]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/998006-lolo" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 16 Mar 2008 23:16:38 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/769-books-are-the-quietest-and-most-constant-of-friends-they</guid>
+		<pubDate>Sun, 16 Mar 2008 23:16:38 -0700</pubDate>
+		<title>
+			<![CDATA[LoLo add a quote by Charles W. Eliot]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/769-books-are-the-quietest-and-most-constant-of-friends-they]]>
+		</link>
+		<description>
+	    <![CDATA["Books are the quietest and most constant of friends; they are the most accessible and wisest of counselors, and the most patient of teachers." -- Charles W. Eliot]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/35466-it-is-by-the-goodness-of-god-that-in-our</guid>
+		<pubDate>Sun, 16 Mar 2008 23:18:12 -0700</pubDate>
+		<title>
+			<![CDATA[LoLo add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/35466-it-is-by-the-goodness-of-god-that-in-our]]>
+		</link>
+		<description>
+	    <![CDATA["It is by the goodness of god that in our country we have those 3 unspeakably precious things: freedom of speech, freedom of conscience, and the prudence never to practice either of them." -- Mark Twain]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4613-i-have-nothing-to-declare-except-my-genius</guid>
+		<pubDate>Sun, 16 Mar 2008 23:18:58 -0700</pubDate>
+		<title>
+			<![CDATA[LoLo add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4613-i-have-nothing-to-declare-except-my-genius]]>
+		</link>
+		<description>
+	    <![CDATA["I have nothing to declare except my genius." -- Oscar Wilde]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

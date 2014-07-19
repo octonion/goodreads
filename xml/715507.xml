@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/715507-paul]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/715507-paul" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 25 Jan 2008 11:37:11 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/17317-weaseling-out-of-things-is-important-to-learn-it-s-what</guid>
+		<pubDate>Fri, 25 Jan 2008 11:37:11 -0800</pubDate>
+		<title>
+			<![CDATA[Paul add a quote by Matt Groening]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17317-weaseling-out-of-things-is-important-to-learn-it-s-what]]>
+		</link>
+		<description>
+	    <![CDATA["Weaseling out of things is important to learn. It's what separates us from the animals ... except the weasel." -- Matt Groening]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/16572-you-re-gonna-need-a-bigger-boat</guid>
+		<pubDate>Wed, 13 Feb 2008 09:57:46 -0800</pubDate>
+		<title>
+			<![CDATA[Paul add a quote by Peter Benchley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16572-you-re-gonna-need-a-bigger-boat]]>
+		</link>
+		<description>
+	    <![CDATA["You're gonna need a bigger boat." -- Peter Benchley]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

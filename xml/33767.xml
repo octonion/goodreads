@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/33767-julie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/33767-julie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 06 Jul 2013 21:58:41 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/300180-your-problem-is-you-don-t-understand-what-that-word-means</guid>
+		<pubDate>Sat, 06 Jul 2013 21:58:41 -0700</pubDate>
+		<title>
+			<![CDATA[julie add a quote by Elizabeth Gilbert]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/300180-your-problem-is-you-don-t-understand-what-that-word-means]]>
+		</link>
+		<description>
+	    <![CDATA["Your problem is you don't understand what that word means. People think a soul mate is your perfect fit, and that's what everyone wants. But a true soul mate is a mirror, the person who shows you everything that's holding you back, the person who brings you to your attention so you can change your life. A true soul mate is probably the most important person you'll ever meet, because they tear down your walls and smack you awake. But to live with a soul mate forever? Nah. Too painful. Soul mates, they come into your life just to reveal another layer of yourself to you, and then they leave." -- Elizabeth Gilbert]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

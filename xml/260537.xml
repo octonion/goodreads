@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/260537-jay]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/260537-jay" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 28 Nov 2011 12:24:44 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/456687-there-is-a-cult-of-ignorance-in-the-united-states</guid>
+		<pubDate>Mon, 28 Nov 2011 12:24:44 -0800</pubDate>
+		<title>
+			<![CDATA[Jay add a quote by Issac Asimov ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/456687-there-is-a-cult-of-ignorance-in-the-united-states]]>
+		</link>
+		<description>
+	    <![CDATA["There is a cult of ignorance in the United States, and there has always been. The strain of anti-intellectualism has been a constant thread winding its way through our political and cultural life, nurtured by the false notion that  democracy means that 'my ignorance is just as good as your knowledge." -- Issac Asimov ]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

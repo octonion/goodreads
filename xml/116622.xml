@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/116622-hilary]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/116622-hilary" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 13 Jul 2009 21:30:31 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/66613-the-big-occurrences-in-life-the-serious-ones-have-for</guid>
+		<pubDate>Mon, 13 Jul 2009 21:30:31 -0700</pubDate>
+		<title>
+			<![CDATA[Hilary add a quote by Curtis Sittenfeld]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/66613-the-big-occurrences-in-life-the-serious-ones-have-for]]>
+		</link>
+		<description>
+	    <![CDATA["The big occurrences in life, the serious ones, have for me always been nearly impossible to recognize because they never feel big or serious. In the moment, you have to pee, your arm itches, or what people are saying strikes you as melodramatic or sentimental, and it's hard not to smirk. You have a sense of what this type of situation should be like - for one thing, all-consuming - and this isn't it. But then you look back, and it was that; it did happen." -- Curtis Sittenfeld]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

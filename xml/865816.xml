@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/865816-julianne]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/865816-julianne" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 20 Feb 2008 14:18:25 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/348-until-he-extends-the-circle-of-his-compassion-to-all</guid>
+		<pubDate>Wed, 20 Feb 2008 14:18:25 -0800</pubDate>
+		<title>
+			<![CDATA[Julianne add a quote by Albert Schweitzer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/348-until-he-extends-the-circle-of-his-compassion-to-all]]>
+		</link>
+		<description>
+	    <![CDATA["Until he extends the circle of his compassion to all living things, man will not himself find peace." -- Albert Schweitzer]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/346-there-may-be-times-when-we-are-powerless-to-prevent</guid>
+		<pubDate>Wed, 20 Feb 2008 14:22:13 -0800</pubDate>
+		<title>
+			<![CDATA[Julianne add a quote by Elie Wiesel]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/346-there-may-be-times-when-we-are-powerless-to-prevent]]>
+		</link>
+		<description>
+	    <![CDATA["There may be times when we are powerless to prevent injustice, but there must never be a time when we fail to protest." -- Elie Wiesel]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2032-there-is-nothing-to-writing-all-you-do-is-sit</guid>
+		<pubDate>Wed, 20 Feb 2008 14:24:00 -0800</pubDate>
+		<title>
+			<![CDATA[Julianne add a quote by Ernest Hemingway]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2032-there-is-nothing-to-writing-all-you-do-is-sit]]>
+		</link>
+		<description>
+	    <![CDATA["There is nothing to writing. All you do is sit down at a typewriter and bleed." -- Ernest Hemingway]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

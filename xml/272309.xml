@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/272309-boni-reyes]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/272309-boni-reyes" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 21 Jan 2012 18:51:31 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/18410-i-think-we-are-well-advised-to-keep-on-nodding</guid>
+		<pubDate>Sat, 21 Jan 2012 18:51:31 -0800</pubDate>
+		<title>
+			<![CDATA[Boni add a quote by Joan Didion]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18410-i-think-we-are-well-advised-to-keep-on-nodding]]>
+		</link>
+		<description>
+	    <![CDATA["I think we are well advised to keep on nodding terms with the  people we used to be, whether we find them attractive company or not.  Otherwise they turn up unannounced and surprise us, come hammering on the mind's door at 4 a.m. of a bad night and demand to know who deserted them, who betrayed them, who is going to make amends." -- Joan Didion]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

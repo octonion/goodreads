@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/178434-kate]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/178434-kate" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 09 Jun 2014 09:32:31 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/53603-people-get-into-a-heavy-duty-sin-and-guilt-trip-feeling</guid>
+		<pubDate>Mon, 09 Jun 2014 09:32:31 -0700</pubDate>
+		<title>
+			<![CDATA[Kate add a quote by Pema Chodron]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/53603-people-get-into-a-heavy-duty-sin-and-guilt-trip-feeling]]>
+		</link>
+		<description>
+	    <![CDATA["People get into a heavy-duty sin and guilt trip, feeling that if things are going wrong, that means that they did something bad and they are being punished. That's not the idea at all. The idea of karma is that you continually get the teachings that you need to open your heart. To the degree that you didn't understand in the past how to stop protecting your soft spot, how to stop armoring your heart, you're given this gift of teachings in the form of your life, to give you everything you need to open further." -- Pema Chodron]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

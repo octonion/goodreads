@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/143571-lauren]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/143571-lauren" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 06 Apr 2012 21:41:23 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/525865-it-is-very-risky-but-each-time-a-child-opens</guid>
+		<pubDate>Fri, 06 Apr 2012 21:41:23 -0700</pubDate>
+		<title>
+			<![CDATA[Lauren add a quote by Lois Lowry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/525865-it-is-very-risky-but-each-time-a-child-opens]]>
+		</link>
+		<description>
+	    <![CDATA["It is very risky. But each time a child opens a book, he pushes open the gate that separates him from Elsewhere." -- Lois Lowry]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/626567-to-choose-is-to-age-who-said-that-who-cares</guid>
+		<pubDate>Sun, 16 Sep 2012 19:30:13 -0700</pubDate>
+		<title>
+			<![CDATA[Lauren add a quote by Maxine Swann]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/626567-to-choose-is-to-age-who-said-that-who-cares]]>
+		</link>
+		<description>
+	    <![CDATA["‎&quot;To choose is to age.&quot; Who said that? Who cares? I pictured myself taking a right, then a left, then a right again." -- Maxine Swann]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

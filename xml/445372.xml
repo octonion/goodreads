@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/445372-nikki-morse]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/445372-nikki-morse" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 21 Apr 2013 17:50:21 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/718983-nobody-will-protect-you-from-your-suffering-you-can-t-cry</guid>
+		<pubDate>Sun, 21 Apr 2013 17:50:21 -0700</pubDate>
+		<title>
+			<![CDATA[Nikki add a quote by Cheryl Strayed]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/718983-nobody-will-protect-you-from-your-suffering-you-can-t-cry]]>
+		</link>
+		<description>
+	    <![CDATA["Nobody will protect you from your suffering.  You can't cry it away or eat it away or starve it away or walk it away or punch it away or even therapy it away.  It's just there, and you have to survive it.  You have to endure it.  You have to live through it and love it and move on and be better for it and run as far as you can in the direction of your best and happiest dreams across the bridge that was built by your own desire to heal." -- Cheryl Strayed]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/207834-danielle]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/207834-danielle" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 12 Jun 2011 11:24:49 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/392317-there-s-a-fine-line-between-thinking-about-somebody-and-thinking</guid>
+		<pubDate>Sun, 12 Jun 2011 11:24:49 -0700</pubDate>
+		<title>
+			<![CDATA[Danielle add a quote by Jennifer Egan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/392317-there-s-a-fine-line-between-thinking-about-somebody-and-thinking]]>
+		</link>
+		<description>
+	    <![CDATA["There's a fine line between thinking about somebody and thinking about not thinking about somebody, but I have the patience and the self-control to walk that line for hours - days, if I have to." -- Jennifer Egan]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/391814-rich-children-are-always-blond-jocelyn-goes-it-has-to</guid>
+		<pubDate>Sun, 12 Jun 2011 11:45:43 -0700</pubDate>
+		<title>
+			<![CDATA[Danielle add a quote by Jennifer Egan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/391814-rich-children-are-always-blond-jocelyn-goes-it-has-to]]>
+		</link>
+		<description>
+	    <![CDATA["Rich children are always blond, Jocelyn goes. It has to do with vitamins." -- Jennifer Egan]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

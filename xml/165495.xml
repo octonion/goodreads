@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/165495-charlie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/165495-charlie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 04 Nov 2011 14:12:13 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3409-as-we-walked-i-began-to-wonder-what-the-opposite</guid>
+		<pubDate>Fri, 04 Nov 2011 14:12:13 -0700</pubDate>
+		<title>
+			<![CDATA[Charlie add a quote by Andre Aciman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3409-as-we-walked-i-began-to-wonder-what-the-opposite]]>
+		</link>
+		<description>
+	    <![CDATA["As we walked, I began to wonder what the opposite of molting was and why, unlike the body, which sheds everything, the soul cannot let go but compiles and accumulates, growing annual rings around the things it wants and dreams and remembers" -- Andre Aciman]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/226713-juliet-and-romeo-be-damned-you-can-t-be-in-love</guid>
+		<pubDate>Fri, 04 Nov 2011 14:38:06 -0700</pubDate>
+		<title>
+			<![CDATA[Charlie add a quote by Marisha Pessl]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/226713-juliet-and-romeo-be-damned-you-can-t-be-in-love]]>
+		</link>
+		<description>
+	    <![CDATA["Juliet and Romeo be damned, you can't be in love until you've flossed your teeth next to the person at least three hundred times..." -- Marisha Pessl]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/893990-marie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/893990-marie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 10 Feb 2008 13:13:25 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/352-outside-of-a-dog-a-book-is-man-s-best-friend</guid>
+		<pubDate>Sun, 10 Feb 2008 13:13:25 -0800</pubDate>
+		<title>
+			<![CDATA[Marie add a quote by Groucho Marx]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/352-outside-of-a-dog-a-book-is-man-s-best-friend]]>
+		</link>
+		<description>
+	    <![CDATA["Outside of a dog, a book is man's best friend. Inside of a dog it's too dark to read." -- Groucho Marx]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6384-imperfection-is-beauty-madness-is-genius-and-it-s-better-to</guid>
+		<pubDate>Sun, 10 Feb 2008 13:18:04 -0800</pubDate>
+		<title>
+			<![CDATA[Marie add a quote by Marilyn Monroe]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6384-imperfection-is-beauty-madness-is-genius-and-it-s-better-to]]>
+		</link>
+		<description>
+	    <![CDATA["Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring." -- Marilyn Monroe]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4480-you-know-what-the-fellow-said-in-italy-for</guid>
+		<pubDate>Sun, 10 Feb 2008 13:21:46 -0800</pubDate>
+		<title>
+			<![CDATA[Marie add a quote by Orson Welles]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4480-you-know-what-the-fellow-said-in-italy-for]]>
+		</link>
+		<description>
+	    <![CDATA["You know what the fellow said – in Italy, for thirty years under the Borgias, they had warfare, terror, murder and bloodshed, but they produced Michelangelo, Leonardo da Vinci and the Renaissance. In Switzerland, they had brotherly love, they had five hundred years of democracy and peace – and what did that produce? The cuckoo clock." -- Orson Welles]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

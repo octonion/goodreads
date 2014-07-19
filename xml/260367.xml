@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/260367-kara]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/260367-kara" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 17 Jul 2011 19:12:07 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/208545-but-the-economic-meltdown-should-have-undone-once-and-for</guid>
+		<pubDate>Sun, 17 Jul 2011 19:12:07 -0700</pubDate>
+		<title>
+			<![CDATA[Kara add a quote by Barbara Ehrenreich]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/208545-but-the-economic-meltdown-should-have-undone-once-and-for]]>
+		</link>
+		<description>
+	    <![CDATA["But the economic meltdown should have undone, once and for all, the idea of poverty as a personal shortcoming or dysfunctional state of mind. The lines at unemployment offices and churches offering free food includes strivers as well as slackers, habitual optimists as well as the chronically depressed. When and if the economy recovers we can never allow ourselves to forget how widespread our vulnerability is, how easy it is to spiral down toward destitution." -- Barbara Ehrenreich]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

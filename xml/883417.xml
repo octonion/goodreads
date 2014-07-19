@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/883417-laura]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/883417-laura" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 26 Feb 2008 18:34:51 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/19256-anything-is-a-waste-of-time-unless-you-are-fucking</guid>
+		<pubDate>Tue, 26 Feb 2008 18:34:51 -0800</pubDate>
+		<title>
+			<![CDATA[Laura add a quote by Charles Bukowski]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/19256-anything-is-a-waste-of-time-unless-you-are-fucking]]>
+		</link>
+		<description>
+	    <![CDATA["Anything is a waste of time unless you are fucking well or creating well or getting well or looming toward a kind of phantom-love-happiness." -- Charles Bukowski]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2148-good-things-happen-to-those-who-hustle</guid>
+		<pubDate>Thu, 13 Mar 2008 07:24:31 -0700</pubDate>
+		<title>
+			<![CDATA[Laura add a quote by Chuck Noll]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2148-good-things-happen-to-those-who-hustle]]>
+		</link>
+		<description>
+	    <![CDATA["Good things happen to those who hustle." -- Chuck Noll]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/11746-i-m-nobody-who-are-you-are-you-nobody-too-then</guid>
+		<pubDate>Wed, 18 Jun 2008 13:24:17 -0700</pubDate>
+		<title>
+			<![CDATA[Laura add a quote by Emily Dickinson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11746-i-m-nobody-who-are-you-are-you-nobody-too-then]]>
+		</link>
+		<description>
+	    <![CDATA["I'm nobody! Who are you?  
+Are you nobody, too?  
+Then there ’s a pair of us—don’t tell!  
+They ’d banish us, you know.  
+   
+How dreary to be somebody!         
+How public, like a frog  
+To tell your name the livelong day  
+To an admiring bog!" -- Emily Dickinson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

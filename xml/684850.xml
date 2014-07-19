@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/684850-ann]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/684850-ann" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 28 Mar 2014 11:48:04 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/809049-the-world-is-the-closed-door-it-is-a-barrier</guid>
+		<pubDate>Fri, 28 Mar 2014 11:48:04 -0700</pubDate>
+		<title>
+			<![CDATA[Ann add a quote by Simone Weil]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/809049-the-world-is-the-closed-door-it-is-a-barrier]]>
+		</link>
+		<description>
+	    <![CDATA["The world is the closed door. It is a barrier. And at the same time it is the way through.
+
+Two prisoners whose cells adjoin communicate with each other by knocking on the wall. The wall is the thing which separates them but it is also their means of communication. … Every separation is a link." -- Simone Weil]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

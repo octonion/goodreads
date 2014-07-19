@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/658075-drdigi]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/658075-drdigi" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 18 Mar 2008 00:36:52 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/35833-for-millions-of-years-mankind-lived-just-like-the-animals</guid>
+		<pubDate>Tue, 18 Mar 2008 00:36:52 -0700</pubDate>
+		<title>
+			<![CDATA[drdigi add a quote by Stephen Hawking]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/35833-for-millions-of-years-mankind-lived-just-like-the-animals]]>
+		</link>
+		<description>
+	    <![CDATA["For millions of years, mankind lived just like the animals. Then something happened which unleashed the power of our imagination. We learned to talk and we learned to listen. Speech has allowed the communication of ideas, enabling human beings to work together to build the impossible. Mankind's greatest achievements have come about by talking, and its greatest failures by not talking. It doesn't have to be like this. Our greatest hopes could become reality in the future. With the technology at our disposal, the possibilities are unbounded. All we need to do is make sure we keep talking." -- Stephen Hawking]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/35835-strength-does-not-come-from-winning-your-struggles-develop-your</guid>
+		<pubDate>Tue, 18 Mar 2008 00:44:07 -0700</pubDate>
+		<title>
+			<![CDATA[drdigi add a quote by Arnold Schwarzenegger]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/35835-strength-does-not-come-from-winning-your-struggles-develop-your]]>
+		</link>
+		<description>
+	    <![CDATA["Strength does not come from winning. Your struggles develop your strengths. When you go through hardships and decide not to surrender, that is strength." -- Arnold Schwarzenegger]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

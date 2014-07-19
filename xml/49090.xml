@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/49090-michelle]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/49090-michelle" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 12 Apr 2011 19:25:31 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/367672-a-parent-s-only-as-good-as-their-dumbest-kid-if</guid>
+		<pubDate>Tue, 12 Apr 2011 19:25:31 -0700</pubDate>
+		<title>
+			<![CDATA[Michelle add a quote by Samuel Halpern]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/367672-a-parent-s-only-as-good-as-their-dumbest-kid-if]]>
+		</link>
+		<description>
+	    <![CDATA["A parent's only as good as their dumbest kid. If one wins a Nobel prize but the other gets robbed by a hooker, you failed." -- Samuel Halpern]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

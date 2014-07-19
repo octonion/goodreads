@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/657185-jane-costanza]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/657185-jane-costanza" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 21 May 2012 18:53:39 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/557265-if-you-want-to-see-how-far-we-have-not</guid>
+		<pubDate>Mon, 21 May 2012 18:53:39 -0700</pubDate>
+		<title>
+			<![CDATA[Jane add a quote by Alice McDermott]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/557265-if-you-want-to-see-how-far-we-have-not]]>
+		</link>
+		<description>
+	    <![CDATA["If you want to see how far we have not come from the cave and the woods, from the lonely and dangerous days of the prarie or the plain, witness the reaction of a modern suburban family, nearly ready for bed, when the doorbell rings or the door is rattled. They will stop where they stand, or sit bolt upright in their beds, as if a streak of pure lightning has passed through the house. Eyes wide, voices fearful, they will whisper to each other, &quot;There's someone at the door,&quot; in a way that might make you believe they have always feared and anticipated this moment - that they have spent their lives being stalked." -- Alice McDermott]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/106635-you-are-the-only-you-you-are-the-best</guid>
+		<pubDate>Thu, 05 Jul 2012 15:54:50 -0700</pubDate>
+		<title>
+			<![CDATA[Jane add a quote by Leo Buscaglia]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/106635-you-are-the-only-you-you-are-the-best]]>
+		</link>
+		<description>
+	    <![CDATA["You are the only you ... You are the best you.  You will always be the second best anyone else." -- Leo Buscaglia]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

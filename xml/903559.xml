@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/903559-zareen-zehra]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/903559-zareen-zehra" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 03 Oct 2012 04:58:29 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/224451-love-the-reason-i-dislike-that-word-is-that-it</guid>
+		<pubDate>Wed, 03 Oct 2012 04:58:29 -0700</pubDate>
+		<title>
+			<![CDATA[Zareen add a quote by Leo Tolstoy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/224451-love-the-reason-i-dislike-that-word-is-that-it]]>
+		</link>
+		<description>
+	    <![CDATA["Love. The reason I dislike that word is that it means too much for me, far more than you can understand.&quot;
+
+- Anna Karenina {Anna Karenina}" -- Leo Tolstoy]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/303371-welcome-to-a-new-year-at-hogwarts-before-we-begin</guid>
+		<pubDate>Wed, 03 Oct 2012 04:58:30 -0700</pubDate>
+		<title>
+			<![CDATA[Zareen add a quote by J.K. Rowling]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/303371-welcome-to-a-new-year-at-hogwarts-before-we-begin]]>
+		</link>
+		<description>
+	    <![CDATA["Welcome to a new year at Hogwarts! Before we begin our banquet, I would like to say a few words.  And here they are: Nitwit! Blubber!  Oddment!  Tweak!" -- J.K. Rowling]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

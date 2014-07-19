@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/273125-amy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/273125-amy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 15 May 2013 18:46:12 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/745-perhaps-all-the-dragons-in-our-lives-are-princesses-who</guid>
+		<pubDate>Wed, 15 May 2013 18:46:12 -0700</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Rainer Maria Rilke]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/745-perhaps-all-the-dragons-in-our-lives-are-princesses-who]]>
+		</link>
+		<description>
+	    <![CDATA["Perhaps all the dragons in our lives are princesses who are only waiting to see us act, just once, with beauty and courage. Perhaps everything that frightens us is, in its deepest essence, something helpless that wants our love." -- Rainer Maria Rilke]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/48949-for-one-human-being-to-love-another-human-being-that</guid>
+		<pubDate>Wed, 15 May 2013 18:45:45 -0700</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Rainer Maria Rilke]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/48949-for-one-human-being-to-love-another-human-being-that]]>
+		</link>
+		<description>
+	    <![CDATA["For one human being to love another human being: that is perhaps the most difficult task that has been given to us, the ultimate, the final problem and proof, the work for which all other work is merely preparation." -- Rainer Maria Rilke]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2294-for-beauty-is-nothing-but-the-beginning-of-terror-which</guid>
+		<pubDate>Wed, 15 May 2013 18:47:55 -0700</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Rainer Maria Rilke]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2294-for-beauty-is-nothing-but-the-beginning-of-terror-which]]>
+		</link>
+		<description>
+	    <![CDATA["For beauty is nothing but the beginning of terror
+which we are barely able to endure, and it amazes us so,
+because it serenely disdains to destroy us.
+Every angel is terrible." -- Rainer Maria Rilke]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

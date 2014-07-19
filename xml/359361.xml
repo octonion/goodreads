@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/359361-zeph-courtney]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/359361-zeph-courtney" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 15 Jan 2014 14:58:23 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/258253-my-wallpaper-and-i-are-fighting-a-duel-to-the</guid>
+		<pubDate>Wed, 15 Jan 2014 14:58:23 -0800</pubDate>
+		<title>
+			<![CDATA[Zeph add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/258253-my-wallpaper-and-i-are-fighting-a-duel-to-the]]>
+		</link>
+		<description>
+	    <![CDATA["My wallpaper and I are fighting a duel to the death. One or the other of us has to go." -- Oscar Wilde]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

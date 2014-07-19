@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/183211-tyas]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/183211-tyas" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 14 Aug 2012 10:20:04 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/321830-if-loving-someone-is-putting-them-in-a-straitjacket-and</guid>
+		<pubDate>Tue, 14 Aug 2012 10:20:04 -0700</pubDate>
+		<title>
+			<![CDATA[Tyas add a quote by Jarod Kintz]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/321830-if-loving-someone-is-putting-them-in-a-straitjacket-and]]>
+		</link>
+		<description>
+	    <![CDATA["If loving someone is putting them in a straitjacket and kicking them down a flight of stairs, then yes, I have loved a few people." -- Jarod Kintz]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/405979-i-want-to-meet-a-guy-named-art-i-d-take</guid>
+		<pubDate>Tue, 14 Aug 2012 10:20:25 -0700</pubDate>
+		<title>
+			<![CDATA[Tyas add a quote by Jarod Kintz]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/405979-i-want-to-meet-a-guy-named-art-i-d-take]]>
+		</link>
+		<description>
+	    <![CDATA["I want to meet a guy named Art. I'd take him to a museum, hang him on the wall, criticize him, and leave." -- Jarod Kintz]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

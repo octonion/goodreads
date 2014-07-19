@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/3924-tig]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/3924-tig" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 06 Sep 2011 09:48:45 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5808-prime-numbers-are-what-is-left-when-you-have-taken</guid>
+		<pubDate>Tue, 06 Sep 2011 09:48:45 -0700</pubDate>
+		<title>
+			<![CDATA[Tig add a quote by Mark Haddon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5808-prime-numbers-are-what-is-left-when-you-have-taken]]>
+		</link>
+		<description>
+	    <![CDATA["Prime numbers are what is left when you have taken all the patterns away. I think prime numbers are like life. They are very logical but you could never work out the rules, even if you spent all your time thinking about them." -- Mark Haddon]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

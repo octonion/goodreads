@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/867802-alice-t]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/867802-alice-t" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 02 Feb 2008 16:41:11 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1999-for-myself-i-am-an-optimist---it-does-not</guid>
+		<pubDate>Sat, 02 Feb 2008 16:41:11 -0800</pubDate>
+		<title>
+			<![CDATA[Alice add a quote by Winston S. Churchill]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1999-for-myself-i-am-an-optimist---it-does-not]]>
+		</link>
+		<description>
+	    <![CDATA["For myself I am an optimist - it does not seem to be much use to be anything else." -- Winston S. Churchill]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4468-a-man-is-but-the-product-of-his-thoughts-what</guid>
+		<pubDate>Sat, 02 Feb 2008 16:42:21 -0800</pubDate>
+		<title>
+			<![CDATA[Alice add a quote by Mahatma Gandhi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4468-a-man-is-but-the-product-of-his-thoughts-what]]>
+		</link>
+		<description>
+	    <![CDATA["A man is but the product of his thoughts.  What he thinks, he becomes." -- Mahatma Gandhi]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/11602-the-privilege-of-a-lifetime-is-being-who-you-are</guid>
+		<pubDate>Sat, 02 Feb 2008 16:55:16 -0800</pubDate>
+		<title>
+			<![CDATA[Alice add a quote by Joseph Campbell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11602-the-privilege-of-a-lifetime-is-being-who-you-are]]>
+		</link>
+		<description>
+	    <![CDATA["The privilege of a lifetime is being who you are." -- Joseph Campbell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

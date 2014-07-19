@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/316057-erin-kelly]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/316057-erin-kelly" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 31 Dec 2011 22:11:20 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/145718-when-i-was-ten-i-read-fairy-tales-in-secret</guid>
+		<pubDate>Sat, 31 Dec 2011 22:11:20 -0800</pubDate>
+		<title>
+			<![CDATA[Erin add a quote by C.S. Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/145718-when-i-was-ten-i-read-fairy-tales-in-secret]]>
+		</link>
+		<description>
+	    <![CDATA["When I was ten, I read fairy tales in secret and would have been ashamed if I had been found doing so. Now that I am fifty, I read them openly. When I became a man I put away childish things, including the fear of childishness and the desire to be very grown up." -- C.S. Lewis]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/111003-dum-spiro-spero--as-long-as-i-breathe-i-hope</guid>
+		<pubDate>Sat, 31 Dec 2011 22:16:45 -0800</pubDate>
+		<title>
+			<![CDATA[Erin add a quote by Cicero]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/111003-dum-spiro-spero--as-long-as-i-breathe-i-hope]]>
+		</link>
+		<description>
+	    <![CDATA["Dum Spiro, spero- As long as I breathe, I hope." -- Cicero]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

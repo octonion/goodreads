@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/283452-zach]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/283452-zach" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 21 Mar 2009 23:00:33 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/149165-from-whence-it-happens-that-they-which-trust-to-books</guid>
+		<pubDate>Sat, 21 Mar 2009 23:00:33 -0700</pubDate>
+		<title>
+			<![CDATA[Zach add a quote by Thomas Hobbes]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/149165-from-whence-it-happens-that-they-which-trust-to-books]]>
+		</link>
+		<description>
+	    <![CDATA["From whence it happens, that they which trust to books, do as they that cast up many little sums into a greater, without considering whether those little sums were rightly cast up or not; and at last finding the error visible, and not mistrusting their first grounds, know not which way to clear themselves; but spend time in fluttering over their books, as birds that entering by the chimney, and finding themselves enclosed in a chamber, flutter at the false light of a glass window, for want of wit to consider which way they came in." -- Thomas Hobbes]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

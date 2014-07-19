@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/337780-jackie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/337780-jackie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 30 Nov 2013 10:43:55 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/15307-sometimes-people-are-beautiful-not-in-looks-not-in-what</guid>
+		<pubDate>Sat, 30 Nov 2013 10:43:55 -0800</pubDate>
+		<title>
+			<![CDATA[Jackie add a quote by Markus Zusak]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/15307-sometimes-people-are-beautiful-not-in-looks-not-in-what]]>
+		</link>
+		<description>
+	    <![CDATA["Sometimes people are beautiful.
+Not in looks.
+Not in what they say.
+Just in what they are." -- Markus Zusak]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2467-you-can-never-get-a-cup-of-tea-large-enough</guid>
+		<pubDate>Sat, 30 Nov 2013 10:44:00 -0800</pubDate>
+		<title>
+			<![CDATA[Jackie add a quote by C.S. Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2467-you-can-never-get-a-cup-of-tea-large-enough]]>
+		</link>
+		<description>
+	    <![CDATA["You can never get a cup of tea large enough or a book long enough to suit me." -- C.S. Lewis]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

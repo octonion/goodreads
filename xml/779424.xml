@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/779424-amy-nicole]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/779424-amy-nicole" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 17 Dec 2012 12:58:07 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/629672-try-to-imagine-a-life-without-timekeeping-you-probably-can-t</guid>
+		<pubDate>Mon, 17 Dec 2012 12:58:07 -0800</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Mitch Albom]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/629672-try-to-imagine-a-life-without-timekeeping-you-probably-can-t]]>
+		</link>
+		<description>
+	    <![CDATA["Try to imagine a life without timekeeping. You probably can’t. You know the month, the year, the day of the week. There is a clock on your wall or the dashboard of your car. You have a schedule, a calendar, a time for dinner or a movie. Yet all around you, timekeeping is ignored. Birds are not late. A dog does not check its watch. Deer do not fret over passing birthdays. an alone measures time. Man alone chimes the hour. And, because of this, man alone suffers a paralyzing fear that no other creature endures. A fear of time running out." -- Mitch Albom]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

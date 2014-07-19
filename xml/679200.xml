@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/679200-rebecca]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/679200-rebecca" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 12 Dec 2007 12:59:23 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5048-contemplating-the-adolescence-through-which-we-scorned-the-wrong-some</guid>
+		<pubDate>Wed, 12 Dec 2007 12:59:23 -0800</pubDate>
+		<title>
+			<![CDATA[Rebecca add a quote by Channing Pollock]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5048-contemplating-the-adolescence-through-which-we-scorned-the-wrong-some]]>
+		</link>
+		<description>
+	    <![CDATA["Contemplating the adolescence through which we scorned the wrong, some of us must wish … that we could be born old, and grow younger and cleaner and ever simpler and more innocent, until at last, with the white souls of little children, we lay us down to eternal sleep." -- Channing Pollock]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/11035-no-one-can-make-you-feel-inferior-without-your-consent</guid>
+		<pubDate>Sun, 17 Feb 2008 16:39:57 -0800</pubDate>
+		<title>
+			<![CDATA[Rebecca add a quote by Eleanor Roosevelt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11035-no-one-can-make-you-feel-inferior-without-your-consent]]>
+		</link>
+		<description>
+	    <![CDATA["No one can make you feel inferior without your consent." -- Eleanor Roosevelt]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/854133-avienae]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/854133-avienae" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 13 Jan 2010 00:22:23 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2970-all-the-world-s-a-stage-and-all-the-men-and</guid>
+		<pubDate>Wed, 13 Jan 2010 00:22:23 -0800</pubDate>
+		<title>
+			<![CDATA[Avienae add a quote by William Shakespeare]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2970-all-the-world-s-a-stage-and-all-the-men-and]]>
+		</link>
+		<description>
+	    <![CDATA["All the world's a stage, 
+And all the men and women merely players; 
+They have their exits and their entrances; 
+And one man in his time plays many parts, 
+His acts being seven ages." -- William Shakespeare]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/276997-but-oh-the-blessing-it-is-to-have-a-friend</guid>
+		<pubDate>Wed, 13 Jan 2010 00:25:10 -0800</pubDate>
+		<title>
+			<![CDATA[Avienae add a quote by Dinah Craik]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/276997-but-oh-the-blessing-it-is-to-have-a-friend]]>
+		</link>
+		<description>
+	    <![CDATA["But oh! the blessing it is to have a friend to whom one can speak fearlessly on any subject; with whom one's deepest as well as one's most foolish thoughts come out simply and safely.  Oh, the comfort - the inexpressible comfort of feeling safe with a person - having neither to weigh thoughts nor measure words, but pouring them all right out, just as they are, chaff and grain together; certain that a faithful hand will take and sift them, keep what is worth keeping, and then with the breath of kindness blow the rest away." -- Dinah Craik]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

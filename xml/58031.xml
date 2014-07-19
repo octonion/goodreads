@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/58031-suzanna]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/58031-suzanna" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 12 Jun 2012 19:28:07 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/10007-when-i-can-no-more-stir-my-soul-to-move</guid>
+		<pubDate>Tue, 12 Jun 2012 19:28:07 -0700</pubDate>
+		<title>
+			<![CDATA[Suzanna add a quote by George MacDonald]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10007-when-i-can-no-more-stir-my-soul-to-move]]>
+		</link>
+		<description>
+	    <![CDATA["When I can no more stir my soul to move, and life is but the ashes of a fire; when I can but remember that my heart once used to live and love, long and aspire-  O, be thou then the first, the one thou art; be thou the calling, before all answering love, and in me wake hope, fear, boundless desire." -- George MacDonald]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/28160-three-things-can-not-hide-for-long-the-moon-the</guid>
+		<pubDate>Sun, 02 Dec 2012 19:57:56 -0800</pubDate>
+		<title>
+			<![CDATA[Suzanna add a quote by Gautama Buddha]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/28160-three-things-can-not-hide-for-long-the-moon-the]]>
+		</link>
+		<description>
+	    <![CDATA["Three things can not hide for long: the Moon, the Sun and the Truth." -- Gautama Buddha]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

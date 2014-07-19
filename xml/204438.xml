@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/204438-meridith]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/204438-meridith" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 13 Mar 2012 07:01:49 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/13388-consistency-is-the-hallmark-of-the-unimaginative</guid>
+		<pubDate>Tue, 13 Mar 2012 07:01:49 -0700</pubDate>
+		<title>
+			<![CDATA[Meridith add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13388-consistency-is-the-hallmark-of-the-unimaginative]]>
+		</link>
+		<description>
+	    <![CDATA["Consistency is the hallmark of the unimaginative." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/565938-on-any-person-who-desires-such-queer-prizes-new-york</guid>
+		<pubDate>Fri, 23 Aug 2013 09:18:24 -0700</pubDate>
+		<title>
+			<![CDATA[Meridith add a quote by E.B. White]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/565938-on-any-person-who-desires-such-queer-prizes-new-york]]>
+		</link>
+		<description>
+	    <![CDATA["On any person who desires such queer prizes, New York will bestow the gift of loneliness and the gift of privacy. It is this largess that accounts for the presence within the city’s walls of a considerable section of the population; for the residents of Manhattan are to a large extent strangers who have pulled up stakes somewhere and come to town, seeking sanctuary or fulfillment or some greater or lesser grail. The capacity to make such dubious gifts is a mysterious quality of New York. It can destroy an individual, or it can fulfill him, depending a good deal on luck. No one should come to New York to live unless he is willing to be lucky." -- E.B. White]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

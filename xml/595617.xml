@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/595617-cynthia]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/595617-cynthia" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 17 Aug 2010 06:27:03 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/103528-the-laughter-of-the-world-is-merely-loneliness-pathetically-trying</guid>
+		<pubDate>Tue, 17 Aug 2010 06:27:03 -0700</pubDate>
+		<title>
+			<![CDATA[Cynthia add a quote by Neal A. Maxwell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/103528-the-laughter-of-the-world-is-merely-loneliness-pathetically-trying]]>
+		</link>
+		<description>
+	    <![CDATA["The laughter of the world is merely loneliness pathetically trying to reassure itself." -- Neal A. Maxwell]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/70125-never-be-afraid-to-trust-an-unknown-future-to-a</guid>
+		<pubDate>Tue, 03 May 2011 06:59:09 -0700</pubDate>
+		<title>
+			<![CDATA[Cynthia add a quote by Corrie ten Boom]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/70125-never-be-afraid-to-trust-an-unknown-future-to-a]]>
+		</link>
+		<description>
+	    <![CDATA["Never be afraid to trust an unknown future to a known God." -- Corrie ten Boom]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

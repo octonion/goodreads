@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/618346-manda-wilson]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/618346-manda-wilson" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 22 Dec 2011 13:46:36 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/476842-a-reader-s-tastes-are-peculiar-choosing-books-to-read-is</guid>
+		<pubDate>Thu, 22 Dec 2011 13:46:36 -0800</pubDate>
+		<title>
+			<![CDATA[Manda add a quote by Jane Smiley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/476842-a-reader-s-tastes-are-peculiar-choosing-books-to-read-is]]>
+		</link>
+		<description>
+	    <![CDATA["A reader's tastes are peculiar. Choosing books to read is like making your way down a remote and winding path. Your stops on that path are always idiosyncratic. One book leads to another and another the way one thought leads to another and another. My type of reader is the sort who burrows through the stacks in the bookstore or the library (or the Web site — stacks are stacks), yielding to impulse and instinct." -- Jane Smiley]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

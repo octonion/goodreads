@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/165072-jules-kate]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/165072-jules-kate" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 06 Nov 2012 21:27:04 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/11853-someone-asked-me-how-it-felt-and-i-was-reminded-of</guid>
+		<pubDate>Tue, 06 Nov 2012 21:27:04 -0800</pubDate>
+		<title>
+			<![CDATA[jules &amp; kate add a quote by Adlai E. Stevenson II]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11853-someone-asked-me-how-it-felt-and-i-was-reminded-of]]>
+		</link>
+		<description>
+	    <![CDATA["Someone asked me...how it felt and I was reminded of a story that a fellow townsman of ours used to tell--Abraham Lincoln. They asked him how he felt once after an unsuccessful election. He said he felt like a little boy who had stubbed his toe in the dark. He said that he was too old to cry, but it hurt too much to laugh." -- Adlai E. Stevenson II]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

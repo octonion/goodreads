@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/976455-miranda]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/976455-miranda" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 21 Sep 2008 17:08:05 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5793-creativity-is-knowing-how-to-hide-your-sources</guid>
+		<pubDate>Sun, 21 Sep 2008 17:08:05 -0700</pubDate>
+		<title>
+			<![CDATA[Miranda add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5793-creativity-is-knowing-how-to-hide-your-sources]]>
+		</link>
+		<description>
+	    <![CDATA["Creativity is knowing how to hide your sources" -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5521-everything-you-can-imagine-is-real</guid>
+		<pubDate>Sun, 21 Sep 2008 17:08:34 -0700</pubDate>
+		<title>
+			<![CDATA[Miranda add a quote by Pablo Picasso]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5521-everything-you-can-imagine-is-real]]>
+		</link>
+		<description>
+	    <![CDATA["Everything you can imagine is real." -- Pablo Picasso]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3407-the-only-escape-from-the-miseries-of-life-are-music</guid>
+		<pubDate>Sun, 21 Sep 2008 17:10:35 -0700</pubDate>
+		<title>
+			<![CDATA[Miranda add a quote by Albert Schweitzer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3407-the-only-escape-from-the-miseries-of-life-are-music]]>
+		</link>
+		<description>
+	    <![CDATA["The only escape from the miseries of life are music and cats..." -- Albert Schweitzer]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2981-happiness-in-intelligent-people-is-the-rarest-thing-i-know</guid>
+		<pubDate>Sun, 21 Sep 2008 17:12:29 -0700</pubDate>
+		<title>
+			<![CDATA[Miranda add a quote by Ernest Hemingway]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2981-happiness-in-intelligent-people-is-the-rarest-thing-i-know]]>
+		</link>
+		<description>
+	    <![CDATA["Happiness in intelligent people is the rarest thing I know." -- Ernest Hemingway]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

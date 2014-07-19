@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/872507-phil-wieler]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/872507-phil-wieler" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 04 Feb 2008 08:58:09 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2046-the-most-merciful-thing-in-the-world-i-think-is</guid>
+		<pubDate>Mon, 04 Feb 2008 08:58:09 -0800</pubDate>
+		<title>
+			<![CDATA[Phil add a quote by H. P. Lovercraft]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2046-the-most-merciful-thing-in-the-world-i-think-is]]>
+		</link>
+		<description>
+	    <![CDATA["The most merciful thing in the world, I think, is the inability of the human mind to correlate all its contents. We live on a placid island of ignorance in the midst of black seas of the infinity, and it was not meant that we should voyage far." -- H. P. Lovercraft]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/10092-civilized-men-are-more-discourteous-than-savages-because-they-know</guid>
+		<pubDate>Wed, 20 Feb 2008 11:52:05 -0800</pubDate>
+		<title>
+			<![CDATA[Phil add a quote by Robert E. Howard]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10092-civilized-men-are-more-discourteous-than-savages-because-they-know]]>
+		</link>
+		<description>
+	    <![CDATA["Civilized men are more discourteous than savages because they know they can be impolite without having their skulls split, as a general thing." -- Robert E. Howard]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2400-some-humans-would-do-anything-to-see-if-it-was</guid>
+		<pubDate>Thu, 07 Feb 2008 12:15:32 -0800</pubDate>
+		<title>
+			<![CDATA[Phil add a quote by Terry Pratchett]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2400-some-humans-would-do-anything-to-see-if-it-was]]>
+		</link>
+		<description>
+	    <![CDATA["Some humans would do anything to see if it was possible to do it. If you put a large switch in some cave somewhere, with a sign on it saying 'End-of-the-World Switch. PLEASE DO NOT TOUCH', the paint wouldn't even have time to dry." -- Terry Pratchett]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

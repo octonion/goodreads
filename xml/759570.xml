@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/759570-steph]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/759570-steph" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 08 Jan 2008 19:19:17 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/11662-it-seems-to-me-that-an-often-quiet-but-often</guid>
+		<pubDate>Tue, 08 Jan 2008 19:19:17 -0800</pubDate>
+		<title>
+			<![CDATA[Steph add a quote by Eve Kosofsky Sedgwick]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11662-it-seems-to-me-that-an-often-quiet-but-often]]>
+		</link>
+		<description>
+	    <![CDATA["It seems to me that an often quiet, but often palpable presiding image here... is the interpretive absorption of the child or adolescent whose sense of personal queerness may or may not (yet?) have resolved... Such a child - if she reads at all - is reading for important news about herself, without knowing what form that news will take; with only the patchiest familiarity with its codes; without, even, more than hungrily hypothesizing to what questions this news may proffer an answer." -- Eve Kosofsky Sedgwick]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/11781-what-is-wonderful-about-great-literature-is-that-it-transforms</guid>
+		<pubDate>Wed, 09 Jan 2008 08:27:10 -0800</pubDate>
+		<title>
+			<![CDATA[Steph add a quote by E. M. Forster]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11781-what-is-wonderful-about-great-literature-is-that-it-transforms]]>
+		</link>
+		<description>
+	    <![CDATA["What is wonderful about great literature is that it transforms the man who reads it towards the condition of the man who wrote." -- E. M. Forster]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

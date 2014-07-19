@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/830462-jennylyn]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/830462-jennylyn" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 21 Dec 2008 06:28:24 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/434-he-s-like-a-drug-for-you-bella</guid>
+		<pubDate>Sun, 21 Dec 2008 06:28:24 -0800</pubDate>
+		<title>
+			<![CDATA[Jennylyn add a quote by Stephenie Meyer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/434-he-s-like-a-drug-for-you-bella]]>
+		</link>
+		<description>
+	    <![CDATA["He's like a drug for you, Bella." -- Stephenie Meyer]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/237769-childhood-is-not-from-birth-to-a-certain-age-and</guid>
+		<pubDate>Sun, 21 Dec 2008 06:42:33 -0800</pubDate>
+		<title>
+			<![CDATA[Jennylyn add a quote by Edna St. Vincent Millay]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/237769-childhood-is-not-from-birth-to-a-certain-age-and]]>
+		</link>
+		<description>
+	    <![CDATA["Childhood is not from birth to a certain age and at a certain age. The child is grown, and puts away childish things. Childhood is the kingdom where nobody dies." -- Edna St. Vincent Millay]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

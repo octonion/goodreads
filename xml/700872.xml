@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/700872-vesna]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/700872-vesna" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 24 Oct 2008 22:04:14 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/25-we-are-all-in-the-gutter-but-some-of-us</guid>
+		<pubDate>Fri, 24 Oct 2008 22:04:14 -0700</pubDate>
+		<title>
+			<![CDATA[Vesna add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/25-we-are-all-in-the-gutter-but-some-of-us]]>
+		</link>
+		<description>
+	    <![CDATA["We are all in the gutter, but some of us are looking at the stars." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4093-the-most-beautiful-experience-we-can-have-is-the-mysterious</guid>
+		<pubDate>Sat, 24 Jan 2009 07:34:09 -0800</pubDate>
+		<title>
+			<![CDATA[Vesna add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4093-the-most-beautiful-experience-we-can-have-is-the-mysterious]]>
+		</link>
+		<description>
+	    <![CDATA["The most beautiful experience we can have is the mysterious - the fundamental emotion which stands at the cradle of true art and true science." -- Albert Einstein]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

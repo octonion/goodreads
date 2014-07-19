@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/670038-dylan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/670038-dylan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 21 Jan 2009 18:44:40 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5774-to-reach-out-to-you-when-i-m-in-need-and</guid>
+		<pubDate>Wed, 21 Jan 2009 18:44:40 -0800</pubDate>
+		<title>
+			<![CDATA[Dylan add a quote by Orson Scott Card]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5774-to-reach-out-to-you-when-i-m-in-need-and]]>
+		</link>
+		<description>
+	    <![CDATA["To reach out to you when I'm in need, and to try to be here for you when you need me back.  And to feel such tenderness when I look at you that I want to stand between you and all the world: and yet also to lift you up and carry you above the strong currents of life; and at the same time, I would be glad to stand always like this, at a distance, watching you, the beauty of you." -- Orson Scott Card]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

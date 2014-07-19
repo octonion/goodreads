@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/741879-david]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/741879-david" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 31 May 2008 10:04:40 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/21667-society-is-like-a-stew-if-you-don-t-stir-it</guid>
+		<pubDate>Sat, 31 May 2008 10:04:40 -0700</pubDate>
+		<title>
+			<![CDATA[David add a quote by Edward Abbey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21667-society-is-like-a-stew-if-you-don-t-stir-it]]>
+		</link>
+		<description>
+	    <![CDATA["Society is like a stew. If you don't stir it up every once in a while then a layer of scum floats to the top." -- Edward Abbey]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

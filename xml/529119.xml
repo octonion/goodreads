@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/529119-cecilia]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/529119-cecilia" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 09 Sep 2009 10:13:49 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/24824-an-investment-in-knowledge-always-pays-the-best-interest</guid>
+		<pubDate>Wed, 09 Sep 2009 10:13:49 -0700</pubDate>
+		<title>
+			<![CDATA[Cecilia add a quote by Benjamin Franklin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/24824-an-investment-in-knowledge-always-pays-the-best-interest]]>
+		</link>
+		<description>
+	    <![CDATA["An investment in knowledge always pays the best interest." -- Benjamin Franklin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3149-if-music-be-the-food-of-love-play-on-give</guid>
+		<pubDate>Wed, 09 Sep 2009 10:15:11 -0700</pubDate>
+		<title>
+			<![CDATA[Cecilia add a quote by William Shakespeare]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3149-if-music-be-the-food-of-love-play-on-give]]>
+		</link>
+		<description>
+	    <![CDATA["If music be the food of love, play on,
+Give me excess of it; that surfeiting,
+The appetite may sicken, and so die." -- William Shakespeare]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2476-to-morrow-and-to-morrow-and-to-morrow-creeps-in-this-petty-pace</guid>
+		<pubDate>Wed, 09 Sep 2009 10:17:16 -0700</pubDate>
+		<title>
+			<![CDATA[Cecilia add a quote by William Shakespeare]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2476-to-morrow-and-to-morrow-and-to-morrow-creeps-in-this-petty-pace]]>
+		</link>
+		<description>
+	    <![CDATA["To-morrow, and to-morrow, and to-morrow,
+Creeps in this petty pace from day to day,
+To the last syllable of recorded time;
+And all our yesterdays have lighted fools
+The way to dusty death. Out, out, brief candle!
+Life's but a walking shadow, a poor player,
+That struts and frets his hour upon the stage,
+And then is heard no more. It is a tale
+Told by an idiot, full of sound and fury,
+Signifying nothing." -- William Shakespeare]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

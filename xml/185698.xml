@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/185698-emrys]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/185698-emrys" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 28 Aug 2013 22:05:24 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/44840-the-world-is-like-a-ride-in-an-amusement-park</guid>
+		<pubDate>Wed, 28 Aug 2013 22:05:24 -0700</pubDate>
+		<title>
+			<![CDATA[Emrys add a quote by Bill Hicks]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/44840-the-world-is-like-a-ride-in-an-amusement-park]]>
+		</link>
+		<description>
+	    <![CDATA["The world is like a ride in an amusement park. And when you choose to go on it you think it's real because that's how powerful our minds are. And the ride goes up and down and round and round. It has thrills and chills and it's very brightly coloured and it's very loud and it's fun, for a while. Some people have been on the ride for a long time and they begin to question: &quot;Is this real, or is this just a ride?&quot; And other people have remembered, and they come back to us, they say, &quot;Hey, don't worry, don't be afraid, ever, because this is just a ride.&quot; And we kill those people." -- Bill Hicks]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

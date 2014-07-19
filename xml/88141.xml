@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/88141-jaimee]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/88141-jaimee" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 10 Dec 2013 09:39:28 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/189027-i-don-t-think-i-could-love-you-so-much-if</guid>
+		<pubDate>Tue, 10 Dec 2013 09:39:28 -0800</pubDate>
+		<title>
+			<![CDATA[Jaimee add a quote by Boris Pasternak]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/189027-i-don-t-think-i-could-love-you-so-much-if]]>
+		</link>
+		<description>
+	    <![CDATA["I don't think I could love you so much if you had nothing to complain of and nothing to regret.  I don't like people who have never fallen or stumbled.  Their virtue is lifeless and of little value.  Life hasn't revealed it's beauty to them." -- Boris Pasternak]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/830423-grown-ups-don-t-look-like-grown-ups-on-the-inside-either-outside</guid>
+		<pubDate>Thu, 09 Jan 2014 12:02:21 -0800</pubDate>
+		<title>
+			<![CDATA[Jaimee add a quote by Neil Gaiman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/830423-grown-ups-don-t-look-like-grown-ups-on-the-inside-either-outside]]>
+		</link>
+		<description>
+	    <![CDATA["Grown-ups don't look like grown-ups on the inside either. Outside, they're big and thoughtless and they always know what they're doing. Inside, they look just like they always have. Like they did when they were your age. Truth is, there aren't any grown-ups. Not one, in the whole wide world." -- Neil Gaiman]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

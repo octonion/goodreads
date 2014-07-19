@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/888251-adriano-lanna]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/888251-adriano-lanna" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 27 Nov 2013 12:43:55 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/280659-a-dream-is-not-a-very-safe-thing-to-be</guid>
+		<pubDate>Wed, 27 Nov 2013 12:43:55 -0800</pubDate>
+		<title>
+			<![CDATA[Adriano add a quote by William Faulkner]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/280659-a-dream-is-not-a-very-safe-thing-to-be]]>
+		</link>
+		<description>
+	    <![CDATA["A dream is not a very safe thing to be near... I know; I had one once. It's like a loaded pistol with a hair trigger: if it stays alive long enough, somebody is going to be hurt. But if it's a good dream, it's worth it." -- William Faulkner]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/960409-t-o-certo-que-a-paisagem-depende-do-ponto-de</guid>
+		<pubDate>Wed, 11 Dec 2013 03:25:05 -0800</pubDate>
+		<title>
+			<![CDATA[Adriano add a quote by Machado de Assis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/960409-t-o-certo-que-a-paisagem-depende-do-ponto-de]]>
+		</link>
+		<description>
+	    <![CDATA["Tão certo é que a paisagem depende do ponto de vista, e que o melhor modo de apreciar o chicote é ter-lhe o cabo na mão." -- Machado de Assis]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

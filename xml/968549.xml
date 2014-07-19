@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/968549-merisa]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/968549-merisa" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 02 Jul 2013 11:47:26 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/102120-there-s-a-reason-why-forty-fifty-and-sixty-don-t-look</guid>
+		<pubDate>Tue, 02 Jul 2013 11:47:26 -0700</pubDate>
+		<title>
+			<![CDATA[Merisa add a quote by Nora Ephron]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/102120-there-s-a-reason-why-forty-fifty-and-sixty-don-t-look]]>
+		</link>
+		<description>
+	    <![CDATA["There's a reason why forty, fifty, and sixty don't look the way they used to, and it's not because of feminism, or better living through exercise.  It's because of hair dye.  In the 1950's only 7 percent of American women dyed their hair; today there are parts of Manhattan and Los Angeles where there are no gray-haired women at all." -- Nora Ephron]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

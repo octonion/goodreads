@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1036626-dawn-williams]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1036626-dawn-williams" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 19 Apr 2013 05:33:16 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/111716-i-fainted-and-you-ate-my-ass-you-fed-me-my</guid>
+		<pubDate>Fri, 19 Apr 2013 05:33:16 -0700</pubDate>
+		<title>
+			<![CDATA[Dawn add a quote by Chuck Palahniuk]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/111716-i-fainted-and-you-ate-my-ass-you-fed-me-my]]>
+		</link>
+		<description>
+	    <![CDATA["I fainted....and you ate my ass?
+
+You fed me my own ass?" -- Chuck Palahniuk]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/257370-the-sun-stopped-shining-for-me-is-all-the-whole</guid>
+		<pubDate>Tue, 24 Sep 2013 08:58:18 -0700</pubDate>
+		<title>
+			<![CDATA[Dawn add a quote by Nina LaCour]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/257370-the-sun-stopped-shining-for-me-is-all-the-whole]]>
+		</link>
+		<description>
+	    <![CDATA["The sun stopped shining for me is all. The whole story is: I am sad. I am sad all the time and the sadness is so heavy that I can't get away from it. Not ever." -- Nina LaCour]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

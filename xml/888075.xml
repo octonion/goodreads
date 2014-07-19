@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/888075-hwalk]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/888075-hwalk" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 14 Feb 2008 17:34:10 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/17110-i-do-like-the-world-quite-a-lot</guid>
+		<pubDate>Thu, 14 Feb 2008 17:34:10 -0800</pubDate>
+		<title>
+			<![CDATA[hwalk add a quote by Shannon Hale]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17110-i-do-like-the-world-quite-a-lot]]>
+		</link>
+		<description>
+	    <![CDATA["I do like the world quite a lot." -- Shannon Hale]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1427-i-have-never-let-my-schooling-interfere-with-my-education</guid>
+		<pubDate>Sun, 04 Jan 2009 09:42:40 -0800</pubDate>
+		<title>
+			<![CDATA[hwalk add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1427-i-have-never-let-my-schooling-interfere-with-my-education]]>
+		</link>
+		<description>
+	    <![CDATA["I have never let my schooling interfere with my education." -- Mark Twain]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/221025-god-is-eagerly-waiting-for-the-chance-to-answer-your</guid>
+		<pubDate>Thu, 14 Mar 2013 12:16:20 -0700</pubDate>
+		<title>
+			<![CDATA[hwalk add a quote by Jeffery Holland]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/221025-god-is-eagerly-waiting-for-the-chance-to-answer-your]]>
+		</link>
+		<description>
+	    <![CDATA["God is eagerly waiting for the chance to answer your prayers and fulfill your dreams, just as he always has. But he can't if you don't pray, and he can't if you don't dream. In short, he can't if you don't believe." -- Jeffery Holland]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/142079-cristin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/142079-cristin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 15 Dec 2008 19:59:59 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/23666-a-classic-is-a-book-that-has-never-finished-saying</guid>
+		<pubDate>Mon, 15 Dec 2008 19:59:59 -0800</pubDate>
+		<title>
+			<![CDATA[Cristin add a quote by Italo Calvino]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/23666-a-classic-is-a-book-that-has-never-finished-saying]]>
+		</link>
+		<description>
+	    <![CDATA["A classic is a book that has never finished saying what it has to say." -- Italo Calvino]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/68038-if-you-would-tell-me-the-heart-of-a-man</guid>
+		<pubDate>Mon, 15 Dec 2008 20:01:23 -0800</pubDate>
+		<title>
+			<![CDATA[Cristin add a quote by Francois Mauriac]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/68038-if-you-would-tell-me-the-heart-of-a-man]]>
+		</link>
+		<description>
+	    <![CDATA["If you would tell me the heart of a man, tell me not what he reads, but what he rereads." -- Francois Mauriac]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/132720-books-are-like-truth-serum---if-you-don-t-read-you</guid>
+		<pubDate>Wed, 21 Jan 2009 10:28:17 -0800</pubDate>
+		<title>
+			<![CDATA[Cristin add a quote by Rodman Philbrick]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/132720-books-are-like-truth-serum---if-you-don-t-read-you]]>
+		</link>
+		<description>
+	    <![CDATA["Books are like truth serum-- if you don't read, you can't figure out what's real." -- Rodman Philbrick]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

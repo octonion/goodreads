@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1042177-dorothy-gallagher]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1042177-dorothy-gallagher" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 31 Mar 2008 13:58:34 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/40145-we-have-the-choice-to-use-the-gift-of-our</guid>
+		<pubDate>Mon, 31 Mar 2008 13:58:34 -0700</pubDate>
+		<title>
+			<![CDATA[Dorothy add a quote by Jane Goodall]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/40145-we-have-the-choice-to-use-the-gift-of-our]]>
+		</link>
+		<description>
+	    <![CDATA["We have the choice to use the gift of our life to make the world a better place--or not to bother" -- Jane Goodall]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/41333-irony--it-s-funny-until-it-happens-to-you</guid>
+		<pubDate>Thu, 03 Apr 2008 18:13:01 -0700</pubDate>
+		<title>
+			<![CDATA[Dorothy add a quote by Bill Morris]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/41333-irony--it-s-funny-until-it-happens-to-you]]>
+		</link>
+		<description>
+	    <![CDATA["Irony--it's funny until it happens to you." -- Bill Morris]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

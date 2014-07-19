@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/156750-donna-huber]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/156750-donna-huber" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 22 Aug 2012 10:18:26 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/611433-networking-turns-to-spam-when-you-stop-interacting-networking-is</guid>
+		<pubDate>Wed, 22 Aug 2012 10:18:26 -0700</pubDate>
+		<title>
+			<![CDATA[Donna add a quote by Donna Huber]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/611433-networking-turns-to-spam-when-you-stop-interacting-networking-is]]>
+		</link>
+		<description>
+	    <![CDATA["Networking turns to spam when you stop interacting. Networking is a dialog." -- Donna Huber]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/842229-a-key-to-successful-networking-is-always-being-on-the</guid>
+		<pubDate>Sat, 06 Jul 2013 09:54:55 -0700</pubDate>
+		<title>
+			<![CDATA[Donna add a quote by Donna Huber]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/842229-a-key-to-successful-networking-is-always-being-on-the]]>
+		</link>
+		<description>
+	    <![CDATA["A key to successful networking is always being on the lookout for ways to help others." -- Donna Huber]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

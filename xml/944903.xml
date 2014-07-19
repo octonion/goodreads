@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/944903-anjeanette]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/944903-anjeanette" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 01 Aug 2008 16:25:20 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4959-you-don-t-have-to-burn-books-to-destroy-a-culture</guid>
+		<pubDate>Fri, 01 Aug 2008 16:25:20 -0700</pubDate>
+		<title>
+			<![CDATA[Anjeanette add a quote by Ray Bradbury]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4959-you-don-t-have-to-burn-books-to-destroy-a-culture]]>
+		</link>
+		<description>
+	    <![CDATA["You don't have to burn books to destroy a culture. Just get people to stop reading them." -- Ray Bradbury]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5168-do-you-know-that-books-smell-like-nutmeg-or-some</guid>
+		<pubDate>Fri, 01 Aug 2008 16:26:07 -0700</pubDate>
+		<title>
+			<![CDATA[Anjeanette add a quote by Ray Bradbury]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5168-do-you-know-that-books-smell-like-nutmeg-or-some]]>
+		</link>
+		<description>
+	    <![CDATA["Do you know that books smell like nutmeg or some spice from a foreign land? I loved to smell them when I was a boy.  Lord, there were a lot of lovely books once, before we let them go." -- Ray Bradbury]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/44293-another-belief-of-mine-that-everyone-else-my-age-is</guid>
+		<pubDate>Fri, 01 Aug 2008 16:26:45 -0700</pubDate>
+		<title>
+			<![CDATA[Anjeanette add a quote by Margaret Atwood]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/44293-another-belief-of-mine-that-everyone-else-my-age-is]]>
+		</link>
+		<description>
+	    <![CDATA["Another belief of mine: that everyone else my age is an adult, whereas I am merely in disguise." -- Margaret Atwood]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

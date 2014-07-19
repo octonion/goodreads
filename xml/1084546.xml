@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1084546-asri-pratiwi]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1084546-asri-pratiwi" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 04 Aug 2012 06:16:32 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/409713-a-man-who-wants-to-make-a-relationship-work-will</guid>
+		<pubDate>Sat, 04 Aug 2012 06:16:32 -0700</pubDate>
+		<title>
+			<![CDATA[Asri add a quote by Greg Behrendt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/409713-a-man-who-wants-to-make-a-relationship-work-will]]>
+		</link>
+		<description>
+	    <![CDATA["A man who wants to make a relationship work will move mountains to keep the
+woman he loves" -- Greg Behrendt]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1173-don-t-cry-because-it-s-over-smile-because-it-happened</guid>
+		<pubDate>Thu, 24 Jan 2013 00:36:55 -0800</pubDate>
+		<title>
+			<![CDATA[Asri add a quote by Dr. Seuss ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1173-don-t-cry-because-it-s-over-smile-because-it-happened]]>
+		</link>
+		<description>
+	    <![CDATA["Don't cry because it's over, smile because it happened." -- Dr. Seuss ]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

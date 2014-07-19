@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/643522-melissa]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/643522-melissa" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 29 May 2013 19:35:36 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/95454-the-single-greatest-lesson-the-garden-teaches-is-that-our</guid>
+		<pubDate>Wed, 29 May 2013 19:35:36 -0700</pubDate>
+		<title>
+			<![CDATA[Melissa add a quote by Michael Pollan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/95454-the-single-greatest-lesson-the-garden-teaches-is-that-our]]>
+		</link>
+		<description>
+	    <![CDATA["The single greatest lesson the garden teaches is that our relationship to the planet need not be zero-sum, and that as long as the sun still shines and people still can plan and plant, think and do, we can, if we bother to try, find ways to provide for ourselves without diminishing the world. " -- Michael Pollan]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

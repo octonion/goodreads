@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/596167-nancy-mulder]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/596167-nancy-mulder" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 03 May 2012 12:43:16 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/80925-if-you-and-i-are-to-live-religious-lives-it</guid>
+		<pubDate>Thu, 03 May 2012 12:43:16 -0700</pubDate>
+		<title>
+			<![CDATA[Nancy add a quote by Ludwig Wittgenstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/80925-if-you-and-i-are-to-live-religious-lives-it]]>
+		</link>
+		<description>
+	    <![CDATA["If you and I are to live religious lives, it mustn't be that we talk a lot about religion, but that our manner of life is different. It is my belief that only if you try to be helpful to other people will you in the end find your way to God." -- Ludwig Wittgenstein]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/899601-katherine-carlson]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/899601-katherine-carlson" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 20 Feb 2008 13:23:52 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/26650-i-suppose-that-people-using-themselves-and-each-other-so</guid>
+		<pubDate>Wed, 20 Feb 2008 13:23:52 -0800</pubDate>
+		<title>
+			<![CDATA[Katherine add a quote by William Faulkner]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/26650-i-suppose-that-people-using-themselves-and-each-other-so]]>
+		</link>
+		<description>
+	    <![CDATA["I suppose that people, using themselves and each other so much by words, are at least consistent in attributing wisdom to a still tongue..." -- William Faulkner]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/28372-there-was-money-enough-but-she-asked-so-much-of</guid>
+		<pubDate>Mon, 25 Feb 2008 21:08:23 -0800</pubDate>
+		<title>
+			<![CDATA[Katherine add a quote by Edith Wharton]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/28372-there-was-money-enough-but-she-asked-so-much-of]]>
+		</link>
+		<description>
+	    <![CDATA["There was money enough... but she asked so much of life, in ways so complex and immaterial.  He thought of her as walking bare-footed through a stony waste.  No one would understand her- no one would pity her- and he, who did both, was powerless to come to her aid." -- Edith Wharton]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

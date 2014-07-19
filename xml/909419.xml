@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/909419-lisa]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/909419-lisa" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 20 Jan 2014 09:55:05 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/482080-the-first-supermarket-supposedly-appeared-on-the-american-landscape-in</guid>
+		<pubDate>Mon, 20 Jan 2014 09:55:05 -0800</pubDate>
+		<title>
+			<![CDATA[Lisa add a quote by Joel Salatin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/482080-the-first-supermarket-supposedly-appeared-on-the-american-landscape-in]]>
+		</link>
+		<description>
+	    <![CDATA["The first supermarket supposedly appeared on the American landscape in 1946.  That is not very long ago.  Until then, where was all the food?  Dear folks, the food was in homes, gardens, local fields, and forests.  It was near kitchens, near tables, near bedsides.  It was in the pantry, the cellar, the backyard." -- Joel Salatin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

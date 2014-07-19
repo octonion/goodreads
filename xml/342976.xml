@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/342976-marie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/342976-marie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 08 Jul 2011 21:44:04 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/63388-summer-afternoon-summer-afternoon-to-me-those-have-always-been-the</guid>
+		<pubDate>Fri, 08 Jul 2011 21:44:04 -0700</pubDate>
+		<title>
+			<![CDATA[Marie add a quote by Henry James]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/63388-summer-afternoon-summer-afternoon-to-me-those-have-always-been-the]]>
+		</link>
+		<description>
+	    <![CDATA["Summer afternoon—summer afternoon; to me those have always been the two most beautiful words in the English language." -- Henry James]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/99053-i-am-not-i-i-am-this-one-walking-beside</guid>
+		<pubDate>Tue, 28 Feb 2012 17:18:09 -0800</pubDate>
+		<title>
+			<![CDATA[Marie add a quote by Juan Ramon Jimenez]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/99053-i-am-not-i-i-am-this-one-walking-beside]]>
+		</link>
+		<description>
+	    <![CDATA["I am not I.
+I am this one
+walking beside me whom I do not see,
+whom at times I manage to visit,
+and whom at other times I forget;
+who remains calm and silent while I talk,
+and forgives, gently, when I hate,
+who walks where I am not,
+who will remain standing when I die." -- Juan Ramon Jimenez]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/915633-jennifer]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/915633-jennifer" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 21 Apr 2008 11:16:14 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/7704-sometimes-your-joy-is-the-source-of-your-smile-but</guid>
+		<pubDate>Mon, 21 Apr 2008 11:16:14 -0700</pubDate>
+		<title>
+			<![CDATA[Jennifer add a quote by Thich Nhat Hanh]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7704-sometimes-your-joy-is-the-source-of-your-smile-but]]>
+		</link>
+		<description>
+	    <![CDATA["Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy." -- Thich Nhat Hanh]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/52321-i-am-a-poster-child-with-no-poster</guid>
+		<pubDate>Thu, 08 May 2008 08:21:36 -0700</pubDate>
+		<title>
+			<![CDATA[Jennifer add a quote by Jennifer Storm]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/52321-i-am-a-poster-child-with-no-poster]]>
+		</link>
+		<description>
+	    <![CDATA["I am a poster child with no poster" -- Jennifer Storm]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/68027-in-recovery-it-s-all-about-putting-one-foot-in-front</guid>
+		<pubDate>Sat, 28 Jun 2008 04:17:02 -0700</pubDate>
+		<title>
+			<![CDATA[Jennifer add a quote by Jennifer Storm]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/68027-in-recovery-it-s-all-about-putting-one-foot-in-front]]>
+		</link>
+		<description>
+	    <![CDATA["In recovery, it's all about putting one foot in front of the other. As a writer, it's all about putting one word next to another on a page. " -- Jennifer Storm]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

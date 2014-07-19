@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/42107-lauren-good]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/42107-lauren-good" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 23 Aug 2011 11:15:16 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/385444-arthur-felt-happy-he-was-terribly-pleased-that-the-day</guid>
+		<pubDate>Tue, 23 Aug 2011 11:15:16 -0700</pubDate>
+		<title>
+			<![CDATA[Lauren add a quote by Douglas Adams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/385444-arthur-felt-happy-he-was-terribly-pleased-that-the-day]]>
+		</link>
+		<description>
+	    <![CDATA["Arthur felt happy. He was terribly pleased that the day was for once working out so much according to plan. Only twenty minutes ago he had decided he would go mad, and now here he was already chasing a Chesterfield sofa across the fields of prehistoric Earth." -- Douglas Adams]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/942395-it-was-the-usual-sort-of-academic-battle-footnotes-at</guid>
+		<pubDate>Fri, 15 Nov 2013 07:49:29 -0800</pubDate>
+		<title>
+			<![CDATA[Lauren add a quote by Lauren Willig]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/942395-it-was-the-usual-sort-of-academic-battle-footnotes-at]]>
+		</link>
+		<description>
+	    <![CDATA["It was the usual sort of academic battle: footnotes at ten paces, bolstered by snide articles in academic journals and lots of sniping about methodology, a thrust and parry of source and countersource. My sources had to be better." -- Lauren Willig]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

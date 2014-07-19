@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/9328-roxanne-carter]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/9328-roxanne-carter" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 06 Jul 2009 15:24:28 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/175845-i-have-grown-weary-of-literature-silence-alone-comforts-me</guid>
+		<pubDate>Mon, 06 Jul 2009 15:24:28 -0700</pubDate>
+		<title>
+			<![CDATA[Roxanne add a quote by Clarice Lispector]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/175845-i-have-grown-weary-of-literature-silence-alone-comforts-me]]>
+		</link>
+		<description>
+	    <![CDATA["I have grown weary of literature: silence alone comforts me. If I continue to write, it’s because I have nothing more to accomplish in this world except to wait for death. Searching for the word in darkness. Any little success invades me and puts me in full view of everyone. I long to wallow in the mud. I can scarcely control my need for self-abasement, my craving for licentiousness and debauchery. Sin tempts me, forbidden pleasures lure me. I want to be both pig and hen, then kill them and drink their blood." -- Clarice Lispector]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

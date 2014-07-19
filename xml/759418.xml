@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/759418-katie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/759418-katie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 19 Jan 2008 13:17:19 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/14995-to-pretend-i-actually-do-the-thing-i-have-therefore</guid>
+		<pubDate>Sat, 19 Jan 2008 13:17:19 -0800</pubDate>
+		<title>
+			<![CDATA[Katie add a quote by Jacques Derrida]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14995-to-pretend-i-actually-do-the-thing-i-have-therefore]]>
+		</link>
+		<description>
+	    <![CDATA["To pretend, I actually do the thing: I have therefore only pretended to pretend." -- Jacques Derrida]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/29767-i-know-more-than-i-can-express-in-words-and</guid>
+		<pubDate>Fri, 28 Mar 2008 10:16:25 -0700</pubDate>
+		<title>
+			<![CDATA[Katie add a quote by Vladimir Nabokov]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/29767-i-know-more-than-i-can-express-in-words-and]]>
+		</link>
+		<description>
+	    <![CDATA["I know more than I can express in words, and the little I can express would not have been expressed, had I not known more." -- Vladimir Nabokov]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

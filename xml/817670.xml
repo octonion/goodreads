@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/817670-tricia]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/817670-tricia" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 24 Jun 2013 12:18:23 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/613323-if-i-read-a-book-and-it-makes-my-whole</guid>
+		<pubDate>Mon, 24 Jun 2013 12:18:23 -0700</pubDate>
+		<title>
+			<![CDATA[Tricia add a quote by Emily Dickinson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/613323-if-i-read-a-book-and-it-makes-my-whole]]>
+		</link>
+		<description>
+	    <![CDATA["If I read a book and it makes my whole body so cold no fire can ever warm me, I know that is poetry." -- Emily Dickinson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/905597-kim]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/905597-kim" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 28 Mar 2011 14:54:32 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/162597-books-can-be-possessive-can-t-they-you-re-walking-around-in</guid>
+		<pubDate>Mon, 28 Mar 2011 14:54:32 -0700</pubDate>
+		<title>
+			<![CDATA[Kim add a quote by Sarah Addison Allen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/162597-books-can-be-possessive-can-t-they-you-re-walking-around-in]]>
+		</link>
+		<description>
+	    <![CDATA["Books can be possessive, can't they? You're walking around in a bookstore and a certain one will jump out at you, like it had moved there on its own, just to get your attention. Sometimes what's inside will change your life, but sometimes you don't even have to read it. Sometimes it's a comfort just to have a book around.  Many of these books haven't even had their spines cracked.  'Why do you buy books you don't even read?' our daughter asks us.  That's like asking someone who lives alone why they bought a cat.  For company, of course." -- Sarah Addison Allen]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

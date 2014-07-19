@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/137940-tim]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/137940-tim" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 03 Jun 2008 19:49:03 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/406-all-god-does-is-watch-us-and-kill-us-when</guid>
+		<pubDate>Tue, 03 Jun 2008 19:49:03 -0700</pubDate>
+		<title>
+			<![CDATA[tim add a quote by Chuck Palahniuk]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/406-all-god-does-is-watch-us-and-kill-us-when]]>
+		</link>
+		<description>
+	    <![CDATA["All God does is watch us and kill us when we get boring. We must never, ever be boring." -- Chuck Palahniuk]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/681-the-future-is-already-here-it-s-just-not-evenly</guid>
+		<pubDate>Tue, 03 Jun 2008 19:53:34 -0700</pubDate>
+		<title>
+			<![CDATA[tim add a quote by William Gibson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/681-the-future-is-already-here-it-s-just-not-evenly]]>
+		</link>
+		<description>
+	    <![CDATA["The future is already here – it's just not evenly distributed.
+
+&lt;i&gt;The Economist, December 4, 2003&lt;/i&gt;" -- William Gibson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

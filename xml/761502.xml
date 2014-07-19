@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/761502-dylan-ferniany]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/761502-dylan-ferniany" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 12 Feb 2014 11:20:35 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/342336-even-chance-meetings-are-the-result-of-karma-things-in</guid>
+		<pubDate>Wed, 12 Feb 2014 11:20:35 -0800</pubDate>
+		<title>
+			<![CDATA[Dylan add a quote by Haruki Murakami]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/342336-even-chance-meetings-are-the-result-of-karma-things-in]]>
+		</link>
+		<description>
+	    <![CDATA["Even chance meetings are the result of karma… Things in life are fated by our previous lives. That even in the smallest events there’s no such thing as coincidence." -- Haruki Murakami]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

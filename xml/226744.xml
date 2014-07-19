@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/226744-nicole]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/226744-nicole" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 03 Mar 2013 07:11:03 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/258128-erotic-play-discloses-a-nameless-world-which-is-revealed-by</guid>
+		<pubDate>Sun, 03 Mar 2013 07:11:03 -0800</pubDate>
+		<title>
+			<![CDATA[Nicole add a quote by Jean Genet]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/258128-erotic-play-discloses-a-nameless-world-which-is-revealed-by]]>
+		</link>
+		<description>
+	    <![CDATA["Erotic play discloses a nameless world which is revealed by the nocturnal language of lovers. Such language is not written down. It is whispered into the ear at night in a hoarse voice. At dawn it is forgotten." -- Jean Genet]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

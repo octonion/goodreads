@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/157130-denise-romero]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/157130-denise-romero" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 04 Feb 2012 12:40:56 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/211981-not-reaching-back-for-what-was-lost-in-my-yesterdays</guid>
+		<pubDate>Sat, 04 Feb 2012 12:40:56 -0800</pubDate>
+		<title>
+			<![CDATA[Denise add a quote by Lysa TerKeurst]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/211981-not-reaching-back-for-what-was-lost-in-my-yesterdays]]>
+		</link>
+		<description>
+	    <![CDATA["Not reaching back for what was lost in my yesterdays.  And not reaching for what I hope will be in my tomorrow.  But living fully with what is right in front of me.  And truly seeing the gift of this moment." -- Lysa TerKeurst]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

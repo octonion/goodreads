@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1048650-paula]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1048650-paula" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 17 Dec 2010 16:34:57 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4353-the-ultimate-measure-of-a-man-is-not-where-he</guid>
+		<pubDate>Fri, 17 Dec 2010 16:34:57 -0800</pubDate>
+		<title>
+			<![CDATA[Paula add a quote by Martin Luther King Jr.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4353-the-ultimate-measure-of-a-man-is-not-where-he]]>
+		</link>
+		<description>
+	    <![CDATA["The ultimate measure of a man is not where he stands in moments of comfort and convenience, but where he stands at times of challenge and controversy." -- Martin Luther King Jr.]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/41467-never-regret-if-it-s-good-it-s-wonderful-if-it-s-bad</guid>
+		<pubDate>Fri, 04 Apr 2008 04:27:58 -0700</pubDate>
+		<title>
+			<![CDATA[Paula add a quote by Victoria Holt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/41467-never-regret-if-it-s-good-it-s-wonderful-if-it-s-bad]]>
+		</link>
+		<description>
+	    <![CDATA["Never regret. If it's good, it's wonderful. If it's bad, it's experience." -- Victoria Holt]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/919-the-man-who-does-not-read-has-no-advantage-over</guid>
+		<pubDate>Fri, 04 Apr 2008 09:45:28 -0700</pubDate>
+		<title>
+			<![CDATA[Paula add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/919-the-man-who-does-not-read-has-no-advantage-over]]>
+		</link>
+		<description>
+	    <![CDATA["The man who does not read has no advantage over the man who cannot read." -- Mark Twain]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

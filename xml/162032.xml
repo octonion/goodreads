@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/162032-jaime]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/162032-jaime" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 01 Aug 2008 10:19:24 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/43185-the-world-isn-t-a-sad-place-it-s-just-big</guid>
+		<pubDate>Fri, 01 Aug 2008 10:19:24 -0700</pubDate>
+		<title>
+			<![CDATA[Jaime add a quote by jean luc godard]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/43185-the-world-isn-t-a-sad-place-it-s-just-big]]>
+		</link>
+		<description>
+	    <![CDATA["The world isn't a sad place, it's just big." -- jean luc godard]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/46864-the-creative-act-is-not-performed-by-the-artist-alone</guid>
+		<pubDate>Fri, 01 Aug 2008 10:23:43 -0700</pubDate>
+		<title>
+			<![CDATA[Jaime add a quote by Marcel Duchamp]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/46864-the-creative-act-is-not-performed-by-the-artist-alone]]>
+		</link>
+		<description>
+	    <![CDATA["The creative act is not performed by the artist alone; the spectator brings the work in contact with the external world by deciphering and interpreting its inner qualifications and thus adds his contribution to the creative act." -- Marcel Duchamp]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

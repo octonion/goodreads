@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/115658-brenda-morris]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/115658-brenda-morris" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 07 Feb 2013 18:32:24 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/62393-laura-felt-a-warmth-inside-her-it-was-very-small</guid>
+		<pubDate>Thu, 07 Feb 2013 18:32:24 -0800</pubDate>
+		<title>
+			<![CDATA[Brenda add a quote by Laura Ingalls Wilder]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/62393-laura-felt-a-warmth-inside-her-it-was-very-small]]>
+		</link>
+		<description>
+	    <![CDATA["Laura felt a warmth inside her. It was very small, but it was strong. It was steady, like a tiny light in the dark, and it burned very low but no winds could make it flicker because it would not give up." -- Laura Ingalls Wilder]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

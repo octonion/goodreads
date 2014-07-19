@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1036865-connor-macleod]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1036865-connor-macleod" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 30 Mar 2008 12:52:30 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/20208-libraries-are-reservoirs-of-strength-grace-and-wit-reminders-of</guid>
+		<pubDate>Sun, 30 Mar 2008 12:52:30 -0700</pubDate>
+		<title>
+			<![CDATA[Connor add a quote by Germaine Greer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20208-libraries-are-reservoirs-of-strength-grace-and-wit-reminders-of]]>
+		</link>
+		<description>
+	    <![CDATA["Libraries are reservoirs of strength, grace and wit, reminders of order, calm and continuity, lakes of mental energy, neither warm nor cold, light nor dark ... In any library in the world, I am at home, unselfconscious, still and absorbed.&quot;
+
+[&lt;i&gt;Still in Melbourne January 1987&lt;/i&gt;]" -- Germaine Greer]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/39812-the-man-of-science-has-learned-to-believe-in-justification</guid>
+		<pubDate>Sun, 30 Mar 2008 15:12:01 -0700</pubDate>
+		<title>
+			<![CDATA[Connor add a quote by Thomas H. Huxley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/39812-the-man-of-science-has-learned-to-believe-in-justification]]>
+		</link>
+		<description>
+	    <![CDATA["The man of science has learned to believe in justification, not by faith, but by verification." -- Thomas H. Huxley]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

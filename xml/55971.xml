@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/55971-matt-harris]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/55971-matt-harris" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 04 Nov 2012 14:40:30 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/21253-a-path-is-only-a-path-and-there-is-no</guid>
+		<pubDate>Sun, 04 Nov 2012 14:40:30 -0800</pubDate>
+		<title>
+			<![CDATA[Matt add a quote by Carlos Castaneda]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21253-a-path-is-only-a-path-and-there-is-no]]>
+		</link>
+		<description>
+	    <![CDATA["A path is only a path, and there is no affront, to oneself or to others, in dropping it if that is what your heart tells you . . . Look at every path closely and deliberately. Try it as many times as you think necessary. Then ask yourself alone, one question . . . Does this path have a heart? If it does, the path is good; if it doesn't it is of no use." -- Carlos Castaneda]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/91336-sarah]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/91336-sarah" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 29 Jan 2014 11:47:54 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/46179-i-must-say-a-word-about-fear-it-is-life-s</guid>
+		<pubDate>Wed, 29 Jan 2014 11:47:54 -0800</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by Yann Martel]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/46179-i-must-say-a-word-about-fear-it-is-life-s]]>
+		</link>
+		<description>
+	    <![CDATA["I must say a word about fear. It is life's only true opponent. Only fear can defeat life. It is a clever, treacherous adversary, how well I know. It has no decency, respects no law or convention, shows no mercy. It goes for your weakest spot, which it finds with unnerving ease. It begins in your mind, always ... so you must fight hard to express it. You must fight hard to shine the light of words upon it. Because if you don't, if your fear becomes a wordless darkness that you avoid, perhaps even manage to forget, you open yourself to further attacks of fear because you never truly fought the opponent who defeated you." -- Yann Martel]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

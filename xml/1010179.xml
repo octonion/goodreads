@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1010179-grant]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1010179-grant" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 20 Mar 2008 19:49:07 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/865-be-who-you-are-and-say-what-you-feel-because</guid>
+		<pubDate>Thu, 20 Mar 2008 19:49:07 -0700</pubDate>
+		<title>
+			<![CDATA[Grant add a quote by Bernard M. Baruch]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/865-be-who-you-are-and-say-what-you-feel-because]]>
+		</link>
+		<description>
+	    <![CDATA["Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind." -- Bernard M. Baruch]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/677-the-opposite-of-love-is-not-hate-it-s-indifference-the</guid>
+		<pubDate>Thu, 20 Mar 2008 19:50:30 -0700</pubDate>
+		<title>
+			<![CDATA[Grant add a quote by Elie Wiesel]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/677-the-opposite-of-love-is-not-hate-it-s-indifference-the]]>
+		</link>
+		<description>
+	    <![CDATA["The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference." -- Elie Wiesel]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2177-i-am-enough-of-an-artist-to-draw-freely-upon</guid>
+		<pubDate>Thu, 20 Mar 2008 19:52:04 -0700</pubDate>
+		<title>
+			<![CDATA[Grant add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2177-i-am-enough-of-an-artist-to-draw-freely-upon]]>
+		</link>
+		<description>
+	    <![CDATA["I am enough of an artist to draw freely upon my imagination. Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world." -- Albert Einstein]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

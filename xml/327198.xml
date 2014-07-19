@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/327198-lynnae]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/327198-lynnae" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 20 Dec 2007 18:22:03 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6702-i-declare-after-all-there-is-no-enjoyment-like-reading</guid>
+		<pubDate>Thu, 20 Dec 2007 18:22:03 -0800</pubDate>
+		<title>
+			<![CDATA[Lynnae add a quote by Jane Austen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6702-i-declare-after-all-there-is-no-enjoyment-like-reading]]>
+		</link>
+		<description>
+	    <![CDATA["I declare after all there is no enjoyment like reading! How much sooner one tires of any thing than of a book! -- When I have a house of my own, I shall be miserable if I have not an excellent library." -- Jane Austen]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6703-i-always-deserve-the-best-treatment-because-i-never-put</guid>
+		<pubDate>Thu, 20 Dec 2007 18:24:34 -0800</pubDate>
+		<title>
+			<![CDATA[Lynnae add a quote by Jane Austen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6703-i-always-deserve-the-best-treatment-because-i-never-put]]>
+		</link>
+		<description>
+	    <![CDATA["I always deserve the best treatment because I never put up with any other." -- Jane Austen]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6704-it-s-not-vanity-to-know-your-own-good-points-it</guid>
+		<pubDate>Thu, 20 Dec 2007 18:26:45 -0800</pubDate>
+		<title>
+			<![CDATA[Lynnae add a quote by Lucy Maud Montgomery]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6704-it-s-not-vanity-to-know-your-own-good-points-it]]>
+		</link>
+		<description>
+	    <![CDATA["It's not vanity to know your own good points. It would just be stupidity if you didn't; It's only vanity when you get puffed up about them." -- Lucy Maud Montgomery]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

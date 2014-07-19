@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/430506-julia-t]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/430506-julia-t" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 03 Oct 2012 22:49:43 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/193944-the-most-merciful-thing-in-the-world-i-think-is</guid>
+		<pubDate>Wed, 03 Oct 2012 22:49:43 -0700</pubDate>
+		<title>
+			<![CDATA[Julia add a quote by H.P. Lovecraft]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/193944-the-most-merciful-thing-in-the-world-i-think-is]]>
+		</link>
+		<description>
+	    <![CDATA["The most merciful thing in the world, I think, is the inability of the human mind to correlate all its contents. We live on a placid island of ignorance in the midst of black seas of infinity, and it was not meant that we should voyage far. The sciences, each straining in its own direction, have hitherto harmed us little; but some day the piecing together of dissociated knowledge will open up such terrifying vistas of reality, and of our frightful position therein, that we shall either go mad from the revelation or flee from the light into the peace and safety of a new dark age." -- H.P. Lovecraft]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/522568-upset-by-two-nostalgias-facing-each-other-like-two-mirrors</guid>
+		<pubDate>Wed, 03 Oct 2012 22:51:28 -0700</pubDate>
+		<title>
+			<![CDATA[Julia add a quote by Gabriel Garcí­a Márquez]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/522568-upset-by-two-nostalgias-facing-each-other-like-two-mirrors]]>
+		</link>
+		<description>
+	    <![CDATA["Upset by two nostalgias facing each other like two mirrors, he lost his marvelous sense of unreality and he ended up recommending to all of them that they leave Macondo, that they forget everything he had taught them about the world and the human heart, that they shit on Horace, and that wherever they might be they always remember that the past was a lie, that memory has no return, that every spring gone by could never be recovered, and that the wildest and most tenacious love was an ephemeral truth in the end. A" -- Gabriel Garcí­a Márquez]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

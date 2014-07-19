@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/435012-jenna]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/435012-jenna" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 27 May 2008 16:56:34 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/58032-the-problem-with-defending-the-purity-of-the-english-language</guid>
+		<pubDate>Tue, 27 May 2008 16:56:34 -0700</pubDate>
+		<title>
+			<![CDATA[Jenna add a quote by James Nicoll]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/58032-the-problem-with-defending-the-purity-of-the-english-language]]>
+		</link>
+		<description>
+	    <![CDATA["The problem with defending the purity of the English language is that English is about as pure as a cribhouse whore. We don't just borrow words; on occasion, English has pursued other languages down alleyways to beat them unconscious and rifle their pockets for new vocabulary." -- James Nicoll]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

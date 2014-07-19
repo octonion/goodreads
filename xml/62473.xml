@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/62473-luke]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/62473-luke" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 03 Jan 2013 23:07:38 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/157984-the-gods-we-worship-write-their-names-on-our-faces</guid>
+		<pubDate>Thu, 03 Jan 2013 23:07:38 -0800</pubDate>
+		<title>
+			<![CDATA[Luke add a quote by Ralph Waldo Emerson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/157984-the-gods-we-worship-write-their-names-on-our-faces]]>
+		</link>
+		<description>
+	    <![CDATA["The Gods we worship write their names on our faces; be sure of that. And a man will worship something ... That which dominates will determine his life and character. Therefore it behooves us to be careful what we worship, for what  we are worshipping we are becoming." -- Ralph Waldo Emerson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

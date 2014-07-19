@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/838053-angez]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/838053-angez" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 17 Sep 2012 18:17:18 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/16899-i-would-like-to-be-the-air-that-inhabits-you</guid>
+		<pubDate>Mon, 17 Sep 2012 18:17:18 -0700</pubDate>
+		<title>
+			<![CDATA[Angez add a quote by Margaret Atwood]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16899-i-would-like-to-be-the-air-that-inhabits-you]]>
+		</link>
+		<description>
+	    <![CDATA["I would like to be the air that inhabits you for a moment only. I would like to be that unnoticed and that necessary." -- Margaret Atwood]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

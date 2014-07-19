@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1044917-rylee-rice]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1044917-rylee-rice" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 Apr 2008 09:01:24 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5797-the-person-be-it-gentleman-or-lady-who-has-not</guid>
+		<pubDate>Tue, 01 Apr 2008 09:01:24 -0700</pubDate>
+		<title>
+			<![CDATA[Rylee add a quote by Jane Austen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5797-the-person-be-it-gentleman-or-lady-who-has-not]]>
+		</link>
+		<description>
+	    <![CDATA["The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid." -- Jane Austen]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/778-it-is-not-a-lack-of-love-but-a-lack</guid>
+		<pubDate>Tue, 01 Apr 2008 09:01:44 -0700</pubDate>
+		<title>
+			<![CDATA[Rylee add a quote by Friedrich Nietzsche]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/778-it-is-not-a-lack-of-love-but-a-lack]]>
+		</link>
+		<description>
+	    <![CDATA["It is not a lack of love, but a lack of friendship that makes unhappy marriages." -- Friedrich Nietzsche]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/434-he-s-like-a-drug-for-you-bella</guid>
+		<pubDate>Fri, 18 Dec 2009 08:59:56 -0800</pubDate>
+		<title>
+			<![CDATA[Rylee add a quote by Stephenie Meyer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/434-he-s-like-a-drug-for-you-bella]]>
+		</link>
+		<description>
+	    <![CDATA["He's like a drug for you, Bella." -- Stephenie Meyer]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

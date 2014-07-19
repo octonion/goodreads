@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/725447-anniegirl1138]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/725447-anniegirl1138" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 29 Dec 2007 22:28:30 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1404-if-you-don-t-have-time-to-read-you-don-t-have</guid>
+		<pubDate>Sat, 29 Dec 2007 22:28:30 -0800</pubDate>
+		<title>
+			<![CDATA[Anniegirl1138 add a quote by Stephen King]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1404-if-you-don-t-have-time-to-read-you-don-t-have]]>
+		</link>
+		<description>
+	    <![CDATA["If you don't have time to read, you don't have the time (or the tools) to write. Simple as that." -- Stephen King]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6779-a-short-story-is-a-different-thing-all-together--</guid>
+		<pubDate>Sat, 29 Dec 2007 22:28:33 -0800</pubDate>
+		<title>
+			<![CDATA[Anniegirl1138 add a quote by Stephen King]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6779-a-short-story-is-a-different-thing-all-together--]]>
+		</link>
+		<description>
+	    <![CDATA["A short story is a different thing all together - a short story is like a kiss in the dark from a stranger." -- Stephen King]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/365-you-have-to-write-the-book-that-wants-to-be</guid>
+		<pubDate>Sat, 29 Dec 2007 22:32:12 -0800</pubDate>
+		<title>
+			<![CDATA[Anniegirl1138 add a quote by Madeleine L'Engle]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/365-you-have-to-write-the-book-that-wants-to-be]]>
+		</link>
+		<description>
+	    <![CDATA["You have to write the book that wants to be written. And if the book will be too difficult for grown-ups, then you write it for children." -- Madeleine L'Engle]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

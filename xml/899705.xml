@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/899705-nicole]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/899705-nicole" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 07 Jul 2012 18:39:57 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/18344-sometimes-i-lie-awake-at-night-and-i-ask-is</guid>
+		<pubDate>Sat, 07 Jul 2012 18:39:57 -0700</pubDate>
+		<title>
+			<![CDATA[Nicole add a quote by Charles M. Schulz]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18344-sometimes-i-lie-awake-at-night-and-i-ask-is]]>
+		</link>
+		<description>
+	    <![CDATA["Sometimes I lie awake at night and I ask, &quot;Is life a multiple choice test or is it a true or false test?&quot; ...Then a voice comes to me out of the dark and says, &quot;We hate to tell you this but life is a thousand word essay." -- Charles M. Schulz]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/62015-why-can-t-we-get-all-the-people-together-in-the</guid>
+		<pubDate>Sat, 07 Jul 2012 18:40:37 -0700</pubDate>
+		<title>
+			<![CDATA[Nicole add a quote by Charles M. Schulz]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/62015-why-can-t-we-get-all-the-people-together-in-the]]>
+		</link>
+		<description>
+	    <![CDATA["Why can't we get all the people together in the world that we really like and then just stay together?  I guess that wouldn't work.  Someone would leave.  Someone always leaves.  Then we would have to say good-bye.  I hate good-byes.  I know what I need.  I need more hellos." -- Charles M. Schulz]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/176169-kathryn]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/176169-kathryn" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 15 Aug 2008 16:31:49 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/7981-i-ve-never-considered-myself-a-yoga-person-in-fact-i-m</guid>
+		<pubDate>Fri, 15 Aug 2008 16:31:49 -0700</pubDate>
+		<title>
+			<![CDATA[Kathryn add a quote by Laura Wolf]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7981-i-ve-never-considered-myself-a-yoga-person-in-fact-i-m]]>
+		</link>
+		<description>
+	    <![CDATA["I've never considered myself a yoga person; in fact I'm kinda disgusted by the whole yoga phenomenon - pampered white people getting in touch with their inner Indians." -- Laura Wolf]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

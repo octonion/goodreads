@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/680130-tom-britz]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/680130-tom-britz" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 18 Aug 2012 08:27:26 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2393-brevity-is-the-soul-of-lingerie</guid>
+		<pubDate>Sat, 18 Aug 2012 08:27:26 -0700</pubDate>
+		<title>
+			<![CDATA[Tom add a quote by Dorothy Parker]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2393-brevity-is-the-soul-of-lingerie]]>
+		</link>
+		<description>
+	    <![CDATA["Brevity is the soul of lingerie." -- Dorothy Parker]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/14851-a-sense-of-humor-is-superior-to-any-religion-so-far</guid>
+		<pubDate>Sat, 26 Oct 2013 05:02:53 -0700</pubDate>
+		<title>
+			<![CDATA[Tom add a quote by Tom Robbins]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14851-a-sense-of-humor-is-superior-to-any-religion-so-far]]>
+		</link>
+		<description>
+	    <![CDATA["A sense of humor...is superior to any religion so far devised." -- Tom Robbins]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/30173-writing-is-a-job-a-talent-but-it-s-also-the</guid>
+		<pubDate>Wed, 18 Dec 2013 06:55:29 -0800</pubDate>
+		<title>
+			<![CDATA[Tom add a quote by Ann Patchett]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/30173-writing-is-a-job-a-talent-but-it-s-also-the]]>
+		</link>
+		<description>
+	    <![CDATA["Writing is a job, a talent, but it's also the place to go in your head. It is the imaginary friend you drink your tea with in the afternoon." -- Ann Patchett]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

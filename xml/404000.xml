@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/404000-sarah]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/404000-sarah" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 21 Mar 2011 08:31:12 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/61787-i-would-always-rather-be-happy-than-dignified</guid>
+		<pubDate>Mon, 21 Mar 2011 08:31:12 -0700</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by Charlotte Brontë]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/61787-i-would-always-rather-be-happy-than-dignified]]>
+		</link>
+		<description>
+	    <![CDATA["I would always rather be happy than dignified." -- Charlotte Brontë]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/624-if-i-read-a-book-and-it-makes-my-whole</guid>
+		<pubDate>Tue, 28 Jan 2014 17:05:48 -0800</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by Emily Dickinson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/624-if-i-read-a-book-and-it-makes-my-whole]]>
+		</link>
+		<description>
+	    <![CDATA["If I read a book and it makes my whole body so cold no fire can warm me, I know that is poetry. If I feel physically as if the top of my head were taken off, I know that is poetry. These are the only ways I know it. Is there any other way?" -- Emily Dickinson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

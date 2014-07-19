@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/872317-edilberto]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/872317-edilberto" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 11 Feb 2008 08:43:31 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/17821-to-forbid-us-anything-is-to-make-us-have-a</guid>
+		<pubDate>Mon, 11 Feb 2008 08:43:31 -0800</pubDate>
+		<title>
+			<![CDATA[Edilberto add a quote by Michel de Montaigne]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17821-to-forbid-us-anything-is-to-make-us-have-a]]>
+		</link>
+		<description>
+	    <![CDATA["To forbid us anything is to make us have a mind for it." -- Michel de Montaigne]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/16214-viajar-perder-ciudades-perderlos-todos</guid>
+		<pubDate>Fri, 15 Feb 2008 13:28:55 -0800</pubDate>
+		<title>
+			<![CDATA[Edilberto add a quote by Enrique Vila-Matas]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16214-viajar-perder-ciudades-perderlos-todos]]>
+		</link>
+		<description>
+	    <![CDATA["Viajar, perder ciudades, perderlos todos." -- Enrique Vila-Matas]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/9840-we-shall-not-cease-from-exploration-and-the-end-of</guid>
+		<pubDate>Sat, 16 Feb 2008 10:17:14 -0800</pubDate>
+		<title>
+			<![CDATA[Edilberto add a quote by T. S. Eliot]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9840-we-shall-not-cease-from-exploration-and-the-end-of]]>
+		</link>
+		<description>
+	    <![CDATA["We shall not cease from exploration
+And the end of all our exploring
+Will be to arrive where we started
+And know the place for the first time." -- T. S. Eliot]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

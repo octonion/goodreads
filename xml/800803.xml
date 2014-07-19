@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/800803-natasha]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/800803-natasha" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 21 May 2008 09:57:19 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/74456-whatsoever-therefore-is-consequent-to-a-time-of-war-where</guid>
+		<pubDate>Wed, 21 May 2008 09:57:19 -0700</pubDate>
+		<title>
+			<![CDATA[Natasha add a quote by Thomas Hobbes]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/74456-whatsoever-therefore-is-consequent-to-a-time-of-war-where]]>
+		</link>
+		<description>
+	    <![CDATA["Whatsoever therefore is consequent to  a time of war, where every man is enemy to every man, the same consequent to the time wherein men live without other security than what their own strength and their own invention shall furnish them withal. In such condition there is no place for industry... no knowledge of the face of the earth; no account of time; no arts; no letters; no society; and which is worst of all, continual fear, and danger of violent death; and the life of man, solitary, poor, nasty, brutish, and short." -- Thomas Hobbes]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

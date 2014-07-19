@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/385185-i-love-a-happily-ever-after]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/385185-i-love-a-happily-ever-after" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 10 Jan 2014 13:15:02 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/71215-you-always-get-more-respect-when-you-don-t-have-a</guid>
+		<pubDate>Fri, 10 Jan 2014 13:15:02 -0800</pubDate>
+		<title>
+			<![CDATA[I_love_a_happily_ever_after add a quote by Julia Quinn]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/71215-you-always-get-more-respect-when-you-don-t-have-a]]>
+		</link>
+		<description>
+	    <![CDATA["You always get more respect when you don't have a happy ending." -- Julia Quinn]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/744876-if-you-want-something-said-ask-a-man-if-you</guid>
+		<pubDate>Fri, 30 May 2014 09:39:06 -0700</pubDate>
+		<title>
+			<![CDATA[I_love_a_happily_ever_after add a quote by Margaret Thatcher]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/744876-if-you-want-something-said-ask-a-man-if-you]]>
+		</link>
+		<description>
+	    <![CDATA["If you want something said, ask a man; if you want something done, ask a woman." -- Margaret Thatcher]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

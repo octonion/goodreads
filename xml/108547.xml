@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/108547-emjay]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/108547-emjay" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 17 Aug 2008 22:40:57 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/23155-sunset-is-the-saddest-light-there-is</guid>
+		<pubDate>Sun, 17 Aug 2008 22:40:57 -0700</pubDate>
+		<title>
+			<![CDATA[EmJay add a quote by Sue Monk Kidd]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/23155-sunset-is-the-saddest-light-there-is]]>
+		</link>
+		<description>
+	    <![CDATA["Sunset is the saddest light there is." -- Sue Monk Kidd]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/83403-horror-was-rooted-in-sympathy-in-understanding</guid>
+		<pubDate>Sun, 17 Aug 2008 22:43:43 -0700</pubDate>
+		<title>
+			<![CDATA[EmJay add a quote by Joe Hill]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/83403-horror-was-rooted-in-sympathy-in-understanding]]>
+		</link>
+		<description>
+	    <![CDATA["Horror was rooted in sympathy . . . in understanding what it would be like to suffer the worst." -- Joe Hill]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/17242-never-apologize-for-your-reading-tastes</guid>
+		<pubDate>Sun, 17 Aug 2008 22:47:59 -0700</pubDate>
+		<title>
+			<![CDATA[EmJay add a quote by Betty Rosenberg]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17242-never-apologize-for-your-reading-tastes]]>
+		</link>
+		<description>
+	    <![CDATA["Never apologize for your reading tastes." -- Betty Rosenberg]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/723-it-is-not-often-that-someone-comes-along-who-is</guid>
+		<pubDate>Sun, 17 Aug 2008 23:18:38 -0700</pubDate>
+		<title>
+			<![CDATA[EmJay add a quote by E.B. White]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/723-it-is-not-often-that-someone-comes-along-who-is]]>
+		</link>
+		<description>
+	    <![CDATA["It is not often that someone comes along who is a true friend and a good writer." -- E.B. White]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

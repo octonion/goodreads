@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/79209-gianna-mosser]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/79209-gianna-mosser" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 02 Aug 2013 10:46:47 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/7512-first-of-all-let-s-get-one-thing-straight-your-italy</guid>
+		<pubDate>Fri, 02 Aug 2013 10:46:47 -0700</pubDate>
+		<title>
+			<![CDATA[Gianna add a quote by Beppe Severgnini]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7512-first-of-all-let-s-get-one-thing-straight-your-italy]]>
+		</link>
+		<description>
+	    <![CDATA["First of all, let's get one thing straight. Your Italy and our Italia are not the same thing. Italy is a soft drug peddled in predictable packages, such as hills in the sunset, olive groves, lemon trees, white wine, and raven-haired girls. Italia, on the other hand, is a maze. It's alluring, but complicated. It's the kind of place that can have you fuming and then purring in the space of a hundred meters, or in the course of ten minutes. Italy is the only workshop in the world that can turn out both Botticellis and Berlusconis." -- Beppe Severgnini]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/200431-if-you-have-the-words-there-s-always-a-chance-that</guid>
+		<pubDate>Sun, 13 Apr 2014 15:37:47 -0700</pubDate>
+		<title>
+			<![CDATA[Gianna add a quote by Seamus Heaney]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/200431-if-you-have-the-words-there-s-always-a-chance-that]]>
+		</link>
+		<description>
+	    <![CDATA["If you have the words, there's always a chance that you'll find the way." -- Seamus Heaney]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

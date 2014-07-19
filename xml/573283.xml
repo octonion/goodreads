@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/573283-carlita]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/573283-carlita" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 06 Jul 2011 13:38:18 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/353-for-every-minute-you-are-angry-you-lose-sixty-seconds</guid>
+		<pubDate>Wed, 06 Jul 2011 13:38:18 -0700</pubDate>
+		<title>
+			<![CDATA[Carlita add a quote by Ralph Waldo Emerson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/353-for-every-minute-you-are-angry-you-lose-sixty-seconds]]>
+		</link>
+		<description>
+	    <![CDATA["For every minute you are angry you lose sixty seconds of happiness." -- Ralph Waldo Emerson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/133764-the-governor-of-texas-who-when-asked-if-the-bible</guid>
+		<pubDate>Sun, 20 Nov 2011 01:57:33 -0800</pubDate>
+		<title>
+			<![CDATA[Carlita add a quote by Christopher Hitchens]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/133764-the-governor-of-texas-who-when-asked-if-the-bible]]>
+		</link>
+		<description>
+	    <![CDATA["The governor of Texas, who, when asked if the Bible should also be taught in Spanish, replied that 'if English was good enough for Jesus, then it's good enough for me." -- Christopher Hitchens]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/37706-creativity-is-intelligence-having-fun</guid>
+		<pubDate>Sun, 04 Aug 2013 15:39:02 -0700</pubDate>
+		<title>
+			<![CDATA[Carlita add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/37706-creativity-is-intelligence-having-fun]]>
+		</link>
+		<description>
+	    <![CDATA["Creativity is intelligence having fun." -- Albert Einstein]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

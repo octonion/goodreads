@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/529836-phil-williams]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/529836-phil-williams" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 17 Aug 2012 04:57:41 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/75359-the-more-i-study-religions-the-more-i-am-convinced</guid>
+		<pubDate>Fri, 17 Aug 2012 04:57:41 -0700</pubDate>
+		<title>
+			<![CDATA[Phil add a quote by Richard Francis Burton]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/75359-the-more-i-study-religions-the-more-i-am-convinced]]>
+		</link>
+		<description>
+	    <![CDATA["The more I study religions the more I am convinced that man never worshiped anything but himself." -- Richard Francis Burton]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/160525-if-you-can-t-laugh-together-in-bed-the-chances-are</guid>
+		<pubDate>Fri, 17 Aug 2012 04:57:53 -0700</pubDate>
+		<title>
+			<![CDATA[Phil add a quote by Richard Burton]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/160525-if-you-can-t-laugh-together-in-bed-the-chances-are]]>
+		</link>
+		<description>
+	    <![CDATA["If you can’t laugh together in bed, the chances are you are incompatible, anyway. I’d rather hear a girl laugh well than try to turn me on with long, silent, soulful, secret looks. If you can laugh with a woman, everything else falls into place." -- Richard Burton]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

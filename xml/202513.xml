@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/202513-jenn-dlv]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/202513-jenn-dlv" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 08 Jan 2008 07:09:55 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/11442-and-i-want-to-be-held-down-i-don-t-know</guid>
+		<pubDate>Tue, 08 Jan 2008 07:09:55 -0800</pubDate>
+		<title>
+			<![CDATA[Jenn add a quote by Clarice Lispector]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11442-and-i-want-to-be-held-down-i-don-t-know]]>
+		</link>
+		<description>
+	    <![CDATA["And I want to be held down. I don't know what to do with the horrifying freedom that can destroy me." -- Clarice Lispector]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/11443-if-the-soul-cannot-find-its-jacket-it-is-condemned</guid>
+		<pubDate>Tue, 08 Jan 2008 07:11:55 -0800</pubDate>
+		<title>
+			<![CDATA[Jenn add a quote by Anne Fadiman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11443-if-the-soul-cannot-find-its-jacket-it-is-condemned]]>
+		</link>
+		<description>
+	    <![CDATA["If the soul cannot find its jacket. it is condemned to an eternity of wandering--naked and alone" -- Anne Fadiman]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

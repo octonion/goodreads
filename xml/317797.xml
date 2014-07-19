@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/317797-chris]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/317797-chris" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 03 Jan 2014 07:51:06 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/980355-there-were-glaciers-on-the-mountains-in-my-dream-giant</guid>
+		<pubDate>Fri, 03 Jan 2014 07:51:06 -0800</pubDate>
+		<title>
+			<![CDATA[Chris add a quote by William David Hannah]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/980355-there-were-glaciers-on-the-mountains-in-my-dream-giant]]>
+		</link>
+		<description>
+	    <![CDATA["There were glaciers on the mountains, in my dream. Giant white and blue masses of ice, eons forming, creeping ever so slowly toward the valleys they would never reach. The valleys were filled with flowers, wild and abandoned, twisting, reaching like tallest trees far above my head. Fairies twirled and skimmed. Fairies. Beings that proclaimed that life was fair in this perfect world…." -- William David Hannah]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

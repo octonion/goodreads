@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1083201-alicia]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1083201-alicia" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 22 Oct 2012 11:39:20 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/292212-when-someone-loves-you-the-way-they-say-your-name</guid>
+		<pubDate>Mon, 22 Oct 2012 11:39:20 -0700</pubDate>
+		<title>
+			<![CDATA[Alicia add a quote by Jess C. Scott]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/292212-when-someone-loves-you-the-way-they-say-your-name]]>
+		</link>
+		<description>
+	    <![CDATA["When someone loves you, the way they say your name is different. You know that your name is safe in their mouth." -- Jess C. Scott]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/794904-it-was-expected-that-men-s-hands-would-be-good-and</guid>
+		<pubDate>Mon, 05 May 2014 09:02:26 -0700</pubDate>
+		<title>
+			<![CDATA[Alicia add a quote by Wiley Cash]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/794904-it-was-expected-that-men-s-hands-would-be-good-and]]>
+		</link>
+		<description>
+	    <![CDATA["It was expected that men's hands would be good and calloused by reins and shovels and the hands of other men whose lives they knew by the tough skin of their handshakes." -- Wiley Cash]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/803559-it-was-like-a-tree-had-sprung-up-between-them</guid>
+		<pubDate>Mon, 05 May 2014 09:02:32 -0700</pubDate>
+		<title>
+			<![CDATA[Alicia add a quote by Wiley Cash]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/803559-it-was-like-a-tree-had-sprung-up-between-them]]>
+		</link>
+		<description>
+	    <![CDATA["It was like a tree had sprung up between them, a tree that was just too thick to throw their arms around." -- Wiley Cash]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

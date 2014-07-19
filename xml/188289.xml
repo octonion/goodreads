@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/188289-magdalena]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/188289-magdalena" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 10 Mar 2012 01:13:42 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6001-think-you-re-escaping-and-run-into-yourself-longest-way-round</guid>
+		<pubDate>Sat, 10 Mar 2012 01:13:42 -0800</pubDate>
+		<title>
+			<![CDATA[Magdalena add a quote by James Joyce]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6001-think-you-re-escaping-and-run-into-yourself-longest-way-round]]>
+		</link>
+		<description>
+	    <![CDATA["Think you're escaping and run into yourself. Longest way round is the shortest way home." -- James Joyce]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

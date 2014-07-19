@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/453150-stephanie-wilson]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/453150-stephanie-wilson" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 25 Dec 2007 18:41:15 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/7617-no-one-gets-to-walk-between-the-rain</guid>
+		<pubDate>Tue, 25 Dec 2007 18:41:15 -0800</pubDate>
+		<title>
+			<![CDATA[Stephanie add a quote by Bob Segar]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7617-no-one-gets-to-walk-between-the-rain]]>
+		</link>
+		<description>
+	    <![CDATA["No one gets to walk between the rain." -- Bob Segar]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/7619-happiness-is-not-by-chance-but-by-choice</guid>
+		<pubDate>Tue, 25 Dec 2007 18:42:35 -0800</pubDate>
+		<title>
+			<![CDATA[Stephanie add a quote by Jim Rohn]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7619-happiness-is-not-by-chance-but-by-choice]]>
+		</link>
+		<description>
+	    <![CDATA["Happiness is not by chance, but by choice." -- Jim Rohn]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/13794-that-love-which-does-not-build-a-foundation-on-good</guid>
+		<pubDate>Tue, 15 Jan 2008 20:32:56 -0800</pubDate>
+		<title>
+			<![CDATA[Stephanie add a quote by Ian McEwan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13794-that-love-which-does-not-build-a-foundation-on-good]]>
+		</link>
+		<description>
+	    <![CDATA["That love which does not build a foundation on good sense is doomed." -- Ian McEwan]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

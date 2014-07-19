@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/407712-linda]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/407712-linda" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 20 Mar 2013 01:17:53 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/72160-if-you-only-read-the-books-that-everyone-else-is</guid>
+		<pubDate>Wed, 20 Mar 2013 01:17:53 -0700</pubDate>
+		<title>
+			<![CDATA[Linda add a quote by Haruki Murakami]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/72160-if-you-only-read-the-books-that-everyone-else-is]]>
+		</link>
+		<description>
+	    <![CDATA["If you only read the books that everyone else is reading, you can only think what everyone else is thinking." -- Haruki Murakami]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/270015-why-can-t-people-just-sit-and-read-books-and-be</guid>
+		<pubDate>Fri, 07 Mar 2014 14:35:59 -0800</pubDate>
+		<title>
+			<![CDATA[Linda add a quote by David Baldacci]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/270015-why-can-t-people-just-sit-and-read-books-and-be]]>
+		</link>
+		<description>
+	    <![CDATA["Why can't people just sit and read books and be nice to each other?" -- David Baldacci]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

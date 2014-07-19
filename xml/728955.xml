@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/728955-phillip-fields]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/728955-phillip-fields" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 Jan 2008 17:13:34 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/9259-the-temperature-in-that-hangar-would-sometimes-get-down-to</guid>
+		<pubDate>Tue, 01 Jan 2008 17:13:34 -0800</pubDate>
+		<title>
+			<![CDATA[Phillip add a quote by LARRY DAVID]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9259-the-temperature-in-that-hangar-would-sometimes-get-down-to]]>
+		</link>
+		<description>
+	    <![CDATA["The temperature in that hangar would sometimes get down to 40 degrees, and very often I had to put on long underwear, which was so restrictive I suffered from an acute vascular disorder for days afterward." -- LARRY DAVID]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

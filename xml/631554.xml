@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/631554-david-quick]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/631554-david-quick" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 06 May 2014 07:59:48 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/808571-a-story-is-like-a-moving-train-no-matter-where</guid>
+		<pubDate>Tue, 06 May 2014 07:59:48 -0700</pubDate>
+		<title>
+			<![CDATA[David add a quote by Khaled Hosseini]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/808571-a-story-is-like-a-moving-train-no-matter-where]]>
+		</link>
+		<description>
+	    <![CDATA["A story is like a moving train: no matter where you hop onboard, you are bound to reach your destination sooner or later." -- Khaled Hosseini]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

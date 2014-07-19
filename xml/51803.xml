@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/51803-michael]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/51803-michael" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 07 May 2013 11:08:14 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/57688-i-hate-writing-i-love-having-written</guid>
+		<pubDate>Tue, 07 May 2013 11:08:14 -0700</pubDate>
+		<title>
+			<![CDATA[Michael add a quote by Dorothy Parker]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/57688-i-hate-writing-i-love-having-written]]>
+		</link>
+		<description>
+	    <![CDATA["I hate writing, I love having written." -- Dorothy Parker]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/22524-we-are-just-an-advanced-breed-of-monkeys-on-a</guid>
+		<pubDate>Wed, 08 Jan 2014 17:31:12 -0800</pubDate>
+		<title>
+			<![CDATA[Michael add a quote by Stephen Hawking]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22524-we-are-just-an-advanced-breed-of-monkeys-on-a]]>
+		</link>
+		<description>
+	    <![CDATA["We are just an advanced breed of monkeys on a minor planet of a very average star. But we can understand the Universe. That makes us something very special." -- Stephen Hawking]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

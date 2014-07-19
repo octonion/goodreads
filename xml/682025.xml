@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/682025-jenny-roche]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/682025-jenny-roche" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 25 Feb 2013 09:28:27 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/110174-if-you-want-to-sacrifice-the-admiration-of-many-men</guid>
+		<pubDate>Mon, 25 Feb 2013 09:28:27 -0800</pubDate>
+		<title>
+			<![CDATA[Jenny add a quote by Katharine Hepburn]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/110174-if-you-want-to-sacrifice-the-admiration-of-many-men]]>
+		</link>
+		<description>
+	    <![CDATA["If you want to sacrifice the admiration of many men for the criticism of one, go ahead, get married." -- Katharine Hepburn]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/994980-no-matter-how-you-feel-about-your-extended-family-or</guid>
+		<pubDate>Wed, 15 Jan 2014 19:46:31 -0800</pubDate>
+		<title>
+			<![CDATA[Jenny add a quote by Jim Gaffigan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/994980-no-matter-how-you-feel-about-your-extended-family-or]]>
+		</link>
+		<description>
+	    <![CDATA["No matter how you feel about your extended family or family gatherings you will be attending. This is because now the ultimate reason for attending family gatherings is for your children to have the time of their lives with their cousins. Little kids love their cousins. I’m not being cute or exaggerating here. Cousins are like celebrities for little kids. If little kids had a People magazine, cousins would be on the cover. Cousins are the barometers of how fun a family get-together will be. “Are the cousins going to be there? Fun!" -- Jim Gaffigan]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

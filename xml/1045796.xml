@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1045796-floyd]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1045796-floyd" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 Apr 2008 15:25:05 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/845-the-individual-has-always-had-to-struggle-to-keep-from</guid>
+		<pubDate>Tue, 01 Apr 2008 15:25:05 -0700</pubDate>
+		<title>
+			<![CDATA[Floyd add a quote by Friedrich Nietzsche]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/845-the-individual-has-always-had-to-struggle-to-keep-from]]>
+		</link>
+		<description>
+	    <![CDATA["The individual has always had to struggle to keep from being overwhelmed by the tribe. If you try it, you will be lonely often, and sometimes frightened. But no price is too high to pay for the privilege of owning yourself." -- Friedrich Nietzsche]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/10104-there-was-a-thing-called-heaven-but-all-the-same</guid>
+		<pubDate>Tue, 01 Apr 2008 16:26:12 -0700</pubDate>
+		<title>
+			<![CDATA[Floyd add a quote by Aldous Huxley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10104-there-was-a-thing-called-heaven-but-all-the-same]]>
+		</link>
+		<description>
+	    <![CDATA["There was a thing called Heaven; but all the same they used to drink enormous quantities of alcohol." -- Aldous Huxley]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

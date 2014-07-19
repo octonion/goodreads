@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/566875-madalynn-rose]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/566875-madalynn-rose" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 08 Jun 2008 12:46:39 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1283-all-our-dreams-can-come-true-if-we-have-the</guid>
+		<pubDate>Sun, 08 Jun 2008 12:46:39 -0700</pubDate>
+		<title>
+			<![CDATA[Madalynn add a quote by Walt Disney]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1283-all-our-dreams-can-come-true-if-we-have-the]]>
+		</link>
+		<description>
+	    <![CDATA["All our dreams can come true, if we have the courage to pursue them." -- Walt Disney]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/865-be-who-you-are-and-say-what-you-feel-because</guid>
+		<pubDate>Sun, 17 Feb 2008 13:45:51 -0800</pubDate>
+		<title>
+			<![CDATA[Madalynn add a quote by Bernard M. Baruch]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/865-be-who-you-are-and-say-what-you-feel-because]]>
+		</link>
+		<description>
+	    <![CDATA["Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind." -- Bernard M. Baruch]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/9938-whatever-you-are-be-a-good-one</guid>
+		<pubDate>Sun, 30 Dec 2007 13:06:24 -0800</pubDate>
+		<title>
+			<![CDATA[Madalynn add a quote by Abraham Lincoln]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9938-whatever-you-are-be-a-good-one]]>
+		</link>
+		<description>
+	    <![CDATA["Whatever you are, be a good one." -- Abraham Lincoln]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

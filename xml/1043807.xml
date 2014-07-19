@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1043807-crys-lafata]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1043807-crys-lafata" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 31 Mar 2008 22:24:58 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1576-there-is-a-time-in-every-man-s-education-when-he</guid>
+		<pubDate>Mon, 31 Mar 2008 22:24:58 -0700</pubDate>
+		<title>
+			<![CDATA[Crys add a quote by Ralph Waldo Emerson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1576-there-is-a-time-in-every-man-s-education-when-he]]>
+		</link>
+		<description>
+	    <![CDATA["There is a time in every man's education when he arrives at the conviction that envy is ignorance; that imitation is suicide; that he must take himself for better, for worse, as his portion; that though the wide universe is full of good, no kernel of nourishing corn can come to him but through his toil bestowed on that plot of ground which is given to him to till. The power which resides in him is new in nature, and none but he knows what that is which he can do, nor does he know until he has tried." -- Ralph Waldo Emerson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5801-a-hero-is-no-braver-than-an-ordinary-man-but</guid>
+		<pubDate>Mon, 31 Mar 2008 22:25:28 -0700</pubDate>
+		<title>
+			<![CDATA[Crys add a quote by Ralph Waldo Emerson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5801-a-hero-is-no-braver-than-an-ordinary-man-but]]>
+		</link>
+		<description>
+	    <![CDATA["A hero is no braver than an ordinary man, but he is brave five minutes longer." -- Ralph Waldo Emerson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

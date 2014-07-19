@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/722343-amanda]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/722343-amanda" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 20 May 2014 19:34:21 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/151822-you-have-to-carry-the-fire-i-don-t-know-how</guid>
+		<pubDate>Tue, 20 May 2014 19:34:21 -0700</pubDate>
+		<title>
+			<![CDATA[Amanda add a quote by Cormac McCarthy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/151822-you-have-to-carry-the-fire-i-don-t-know-how]]>
+		</link>
+		<description>
+	    <![CDATA["You have to carry the fire.&quot;
+I don't know how to.&quot;
+Yes, you do.&quot;
+Is the fire real?  The fire?&quot;
+Yes it is.&quot;
+Where is it?  I don't know where it is.&quot;
+Yes you do.  It's inside you.  It always was there.  I can see it." -- Cormac McCarthy]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

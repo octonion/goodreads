@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/387514-matthew]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/387514-matthew" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 16 Mar 2008 14:37:56 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/35245-i-do-not-like-an-injurious-lie-except-when-it</guid>
+		<pubDate>Sun, 16 Mar 2008 14:37:56 -0700</pubDate>
+		<title>
+			<![CDATA[Matthew add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/35245-i-do-not-like-an-injurious-lie-except-when-it]]>
+		</link>
+		<description>
+	    <![CDATA["I do not like an injurious lie, except when it injures somebody else." -- Mark Twain]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2346-you-cannot-conceive-nor-can-i-of-the-appalling-strangeness</guid>
+		<pubDate>Fri, 09 Aug 2013 12:55:18 -0700</pubDate>
+		<title>
+			<![CDATA[Matthew add a quote by Graham Greene]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2346-you-cannot-conceive-nor-can-i-of-the-appalling-strangeness]]>
+		</link>
+		<description>
+	    <![CDATA["You cannot conceive, nor can I, of the appalling strangeness of the mercy of God." -- Graham Greene]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

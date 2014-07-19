@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/321219-michelle]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/321219-michelle" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 16 Sep 2011 09:33:19 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/75358-it-is-a-curious-thought-but-it-is-only-when</guid>
+		<pubDate>Fri, 16 Sep 2011 09:33:19 -0700</pubDate>
+		<title>
+			<![CDATA[Michelle add a quote by Agatha Christie]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/75358-it-is-a-curious-thought-but-it-is-only-when]]>
+		</link>
+		<description>
+	    <![CDATA["It is a curious thought, but it is only when you see people looking ridiculous that you realize just how much you love them.  " -- Agatha Christie]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/70054-ladies-large-masses-of-girls-are-often-prone-to-this</guid>
+		<pubDate>Sat, 20 Oct 2012 07:23:43 -0700</pubDate>
+		<title>
+			<![CDATA[Michelle add a quote by Sloane Crosley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/70054-ladies-large-masses-of-girls-are-often-prone-to-this]]>
+		</link>
+		<description>
+	    <![CDATA["Ladies. Large masses of girls are often prone to this salutation. I hate being mollified with this unsolicited &quot;ladies&quot; business. I know we're all women. I am conscious of my breasts. Do I have to be conscious of yours as well? Do men do this? Do they go, &quot;Men: Meet for ribs in the shed after the game. Keg beer, raw eggs, and death metal only.&quot; I would imagine not." -- Sloane Crosley]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

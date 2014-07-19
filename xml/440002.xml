@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/440002-rhonda-hughes]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/440002-rhonda-hughes" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 09 Apr 2012 09:49:51 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/526503-if-ever-you-should-have-an-epiphany-and-i</guid>
+		<pubDate>Mon, 09 Apr 2012 09:49:51 -0700</pubDate>
+		<title>
+			<![CDATA[Rhonda add a quote by James Bernard Frost]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/526503-if-ever-you-should-have-an-epiphany-and-i]]>
+		</link>
+		<description>
+	    <![CDATA["If ever you should have an epiphany – and I think you know what I’m talking about – latch onto it, no matter how small or large the epiphany, and try your best to make it happen. You might make a fool of yourself, but better to make a fool of yourself than to spend your life jealous of the fools." -- James Bernard Frost]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

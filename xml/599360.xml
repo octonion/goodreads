@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/599360-igor]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/599360-igor" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 22 Mar 2013 12:32:43 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/56602-the-things-you-do-for-yourself-are-gone-when-you</guid>
+		<pubDate>Fri, 22 Mar 2013 12:32:43 -0700</pubDate>
+		<title>
+			<![CDATA[Igor add a quote by Kalu Ndukwe Kalu]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/56602-the-things-you-do-for-yourself-are-gone-when-you]]>
+		</link>
+		<description>
+	    <![CDATA["The things you do for yourself are gone when you are gone, but the things you do for others remain as your legacy." -- Kalu Ndukwe Kalu]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/19198-we-can-easily-forgive-a-child-who-is-afraid-of</guid>
+		<pubDate>Sun, 14 Apr 2013 06:18:40 -0700</pubDate>
+		<title>
+			<![CDATA[Igor add a quote by Plato]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/19198-we-can-easily-forgive-a-child-who-is-afraid-of]]>
+		</link>
+		<description>
+	    <![CDATA["We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light." -- Plato]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

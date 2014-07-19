@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/969473-hanna]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/969473-hanna" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 03 Sep 2008 17:36:26 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/93959-these-books-can-t-possibly-compete-with-centuries-of-established-history</guid>
+		<pubDate>Wed, 03 Sep 2008 17:36:26 -0700</pubDate>
+		<title>
+			<![CDATA[Hanna add a quote by Dan Brown]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/93959-these-books-can-t-possibly-compete-with-centuries-of-established-history]]>
+		</link>
+		<description>
+	    <![CDATA["These books can't possibly compete with centuries of established history, especially when that history is endorsed by the ultimate bestseller of all time.&quot; 
+Faukman's eyes went wide. &quot;Don't tell me Harry Potter is actually about the Holy Grail.&quot;
+&quot;I was referring to the Bible.&quot;
+Faukman cringed. &quot;I knew that." -- Dan Brown]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

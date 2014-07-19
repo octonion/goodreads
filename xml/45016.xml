@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/45016-baxter]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/45016-baxter" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 13 Aug 2008 11:11:17 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/82153-en-bruger-br-ndevin-en-anden-bruger-l-gne-ja-s</guid>
+		<pubDate>Wed, 13 Aug 2008 11:11:17 -0700</pubDate>
+		<title>
+			<![CDATA[baxter add a quote by Henrik Ibsen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/82153-en-bruger-br-ndevin-en-anden-bruger-l-gne-ja-s]]>
+		</link>
+		<description>
+	    <![CDATA["en bruger brændevin, en anden bruger løgne; å ja! så brugte vi eventyr om prinser og trolde og allslags dyr" -- Henrik Ibsen]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/80933-the-majority-is-never-right-never-i-tell-you-that-s</guid>
+		<pubDate>Wed, 13 Aug 2008 11:12:07 -0700</pubDate>
+		<title>
+			<![CDATA[baxter add a quote by Henrik Ibsen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/80933-the-majority-is-never-right-never-i-tell-you-that-s]]>
+		</link>
+		<description>
+	    <![CDATA["The majority is never right. Never, I tell you! That's one of these lies in society that no free and intelligent man can help rebelling against. Who are the people that make up the biggest proportion of the population -- the intelligent ones or the fools?" -- Henrik Ibsen]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

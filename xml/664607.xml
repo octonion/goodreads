@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/664607-luv2blink]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/664607-luv2blink" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 18 Jun 2012 22:31:52 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/69415-pain-is-temporary-quitting-lasts-forever</guid>
+		<pubDate>Mon, 18 Jun 2012 22:31:52 -0700</pubDate>
+		<title>
+			<![CDATA[Luv2blink add a quote by Lance Armstrong Sally Jenkins]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/69415-pain-is-temporary-quitting-lasts-forever]]>
+		</link>
+		<description>
+	    <![CDATA["Pain is temporary. Quitting lasts forever." -- Lance Armstrong Sally Jenkins]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/178707-pain-is-temporary-it-may-last-a-minute-or-an</guid>
+		<pubDate>Mon, 18 Jun 2012 22:32:33 -0700</pubDate>
+		<title>
+			<![CDATA[Luv2blink add a quote by Lance Armstrong]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/178707-pain-is-temporary-it-may-last-a-minute-or-an]]>
+		</link>
+		<description>
+	    <![CDATA["Pain is temporary. It may last a minute, or an hour, or a day, or a year, but eventually it will subside and something else will take its place. If I quit, however, it lasts forever. That surrender, even the smallest act of giving up, stays with me. So when I feel like quitting, I ask myself, which would I rather live with?" -- Lance Armstrong]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

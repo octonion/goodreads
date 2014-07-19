@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/995667-sandi]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/995667-sandi" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 07 Apr 2013 11:42:30 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4583-always-forgive-your-enemies-nothing-annoys-them-so-much</guid>
+		<pubDate>Sun, 07 Apr 2013 11:42:30 -0700</pubDate>
+		<title>
+			<![CDATA[Sandi add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4583-always-forgive-your-enemies-nothing-annoys-them-so-much]]>
+		</link>
+		<description>
+	    <![CDATA["Always forgive your enemies; nothing annoys them so much." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/74235-i-think-that-if-god-forgives-us-we-must-forgive</guid>
+		<pubDate>Sun, 07 Apr 2013 11:43:06 -0700</pubDate>
+		<title>
+			<![CDATA[Sandi add a quote by C.S. Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/74235-i-think-that-if-god-forgives-us-we-must-forgive]]>
+		</link>
+		<description>
+	    <![CDATA["I think that if God forgives us we must forgive ourselves. Otherwise, it is almost like setting up ourselves as a higher tribunal than Him." -- C.S. Lewis]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/721877-carrie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/721877-carrie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 22 Apr 2008 08:23:18 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/24189-man-s-mind-once-stretched-by-a-new-idea-never-regains</guid>
+		<pubDate>Tue, 22 Apr 2008 08:23:18 -0700</pubDate>
+		<title>
+			<![CDATA[Carrie add a quote by Oliver Wendell Holmes Sr.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/24189-man-s-mind-once-stretched-by-a-new-idea-never-regains]]>
+		</link>
+		<description>
+	    <![CDATA["Man's mind, once stretched by a new idea, never regains its original dimensions." -- Oliver Wendell Holmes Sr.]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/55495-reader-you-must-know-that-an-interesting-fate-sometimes-involving</guid>
+		<pubDate>Tue, 20 May 2008 10:20:43 -0700</pubDate>
+		<title>
+			<![CDATA[Carrie add a quote by Kate DiCamillo]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/55495-reader-you-must-know-that-an-interesting-fate-sometimes-involving]]>
+		</link>
+		<description>
+	    <![CDATA["Reader, you must know that an interesting fate (sometimes involving rats, sometimes not) awaits almost everyone, mouse or man, who does not conform." -- Kate DiCamillo]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

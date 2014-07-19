@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/68962-kelly]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/68962-kelly" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 16 Feb 2008 18:32:36 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3266-imaginary-evil-is-romantic-and-varied-real-evil-is-gloomy</guid>
+		<pubDate>Sat, 16 Feb 2008 18:32:36 -0800</pubDate>
+		<title>
+			<![CDATA[Kelly add a quote by Simone Weil]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3266-imaginary-evil-is-romantic-and-varied-real-evil-is-gloomy]]>
+		</link>
+		<description>
+	    <![CDATA["Imaginary evil is romantic and varied; real evil is gloomy, monotonous, barren, boring.  Imaginary good is boring; real good is always new, marvelous, intoxicating." -- Simone Weil]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/871433-remember-all-of-man-s-happiness-is-in-the-little-valleys</guid>
+		<pubDate>Sun, 30 Mar 2014 20:27:02 -0700</pubDate>
+		<title>
+			<![CDATA[Kelly add a quote by Jean Giono]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/871433-remember-all-of-man-s-happiness-is-in-the-little-valleys]]>
+		</link>
+		<description>
+	    <![CDATA["Remember, all of man's happiness is in the little valleys.  Tiny little ones.  Small enough to call from one side to the other." -- Jean Giono]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

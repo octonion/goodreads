@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/685735-katie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/685735-katie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 15 Dec 2007 01:24:38 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/9467-alice-laughed-there-s-no-use-trying-she-said-one-can-t</guid>
+		<pubDate>Sat, 15 Dec 2007 01:24:38 -0800</pubDate>
+		<title>
+			<![CDATA[Katie add a quote by Lewis Carroll]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9467-alice-laughed-there-s-no-use-trying-she-said-one-can-t]]>
+		</link>
+		<description>
+	    <![CDATA["Alice laughed. 'There's no use trying,' she said. 'One can't believe impossible things.'
+
+I daresay you haven't had much practice,' said the Queen. 'When I was your age, I always did it for half-an-hour a day. Why, sometimes I've believed as many as six impossible things before breakfast. There goes the shawl again!" -- Lewis Carroll]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

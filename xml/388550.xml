@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/388550-peter]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/388550-peter" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 07 Sep 2010 10:00:10 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/23697-history-stephen-said-is-a-nightmare-from-which-i-am</guid>
+		<pubDate>Tue, 07 Sep 2010 10:00:10 -0700</pubDate>
+		<title>
+			<![CDATA[Peter add a quote by James Joyce]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/23697-history-stephen-said-is-a-nightmare-from-which-i-am]]>
+		</link>
+		<description>
+	    <![CDATA["History, Stephen said, is a nightmare from which I am trying to awake." -- James Joyce]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/13719-we-are-what-we-pretend-to-be-so-we-must</guid>
+		<pubDate>Fri, 03 Dec 2010 21:32:47 -0800</pubDate>
+		<title>
+			<![CDATA[Peter add a quote by Kurt Vonnegut]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13719-we-are-what-we-pretend-to-be-so-we-must]]>
+		</link>
+		<description>
+	    <![CDATA["We are what we pretend to be, so we must be careful about what we pretend to be." -- Kurt Vonnegut]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/9972-you-are-not-entitled-to-your-opinion-you-are-entitled</guid>
+		<pubDate>Sat, 23 Apr 2011 12:24:36 -0700</pubDate>
+		<title>
+			<![CDATA[Peter add a quote by Harlan Ellison]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9972-you-are-not-entitled-to-your-opinion-you-are-entitled]]>
+		</link>
+		<description>
+	    <![CDATA["You are not entitled to your opinion. You are entitled to your &lt;i&gt;informed&lt;/i&gt; opinion. No one is entitled to be ignorant." -- Harlan Ellison]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

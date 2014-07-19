@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/259434-alexander]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/259434-alexander" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 13 Mar 2009 15:58:52 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/22327-the-strategic-adversary-is-fascism-the-fascism-in-us-all</guid>
+		<pubDate>Fri, 13 Mar 2009 15:58:52 -0700</pubDate>
+		<title>
+			<![CDATA[Alexander add a quote by Michel Foucault]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22327-the-strategic-adversary-is-fascism-the-fascism-in-us-all]]>
+		</link>
+		<description>
+	    <![CDATA["The strategic adversary is fascism... the fascism in us all, in our heads and in our everyday behavior, the fascism that causes us to love power, to desire the very thing that dominates and exploits us." -- Michel Foucault]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

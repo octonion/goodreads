@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/283959-betinha]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/283959-betinha" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 14 Feb 2014 12:03:31 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/850531-the-world-is-a-story-we-tell-ourselves-about-the</guid>
+		<pubDate>Fri, 14 Feb 2014 12:03:31 -0800</pubDate>
+		<title>
+			<![CDATA[Betinha add a quote by Vikram Chandra]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/850531-the-world-is-a-story-we-tell-ourselves-about-the]]>
+		</link>
+		<description>
+	    <![CDATA["The world is a story we tell ourselves about the world." -- Vikram Chandra]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/739216-to-light-a-candle-is-to-cast-a-shadow</guid>
+		<pubDate>Fri, 14 Feb 2014 12:05:11 -0800</pubDate>
+		<title>
+			<![CDATA[Betinha add a quote by Ursula K. Le Guin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/739216-to-light-a-candle-is-to-cast-a-shadow]]>
+		</link>
+		<description>
+	    <![CDATA["To light a candle is to cast a shadow..." -- Ursula K. Le Guin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

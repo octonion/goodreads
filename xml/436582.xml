@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/436582-mary-b]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/436582-mary-b" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 03 Aug 2012 10:14:22 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/376797-returning-hate-for-hate-multiplies-hate-adding-deeper-darkness-to</guid>
+		<pubDate>Fri, 03 Aug 2012 10:14:22 -0700</pubDate>
+		<title>
+			<![CDATA[Mary B add a quote by Martin Luther King Jr.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/376797-returning-hate-for-hate-multiplies-hate-adding-deeper-darkness-to]]>
+		</link>
+		<description>
+	    <![CDATA["Returning hate for hate multiplies hate, adding deeper darkness to a night already devoid of stars. Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate, only love can do that." -- Martin Luther King Jr.]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/102172-i-said-in-my-heart-i-am-sick-of-four</guid>
+		<pubDate>Tue, 14 Aug 2012 20:47:17 -0700</pubDate>
+		<title>
+			<![CDATA[Mary B add a quote by Richard Hovey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/102172-i-said-in-my-heart-i-am-sick-of-four]]>
+		</link>
+		<description>
+	    <![CDATA["I said in my heart, 'I am sick of four walls and a ceiling. I have need of the sky. I have business with the grass." -- Richard Hovey]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

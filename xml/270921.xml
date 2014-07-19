@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/270921-stacy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/270921-stacy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 11 Apr 2008 03:14:42 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5797-the-person-be-it-gentleman-or-lady-who-has-not</guid>
+		<pubDate>Fri, 11 Apr 2008 03:14:42 -0700</pubDate>
+		<title>
+			<![CDATA[Stacy add a quote by Jane Austen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5797-the-person-be-it-gentleman-or-lady-who-has-not]]>
+		</link>
+		<description>
+	    <![CDATA["The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid." -- Jane Austen]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/18727-i-do-have-one-slightly-crooked-wheel-upstairs-but-everything</guid>
+		<pubDate>Fri, 11 Apr 2008 03:16:46 -0700</pubDate>
+		<title>
+			<![CDATA[Stacy add a quote by Stephen King]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18727-i-do-have-one-slightly-crooked-wheel-upstairs-but-everything]]>
+		</link>
+		<description>
+	    <![CDATA["I do have one slightly crooked wheel upstairs, but everything else is ticking along just four-o, thank you very much." -- Stephen King]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/10123-you-ve-gotta-dance-like-there-s-nobody-watching-love-like-you-ll</guid>
+		<pubDate>Wed, 07 May 2008 02:36:31 -0700</pubDate>
+		<title>
+			<![CDATA[Stacy add a quote by William W. Purkey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10123-you-ve-gotta-dance-like-there-s-nobody-watching-love-like-you-ll]]>
+		</link>
+		<description>
+	    <![CDATA["You've gotta dance like there's nobody watching,
+Love like you'll never be hurt,
+Sing like there's nobody listening,
+And live like it's heaven on earth." -- William W. Purkey]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

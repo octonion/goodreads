@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/702941-albert]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/702941-albert" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 13 Jul 2008 09:05:00 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/72459-i-am-indeed-not-her-fool-but-her-corrupter-of</guid>
+		<pubDate>Sun, 13 Jul 2008 09:05:00 -0700</pubDate>
+		<title>
+			<![CDATA[Albert add a quote by William Shakespeare]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/72459-i-am-indeed-not-her-fool-but-her-corrupter-of]]>
+		</link>
+		<description>
+	    <![CDATA["I am indeed not her fool, but her corrupter of words. (Act III, sc. I, 37-38)" -- William Shakespeare]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/62573-there-s-more-to-life-than-books-you-know-but-not</guid>
+		<pubDate>Fri, 18 May 2012 14:42:32 -0700</pubDate>
+		<title>
+			<![CDATA[Albert add a quote by Morrissey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/62573-there-s-more-to-life-than-books-you-know-but-not]]>
+		</link>
+		<description>
+	    <![CDATA["There's more to life than books, you know.  But not much more." -- Morrissey]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

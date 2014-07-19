@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/125760-zach]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/125760-zach" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 18 Apr 2009 19:18:16 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/352-outside-of-a-dog-a-book-is-man-s-best-friend</guid>
+		<pubDate>Sat, 18 Apr 2009 19:18:16 -0700</pubDate>
+		<title>
+			<![CDATA[Zach add a quote by Groucho Marx]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/352-outside-of-a-dog-a-book-is-man-s-best-friend]]>
+		</link>
+		<description>
+	    <![CDATA["Outside of a dog, a book is man's best friend. Inside of a dog it's too dark to read." -- Groucho Marx]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/56237-i-wish-i-could-write-as-mysterious-as-a-cat</guid>
+		<pubDate>Sat, 18 Apr 2009 19:32:31 -0700</pubDate>
+		<title>
+			<![CDATA[Zach add a quote by Edgar Allan Poe]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/56237-i-wish-i-could-write-as-mysterious-as-a-cat]]>
+		</link>
+		<description>
+	    <![CDATA["I wish I could write as mysterious as a cat." -- Edgar Allan Poe]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/97776-this-is-an-ugly-and-mean-world-and-only-to</guid>
+		<pubDate>Sat, 17 Apr 2010 07:45:46 -0700</pubDate>
+		<title>
+			<![CDATA[Zach add a quote by Sholem Aleichem]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/97776-this-is-an-ugly-and-mean-world-and-only-to]]>
+		</link>
+		<description>
+	    <![CDATA["This is an ugly and mean world, and only to spite it we mustn't weep. If you want to know, this is the constant source of my good spirit, of my humor. Not to cry, out of spite, only to laugh out of spite, only to laugh." -- Sholem Aleichem]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

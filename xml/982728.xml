@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/982728-christopher]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/982728-christopher" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 10 Mar 2008 17:41:14 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/33469-t-he-heart-is-a-very-unreliable-coinpass-and-even-will</guid>
+		<pubDate>Mon, 10 Mar 2008 17:41:14 -0700</pubDate>
+		<title>
+			<![CDATA[Christopher add a quote by Joseph Dietzgen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/33469-t-he-heart-is-a-very-unreliable-coinpass-and-even-will]]>
+		</link>
+		<description>
+	    <![CDATA["[T]he heart is a very unreliable coinpass, and even will and knowledge, as all ideological factors in general, are not to be trusted as guides if they are without any material basis…. [I]t is not love nor help which is the guiding rule of our time, but hammer or anvil. In reality it is thus: who does not want to be a servant must try to become a master. Under such conditions it is idle to hope that people will sacrifice realities for ideal precepts. We are not sentimental enough to expect such things. Though we use moral arguments in our struggle against the bourgeois, we do all we can to stimulate our class consciousness." -- Joseph Dietzgen]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/840027-brian-harrison]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/840027-brian-harrison" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 27 Jan 2008 17:49:00 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/18302-the-early-bird-gets-the-worm-but-the-second-mouse</guid>
+		<pubDate>Sun, 27 Jan 2008 17:49:00 -0800</pubDate>
+		<title>
+			<![CDATA[Brian add a quote by Willie Nelson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18302-the-early-bird-gets-the-worm-but-the-second-mouse]]>
+		</link>
+		<description>
+	    <![CDATA["The early bird gets the worm, but the second mouse gets the cheese." -- Willie Nelson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/33649-death-is-a-stripping-away-of-all-that-is-not</guid>
+		<pubDate>Tue, 11 Mar 2008 09:07:21 -0700</pubDate>
+		<title>
+			<![CDATA[Brian add a quote by Eckhart Tolle]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/33649-death-is-a-stripping-away-of-all-that-is-not]]>
+		</link>
+		<description>
+	    <![CDATA["Death is a stripping away of all that is not you. The secret of life is to &quot;die before you die&quot; ---  and find that there is no death." -- Eckhart Tolle]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/220545-hamid]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/220545-hamid" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 18 Sep 2009 03:50:04 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/193695</guid>
+		<pubDate>Fri, 18 Sep 2009 03:50:04 -0700</pubDate>
+		<title>
+			<![CDATA[hamid add a quote by سلینجر]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/193695]]>
+		</link>
+		<description>
+	    <![CDATA["هیچ وقت به هیچگی چیزی نگو اگه بگی دلت برا همه تنگ میشه
+بعد یه دفعه احساس وحشتناکی بهم دست داد هر وقت که می رسیدم سر یه چاه راه و پام رو می گذاشتم تو خیابون حس می کردم به اون ور چاه راه نمی رسم فکر می کردم می رم پایین و پایین و پایین و هیچکس دیگه من رو نمی بینه" -- سلینجر]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/225140</guid>
+		<pubDate>Sun, 24 Jan 2010 09:02:45 -0800</pubDate>
+		<title>
+			<![CDATA[hamid add a quote by فدریکو گارسیا لورکا]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/225140]]>
+		</link>
+		<description>
+	    <![CDATA["درون هر چيزي رازي است و شعر، راز تمام چيزهاست" -- فدریکو گارسیا لورکا]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

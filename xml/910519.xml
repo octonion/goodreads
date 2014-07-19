@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/910519-jackson]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/910519-jackson" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 18 Feb 2008 05:46:48 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/18623-the-worth-of-a-book-is-to-be-measured-by</guid>
+		<pubDate>Mon, 18 Feb 2008 05:46:48 -0800</pubDate>
+		<title>
+			<![CDATA[~ Jackson add a quote by James Bryce]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18623-the-worth-of-a-book-is-to-be-measured-by]]>
+		</link>
+		<description>
+	    <![CDATA["The worth of a book is to be measured by what you can carry away from it" -- James Bryce]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/39980-just-the-other-day-i-was-in-my-neighborhood-starbucks</guid>
+		<pubDate>Thu, 05 Dec 2013 07:02:38 -0800</pubDate>
+		<title>
+			<![CDATA[~ Jackson add a quote by Sarah Vowell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/39980-just-the-other-day-i-was-in-my-neighborhood-starbucks]]>
+		</link>
+		<description>
+	    <![CDATA["Just the other day, I was in my neighborhood Starbucks, waiting for the post office to open. I was enjoying a chocolatey cafe mocha when it occurred to me that to drink a mocha is to gulp down the entire history of the New World. From the Spanish exportation of Aztec cacao, and the Dutch invention of the chemical process for making cocoa, on down to the capitalist empire of Hershey, PA, and the lifestyle marketing of Seattle's Starbucks, the modern mocha is a bittersweet concoction of imperialism, genocide, invention, and consumerism served with whipped cream on top." -- Sarah Vowell]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/123746-i-no-longer-drink-nearly-as-much-as-i-used</guid>
+		<pubDate>Thu, 05 Dec 2013 07:02:50 -0800</pubDate>
+		<title>
+			<![CDATA[~ Jackson add a quote by Sarah Vowell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/123746-i-no-longer-drink-nearly-as-much-as-i-used]]>
+		</link>
+		<description>
+	    <![CDATA["I no longer drink nearly as much as I used to but, still, my motto is Sine coffea nihil sum. Without coffee, I'm nothing." -- Sarah Vowell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

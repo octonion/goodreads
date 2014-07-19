@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1099124-apleiadean]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1099124-apleiadean" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 18 Sep 2012 07:26:06 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/203457-a-democracy-cannot-exist-as-a-permanent-form-of-government</guid>
+		<pubDate>Tue, 18 Sep 2012 07:26:06 -0700</pubDate>
+		<title>
+			<![CDATA[Apleiadean add a quote by Elmer T Peterson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/203457-a-democracy-cannot-exist-as-a-permanent-form-of-government]]>
+		</link>
+		<description>
+	    <![CDATA["A democracy cannot exist as a permanent form of government. It can only exist until the majority discovers it can vote itself largess out of the public treasury. After that, the majority always votes for the candidate promising the most benefits with the result the democracy collapses because of the loose fiscal policy ensuing, always to be followed by a dictatorship, then a monarchy." -- Elmer T Peterson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

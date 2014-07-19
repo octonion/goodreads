@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/870071-zachary]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/870071-zachary" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 Apr 2008 23:51:31 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/40739-well-i-was-born-a-rambler-friends-and-i-intend</guid>
+		<pubDate>Tue, 01 Apr 2008 23:51:31 -0700</pubDate>
+		<title>
+			<![CDATA[Zachary add a quote by Townes Van Zandt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/40739-well-i-was-born-a-rambler-friends-and-i-intend]]>
+		</link>
+		<description>
+	    <![CDATA["Well I was born a rambler friends, and I intend to die that way. It could be twenty years from now it could be most any day. But if there ain't no whiskey and wimen lord behind those heavenly doors, I'm gonna take my chances down below and of that you can be sure." -- Townes Van Zandt]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

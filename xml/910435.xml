@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/910435-elisabet-hafsteinsdottir]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/910435-elisabet-hafsteinsdottir" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 23 Apr 2013 05:33:10 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/788469-vont-er-eirra-r-ngl-ti-verra-eirra-r-ttl-ti</guid>
+		<pubDate>Tue, 23 Apr 2013 05:33:10 -0700</pubDate>
+		<title>
+			<![CDATA[Elisabet add a quote by Halldór Laxness]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/788469-vont-er-eirra-r-ngl-ti-verra-eirra-r-ttl-ti]]>
+		</link>
+		<description>
+	    <![CDATA["Vont er þeirra ránglæti, verra þeirra réttlæti." -- Halldór Laxness]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

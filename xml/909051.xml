@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/909051-mellissa]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/909051-mellissa" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 08 Jan 2009 20:22:47 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/128680-but-pain-may-be-a-gift-to-us-remember-after</guid>
+		<pubDate>Thu, 08 Jan 2009 20:22:47 -0800</pubDate>
+		<title>
+			<![CDATA[Mellissa add a quote by Sue Miller]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/128680-but-pain-may-be-a-gift-to-us-remember-after]]>
+		</link>
+		<description>
+	    <![CDATA["But pain may be a gift to us.  Remember, after all, that pain is one of the ways we register in memory the things that vanish, that are taken away.  We fix them in our minds forever by yearning, by pain, by crying out.  Pain, the pain that seems unbearable at the time, is memory's first imprinting step, the cornerstone of the temple we erect inside us in memory of the dead.  Pain is part of memory, and memory is a God-given gift." -- Sue Miller]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/128681-you-could-pay-arthur-janov-to-teach-you-to-scream</guid>
+		<pubDate>Thu, 08 Jan 2009 20:24:23 -0800</pubDate>
+		<title>
+			<![CDATA[Mellissa add a quote by Rick Moody]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/128681-you-could-pay-arthur-janov-to-teach-you-to-scream]]>
+		</link>
+		<description>
+	    <![CDATA["You could pay Arthur Janov to teach you to scream about history, or you could learn prayer or a mantra, or you could write your life down and hope to make peace with it, write it down, or paint it, or turn it into improvisational theater, but that was the best you could probably do.  You were stuck." -- Rick Moody]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

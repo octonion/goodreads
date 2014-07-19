@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/851095-pbgiles]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/851095-pbgiles" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 29 Jan 2008 14:12:58 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/19017-every-victory-is-only-the-price-of-admission-to-a</guid>
+		<pubDate>Tue, 29 Jan 2008 14:12:58 -0800</pubDate>
+		<title>
+			<![CDATA[Pbgiles add a quote by Henry Kissinger]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/19017-every-victory-is-only-the-price-of-admission-to-a]]>
+		</link>
+		<description>
+	    <![CDATA["Every victory is only the price of admission to a more difficult problem" -- Henry Kissinger]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/44564-for-the-simplicity-on-this-side-of-complexity-i-wouldn-t</guid>
+		<pubDate>Tue, 29 Jan 2008 14:16:12 -0800</pubDate>
+		<title>
+			<![CDATA[Pbgiles add a quote by Oliver Wendell Holmes]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/44564-for-the-simplicity-on-this-side-of-complexity-i-wouldn-t]]>
+		</link>
+		<description>
+	    <![CDATA["For the simplicity on this side of complexity, I wouldn't give you a fig.  But for the simplicity on the other side of complexity, for that I would give you anything I have." -- Oliver Wendell Holmes]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

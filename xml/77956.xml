@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/77956-suzanne]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/77956-suzanne" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 04 Mar 2008 11:34:35 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/25863-people-think-it-must-be-fun-to-be-a-super</guid>
+		<pubDate>Tue, 04 Mar 2008 11:34:35 -0800</pubDate>
+		<title>
+			<![CDATA[Suzanne add a quote by Bill Watterson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/25863-people-think-it-must-be-fun-to-be-a-super]]>
+		</link>
+		<description>
+	    <![CDATA["People think it must be fun to be a super genius, but they don't realize how hard it is to put up with all the idiots in the world." -- Bill Watterson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1024-i-love-mankind-it-s-people-i-can-t-stand</guid>
+		<pubDate>Thu, 22 May 2008 04:10:17 -0700</pubDate>
+		<title>
+			<![CDATA[Suzanne add a quote by Charles Schultz]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1024-i-love-mankind-it-s-people-i-can-t-stand]]>
+		</link>
+		<description>
+	    <![CDATA["&lt;b&gt;I&lt;/b&gt; love mankind ... it's &lt;b&gt;people&lt;/b&gt; I can't stand!!" -- Charles Schultz]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/51700-i-am-convinced-that-grandkids-are-inherently-evil-people-who</guid>
+		<pubDate>Wed, 18 Jun 2008 13:07:29 -0700</pubDate>
+		<title>
+			<![CDATA[Suzanne add a quote by Scott Douglas]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/51700-i-am-convinced-that-grandkids-are-inherently-evil-people-who]]>
+		</link>
+		<description>
+	    <![CDATA["I am convinced that grandkids are inherently evil people who tell their grandparents to &quot;just go to the library and open up an e-mail account - it's free and so simple." -- Scott Douglas]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

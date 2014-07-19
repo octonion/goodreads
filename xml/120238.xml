@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/120238-offbalance]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/120238-offbalance" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 07 Sep 2010 12:08:25 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4-whenever-you-find-yourself-on-the-side-of-the-majority</guid>
+		<pubDate>Tue, 07 Sep 2010 12:08:25 -0700</pubDate>
+		<title>
+			<![CDATA[Offbalance add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4-whenever-you-find-yourself-on-the-side-of-the-majority]]>
+		</link>
+		<description>
+	    <![CDATA["Whenever you find yourself on the side of the majority, it is time to pause and reflect." -- Mark Twain]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/352-outside-of-a-dog-a-book-is-man-s-best-friend</guid>
+		<pubDate>Tue, 07 Sep 2010 12:08:33 -0700</pubDate>
+		<title>
+			<![CDATA[Offbalance add a quote by Groucho Marx]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/352-outside-of-a-dog-a-book-is-man-s-best-friend]]>
+		</link>
+		<description>
+	    <![CDATA["Outside of a dog, a book is man's best friend. Inside of a dog it's too dark to read." -- Groucho Marx]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5797-the-person-be-it-gentleman-or-lady-who-has-not</guid>
+		<pubDate>Tue, 07 Sep 2010 12:12:24 -0700</pubDate>
+		<title>
+			<![CDATA[Offbalance add a quote by Jane Austen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5797-the-person-be-it-gentleman-or-lady-who-has-not]]>
+		</link>
+		<description>
+	    <![CDATA["The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid." -- Jane Austen]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/27265-freddie-experienced-the-sort-of-abysmal-soul-sadness-which-afflicts-one</guid>
+		<pubDate>Tue, 30 Nov 2010 21:01:20 -0800</pubDate>
+		<title>
+			<![CDATA[Offbalance add a quote by P.G. Wodehouse ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/27265-freddie-experienced-the-sort-of-abysmal-soul-sadness-which-afflicts-one]]>
+		</link>
+		<description>
+	    <![CDATA["Freddie experienced the sort of abysmal soul-sadness which afflicts one of Tolstoy's Russian peasants when, after putting in a heavy day's work strangling his father, beating his wife, and dropping the baby into the city's reservoir, he turns to the cupboards, only to find the vodka bottle empty." -- P.G. Wodehouse ]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

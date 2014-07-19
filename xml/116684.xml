@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/116684-janice]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/116684-janice" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 10 Nov 2012 02:28:51 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/293105-it-is-still-summer-but-the-summer-is-no-longer</guid>
+		<pubDate>Sat, 10 Nov 2012 02:28:51 -0800</pubDate>
+		<title>
+			<![CDATA[Janice add a quote by Tove Jansson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/293105-it-is-still-summer-but-the-summer-is-no-longer]]>
+		</link>
+		<description>
+	    <![CDATA["It is still summer, but the summer is no longer alive. It has come to a standstill; nothing withers, and fall is not ready to begin. There are no stars yet, just darkness." -- Tove Jansson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/121615-mali-phonpadith]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/121615-mali-phonpadith" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 29 Apr 2011 05:54:44 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/22897-i-ve-come-to-believe-that-all-my-past-failure-and</guid>
+		<pubDate>Fri, 29 Apr 2011 05:54:44 -0700</pubDate>
+		<title>
+			<![CDATA[Mali add a quote by Anthony Robbins]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22897-i-ve-come-to-believe-that-all-my-past-failure-and]]>
+		</link>
+		<description>
+	    <![CDATA["I've come to believe that all my past failure and frustration were actually laying 
+the foundation for the understandings that have created the new level of living I 
+now enjoy. " -- Anthony Robbins]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/303960-it-was-my-destiny-to-love-and-say-goodbye</guid>
+		<pubDate>Tue, 09 Apr 2013 05:07:04 -0700</pubDate>
+		<title>
+			<![CDATA[Mali add a quote by Pablo Neruda]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/303960-it-was-my-destiny-to-love-and-say-goodbye]]>
+		</link>
+		<description>
+	    <![CDATA["It was my destiny to love and say goodbye." -- Pablo Neruda]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

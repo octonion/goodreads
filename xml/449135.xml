@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/449135-wantanwa]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/449135-wantanwa" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 06 Jun 2014 03:14:13 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/132681-i-am-so-beautiful-sometimes-people-weep-when-they-see</guid>
+		<pubDate>Fri, 06 Jun 2014 03:14:13 -0700</pubDate>
+		<title>
+			<![CDATA[Wantanwa add a quote by Margaret Cho]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/132681-i-am-so-beautiful-sometimes-people-weep-when-they-see]]>
+		</link>
+		<description>
+	    <![CDATA["I am so beautiful, sometimes people weep when they see me. And it has nothing to do with what I look like really, it is just that I gave myself the power to say that I am beautiful, and if I could do that, maybe there is hope for them too. And the great divide between the beautiful and the ugly will cease to be. Because we are all what we choose." -- Margaret Cho]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/912132-holly]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/912132-holly" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 27 Sep 2008 21:54:50 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/8215-political-language-is-designed-to-make-lies-sound-truthful-and</guid>
+		<pubDate>Sat, 27 Sep 2008 21:54:50 -0700</pubDate>
+		<title>
+			<![CDATA[Holly add a quote by George Orwell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8215-political-language-is-designed-to-make-lies-sound-truthful-and]]>
+		</link>
+		<description>
+	    <![CDATA["Political language is designed to make lies sound truthful and murder respectable, and to give an appearance of solidity to pure wind. " -- George Orwell]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/503051-kinder-than-is-necessary-because-it-s-not-enough-to-be</guid>
+		<pubDate>Sat, 10 May 2014 09:33:57 -0700</pubDate>
+		<title>
+			<![CDATA[Holly add a quote by R.J. Palacio]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/503051-kinder-than-is-necessary-because-it-s-not-enough-to-be]]>
+		</link>
+		<description>
+	    <![CDATA["Kinder than is &lt;i&gt;necessary&lt;/i&gt;. Because it's not enough to be kind. One should be kinder than needed." -- R.J. Palacio]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/260218-the-only-real-prison-is-fear-and-the-only-real</guid>
+		<pubDate>Thu, 19 Jun 2014 13:45:38 -0700</pubDate>
+		<title>
+			<![CDATA[Holly add a quote by Aung San Suu Kyi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/260218-the-only-real-prison-is-fear-and-the-only-real]]>
+		</link>
+		<description>
+	    <![CDATA["The only real prison is fear, and the only real freedom is freedom from fear" -- Aung San Suu Kyi]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

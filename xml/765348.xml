@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/765348-lyndsey]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/765348-lyndsey" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 04 Jul 2010 09:08:25 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/273936-all-of-us-have-in-our-veins-the-exact-same</guid>
+		<pubDate>Sun, 04 Jul 2010 09:08:25 -0700</pubDate>
+		<title>
+			<![CDATA[Lyndsey add a quote by John F. Kennedy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/273936-all-of-us-have-in-our-veins-the-exact-same]]>
+		</link>
+		<description>
+	    <![CDATA["All of us have in our veins the exact same percentage of salt in our blood that exists in the ocean, and, therefore, we have salt in our blood, in our sweat, in our tears. We are tied to the ocean. And when we go back to the sea - whether it is to sail or to watch it - we are going back from whence we came." -- John F. Kennedy]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

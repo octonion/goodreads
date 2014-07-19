@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/441912-cheryl-anne]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/441912-cheryl-anne" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 29 Dec 2008 13:49:24 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/125837-all-we-have-to-do-is-get-out-and-vote</guid>
+		<pubDate>Mon, 29 Dec 2008 13:49:24 -0800</pubDate>
+		<title>
+			<![CDATA[Cheryl add a quote by hunter s. thompson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/125837-all-we-have-to-do-is-get-out-and-vote]]>
+		</link>
+		<description>
+	    <![CDATA["All we have to do is get out and vote, while it's still legal, and we will wash those crooked warmongers out of the White House." -- hunter s. thompson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/53073-it-was-the-law-of-the-sea-they-said-civilization</guid>
+		<pubDate>Mon, 29 Dec 2008 13:50:14 -0800</pubDate>
+		<title>
+			<![CDATA[Cheryl add a quote by Hunter S. Thompson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/53073-it-was-the-law-of-the-sea-they-said-civilization]]>
+		</link>
+		<description>
+	    <![CDATA["It was the Law of the Sea, they said. Civilization ends at the waterline. Beyond that, we all enter the food chain, and not always right at the top." -- Hunter S. Thompson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

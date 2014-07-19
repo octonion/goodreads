@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/719753-jennifer]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/719753-jennifer" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 05 Jan 2008 07:25:06 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6993-people-can-t-unhappily-invent-their-mooring-posts-their-lovers-and</guid>
+		<pubDate>Sat, 05 Jan 2008 07:25:06 -0800</pubDate>
+		<title>
+			<![CDATA[Jennifer add a quote by James Baldwin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6993-people-can-t-unhappily-invent-their-mooring-posts-their-lovers-and]]>
+		</link>
+		<description>
+	    <![CDATA["People can't, unhappily, invent their mooring posts, their lovers and their friends, anymore than they can invent their parents.  Life gives these and also takes them away and the great difficulty is to say Yes to life." -- James Baldwin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

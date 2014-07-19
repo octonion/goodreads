@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/60058-kate]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/60058-kate" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Mar 2008 12:10:35 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/33666-the-place-smelled-of-fairgrounds-of-lazy-crowds-of-nights</guid>
+		<pubDate>Tue, 11 Mar 2008 12:10:35 -0700</pubDate>
+		<title>
+			<![CDATA[Kate add a quote by Georges Simenon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/33666-the-place-smelled-of-fairgrounds-of-lazy-crowds-of-nights]]>
+		</link>
+		<description>
+	    <![CDATA["The place smelled of fairgrounds, of lazy crowds, of nights when you stayed out because you couldn't go to bed, and it smelled like New York, of its calm and brutal indifference." -- Georges Simenon]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/693788-when-we-don-t-speak-said-edgar-we-become-unbearable-and</guid>
+		<pubDate>Sun, 30 Dec 2012 12:42:43 -0800</pubDate>
+		<title>
+			<![CDATA[Kate add a quote by Herta Müller]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/693788-when-we-don-t-speak-said-edgar-we-become-unbearable-and]]>
+		</link>
+		<description>
+	    <![CDATA["When we don't speak, said Edgar, we become unbearable, and when we do, we make fools of ourselves." -- Herta Müller]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/173212-sarah]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/173212-sarah" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 10 May 2008 17:03:58 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/52919-then-i-wondered-if-that-s-all-god-ever-is--somebody-who</guid>
+		<pubDate>Sat, 10 May 2008 17:03:58 -0700</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by Sheri Reynolds]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/52919-then-i-wondered-if-that-s-all-god-ever-is--somebody-who]]>
+		</link>
+		<description>
+	    <![CDATA["Then I wondered if that's all God ever is--somebody who loves you enough to come back from the dead to visit every now and again.  Or if that's all that other people ever are--different faces of God walking around." -- Sheri Reynolds]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

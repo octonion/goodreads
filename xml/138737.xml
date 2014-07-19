@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/138737-alika]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/138737-alika" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 06 Oct 2009 16:01:33 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/120617-actually-i-jade-very-quickly-once-is-usually-enough-either</guid>
+		<pubDate>Tue, 06 Oct 2009 16:01:33 -0700</pubDate>
+		<title>
+			<![CDATA[Alika add a quote by Andy Warhol]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/120617-actually-i-jade-very-quickly-once-is-usually-enough-either]]>
+		</link>
+		<description>
+	    <![CDATA["Actually, I jade very quickly. Once is usually enough. Either once only, or every day. If you do something once it’s exciting, and if you do it every day it’s exciting. But if you do it, say, twice or just almost every day, it’s not good any more." -- Andy Warhol]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/132680-one-day-annabel-saw-the-sun-and-moon-in-the</guid>
+		<pubDate>Thu, 15 Oct 2009 17:14:38 -0700</pubDate>
+		<title>
+			<![CDATA[Alika add a quote by Angela Carter]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/132680-one-day-annabel-saw-the-sun-and-moon-in-the]]>
+		</link>
+		<description>
+	    <![CDATA["One day, Annabel saw the sun and moon in the sky at the same time. The sight filled her with a terror which entirely consumed her and did not leave her until the night closed in catastrophe for she had no instinct for self-preservation if she was confronted by ambiguities. " -- Angela Carter]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

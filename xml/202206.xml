@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/202206-penny]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/202206-penny" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 06 Jan 2008 06:02:01 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/10648-in-the-water-i-saw-my-father-s-face-and-that</guid>
+		<pubDate>Sun, 06 Jan 2008 06:02:01 -0800</pubDate>
+		<title>
+			<![CDATA[Penny add a quote by Jonathan Safran Foer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10648-in-the-water-i-saw-my-father-s-face-and-that]]>
+		</link>
+		<description>
+	    <![CDATA["In the water I saw my father's face, and that face saw the face of its father, and so on, and so on, reflecting backward to the beginning of time, to the face of God, in whose image we were created." -- Jonathan Safran Foer]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/47463-i-m-quickly-approaching-the-moment-of-discovery-of-myself-by</guid>
+		<pubDate>Wed, 23 Apr 2008 05:06:42 -0700</pubDate>
+		<title>
+			<![CDATA[Penny add a quote by Jeffrey Eugenides]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/47463-i-m-quickly-approaching-the-moment-of-discovery-of-myself-by]]>
+		</link>
+		<description>
+	    <![CDATA["I'm quickly approaching the moment of discovery: of myself by myself, which was something I knew all along and yet didn't know; and the discovery by poor half-blind Dr. Philobosian of what he'd failed to notice at my birth and continued to miss during every annual physical thereafter; and the discovery by my parents of what kind of child they'd given birth to (answer: the same child, only different); and finally, the discovery of the mutated gene that had lain buried in our bloodline for two hundred and fifty years, biding its time, waiting for Ataturk to attack, for Hajienestis to turn into glass, for a clarinet to play seductively out a back window, until, comint together with its recessive twin, it started the chain of events that led to me, here, writing in Berlin." -- Jeffrey Eugenides]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

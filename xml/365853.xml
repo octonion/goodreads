@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/365853-greg-franklin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/365853-greg-franklin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 15 Oct 2013 16:11:39 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/351646-we-have-a-new-type-of-rule-now-not-one-man</guid>
+		<pubDate>Tue, 15 Oct 2013 16:11:39 -0700</pubDate>
+		<title>
+			<![CDATA[Greg add a quote by William S. Burroughs]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/351646-we-have-a-new-type-of-rule-now-not-one-man]]>
+		</link>
+		<description>
+	    <![CDATA["We have a new type of rule now. Not one-man rule, or rule of aristocracy or plutocracy, but of small groups elevated to positions of absolute power by random pressures, and subject to political and economic factors that leave little room for decision. They are representatives of abstract forces who have reached power through surrender of self. The iron-willed dictator is a thing of the past.  There will be no more Stalins, no more Hitlers. The rulers of this most insecure of all worlds are rulers by accident, inept, frightened pilots at the controls of a vast machine they cannot understand, calling in experts to tell them which buttons to push." -- William S. Burroughs]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

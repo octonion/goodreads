@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/996068-darla-reynolds]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/996068-darla-reynolds" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 01 May 2008 05:58:52 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/50153-sometime-we-are-lucky-enough-to-know-that-our-lives</guid>
+		<pubDate>Thu, 01 May 2008 05:58:52 -0700</pubDate>
+		<title>
+			<![CDATA[Darla add a quote by Jacques Cousteau]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/50153-sometime-we-are-lucky-enough-to-know-that-our-lives]]>
+		</link>
+		<description>
+	    <![CDATA["Sometime we are lucky enough to know that our lives have been changed, to discard the old, embrace the new, and run headlong down an immutable course" -- Jacques Cousteau]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/266720-mary]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/266720-mary" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 10 Dec 2012 00:41:33 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/257400-i-had-rather-hear-my-dog-bark-at-a-crow</guid>
+		<pubDate>Mon, 10 Dec 2012 00:41:33 -0800</pubDate>
+		<title>
+			<![CDATA[Mary add a quote by William Shakespeare]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/257400-i-had-rather-hear-my-dog-bark-at-a-crow]]>
+		</link>
+		<description>
+	    <![CDATA["I had rather hear my dog bark at a crow, than a man swear he loves me." -- William Shakespeare]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/344619-may-the-road-rise-up-to-meet-you-may-the</guid>
+		<pubDate>Tue, 21 Jan 2014 17:14:31 -0800</pubDate>
+		<title>
+			<![CDATA[Mary add a quote by Irish Blessings]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/344619-may-the-road-rise-up-to-meet-you-may-the]]>
+		</link>
+		<description>
+	    <![CDATA["May the road rise up to meet you
+May the wind be always at your back
+May the sun shine warm upon your face
+And the rain fall soft upon your fields
+And until we meet again
+May God hold you in the palm of his hand" -- Irish Blessings]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

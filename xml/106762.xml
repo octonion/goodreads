@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/106762-justin-snyder]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/106762-justin-snyder" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 21 Jul 2010 03:39:22 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/99185-people-do-not-drift-toward-holiness-apart-from-grace-driven-effort</guid>
+		<pubDate>Wed, 21 Jul 2010 03:39:22 -0700</pubDate>
+		<title>
+			<![CDATA[Justin add a quote by D.A. Carson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/99185-people-do-not-drift-toward-holiness-apart-from-grace-driven-effort]]>
+		</link>
+		<description>
+	    <![CDATA["People do not drift toward Holiness. Apart from grace-driven effort, people do not gravitate toward godliness, prayer, obedience to Scripture, faith, and delight in the Lord. We drift toward compromise and call it tolerance; we drift toward disobedience and call it freedom; we drift toward superstition and call it faith. We cherish the indiscipline of lost self-control and call it relaxation; we slouch toward prayerlessness and delude ourselves into thinking we have escaped legalism; we slide toward godlessness and convince ourselves we have been liberated." -- D.A. Carson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

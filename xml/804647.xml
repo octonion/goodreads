@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/804647-ken]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/804647-ken" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 22 Jan 2008 06:49:20 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/15776-there-are-three-classes-of-men-lovers-of-wisdom-lovers</guid>
+		<pubDate>Tue, 22 Jan 2008 06:49:20 -0800</pubDate>
+		<title>
+			<![CDATA[Ken add a quote by Plato]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/15776-there-are-three-classes-of-men-lovers-of-wisdom-lovers]]>
+		</link>
+		<description>
+	    <![CDATA["There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain." -- Plato]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/9431-the-only-true-wisdom-is-in-knowing-you-know-nothing</guid>
+		<pubDate>Sun, 18 May 2008 22:18:21 -0700</pubDate>
+		<title>
+			<![CDATA[Ken add a quote by Socrates]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9431-the-only-true-wisdom-is-in-knowing-you-know-nothing]]>
+		</link>
+		<description>
+	    <![CDATA["The only true wisdom is in knowing you know nothing." -- Socrates]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

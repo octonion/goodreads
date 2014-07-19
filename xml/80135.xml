@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/80135-andrea-rockel]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/80135-andrea-rockel" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 06 Feb 2012 05:50:23 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/185805-because-nerds-like-us-are-allowed-to-be-unironically-enthusiastic</guid>
+		<pubDate>Mon, 06 Feb 2012 05:50:23 -0800</pubDate>
+		<title>
+			<![CDATA[Andrea add a quote by John Green]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/185805-because-nerds-like-us-are-allowed-to-be-unironically-enthusiastic]]>
+		</link>
+		<description>
+	    <![CDATA["…because nerds like us are allowed to be unironically enthusiastic about stuff… Nerds are allowed to love stuff, like jump-up-and-down-in-the-chair-can’t-control-yourself love it. Hank, when people call people nerds, mostly what they’re saying is ‘you like stuff.’ Which is just not a good insult at all. Like, ‘you are too enthusiastic about the miracle of human consciousness’." -- John Green]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

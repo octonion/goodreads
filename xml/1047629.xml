@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1047629-leila]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1047629-leila" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 06 Apr 2008 20:47:29 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/42152-if-before-every-action-we-were-to-begin-by-weighing</guid>
+		<pubDate>Sun, 06 Apr 2008 20:47:29 -0700</pubDate>
+		<title>
+			<![CDATA[Leila add a quote by José Saramago]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/42152-if-before-every-action-we-were-to-begin-by-weighing]]>
+		</link>
+		<description>
+	    <![CDATA["If, before every action, we were to begin by weighing up the consequences, thinking about them in earnest, first the immediate consequences, then the probable, then the possible, then the imaginable ones, we should never move beyond the point where our first thought brought us to a halt. The good and evil resulting from our words and deeds go on apportioning themselves, one assumes in a reasonably uniform and balanced way, throughout all the days to follow, including those endless days, when we shall not be here to find out, to congratulate ourselves or ask for pardon, indeed there are those who claim that this is the much talked of immortality." -- José Saramago]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

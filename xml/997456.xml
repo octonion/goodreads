@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/997456-jodi]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/997456-jodi" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 30 Mar 2008 17:09:23 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/54-don-t-walk-behind-me-i-may-not-lead-don-t-walk</guid>
+		<pubDate>Sun, 30 Mar 2008 17:09:23 -0700</pubDate>
+		<title>
+			<![CDATA[Jodi add a quote by Albert Camus]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/54-don-t-walk-behind-me-i-may-not-lead-don-t-walk]]>
+		</link>
+		<description>
+	    <![CDATA["Don't walk behind me; I may not lead. Don't walk in front of me; I may not follow. Just walk beside me and be my friend." -- Albert Camus]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/764-a-room-without-books-is-like-a-body-without-a</guid>
+		<pubDate>Sun, 30 Mar 2008 17:10:29 -0700</pubDate>
+		<title>
+			<![CDATA[Jodi add a quote by Marcus Tullius Cicero]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/764-a-room-without-books-is-like-a-body-without-a]]>
+		</link>
+		<description>
+	    <![CDATA["A room without books is like a body without a soul." -- Marcus Tullius Cicero]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2177-i-am-enough-of-an-artist-to-draw-freely-upon</guid>
+		<pubDate>Sun, 30 Mar 2008 17:13:24 -0700</pubDate>
+		<title>
+			<![CDATA[Jodi add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2177-i-am-enough-of-an-artist-to-draw-freely-upon]]>
+		</link>
+		<description>
+	    <![CDATA["I am enough of an artist to draw freely upon my imagination. Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world." -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/778-it-is-not-a-lack-of-love-but-a-lack</guid>
+		<pubDate>Sun, 30 Mar 2008 17:15:05 -0700</pubDate>
+		<title>
+			<![CDATA[Jodi add a quote by Friedrich Nietzsche]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/778-it-is-not-a-lack-of-love-but-a-lack]]>
+		</link>
+		<description>
+	    <![CDATA["It is not a lack of love, but a lack of friendship that makes unhappy marriages." -- Friedrich Nietzsche]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

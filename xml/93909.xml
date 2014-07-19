@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/93909-joe]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/93909-joe" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 07 Mar 2014 07:43:24 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1101246-i-am-new-to-this-page-and-still-learning-how</guid>
+		<pubDate>Fri, 07 Mar 2014 07:43:24 -0800</pubDate>
+		<title>
+			<![CDATA[Joe add a quote by Darlene Cozart]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1101246-i-am-new-to-this-page-and-still-learning-how]]>
+		</link>
+		<description>
+	    <![CDATA["I am new to this page and still learning how it works. This is a lot of fun though getting to meet and see new people." -- Darlene Cozart]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

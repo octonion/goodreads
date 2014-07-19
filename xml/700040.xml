@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/700040-sara]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/700040-sara" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 03 Aug 2009 14:50:38 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/176573-i-still-had-this-idea-that-there-was-a-whole</guid>
+		<pubDate>Mon, 03 Aug 2009 14:50:38 -0700</pubDate>
+		<title>
+			<![CDATA[Sara add a quote by Richard Yates]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/176573-i-still-had-this-idea-that-there-was-a-whole]]>
+		</link>
+		<description>
+	    <![CDATA["I still had this idea that there was a whole world of marvelous golden people somewhere, as far ahead of me as the seniors at Rye when I was in the sixth grade; people who knew everything instinctively, who made their lives work out the way they wanted without even trying, who never had to make the best of a bad job because it never occured to them to do anything less then perfectly the first time. Sort of heroic super-people, all of them beautiful and witty and calm and kind, and I always imagined that when I did find them I'd suddenly know that I Belonged among them, that I was one of them, that I'd been meant to be one of them all along, and everything in teh meantime had been a mistake; and they'd know it too. I'd be like the ugly duckling among the swans." -- Richard Yates]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/182359-are-artists-and-writers-the-only-people-entitled-to-lives</guid>
+		<pubDate>Mon, 03 Aug 2009 14:50:56 -0700</pubDate>
+		<title>
+			<![CDATA[Sara add a quote by Richard Yates]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/182359-are-artists-and-writers-the-only-people-entitled-to-lives]]>
+		</link>
+		<description>
+	    <![CDATA["Are artists and writers the only people entitled to lives of their own?" -- Richard Yates]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

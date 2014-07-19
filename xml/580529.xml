@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/580529-neil]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/580529-neil" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 09 Mar 2008 17:23:13 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/352-outside-of-a-dog-a-book-is-man-s-best-friend</guid>
+		<pubDate>Sun, 09 Mar 2008 17:23:13 -0700</pubDate>
+		<title>
+			<![CDATA[Neil add a quote by Groucho Marx]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/352-outside-of-a-dog-a-book-is-man-s-best-friend]]>
+		</link>
+		<description>
+	    <![CDATA["Outside of a dog, a book is man's best friend. Inside of a dog it's too dark to read." -- Groucho Marx]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/17833-adam-was-but-human-this-explains-it-all-he-did-not</guid>
+		<pubDate>Sun, 09 Mar 2008 17:30:48 -0700</pubDate>
+		<title>
+			<![CDATA[Neil add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17833-adam-was-but-human-this-explains-it-all-he-did-not]]>
+		</link>
+		<description>
+	    <![CDATA["Adam was but human—this explains it all. He did not want the apple for the apple's sake, he wanted it only because it was forbidden. The mistake was in not forbidding the serpent; then he would have eaten the serpent." -- Mark Twain]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/591759-there-is-a-night-that-never-comes-to-an-end</guid>
+		<pubDate>Fri, 20 Jul 2012 11:14:45 -0700</pubDate>
+		<title>
+			<![CDATA[Neil add a quote by Terry Pratchett]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/591759-there-is-a-night-that-never-comes-to-an-end]]>
+		</link>
+		<description>
+	    <![CDATA["There is a night that never comes to an end....
+The clock of the world turns under its own shadow.  Midnight is a moving place, hurtling around the planet at a thousand miles an hour like a dark knike, cutting slices of daily bread off the endless loaf of Time." -- Terry Pratchett]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/684027-tina]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/684027-tina" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 21 May 2012 09:35:38 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/64057-if-it-can-be-verified-we-don-t-need-faith-faith</guid>
+		<pubDate>Mon, 21 May 2012 09:35:38 -0700</pubDate>
+		<title>
+			<![CDATA[Tina add a quote by Madeleine L'Engle]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/64057-if-it-can-be-verified-we-don-t-need-faith-faith]]>
+		</link>
+		<description>
+	    <![CDATA["If it can be verified, we don't need faith... Faith is for that which lies on the other side of reason. Faith is what makes life bearable, with all its tragedies and ambiguities and sudden, startling joys." -- Madeleine L'Engle]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/542655-i-arise-in-the-morning-torn-between-a-desire-to</guid>
+		<pubDate>Wed, 11 Jul 2012 06:50:13 -0700</pubDate>
+		<title>
+			<![CDATA[Tina add a quote by E. B. White]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/542655-i-arise-in-the-morning-torn-between-a-desire-to]]>
+		</link>
+		<description>
+	    <![CDATA["I arise in the morning torn between a desire to improve (or save) the world and a desire to enjoy (or savor) the world. This makes it hard to plan the day." -- E. B. White]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

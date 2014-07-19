@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/572850-marzena]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/572850-marzena" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 29 Nov 2012 18:34:51 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/286186-no-amount-of-self-improvement-can-make-up-for-any-lack</guid>
+		<pubDate>Thu, 29 Nov 2012 18:34:51 -0800</pubDate>
+		<title>
+			<![CDATA[Marzena add a quote by Robert Holden]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/286186-no-amount-of-self-improvement-can-make-up-for-any-lack]]>
+		</link>
+		<description>
+	    <![CDATA["No amount of self-improvement can make up for any lack of self-acceptance." -- Robert Holden]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/286184-if-you-think-something-is-missing-in-your-life-it</guid>
+		<pubDate>Thu, 29 Nov 2012 18:35:38 -0800</pubDate>
+		<title>
+			<![CDATA[Marzena add a quote by Robert Holden]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/286184-if-you-think-something-is-missing-in-your-life-it]]>
+		</link>
+		<description>
+	    <![CDATA["If you think something is missing in your life, it is probably YOU..." -- Robert Holden]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

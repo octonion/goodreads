@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/917368-karl-fischer]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/917368-karl-fischer" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 25 Dec 2012 11:47:36 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/41523-it-isn-t-narnia-you-know-sobbed-lucy-it-s-you-we</guid>
+		<pubDate>Tue, 25 Dec 2012 11:47:36 -0800</pubDate>
+		<title>
+			<![CDATA[Karl add a quote by C.S. Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/41523-it-isn-t-narnia-you-know-sobbed-lucy-it-s-you-we]]>
+		</link>
+		<description>
+	    <![CDATA["It isn't Narnia, you know,&quot; sobbed Lucy. &quot;It's you. We shan't meet you there. And how can we live, never meeting you?&quot;
+ &quot;But you shall meet me, dear one,&quot; said Aslan.
+ &quot;Are -are you there too, Sir?&quot; said Edmund.
+ &quot;I am,&quot; said Aslan. &quot;But there I have another name. You must learn to know me by that name. This was the very reason why you were brought to Narnia, that by knowing me here for a little, you may know me better there." -- C.S. Lewis]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

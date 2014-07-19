@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/797904-stephen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/797904-stephen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 20 Jun 2011 13:11:54 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/398393-i-may-say-that-this-is-the-greatest-factor-the</guid>
+		<pubDate>Mon, 20 Jun 2011 13:11:54 -0700</pubDate>
+		<title>
+			<![CDATA[Stephen add a quote by Roald Amundsen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/398393-i-may-say-that-this-is-the-greatest-factor-the]]>
+		</link>
+		<description>
+	    <![CDATA["I may say that this is the greatest factor: the way in which the expedition is equipped, the way in which every difficulty is foreseen, and precautions taken for meeting or avoiding it. Victory awaits him who has everything in order, luck, people call it. Defeat is certain for him who has neglected to take the necessary precautions in time, this is called bad luck." -- Roald Amundsen]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/399563-the-only-currency-that-we-really-have-to-spend-during</guid>
+		<pubDate>Wed, 22 Jun 2011 19:23:01 -0700</pubDate>
+		<title>
+			<![CDATA[Stephen add a quote by Stephen R. Bown]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/399563-the-only-currency-that-we-really-have-to-spend-during]]>
+		</link>
+		<description>
+	    <![CDATA["The only currency that we really have to spend during our lives is time. Everything else is just a sub-category." -- Stephen R. Bown]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

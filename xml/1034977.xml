@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1034977-ele]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1034977-ele" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 31 Mar 2008 12:55:25 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/11440-sometimes-we-must-try-to-view-the-actions-of-those</guid>
+		<pubDate>Mon, 31 Mar 2008 12:55:25 -0700</pubDate>
+		<title>
+			<![CDATA[Ele add a quote by Lisa Wingate]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11440-sometimes-we-must-try-to-view-the-actions-of-those]]>
+		</link>
+		<description>
+	    <![CDATA["Sometimes we must try to view the actions of those around us with forgiveness. We must realize that they are going on the only road they can see. Sometimes we cannot raise our chins and see eye to eye, so we must bow our heads and have faith in one another." -- Lisa Wingate]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

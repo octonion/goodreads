@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/287460-anthony]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/287460-anthony" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 12 Aug 2008 11:48:36 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/66990-ford-carried-on-counting-quietly-this-is-about-the-most</guid>
+		<pubDate>Tue, 12 Aug 2008 11:48:36 -0700</pubDate>
+		<title>
+			<![CDATA[Anthony add a quote by Douglas Adams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/66990-ford-carried-on-counting-quietly-this-is-about-the-most]]>
+		</link>
+		<description>
+	    <![CDATA["Ford carried on counting quietly. This is about the most aggressive thing you can do to a computer, the equivalent of going up to a human being and saying &quot;Blood...blood...blood...blood..." -- Douglas Adams]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

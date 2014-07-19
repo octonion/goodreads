@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/793266-greta]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/793266-greta" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 05 Aug 2012 23:30:53 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/113052-take-responsibility-for-the-energy-you-bring</guid>
+		<pubDate>Sun, 05 Aug 2012 23:30:53 -0700</pubDate>
+		<title>
+			<![CDATA[Greta add a quote by Jill Bolte Taylor]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/113052-take-responsibility-for-the-energy-you-bring]]>
+		</link>
+		<description>
+	    <![CDATA["Take responsibility for the energy you bring." -- Jill Bolte Taylor]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3713-simplicity-patience-compassion-these-three-are-your-greatest-treasures-simple</guid>
+		<pubDate>Mon, 06 Aug 2012 00:10:12 -0700</pubDate>
+		<title>
+			<![CDATA[Greta add a quote by Lao Tzu]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3713-simplicity-patience-compassion-these-three-are-your-greatest-treasures-simple]]>
+		</link>
+		<description>
+	    <![CDATA["Simplicity, patience, compassion.
+These three are your greatest treasures.
+Simple in actions and thoughts, you return to the source of being.
+Patient with both friends and enemies,
+you accord with the way things are.
+Compassionate toward yourself,
+you reconcile all beings in the world." -- Lao Tzu]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

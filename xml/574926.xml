@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/574926-tom]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/574926-tom" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 18 Dec 2007 13:23:13 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6237-i-ve-been-spending-my-life-among-flyspecks-while-miracles-have</guid>
+		<pubDate>Tue, 18 Dec 2007 13:23:13 -0800</pubDate>
+		<title>
+			<![CDATA[Tom add a quote by Mary Chase]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6237-i-ve-been-spending-my-life-among-flyspecks-while-miracles-have]]>
+		</link>
+		<description>
+	    <![CDATA["I've been spending my life among flyspecks... while miracles have been leaning on lampposts at 4th and Fairfax" -- Mary Chase]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2754-it-was-a-bright-cold-day-in-april-and-the</guid>
+		<pubDate>Mon, 15 Jul 2013 08:57:07 -0700</pubDate>
+		<title>
+			<![CDATA[Tom add a quote by George Orwell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2754-it-was-a-bright-cold-day-in-april-and-the]]>
+		</link>
+		<description>
+	    <![CDATA["It was a bright cold day in April, and the clocks were striking thirteen." -- George Orwell]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/327562-in-this-world-elwood-you-must-be-oh-so-smart-or--oh-so-pleasant</guid>
+		<pubDate>Tue, 03 Sep 2013 13:15:18 -0700</pubDate>
+		<title>
+			<![CDATA[Tom add a quote by Mary Chase]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/327562-in-this-world-elwood-you-must-be-oh-so-smart-or--oh-so-pleasant]]>
+		</link>
+		<description>
+	    <![CDATA["In this world, Elwood, you must be oh-so-smart or -oh-so-pleasant.  For years I was smart.  I recommend pleasant.  And you may quote me." -- Mary Chase]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1029418-selkie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1029418-selkie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 Apr 2008 12:59:25 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/40555-ultimately-the-bond-of-all-companionship-whether-in-marriage-or</guid>
+		<pubDate>Tue, 01 Apr 2008 12:59:25 -0700</pubDate>
+		<title>
+			<![CDATA[Selkie add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/40555-ultimately-the-bond-of-all-companionship-whether-in-marriage-or]]>
+		</link>
+		<description>
+	    <![CDATA["Ultimately the bond of all companionship, whether in marriage or in friendship, is conversation, and conversation must have a common basis, and between two people of widely different culture the only common basis possible is the lowest level." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/40556-love-known-to-the-person-by-whom-it-is-inspired</guid>
+		<pubDate>Tue, 01 Apr 2008 13:00:02 -0700</pubDate>
+		<title>
+			<![CDATA[Selkie add a quote by Jean-Jacques Rousseau ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/40556-love-known-to-the-person-by-whom-it-is-inspired]]>
+		</link>
+		<description>
+	    <![CDATA["Love, known to the person by whom it is inspired, becomes more bearable." -- Jean-Jacques Rousseau ]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

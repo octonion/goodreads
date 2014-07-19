@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/789802-roger-sullivan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/789802-roger-sullivan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 21 Apr 2014 12:16:04 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/267666-i-suppose-that-one-reason-i-have-always-detested-religion</guid>
+		<pubDate>Mon, 21 Apr 2014 12:16:04 -0700</pubDate>
+		<title>
+			<![CDATA[Roger add a quote by Christopher Hitchens]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/267666-i-suppose-that-one-reason-i-have-always-detested-religion]]>
+		</link>
+		<description>
+	    <![CDATA["I suppose that one reason I have always detested religion is its sly tendency to insinuate the idea that the universe is designed with 'you' in mind or, even worse, that there is a divine plan into which one fits whether one knows it or not. This kind of modesty is too arrogant for me." -- Christopher Hitchens]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/852042-dell]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/852042-dell" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 29 Sep 2008 16:31:16 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/78818-how-do-i-know-anything-how-is-it-that-my</guid>
+		<pubDate>Mon, 29 Sep 2008 16:31:16 -0700</pubDate>
+		<title>
+			<![CDATA[Dell add a quote by Nalo Hopkinson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/78818-how-do-i-know-anything-how-is-it-that-my]]>
+		</link>
+		<description>
+	    <![CDATA["How do I know anything? How is it that my arms stretched out in front of me are so pale? How to I even know that they should be brown like riverbank mud, as they were when I was many goddesses with many worshippers, ruling in lands on the other side of a great, salty ocean? I used to be many, but now we are one, all squeezed together, many necks in one coffle. " -- Nalo Hopkinson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

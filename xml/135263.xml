@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/135263-david]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/135263-david" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 30 Jun 2014 17:36:39 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/430237-sanity-in-a-writer-is-merely-this-however-stupid-he</guid>
+		<pubDate>Mon, 30 Jun 2014 17:36:39 -0700</pubDate>
+		<title>
+			<![CDATA[David add a quote by John Gardner]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/430237-sanity-in-a-writer-is-merely-this-however-stupid-he]]>
+		</link>
+		<description>
+	    <![CDATA["Sanity in a writer is merely this: However stupid he may be in his private life, he never cheats in his writing.  He never forgets that his audience is, at least ideally, as noble, generous, and tolerant as he is himself (or more so), and never forgets that he is writing about people, so that to turn characters to cartoons, or treat his characters as innately inferior to himself, to forget their reasons for being as they are, to treat them as brutes, is bad art.  Sanity in a writer also involves taste . . . To write with taste, in the highest sense, is to write with the assumption that one out of a hundred people who read one’s work may be dying, or have loved someone dying; to write so that no one commits suicide, no one despairs; to write, as Shakespeare wrote, so that people understand, sympathize, see the universality of pain, and feel strengthened, if not directly encouraged to live on . . . If there is good to be said, the writer should remember to say it.  If there is bad to be said, he should say it in a way that reflects the truth that, though we see the evil, we choose to continue among the living." -- John Gardner]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/44398-westerville]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/44398-westerville" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 19 Dec 2011 08:32:22 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/474402-charlie-massaged-his-right-cheek-feeling-a-slight-sting-it</guid>
+		<pubDate>Mon, 19 Dec 2011 08:32:22 -0800</pubDate>
+		<title>
+			<![CDATA[Westerville add a quote by Alecia Stone]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/474402-charlie-massaged-his-right-cheek-feeling-a-slight-sting-it]]>
+		</link>
+		<description>
+	    <![CDATA["Charlie massaged his right cheek, feeling a slight sting. “It doesn’t hurt much. I don’t know how it looks” – he lowered his hand and turned his face to the side – “but it can’t be that bad. What do you think? You’d date me, right?”
+Alex pushed him away, grinning. “You’re an idiot." -- Alecia Stone]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

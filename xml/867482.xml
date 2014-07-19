@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/867482-amy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/867482-amy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 21 Dec 2008 11:39:35 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/865-be-who-you-are-and-say-what-you-feel-because</guid>
+		<pubDate>Sun, 21 Dec 2008 11:39:35 -0800</pubDate>
+		<title>
+			<![CDATA[Amy  add a quote by Bernard M. Baruch]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/865-be-who-you-are-and-say-what-you-feel-because]]>
+		</link>
+		<description>
+	    <![CDATA["Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind." -- Bernard M. Baruch]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1944-a-woman-is-like-a-tea-bag-you-never-know</guid>
+		<pubDate>Sun, 21 Dec 2008 11:42:10 -0800</pubDate>
+		<title>
+			<![CDATA[Amy  add a quote by Eleanor Roosevelt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1944-a-woman-is-like-a-tea-bag-you-never-know]]>
+		</link>
+		<description>
+	    <![CDATA["A woman is like a tea bag; you never know how strong it is until it's in hot water." -- Eleanor Roosevelt]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/598668-you-think-your-pain-and-your-heartbreak-are-unprecedented-in</guid>
+		<pubDate>Thu, 02 Aug 2012 20:43:31 -0700</pubDate>
+		<title>
+			<![CDATA[Amy  add a quote by James Baldwin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/598668-you-think-your-pain-and-your-heartbreak-are-unprecedented-in]]>
+		</link>
+		<description>
+	    <![CDATA["You think your pain and your heartbreak are unprecedented in the history of the world, but then you read." -- James Baldwin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

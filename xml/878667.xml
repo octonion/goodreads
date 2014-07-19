@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/878667-stacee]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/878667-stacee" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 06 May 2008 15:53:06 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/32952-if-you-wish-to-make-an-apple-pie-from-scratch</guid>
+		<pubDate>Tue, 06 May 2008 15:53:06 -0700</pubDate>
+		<title>
+			<![CDATA[Stacee add a quote by Carl Sagan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/32952-if-you-wish-to-make-an-apple-pie-from-scratch]]>
+		</link>
+		<description>
+	    <![CDATA["If you wish to make an apple pie from scratch, you must first invent the universe." -- Carl Sagan]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/30410-i-do-not-know-what-i-may-appear-to-the</guid>
+		<pubDate>Tue, 06 May 2008 15:55:27 -0700</pubDate>
+		<title>
+			<![CDATA[Stacee add a quote by Isaac Newton]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/30410-i-do-not-know-what-i-may-appear-to-the]]>
+		</link>
+		<description>
+	    <![CDATA["I do not know what I may appear to the world, but to myself I seem to have been only like a boy playing on the sea-shore, and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary, whilst the great ocean of truth lay all undiscovered before me." -- Isaac Newton]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/51841-for-small-creatures-such-as-we-the-vastness-is-bearable</guid>
+		<pubDate>Tue, 06 May 2008 15:56:13 -0700</pubDate>
+		<title>
+			<![CDATA[Stacee add a quote by Carl Sagan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/51841-for-small-creatures-such-as-we-the-vastness-is-bearable]]>
+		</link>
+		<description>
+	    <![CDATA["For small creatures such as we the vastness is bearable only through love." -- Carl Sagan]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/51843-in-the-twentieth-century-war-will-be-dead-the-scaffold</guid>
+		<pubDate>Tue, 06 May 2008 16:04:06 -0700</pubDate>
+		<title>
+			<![CDATA[Stacee add a quote by Victor Hugo]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/51843-in-the-twentieth-century-war-will-be-dead-the-scaffold]]>
+		</link>
+		<description>
+	    <![CDATA["In the Twentieth Century war will be dead, the scaffold will be dead, hatred will be dead, frontier boundaries will be dead, dogmas will be dead; man will live. He will possess something higher than all these-a great country, the whole earth, and a great hope, the whole heaven." -- Victor Hugo]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/376292-dewi]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/376292-dewi" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 19 May 2008 19:28:54 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2057-you-cannot-open-a-book-without-learning-something</guid>
+		<pubDate>Mon, 19 May 2008 19:28:54 -0700</pubDate>
+		<title>
+			<![CDATA[Dewi add a quote by Confucius]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2057-you-cannot-open-a-book-without-learning-something]]>
+		</link>
+		<description>
+	    <![CDATA["You cannot open a book without learning something." -- Confucius]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/150710-in-time-the-hurt-began-to-fade-and-it-was</guid>
+		<pubDate>Thu, 08 Sep 2011 04:29:56 -0700</pubDate>
+		<title>
+			<![CDATA[Dewi add a quote by Nicholas Sparks]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/150710-in-time-the-hurt-began-to-fade-and-it-was]]>
+		</link>
+		<description>
+	    <![CDATA["In time, the hurt began to fade and it was easier to just let it go. At least I thought it was. But in every boy I met in the next few years, I found myself looking for you, and when the feelings got too strong, I'd write you another letter. But I never sent them for fear of what I might find. By then, you'd gone on with your life and I didn't want to think about you loving someone else. I wanted to remember us like we were that summer. I didn't ever want to lose that." -- Nicholas Sparks]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

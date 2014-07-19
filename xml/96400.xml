@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/96400-aj-batac]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/96400-aj-batac" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 08 Oct 2013 10:55:00 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5934-i-ve-learned-that-people-will-forget-what-you-said-people</guid>
+		<pubDate>Tue, 08 Oct 2013 10:55:00 -0700</pubDate>
+		<title>
+			<![CDATA[Aj add a quote by Maya Angelou]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5934-i-ve-learned-that-people-will-forget-what-you-said-people]]>
+		</link>
+		<description>
+	    <![CDATA["I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel." -- Maya Angelou]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/857664-as-an-atheist-i-see-nothing-wrong-in-believing-in</guid>
+		<pubDate>Wed, 13 Nov 2013 10:34:22 -0800</pubDate>
+		<title>
+			<![CDATA[Aj add a quote by Ricky Gervais]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/857664-as-an-atheist-i-see-nothing-wrong-in-believing-in]]>
+		</link>
+		<description>
+	    <![CDATA["As an atheist, I see nothing “wrong” in believing in a God. I don’t think there is a God, but belief in him does no harm. If it helps you in any way, then that’s fine with me. It’s when belief starts infringing on other people’s rights when it worries me. I would never deny your right to believe in a God. I would just rather you didn’t kill people who believe in a different God, say. Or stone someone to death because your rulebook says their sexuality is immoral. It’s strange that anyone who believes that an all-powerful all-knowing, omniscient power responsible for everything that happens, would also want to judge and punish people for what they are." -- Ricky Gervais]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

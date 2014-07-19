@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/97-ross-venook]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/97-ross-venook" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 25 Aug 2008 23:52:18 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4061-the-most-exciting-phrase-to-hear-in-science-the-one</guid>
+		<pubDate>Mon, 25 Aug 2008 23:52:18 -0700</pubDate>
+		<title>
+			<![CDATA[Ross add a quote by Isaac Asimov]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4061-the-most-exciting-phrase-to-hear-in-science-the-one]]>
+		</link>
+		<description>
+	    <![CDATA["The most exciting phrase to hear in science, the one that heralds the most discoveries, is not &quot;Eureka!&quot; (I found it!) but 'That's funny..." -- Isaac Asimov]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/86154-part-of-the-inhumanity-of-the-computer-is-that-once</guid>
+		<pubDate>Tue, 26 Aug 2008 00:00:04 -0700</pubDate>
+		<title>
+			<![CDATA[Ross add a quote by Isaac Asimov]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/86154-part-of-the-inhumanity-of-the-computer-is-that-once]]>
+		</link>
+		<description>
+	    <![CDATA["Part of the inhumanity of the computer is that, once it is competently programmed and working smoothly, it is completely honest." -- Isaac Asimov]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

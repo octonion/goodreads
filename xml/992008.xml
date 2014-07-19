@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/992008-mbartscher]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/992008-mbartscher" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 27 Jul 2013 07:39:01 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/10410-to-love-is-to-suffer-to-avoid-suffering-one-must</guid>
+		<pubDate>Sat, 27 Jul 2013 07:39:01 -0700</pubDate>
+		<title>
+			<![CDATA[Mbartscher add a quote by Woody Allen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10410-to-love-is-to-suffer-to-avoid-suffering-one-must]]>
+		</link>
+		<description>
+	    <![CDATA["To love is to suffer. To avoid suffering one must not love. But then one suffers from not loving. Therefore, to love is to suffer; not to love is to suffer; to suffer is to suffer. To be happy is to love. To be happy, then, is to suffer, but suffering makes one unhappy. Therefore, to be happy one must love or love to suffer or suffer from too much happiness." -- Woody Allen]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

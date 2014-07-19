@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/97126-azin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/97126-azin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 18 Dec 2007 11:19:08 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6211-the-tools-are-real-the-viewer-is-real-you-the</guid>
+		<pubDate>Tue, 18 Dec 2007 11:19:08 -0800</pubDate>
+		<title>
+			<![CDATA[Azin add a quote by Steven Brust]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6211-the-tools-are-real-the-viewer-is-real-you-the]]>
+		</link>
+		<description>
+	    <![CDATA["The tools are real. The viewer is real, you, the artist, is real and a part of everything you paint. You connect yourself to the viewer by sharing something that is inside of you that connects with something inside of him. All you have as your guide is that you know what moves you. All you have to do it with is a brush, some chemical and canvas, and technique." -- Steven Brust]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

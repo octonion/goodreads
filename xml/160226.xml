@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/160226-kevin-sebastian]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/160226-kevin-sebastian" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 03 Nov 2013 08:17:27 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/413070-in-most-cases-being-a-good-boss-means-hiring-talented</guid>
+		<pubDate>Sun, 03 Nov 2013 08:17:27 -0800</pubDate>
+		<title>
+			<![CDATA[Kevin add a quote by Tina Fey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/413070-in-most-cases-being-a-good-boss-means-hiring-talented]]>
+		</link>
+		<description>
+	    <![CDATA["In most cases being a good boss means hiring talented people and then getting out of their way." -- Tina Fey]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/147036-the-best-executive-is-the-one-who-has-sense-enough</guid>
+		<pubDate>Sun, 03 Nov 2013 08:17:36 -0800</pubDate>
+		<title>
+			<![CDATA[Kevin add a quote by Theodore Roosevelt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/147036-the-best-executive-is-the-one-who-has-sense-enough]]>
+		</link>
+		<description>
+	    <![CDATA["The best executive is the one who has sense enough to pick good men to do what he wants done, and self-restraint to keep from meddling with them while they do it." -- Theodore Roosevelt]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

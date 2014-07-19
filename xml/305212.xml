@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/305212-sumbul]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/305212-sumbul" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 14 Feb 2013 09:20:26 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2689-to-love-to-be-loved-to-never-forget-your-own</guid>
+		<pubDate>Thu, 14 Feb 2013 09:20:26 -0800</pubDate>
+		<title>
+			<![CDATA[Sumbul add a quote by Arundhati Roy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2689-to-love-to-be-loved-to-never-forget-your-own]]>
+		</link>
+		<description>
+	    <![CDATA["To love. To be loved. To never forget your own insignificance. To never get used to the unspeakable violence and the vulgar disparity of life around you. To seek joy in the saddest places. To pursue beauty to its lair. To never simplify what is complicated or complicate what is simple. To respect strength, never power. Above all, to watch. To try and understand. To never look away. And never, never to forget." -- Arundhati Roy]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

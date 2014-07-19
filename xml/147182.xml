@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/147182-amy-logan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/147182-amy-logan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 15 Jun 2012 10:37:14 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/72283-follow-your-inner-moonlight-don-t-hide-the-madness</guid>
+		<pubDate>Fri, 15 Jun 2012 10:37:14 -0700</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Allen Ginsberg]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/72283-follow-your-inner-moonlight-don-t-hide-the-madness]]>
+		</link>
+		<description>
+	    <![CDATA["Follow your inner moonlight; don't hide the madness." -- Allen Ginsberg]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/41398-an-intellectual-is-a-person-who-has-discovered-something-more</guid>
+		<pubDate>Thu, 14 Mar 2013 17:28:53 -0700</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Aldous Huxley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/41398-an-intellectual-is-a-person-who-has-discovered-something-more]]>
+		</link>
+		<description>
+	    <![CDATA["An intellectual is a person who has discovered something more interesting than sex." -- Aldous Huxley]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

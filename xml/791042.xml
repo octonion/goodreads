@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/791042-todd]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/791042-todd" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 27 Oct 2009 08:10:29 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/61279-writing-is-a-matter-of-finding-the-appropriate-balance-of</guid>
+		<pubDate>Tue, 27 Oct 2009 08:10:29 -0700</pubDate>
+		<title>
+			<![CDATA[Todd add a quote by Michael Swanwick]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/61279-writing-is-a-matter-of-finding-the-appropriate-balance-of]]>
+		</link>
+		<description>
+	    <![CDATA["Writing is a matter of finding the appropriate balance of dinosaurs and sodomy
+
+" -- Michael Swanwick]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/121650-the-buddha-the-godhead-resides-quite-as-comfortably-in-the</guid>
+		<pubDate>Tue, 27 Mar 2012 13:19:14 -0700</pubDate>
+		<title>
+			<![CDATA[Todd add a quote by Robert M. Pirsig]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/121650-the-buddha-the-godhead-resides-quite-as-comfortably-in-the]]>
+		</link>
+		<description>
+	    <![CDATA["The Buddha, the Godhead, resides quite as comfortably in the circuits of a digital computer or the gears of a cycle transmission as he does at the top of the mountain, or in the petals of a flower. To think otherwise is to demean the Buddha - which is to demean oneself." -- Robert M. Pirsig]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

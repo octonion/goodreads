@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/569096-myke]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/569096-myke" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 04 Mar 2008 14:06:12 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/18860-when-someone-seeks-said-siddhartha-then-it-easily-happens-that</guid>
+		<pubDate>Tue, 04 Mar 2008 14:06:12 -0800</pubDate>
+		<title>
+			<![CDATA[Myke add a quote by Herman Hesse]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18860-when-someone-seeks-said-siddhartha-then-it-easily-happens-that]]>
+		</link>
+		<description>
+	    <![CDATA["When someone seeks,&quot; said Siddhartha, &quot;then it easily happens that his eyes see only the thing that he seeks, and he is able to find nothing, to take in nothing because he always thinks only about the thing he is seeking, because he has one goal, because he is obsessed with his goal. Seeking means: having a goal. But finding means: being free, being open, having no goal." -- Herman Hesse]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/26741-say-what-you-will-about-the-sweet-miracle-of-unquestioning</guid>
+		<pubDate>Tue, 04 Mar 2008 14:23:25 -0800</pubDate>
+		<title>
+			<![CDATA[Myke add a quote by Kurt Vonnegut]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/26741-say-what-you-will-about-the-sweet-miracle-of-unquestioning]]>
+		</link>
+		<description>
+	    <![CDATA["Say what you will about the sweet miracle of unquestioning faith, I consider a capacity for it terrifying and absolutely vile." -- Kurt Vonnegut]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

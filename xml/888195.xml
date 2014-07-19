@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/888195-krista]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/888195-krista" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 08 Feb 2008 19:13:53 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/23109-there-is-much-to-be-known-and-above-all-much</guid>
+		<pubDate>Fri, 08 Feb 2008 19:13:53 -0800</pubDate>
+		<title>
+			<![CDATA[Krista add a quote by from Lloyd Alexander's &quot;The Black Cauldron&quot;]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/23109-there-is-much-to-be-known-and-above-all-much]]>
+		</link>
+		<description>
+	    <![CDATA["There is much to be known, and above all much to be loved, be it the turn of the seasons or the shape of a river pebble. Indeed, the more we find to love, the more we add to the measure of our hearts." -- from Lloyd Alexander's &quot;The Black Cauldron&quot;]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/661776-peggy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/661776-peggy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 17 Feb 2008 21:53:09 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5636-men-seldom-make-passes-at-girls-who-wear-glasses</guid>
+		<pubDate>Sun, 17 Feb 2008 21:53:09 -0800</pubDate>
+		<title>
+			<![CDATA[Peggy add a quote by Dorothy Parker]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5636-men-seldom-make-passes-at-girls-who-wear-glasses]]>
+		</link>
+		<description>
+	    <![CDATA["Men seldom make passes at girls who wear glasses." -- Dorothy Parker]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3735-it-is-funny-how-mortals-always-picture-us-as-putting</guid>
+		<pubDate>Thu, 06 Dec 2007 04:59:49 -0800</pubDate>
+		<title>
+			<![CDATA[Peggy add a quote by C.S. Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3735-it-is-funny-how-mortals-always-picture-us-as-putting]]>
+		</link>
+		<description>
+	    <![CDATA["It is funny how mortals always picture us as putting things into their minds: in reality our best work is done by keeping things out." -- C.S. Lewis]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3736-man-is-least-himself-when-he-talks-in-his-own</guid>
+		<pubDate>Thu, 06 Dec 2007 05:08:16 -0800</pubDate>
+		<title>
+			<![CDATA[Peggy add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3736-man-is-least-himself-when-he-talks-in-his-own]]>
+		</link>
+		<description>
+	    <![CDATA["Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth." -- Oscar Wilde]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

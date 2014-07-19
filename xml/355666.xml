@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/355666-dan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/355666-dan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 23 Mar 2008 05:46:12 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/37504-technos-and-clerics-have-much-in-common-both-take-a</guid>
+		<pubDate>Sun, 23 Mar 2008 05:46:12 -0700</pubDate>
+		<title>
+			<![CDATA[Dan add a quote by Dan Ronco]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/37504-technos-and-clerics-have-much-in-common-both-take-a]]>
+		</link>
+		<description>
+	    <![CDATA["Technos and clerics have much in common. Both take a world that can’t be fully understood and try to explain its fundamental properties. 
+
+Clerics postulate beliefs that can never be proven; they demand you accept these postulates as your Faith, which will guide your actions and thoughts. It’s a top down way of thinking; start with the big picture and derive rules for living. Fundamental knowledge is static. Even the derived rules rarely change.
+
+Technos work from the bottom up. They build a baseline of observations and formulate theories to explain these phenomena. Nothing is sacred; with new observations, theories are discarded or modified to fit the facts.
+
+Technos and clerics; how could they not be in conflict?
+Dan Ronco’s Diary, 2016
+" -- Dan Ronco]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

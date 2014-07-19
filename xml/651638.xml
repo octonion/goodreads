@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/651638-meredith]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/651638-meredith" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 08 Dec 2007 13:24:55 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/729-i-ve-never-stunned-anyone-except-in-our-d-a-lessons-said</guid>
+		<pubDate>Sat, 08 Dec 2007 13:24:55 -0800</pubDate>
+		<title>
+			<![CDATA[Meredith add a quote by J.K. Rowling]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/729-i-ve-never-stunned-anyone-except-in-our-d-a-lessons-said]]>
+		</link>
+		<description>
+	    <![CDATA["I've never stunned anyone except in our D.A. lessons,&quot; said Luna, sounding mildly interested. &quot;That was noisier than I thought it would be." -- J.K. Rowling]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

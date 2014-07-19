@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/273080-ned]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/273080-ned" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 25 Dec 2011 10:45:09 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/14206-the-human-phenomenon-is-but-the-sum-of-densely-coiled</guid>
+		<pubDate>Sun, 25 Dec 2011 10:45:09 -0800</pubDate>
+		<title>
+			<![CDATA[Ned add a quote by Thomas Ligotti]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14206-the-human-phenomenon-is-but-the-sum-of-densely-coiled]]>
+		</link>
+		<description>
+	    <![CDATA["The human phenomenon is but the sum
+Of densely coiled layers of illusion
+Each of which winds itself on the supreme insanity
+That there are persons of any kind
+When all there can be is mindless mirrors
+Laughing and screaming as they parade about 
+in an endless dream    
+" -- Thomas Ligotti]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

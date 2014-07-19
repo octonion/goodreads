@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/904137-morgan-turbo]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/904137-morgan-turbo" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 20 Nov 2008 15:42:29 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/115897-the-actor-s-life-offers-on-a-daily-basis-the-simulacrum</guid>
+		<pubDate>Thu, 20 Nov 2008 15:42:29 -0800</pubDate>
+		<title>
+			<![CDATA[Morgan (Turbo) add a quote by Salman Rushdie]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/115897-the-actor-s-life-offers-on-a-daily-basis-the-simulacrum]]>
+		</link>
+		<description>
+	    <![CDATA["The actor's life offers, on a daily basis, the simulacrum of love; a mask can be satisfied, or at least consoled, by the echo of what it seeks." -- Salman Rushdie]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/115898-we-strive-for-heights-bit-our-natures-betray-us-chamcha</guid>
+		<pubDate>Thu, 20 Nov 2008 15:43:47 -0800</pubDate>
+		<title>
+			<![CDATA[Morgan (Turbo) add a quote by Salman Rushdie]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/115898-we-strive-for-heights-bit-our-natures-betray-us-chamcha]]>
+		</link>
+		<description>
+	    <![CDATA["We strive for heights bit our natures betray us, Chamcha thought; clowns in search of crowns.  The bitterness overcame him" -- Salman Rushdie]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

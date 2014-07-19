@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/824215-kappy-williams]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/824215-kappy-williams" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 16 Mar 2008 20:41:34 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/32848-music-is-the-language-of-the-spirit-it-opens-the</guid>
+		<pubDate>Sun, 16 Mar 2008 20:41:34 -0700</pubDate>
+		<title>
+			<![CDATA[Kappy add a quote by Kahlil Gibran]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/32848-music-is-the-language-of-the-spirit-it-opens-the]]>
+		</link>
+		<description>
+	    <![CDATA["Music is the language of the spirit. It opens the secret of life bringing peace, abolishing strife." -- Kahlil Gibran]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/14140-coincidence-is-god-s-way-of-remaining-anonymous</guid>
+		<pubDate>Mon, 14 Jul 2008 18:57:48 -0700</pubDate>
+		<title>
+			<![CDATA[Kappy add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14140-coincidence-is-god-s-way-of-remaining-anonymous]]>
+		</link>
+		<description>
+	    <![CDATA["Coincidence is God's way of remaining anonymous." -- Albert Einstein]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

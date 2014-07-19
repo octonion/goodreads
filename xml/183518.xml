@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/183518-john-b]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/183518-john-b" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 07 Jul 2008 10:15:39 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1198-i-am-so-clever-that-sometimes-i-don-t-understand-a</guid>
+		<pubDate>Mon, 07 Jul 2008 10:15:39 -0700</pubDate>
+		<title>
+			<![CDATA[john add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1198-i-am-so-clever-that-sometimes-i-don-t-understand-a]]>
+		</link>
+		<description>
+	    <![CDATA["I am so clever that sometimes I don't understand a single word of what I am saying." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/14116-a-paranoid-is-someone-who-knows-a-little-of-what-s</guid>
+		<pubDate>Mon, 07 Jul 2008 10:17:07 -0700</pubDate>
+		<title>
+			<![CDATA[john add a quote by William S. Burroughs]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14116-a-paranoid-is-someone-who-knows-a-little-of-what-s]]>
+		</link>
+		<description>
+	    <![CDATA["A paranoid is someone who knows a little of what's going on. A psychotic is a guy who's just found out what's going on." -- William S. Burroughs]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/55866-love-is-a-haunting-melody-that-i-have-never-mastered</guid>
+		<pubDate>Mon, 07 Jul 2008 10:18:05 -0700</pubDate>
+		<title>
+			<![CDATA[john add a quote by William S. Burroughs]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/55866-love-is-a-haunting-melody-that-i-have-never-mastered]]>
+		</link>
+		<description>
+	    <![CDATA["Love is a haunting melody that I have never mastered, and I fear I never will." -- William S. Burroughs]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

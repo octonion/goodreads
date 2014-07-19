@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/886767-kerry-louden]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/886767-kerry-louden" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 08 Feb 2008 15:11:15 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/16070-the-best-way-out-is-always-through</guid>
+		<pubDate>Fri, 08 Feb 2008 15:11:15 -0800</pubDate>
+		<title>
+			<![CDATA[Kerry add a quote by Robert Frost]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16070-the-best-way-out-is-always-through]]>
+		</link>
+		<description>
+	    <![CDATA["The best way out is always through." -- Robert Frost]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/23039-the-best-mind-altering-drug-is-the-truth</guid>
+		<pubDate>Fri, 08 Feb 2008 15:53:26 -0800</pubDate>
+		<title>
+			<![CDATA[Kerry add a quote by Lily tomlin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/23039-the-best-mind-altering-drug-is-the-truth]]>
+		</link>
+		<description>
+	    <![CDATA["The best mind altering drug is the truth." -- Lily tomlin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

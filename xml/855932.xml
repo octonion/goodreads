@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/855932-bill-huff]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/855932-bill-huff" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 05 Apr 2012 05:25:26 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/180067-you-can-cut-all-the-flowers-but-you-cannot-keep</guid>
+		<pubDate>Thu, 05 Apr 2012 05:25:26 -0700</pubDate>
+		<title>
+			<![CDATA[Bill add a quote by Pablo Neruda]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/180067-you-can-cut-all-the-flowers-but-you-cannot-keep]]>
+		</link>
+		<description>
+	    <![CDATA["You can cut all the flowers but you cannot keep Spring from coming." -- Pablo Neruda]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/244677-this-moment-will-just-be-another-story-someday</guid>
+		<pubDate>Mon, 09 Jul 2012 11:39:02 -0700</pubDate>
+		<title>
+			<![CDATA[Bill add a quote by Stephen Chbosky]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/244677-this-moment-will-just-be-another-story-someday]]>
+		</link>
+		<description>
+	    <![CDATA["This moment will just be another story someday." -- Stephen Chbosky]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

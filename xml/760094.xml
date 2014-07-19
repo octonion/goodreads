@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/760094-pablo]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/760094-pablo" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 06 Feb 2008 22:08:52 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1243-find-out-the-reason-that-commands-you-to-write-see</guid>
+		<pubDate>Wed, 06 Feb 2008 22:08:52 -0800</pubDate>
+		<title>
+			<![CDATA[Pablo add a quote by Rainer Maria Rilke]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1243-find-out-the-reason-that-commands-you-to-write-see]]>
+		</link>
+		<description>
+	    <![CDATA["Find out the reason that commands you to write; see whether it has spread its roots into the very depth of your heart; confess to yourself you would have to die if you were forbidden to write." -- Rainer Maria Rilke]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/20725-the-two-most-common-elements-in-the-universe-are-hydrogen</guid>
+		<pubDate>Sun, 17 Feb 2008 20:28:11 -0800</pubDate>
+		<title>
+			<![CDATA[Pablo add a quote by Harlan Ellison]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20725-the-two-most-common-elements-in-the-universe-are-hydrogen]]>
+		</link>
+		<description>
+	    <![CDATA["The two most common elements in the universe are Hydrogen and stupidity." -- Harlan Ellison]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/859019-marius]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/859019-marius" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 06 Dec 2013 14:19:39 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/33616-when-a-man-is-denied-the-right-to-live-the</guid>
+		<pubDate>Fri, 06 Dec 2013 14:19:39 -0800</pubDate>
+		<title>
+			<![CDATA[Marius add a quote by Nelson Mandela]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/33616-when-a-man-is-denied-the-right-to-live-the]]>
+		</link>
+		<description>
+	    <![CDATA["When a man is denied the right to live the life he believes in, he has no choice but to become an outlaw." -- Nelson Mandela]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

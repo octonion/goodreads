@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/36250-ganesh]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/36250-ganesh" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 06 May 2009 22:36:24 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4061-the-most-exciting-phrase-to-hear-in-science-the-one</guid>
+		<pubDate>Wed, 06 May 2009 22:36:24 -0700</pubDate>
+		<title>
+			<![CDATA[Ganesh add a quote by Isaac Asimov]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4061-the-most-exciting-phrase-to-hear-in-science-the-one]]>
+		</link>
+		<description>
+	    <![CDATA["The most exciting phrase to hear in science, the one that heralds the most discoveries, is not &quot;Eureka!&quot; (I found it!) but 'That's funny..." -- Isaac Asimov]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4078-the-saddest-aspect-of-life-right-now-is-that-science</guid>
+		<pubDate>Wed, 06 May 2009 22:36:29 -0700</pubDate>
+		<title>
+			<![CDATA[Ganesh add a quote by Isaac Asimov]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4078-the-saddest-aspect-of-life-right-now-is-that-science]]>
+		</link>
+		<description>
+	    <![CDATA["The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom." -- Isaac Asimov]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2599-if-my-doctor-told-me-i-had-only-six-minutes</guid>
+		<pubDate>Wed, 06 May 2009 22:36:32 -0700</pubDate>
+		<title>
+			<![CDATA[Ganesh add a quote by Isaac Asimov]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2599-if-my-doctor-told-me-i-had-only-six-minutes]]>
+		</link>
+		<description>
+	    <![CDATA["If my doctor told me I had only six minutes to live, I wouldn't brood.  I'd type a little faster." -- Isaac Asimov]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/465249-virginia]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/465249-virginia" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 27 Apr 2014 14:21:22 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/174206-you-have-the-most-revolting-florence-nightingale-complex-said-mrs</guid>
+		<pubDate>Sun, 27 Apr 2014 14:21:22 -0700</pubDate>
+		<title>
+			<![CDATA[Virginia add a quote by Stella Gibbons]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/174206-you-have-the-most-revolting-florence-nightingale-complex-said-mrs]]>
+		</link>
+		<description>
+	    <![CDATA["You have the most revolting Florence Nightingale complex,' said Mrs. Smiling.
+
+It is not that at all, and well you know it. On the whole, I dislike my fellow beings; I find them so difficult to understand. But I have a tidy mind and untidy lives irritate me. Also, they are uncivilized." -- Stella Gibbons]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

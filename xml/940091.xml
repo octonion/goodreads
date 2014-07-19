@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/940091-craig]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/940091-craig" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 18 Jun 2014 22:39:14 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1254609-the-sense-of-an-unseen-order-brooding-attentively-over-our</guid>
+		<pubDate>Wed, 18 Jun 2014 22:39:14 -0700</pubDate>
+		<title>
+			<![CDATA[Craig add a quote by Kim Chernin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1254609-the-sense-of-an-unseen-order-brooding-attentively-over-our]]>
+		</link>
+		<description>
+	    <![CDATA["The sense of an unseen order, brooding attentively over our lives, restores purpose to individual acts of concern." -- Kim Chernin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/881620-by-solitude-the-soul-escapes-from-doing-or-suffering-magic</guid>
+		<pubDate>Fri, 04 Jul 2014 13:07:15 -0700</pubDate>
+		<title>
+			<![CDATA[Craig add a quote by Ursula K. Le Guin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/881620-by-solitude-the-soul-escapes-from-doing-or-suffering-magic]]>
+		</link>
+		<description>
+	    <![CDATA["By solitude the soul escapes from doing or suffering magic; it escapes from dullness, from boredom, by being aware. Nothing is boring if you are aware of it. It may be irritating, but it is not boring. If it is pleasant the pleasure will not fail so long as you are aware of it. Being aware is the hardest work the soul can do, I think." -- Ursula K. Le Guin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

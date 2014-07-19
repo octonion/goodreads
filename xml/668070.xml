@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/668070-hannah]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/668070-hannah" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 28 Jun 2013 18:06:05 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/98267-i-believe-like-a-child-that-suffering-will-be-healed</guid>
+		<pubDate>Fri, 28 Jun 2013 18:06:05 -0700</pubDate>
+		<title>
+			<![CDATA[Hannah add a quote by Fyodor Dostoevsky]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/98267-i-believe-like-a-child-that-suffering-will-be-healed]]>
+		</link>
+		<description>
+	    <![CDATA["I believe like a child that suffering will be healed and made up for, that all the humiliating absurdity of human contradictions will vanish like a pitiful mirage, like the despicable fabrication of the impotent and infinitely small Euclidean mind of man, that in the world's finale, at the moment of eternal harmony, something so precious will come to pass that it will suffice for all hearts, for the comforting of all resentments, for the atonement of all the crimes of humanity, for all the blood that they've shed; that it will make it not only possible to forgive but to justify all that has happened." -- Fyodor Dostoevsky]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

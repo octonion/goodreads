@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/699706-nicole-keadle]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/699706-nicole-keadle" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 19 Dec 2007 12:56:18 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6437-the-thing-the-sixties-did-was-to-show-us-the</guid>
+		<pubDate>Wed, 19 Dec 2007 12:56:18 -0800</pubDate>
+		<title>
+			<![CDATA[Nicole add a quote by John Lennon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6437-the-thing-the-sixties-did-was-to-show-us-the]]>
+		</link>
+		<description>
+	    <![CDATA["The thing the sixties did was to show us the possibilities and the responsibility that we all had. It wasn't the answer. It just gave us a glimpse of the possibility." -- John Lennon]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2381-when-the-power-of-love-overcomes-the-love-of-power</guid>
+		<pubDate>Wed, 19 Dec 2007 12:59:25 -0800</pubDate>
+		<title>
+			<![CDATA[Nicole add a quote by Jimi Hendrix ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2381-when-the-power-of-love-overcomes-the-love-of-power]]>
+		</link>
+		<description>
+	    <![CDATA["When the power of love overcomes the love of power, the world will know peace." -- Jimi Hendrix ]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

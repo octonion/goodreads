@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/953030-rachel]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/953030-rachel" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 08 Feb 2009 15:29:44 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/942-two-things-are-infinite-the-universe-and-human-stupidity-and</guid>
+		<pubDate>Sun, 08 Feb 2009 15:29:44 -0800</pubDate>
+		<title>
+			<![CDATA[Rachel add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/942-two-things-are-infinite-the-universe-and-human-stupidity-and]]>
+		</link>
+		<description>
+	    <![CDATA["Two things are infinite: the universe and human stupidity; and I'm not sure about the universe." -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1262-love-does-not-begin-and-end-the-way-we-seem</guid>
+		<pubDate>Sun, 08 Feb 2009 15:30:47 -0800</pubDate>
+		<title>
+			<![CDATA[Rachel add a quote by James A. Baldwin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1262-love-does-not-begin-and-end-the-way-we-seem]]>
+		</link>
+		<description>
+	    <![CDATA["Love does not begin and end the way we seem to think it does. Love is a battle, love is a war; love is a growing up." -- James A. Baldwin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/48892-no-single-event-can-awaken-within-us-a-stranger-whose</guid>
+		<pubDate>Sun, 08 Feb 2009 15:33:38 -0800</pubDate>
+		<title>
+			<![CDATA[Rachel add a quote by Antoine de Saint-Exupéry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/48892-no-single-event-can-awaken-within-us-a-stranger-whose]]>
+		</link>
+		<description>
+	    <![CDATA["No single event can awaken within us a stranger whose existence we had never suspected. To live is to be slowly born." -- Antoine de Saint-Exupéry]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

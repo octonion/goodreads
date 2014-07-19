@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/915632-sara]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/915632-sara" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 08 Jan 2013 19:35:47 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/13169-one-describes-a-tale-best-by-telling-the-tale-you</guid>
+		<pubDate>Tue, 08 Jan 2013 19:35:47 -0800</pubDate>
+		<title>
+			<![CDATA[Sara add a quote by Neil Gaiman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13169-one-describes-a-tale-best-by-telling-the-tale-you]]>
+		</link>
+		<description>
+	    <![CDATA["One describes a tale best by telling the tale. You see? The way one describes a story, to oneself or to the world, is by telling the story. It is a balancing act and it is a dream. The more accurate the map, the more it resembles the territory. The most accurate map possible would be the territory, and thus would be perfectly accurate and perfectly useless. 
+The tale is the map that is the territory.
+You must remember this." -- Neil Gaiman]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/747-temery]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/747-temery" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 05 Sep 2013 09:35:28 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/886677-i-think-women-are-foolish-to-pretend-they-are-equal</guid>
+		<pubDate>Thu, 05 Sep 2013 09:35:28 -0700</pubDate>
+		<title>
+			<![CDATA[Temery add a quote by William Golding]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/886677-i-think-women-are-foolish-to-pretend-they-are-equal]]>
+		</link>
+		<description>
+	    <![CDATA["I think women are foolish to pretend they are equal to men, they are far superior and always have been.&quot;
+
+[&lt;i&gt;Listening Library&lt;/i&gt; audio recording of &lt;i&gt;Lord of the Flies&lt;/i&gt; (read by the author): Author's Introduction]" -- William Golding]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

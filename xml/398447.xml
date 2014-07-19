@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/398447-christine]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/398447-christine" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 19 Jul 2013 19:24:51 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/64245-a-quiet-secluded-life-in-the-country-with-the-possibility</guid>
+		<pubDate>Fri, 19 Jul 2013 19:24:51 -0700</pubDate>
+		<title>
+			<![CDATA[Christine add a quote by Leo Tolstoy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/64245-a-quiet-secluded-life-in-the-country-with-the-possibility]]>
+		</link>
+		<description>
+	    <![CDATA["A quiet secluded life in the country, with the possibility of being useful to people to whom it is easy to do good, and who are not accustomed to have it done to them; then work which one hopes may be of some use; then rest, nature, books, music, love for one's neighbor — such is my idea of happiness." -- Leo Tolstoy]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/22244-one-thing-life-has-taught-me-if-you-are-interested</guid>
+		<pubDate>Fri, 22 Nov 2013 13:50:31 -0800</pubDate>
+		<title>
+			<![CDATA[Christine add a quote by Eleanor Roosevelt ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22244-one-thing-life-has-taught-me-if-you-are-interested]]>
+		</link>
+		<description>
+	    <![CDATA["One thing life has taught me: if you are interested, you never have to look for new interests. They come to you. When you are genuinely interested in one thing, it will always lead to something else." -- Eleanor Roosevelt ]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

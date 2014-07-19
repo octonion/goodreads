@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/705448-zoe]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/705448-zoe" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 02 Feb 2008 11:54:16 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/10796-conversation-like-certain-portions-of-the-anatomy-always-runs-more</guid>
+		<pubDate>Sat, 02 Feb 2008 11:54:16 -0800</pubDate>
+		<title>
+			<![CDATA[Zoe add a quote by Marquis de Sade]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10796-conversation-like-certain-portions-of-the-anatomy-always-runs-more]]>
+		</link>
+		<description>
+	    <![CDATA["Conversation, like certain portions of the anatomy, always runs more smoothly when lubricated." -- Marquis de Sade]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/131747-to-travel-is-to-live</guid>
+		<pubDate>Sun, 05 Feb 2012 16:05:59 -0800</pubDate>
+		<title>
+			<![CDATA[Zoe add a quote by Hans Christian Andersen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/131747-to-travel-is-to-live]]>
+		</link>
+		<description>
+	    <![CDATA["To travel is to live." -- Hans Christian Andersen]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

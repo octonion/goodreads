@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/867711-patrick-h]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/867711-patrick-h" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 04 Aug 2011 21:51:28 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6326-you-re-miserable-edgy-and-tired-you-re-in-the-perfect-mood</guid>
+		<pubDate>Thu, 04 Aug 2011 21:51:28 -0700</pubDate>
+		<title>
+			<![CDATA[Patrick add a quote by Warren Ellis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6326-you-re-miserable-edgy-and-tired-you-re-in-the-perfect-mood]]>
+		</link>
+		<description>
+	    <![CDATA["You're miserable, edgy and tired. You're in the perfect mood for journalism." -- Warren Ellis]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/233122-journalism-is-just-a-gun-it-s-only-got-one-bullet</guid>
+		<pubDate>Thu, 04 Aug 2011 21:52:24 -0700</pubDate>
+		<title>
+			<![CDATA[Patrick add a quote by Warren Ellis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/233122-journalism-is-just-a-gun-it-s-only-got-one-bullet]]>
+		</link>
+		<description>
+	    <![CDATA["Journalism is just a gun. It’s only got one bullet in it, but if you aim right, that’s all you need. Aim it right, and you can blow a kneecap off the world." -- Warren Ellis]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

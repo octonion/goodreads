@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/964122-lee]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/964122-lee" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 03 Apr 2013 09:00:09 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/98282-a-farm-includes-the-passion-of-the-farmer-s-heart-the</guid>
+		<pubDate>Wed, 03 Apr 2013 09:00:09 -0700</pubDate>
+		<title>
+			<![CDATA[Lee add a quote by Joel Salatin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/98282-a-farm-includes-the-passion-of-the-farmer-s-heart-the]]>
+		</link>
+		<description>
+	    <![CDATA["A farm includes the passion of the farmer's heart, the interest of the farm's customers, the biological activity in the soil, the pleasantness of the air about the farm -- it's everything touching, emanating from, and supplying that piece of landscape.  A farm is virtually a living organism.  The tragedy of our time is that cultural philosophies and market realities are squeezing life's vitality out of most farms.  And that is why the average farmer is now 60 years old.  Serfdom just doesn't attract the best and brightest." -- Joel Salatin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

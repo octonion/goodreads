@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1015620-joannmullis]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1015620-joannmullis" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Sep 2012 18:45:47 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/148091-the-richness-of-the-rain-made-me-feel-safe-and</guid>
+		<pubDate>Sun, 02 Sep 2012 18:45:47 -0700</pubDate>
+		<title>
+			<![CDATA[Joannmullis add a quote by Douglas Coupland]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/148091-the-richness-of-the-rain-made-me-feel-safe-and]]>
+		</link>
+		<description>
+	    <![CDATA["The richness of the rain made me feel safe and protected; I have always considered the rain to be healing—a blanket—the comfort of a friend.  Without at least some rain in any given day, or at least a cloud or two on the horizon, I feel overwhelmed by the information of sunlight and yearn for the vital, muffling gift of falling water." -- Douglas Coupland]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

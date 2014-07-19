@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/896442-loraine-lawson]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/896442-loraine-lawson" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 26 Aug 2013 20:19:08 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/348132-i-alternate-between-feeling-sympathetic-toward-humanity-and-being-a</guid>
+		<pubDate>Mon, 26 Aug 2013 20:19:08 -0700</pubDate>
+		<title>
+			<![CDATA[Loraine add a quote by John R Lindensmith]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/348132-i-alternate-between-feeling-sympathetic-toward-humanity-and-being-a]]>
+		</link>
+		<description>
+	    <![CDATA["I alternate between feeling sympathetic toward humanity and being a misanthrope. When I'm sympathetic, it usually means I haven't been around people in awhile." -- John R Lindensmith]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

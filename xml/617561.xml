@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/617561-julia]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/617561-julia" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 11 Feb 2012 10:10:54 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/237438-you-say-you-re-sure-sure-that-you-re-in-love-how</guid>
+		<pubDate>Sat, 11 Feb 2012 10:10:54 -0800</pubDate>
+		<title>
+			<![CDATA[Julia add a quote by Kazuo Ishiguro]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/237438-you-say-you-re-sure-sure-that-you-re-in-love-how]]>
+		</link>
+		<description>
+	    <![CDATA["You say you’re &lt;i&gt;sure&lt;/i&gt;? Sure that you’re in love? How can you know it? You think love is so simple? " -- Kazuo Ishiguro]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/45490-true-beauty-is-something-that-attacks-overpowers-robs-and-finally</guid>
+		<pubDate>Sat, 11 Feb 2012 10:20:46 -0800</pubDate>
+		<title>
+			<![CDATA[Julia add a quote by Yukio Mishima]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/45490-true-beauty-is-something-that-attacks-overpowers-robs-and-finally]]>
+		</link>
+		<description>
+	    <![CDATA["True beauty is something that attacks, overpowers, robs, and finally destroys." -- Yukio Mishima]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

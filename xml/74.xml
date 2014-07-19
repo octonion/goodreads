@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/74-robert]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/74-robert" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 06 Nov 2012 12:51:28 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5980-the-best-argument-against-democracy-is-a-five-minute-conversation-with</guid>
+		<pubDate>Tue, 06 Nov 2012 12:51:28 -0800</pubDate>
+		<title>
+			<![CDATA[Robert add a quote by Winston S. Churchill]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5980-the-best-argument-against-democracy-is-a-five-minute-conversation-with]]>
+		</link>
+		<description>
+	    <![CDATA["The best argument against democracy is a five-minute conversation with the average voter." -- Winston S. Churchill]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/13356-if-everything-seems-under-control-you-re-not-going-fast-enough</guid>
+		<pubDate>Wed, 17 Jul 2013 15:50:05 -0700</pubDate>
+		<title>
+			<![CDATA[Robert add a quote by Mario Andretti]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13356-if-everything-seems-under-control-you-re-not-going-fast-enough]]>
+		</link>
+		<description>
+	    <![CDATA["If everything seems under control, you're not going fast enough." -- Mario Andretti]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/536587-measuring-programming-progress-by-lines-of-code-is-like-measuring</guid>
+		<pubDate>Tue, 07 Jan 2014 18:36:07 -0800</pubDate>
+		<title>
+			<![CDATA[Robert add a quote by Bill Gates]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/536587-measuring-programming-progress-by-lines-of-code-is-like-measuring]]>
+		</link>
+		<description>
+	    <![CDATA["Measuring programming progress by lines of code is like measuring aircraft building progress by weight." -- Bill Gates]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

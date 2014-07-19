@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/85417-xue-grimm]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/85417-xue-grimm" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 12 Sep 2011 23:43:19 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/63960-should-i-kill-myself-or-have-a-cup-of-coffee</guid>
+		<pubDate>Mon, 12 Sep 2011 23:43:19 -0700</pubDate>
+		<title>
+			<![CDATA[Xue add a quote by Albert Camus]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/63960-should-i-kill-myself-or-have-a-cup-of-coffee]]>
+		</link>
+		<description>
+	    <![CDATA["Should I kill myself, or have a cup of coffee?" -- Albert Camus]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/32925-autumn-is-a-second-spring-when-every-leaf-is-a</guid>
+		<pubDate>Mon, 12 Sep 2011 23:47:56 -0700</pubDate>
+		<title>
+			<![CDATA[Xue add a quote by Albert Camus]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/32925-autumn-is-a-second-spring-when-every-leaf-is-a]]>
+		</link>
+		<description>
+	    <![CDATA["Autumn is a second spring when every leaf is a flower." -- Albert Camus]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/169787-true-debauchery-is-liberating-because-it-creates-no-obligations-in</guid>
+		<pubDate>Mon, 12 Sep 2011 23:54:11 -0700</pubDate>
+		<title>
+			<![CDATA[Xue add a quote by Albert Camus]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/169787-true-debauchery-is-liberating-because-it-creates-no-obligations-in]]>
+		</link>
+		<description>
+	    <![CDATA["True debauchery is liberating because it creates no obligations. In it you possess only yourself, hence it remains the favorite pastime of the great lovers of their own person. " -- Albert Camus]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

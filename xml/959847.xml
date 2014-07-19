@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/959847-sherief]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/959847-sherief" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Mar 2008 13:46:44 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/30283-alas-said-the-mouse-the-whole-world-is-growing-smaller</guid>
+		<pubDate>Sun, 02 Mar 2008 13:46:44 -0800</pubDate>
+		<title>
+			<![CDATA[Sherief add a quote by Franz Kafka]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/30283-alas-said-the-mouse-the-whole-world-is-growing-smaller]]>
+		</link>
+		<description>
+	    <![CDATA["Alas,&quot; said the mouse, &quot;the whole world is growing smaller every day. At the beginning it was so big that I was afraid, I kept running and running, and I was glad when I saw walls far away to the right and left, but these long walls have narrowed so quickly that I am in the last chamber already, and there in the corner stands the trap that I must run into.&quot;
+     &quot;You only need to change your direction,&quot; said the cat, and ate it up." -- Franz Kafka]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

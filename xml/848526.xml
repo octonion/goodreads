@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/848526-ken-nadack]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/848526-ken-nadack" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 15 Apr 2008 15:02:30 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/16222-out-of-every-one-hundred-men-ten-shouldn-t-even-be</guid>
+		<pubDate>Tue, 15 Apr 2008 15:02:30 -0700</pubDate>
+		<title>
+			<![CDATA[Ken add a quote by Heraclitus]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16222-out-of-every-one-hundred-men-ten-shouldn-t-even-be]]>
+		</link>
+		<description>
+	    <![CDATA["Out of every one hundred men, ten shouldn't even be there, eighty are just targets, nine are the real fighters, and we are lucky to have them, for they make the battle. Ah, but the one, one is a warrior, and he will bring the others back." -- Heraclitus]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/9187-those-who-know-do-not-speak-those-who-speak-do</guid>
+		<pubDate>Tue, 15 Apr 2008 15:10:39 -0700</pubDate>
+		<title>
+			<![CDATA[Ken add a quote by Lao Tsu]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9187-those-who-know-do-not-speak-those-who-speak-do]]>
+		</link>
+		<description>
+	    <![CDATA["Those who know do not speak. Those who speak do not know." -- Lao Tsu]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/10651-when-i-let-go-of-what-i-am-i-become</guid>
+		<pubDate>Tue, 15 Apr 2008 15:10:48 -0700</pubDate>
+		<title>
+			<![CDATA[Ken add a quote by Lao Tzu]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10651-when-i-let-go-of-what-i-am-i-become]]>
+		</link>
+		<description>
+	    <![CDATA["When I let go of what I am, I become what I might be." -- Lao Tzu]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

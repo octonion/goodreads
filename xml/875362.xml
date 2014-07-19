@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/875362-adam]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/875362-adam" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 08 Feb 2008 18:51:57 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/23104-it-can-hardly-be-a-coincidence-that-no-language-on</guid>
+		<pubDate>Fri, 08 Feb 2008 18:51:57 -0800</pubDate>
+		<title>
+			<![CDATA[Adam add a quote by Douglas Adams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/23104-it-can-hardly-be-a-coincidence-that-no-language-on]]>
+		</link>
+		<description>
+	    <![CDATA["It can hardly be a coincidence that no language on earth has ever produced the expression, 'As pretty as an airport." -- Douglas Adams]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/23276-these-years-are-still-the-years-of-my-prime-it</guid>
+		<pubDate>Sat, 09 Feb 2008 11:56:58 -0800</pubDate>
+		<title>
+			<![CDATA[Adam add a quote by Muriel Spark]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/23276-these-years-are-still-the-years-of-my-prime-it]]>
+		</link>
+		<description>
+	    <![CDATA["These years are still the years of my prime. It is important to recognise the years of one's prime, always remember that." -- Muriel Spark]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/54-don-t-walk-behind-me-i-may-not-lead-don-t-walk</guid>
+		<pubDate>Sat, 09 Feb 2008 11:59:01 -0800</pubDate>
+		<title>
+			<![CDATA[Adam add a quote by Albert Camus]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/54-don-t-walk-behind-me-i-may-not-lead-don-t-walk]]>
+		</link>
+		<description>
+	    <![CDATA["Don't walk behind me; I may not lead. Don't walk in front of me; I may not follow. Just walk beside me and be my friend." -- Albert Camus]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/53607-hosein]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/53607-hosein" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 10 Jun 2008 06:15:15 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/22406-what-does-he-say-he-asked-he-s-very-sad-rsula</guid>
+		<pubDate>Tue, 10 Jun 2008 06:15:15 -0700</pubDate>
+		<title>
+			<![CDATA[Hosein add a quote by Gabriel García Márquez]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22406-what-does-he-say-he-asked-he-s-very-sad-rsula]]>
+		</link>
+		<description>
+	    <![CDATA["What does he say?' he asked.
+'He’s very sad,’ Úrsula answered, ‘because he thinks that you’re going to die.'
+'Tell him,' the colonel said, smiling, 'that a person doesn’t die when he should but when he can." -- Gabriel García Márquez]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/41543-as-usual-there-is-a-great-woman-behind-every-idiot</guid>
+		<pubDate>Tue, 10 Jun 2008 06:21:25 -0700</pubDate>
+		<title>
+			<![CDATA[Hosein add a quote by John Lennon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/41543-as-usual-there-is-a-great-woman-behind-every-idiot]]>
+		</link>
+		<description>
+	    <![CDATA["As usual, there is a great woman behind every idiot." -- John Lennon]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

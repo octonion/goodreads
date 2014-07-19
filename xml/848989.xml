@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/848989-connie-boucher]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/848989-connie-boucher" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 29 Jan 2008 08:08:26 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/18931-you-can-complain-because-roses-have-thorns-or-rejoice-because</guid>
+		<pubDate>Tue, 29 Jan 2008 08:08:26 -0800</pubDate>
+		<title>
+			<![CDATA[Connie add a quote by Ziggy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18931-you-can-complain-because-roses-have-thorns-or-rejoice-because]]>
+		</link>
+		<description>
+	    <![CDATA["You can complain because roses have thorns, or rejoice because thorns have roses. " -- Ziggy]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/96637-katrina]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/96637-katrina" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 06 Apr 2014 06:25:22 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/505236-i-cannot-understand-anti-abortion-arguments-that-centre-on-the-sanctity</guid>
+		<pubDate>Sun, 06 Apr 2014 06:25:22 -0700</pubDate>
+		<title>
+			<![CDATA[Katrina add a quote by Caitlin Moran]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/505236-i-cannot-understand-anti-abortion-arguments-that-centre-on-the-sanctity]]>
+		</link>
+		<description>
+	    <![CDATA["I cannot understand anti-abortion arguments that centre on the sanctity of life.  As a species we've fairly comprehensively demonstrated that we don't believe in the sanctity of life.  The shrugging acceptance of war, famine, epidemic, pain and life-long poverty shows us that, whatever we tell ourselves, we've made only the most feeble of efforts to &lt;i&gt;really&lt;/i&gt; treat human life as sacred." -- Caitlin Moran]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

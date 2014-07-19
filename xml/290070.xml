@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/290070-mitch]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/290070-mitch" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 07 Jan 2014 13:41:48 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/752492-i-ve-known-people-that-the-world-has-thrown-everything-at</guid>
+		<pubDate>Tue, 07 Jan 2014 13:41:48 -0800</pubDate>
+		<title>
+			<![CDATA[Mitch add a quote by Horton Foote]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/752492-i-ve-known-people-that-the-world-has-thrown-everything-at]]>
+		</link>
+		<description>
+	    <![CDATA["I’ve known people that the world has thrown everything at to discourage them...to break their spirit. And yet something about them retains a dignity. They face life and don’t ask quarters." -- Horton Foote]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

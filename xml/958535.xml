@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/958535-gerri]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/958535-gerri" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Mar 2008 20:31:13 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/30403-what-wretched-doings-come-from-the-ardor-of-fame-the</guid>
+		<pubDate>Sun, 02 Mar 2008 20:31:13 -0800</pubDate>
+		<title>
+			<![CDATA[Gerri add a quote by Charles Darwin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/30403-what-wretched-doings-come-from-the-ardor-of-fame-the]]>
+		</link>
+		<description>
+	    <![CDATA["What wretched doings come from the ardor of fame; the love of truth alone would never make one man attack another bitterly." -- Charles Darwin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/30737-downtown-lights-on-buildings-and-everything-that-makes-you-wonder</guid>
+		<pubDate>Mon, 03 Mar 2008 19:04:46 -0800</pubDate>
+		<title>
+			<![CDATA[Gerri add a quote by Stephen Chbosky]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/30737-downtown-lights-on-buildings-and-everything-that-makes-you-wonder]]>
+		</link>
+		<description>
+	    <![CDATA["Downtown. Lights on buildings and everything that makes you wonder. And in that moment, I swear we were infinite." -- Stephen Chbosky]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

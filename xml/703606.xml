@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/703606-donald]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/703606-donald" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Mar 2008 19:32:41 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/30380-because-the-hardest-boss-a-man-can-ever-have-is</guid>
+		<pubDate>Sun, 02 Mar 2008 19:32:41 -0800</pubDate>
+		<title>
+			<![CDATA[Donald add a quote by Stephen King]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/30380-because-the-hardest-boss-a-man-can-ever-have-is]]>
+		</link>
+		<description>
+	    <![CDATA["because the hardest boss a man can ever have is himself." -- Stephen King]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/98245-wolf-right-here-and-now</guid>
+		<pubDate>Sat, 16 Apr 2011 03:04:42 -0700</pubDate>
+		<title>
+			<![CDATA[Donald add a quote by Peter Straub]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/98245-wolf-right-here-and-now]]>
+		</link>
+		<description>
+	    <![CDATA["Wolf! Right here and now!" -- Peter Straub]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/31001-this-is-the-torture-room-but-don-t-let-the-name</guid>
+		<pubDate>Sat, 14 Jan 2012 05:57:27 -0800</pubDate>
+		<title>
+			<![CDATA[Donald add a quote by Jeremy C. Shipp]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/31001-this-is-the-torture-room-but-don-t-let-the-name]]>
+		</link>
+		<description>
+	    <![CDATA["This is the Torture Room. But don't let the name fool you. This is a tent, not a room." -- Jeremy C. Shipp]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/10745-neda]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/10745-neda" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 15 Jan 2012 20:47:35 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/47239-she-refused-to-be-bored-chiefly-because-she-wasn-t-boring</guid>
+		<pubDate>Sun, 15 Jan 2012 20:47:35 -0800</pubDate>
+		<title>
+			<![CDATA[Neda add a quote by Zelda Fitzgerald]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/47239-she-refused-to-be-bored-chiefly-because-she-wasn-t-boring]]>
+		</link>
+		<description>
+	    <![CDATA["She refused to be bored chiefly because she wasn't boring." -- Zelda Fitzgerald]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/18298-if-you-ask-me-what-i-came-to-do-in</guid>
+		<pubDate>Fri, 20 Jan 2012 10:37:39 -0800</pubDate>
+		<title>
+			<![CDATA[Neda add a quote by Émile Zola]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18298-if-you-ask-me-what-i-came-to-do-in]]>
+		</link>
+		<description>
+	    <![CDATA["If you ask me what I came to do in this world, I, an artist, will answer you: I am here to live out loud." -- Émile Zola]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/61590-the-truly-free-man-is-the-one-who-can-turn</guid>
+		<pubDate>Thu, 16 Feb 2012 09:10:15 -0800</pubDate>
+		<title>
+			<![CDATA[Neda add a quote by Jules Renard]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/61590-the-truly-free-man-is-the-one-who-can-turn]]>
+		</link>
+		<description>
+	    <![CDATA["The truly free man is the one who can turn down an invitation to dinner without giving an excuse." -- Jules Renard]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

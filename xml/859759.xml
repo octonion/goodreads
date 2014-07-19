@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/859759-hope]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/859759-hope" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 07 Jul 2011 08:05:40 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2499-there-are-two-motives-for-reading-a-book-one-that</guid>
+		<pubDate>Thu, 07 Jul 2011 08:05:40 -0700</pubDate>
+		<title>
+			<![CDATA[Hope add a quote by Bertrand Russell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2499-there-are-two-motives-for-reading-a-book-one-that]]>
+		</link>
+		<description>
+	    <![CDATA["There are two motives for reading a book; one, that you enjoy it; the other, that you can boast about it." -- Bertrand Russell]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/22990-i-grabbed-a-pile-of-dust-and-holding-it-up</guid>
+		<pubDate>Sun, 01 Sep 2013 09:26:08 -0700</pubDate>
+		<title>
+			<![CDATA[Hope add a quote by Ovid]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22990-i-grabbed-a-pile-of-dust-and-holding-it-up]]>
+		</link>
+		<description>
+	    <![CDATA["I grabbed a pile of dust, and holding it up, foolishly asked for as many birthdays as the grains of dust, I forgot to ask that they be years of youth. " -- Ovid]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

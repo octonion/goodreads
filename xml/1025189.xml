@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1025189-donna-dawson]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1025189-donna-dawson" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 26 Mar 2008 08:19:26 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/38456-we-are-not-called-by-god-to-do-extraordinary-things</guid>
+		<pubDate>Wed, 26 Mar 2008 08:19:26 -0700</pubDate>
+		<title>
+			<![CDATA[Donna add a quote by Jean Vanier]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/38456-we-are-not-called-by-god-to-do-extraordinary-things]]>
+		</link>
+		<description>
+	    <![CDATA["We are not called by God to do extraordinary things, but to do ordinary things with extraordinary love.  " -- Jean Vanier]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

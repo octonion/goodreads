@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/882712-ej]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/882712-ej" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 10 Feb 2008 06:26:21 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/23531-i-can-t-sleep-there-is-a-woman-stuck-between-my</guid>
+		<pubDate>Sun, 10 Feb 2008 06:26:21 -0800</pubDate>
+		<title>
+			<![CDATA[ej add a quote by Eduardo Galeano]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/23531-i-can-t-sleep-there-is-a-woman-stuck-between-my]]>
+		</link>
+		<description>
+	    <![CDATA["I can't sleep. There is a woman stuck between my eyelids. I would tell her to get out if I could. But there is a woman stuck in my throat" -- Eduardo Galeano]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

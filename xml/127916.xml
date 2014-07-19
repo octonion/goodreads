@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/127916-jen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/127916-jen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 24 Jun 2014 12:02:55 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1158-but-we-were-born-of-risen-apes-not-fallen-angels</guid>
+		<pubDate>Tue, 24 Jun 2014 12:02:55 -0700</pubDate>
+		<title>
+			<![CDATA[Jen add a quote by Robert Ardrey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1158-but-we-were-born-of-risen-apes-not-fallen-angels]]>
+		</link>
+		<description>
+	    <![CDATA["But we were born of risen apes, not fallen angels, and the apes were armed killers besides.  And so what shall we wonder at?  Our murders and massacres and missiles, and our irreconcilable regiments?  Or our treaties whatever they may be worth; our symphonies however seldom they may be played; our peaceful acres, however frequently they may be converted into battlefields; our dreams however rarely they may be accomplished.  The miracle of man is not how far he has sunk but how magnificently he has risen.  We are known among the stars by our poems, not our corpses." -- Robert Ardrey]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

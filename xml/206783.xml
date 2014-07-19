@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/206783-stephanie-zen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/206783-stephanie-zen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 04 Apr 2013 21:59:26 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/119270-you-are-my-best-friend-as-well-as-my-lover</guid>
+		<pubDate>Thu, 04 Apr 2013 21:59:26 -0700</pubDate>
+		<title>
+			<![CDATA[Stephanie add a quote by Nicholas Sparks]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/119270-you-are-my-best-friend-as-well-as-my-lover]]>
+		</link>
+		<description>
+	    <![CDATA["You are my best friend as well as my lover, and I do not know which side of you I enjoy the most. I treasure each side, just as I have treasured our life together." -- Nicholas Sparks]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/219728-well-it-seems-to-me-that-the-best-relationships--</guid>
+		<pubDate>Thu, 04 Apr 2013 22:01:00 -0700</pubDate>
+		<title>
+			<![CDATA[Stephanie add a quote by Gillian Anderson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/219728-well-it-seems-to-me-that-the-best-relationships--]]>
+		</link>
+		<description>
+	    <![CDATA["Well, it seems to me that the best relationships - the ones that last - are frequently the ones that are rooted in friendship. You know, one day you look at the person and you see something more than you did the night before. Like a switch has been flicked somewhere. And the person who was just a friend is... suddenly the only person you can ever imagine yourself with." -- Gillian Anderson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

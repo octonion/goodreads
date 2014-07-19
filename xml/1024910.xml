@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1024910-trish-doolin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1024910-trish-doolin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 26 Mar 2008 17:23:02 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/865-be-who-you-are-and-say-what-you-feel-because</guid>
+		<pubDate>Wed, 26 Mar 2008 17:23:02 -0700</pubDate>
+		<title>
+			<![CDATA[Trish add a quote by Bernard M. Baruch]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/865-be-who-you-are-and-say-what-you-feel-because]]>
+		</link>
+		<description>
+	    <![CDATA["Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind." -- Bernard M. Baruch]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/38636-a-life-is-not-important-except-in-the-impact-it</guid>
+		<pubDate>Wed, 26 Mar 2008 17:23:21 -0700</pubDate>
+		<title>
+			<![CDATA[Trish add a quote by Jackie Robinson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/38636-a-life-is-not-important-except-in-the-impact-it]]>
+		</link>
+		<description>
+	    <![CDATA["A life is not important except in the impact it has on other lives." -- Jackie Robinson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/38637-one-ought-to-examine-himself-for-a-very-long-time</guid>
+		<pubDate>Wed, 26 Mar 2008 17:24:44 -0700</pubDate>
+		<title>
+			<![CDATA[Trish add a quote by Moliere]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/38637-one-ought-to-examine-himself-for-a-very-long-time]]>
+		</link>
+		<description>
+	    <![CDATA["One ought to examine himself for a very long time before thinking of condemning others." -- Moliere]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

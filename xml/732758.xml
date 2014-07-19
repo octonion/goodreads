@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/732758-ronda]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/732758-ronda" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 08 Nov 2010 14:15:06 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/118552-each-relationship-between-two-persons-is-absolutely-unique-that-is</guid>
+		<pubDate>Mon, 08 Nov 2010 14:15:06 -0800</pubDate>
+		<title>
+			<![CDATA[Ronda add a quote by William P. Young]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/118552-each-relationship-between-two-persons-is-absolutely-unique-that-is]]>
+		</link>
+		<description>
+	    <![CDATA["Each relationship between two persons is absolutely unique.  That is why you cannot love two people the same.  It simply is not possible.  You love each person differently because of who they are and the uniqueness that they draw out of you." -- William P. Young]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

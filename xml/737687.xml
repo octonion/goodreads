@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/737687-shreya]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/737687-shreya" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 06 Aug 2012 14:55:06 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/526238-men-aren-t-really-complicated-ana-honey-they-are-very-simple</guid>
+		<pubDate>Mon, 06 Aug 2012 14:55:06 -0700</pubDate>
+		<title>
+			<![CDATA[Shreya add a quote by E.L. James]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/526238-men-aren-t-really-complicated-ana-honey-they-are-very-simple]]>
+		</link>
+		<description>
+	    <![CDATA["Men aren't really complicated, Ana, honey.  They are very simple, literal creatures.  They usually mean what they say.  And we spend hours trying to analyze what they've said - when really it's obvious.  If I were you, I'd take him literally.  That might help." -- E.L. James]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

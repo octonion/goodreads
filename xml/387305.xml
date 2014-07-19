@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/387305-sarah]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/387305-sarah" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 17 Nov 2012 13:40:35 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/12207-you-say-grace-before-meals-all-right-but-i-say</guid>
+		<pubDate>Sat, 17 Nov 2012 13:40:35 -0800</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by G. K. Chesterton]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12207-you-say-grace-before-meals-all-right-but-i-say]]>
+		</link>
+		<description>
+	    <![CDATA["You say grace before meals. All right. But I say grace before the concert and the opera, and grace before the play and pantomime, and grace before I open a book, and grace before sketching, painting, swimming, fencing, boxing, walking, playing, dancing and grace before I dip the pen in the ink." -- G. K. Chesterton]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

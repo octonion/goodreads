@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/696418-nina]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/696418-nina" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 01 Mar 2010 18:58:35 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/236090-lend-me-your-wings-bird-i-ll-spread-them-and-fly</guid>
+		<pubDate>Mon, 01 Mar 2010 18:58:35 -0800</pubDate>
+		<title>
+			<![CDATA[Nina add a quote by Stephen King]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/236090-lend-me-your-wings-bird-i-ll-spread-them-and-fly]]>
+		</link>
+		<description>
+	    <![CDATA["Lend me your wings, bird. I'll spread them and fly on the thermals." -- Stephen King]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/84250-anti-intellectualism-has-been-a-constant-thread-winding-its-way-through</guid>
+		<pubDate>Wed, 02 Mar 2011 05:36:44 -0800</pubDate>
+		<title>
+			<![CDATA[Nina add a quote by Isaac Asimov]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/84250-anti-intellectualism-has-been-a-constant-thread-winding-its-way-through]]>
+		</link>
+		<description>
+	    <![CDATA["Anti-intellectualism has been a constant thread winding its way through our political and cultural life, nurtured by the false notion that democracy means that &lt;i&gt;'my ignorance is just as good as your knowledge.'&lt;/i&gt;" -- Isaac Asimov]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

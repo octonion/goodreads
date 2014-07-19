@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/902105-jason]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/902105-jason" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 14 Sep 2010 12:28:01 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/296771-no-no-one-can-imagine-nothing-in-the-world-not</guid>
+		<pubDate>Tue, 14 Sep 2010 12:28:01 -0700</pubDate>
+		<title>
+			<![CDATA[Jason add a quote by Rainer Maria Rilke]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/296771-no-no-one-can-imagine-nothing-in-the-world-not]]>
+		</link>
+		<description>
+	    <![CDATA["No, no, one can imagine nothing in the world, not the least thing. Everything is composed of so many isolated details that are not to be foreseen. In one's imagining one passes over them and hasty as one is doesn't notice that they are missing. But realities are slow and indescribably detailed." -- Rainer Maria Rilke]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/508309-they-crossed-before-the-sun-and-vanished-one-by-one</guid>
+		<pubDate>Fri, 24 Feb 2012 10:37:06 -0800</pubDate>
+		<title>
+			<![CDATA[Jason add a quote by Cormac McCarthy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/508309-they-crossed-before-the-sun-and-vanished-one-by-one]]>
+		</link>
+		<description>
+	    <![CDATA["They crossed before the sun and vanished one by one and reappeared again and they were black in the sun and they rode out of that vanished sea like burnt phantoms with the legs of the animals kicking up the spume that was not real and they were lost in the sun and lost in the lake and they shimmered and slurred together and separated again and they were augmented by planes in lurid avatars and began to coalesce and there began to appear above them in the dawn-broached sky a hellish likeness of their ranks riding huge and inverted and the horses' legs incredibly elongate trampling down the high thin cirrus and the howling antiwarriors pendant from their mounts immense and chimeric and the high wild cries carrying that flat and barren pan like the cries of souls broke through some misweave in the weft of things into the world below." -- Cormac McCarthy]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

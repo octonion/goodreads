@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/848267-bess-jorgenson]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/848267-bess-jorgenson" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 30 Jan 2008 04:13:43 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/38585-my-people-are-few-they-resemble-the-scattering-trees-of</guid>
+		<pubDate>Wed, 30 Jan 2008 04:13:43 -0800</pubDate>
+		<title>
+			<![CDATA[Bess add a quote by Chief Seattle]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/38585-my-people-are-few-they-resemble-the-scattering-trees-of]]>
+		</link>
+		<description>
+	    <![CDATA["My people are few. They resemble the scattering trees of a storm-swept plain...There was a time when our people covered the land as the waves of a wind-ruffled sea cover its shell-paved floor, but that time long since passed away with the greatness of tribes that are now but a mournful memory." -- Chief Seattle]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

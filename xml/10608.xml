@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/10608-behrang]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/10608-behrang" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 29 Jan 2009 11:01:00 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/76677</guid>
+		<pubDate>Thu, 29 Jan 2009 11:01:00 -0800</pubDate>
+		<title>
+			<![CDATA[behrang add a quote by شاملو]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/76677]]>
+		</link>
+		<description>
+	    <![CDATA["اشک رازیست
+لبخند رازیست
+عشق رازیست
+
+اشک آن شب لبخند عشقم بود
+
+قصه نیستم که بگویی
+نغمه نیستم که بخوانی
+صدا نیستم که بشنوی
+یا چیزی چنان که ببینی
+یا چیزی که چنان بدانی...
+
+من درد مشترکم
+مرا فریاد کن." -- شاملو]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

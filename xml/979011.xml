@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/979011-krystal]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/979011-krystal" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 09 Mar 2008 10:45:06 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/32989-screw-the-rules-make-up-your-own</guid>
+		<pubDate>Sun, 09 Mar 2008 10:45:06 -0700</pubDate>
+		<title>
+			<![CDATA[Krystal add a quote by Nina Disesa]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/32989-screw-the-rules-make-up-your-own]]>
+		</link>
+		<description>
+	    <![CDATA["Screw the rules. Make up your own." -- Nina Disesa]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3420-even-now-all-possible-feelings-do-not-yet-exist-there</guid>
+		<pubDate>Tue, 11 Mar 2008 21:23:37 -0700</pubDate>
+		<title>
+			<![CDATA[Krystal add a quote by Nicole Krauss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3420-even-now-all-possible-feelings-do-not-yet-exist-there]]>
+		</link>
+		<description>
+	    <![CDATA["Even now, all possible feelings do not yet exist, there are still those that lie beyond our capacity and our imagination.  From time to time, when a piece of music no one has ever written or a painting no one has ever painted, or something else impossible to predict, fathom or yet describe takes place, a new feeling enters the world.  And then, for the millionth time in the history of feeling, the heart surges and absorbs the impact." -- Nicole Krauss]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/33881-the-truth-is-the-thing-i-invented-so-i-could</guid>
+		<pubDate>Tue, 11 Mar 2008 21:26:00 -0700</pubDate>
+		<title>
+			<![CDATA[Krystal add a quote by Nicole Krauss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/33881-the-truth-is-the-thing-i-invented-so-i-could]]>
+		</link>
+		<description>
+	    <![CDATA["The truth is the thing I invented so I could live." -- Nicole Krauss]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

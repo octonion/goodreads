@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/664379-danielle]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/664379-danielle" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 17 Feb 2008 16:39:56 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/11035-no-one-can-make-you-feel-inferior-without-your-consent</guid>
+		<pubDate>Sun, 17 Feb 2008 16:39:56 -0800</pubDate>
+		<title>
+			<![CDATA[Danielle add a quote by Eleanor Roosevelt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11035-no-one-can-make-you-feel-inferior-without-your-consent]]>
+		</link>
+		<description>
+	    <![CDATA["No one can make you feel inferior without your consent." -- Eleanor Roosevelt]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/362-if-you-don-t-stand-for-something-you-will-fall-for</guid>
+		<pubDate>Thu, 06 Dec 2007 09:06:42 -0800</pubDate>
+		<title>
+			<![CDATA[Danielle add a quote by Gordon A. Eadie]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/362-if-you-don-t-stand-for-something-you-will-fall-for]]>
+		</link>
+		<description>
+	    <![CDATA["If you don't stand for something you will fall for anything." -- Gordon A. Eadie]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/71-the-fool-doth-think-he-is-wise-but-the-wise</guid>
+		<pubDate>Thu, 06 Dec 2007 09:07:11 -0800</pubDate>
+		<title>
+			<![CDATA[Danielle add a quote by William Shakespeare]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/71-the-fool-doth-think-he-is-wise-but-the-wise]]>
+		</link>
+		<description>
+	    <![CDATA["The fool doth think he is wise, but the wise man knows himself to be a fool." -- William Shakespeare]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/66-so-many-books-so-little-time</guid>
+		<pubDate>Thu, 06 Dec 2007 09:07:22 -0800</pubDate>
+		<title>
+			<![CDATA[Danielle add a quote by Frank Zappa]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/66-so-many-books-so-little-time]]>
+		</link>
+		<description>
+	    <![CDATA["So many books, so little time." -- Frank Zappa]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

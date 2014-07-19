@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/235395-maliheh]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/235395-maliheh" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 28 Sep 2009 08:02:30 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/195943</guid>
+		<pubDate>Mon, 28 Sep 2009 08:02:30 -0700</pubDate>
+		<title>
+			<![CDATA[Maliheh add a quote by دکتر علی شریعتی]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/195943]]>
+		</link>
+		<description>
+	    <![CDATA["ترجیح میدهم با کفشهایم و در خیابان راه بروم و به خدا فکر کنم تا این که در مسجد بنشینم و به کفشهایم فکر کنم." -- دکتر علی شریعتی]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/199315</guid>
+		<pubDate>Mon, 12 Oct 2009 08:49:27 -0700</pubDate>
+		<title>
+			<![CDATA[Maliheh add a quote by دکتر علی شریعتی]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/199315]]>
+		</link>
+		<description>
+	    <![CDATA["ای خدای بزرگ به من کمک کن تا وقتی می خواهم درباره راه رفتن کسی قضاوت کنم، کمی با کفش های او راه بروم." -- دکتر علی شریعتی]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

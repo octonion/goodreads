@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/300965-lori]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/300965-lori" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 14 Jun 2008 19:08:13 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2377-these-woods-are-lovely-dark-and-deep-but-i-have</guid>
+		<pubDate>Sat, 14 Jun 2008 19:08:13 -0700</pubDate>
+		<title>
+			<![CDATA[Lori add a quote by Robert Frost]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2377-these-woods-are-lovely-dark-and-deep-but-i-have]]>
+		</link>
+		<description>
+	    <![CDATA["These woods are lovely, dark and deep,
+But I have promises to keep,
+And miles to go before I sleep,
+And miles to go before I sleep." -- Robert Frost]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2795-she-is-too-fond-of-books-and-it-has-turned</guid>
+		<pubDate>Mon, 19 Sep 2011 11:09:54 -0700</pubDate>
+		<title>
+			<![CDATA[Lori add a quote by Louisa May Alcott]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2795-she-is-too-fond-of-books-and-it-has-turned]]>
+		</link>
+		<description>
+	    <![CDATA["She is too fond of books, and it has turned her brain." -- Louisa May Alcott]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

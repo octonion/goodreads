@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/914823-amy-vanderwater]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/914823-amy-vanderwater" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 11 Mar 2013 17:11:36 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/752245-the-spirits-of-children-are-remote-and-wise</guid>
+		<pubDate>Mon, 11 Mar 2013 17:11:36 -0700</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Frances Cornford]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/752245-the-spirits-of-children-are-remote-and-wise]]>
+		</link>
+		<description>
+	    <![CDATA["The spirits of children are remote and wise..." -- Frances Cornford]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/207808-it-is-really-hard-to-be-lonely-very-long-in</guid>
+		<pubDate>Tue, 12 Mar 2013 19:10:53 -0700</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Naomi Shihab Nye]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/207808-it-is-really-hard-to-be-lonely-very-long-in]]>
+		</link>
+		<description>
+	    <![CDATA["It is really hard to be lonely very long in a world of words. Even if you don't have friends somewhere, you still have language, and it will find you and wrap its little syllables around you and suddenly there will be a story to live in.
+" -- Naomi Shihab Nye]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

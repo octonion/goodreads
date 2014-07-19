@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1053691-kathy-sprattling]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1053691-kathy-sprattling" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 08 Dec 2013 19:04:59 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/44622-when-your-eyes-are-tired-the-world-is-tired-also</guid>
+		<pubDate>Sun, 08 Dec 2013 19:04:59 -0800</pubDate>
+		<title>
+			<![CDATA[Kathy add a quote by David Whyte]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/44622-when-your-eyes-are-tired-the-world-is-tired-also]]>
+		</link>
+		<description>
+	    <![CDATA["When your eyes are tired the world is tired also. When your vision has gone no part of the world can find you. Time to go into the dark where the night has eyes to recognize its own. There you can be sure you are not beyond love. The dark will be your womb tonight. The night will give you a horizon further than you can see. You must learn one thing. The world was made to be free in. Give up on all other worlds except the one to which you belong. Sometimes it takes darkness and the sweet confinement of your aloneness to learn anything or anyone that does not bring you alive is too small for you. " -- David Whyte]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/930149-esther-vromans]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/930149-esther-vromans" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 14 Jan 2011 11:34:36 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/22754-in-the-world-of-the-dreamer-there-was-solitude-all</guid>
+		<pubDate>Fri, 14 Jan 2011 11:34:36 -0800</pubDate>
+		<title>
+			<![CDATA[Esther add a quote by Anais Nin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22754-in-the-world-of-the-dreamer-there-was-solitude-all]]>
+		</link>
+		<description>
+	    <![CDATA["In the world of the dreamer there was solitude: all the exaltations and joys came in the moment of preparation for living. They took place in solitude. But with action came anxiety, and the sense of insuperable effort made to match the dream, and with it came weariness, discouragement, and the flight into solitude again. And then in solitude, in the opium den of remembrance, the possibility of pleasure again." -- Anais Nin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

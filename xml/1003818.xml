@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1003818-vanessa-wikle]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1003818-vanessa-wikle" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 27 Mar 2008 23:11:43 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/16021-there-is-a-very-great-difference-is-there-not</guid>
+		<pubDate>Thu, 27 Mar 2008 23:11:43 -0700</pubDate>
+		<title>
+			<![CDATA[Vanessa add a quote by Price  Collier]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16021-there-is-a-very-great-difference-is-there-not]]>
+		</link>
+		<description>
+	    <![CDATA["There is a very great difference — is there not? — between the temporal and the eternal judgments, a very great difference between a man's reputation and a man's character, for reputation is what men think and say of us, while character is what God and the angels know of us." -- Price  Collier]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

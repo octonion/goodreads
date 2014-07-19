@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/368052-vivian-zhu]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/368052-vivian-zhu" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 27 Aug 2012 23:40:08 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/236960-only-love-of-a-good-woman-will-make-a-man</guid>
+		<pubDate>Mon, 27 Aug 2012 23:40:08 -0700</pubDate>
+		<title>
+			<![CDATA[Vivian add a quote by Laurell K. Hamilton]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/236960-only-love-of-a-good-woman-will-make-a-man]]>
+		</link>
+		<description>
+	    <![CDATA["Only love of a good woman will make a man question every choice, every action. Only love makes a warrior hesitate for fear that his lady will find him cruel. Only love makes a man both the best he will ever be, and the weakest. Sometimes all in the same moment. -Wicked " -- Laurell K. Hamilton]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

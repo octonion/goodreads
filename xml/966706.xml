@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/966706-jenandmatt]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/966706-jenandmatt" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 30 Mar 2008 12:18:54 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/39771-i-love-my-country-by-which-i-mean-i-am</guid>
+		<pubDate>Sun, 30 Mar 2008 12:18:54 -0700</pubDate>
+		<title>
+			<![CDATA[Jenandmatt add a quote by Ani DiFranco]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/39771-i-love-my-country-by-which-i-mean-i-am]]>
+		</link>
+		<description>
+	    <![CDATA["I love my country, by which I mean I am indebted joyfully to all the people throughout its history, who have fought the government to make right. Where so many cunning sons and daughters, our foremothers and forefathers came singing through slaughter, came through hell and high water so that we could stand here, and behold breathlessly the sight; how a raging river of tears cut a grand canyon of light. Why can't all decent men and women call themselves feminists, out of respect for those that fought for this?" -- Ani DiFranco]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

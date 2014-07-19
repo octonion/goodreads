@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/853823-hannah]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/853823-hannah" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 15 Mar 2009 23:34:37 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/10624-don-t-ever-tell-anybody-anything-if-you-do-you-start</guid>
+		<pubDate>Sun, 15 Mar 2009 23:34:37 -0700</pubDate>
+		<title>
+			<![CDATA[Hannah add a quote by J. D. Salinger]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10624-don-t-ever-tell-anybody-anything-if-you-do-you-start]]>
+		</link>
+		<description>
+	    <![CDATA["Don't ever tell anybody anything.  If you do, you start missing everybody." -- J. D. Salinger]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/19293-no-one-ever-knew-they-were-old-fashioned-everyone-always-thought</guid>
+		<pubDate>Wed, 30 Jan 2008 08:16:58 -0800</pubDate>
+		<title>
+			<![CDATA[Hannah add a quote by Arthur Phillips]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/19293-no-one-ever-knew-they-were-old-fashioned-everyone-always-thought]]>
+		</link>
+		<description>
+	    <![CDATA["No one ever knew they were old-fashioned; everyone always thought they were up-to-the-minute: Rickety Model T cars weren't rickety when they were invented, scratchy radio wasn't scratchy until television, and silent movies weren't a feeble precursor of talkies until there were talkies. Your two-piece telephone that demanded that you hold a cylinder to your ear while you screeched into the wall demanding a particular exchange of a harried, plug-juggling operator was the highest of high-tech. To know it was anything less would have been like acknowledging you were going to die and life was transient and you were already halfway to being a memory or worse. The real and worst tragedy of twentieth-century East Europeans: They had known they were old-fashioned before they could do anything about it." -- Arthur Phillips]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

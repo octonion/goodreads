@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/385501-esmael]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/385501-esmael" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 06 Mar 2013 19:34:16 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/17707-it-is-a-well-documented-fact-that-guys-will-not-ask</guid>
+		<pubDate>Wed, 06 Mar 2013 19:34:16 -0800</pubDate>
+		<title>
+			<![CDATA[Esmael add a quote by Dave Barry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17707-it-is-a-well-documented-fact-that-guys-will-not-ask]]>
+		</link>
+		<description>
+	    <![CDATA["It is a well-documented fact that guys will not ask for directions. This is a biological thing. This is why it takes several million sperm cells... to locate a female egg, despite the fact that the egg is, relative to them, the size of Wisconsin." -- Dave Barry]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/225863-when-i-ask-how-old-your-toddler-is-i-don-t</guid>
+		<pubDate>Wed, 06 Mar 2013 19:34:39 -0800</pubDate>
+		<title>
+			<![CDATA[Esmael add a quote by George Carlin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/225863-when-i-ask-how-old-your-toddler-is-i-don-t]]>
+		</link>
+		<description>
+	    <![CDATA["When I ask how old your toddler is, I don't need to hear '27 months.' 'He's two' will do just fine. He's not a cheese. And I didn't really care in the first place." -- George Carlin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

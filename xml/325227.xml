@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/325227-jan-bednarczuk]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/325227-jan-bednarczuk" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 06 Apr 2012 13:52:37 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/12317-like-every-other-creature-on-the-face-of-the-earth</guid>
+		<pubDate>Fri, 06 Apr 2012 13:52:37 -0700</pubDate>
+		<title>
+			<![CDATA[Jan add a quote by Neal Stephenson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12317-like-every-other-creature-on-the-face-of-the-earth]]>
+		</link>
+		<description>
+	    <![CDATA["Like every other creature on the face of the earth, Godfrey was, by birthright, a stupendous badass, albeit in the somewhat narrow technical sense that he could trace his ancestry back up a long line of slightly less highly evolved stupendous badasses to that first self-replicating gizmo---which, given the number and variety of its descendants, might justifiably be described as the most stupendous badass of all time. Everyone and everything that wasn't a stupendous badass was dead." -- Neal Stephenson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

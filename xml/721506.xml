@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/721506-brian]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/721506-brian" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 18 Apr 2008 11:33:21 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/64-the-universe-is-a-big-place-perhaps-the-biggest</guid>
+		<pubDate>Fri, 18 Apr 2008 11:33:21 -0700</pubDate>
+		<title>
+			<![CDATA[Brian add a quote by Kurt Vonnegut]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/64-the-universe-is-a-big-place-perhaps-the-biggest]]>
+		</link>
+		<description>
+	    <![CDATA["The universe is a big place, perhaps the biggest." -- Kurt Vonnegut]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/27042-as-democracy-is-perfected-the-office-of-president-represents-more</guid>
+		<pubDate>Fri, 18 Apr 2008 11:39:59 -0700</pubDate>
+		<title>
+			<![CDATA[Brian add a quote by H.L. Mencken]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/27042-as-democracy-is-perfected-the-office-of-president-represents-more]]>
+		</link>
+		<description>
+	    <![CDATA["As democracy is perfected, the office of president represents, more and more closely, the inner soul of the people. On some great and glorious day the plain folks of the land will reach their heart's desire at last and the White House will be adorned by a downright moron." -- H.L. Mencken]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/791003-julius-mendoza]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/791003-julius-mendoza" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 02 Feb 2008 16:22:08 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/20741-not-even-your-love-could-withhold-you-from-fulfilling-your</guid>
+		<pubDate>Sat, 02 Feb 2008 16:22:08 -0800</pubDate>
+		<title>
+			<![CDATA[Julius add a quote by Paulo Coelho]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20741-not-even-your-love-could-withhold-you-from-fulfilling-your]]>
+		</link>
+		<description>
+	    <![CDATA["Not even your love could withhold you from fulfilling your own personal legend." -- Paulo Coelho]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/7545-because-i-could-not-stop-for-death-he-kindly</guid>
+		<pubDate>Sat, 02 Feb 2008 16:22:42 -0800</pubDate>
+		<title>
+			<![CDATA[Julius add a quote by Emily Dickinson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7545-because-i-could-not-stop-for-death-he-kindly]]>
+		</link>
+		<description>
+	    <![CDATA["Because I could not stop for Death – 
+He kindly stopped for me –  
+The Carriage held but just Ourselves –  
+And Immortality." -- Emily Dickinson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

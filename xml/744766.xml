@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/744766-steve]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/744766-steve" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 24 Feb 2008 14:25:30 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/28019-philosophy-nature-is-written-in-that-great-book-which-ever</guid>
+		<pubDate>Sun, 24 Feb 2008 14:25:30 -0800</pubDate>
+		<title>
+			<![CDATA[Steve add a quote by Galileo]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/28019-philosophy-nature-is-written-in-that-great-book-which-ever]]>
+		</link>
+		<description>
+	    <![CDATA["Philosophy [nature] is written in that great book which ever is before our eyes -- I mean the universe -- but we cannot understand it if we do not first learn the language and grasp the symbols in which it is written. The book is written in mathematical language, and the symbols are triangles, circles and other geometrical figures, without whose help it is impossible to comprehend a single word of it; without which one wanders in vain through a dark labyrinth." -- Galileo]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

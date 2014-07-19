@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/638759-melanie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/638759-melanie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 06 Jan 2008 19:54:00 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/434-he-s-like-a-drug-for-you-bella</guid>
+		<pubDate>Sun, 06 Jan 2008 19:54:00 -0800</pubDate>
+		<title>
+			<![CDATA[Melanie add a quote by Stephenie Meyer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/434-he-s-like-a-drug-for-you-bella]]>
+		</link>
+		<description>
+	    <![CDATA["He's like a drug for you, Bella." -- Stephenie Meyer]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5797-the-person-be-it-gentleman-or-lady-who-has-not</guid>
+		<pubDate>Sun, 06 Jan 2008 19:57:38 -0800</pubDate>
+		<title>
+			<![CDATA[Melanie add a quote by Jane Austen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5797-the-person-be-it-gentleman-or-lady-who-has-not]]>
+		</link>
+		<description>
+	    <![CDATA["The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid." -- Jane Austen]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/9481-if-all-else-perished-and-he-remained-i-should-still</guid>
+		<pubDate>Sun, 06 Jan 2008 19:59:10 -0800</pubDate>
+		<title>
+			<![CDATA[Melanie add a quote by Emily Jane Brontë ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9481-if-all-else-perished-and-he-remained-i-should-still]]>
+		</link>
+		<description>
+	    <![CDATA["If all else perished, and he remained, I should still continue to be; and if all else remained, and he were annihilated, the universe would turn to a mighty stranger." -- Emily Jane Brontë ]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1051896-charlotte]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1051896-charlotte" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 13 Apr 2008 10:50:28 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/44278-it-s-actually-very-difficult-to-make-something-both-simple-and</guid>
+		<pubDate>Sun, 13 Apr 2008 10:50:28 -0700</pubDate>
+		<title>
+			<![CDATA[Charlotte add a quote by Paul Simon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/44278-it-s-actually-very-difficult-to-make-something-both-simple-and]]>
+		</link>
+		<description>
+	    <![CDATA["It's actually very difficult to make something both simple and good." -- Paul Simon]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1598-you-only-live-once-but-if-you-do-it-right</guid>
+		<pubDate>Fri, 22 Aug 2008 13:25:03 -0700</pubDate>
+		<title>
+			<![CDATA[Charlotte add a quote by Mae West]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1598-you-only-live-once-but-if-you-do-it-right]]>
+		</link>
+		<description>
+	    <![CDATA["You only live once, but if you do it right, once is enough." -- Mae West]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

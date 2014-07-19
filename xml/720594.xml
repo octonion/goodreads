@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/720594-tun1991matt]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/720594-tun1991matt" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 08 Jan 2014 04:25:11 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/791754-old-pond-frogs-jumped-in-sound-of-water</guid>
+		<pubDate>Wed, 08 Jan 2014 04:25:11 -0800</pubDate>
+		<title>
+			<![CDATA[Tun1991matt add a quote by Matsuo Bashō]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/791754-old-pond-frogs-jumped-in-sound-of-water]]>
+		</link>
+		<description>
+	    <![CDATA["Old pond — frogs jumped in — sound of water" -- Matsuo Bashō]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

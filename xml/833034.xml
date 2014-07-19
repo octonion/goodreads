@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/833034-katy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/833034-katy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 25 Jan 2008 13:42:57 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/17364-be-the-ambulance-make-toast</guid>
+		<pubDate>Fri, 25 Jan 2008 13:42:57 -0800</pubDate>
+		<title>
+			<![CDATA[Katy add a quote by Gordon Korman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17364-be-the-ambulance-make-toast]]>
+		</link>
+		<description>
+	    <![CDATA["Be the Ambulance.  Make toast." -- Gordon Korman]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/17365-ask-me-i-m-a-cow-expert</guid>
+		<pubDate>Fri, 25 Jan 2008 13:43:37 -0800</pubDate>
+		<title>
+			<![CDATA[Katy add a quote by Gordon Korman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17365-ask-me-i-m-a-cow-expert]]>
+		</link>
+		<description>
+	    <![CDATA["Ask me.  I'm a cow expert." -- Gordon Korman]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/399485-britton]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/399485-britton" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 28 Oct 2008 22:59:06 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5850-human-speech-is-like-a-cracked-kettle-on-which-we</guid>
+		<pubDate>Tue, 28 Oct 2008 22:59:06 -0700</pubDate>
+		<title>
+			<![CDATA[Britton add a quote by Gustave Flaubert]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5850-human-speech-is-like-a-cracked-kettle-on-which-we]]>
+		</link>
+		<description>
+	    <![CDATA["Human speech is like a cracked kettle on which we tap crude rhythms for bears to dance to, while we long to make music that will melt the stars." -- Gustave Flaubert]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1921-tell-me-what-is-it-you-plan-to-do-with</guid>
+		<pubDate>Wed, 15 Jan 2014 07:07:41 -0800</pubDate>
+		<title>
+			<![CDATA[Britton add a quote by Mary Oliver]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1921-tell-me-what-is-it-you-plan-to-do-with]]>
+		</link>
+		<description>
+	    <![CDATA["Tell me, what is it you plan to do 
+with your one wild and precious life?" -- Mary Oliver]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

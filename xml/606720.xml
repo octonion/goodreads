@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/606720-pat]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/606720-pat" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 13 Feb 2013 16:36:58 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/731643-even-when-your-mind-wanders-it-s-going-someplace-and-all</guid>
+		<pubDate>Wed, 13 Feb 2013 16:36:58 -0800</pubDate>
+		<title>
+			<![CDATA[Pat add a quote by Margaret Wrinkle]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/731643-even-when-your-mind-wanders-it-s-going-someplace-and-all]]>
+		</link>
+		<description>
+	    <![CDATA["...even when your mind wanders, it's going someplace, and all that travelling adds up..." -- Margaret Wrinkle]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/731386-she-wishes-she-had-looked-more-closely-at-every-bit</guid>
+		<pubDate>Wed, 13 Feb 2013 16:42:26 -0800</pubDate>
+		<title>
+			<![CDATA[Pat add a quote by Margaret Wrinkle]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/731386-she-wishes-she-had-looked-more-closely-at-every-bit]]>
+		</link>
+		<description>
+	    <![CDATA["She wishes she had looked more closely at every bit of her world when she was growing up so she could give more of it to Wash but it had been wrapped so close around her, she had no idea she would ever be without it." -- Margaret Wrinkle]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

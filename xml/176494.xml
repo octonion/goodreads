@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/176494-jackie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/176494-jackie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 26 Jan 2013 03:04:38 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/239245-when-those-you-love-die-the-best-you-can-do</guid>
+		<pubDate>Sat, 26 Jan 2013 03:04:38 -0800</pubDate>
+		<title>
+			<![CDATA[Jackie add a quote by Patrick Swayze]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/239245-when-those-you-love-die-the-best-you-can-do]]>
+		</link>
+		<description>
+	    <![CDATA["When those you love die, the best you can do is honor their spirit for as long as you live.  You make a commitment that you're going to take whatever lesson that person or animal was trying to teach you, and you make it true in your own life... it's a positive way to keep their spirit alive in the world, by keeping it alive in yourself." -- Patrick Swayze]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

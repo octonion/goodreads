@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/667419-featherproof]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/667419-featherproof" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 04 Feb 2008 13:43:49 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/17301-it-s-never-too-late-for-fatalism</guid>
+		<pubDate>Mon, 04 Feb 2008 13:43:49 -0800</pubDate>
+		<title>
+			<![CDATA[featherproof add a quote by Zach Plague]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17301-it-s-never-too-late-for-fatalism]]>
+		</link>
+		<description>
+	    <![CDATA["It's never too late for fatalism." -- Zach Plague]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/149946-i-am-a-tea-he-thought-i-am-some-kind</guid>
+		<pubDate>Fri, 15 Oct 2010 14:29:12 -0700</pubDate>
+		<title>
+			<![CDATA[featherproof add a quote by Patrick Somerville]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/149946-i-am-a-tea-he-thought-i-am-some-kind]]>
+		</link>
+		<description>
+	    <![CDATA["I am a tea, he thought. I am some kind of tea. And I have wishes." -- Patrick Somerville]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/245120-i-bought-an-energy-bar-and-as-i-ate-it</guid>
+		<pubDate>Sun, 26 Feb 2012 19:33:29 -0800</pubDate>
+		<title>
+			<![CDATA[featherproof add a quote by Sam Lipsyte]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/245120-i-bought-an-energy-bar-and-as-i-ate-it]]>
+		</link>
+		<description>
+	    <![CDATA["I bought an energy bar, and as I ate it a great weariness came over me." -- Sam Lipsyte]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

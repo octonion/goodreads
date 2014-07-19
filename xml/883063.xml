@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/883063-sarah-prescott]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/883063-sarah-prescott" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 07 Aug 2012 06:06:11 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/343475-but-now-now-he-needed-to-let-himself-rest-when</guid>
+		<pubDate>Tue, 07 Aug 2012 06:06:11 -0700</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by Joshua Ferris]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/343475-but-now-now-he-needed-to-let-himself-rest-when]]>
+		</link>
+		<description>
+	    <![CDATA["But now, now he needed to let himself rest when it came time to rest, and to move on when it came time to move on, and to do so in the direction of the moving on." -- Joshua Ferris]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/575228-love-makes-you-want-to-be-a-better-man-but</guid>
+		<pubDate>Tue, 07 Aug 2012 06:09:02 -0700</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by Gillian Flynn]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/575228-love-makes-you-want-to-be-a-better-man-but]]>
+		</link>
+		<description>
+	    <![CDATA["Love makes you want to be a better man. But maybe love, real love, also gives you permission to just be the man you are." -- Gillian Flynn]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/824686-indie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/824686-indie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 09 Mar 2008 01:51:04 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/24499-be-the-change-that-you-wish-to-see-in-the</guid>
+		<pubDate>Sun, 09 Mar 2008 01:51:04 -0800</pubDate>
+		<title>
+			<![CDATA[Indie add a quote by Mahatma Gandhi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/24499-be-the-change-that-you-wish-to-see-in-the]]>
+		</link>
+		<description>
+	    <![CDATA["Be the change that you wish to see in the world." -- Mahatma Gandhi]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4553-an-eye-for-an-eye-will-only-make-the-whole</guid>
+		<pubDate>Sun, 09 Mar 2008 01:55:34 -0800</pubDate>
+		<title>
+			<![CDATA[Indie add a quote by Mahatma Gandhi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4553-an-eye-for-an-eye-will-only-make-the-whole]]>
+		</link>
+		<description>
+	    <![CDATA["An eye for an eye will only make the whole world blind." -- Mahatma Gandhi]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1090-where-there-is-love-there-is-life</guid>
+		<pubDate>Sun, 09 Mar 2008 01:55:34 -0800</pubDate>
+		<title>
+			<![CDATA[Indie add a quote by Mahatma Gandhi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1090-where-there-is-love-there-is-life]]>
+		</link>
+		<description>
+	    <![CDATA["Where there is love there is life." -- Mahatma Gandhi]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/30644-if-you-treat-people-right-they-will-treat-you-right</guid>
+		<pubDate>Sun, 09 Mar 2008 01:59:43 -0800</pubDate>
+		<title>
+			<![CDATA[Indie add a quote by Franklin D. Roosevelt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/30644-if-you-treat-people-right-they-will-treat-you-right]]>
+		</link>
+		<description>
+	    <![CDATA["If you treat people right they will treat you right ... ninety percent of the time." -- Franklin D. Roosevelt]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

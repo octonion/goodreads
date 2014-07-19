@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/713494-kazembe]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/713494-kazembe" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 16 Jul 2013 08:56:18 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/15683-t-he-more-radical-the-person-is-the-more-fully-he</guid>
+		<pubDate>Tue, 16 Jul 2013 08:56:18 -0700</pubDate>
+		<title>
+			<![CDATA[Kazembe add a quote by Paulo Freire]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/15683-t-he-more-radical-the-person-is-the-more-fully-he]]>
+		</link>
+		<description>
+	    <![CDATA["[T]he more radical the person is, the more fully he or she enters into reality so that, knowing it better, he or she can transform it. This individual is not afraid to confront, to listen, to see the world unveiled. This person is not afraid to meet the people or to enter into a dialogue with them. This person does not consider himself or herself the proprietor of history or of all people, or the liberator of the oppressed; but he or she does commit himself or herself, within history, to fight at their side." -- Paulo Freire]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

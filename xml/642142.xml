@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/642142-karen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/642142-karen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 01 May 2009 07:37:32 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/69417-there-s-a-hell-of-a-distance-between-wise-cracking-and-wit</guid>
+		<pubDate>Fri, 01 May 2009 07:37:32 -0700</pubDate>
+		<title>
+			<![CDATA[Karen add a quote by Dorothy Parker]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/69417-there-s-a-hell-of-a-distance-between-wise-cracking-and-wit]]>
+		</link>
+		<description>
+	    <![CDATA["There's a hell of a distance between wise-cracking and wit. Wit has truth in it; wise-cracking is simply calisthenics with words.&quot;
+
+[&lt;i&gt;Interview, The Paris Review&lt;/i&gt;, Summer 1956]" -- Dorothy Parker]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/60234-now-i-know-the-things-i-know-and-i-do</guid>
+		<pubDate>Fri, 01 May 2009 07:37:43 -0700</pubDate>
+		<title>
+			<![CDATA[Karen add a quote by Dorothy Parker]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/60234-now-i-know-the-things-i-know-and-i-do]]>
+		</link>
+		<description>
+	    <![CDATA["Now I know the things I know, and I do the things I do; and if you do not like me so, to hell, my love, with you!" -- Dorothy Parker]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

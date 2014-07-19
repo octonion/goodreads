@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/224584-holly-thorpe]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/224584-holly-thorpe" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 01 Dec 2007 10:10:29 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2661-it-is-always-the-false-that-makes-you-suffer-the</guid>
+		<pubDate>Sat, 01 Dec 2007 10:10:29 -0800</pubDate>
+		<title>
+			<![CDATA[Holly add a quote by Sri Nisargadatta Maharaj]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2661-it-is-always-the-false-that-makes-you-suffer-the]]>
+		</link>
+		<description>
+	    <![CDATA["It is always the false that makes you suffer, the false desires and fears, the false values and ideas, the false relationships between people. Abandon the false and you are free of pain; truth makes happy, truth liberates." -- Sri Nisargadatta Maharaj]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2662-each-person-comes-into-this-world-with-a-specific-destiny--he</guid>
+		<pubDate>Sat, 01 Dec 2007 10:11:45 -0800</pubDate>
+		<title>
+			<![CDATA[Holly add a quote by Osho]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2662-each-person-comes-into-this-world-with-a-specific-destiny--he]]>
+		</link>
+		<description>
+	    <![CDATA["Each person comes into this world with a specific destiny--he has something to fulfill, some message has to be delivered, some work has to be completed. You are not here accidentally--you are here meaningfully. There is a purpose behind you. The whole intends to do something through you." -- Osho]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1044651-p-r-m-8-gg-8oss-787]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1044651-p-r-m-8-gg-8oss-787" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 10 Dec 2008 13:30:48 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/35675-i-don-t-want-to-talk-to-you-no-more-you</guid>
+		<pubDate>Wed, 10 Dec 2008 13:30:48 -0800</pubDate>
+		<title>
+			<![CDATA[*P.R*~M! 8!gg 8oss~*787* add a quote by Graham Chapman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/35675-i-don-t-want-to-talk-to-you-no-more-you]]>
+		</link>
+		<description>
+	    <![CDATA["I don't want to talk to you no more, you empty headed animal food trough wiper. I fart in your general direction. Your mother was a hamster and your father smelt of elderberries." -- Graham Chapman]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

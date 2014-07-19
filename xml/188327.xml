@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/188327-randy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/188327-randy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 19 Sep 2010 06:21:20 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6809-the-poet-only-asks-to-get-his-head-into-the</guid>
+		<pubDate>Sun, 19 Sep 2010 06:21:20 -0700</pubDate>
+		<title>
+			<![CDATA[Randy add a quote by G.K. Chesterton]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6809-the-poet-only-asks-to-get-his-head-into-the]]>
+		</link>
+		<description>
+	    <![CDATA["The poet only asks to get his head into the heavens. It is the logician who seeks to get the heavens into his head. And it is his head that splits." -- G.K. Chesterton]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/57435-the-main-point-of-christianity-was-this-that-nature-is</guid>
+		<pubDate>Sun, 19 Sep 2010 06:22:10 -0700</pubDate>
+		<title>
+			<![CDATA[Randy add a quote by G.K. Chesterton]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/57435-the-main-point-of-christianity-was-this-that-nature-is]]>
+		</link>
+		<description>
+	    <![CDATA["The main point of Christianity was this: that Nature is not our mother: Nature is our sister." -- G.K. Chesterton]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

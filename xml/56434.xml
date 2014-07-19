@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/56434-kraig-grady]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/56434-kraig-grady" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 27 Jun 2014 20:01:21 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/140416-my-war---and-i-have-yet-to-win-a</guid>
+		<pubDate>Fri, 27 Jun 2014 20:01:21 -0700</pubDate>
+		<title>
+			<![CDATA[Kraig add a quote by James Hillman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/140416-my-war---and-i-have-yet-to-win-a]]>
+		</link>
+		<description>
+	    <![CDATA["My war - and I have yet to win a decisive battle - is with the modes of thought that and conditioned feelings that prevail in psychology and therefore also in the way we think and feel about our being. Of these conditions none are more tyrannical than the convictions that clamp the mind and heart into positivistic science (geneticism and computerism), economics (bottom-line capitalism), and single-minded faith (fundamentalism)." -- James Hillman]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

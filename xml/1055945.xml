@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1055945-beth]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1055945-beth" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 26 Feb 2009 11:56:41 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/143087-know-the-power-that-is-peace</guid>
+		<pubDate>Thu, 26 Feb 2009 11:56:41 -0800</pubDate>
+		<title>
+			<![CDATA[Beth add a quote by Black Elk]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/143087-know-the-power-that-is-peace]]>
+		</link>
+		<description>
+	    <![CDATA["Know the Power that is Peace." -- Black Elk]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/143088-nothing-real-can-be-threatened-nothing-unreal-exists-herein-lies</guid>
+		<pubDate>Thu, 26 Feb 2009 11:57:39 -0800</pubDate>
+		<title>
+			<![CDATA[Beth add a quote by A Course in Miracles]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/143088-nothing-real-can-be-threatened-nothing-unreal-exists-herein-lies]]>
+		</link>
+		<description>
+	    <![CDATA["Nothing real can be threatened.  Nothing unreal exists. Herein lies the peace if God." -- A Course in Miracles]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6649-i-believe-in-everything-nothing-is-sacred-i-believe-in</guid>
+		<pubDate>Thu, 26 Feb 2009 12:00:00 -0800</pubDate>
+		<title>
+			<![CDATA[Beth add a quote by Tom Robbins]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6649-i-believe-in-everything-nothing-is-sacred-i-believe-in]]>
+		</link>
+		<description>
+	    <![CDATA["I believe in everything; nothing is sacred. I believe in nothing; everything is sacred. Ha Ha Ho Ho Hee Hee." -- Tom Robbins]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

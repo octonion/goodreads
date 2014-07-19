@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/186619-l]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/186619-l" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 28 Dec 2007 07:11:27 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/8141-people-think-that-a-liar-gains-a-victory-over-his</guid>
+		<pubDate>Fri, 28 Dec 2007 07:11:27 -0800</pubDate>
+		<title>
+			<![CDATA[L add a quote by Ayn Rand]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8141-people-think-that-a-liar-gains-a-victory-over-his]]>
+		</link>
+		<description>
+	    <![CDATA["People think that a liar gains a victory over his victim. What I’ve learned is that a lie is an act of self-abdication, because one surrenders one’s reality to the person to whom one lies, making that person one’s master, condemning oneself from then on to faking the sort of reality that person’s view requires to be faked…The man who lies to the world, is the world’s slave from then on…There are no white lies, there is only the blackest of destruction, and a white lie is the blackest of all." -- Ayn Rand]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/8192-i-have-tried-to-be-a-man-of-letters-in</guid>
+		<pubDate>Fri, 28 Dec 2007 10:40:25 -0800</pubDate>
+		<title>
+			<![CDATA[L add a quote by Cornel West]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8192-i-have-tried-to-be-a-man-of-letters-in]]>
+		</link>
+		<description>
+	    <![CDATA["I have tried to be a man of letters in love with ideas in order to be a wiser and more loving person, hoping to leave the world just a little better than I found it." -- Cornel West]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

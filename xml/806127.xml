@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/806127-kim-cole]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/806127-kim-cole" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 07 Feb 2008 16:06:33 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/16935-people-travel-to-wonder-at-the-height-of-the-mountains</guid>
+		<pubDate>Thu, 07 Feb 2008 16:06:33 -0800</pubDate>
+		<title>
+			<![CDATA[Kim add a quote by Saint Augustine]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16935-people-travel-to-wonder-at-the-height-of-the-mountains]]>
+		</link>
+		<description>
+	    <![CDATA["People travel to wonder 
+at the height of the mountains, 
+at the huge waves of the seas,
+at the long course of the rivers,
+at the vast compass of the ocean,
+at the circular motion of the stars,
+and yet they pass by themselves 
+without wondering. " -- Saint Augustine]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/22639-only-as-high-as-i-reach-can-i-grow-only</guid>
+		<pubDate>Thu, 07 Feb 2008 16:08:20 -0800</pubDate>
+		<title>
+			<![CDATA[Kim add a quote by Karen Ravn]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22639-only-as-high-as-i-reach-can-i-grow-only]]>
+		</link>
+		<description>
+	    <![CDATA["Only as high as I reach can I grow
+Only as far as I seek can I go
+Only as deep as I look can I see
+Only as much as I dream can I be" -- Karen Ravn]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/11058-dream-as-if-you-will-live-forever-live-as-if</guid>
+		<pubDate>Wed, 30 Apr 2008 07:54:27 -0700</pubDate>
+		<title>
+			<![CDATA[Kim add a quote by James  Dean]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11058-dream-as-if-you-will-live-forever-live-as-if]]>
+		</link>
+		<description>
+	    <![CDATA["Dream as if you will live forever; Live as if you will die today." -- James  Dean]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

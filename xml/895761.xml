@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/895761-simona]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/895761-simona" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 11 Feb 2008 13:07:21 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/21400-come-on-mama-let-s-rent-us-a-boat-sail-down</guid>
+		<pubDate>Mon, 11 Feb 2008 13:07:21 -0800</pubDate>
+		<title>
+			<![CDATA[Simona add a quote by Townes Van Zandt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21400-come-on-mama-let-s-rent-us-a-boat-sail-down]]>
+		</link>
+		<description>
+	    <![CDATA["come on mama, let's rent us a boat
+sail down that gibraltar moat
+shed a tear every time we pass tangier" -- Townes Van Zandt]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

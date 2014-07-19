@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/978801-terry]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/978801-terry" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 24 Apr 2008 01:46:43 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/47828-uniformity-in-its-motives-its-goals-its-far-ranging-consequences-is</guid>
+		<pubDate>Thu, 24 Apr 2008 01:46:43 -0700</pubDate>
+		<title>
+			<![CDATA[Terry add a quote by C.D. Wright]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/47828-uniformity-in-its-motives-its-goals-its-far-ranging-consequences-is]]>
+		</link>
+		<description>
+	    <![CDATA["Uniformity, in its motives, its goals, its far-ranging consequences, is the natural enemy of poetry, not to mention the enemy of trees, the soil, the exemplary life therein." -- C.D. Wright]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/36698-the-moment-of-writing-is-not-an-escape-it-is-only</guid>
+		<pubDate>Sat, 02 Mar 2013 14:28:40 -0800</pubDate>
+		<title>
+			<![CDATA[Terry add a quote by Larry Levis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/36698-the-moment-of-writing-is-not-an-escape-it-is-only]]>
+		</link>
+		<description>
+	    <![CDATA["The moment of writing is not an escape...it is only an insistence, through the imagination, upon human ecstasy, and a reminder that such ecstasy remains as much a birthright in this world as misery remains a condition of it." -- Larry Levis]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/603459-ryan-o-connor-wolik]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/603459-ryan-o-connor-wolik" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 06 Jan 2008 17:36:57 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/10800-people-fail-to-get-along-because-they-fear-each-other</guid>
+		<pubDate>Sun, 06 Jan 2008 17:36:57 -0800</pubDate>
+		<title>
+			<![CDATA[Ryan add a quote by Martin Luther King Jr.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10800-people-fail-to-get-along-because-they-fear-each-other]]>
+		</link>
+		<description>
+	    <![CDATA["People fail to get along because they fear each other; they fear each other because they don't know each other; they don't know each other because they have not communicated with each other." -- Martin Luther King Jr.]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/133809-the-first-step---especially-for-young-people-with-energy</guid>
+		<pubDate>Sun, 02 Oct 2011 08:15:36 -0700</pubDate>
+		<title>
+			<![CDATA[Ryan add a quote by Chuck Palahniuk]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/133809-the-first-step---especially-for-young-people-with-energy]]>
+		</link>
+		<description>
+	    <![CDATA["The first step - especially for young people with energy and drive and talent, but not money - the first step to controlling your world is to control your culture. To model and demonstrate the kind of world you demand to live in. To write the books. Make the music. Shoot the films. Paint the art." -- Chuck Palahniuk]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/108749-gypsy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/108749-gypsy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 20 Jul 2011 06:51:24 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/8750-i-love-you-without-knowing-how-or-when-or-from</guid>
+		<pubDate>Wed, 20 Jul 2011 06:51:24 -0700</pubDate>
+		<title>
+			<![CDATA[gypsy add a quote by Pablo Neruda]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8750-i-love-you-without-knowing-how-or-when-or-from]]>
+		</link>
+		<description>
+	    <![CDATA["I love you without knowing how, or when, or from where. I love you simply, without problems or pride: I love you in this way because I do not know any other way of loving but this, in which there is no I or you, so intimate that your hand upon my chest is my hand, so intimate that when I fall asleep your eyes close." -- Pablo Neruda]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/22780-when-i-want-to-understand-what-is-happening-today-or</guid>
+		<pubDate>Wed, 07 Dec 2011 22:21:23 -0800</pubDate>
+		<title>
+			<![CDATA[gypsy add a quote by Omar Khayyam]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22780-when-i-want-to-understand-what-is-happening-today-or]]>
+		</link>
+		<description>
+	    <![CDATA["When I want to understand what is happening today or try to decide what will happen tomorrow, I look back." -- Omar Khayyam]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

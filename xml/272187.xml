@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/272187-chez]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/272187-chez" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 15 Mar 2008 09:38:03 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/13872-like-any-artist-without-an-art-form-she-became-dangerous</guid>
+		<pubDate>Sat, 15 Mar 2008 09:38:03 -0700</pubDate>
+		<title>
+			<![CDATA[Chez add a quote by Toni Morrison]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13872-like-any-artist-without-an-art-form-she-became-dangerous]]>
+		</link>
+		<description>
+	    <![CDATA["Like any artist without an art form, she became dangerous." -- Toni Morrison]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

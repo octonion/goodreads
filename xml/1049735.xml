@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1049735-julie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1049735-julie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 23 Apr 2012 08:41:01 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/465985-asparagus-tinged-with-ultramarine-and-rosy-pink-which-ran</guid>
+		<pubDate>Mon, 23 Apr 2012 08:41:01 -0700</pubDate>
+		<title>
+			<![CDATA[Julie add a quote by Marcel Proust]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/465985-asparagus-tinged-with-ultramarine-and-rosy-pink-which-ran]]>
+		</link>
+		<description>
+	    <![CDATA["... asparagus, tinged with ultramarine and rosy pink which ran from their heads, finely stippled in mauve and azure, through a series of imperceptible changes to their white feet, still stained a little by the soil of their garden-bed: a rainbow-loveliness that was not of this world. I felt that these celestial hues indicated the presence of exquisite creatures who had been pleased to assume vegetable form, who, through the disguise which covered their firm and edible flesh, allowed me to discern in this radiance of earliest dawn, these hinted rainbows, these blue evening shades, that precious quality which I should recognise again when, all night long after a dinner at which I had partaken of them, they played (lyrical and coarse in their jesting as the fairies in Shakespeare’s Dream) at transforming my humble chamberpot into a bower of aromatic perfume." -- Marcel Proust]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

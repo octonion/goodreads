@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/641753-stacy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/641753-stacy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 25 Feb 2009 11:06:58 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/41292-hatred-seems-to-work-on-the-same-glands-as-love</guid>
+		<pubDate>Wed, 25 Feb 2009 11:06:58 -0800</pubDate>
+		<title>
+			<![CDATA[Stacy add a quote by Graham Greene]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/41292-hatred-seems-to-work-on-the-same-glands-as-love]]>
+		</link>
+		<description>
+	    <![CDATA["Hatred seems to work on the same glands as love: it even produces the same actions. If we had not been taught how to interpret the story of the Passion, would we have been able to say from their actions alone whether it was the jealous Judas or the cowardly Peter who loved Christ?" -- Graham Greene]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/173179-alex]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/173179-alex" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 14 Sep 2013 21:57:55 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/893805-it-was-a-warship-after-all-it-was-built-designed</guid>
+		<pubDate>Sat, 14 Sep 2013 21:57:55 -0700</pubDate>
+		<title>
+			<![CDATA[Alex add a quote by Iain M. Banks]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/893805-it-was-a-warship-after-all-it-was-built-designed]]>
+		</link>
+		<description>
+	    <![CDATA["It was a warship, after all. It was built, &lt;i&gt;designed&lt;/i&gt; to glory in destruction, when it was considered appropriate. It found, as it was rightly and properly supposed to, an awful beauty in both the weaponry of war and the violence and devastation which that weaponry was capable of inflicting, and yet it knew that attractiveness stemmed from a kind of insecurity, a sort of childishness. It could see that--by some criteria--a warship, just by the perfectly articulated purity of its purpose, was the most beautiful single artifact the Culture was capable of producing, and at the same time understand the paucity of moral vision such a judgment implied. To fully appreciate the beauty of the weapon was to admit to a kind of shortsightedness close to blindness, to confess to a sort of stupidity. The weapon was not itself; nothing was solely itself. The weapon, like anything else, could only finally be judged by the effect it had on others, by the consequences it produced in some outside context, by its place in the rest of the universe. By this measure the love, or just the appreciation, of weapons was a kind of tragedy." -- Iain M. Banks]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

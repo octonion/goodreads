@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/208725-jim-o]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/208725-jim-o" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 02 Dec 2011 07:44:22 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/400898-never-be-so-focused-on-what-you-re-looking-for-that</guid>
+		<pubDate>Fri, 02 Dec 2011 07:44:22 -0800</pubDate>
+		<title>
+			<![CDATA[Jim add a quote by Ann Patchett]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/400898-never-be-so-focused-on-what-you-re-looking-for-that]]>
+		</link>
+		<description>
+	    <![CDATA["Never be so focused on what you're looking for that you overlook the thing you actually find." -- Ann Patchett]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/183739-the-world-is-so-empty-if-one-thinks-only-of</guid>
+		<pubDate>Mon, 26 Dec 2011 14:34:03 -0800</pubDate>
+		<title>
+			<![CDATA[Jim add a quote by Goethe]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/183739-the-world-is-so-empty-if-one-thinks-only-of]]>
+		</link>
+		<description>
+	    <![CDATA["The world is so empty if one thinks only of mountains, rivers &amp; cities; but to know someone who thinks &amp; feels with us, &amp; who, though distant, is close to us in spirit, this makes the earth for us an inhabited garden." -- Goethe]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1227-of-all-forms-of-caution-caution-in-love-is-perhaps</guid>
+		<pubDate>Thu, 06 Jun 2013 05:07:52 -0700</pubDate>
+		<title>
+			<![CDATA[Jim add a quote by Bertrand Russell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1227-of-all-forms-of-caution-caution-in-love-is-perhaps]]>
+		</link>
+		<description>
+	    <![CDATA["Of all forms of caution, caution in love is perhaps the most fatal to true happiness." -- Bertrand Russell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

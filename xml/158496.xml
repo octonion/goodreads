@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/158496-leilani]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/158496-leilani" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 20 Aug 2013 15:05:14 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/869295-pleasure-to-me-is-wonder-the-unexplored-the-unexpected-the-thing</guid>
+		<pubDate>Tue, 20 Aug 2013 15:05:14 -0700</pubDate>
+		<title>
+			<![CDATA[Leilani add a quote by H.P. Lovecraft]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/869295-pleasure-to-me-is-wonder-the-unexplored-the-unexpected-the-thing]]>
+		</link>
+		<description>
+	    <![CDATA["Pleasure to me is wonder—the unexplored, the unexpected, the thing that is hidden and the changeless thing that lurks behind superficial mutability." -- H.P. Lovecraft]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

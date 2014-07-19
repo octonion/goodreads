@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/187413-brenda]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/187413-brenda" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 19 Dec 2012 11:11:58 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/199428-do-not-be-impatient-with-your-seemingly-slow-progress-do</guid>
+		<pubDate>Wed, 19 Dec 2012 11:11:58 -0800</pubDate>
+		<title>
+			<![CDATA[Brenda add a quote by Vernon Howard]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/199428-do-not-be-impatient-with-your-seemingly-slow-progress-do]]>
+		</link>
+		<description>
+	    <![CDATA["Do not be impatient with your seemingly slow progress. Do not try to run faster than you presently can. If you are studying, reflecting and trying, you are making progress whether you are aware of it or not. A traveler walking the road in the darkness of night is still going forward. Someday, some way, everything will break open, like the natural unfolding of a rosebud." -- Vernon Howard]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

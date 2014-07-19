@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/901508-cindy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/901508-cindy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 20 Feb 2011 16:08:47 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/263493-i-am-no-bird-and-no-net-ensnares-me-i</guid>
+		<pubDate>Sun, 20 Feb 2011 16:08:47 -0800</pubDate>
+		<title>
+			<![CDATA[Cindy add a quote by Charlotte Brontë]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/263493-i-am-no-bird-and-no-net-ensnares-me-i]]>
+		</link>
+		<description>
+	    <![CDATA["I am no bird; and no net ensnares me: I am a free human being with an independent will." -- Charlotte Brontë]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/52202-true-love-is-not-so-much-a-matter-of-romance</guid>
+		<pubDate>Tue, 12 Apr 2011 07:42:21 -0700</pubDate>
+		<title>
+			<![CDATA[Cindy add a quote by Gordon B. Hinckley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/52202-true-love-is-not-so-much-a-matter-of-romance]]>
+		</link>
+		<description>
+	    <![CDATA["True love is not so much a matter of romance as it is a matter of anxious concern for the well-being of one's companion." -- Gordon B. Hinckley]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

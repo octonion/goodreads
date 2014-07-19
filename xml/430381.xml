@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/430381-john]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/430381-john" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 10 Aug 2011 18:28:21 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/420162-the-problem-with-most-genre-fantasy-is-that-it-s-not</guid>
+		<pubDate>Wed, 10 Aug 2011 18:28:21 -0700</pubDate>
+		<title>
+			<![CDATA[John add a quote by China Mieville]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/420162-the-problem-with-most-genre-fantasy-is-that-it-s-not]]>
+		</link>
+		<description>
+	    <![CDATA["The problem with most genre fantasy is that it's not nearly fantastic enough. It's escapist, but it can't escape." -- China Mieville]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/420164-people-know-what-they-do-they-frequently-know-why-they</guid>
+		<pubDate>Wed, 10 Aug 2011 18:33:16 -0700</pubDate>
+		<title>
+			<![CDATA[John add a quote by Michel Foucault]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/420164-people-know-what-they-do-they-frequently-know-why-they]]>
+		</link>
+		<description>
+	    <![CDATA["People know what they do; they frequently know why they do what they do; but what they don’t know is what what they do does." -- Michel Foucault]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/569655-mark-harrison]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/569655-mark-harrison" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 25 Mar 2008 04:38:04 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1412-play-it-fuckin-loud</guid>
+		<pubDate>Tue, 25 Mar 2008 04:38:04 -0700</pubDate>
+		<title>
+			<![CDATA[Mark add a quote by Bob Dylan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1412-play-it-fuckin-loud]]>
+		</link>
+		<description>
+	    <![CDATA["Play it fuckin' loud!" -- Bob Dylan]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/25579-all-i-ask-is-the-chance-to-prove-that-money</guid>
+		<pubDate>Tue, 25 Mar 2008 04:38:24 -0700</pubDate>
+		<title>
+			<![CDATA[Mark add a quote by Spike Milligan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/25579-all-i-ask-is-the-chance-to-prove-that-money]]>
+		</link>
+		<description>
+	    <![CDATA["All I ask is the chance to prove that money can't make me happy." -- Spike Milligan]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

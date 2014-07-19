@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/712263-jon]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/712263-jon" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 23 Feb 2014 14:57:27 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1058238-as-your-metaphysician-i-advise-you-to-take-two-scotches</guid>
+		<pubDate>Sun, 23 Feb 2014 14:57:27 -0800</pubDate>
+		<title>
+			<![CDATA[Jon add a quote by Jon D. Gold]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1058238-as-your-metaphysician-i-advise-you-to-take-two-scotches]]>
+		</link>
+		<description>
+	    <![CDATA["As your metaphysician, I advise you to take two scotches and call me in the morning." -- Jon D. Gold]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1058248-i-think-that-every-once-in-a-while-god-ventures</guid>
+		<pubDate>Sun, 23 Feb 2014 14:59:29 -0800</pubDate>
+		<title>
+			<![CDATA[Jon add a quote by Jon D. Gold]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1058248-i-think-that-every-once-in-a-while-god-ventures]]>
+		</link>
+		<description>
+	    <![CDATA["I think that every once in a while, God ventures out for a cosmic burrito of ghost peppers and moon cats. The next day he craps out a giant flaming ball of gas. Those are the stars. The planets are remnants of other meals, grilled lava sandwiches or basalt burgers with Saturn rings. The universe is God’s infinite toilet, and we are the bacteria clinging to his fecal matter." -- Jon D. Gold]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

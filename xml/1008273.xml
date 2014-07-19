@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1008273-sandra-spicher]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1008273-sandra-spicher" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 04 Nov 2012 05:29:28 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/283281-he-soon-felt-that-the-fulfillment-of-his-desires-gave</guid>
+		<pubDate>Sun, 04 Nov 2012 05:29:28 -0800</pubDate>
+		<title>
+			<![CDATA[Sandra add a quote by Leo Tolstoy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/283281-he-soon-felt-that-the-fulfillment-of-his-desires-gave]]>
+		</link>
+		<description>
+	    <![CDATA["He soon felt that the fulfillment of his desires gave him only one grain of the mountain of happiness he had expected. This fulfillment showed him the eternal error men make in imagining that their happiness depends on the realization of their desires." -- Leo Tolstoy]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

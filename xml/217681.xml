@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/217681-aaron]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/217681-aaron" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 05 Jul 2011 13:44:23 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/193041-everybody-knows-if-you-are-too-careful-you-are-so</guid>
+		<pubDate>Tue, 05 Jul 2011 13:44:23 -0700</pubDate>
+		<title>
+			<![CDATA[Aaron add a quote by Gertrude Stein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/193041-everybody-knows-if-you-are-too-careful-you-are-so]]>
+		</link>
+		<description>
+	    <![CDATA["Everybody knows if you are too careful you are so occupied in being careful that you are sure to stumble over something. " -- Gertrude Stein]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

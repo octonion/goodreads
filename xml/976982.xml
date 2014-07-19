@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/976982-muhammad-umair]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/976982-muhammad-umair" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 18 Mar 2011 23:33:56 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/128925-you-know-me-better-than-anyone-and-you-re-my-best</guid>
+		<pubDate>Fri, 18 Mar 2011 23:33:56 -0700</pubDate>
+		<title>
+			<![CDATA[Muhammad add a quote by Nicholas Sparks]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/128925-you-know-me-better-than-anyone-and-you-re-my-best]]>
+		</link>
+		<description>
+	    <![CDATA["You know me better than anyone, and you're my best friend. I don't think there's anything you could say to me that would lead me to believe that you're doing it just to hurt me. If there's one thing I've come to know about you, it's that you're not even capable of something like that. Why do you think I like spending time with you so much? Because you're a good guy. A nice guy." -- Nicholas Sparks]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

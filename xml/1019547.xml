@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1019547-david]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1019547-david" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 15 Oct 2010 09:07:31 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/22938-it-was-the-nature-of-his-profession-that-his-experience</guid>
+		<pubDate>Fri, 15 Oct 2010 09:07:31 -0700</pubDate>
+		<title>
+			<![CDATA[David add a quote by Cormac McCarthy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22938-it-was-the-nature-of-his-profession-that-his-experience]]>
+		</link>
+		<description>
+	    <![CDATA["It was the nature of his profession that his experience with death should be greater than for most and he said that while it was true that time heals bereavement it does so only at the cost of the slow extinction of those loved ones from the heart's memory which is the sole place of their abode then or now. Faces fade, voices dim. Seize them back, whispered the sepulturero. Speak with them. Call their names. Do this and do not let sorrow die for it is the sweetening of every gift." -- Cormac McCarthy]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/114185-man-has-places-in-his-heart-which-do-not-yet</guid>
+		<pubDate>Wed, 27 Mar 2013 15:04:57 -0700</pubDate>
+		<title>
+			<![CDATA[David add a quote by Léon Bloy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/114185-man-has-places-in-his-heart-which-do-not-yet]]>
+		</link>
+		<description>
+	    <![CDATA["Man has places in his heart which do not yet exist, and into them enters suffering, in order that they may have existence." -- Léon Bloy]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

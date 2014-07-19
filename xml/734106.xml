@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/734106-tiffany-willis]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/734106-tiffany-willis" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 02 Jan 2008 09:20:35 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/9444-none-of-us-really-changes-over-time-we-only-become</guid>
+		<pubDate>Wed, 02 Jan 2008 09:20:35 -0800</pubDate>
+		<title>
+			<![CDATA[Tiffany add a quote by Anne Rice]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9444-none-of-us-really-changes-over-time-we-only-become]]>
+		</link>
+		<description>
+	    <![CDATA["None of us really changes over time. We only become more fully what we are." -- Anne Rice]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/11902-life-is-a-banquet-and-most-poor-suckers-are-starving</guid>
+		<pubDate>Fri, 11 Jan 2008 18:08:21 -0800</pubDate>
+		<title>
+			<![CDATA[Tiffany add a quote by Rosalind Russell (Auntie Mame)]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11902-life-is-a-banquet-and-most-poor-suckers-are-starving]]>
+		</link>
+		<description>
+	    <![CDATA["Life is a banquet, and most poor suckers are starving to death!" -- Rosalind Russell (Auntie Mame)]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

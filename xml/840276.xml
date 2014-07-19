@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/840276-liz]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/840276-liz" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 05 Sep 2012 05:32:36 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/110490-it-is-more-fun-to-talk-with-someone-who-doesn-t</guid>
+		<pubDate>Wed, 05 Sep 2012 05:32:36 -0700</pubDate>
+		<title>
+			<![CDATA[Liz add a quote by A. A. Milne]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/110490-it-is-more-fun-to-talk-with-someone-who-doesn-t]]>
+		</link>
+		<description>
+	    <![CDATA["It is more fun to talk with someone who doesn't use long, difficult words but rather short, easy words like &quot;What about lunch?" -- A. A. Milne]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

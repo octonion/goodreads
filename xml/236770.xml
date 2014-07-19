@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/236770-teresa]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/236770-teresa" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 16 Jun 2011 11:28:02 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/166742-that-shay-was-in-possesion-of-hand-grenades-was-a</guid>
+		<pubDate>Thu, 16 Jun 2011 11:28:02 -0700</pubDate>
+		<title>
+			<![CDATA[Teresa add a quote by Scott Westerfeld]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/166742-that-shay-was-in-possesion-of-hand-grenades-was-a]]>
+		</link>
+		<description>
+	    <![CDATA["That Shay was in possesion of hand grenades was a comforting thought showed what kind of night this had become." -- Scott Westerfeld]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

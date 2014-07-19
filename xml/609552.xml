@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/609552-jd]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/609552-jd" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 29 Jan 2014 07:41:32 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/130631-it-ain-t-what-they-call-you-it-s-what-you-answer</guid>
+		<pubDate>Wed, 29 Jan 2014 07:41:32 -0800</pubDate>
+		<title>
+			<![CDATA[JD add a quote by W.C. Fields]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/130631-it-ain-t-what-they-call-you-it-s-what-you-answer]]>
+		</link>
+		<description>
+	    <![CDATA["It ain't what they call you, it's what you answer to." -- W.C. Fields]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/475691-most-maidens-are-perfectly-capable-of-rescuing-themselves-in-my</guid>
+		<pubDate>Thu, 30 Jan 2014 06:49:21 -0800</pubDate>
+		<title>
+			<![CDATA[JD add a quote by Erin Morgenstern]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/475691-most-maidens-are-perfectly-capable-of-rescuing-themselves-in-my]]>
+		</link>
+		<description>
+	    <![CDATA["Most maidens are perfectly capable of rescuing themselves in my experience, at least the ones worth something, in any case." -- Erin Morgenstern]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

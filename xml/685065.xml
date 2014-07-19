@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/685065-margaret]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/685065-margaret" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 14 Dec 2007 16:37:13 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/677-the-opposite-of-love-is-not-hate-it-s-indifference-the</guid>
+		<pubDate>Fri, 14 Dec 2007 16:37:13 -0800</pubDate>
+		<title>
+			<![CDATA[Margaret add a quote by Elie Wiesel]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/677-the-opposite-of-love-is-not-hate-it-s-indifference-the]]>
+		</link>
+		<description>
+	    <![CDATA["The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference." -- Elie Wiesel]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5506-where-does-one-go-from-a-world-of-insanity-somewhere</guid>
+		<pubDate>Sat, 15 Dec 2007 00:38:32 -0800</pubDate>
+		<title>
+			<![CDATA[Margaret add a quote by T.S. Eliot.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5506-where-does-one-go-from-a-world-of-insanity-somewhere]]>
+		</link>
+		<description>
+	    <![CDATA["Where does one go from a world of insanity? Somewhere on the other side of despair." -- T.S. Eliot.]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5507-once-i-had-a-rose-named-after-me-and-i</guid>
+		<pubDate>Sat, 15 Dec 2007 00:41:18 -0800</pubDate>
+		<title>
+			<![CDATA[Margaret add a quote by Eleanor Roosevelt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5507-once-i-had-a-rose-named-after-me-and-i]]>
+		</link>
+		<description>
+	    <![CDATA["Once I had a rose named after me and I was very flattered. But I was not pleased to read the description in the catalogue: &quot;No good in a bed, but fine up against a wall." -- Eleanor Roosevelt]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

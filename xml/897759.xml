@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/897759-heidi-cragun]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/897759-heidi-cragun" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 19 Feb 2013 09:06:30 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/346368-from-the-moment-i-fell-down-that-rabbit-hole-i-ve</guid>
+		<pubDate>Tue, 19 Feb 2013 09:06:30 -0800</pubDate>
+		<title>
+			<![CDATA[Heidi add a quote by Linda Woolverton and Lewis Carroll]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/346368-from-the-moment-i-fell-down-that-rabbit-hole-i-ve]]>
+		</link>
+		<description>
+	    <![CDATA["‎From the moment I fell down that rabbit hole, I've been told what I must do and who I must be. I've been shrunk, stretched, scratched and stuffed into a teapot! I've been accused of being Alice and of not being Alice, but this is my dream... I'll decide where it goes from here." -- Linda Woolverton and Lewis Carroll]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/654646-elizabeth]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/654646-elizabeth" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 07 Dec 2007 14:48:23 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4010-i-had-been-fed-in-my-youth-a-lot-of</guid>
+		<pubDate>Fri, 07 Dec 2007 14:48:23 -0800</pubDate>
+		<title>
+			<![CDATA[Elizabeth add a quote by Dorothy Parker]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4010-i-had-been-fed-in-my-youth-a-lot-of]]>
+		</link>
+		<description>
+	    <![CDATA["I had been fed, in my youth, a lot of old wives' tales about the way men would instantly forsake a beautiful woman to flock around a brilliant one. It is but fair to say that, after getting out in the world, I had never seen this happen.&quot;
+
+[From a column dated November 17, 1928]" -- Dorothy Parker]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

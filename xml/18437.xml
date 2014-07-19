@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/18437-rferrell]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/18437-rferrell" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 17 Jun 2013 22:47:46 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/585293-with-me-and-india-it-s-all-about-leaving-and-returning</guid>
+		<pubDate>Mon, 17 Jun 2013 22:47:46 -0700</pubDate>
+		<title>
+			<![CDATA[rferrell add a quote by Tishani Doshi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/585293-with-me-and-india-it-s-all-about-leaving-and-returning]]>
+		</link>
+		<description>
+	    <![CDATA["With me and India it's all about leaving and returning. Madras is home. It's a very complicated relationship. When you are away too long you get homesick, and when you are there too long you are sick of home." -- Tishani Doshi]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/587236-india-will-reveal-to-you-the-places-in-your-heart</guid>
+		<pubDate>Mon, 17 Jun 2013 22:47:54 -0700</pubDate>
+		<title>
+			<![CDATA[rferrell add a quote by Erin Reese]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/587236-india-will-reveal-to-you-the-places-in-your-heart]]>
+		</link>
+		<description>
+	    <![CDATA["India will reveal to you the places in your heart that must be purified." -- Erin Reese]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/587237-there-are-three-trips-you-take-to-india-the-one</guid>
+		<pubDate>Mon, 17 Jun 2013 22:48:35 -0700</pubDate>
+		<title>
+			<![CDATA[rferrell add a quote by Erin Reese]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/587237-there-are-three-trips-you-take-to-india-the-one]]>
+		</link>
+		<description>
+	    <![CDATA["There are three trips you take to India: the one you think you’re going to have – that you plan for; the one you actually have; and the one you live through once you go back home." -- Erin Reese]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

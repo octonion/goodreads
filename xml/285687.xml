@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/285687-bryn]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/285687-bryn" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 18 Feb 2014 05:44:57 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/295689-love-is-a-form-of-prejudice-you-love-what-you</guid>
+		<pubDate>Tue, 18 Feb 2014 05:44:57 -0800</pubDate>
+		<title>
+			<![CDATA[Bryn add a quote by Charles Bukowski]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/295689-love-is-a-form-of-prejudice-you-love-what-you]]>
+		</link>
+		<description>
+	    <![CDATA["Love is a form of prejudice. You love what you need, you love what makes you feel good, you love what is convenient. How can you say you love one person when there are ten thousand people in the world that you would love more if you ever met them? But you'll never meet them. All right, so we do the best we can. Granted. But we must still realize that love is just the result of a chance encounter. Most people make too much of it. On these grounds a good fuck is not to be entirely scorned. But that's the result of a chance meeting too. You're damned right. Drink up. We'll have another." -- Charles Bukowski]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

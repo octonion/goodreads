@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/523485-britton]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/523485-britton" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 11 Apr 2012 09:46:56 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/16238-some-people-never-go-crazy-what-truly-horrible-lives-they</guid>
+		<pubDate>Wed, 11 Apr 2012 09:46:56 -0700</pubDate>
+		<title>
+			<![CDATA[Britton add a quote by Charles Bukowski]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16238-some-people-never-go-crazy-what-truly-horrible-lives-they]]>
+		</link>
+		<description>
+	    <![CDATA["Some people never go crazy. What truly horrible lives they must lead." -- Charles Bukowski]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/263258-you-are-not-atlas-carrying-the-world-on-your-shoulder</guid>
+		<pubDate>Thu, 14 Feb 2013 00:01:34 -0800</pubDate>
+		<title>
+			<![CDATA[Britton add a quote by Vandana Shiva]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/263258-you-are-not-atlas-carrying-the-world-on-your-shoulder]]>
+		</link>
+		<description>
+	    <![CDATA["You are not Atlas carrying the world on your shoulder. It is good to 
+remember that the planet is carrying you." -- Vandana Shiva]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

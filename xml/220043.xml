@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/220043-estar]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/220043-estar" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 03 Mar 2011 07:03:00 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/31464-i-can-live-alone-if-self-respect-and-circumstances-require-me</guid>
+		<pubDate>Thu, 03 Mar 2011 07:03:00 -0800</pubDate>
+		<title>
+			<![CDATA[estar* add a quote by Charlotte Brontë]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/31464-i-can-live-alone-if-self-respect-and-circumstances-require-me]]>
+		</link>
+		<description>
+	    <![CDATA["I can live alone, if self-respect, and circumstances require me so to do. I need not sell my soul to buy bliss. I have an inward treasure born with me, which can keep me alive if all extraneous delights should be withheld, or offered only at a price I cannot afford to give." -- Charlotte Brontë]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

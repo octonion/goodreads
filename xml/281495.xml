@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/281495-devaki-murch]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/281495-devaki-murch" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 27 Feb 2011 18:32:33 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/15260-she-is-a-friend-of-my-mind-she-gather-me</guid>
+		<pubDate>Sun, 27 Feb 2011 18:32:33 -0800</pubDate>
+		<title>
+			<![CDATA[Devaki add a quote by Toni Morrison]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/15260-she-is-a-friend-of-my-mind-she-gather-me]]>
+		</link>
+		<description>
+	    <![CDATA["She is a friend of my mind. She gather me, man. The pieces I am, she gather them and give them back to me in all the right order." -- Toni Morrison]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1036356-carolyn]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1036356-carolyn" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 31 Jul 2011 17:41:39 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/137548-i-personally-have-my-own-idea-of-an-efficient-house</guid>
+		<pubDate>Sun, 31 Jul 2011 17:41:39 -0700</pubDate>
+		<title>
+			<![CDATA[Carolyn add a quote by Colleen Down]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/137548-i-personally-have-my-own-idea-of-an-efficient-house]]>
+		</link>
+		<description>
+	    <![CDATA["I personally have my own idea of an efficient house. It would be totally concrete with a big drain in the middle, a large fiberglass tree for my kids to swing from and a hose hanging in the corner." -- Colleen Down]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

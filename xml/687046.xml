@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/687046-ava]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/687046-ava" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 15 Dec 2007 16:04:32 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1066-i-don-t-want-to-achieve-immortality-through-my-work-i</guid>
+		<pubDate>Sat, 15 Dec 2007 16:04:32 -0800</pubDate>
+		<title>
+			<![CDATA[Ava add a quote by Woody Allen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1066-i-don-t-want-to-achieve-immortality-through-my-work-i]]>
+		</link>
+		<description>
+	    <![CDATA["I don't want to achieve immortality through my work; I want to achieve immortality through not dying. I don't want to live on in the hearts of my countrymen; I want to live on in my apartment." -- Woody Allen]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5103-new-opinions-are-always-suspected-and-usually-opposed-without-any</guid>
+		<pubDate>Sat, 15 Dec 2007 16:08:59 -0800</pubDate>
+		<title>
+			<![CDATA[Ava add a quote by John Locke]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5103-new-opinions-are-always-suspected-and-usually-opposed-without-any]]>
+		</link>
+		<description>
+	    <![CDATA["New opinions are always suspected, and usually opposed, without any other reason but because they are not common." -- John Locke]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

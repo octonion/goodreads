@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/888457-joe-perreault]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/888457-joe-perreault" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 12 Feb 2008 10:56:08 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/24210-i-believe-that-there-is-one-story-in-the-world</guid>
+		<pubDate>Tue, 12 Feb 2008 10:56:08 -0800</pubDate>
+		<title>
+			<![CDATA[Joe add a quote by John Steinbeck]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/24210-i-believe-that-there-is-one-story-in-the-world]]>
+		</link>
+		<description>
+	    <![CDATA["I believe that there is one story in the world, and only one. . . . Humans are caught—in their lives, in their thoughts, in their hungers and ambitions, in their avarice and cruelty, and in their kindness and generosity too—in a net of good and evil. . . . There is no other story. A man, after he has brushed off the dust and chips of his life, will have left only the hard, clean questions: Was it good or was it evil? Have I done well—or ill?" -- John Steinbeck]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3203-but-the-hebrew-word-the-word-timshel-thou-mayest-that-gives</guid>
+		<pubDate>Sat, 06 Dec 2008 08:05:01 -0800</pubDate>
+		<title>
+			<![CDATA[Joe add a quote by John Steinbeck]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3203-but-the-hebrew-word-the-word-timshel-thou-mayest-that-gives]]>
+		</link>
+		<description>
+	    <![CDATA["But the Hebrew word, the word timshel—‘Thou mayest’— that gives a choice. It might be the most important word in the world. That says the way is open. That throws it right back on a man. For if ‘Thou mayest’—it is also true that ‘Thou mayest not." -- John Steinbeck]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/660-i-believe-in-christianity-as-i-believe-that-the-sun</guid>
+		<pubDate>Mon, 21 Jul 2008 05:57:48 -0700</pubDate>
+		<title>
+			<![CDATA[Joe add a quote by C.S. Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/660-i-believe-in-christianity-as-i-believe-that-the-sun]]>
+		</link>
+		<description>
+	    <![CDATA["I believe in Christianity as I believe that the sun has risen: not only because I see it, but because by it I see everything else." -- C.S. Lewis]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

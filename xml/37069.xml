@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/37069-ben]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/37069-ben" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 May 2012 10:25:30 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/514984-my-manager-forced-me-to-put-my-beetle-in-my</guid>
+		<pubDate>Tue, 01 May 2012 10:25:30 -0700</pubDate>
+		<title>
+			<![CDATA[Ben add a quote by Jeff VanderMeer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/514984-my-manager-forced-me-to-put-my-beetle-in-my]]>
+		</link>
+		<description>
+	    <![CDATA["My Manager forced me to put my beetle in my own ear, a clear waste and an act that gave me nightmares: of a burning city through which giant carnivorous lizards prowled, eating survivors off of balconies. In one particularly vivid moment, I stood on a ledge as the jaws closed in, heat-swept, and tinged with the smell of rotting flesh. Beetles intended for the tough, tight minds of children should not be used by adults. We still remember a kinder, gentler world." -- Jeff VanderMeer]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/902024-patricia-gooden]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/902024-patricia-gooden" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 03 Sep 2012 13:14:19 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/104068-if-you-live-to-be-one-hundred-you-ve-got-it</guid>
+		<pubDate>Mon, 03 Sep 2012 13:14:19 -0700</pubDate>
+		<title>
+			<![CDATA[Patricia add a quote by George Burns]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/104068-if-you-live-to-be-one-hundred-you-ve-got-it]]>
+		</link>
+		<description>
+	    <![CDATA["If you live to be one hundred, you've got it made. Very few people die past that age. " -- George Burns]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/806-it-takes-courage-to-grow-up-and-become-who-you</guid>
+		<pubDate>Thu, 14 Feb 2013 14:32:18 -0800</pubDate>
+		<title>
+			<![CDATA[Patricia add a quote by E.E. Cummings]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/806-it-takes-courage-to-grow-up-and-become-who-you]]>
+		</link>
+		<description>
+	    <![CDATA["It takes courage to grow up and become who you really are." -- E.E. Cummings]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/116469-legitimate-powers-of-government-reach-actions-only-not-opinions</guid>
+		<pubDate>Tue, 25 Feb 2014 20:08:10 -0800</pubDate>
+		<title>
+			<![CDATA[Patricia add a quote by Thomas Jefferson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/116469-legitimate-powers-of-government-reach-actions-only-not-opinions]]>
+		</link>
+		<description>
+	    <![CDATA["...legitimate powers of government reach actions only, &amp; not opinions, I contemplate with sovereign reverence that act of the whole American people which declared that their legislature should 'make no law respecting an establishment of religion, or prohibiting the free exercise thereof,' &lt;b&gt;thus building a wall of separation between Church &amp; State&lt;/b&gt;. Adhering to this expression of the supreme will of the nation in behalf of the rights of conscience, I shall see with sincere satisfaction the progress of those sentiments which tend to restore to man all his natural rights, convinced he has no natural right in opposition to his social duties." -- Thomas Jefferson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

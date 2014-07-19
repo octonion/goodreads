@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/607907-teresa]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/607907-teresa" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 14 Nov 2013 10:09:48 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/9611-did-i-do-anything-wrong-today-he-said-or-has</guid>
+		<pubDate>Thu, 14 Nov 2013 10:09:48 -0800</pubDate>
+		<title>
+			<![CDATA[Teresa add a quote by Douglas Adams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9611-did-i-do-anything-wrong-today-he-said-or-has]]>
+		</link>
+		<description>
+	    <![CDATA["Did I do anything wrong today,&quot; he said, &quot;or has the world always been like this and I've been too wrapped up in myself to notice?" -- Douglas Adams]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/250456-anyone-who-is-capable-of-getting-themselves-made-president-should</guid>
+		<pubDate>Thu, 14 Nov 2013 10:11:23 -0800</pubDate>
+		<title>
+			<![CDATA[Teresa add a quote by Douglas Adams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/250456-anyone-who-is-capable-of-getting-themselves-made-president-should]]>
+		</link>
+		<description>
+	    <![CDATA["Anyone who is capable of getting themselves made President should on no account be allowed to do the job." -- Douglas Adams]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

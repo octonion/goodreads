@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/711535-naina-sharma]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/711535-naina-sharma" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 21 Mar 2008 05:55:49 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/22293-long-ago-men-went-to-sea-and-women-waited-for</guid>
+		<pubDate>Fri, 21 Mar 2008 05:55:49 -0700</pubDate>
+		<title>
+			<![CDATA[Naina add a quote by Audrey Niffenegger]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22293-long-ago-men-went-to-sea-and-women-waited-for]]>
+		</link>
+		<description>
+	    <![CDATA["Long ago, men went to sea, and women waited for them, standing on the edge of the water, scanning the horizon for the tiny ship. Now I wait for Henry. He vanishes unwillingly, without warning. I wait for him. Each moment that I wait feels like a year, an eternity. Each moment is as slow and transparent as glass. Through each moment I can see infinite moments lined up, waiting. Why has he gone where I cannot follow?" -- Audrey Niffenegger]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

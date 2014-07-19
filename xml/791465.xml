@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/791465-adrienne-jacobs]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/791465-adrienne-jacobs" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 24 Jul 2011 14:27:00 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/10370-work-at-our-responsibility-as-parents-as-if-everything-in</guid>
+		<pubDate>Sun, 24 Jul 2011 14:27:00 -0700</pubDate>
+		<title>
+			<![CDATA[Adrienne add a quote by Gordon B. Hinckley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10370-work-at-our-responsibility-as-parents-as-if-everything-in]]>
+		</link>
+		<description>
+	    <![CDATA["Work at our responsibility as parents as if everything in life counted on it." -- Gordon B. Hinckley]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1181-i-have-left-orders-to-be-awakened-at-any-time</guid>
+		<pubDate>Sun, 24 Jul 2011 14:27:13 -0700</pubDate>
+		<title>
+			<![CDATA[Adrienne add a quote by Ronald Reagan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1181-i-have-left-orders-to-be-awakened-at-any-time]]>
+		</link>
+		<description>
+	    <![CDATA["I have left orders to be awakened at any time during national emergency, even if I'm in a cabinet meeting." -- Ronald Reagan]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

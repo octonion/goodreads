@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/880195-sandra]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/880195-sandra" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 21 Jan 2013 06:13:05 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/124644-all-subjects-are-the-same-i-memorize-notes-for-a</guid>
+		<pubDate>Mon, 21 Jan 2013 06:13:05 -0800</pubDate>
+		<title>
+			<![CDATA[Sandra add a quote by Megan McCafferty]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/124644-all-subjects-are-the-same-i-memorize-notes-for-a]]>
+		</link>
+		<description>
+	    <![CDATA["All subjects are the same. I memorize notes for a test, spew it, ace it, then forget it. What makes this scary for the future of our country is that I'm in the tip-top percentile on every standardized test. I'm a model student with a very crappy attitude about learning." -- Megan McCafferty]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/253540-fine-clothes-may-disguise-but-silly-words-will-disclose-a</guid>
+		<pubDate>Sat, 28 Dec 2013 06:24:56 -0800</pubDate>
+		<title>
+			<![CDATA[Sandra add a quote by Aesop]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/253540-fine-clothes-may-disguise-but-silly-words-will-disclose-a]]>
+		</link>
+		<description>
+	    <![CDATA["Fine clothes may disguise, but silly words will disclose a fool" -- Aesop]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

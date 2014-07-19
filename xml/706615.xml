@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/706615-alan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/706615-alan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jan 2011 19:42:39 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/330803-cheat-your-landlord-if-you-can-and-must-but-do</guid>
+		<pubDate>Tue, 11 Jan 2011 19:42:39 -0800</pubDate>
+		<title>
+			<![CDATA[Alan add a quote by William S. Burroughs]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/330803-cheat-your-landlord-if-you-can-and-must-but-do]]>
+		</link>
+		<description>
+	    <![CDATA["Cheat your landlord if you can and must, but do not try to shortchange the Muse. It cannot be done. You can't fake quality any more than you can fake a good meal." -- William S. Burroughs]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/292205-despair-filled-his-skull-even-more-tightly-than-his-own</guid>
+		<pubDate>Mon, 30 Sep 2013 18:44:39 -0700</pubDate>
+		<title>
+			<![CDATA[Alan add a quote by Scott Sigler]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/292205-despair-filled-his-skull-even-more-tightly-than-his-own]]>
+		</link>
+		<description>
+	    <![CDATA["Despair filled his skull even more tightly than his own brain. All around him cars filled with normal people perfectly unaware of the disease turning Perry's body inside out. Fucking normal people." -- Scott Sigler]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/95797-maureen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/95797-maureen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 16 Apr 2013 19:24:40 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/33319-you-have-not-chosen-one-another-but-i-have-chosen</guid>
+		<pubDate>Tue, 16 Apr 2013 19:24:40 -0700</pubDate>
+		<title>
+			<![CDATA[Maureen add a quote by C.S. Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/33319-you-have-not-chosen-one-another-but-i-have-chosen]]>
+		</link>
+		<description>
+	    <![CDATA["You have not chosen one another, but I have chosen you for one another." -- C.S. Lewis]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/705098-vulnerability-sounds-like-truth-and-feels-like-courage</guid>
+		<pubDate>Wed, 05 Jun 2013 19:16:11 -0700</pubDate>
+		<title>
+			<![CDATA[Maureen add a quote by Brene Brown]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/705098-vulnerability-sounds-like-truth-and-feels-like-courage]]>
+		</link>
+		<description>
+	    <![CDATA["Vulnerability sounds like truth and feels like courage." -- Brene Brown]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/630701-don-t-try-to-win-over-the-haters-you-are-not</guid>
+		<pubDate>Mon, 23 Sep 2013 21:03:03 -0700</pubDate>
+		<title>
+			<![CDATA[Maureen add a quote by Brené Brown]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/630701-don-t-try-to-win-over-the-haters-you-are-not]]>
+		</link>
+		<description>
+	    <![CDATA["Don't try to win over the haters; you are not a jackass whisperer." -- Brené Brown]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

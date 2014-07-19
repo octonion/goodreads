@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/829912-shane]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/829912-shane" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 17 Feb 2008 22:17:36 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/25236-last-night-somebody-broke-into-my-apartment-and-replaced-everything</guid>
+		<pubDate>Sun, 17 Feb 2008 22:17:36 -0800</pubDate>
+		<title>
+			<![CDATA[Shane add a quote by Steven Wright]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/25236-last-night-somebody-broke-into-my-apartment-and-replaced-everything]]>
+		</link>
+		<description>
+	    <![CDATA["Last night somebody broke into my apartment and replaced everything with exact duplicates... When I pointed it out to my roommate, he said, &quot;Do I know you?" -- Steven Wright]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

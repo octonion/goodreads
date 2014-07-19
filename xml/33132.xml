@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/33132-kyknoord]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/33132-kyknoord" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 07 Aug 2009 04:40:14 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/13974-as-my-father-always-used-to-tell-me-you-see</guid>
+		<pubDate>Fri, 07 Aug 2009 04:40:14 -0700</pubDate>
+		<title>
+			<![CDATA[kyknoord add a quote by Bill Bryson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13974-as-my-father-always-used-to-tell-me-you-see]]>
+		</link>
+		<description>
+	    <![CDATA["As my father always used to tell me, 'You see, son, there's always someone in the world worse off than you.'  And I always used to think, 'So?" -- Bill Bryson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/122271-the-tree-of-nonsense-is-watered-with-error-and-from</guid>
+		<pubDate>Fri, 07 Aug 2009 04:51:49 -0700</pubDate>
+		<title>
+			<![CDATA[kyknoord add a quote by Nick Harkaway]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/122271-the-tree-of-nonsense-is-watered-with-error-and-from]]>
+		</link>
+		<description>
+	    <![CDATA["The tree of nonsense is watered with error, and from its branches swing the pumpkins of disaster." -- Nick Harkaway]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/186518-idiots-emit-bogons-causing-machinery-to-malfunction-in-their-presence</guid>
+		<pubDate>Fri, 17 Dec 2010 16:36:05 -0800</pubDate>
+		<title>
+			<![CDATA[kyknoord add a quote by Charles Stross]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/186518-idiots-emit-bogons-causing-machinery-to-malfunction-in-their-presence]]>
+		</link>
+		<description>
+	    <![CDATA["Idiots emit bogons, causing machinery to malfunction in their presence. System administrators absorb bogons, letting machinery work again." -- Charles Stross]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/712803-russell]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/712803-russell" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 02 Jan 2013 05:25:37 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/374117-as-you-say-of-yourself-i-too-am-an-author-epicurean-114041</guid>
+		<pubDate>Wed, 02 Jan 2013 05:25:37 -0800</pubDate>
+		<title>
+			<![CDATA[Russell add a quote by Thomas Jefferson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/374117-as-you-say-of-yourself-i-too-am-an-author-epicurean-114041]]>
+		</link>
+		<description>
+	    <![CDATA["As you say of yourself, I too am an [author:Epicurean|114041]. I consider the genuine (not the imputed) doctrines of [author:Epicurus|114041] as containing everything rational in moral philosophy which Greece and Rome have left us.
+
+[&lt;i&gt;Letter to William Short, 31 October 1819&lt;/i&gt;]" -- Thomas Jefferson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

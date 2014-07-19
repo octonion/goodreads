@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/980648-ericstiens]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/980648-ericstiens" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 10 Feb 2012 21:20:28 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/395627-you-don-t-have-time-to-chitty-chat-with-loose-women-we</guid>
+		<pubDate>Fri, 10 Feb 2012 21:20:28 -0800</pubDate>
+		<title>
+			<![CDATA[Ericstiens add a quote by Peter Bognanni]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/395627-you-don-t-have-time-to-chitty-chat-with-loose-women-we]]>
+		</link>
+		<description>
+	    <![CDATA["You don't have time to chitty-chat with loose women.  We have work to do.  And you have to save humanity.  That's a lot of shit to get done." -- Peter Bognanni]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/213688-what-passes-for-hip-cynical-transcendence-of-sentiment-is-really</guid>
+		<pubDate>Wed, 03 Oct 2012 10:37:09 -0700</pubDate>
+		<title>
+			<![CDATA[Ericstiens add a quote by David Foster Wallace]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/213688-what-passes-for-hip-cynical-transcendence-of-sentiment-is-really]]>
+		</link>
+		<description>
+	    <![CDATA["What passes for hip cynical transcendence of sentiment is really some kind of fear of being really human, since to be really human [...] is probably to be unavoidably sentimental and naïve and goo-prone and generally pathetic." -- David Foster Wallace]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

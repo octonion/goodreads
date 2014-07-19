@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1037119-linda-koss]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1037119-linda-koss" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 30 Mar 2008 19:02:33 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/39895-of-the-blessings-set-before-you-make-your-choice-and</guid>
+		<pubDate>Sun, 30 Mar 2008 19:02:33 -0700</pubDate>
+		<title>
+			<![CDATA[Linda add a quote by Samuel Johnson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/39895-of-the-blessings-set-before-you-make-your-choice-and]]>
+		</link>
+		<description>
+	    <![CDATA["Of the blessings set before you make your choice, and be content. No man can taste the fruits of autumn while he is delighting his scent with the flowers of the spring: no man can, at the same time, fill his cup from the source and from the mouth of the Nile." -- Samuel Johnson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/199177-gerry-z]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/199177-gerry-z" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 24 Apr 2008 08:31:45 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/47898-to-be-a-poet-is-a-condition-not-a-profession</guid>
+		<pubDate>Thu, 24 Apr 2008 08:31:45 -0700</pubDate>
+		<title>
+			<![CDATA[Gerry add a quote by Robert Frost]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/47898-to-be-a-poet-is-a-condition-not-a-profession]]>
+		</link>
+		<description>
+	    <![CDATA["To be a poet is a condition, not a profession." -- Robert Frost]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2837-logic-will-get-you-from-a-to-z-imagination-will</guid>
+		<pubDate>Thu, 24 Apr 2008 08:48:29 -0700</pubDate>
+		<title>
+			<![CDATA[Gerry add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2837-logic-will-get-you-from-a-to-z-imagination-will]]>
+		</link>
+		<description>
+	    <![CDATA["Logic will get you from A to Z; imagination will get you everywhere." -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/7206-life-is-far-too-important-a-thing-ever-to-talk</guid>
+		<pubDate>Thu, 06 Nov 2008 11:04:32 -0800</pubDate>
+		<title>
+			<![CDATA[Gerry add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7206-life-is-far-too-important-a-thing-ever-to-talk]]>
+		</link>
+		<description>
+	    <![CDATA["Life is far too important a thing ever to talk seriously about." -- Oscar Wilde]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

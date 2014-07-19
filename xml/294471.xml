@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/294471-mike]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/294471-mike" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 26 Dec 2008 16:33:08 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/90661-death-is-lighter-than-a-feather-but-duty-is-heavier</guid>
+		<pubDate>Fri, 26 Dec 2008 16:33:08 -0800</pubDate>
+		<title>
+			<![CDATA[Mike add a quote by Robert Jordan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/90661-death-is-lighter-than-a-feather-but-duty-is-heavier]]>
+		</link>
+		<description>
+	    <![CDATA["Death is lighter than a feather, but Duty is heavier than a mountain." -- Robert Jordan]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/125047-a-man-can-get-killed-in-there</guid>
+		<pubDate>Fri, 26 Dec 2008 16:37:19 -0800</pubDate>
+		<title>
+			<![CDATA[Mike add a quote by Robert Jordan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/125047-a-man-can-get-killed-in-there]]>
+		</link>
+		<description>
+	    <![CDATA["A man can get killed in there." -- Robert Jordan]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

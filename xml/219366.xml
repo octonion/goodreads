@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/219366-erica]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/219366-erica" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 27 Jul 2012 08:20:35 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/66336-pain-and-suffering-are-always-inevitable-for-a-large-intelligence</guid>
+		<pubDate>Fri, 27 Jul 2012 08:20:35 -0700</pubDate>
+		<title>
+			<![CDATA[Erica add a quote by Fyodor Dostoevsky]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/66336-pain-and-suffering-are-always-inevitable-for-a-large-intelligence]]>
+		</link>
+		<description>
+	    <![CDATA["Pain and suffering are always inevitable for a large intelligence and a deep heart. The really great men must, I think, have great sadness on earth." -- Fyodor Dostoevsky]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/282177-my-dear-it-is-a-great-strength-to-have-faced</guid>
+		<pubDate>Mon, 19 Aug 2013 09:05:15 -0700</pubDate>
+		<title>
+			<![CDATA[Erica add a quote by Olaf Stapledon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/282177-my-dear-it-is-a-great-strength-to-have-faced]]>
+		</link>
+		<description>
+	    <![CDATA["My dear, it is a great strength to have faced the worst and to have *felt* it a feature of beauty.  Nothing ever after can shake one." -- Olaf Stapledon]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

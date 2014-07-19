@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/228638-brette]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/228638-brette" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 12 Nov 2010 18:43:00 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/269442-the-heavy-red-roses-smoldering-in-the-foggy-morning-blood-colored</guid>
+		<pubDate>Fri, 12 Nov 2010 18:43:00 -0800</pubDate>
+		<title>
+			<![CDATA[Brette add a quote by Knut Hamsun]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/269442-the-heavy-red-roses-smoldering-in-the-foggy-morning-blood-colored]]>
+		</link>
+		<description>
+	    <![CDATA["The heavy red roses smoldering in the foggy morning, blood-colored and uninhibited, made me greedy, and tempted me powerfully to steal one--I asked the prices merely so I could come as near them as possible." -- Knut Hamsun]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/78439-and-they-lived-happily-aside-from-a-few-normal-disagreements</guid>
+		<pubDate>Fri, 12 Nov 2010 18:57:33 -0800</pubDate>
+		<title>
+			<![CDATA[Brette add a quote by Jean Ferris]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/78439-and-they-lived-happily-aside-from-a-few-normal-disagreements]]>
+		</link>
+		<description>
+	    <![CDATA["And they lived happily (aside from a few normal disagreements, misunderstandings, pouts, silent treatments, and unexpected calamities) ever after." -- Jean Ferris]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/230747-julie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/230747-julie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 28 Jan 2008 08:42:28 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/18483-i-would-rather-sit-on-a-pumpkin-and-have-it</guid>
+		<pubDate>Mon, 28 Jan 2008 08:42:28 -0800</pubDate>
+		<title>
+			<![CDATA[Julie add a quote by Henry David Thoreau]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18483-i-would-rather-sit-on-a-pumpkin-and-have-it]]>
+		</link>
+		<description>
+	    <![CDATA["I would rather sit on a pumpkin, and have it all to myself, than be crowded on a velvet cushion." -- Henry David Thoreau]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/18484-now-i-know-what-a-ghost-is-unfinished-business-that-s</guid>
+		<pubDate>Mon, 28 Jan 2008 08:44:44 -0800</pubDate>
+		<title>
+			<![CDATA[Julie add a quote by Salman Rushdie]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18484-now-i-know-what-a-ghost-is-unfinished-business-that-s]]>
+		</link>
+		<description>
+	    <![CDATA["Now I know what a ghost is. Unfinished business, that's what." -- Salman Rushdie]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

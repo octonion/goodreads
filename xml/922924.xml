@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/922924-janna]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/922924-janna" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 28 Feb 2008 11:19:23 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/27241-the-world-looks-for-happiness-through-self-assertion-the-christian-knows</guid>
+		<pubDate>Thu, 28 Feb 2008 11:19:23 -0800</pubDate>
+		<title>
+			<![CDATA[Janna add a quote by Elisabeth Elliot]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/27241-the-world-looks-for-happiness-through-self-assertion-the-christian-knows]]>
+		</link>
+		<description>
+	    <![CDATA["The world looks for happiness through self-assertion. The Christian knows that joy is found in self-abandonment. 'If a man will let himself be lost for My sake,' Jesus said, 'he will find his true self.' A Christian woman's true freedom lies on the other side of a very small gate---humble obedience---but that gate leads out into a largeness of life undreamed of by the liberators of the world, to a place where the God-given differentiation between the sexes is not obfuscated but celebrated, where our inequalities are seen as essential to the image of God, for it is in male and female, in male as male and female as female, not as two identical and interchangeable halves, that the image is manifested." -- Elisabeth Elliot]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2919-he-is-no-fool-who-gives-what-he-cannot-keep</guid>
+		<pubDate>Thu, 28 Feb 2008 11:19:32 -0800</pubDate>
+		<title>
+			<![CDATA[Janna add a quote by Jim Elliot]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2919-he-is-no-fool-who-gives-what-he-cannot-keep]]>
+		</link>
+		<description>
+	    <![CDATA["He is no fool who gives what he cannot keep to gain that which he cannot lose." -- Jim Elliot]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

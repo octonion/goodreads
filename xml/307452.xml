@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/307452-kimberly]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/307452-kimberly" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 19 Jan 2012 17:24:14 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/487189-books-say-she-did-this-because-life-says-she-did</guid>
+		<pubDate>Thu, 19 Jan 2012 17:24:14 -0800</pubDate>
+		<title>
+			<![CDATA[kimberly add a quote by Julian Barnes]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/487189-books-say-she-did-this-because-life-says-she-did]]>
+		</link>
+		<description>
+	    <![CDATA["Books say: She did this because. Life says: She did this. Books are where things are explained to you; life is where things aren't. I'm not surprised some people prefer books." -- Julian Barnes]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/619159-bigots-see-something-they-expect-and-then-they-stop-thinking</guid>
+		<pubDate>Mon, 21 Apr 2014 06:15:15 -0700</pubDate>
+		<title>
+			<![CDATA[kimberly add a quote by Jim Butcher]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/619159-bigots-see-something-they-expect-and-then-they-stop-thinking]]>
+		</link>
+		<description>
+	    <![CDATA["Bigots see something they expect and then they stop thinking about what is in front of them.  It's probably how they got to be bigots in the first place." -- Jim Butcher]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/260218-the-only-real-prison-is-fear-and-the-only-real</guid>
+		<pubDate>Thu, 19 Jun 2014 12:22:42 -0700</pubDate>
+		<title>
+			<![CDATA[kimberly add a quote by Aung San Suu Kyi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/260218-the-only-real-prison-is-fear-and-the-only-real]]>
+		</link>
+		<description>
+	    <![CDATA["The only real prison is fear, and the only real freedom is freedom from fear" -- Aung San Suu Kyi]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

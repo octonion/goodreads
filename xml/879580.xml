@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/879580-amy-dickson]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/879580-amy-dickson" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 30 Mar 2011 22:31:16 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/28959-were-i-a-roman-catholic-perhaps-i-should-on-this</guid>
+		<pubDate>Wed, 30 Mar 2011 22:31:16 -0700</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Benjamin Franklin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/28959-were-i-a-roman-catholic-perhaps-i-should-on-this]]>
+		</link>
+		<description>
+	    <![CDATA["Were I a Roman Catholic, perhaps I should on this occasion vow to build a chapel to some saint, but as I am not, if I were to vow at all, it should be to build a light-house.
+
+[Letter to his wife, 17 July 1757, after narrowly avoiding a shipwreck; often misquoted as &quot;Lighthouses are more helpful than churches.&quot;]" -- Benjamin Franklin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

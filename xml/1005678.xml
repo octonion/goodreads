@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1005678-melanie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1005678-melanie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 19 Mar 2008 16:30:26 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6146-war-is-peace-freedom-is-slavery-ignorance-is-strength</guid>
+		<pubDate>Wed, 19 Mar 2008 16:30:26 -0700</pubDate>
+		<title>
+			<![CDATA[Melanie add a quote by George Orwell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6146-war-is-peace-freedom-is-slavery-ignorance-is-strength]]>
+		</link>
+		<description>
+	    <![CDATA["War is peace. 
+Freedom is slavery. 
+Ignorance is strength." -- George Orwell]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/8716-and-in-that-moment-i-swear-we-were-infinite</guid>
+		<pubDate>Wed, 19 Mar 2008 16:33:12 -0700</pubDate>
+		<title>
+			<![CDATA[Melanie add a quote by Stephen Chbosky]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8716-and-in-that-moment-i-swear-we-were-infinite]]>
+		</link>
+		<description>
+	    <![CDATA["And in that moment, I swear we were infinite." -- Stephen Chbosky]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/958902-first-they-came-for-the-communists-and-i-didn-t-speak</guid>
+		<pubDate>Mon, 09 Dec 2013 08:48:40 -0800</pubDate>
+		<title>
+			<![CDATA[Melanie add a quote by Martin Niemöller]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/958902-first-they-came-for-the-communists-and-i-didn-t-speak]]>
+		</link>
+		<description>
+	    <![CDATA["First they came for the communists,
+and I didn't speak out because I wasn't a communist.
+Then they came for the socialists,
+and I didn't speak out because I wasn't a socialist.
+Then they came for the unionists,
+and I didn't speak out because I wasn't a trade unionist.
+Then they came for the Jews,
+and I didn't speak out because I was not a Jew.
+Then they came for the Catholics,
+and I didn't speak out because I was not a Catholic.
+Then they came for me,
+and there was no one left to speak for me." -- Martin Niemöller]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

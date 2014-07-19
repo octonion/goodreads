@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/922435-lynn]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/922435-lynn" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 28 Jul 2008 08:16:39 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/12018-love-is-the-ultimate-outlaw-it-just-won-t-adhere-to</guid>
+		<pubDate>Mon, 28 Jul 2008 08:16:39 -0700</pubDate>
+		<title>
+			<![CDATA[Lynn add a quote by Tom Robbins]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12018-love-is-the-ultimate-outlaw-it-just-won-t-adhere-to]]>
+		</link>
+		<description>
+	    <![CDATA["Love is the ultimate outlaw. It just won't adhere to any rules. The most any of us can do is to sign on as its accomplice. Instead of vowing to honor and obey, maybe we should swear to aid and abet. That would mean that security is out of the question. The words &quot;make&quot; and &quot;stay&quot; become inappropriate. My love for you has no strings attached. I love you for free." -- Tom Robbins]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

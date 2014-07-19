@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/96212-pavarti-tyler]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/96212-pavarti-tyler" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 29 Mar 2011 09:50:51 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/65611-i-am-an-excitable-person-who-only-understands-life-lyrically</guid>
+		<pubDate>Tue, 29 Mar 2011 09:50:51 -0700</pubDate>
+		<title>
+			<![CDATA[Pavarti add a quote by Anais Nin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/65611-i-am-an-excitable-person-who-only-understands-life-lyrically]]>
+		</link>
+		<description>
+	    <![CDATA["I am an excitable person who only understands life lyrically, musically, in whom feelings are much stronger as reason. I am so thirsty for the marvelous that only the marvelous has power over me. Anything I can not transform into something marvelous, I let go. Reality doesn't impress me. I only believe in intoxication, in ecstasy, and when ordinary life shackles me, I escape, one way or another. No more walls." -- Anais Nin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

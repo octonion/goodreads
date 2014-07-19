@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1096137-sue]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1096137-sue" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 18 Apr 2008 17:40:05 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4900-the-best-and-most-beautiful-things-in-the-world-cannot</guid>
+		<pubDate>Fri, 18 Apr 2008 17:40:05 -0700</pubDate>
+		<title>
+			<![CDATA[Sue add a quote by Helen Keller]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4900-the-best-and-most-beautiful-things-in-the-world-cannot]]>
+		</link>
+		<description>
+	    <![CDATA["The best and most beautiful things in the world cannot be seen or even touched. They must be felt with the heart" -- Helen Keller]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/12807-a-kiss-is-a-lovely-trick-designed-by-nature-to</guid>
+		<pubDate>Wed, 23 Apr 2008 20:31:43 -0700</pubDate>
+		<title>
+			<![CDATA[Sue add a quote by Ingrid Bergman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12807-a-kiss-is-a-lovely-trick-designed-by-nature-to]]>
+		</link>
+		<description>
+	    <![CDATA["A kiss is a lovely trick designed by nature to stop speech when words become superfluous." -- Ingrid Bergman]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

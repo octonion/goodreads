@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/142126-erin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/142126-erin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 02 Sep 2008 12:33:12 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1598-you-only-live-once-but-if-you-do-it-right</guid>
+		<pubDate>Tue, 02 Sep 2008 12:33:12 -0700</pubDate>
+		<title>
+			<![CDATA[Erin add a quote by Mae West]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1598-you-only-live-once-but-if-you-do-it-right]]>
+		</link>
+		<description>
+	    <![CDATA["You only live once, but if you do it right, once is enough." -- Mae West]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1958-whenever-i-feel-the-need-to-exercise-i-lie-down</guid>
+		<pubDate>Tue, 02 Sep 2008 12:34:15 -0700</pubDate>
+		<title>
+			<![CDATA[Erin add a quote by Paul   Terry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1958-whenever-i-feel-the-need-to-exercise-i-lie-down]]>
+		</link>
+		<description>
+	    <![CDATA["Whenever I feel the need to exercise, I lie down until it goes away." -- Paul   Terry]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/22-beauty-is-in-the-eye-of-the-beholder-and-it</guid>
+		<pubDate>Tue, 02 Sep 2008 12:34:59 -0700</pubDate>
+		<title>
+			<![CDATA[Erin add a quote by Miss Piggy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22-beauty-is-in-the-eye-of-the-beholder-and-it]]>
+		</link>
+		<description>
+	    <![CDATA["Beauty is in the eye of the beholder and it may be necessary from time to time to give a stupid or misinformed beholder a black eye." -- Miss Piggy]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/893137-teri]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/893137-teri" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 17 Nov 2012 13:25:16 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/19797-the-only-reason-we-don-t-open-our-hearts-and-minds</guid>
+		<pubDate>Sat, 17 Nov 2012 13:25:16 -0800</pubDate>
+		<title>
+			<![CDATA[Teri add a quote by Pema Chodron]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/19797-the-only-reason-we-don-t-open-our-hearts-and-minds]]>
+		</link>
+		<description>
+	    <![CDATA["The only reason we don't open our hearts and minds to other people is that they trigger confusion in us that we don't feel brave enough or sane enough to deal with. To the degree that we look clearly and compassionately at ourselves, we feel confident and fearless about looking into someone else's eyes. " -- Pema Chodron]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

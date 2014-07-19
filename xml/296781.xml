@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/296781-nat]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/296781-nat" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 12 Nov 2008 21:22:53 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/9432-so-friends-every-day-do-something-that-won-t-compute-give-your</guid>
+		<pubDate>Wed, 12 Nov 2008 21:22:53 -0800</pubDate>
+		<title>
+			<![CDATA[Nat add a quote by Wendell Berry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9432-so-friends-every-day-do-something-that-won-t-compute-give-your]]>
+		</link>
+		<description>
+	    <![CDATA["So, friends, every day do something that won't compute...Give your approval to all you cannot understand...Ask the questions that have no answers. Put your faith in two inches of humus that will build under the trees every thousand years...Laugh. Be joyful though you have considered all the facts....Practice resurrection." -- Wendell Berry]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/352-outside-of-a-dog-a-book-is-man-s-best-friend</guid>
+		<pubDate>Thu, 15 Jan 2009 19:34:13 -0800</pubDate>
+		<title>
+			<![CDATA[Nat add a quote by Groucho Marx]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/352-outside-of-a-dog-a-book-is-man-s-best-friend]]>
+		</link>
+		<description>
+	    <![CDATA["Outside of a dog, a book is man's best friend. Inside of a dog it's too dark to read." -- Groucho Marx]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

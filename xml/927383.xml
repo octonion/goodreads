@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/927383-vee]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/927383-vee" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 24 Jan 2013 19:48:02 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/374619-he-called-me-a-pie-she-announced-defensively-there-was</guid>
+		<pubDate>Thu, 24 Jan 2013 19:48:02 -0800</pubDate>
+		<title>
+			<![CDATA[Vee add a quote by Sarah MacLean]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/374619-he-called-me-a-pie-she-announced-defensively-there-was]]>
+		</link>
+		<description>
+	    <![CDATA["He called me a pie!” she announced, defensively. There was a pause. “Wait. That’s not right.”
+“A tart?”
+“Yes! That’s it!" -- Sarah MacLean]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

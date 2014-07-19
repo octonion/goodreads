@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/374974-e]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/374974-e" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 04 Jul 2011 10:12:34 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/152095-we-should-not-pretend-to-understand-the-world-only-by</guid>
+		<pubDate>Mon, 04 Jul 2011 10:12:34 -0700</pubDate>
+		<title>
+			<![CDATA[e add a quote by Carl Gustav Jung]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/152095-we-should-not-pretend-to-understand-the-world-only-by]]>
+		</link>
+		<description>
+	    <![CDATA["We should not pretend to understand the world only by the intellect; we apprehend it just as much by feeling. Therefore, the judgment of the intellect is, at best, only the half of truth, and must, if it be honest, also come to an understanding of its inadequacy." -- Carl Gustav Jung]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/197532-in-a-conflict-between-the-heart-and-the-brain-follow</guid>
+		<pubDate>Sat, 22 Oct 2011 14:26:29 -0700</pubDate>
+		<title>
+			<![CDATA[e add a quote by Swami Vivekananda]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/197532-in-a-conflict-between-the-heart-and-the-brain-follow]]>
+		</link>
+		<description>
+	    <![CDATA["In a conflict between the heart and the brain, follow your heart. " -- Swami Vivekananda]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

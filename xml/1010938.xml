@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1010938-zack-replica]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1010938-zack-replica" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 21 Mar 2008 01:13:48 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/36875-paper-will-put-up-with-anything-that-is-written-on</guid>
+		<pubDate>Fri, 21 Mar 2008 01:13:48 -0700</pubDate>
+		<title>
+			<![CDATA[Zack add a quote by I. V. Dzhugashvili]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/36875-paper-will-put-up-with-anything-that-is-written-on]]>
+		</link>
+		<description>
+	    <![CDATA["Paper will put up with anything that is written on it." -- I. V. Dzhugashvili]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/63494-it-is-forbidden-to-kill-therefore-all-murderers-are-punished</guid>
+		<pubDate>Tue, 11 Mar 2014 22:52:09 -0700</pubDate>
+		<title>
+			<![CDATA[Zack add a quote by Voltaire]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/63494-it-is-forbidden-to-kill-therefore-all-murderers-are-punished]]>
+		</link>
+		<description>
+	    <![CDATA["It is forbidden to kill; therefore all murderers are punished unless they kill in large numbers and to the sound of trumpets." -- Voltaire]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

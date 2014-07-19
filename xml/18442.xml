@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/18442-joy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/18442-joy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 28 Jun 2008 08:02:44 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/25-we-are-all-in-the-gutter-but-some-of-us</guid>
+		<pubDate>Sat, 28 Jun 2008 08:02:44 -0700</pubDate>
+		<title>
+			<![CDATA[Joy add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/25-we-are-all-in-the-gutter-but-some-of-us]]>
+		</link>
+		<description>
+	    <![CDATA["We are all in the gutter, but some of us are looking at the stars." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/54048-the-jewish-sages-also-tell-us-that-god-dances-when</guid>
+		<pubDate>Wed, 11 Feb 2009 12:05:59 -0800</pubDate>
+		<title>
+			<![CDATA[Joy add a quote by Mary Doria Russell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/54048-the-jewish-sages-also-tell-us-that-god-dances-when]]>
+		</link>
+		<description>
+	    <![CDATA["The Jewish sages also tell us that God dances when His children defeat Him in argument, when they stand on their feet and use their minds.  So questions like Anne's are worth asking.  To ask them is a very fine kind of human behavior.  If we keep demanding that God yield up His answers, perhaps some day we will understand them.  And then we will be something more than clever apes, and we shall dance with God." -- Mary Doria Russell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

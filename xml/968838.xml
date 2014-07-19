@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/968838-carol]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/968838-carol" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 09 Mar 2008 17:36:48 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/8091-i-hope-the-exit-is-joyful-and-i-hope-never</guid>
+		<pubDate>Sun, 09 Mar 2008 17:36:48 -0700</pubDate>
+		<title>
+			<![CDATA[Carol add a quote by Frida Kahlo]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8091-i-hope-the-exit-is-joyful-and-i-hope-never]]>
+		</link>
+		<description>
+	    <![CDATA["I hope the exit is joyful and i hope never to return." -- Frida Kahlo]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/19842-ultimately-though-it-s-living-people-that-frighten-me-the-most</guid>
+		<pubDate>Sun, 09 Mar 2008 17:41:17 -0700</pubDate>
+		<title>
+			<![CDATA[Carol add a quote by Banana Yoshimoto]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/19842-ultimately-though-it-s-living-people-that-frighten-me-the-most]]>
+		</link>
+		<description>
+	    <![CDATA["Ultimately, though, it's living people that frighten me the most.  It's always seemed to me that nothing could be scarier than a person, because as dreadful places can be, they're still just places; and no matter how awful ghosts might seem, they're just dead people.  I always thought that the most terrifying things anyone could ever think up were the things living people came up with. " -- Banana Yoshimoto]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

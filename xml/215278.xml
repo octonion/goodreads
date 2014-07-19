@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/215278-joseph]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/215278-joseph" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 26 Aug 2011 12:46:56 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/427346-but-when-ye-come-and-all-the-flowers-are-dying</guid>
+		<pubDate>Fri, 26 Aug 2011 12:46:56 -0700</pubDate>
+		<title>
+			<![CDATA[Joseph add a quote by Frederic Weatherly]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/427346-but-when-ye-come-and-all-the-flowers-are-dying]]>
+		</link>
+		<description>
+	    <![CDATA["But when ye come, and all the flowers are dying,
+If I am dead, as dead I well may be,
+You'll come and find the place where I am lying,
+And kneel and say Ave there for me,
+And I shall hear, though soft you tread above me,
+And all my grave will warmer, sweeter be,
+For you will bend and tell me that you love me,
+And I shall sleep in peace until you come to me" -- Frederic Weatherly]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

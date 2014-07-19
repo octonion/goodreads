@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/772287-anne]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/772287-anne" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 15 Jan 2008 14:13:13 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/12482-those-who-think-they-know-it-all-have-no-way</guid>
+		<pubDate>Tue, 15 Jan 2008 14:13:13 -0800</pubDate>
+		<title>
+			<![CDATA[Anne add a quote by Leo Buscaglia]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12482-those-who-think-they-know-it-all-have-no-way]]>
+		</link>
+		<description>
+	    <![CDATA["Those who think they know it all have no way of finding out they don't.." -- Leo Buscaglia]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4194-i-am-a-woman-phenomenally-phenomenal-woman-that-s-me</guid>
+		<pubDate>Tue, 22 Jan 2008 07:18:12 -0800</pubDate>
+		<title>
+			<![CDATA[Anne add a quote by Maya Angelou]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4194-i-am-a-woman-phenomenally-phenomenal-woman-that-s-me]]>
+		</link>
+		<description>
+	    <![CDATA["I am a Woman
+Phenomenally.
+Phenomenal Woman,
+that's me." -- Maya Angelou]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1208-success-is-liking-yourself-liking-what-you-do-and-liking</guid>
+		<pubDate>Tue, 22 Jan 2008 07:18:28 -0800</pubDate>
+		<title>
+			<![CDATA[Anne add a quote by Maya Angelou]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1208-success-is-liking-yourself-liking-what-you-do-and-liking]]>
+		</link>
+		<description>
+	    <![CDATA["Success is liking yourself, liking what you do, and liking how you do it." -- Maya Angelou]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

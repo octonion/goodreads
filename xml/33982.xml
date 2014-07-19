@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/33982-laura]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/33982-laura" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 04 Mar 2008 08:28:38 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/30858-every-woman-is-a-rebel</guid>
+		<pubDate>Tue, 04 Mar 2008 08:28:38 -0800</pubDate>
+		<title>
+			<![CDATA[Laura add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/30858-every-woman-is-a-rebel]]>
+		</link>
+		<description>
+	    <![CDATA["Every woman is a rebel." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/60855-i-am-looking-for-friends-what-does-that-mean---</guid>
+		<pubDate>Fri, 05 Jul 2013 09:20:40 -0700</pubDate>
+		<title>
+			<![CDATA[Laura add a quote by Antoine de Saint-Exupéry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/60855-i-am-looking-for-friends-what-does-that-mean---]]>
+		</link>
+		<description>
+	    <![CDATA["I am looking for friends. What does that mean -- tame?&quot;
+
+&quot;It is an act too often neglected,&quot; said the fox. &quot;It means to establish ties.&quot; 
+
+&quot;To establish ties?&quot; 
+
+&quot;Just that,&quot; said the fox. &quot;To me, you are still nothing more than a little boy who is just like a hundred thousand other little boys. And I have no need of you. And you, on your part, have no need of me. To you I am nothing more than a fox like a hundred thousand other foxes. But if you tame me, then we shall need each other. To me, you will be unique in all the world. To you, I shall be unique in all the world...." -- Antoine de Saint-Exupéry]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/211264-sedge]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/211264-sedge" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 12 May 2009 11:52:16 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/136820-the-beginning-of-christendom-is-strictly-at-a-point-out</guid>
+		<pubDate>Tue, 12 May 2009 11:52:16 -0700</pubDate>
+		<title>
+			<![CDATA[Sedge add a quote by Charles Walter Stansby Williams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/136820-the-beginning-of-christendom-is-strictly-at-a-point-out]]>
+		</link>
+		<description>
+	    <![CDATA["The beginning of Christendom, is, strictly, at a point out of time.  A metphysical trigonometry finds it among the spiritual Secrets, at the meeting of two heavenward lines, one drawn from Bethany along the Ascent of the Messias, the other from Jerusalem against the Descent of the Paraclete.  That measurement, the measurement of eternity in operation, of the bright cloud and the rushing wind, is, in effect, theology." -- Charles Walter Stansby Williams]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

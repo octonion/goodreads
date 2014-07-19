@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/979425-kailash-bruder]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/979425-kailash-bruder" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 02 Mar 2013 18:00:32 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/285787-sit-in-a-room-and-read--and-read-and-read-and</guid>
+		<pubDate>Sat, 02 Mar 2013 18:00:32 -0800</pubDate>
+		<title>
+			<![CDATA[Kailash add a quote by Joseph Campbell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/285787-sit-in-a-room-and-read--and-read-and-read-and]]>
+		</link>
+		<description>
+	    <![CDATA["Sit in a room and read--and read and read. And read the right books by the right people. Your mind is brought onto that level, and you have a nice, mild, slow-burning rapture all the time." -- Joseph Campbell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

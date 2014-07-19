@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1042780-marybeth]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1042780-marybeth" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 06 Jun 2008 15:08:48 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/18508-eat-food-not-too-much-mostly-plants</guid>
+		<pubDate>Fri, 06 Jun 2008 15:08:48 -0700</pubDate>
+		<title>
+			<![CDATA[Marybeth add a quote by Michael Pollan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18508-eat-food-not-too-much-mostly-plants]]>
+		</link>
+		<description>
+	    <![CDATA["Eat food.  Not too much.  Mostly plants." -- Michael Pollan]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/49549-what-a-long-strange-trip-it-s-been</guid>
+		<pubDate>Fri, 06 Jun 2008 15:39:28 -0700</pubDate>
+		<title>
+			<![CDATA[Marybeth add a quote by Jerry Garcia]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/49549-what-a-long-strange-trip-it-s-been]]>
+		</link>
+		<description>
+	    <![CDATA["What a long strange trip it's been." -- Jerry Garcia]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/44521-people-will-tell-you-were-they-have-gone-they-ll-tell</guid>
+		<pubDate>Fri, 06 Jun 2008 15:43:18 -0700</pubDate>
+		<title>
+			<![CDATA[Marybeth add a quote by Joni Mitchell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/44521-people-will-tell-you-were-they-have-gone-they-ll-tell]]>
+		</link>
+		<description>
+	    <![CDATA["people will tell you were they have gone, they'll tell you where to go, but until you get there for yourself you never really know." -- Joni Mitchell]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/41079-do-you-know-the-difference-between-education-and-experience-education</guid>
+		<pubDate>Fri, 06 Jun 2008 15:43:59 -0700</pubDate>
+		<title>
+			<![CDATA[Marybeth add a quote by Pete Seeger]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/41079-do-you-know-the-difference-between-education-and-experience-education]]>
+		</link>
+		<description>
+	    <![CDATA["Do you know the difference between education and experience?  Education is when you read the fine print; experience is what you get when you don't. " -- Pete Seeger]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

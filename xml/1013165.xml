@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1013165-gayle]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1013165-gayle" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 27 Mar 2008 12:44:22 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/38924-value-the-process</guid>
+		<pubDate>Thu, 27 Mar 2008 12:44:22 -0700</pubDate>
+		<title>
+			<![CDATA[Gayle add a quote by Robert Rauschenberg]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/38924-value-the-process]]>
+		</link>
+		<description>
+	    <![CDATA["Value the process." -- Robert Rauschenberg]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/109041-creativity-can-solve-almost-any-problem-the-creative-act-the</guid>
+		<pubDate>Fri, 10 Apr 2009 05:40:27 -0700</pubDate>
+		<title>
+			<![CDATA[Gayle add a quote by George Lois]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/109041-creativity-can-solve-almost-any-problem-the-creative-act-the]]>
+		</link>
+		<description>
+	    <![CDATA["Creativity can solve almost any problem. The creative act, the defeat of habit by originality, overcomes everything." -- George Lois]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

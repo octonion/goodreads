@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/69627-alexis]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/69627-alexis" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 05 Sep 2012 11:41:50 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/16821-if-you-go-home-with-somebody-and-they-don-t-have</guid>
+		<pubDate>Wed, 05 Sep 2012 11:41:50 -0700</pubDate>
+		<title>
+			<![CDATA[Alexis add a quote by John Waters]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16821-if-you-go-home-with-somebody-and-they-don-t-have]]>
+		</link>
+		<description>
+	    <![CDATA["If you go home with somebody, and they don't have books, don't fuck 'em!" -- John Waters]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/338346-i-love-you-not-only-for-what-you-are-but</guid>
+		<pubDate>Sun, 09 Feb 2014 17:05:27 -0800</pubDate>
+		<title>
+			<![CDATA[Alexis add a quote by Roy Croft]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/338346-i-love-you-not-only-for-what-you-are-but]]>
+		</link>
+		<description>
+	    <![CDATA["I love you not only for what you are, but for what I am when I am with you. I love you not only for what you have made of yourself, but for what you are making of me. I love you for the part of me that you bring out." -- Roy Croft]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1036049-you-ll-never-regret-eating-blueberries-or-working-up-a-sweat</guid>
+		<pubDate>Tue, 11 Feb 2014 21:53:27 -0800</pubDate>
+		<title>
+			<![CDATA[Alexis add a quote by Jacquelyn Mitchard]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1036049-you-ll-never-regret-eating-blueberries-or-working-up-a-sweat]]>
+		</link>
+		<description>
+	    <![CDATA["You'll never regret eating blueberries or working up a sweat." -- Jacquelyn Mitchard]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

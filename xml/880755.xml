@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/880755-dr-francine]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/880755-dr-francine" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 18 Aug 2013 09:36:08 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/349319-some-animal-rights-activists-are-demanding-vegetarianism-even-veganism-now</guid>
+		<pubDate>Sun, 18 Aug 2013 09:36:08 -0700</pubDate>
+		<title>
+			<![CDATA[Dr. add a quote by Steven Wise]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/349319-some-animal-rights-activists-are-demanding-vegetarianism-even-veganism-now]]>
+		</link>
+		<description>
+	    <![CDATA["Some animal rights activists are demanding vegetarianism, even veganism now, or nothing. But since only 4 or 5 percent of Americans claim to be vegetarians, 'nothing' is the far more likely outcome. I ask these activists to weigh the horrors of Bladen County's industrial farms and the Tar Heel slaughterhouse against the consequences of doing nothing to alleviate the hour-to-hour sufferings of its victims. Is not a life lived off the factory farm and a death humanely inflicted superior to the terrible lives we know they lead and the horrible deaths we know they suffer in Bladen County today?" -- Steven Wise]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

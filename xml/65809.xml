@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/65809-janet]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/65809-janet" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 30 Jan 2014 13:59:08 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1018243-and-the-tide-shrinks-back-into-its-womb-and-i</guid>
+		<pubDate>Thu, 30 Jan 2014 13:59:08 -0800</pubDate>
+		<title>
+			<![CDATA[janet add a quote by King Creosote]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1018243-and-the-tide-shrinks-back-into-its-womb-and-i]]>
+		</link>
+		<description>
+	    <![CDATA["And the tide shrinks back into its womb
+And I hope the empty shells and bones of your stories
+Will litter and clutter the shores
+And I hope that when I find them
+I’ll remember how they danced
+And the racket they made
+When they were alive" -- King Creosote]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/646531-in-one-aspect-yes-i-believe-in-ghosts-but-we</guid>
+		<pubDate>Wed, 12 Dec 2012 07:18:19 -0800</pubDate>
+		<title>
+			<![CDATA[janet add a quote by Laurie Halse Anderson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/646531-in-one-aspect-yes-i-believe-in-ghosts-but-we]]>
+		</link>
+		<description>
+	    <![CDATA["In one aspect, yes, I believe in ghosts, but we create them. We haunt ourselves." -- Laurie Halse Anderson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

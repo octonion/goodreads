@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1030252-puddlescript]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1030252-puddlescript" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 25 May 2009 20:19:31 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/141051-i-once-knew-a-woman-who-liked-to-imagine-love</guid>
+		<pubDate>Mon, 25 May 2009 20:19:31 -0700</pubDate>
+		<title>
+			<![CDATA[puddlescript add a quote by Andrew Davidson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/141051-i-once-knew-a-woman-who-liked-to-imagine-love]]>
+		</link>
+		<description>
+	    <![CDATA["I once knew a woman who liked to imagine Love in the guise of a sturdy dog, one that would always chase down the stick after it was thrown and return with his ears flopping around happily. Completely loyal, completely unconditional. And I laughed at her, because even I knew that love is not like that. Love is a delicate thing that needs to be cosseted and protected. Love is not robust and love is not unyeilding. Love can crumble under a few harsh words, or be tossed away with a handful of careless actions. Love isn't a steadfast dog at all; love is more like a pygmy mouse lemur. " -- Andrew Davidson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

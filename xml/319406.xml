@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/319406-kerry]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/319406-kerry" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 17 Dec 2010 16:36:09 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2816-by-the-pricking-of-my-thumbs-something-wicked-this-way</guid>
+		<pubDate>Fri, 17 Dec 2010 16:36:09 -0800</pubDate>
+		<title>
+			<![CDATA[Kerry add a quote by William Shakespeare]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2816-by-the-pricking-of-my-thumbs-something-wicked-this-way]]>
+		</link>
+		<description>
+	    <![CDATA["By the pricking of my thumbs, 
+Something wicked this way comes." -- William Shakespeare]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/905848-champagne-if-you-are-seeking-the-truth-is-better-than</guid>
+		<pubDate>Wed, 02 Oct 2013 15:32:28 -0700</pubDate>
+		<title>
+			<![CDATA[Kerry add a quote by Graham Greene]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/905848-champagne-if-you-are-seeking-the-truth-is-better-than]]>
+		</link>
+		<description>
+	    <![CDATA["Champagne, if you are seeking the truth, is better than a lie detector." -- Graham Greene]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

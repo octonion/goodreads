@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/920029-zephyre]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/920029-zephyre" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 29 Feb 2008 22:20:40 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6805-sometimes-the-questions-are-complicated-and-the-answers-are-simple</guid>
+		<pubDate>Fri, 29 Feb 2008 22:20:40 -0800</pubDate>
+		<title>
+			<![CDATA[Zephyre add a quote by Dr. Seuss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6805-sometimes-the-questions-are-complicated-and-the-answers-are-simple]]>
+		</link>
+		<description>
+	    <![CDATA["Sometimes the questions are complicated and the answers are simple." -- Dr. Seuss]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/29253-confine-yourself-to-observing-and-you-always-miss-the-point</guid>
+		<pubDate>Fri, 29 Feb 2008 22:25:11 -0800</pubDate>
+		<title>
+			<![CDATA[Zephyre add a quote by Frank Herbert]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/29253-confine-yourself-to-observing-and-you-always-miss-the-point]]>
+		</link>
+		<description>
+	    <![CDATA["Confine yourself to observing and you always miss the point of your life. The object can be stated this way: Live the best life you can. Life is a game whose rules you learn if you leap into it and play it to the hilt. Otherwise, you are caught off balance, continually surprised by the shifting play. Non-players often whine and complain that luck always passes them by. They refuse to see that they can create some of their own luck.
+Darwi Odrade - Chapterhouse: Dune" -- Frank Herbert]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/13719-we-are-what-we-pretend-to-be-so-we-must</guid>
+		<pubDate>Fri, 29 Feb 2008 22:31:56 -0800</pubDate>
+		<title>
+			<![CDATA[Zephyre add a quote by Kurt Vonnegut]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13719-we-are-what-we-pretend-to-be-so-we-must]]>
+		</link>
+		<description>
+	    <![CDATA["We are what we pretend to be, so we must be careful about what we pretend to be." -- Kurt Vonnegut]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

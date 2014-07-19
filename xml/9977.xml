@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/9977-bobby]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/9977-bobby" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 15 Jul 2013 19:17:18 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/652266-our-lives-are-not-our-own-we-are-bound-to</guid>
+		<pubDate>Mon, 15 Jul 2013 19:17:18 -0700</pubDate>
+		<title>
+			<![CDATA[Bobby add a quote by David Mitchell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/652266-our-lives-are-not-our-own-we-are-bound-to]]>
+		</link>
+		<description>
+	    <![CDATA["Our lives are not our own. We are bound to others, past and present, and by each crime and every kindness, we birth our future." -- David Mitchell]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/22569-make-voyages-attempt-them-there-s-nothing-else</guid>
+		<pubDate>Thu, 26 Sep 2013 06:30:15 -0700</pubDate>
+		<title>
+			<![CDATA[Bobby add a quote by Tennesse Williams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22569-make-voyages-attempt-them-there-s-nothing-else]]>
+		</link>
+		<description>
+	    <![CDATA["Make voyages. Attempt them. There's nothing else." -- Tennesse Williams]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1274026-winston-glanced-across-the-hall-in-the-corresponding-cubicle-on</guid>
+		<pubDate>Sat, 05 Jul 2014 05:14:39 -0700</pubDate>
+		<title>
+			<![CDATA[Bobby add a quote by George Orwell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1274026-winston-glanced-across-the-hall-in-the-corresponding-cubicle-on]]>
+		</link>
+		<description>
+	    <![CDATA["Winston glanced across the hall. In the corresponding cubicle on the other side a small, precise-looking, dark-chinned man named Tillotson was working steadily away, with a folded newspaper on his knee and his mouth very close to the mouthpiece of the speakwrite." -- George Orwell]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1274035-to-the-right-of-the-speakwrite-a-small-pneumatic-tube</guid>
+		<pubDate>Sat, 05 Jul 2014 05:29:40 -0700</pubDate>
+		<title>
+			<![CDATA[Bobby add a quote by George Orwell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1274035-to-the-right-of-the-speakwrite-a-small-pneumatic-tube]]>
+		</link>
+		<description>
+	    <![CDATA["To the right of the speakwrite, a small pneumatic tube for written messages; to the left, a larger one for newspapers; and in the side wall, within easy reach of Winston’s arm, a large oblong slit protected by a wire grating." -- George Orwell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

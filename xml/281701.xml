@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/281701-raelene]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/281701-raelene" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 16 Jul 2008 13:28:04 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2058-there-is-no-friend-as-loyal-as-a-book</guid>
+		<pubDate>Wed, 16 Jul 2008 13:28:04 -0700</pubDate>
+		<title>
+			<![CDATA[Raelene add a quote by Ernest Hemingway]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2058-there-is-no-friend-as-loyal-as-a-book]]>
+		</link>
+		<description>
+	    <![CDATA["There is no friend as loyal as a book." -- Ernest Hemingway]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/764-a-room-without-books-is-like-a-body-without-a</guid>
+		<pubDate>Wed, 25 Mar 2009 15:05:57 -0700</pubDate>
+		<title>
+			<![CDATA[Raelene add a quote by Marcus Tullius Cicero]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/764-a-room-without-books-is-like-a-body-without-a]]>
+		</link>
+		<description>
+	    <![CDATA["A room without books is like a body without a soul." -- Marcus Tullius Cicero]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/770-the-love-of-learning-the-sequestered-nooks-and-all-the</guid>
+		<pubDate>Wed, 25 Mar 2009 15:06:27 -0700</pubDate>
+		<title>
+			<![CDATA[Raelene add a quote by Henry Wadsworth Longfellow]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/770-the-love-of-learning-the-sequestered-nooks-and-all-the]]>
+		</link>
+		<description>
+	    <![CDATA["The love of learning, the sequestered nooks,
+And all the sweet serenity of books" -- Henry Wadsworth Longfellow]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/22079-azadeh]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/22079-azadeh" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 10 Aug 2013 00:07:56 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/752-nobody-has-ever-measured-not-even-poets-how-much-the</guid>
+		<pubDate>Sat, 10 Aug 2013 00:07:56 -0700</pubDate>
+		<title>
+			<![CDATA[Azadeh add a quote by Zelda Fitzgerald]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/752-nobody-has-ever-measured-not-even-poets-how-much-the]]>
+		</link>
+		<description>
+	    <![CDATA["Nobody has ever measured, not even poets, how much the heart can hold." -- Zelda Fitzgerald]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/68927-the-greatest-enemy-of-knowledge-is-not-ignorance-it-is</guid>
+		<pubDate>Mon, 30 Sep 2013 10:03:11 -0700</pubDate>
+		<title>
+			<![CDATA[Azadeh add a quote by Daniel J. Boorstin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/68927-the-greatest-enemy-of-knowledge-is-not-ignorance-it-is]]>
+		</link>
+		<description>
+	    <![CDATA["The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge." -- Daniel J. Boorstin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/745005-poetry-is-a-way-of-looking-at-the-world-for</guid>
+		<pubDate>Mon, 30 Sep 2013 10:03:25 -0700</pubDate>
+		<title>
+			<![CDATA[Azadeh add a quote by W.S. Merwin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/745005-poetry-is-a-way-of-looking-at-the-world-for]]>
+		</link>
+		<description>
+	    <![CDATA["Poetry is a way of looking at the world for the first time." -- W.S. Merwin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

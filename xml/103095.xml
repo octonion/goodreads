@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/103095-sue]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/103095-sue" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 02 Aug 2013 13:59:50 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/278582-the-prisons-in-the-united-states-had-long-been-an</guid>
+		<pubDate>Fri, 02 Aug 2013 13:59:50 -0700</pubDate>
+		<title>
+			<![CDATA[Sue add a quote by Howard Zinn]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/278582-the-prisons-in-the-united-states-had-long-been-an]]>
+		</link>
+		<description>
+	    <![CDATA["The prisons in the United States had long been an extreme reflection of the American system itself: the stark life differences between rich and poor, the racism, the use of victims against one another, the lack of resources of the underclass to speak out, the endless &quot;reforms&quot; that changed little. Dostoevski once said: &quot;The degree of civilization in a society can be judged by entering its prisons.&quot;
+
+It had long been true, and prisoners knew this better than anyone, that the poorer you were the more likely you were to end up in jail. This was not just because the poor committed more crimes. In fact, they did. The rich did not have to commit crimes to get what they wanted; the laws were on their side. But when the rich did commit crimes, they often were not prosecuted, and if they were they could get out on bail, hire clever lawyers, get better treatment from judges. Somehow, the jails ended up full of poor black people." -- Howard Zinn]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

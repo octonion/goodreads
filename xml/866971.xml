@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/866971-jill-morrissey]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/866971-jill-morrissey" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 06 May 2013 06:19:58 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/643688-someone-sent-me-a-letter-that-had-one-of-the</guid>
+		<pubDate>Mon, 06 May 2013 06:19:58 -0700</pubDate>
+		<title>
+			<![CDATA[Jill add a quote by Damien Echols]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/643688-someone-sent-me-a-letter-that-had-one-of-the]]>
+		</link>
+		<description>
+	    <![CDATA["Someone sent me a letter that had one of the best quotes I've ever read. It said &quot;What is to give light must endure burning.&quot; It's by a writer named Viktor Frankl. I've been turning that quote over and over in my head. The truth of it is absolutely awe-inspiring. In the end, I believe it's why we all suffer. It's the meaning we all look for behind the tragedies in our lives. The pain deepens us, burns away our impurities and petty selfishness. It makes us capable of empathy and sympathy. It makes us capable of love. The pain is the fire that allows us to rise from the ashes of what we were, and more fully realize what we can become. When you can step back and see the beauty of the process, it's amazing beyond words." -- Damien Echols]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

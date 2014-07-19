@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/557001-haidy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/557001-haidy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 16 Oct 2008 04:59:08 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4602-everyone-wants-to-ride-with-you-in-the-limo-but</guid>
+		<pubDate>Thu, 16 Oct 2008 04:59:08 -0700</pubDate>
+		<title>
+			<![CDATA[haidy add a quote by Oprah Winfrey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4602-everyone-wants-to-ride-with-you-in-the-limo-but]]>
+		</link>
+		<description>
+	    <![CDATA["Everyone wants to ride with you in the limo, but what you want is someone who will take the bus with you when the limo breaks down." -- Oprah Winfrey]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/84-turn-your-wounds-into-wisdom</guid>
+		<pubDate>Thu, 16 Oct 2008 04:59:19 -0700</pubDate>
+		<title>
+			<![CDATA[haidy add a quote by Oprah Winfrey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/84-turn-your-wounds-into-wisdom]]>
+		</link>
+		<description>
+	    <![CDATA["Turn your wounds into wisdom." -- Oprah Winfrey]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/38079-i-trust-that-everything-happens-for-a-reason-even-if</guid>
+		<pubDate>Thu, 16 Oct 2008 04:59:43 -0700</pubDate>
+		<title>
+			<![CDATA[haidy add a quote by Oprah Winfrey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/38079-i-trust-that-everything-happens-for-a-reason-even-if]]>
+		</link>
+		<description>
+	    <![CDATA["I trust that everything happens for a reason, even if we are not wise enough to see it." -- Oprah Winfrey]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

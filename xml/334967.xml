@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/334967-jody]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/334967-jody" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 25 Aug 2012 02:34:41 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/126354-you-are-always-someones-favorite-unfolding-story</guid>
+		<pubDate>Sat, 25 Aug 2012 02:34:41 -0700</pubDate>
+		<title>
+			<![CDATA[Jody add a quote by Ann Patchett]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/126354-you-are-always-someones-favorite-unfolding-story]]>
+		</link>
+		<description>
+	    <![CDATA["You are always someones favorite unfolding story" -- Ann Patchett]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/130367-how-absurd-it-was-that-in-all-seven-kingdoms-the</guid>
+		<pubDate>Thu, 15 Nov 2012 14:17:02 -0800</pubDate>
+		<title>
+			<![CDATA[Jody add a quote by Kristin Cashore]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/130367-how-absurd-it-was-that-in-all-seven-kingdoms-the]]>
+		</link>
+		<description>
+	    <![CDATA["How absurd it was that in all seven kingdoms, the weakest and most vulnerable of people - girls, women - went unarmed and were taught nothing of fighting, while the strong were trained to the highest reaches of their skill." -- Kristin Cashore]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

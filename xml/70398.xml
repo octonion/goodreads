@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/70398-paul]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/70398-paul" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 27 Mar 2009 08:06:32 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/24771-i-believe-that-words-uttered-in-passion-contain-a-greater</guid>
+		<pubDate>Fri, 27 Mar 2009 08:06:32 -0700</pubDate>
+		<title>
+			<![CDATA[Paul add a quote by Natsume Soseki]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/24771-i-believe-that-words-uttered-in-passion-contain-a-greater]]>
+		</link>
+		<description>
+	    <![CDATA["I believe that words uttered in passion contain a greater living truth than do those words which express thoughts rationally conceived. It is blood that moves the body. Words are not meant to stir the air only: they are capable of moving greater things." -- Natsume Soseki]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/23624-i-read-i-say-i-study-and-read-i-bet</guid>
+		<pubDate>Fri, 27 Mar 2009 08:10:56 -0700</pubDate>
+		<title>
+			<![CDATA[Paul add a quote by David Foster Wallace]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/23624-i-read-i-say-i-study-and-read-i-bet]]>
+		</link>
+		<description>
+	    <![CDATA["I read,&quot; I say. &quot;I study and read. I bet I've read everything you read. Don't think I haven't. I consume libraries. I wear out spines and ROM-drives. I do things like get in a taxi and say, &quot;The library, and step on it.&quot; My instincts concerning syntax and mechanics are better than your own, I can tell, with all due respect. But it transcends the mechanics. I'm not a machine. I feel and believe. I have opinions. Some of them are interesting. I could, if you'd let me, talk and talk." -- David Foster Wallace]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

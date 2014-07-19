@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/719425-erica-rewey]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/719425-erica-rewey" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 28 Dec 2007 17:31:47 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/8300-the-less-i-seek-my-source-for-some-definitive-the</guid>
+		<pubDate>Fri, 28 Dec 2007 17:31:47 -0800</pubDate>
+		<title>
+			<![CDATA[Erica add a quote by Indigo Girls]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8300-the-less-i-seek-my-source-for-some-definitive-the]]>
+		</link>
+		<description>
+	    <![CDATA["The less I seek my source for some definitive, the closer I am to fine." -- Indigo Girls]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/570216-can-teachers-successfully-educate-children-to-think-for-themselves-if</guid>
+		<pubDate>Thu, 14 Nov 2013 17:06:12 -0800</pubDate>
+		<title>
+			<![CDATA[Erica add a quote by Diane Ravitch]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/570216-can-teachers-successfully-educate-children-to-think-for-themselves-if]]>
+		</link>
+		<description>
+	    <![CDATA["Can teachers successfully educate children to think for themselves if teachers are not treated as professionals who think for themselves?" -- Diane Ravitch]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

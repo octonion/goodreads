@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/143530-ferrin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/143530-ferrin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 24 Oct 2010 09:44:40 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/308084-you-might-think-that-after-all-the-shameful-capitulations-made</guid>
+		<pubDate>Sun, 24 Oct 2010 09:44:40 -0700</pubDate>
+		<title>
+			<![CDATA[Ferrin add a quote by José Saramago]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/308084-you-might-think-that-after-all-the-shameful-capitulations-made]]>
+		</link>
+		<description>
+	    <![CDATA["You might think that after all the shameful capitulations made by the government during the ups and downs of their negotiations with the maphia ... they could sink no lower. Alas, when one advances blindly across the boggy ground of realpolitik, when pragmatism takes up the baton and conducts the orchestra, ignoring what is written in the score, you can be pretty sure that, as the imperative logic of dishonor will show, there are still, after all, a few more steps to descend." -- José Saramago]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

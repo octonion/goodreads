@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/179752-jacqueline-w]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/179752-jacqueline-w" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 25 Mar 2012 16:42:13 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/335571-once-you-learn-to-read-you-will-be-forever-free</guid>
+		<pubDate>Sun, 25 Mar 2012 16:42:13 -0700</pubDate>
+		<title>
+			<![CDATA[Jacqueline add a quote by Frederick Douglass]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/335571-once-you-learn-to-read-you-will-be-forever-free]]>
+		</link>
+		<description>
+	    <![CDATA["Once you learn to read, you will be forever free." -- Frederick Douglass]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1133975-we-investigate-we-prepare-we-execute-we-find-them-we</guid>
+		<pubDate>Tue, 18 Mar 2014 17:16:53 -0700</pubDate>
+		<title>
+			<![CDATA[Jacqueline add a quote by Lee Child]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1133975-we-investigate-we-prepare-we-execute-we-find-them-we]]>
+		</link>
+		<description>
+	    <![CDATA["We investigate, we prepare, we execute. We find them, we take them down, and then we piss on their ancestors’ graves." -- Lee Child]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/342841-kate]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/342841-kate" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 30 Aug 2012 21:13:57 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/116469-legitimate-powers-of-government-reach-actions-only-not-opinions</guid>
+		<pubDate>Thu, 30 Aug 2012 21:13:57 -0700</pubDate>
+		<title>
+			<![CDATA[Kate add a quote by Thomas Jefferson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/116469-legitimate-powers-of-government-reach-actions-only-not-opinions]]>
+		</link>
+		<description>
+	    <![CDATA["...legitimate powers of government reach actions only, &amp; not opinions, I contemplate with sovereign reverence that act of the whole American people which declared that their legislature should 'make no law respecting an establishment of religion, or prohibiting the free exercise thereof,' &lt;b&gt;thus building a wall of separation between Church &amp; State&lt;/b&gt;. Adhering to this expression of the supreme will of the nation in behalf of the rights of conscience, I shall see with sincere satisfaction the progress of those sentiments which tend to restore to man all his natural rights, convinced he has no natural right in opposition to his social duties." -- Thomas Jefferson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

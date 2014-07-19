@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1046881-deb]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1046881-deb" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 25 Apr 2011 00:56:05 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1502-facts-do-not-cease-to-exist-because-they-are-ignored</guid>
+		<pubDate>Mon, 25 Apr 2011 00:56:05 -0700</pubDate>
+		<title>
+			<![CDATA[Deb add a quote by Aldous Huxley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1502-facts-do-not-cease-to-exist-because-they-are-ignored]]>
+		</link>
+		<description>
+	    <![CDATA["Facts do not cease to exist because they are ignored." -- Aldous Huxley]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/39223-we-can-t-stop-here-this-is-bat-country</guid>
+		<pubDate>Mon, 25 Apr 2011 01:04:06 -0700</pubDate>
+		<title>
+			<![CDATA[Deb add a quote by Hunter S. Thompson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/39223-we-can-t-stop-here-this-is-bat-country]]>
+		</link>
+		<description>
+	    <![CDATA["We can't stop here, this is bat country!" -- Hunter S. Thompson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/12799-sometimes-people-don-t-want-to-hear-the-truth-because-they</guid>
+		<pubDate>Sat, 07 Apr 2012 16:16:42 -0700</pubDate>
+		<title>
+			<![CDATA[Deb add a quote by Friedrich Nietzsche]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12799-sometimes-people-don-t-want-to-hear-the-truth-because-they]]>
+		</link>
+		<description>
+	    <![CDATA["Sometimes people don't want to hear the truth because they don't want their illusions destroyed." -- Friedrich Nietzsche]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

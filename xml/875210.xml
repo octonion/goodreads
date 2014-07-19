@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/875210-joe]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/875210-joe" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 05 Feb 2008 14:10:08 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/21779-i-don-t-mean-to-say-that-i-m-about-to-state</guid>
+		<pubDate>Tue, 05 Feb 2008 14:10:08 -0800</pubDate>
+		<title>
+			<![CDATA[Joe add a quote by Hunter S. Thompson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21779-i-don-t-mean-to-say-that-i-m-about-to-state]]>
+		</link>
+		<description>
+	    <![CDATA["I don't mean to say that I'm about to state my credo here on this page, but merely to affirm, sincerely for the first time in my life, my belief in man as an individual and independent entity. Certainly not independence in the everyday sense of the word, but pertaining to a freedom and mobility of thought that few people are able - or even have the courage - to achieve." -- Hunter S. Thompson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

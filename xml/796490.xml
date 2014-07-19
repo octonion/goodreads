@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/796490-colleen-diamond]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/796490-colleen-diamond" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 01 Feb 2008 06:04:35 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/19741-the-means-of-defence-agst-foreign-danger-have-been-always</guid>
+		<pubDate>Fri, 01 Feb 2008 06:04:35 -0800</pubDate>
+		<title>
+			<![CDATA[Colleen add a quote by James Madison]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/19741-the-means-of-defence-agst-foreign-danger-have-been-always]]>
+		</link>
+		<description>
+	    <![CDATA["The means of defence agst. foreign danger, have been always the instruments of tyranny at home." -- James Madison]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/19727-solitude-is-a-human-presumption-every-quiet-step-is-thunder</guid>
+		<pubDate>Fri, 01 Feb 2008 06:06:54 -0800</pubDate>
+		<title>
+			<![CDATA[Colleen add a quote by Barbara Kingsolver]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/19727-solitude-is-a-human-presumption-every-quiet-step-is-thunder]]>
+		</link>
+		<description>
+	    <![CDATA["Solitude is a human presumption. Every quiet step is thunder to beetle life underfoot, a tug of impalpable thread on the web pulling mate to mate and predator to prey, a beginning or an end. Every choice is a world made new for the chosen." -- Barbara Kingsolver]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

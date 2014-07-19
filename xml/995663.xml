@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/995663-rob]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/995663-rob" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 Apr 2008 19:36:25 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/40685-and-if-all-others-accepted-the-lie-which-the-party</guid>
+		<pubDate>Tue, 01 Apr 2008 19:36:25 -0700</pubDate>
+		<title>
+			<![CDATA[Rob add a quote by George Orwell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/40685-and-if-all-others-accepted-the-lie-which-the-party]]>
+		</link>
+		<description>
+	    <![CDATA["And if all others accepted the lie which the Party imposed—if all records told the same tale—then the lie passed into history and became truth. 'Who controls the past' ran the Party slogan, 'controls the future: who controls the present controls the past." -- George Orwell]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/40687-day-by-day-and-almost-minute-by-minute-the-past</guid>
+		<pubDate>Tue, 01 Apr 2008 19:37:16 -0700</pubDate>
+		<title>
+			<![CDATA[Rob add a quote by George Orwell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/40687-day-by-day-and-almost-minute-by-minute-the-past]]>
+		</link>
+		<description>
+	    <![CDATA["Day by day and almost minute by minute the past was brought up to date. In this way every prediction made by the Party could be shown by documentary evidence to have been correct; nor was any item of news, or any expression of opinion, which conflicted with the needs of the moment, ever allowed to remain on record. All history was a palimpsest, scraped clean and reinscribed exactly as often as was necessary." -- George Orwell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/663375-bridget]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/663375-bridget" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 04 Feb 2011 07:29:32 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/10840-your-memory-is-a-monster-you-forget-it-doesn-t-it-simply</guid>
+		<pubDate>Fri, 04 Feb 2011 07:29:32 -0800</pubDate>
+		<title>
+			<![CDATA[Bridget add a quote by John Irving]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10840-your-memory-is-a-monster-you-forget-it-doesn-t-it-simply]]>
+		</link>
+		<description>
+	    <![CDATA["Your memory is a monster; you forget—it doesn't. It simply files things away. It keeps things for you, or hides things from you—and summons them to your recall with will of its own. You think you have a memory; but it has you!" -- John Irving]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/216703-my-life-is-a-reading-list</guid>
+		<pubDate>Fri, 04 Feb 2011 07:30:25 -0800</pubDate>
+		<title>
+			<![CDATA[Bridget add a quote by John Irving]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/216703-my-life-is-a-reading-list]]>
+		</link>
+		<description>
+	    <![CDATA["My life is a reading list." -- John Irving]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/73333-reading-good-books-ruins-you-for-enjoying-bad-books</guid>
+		<pubDate>Tue, 05 Mar 2013 08:00:38 -0800</pubDate>
+		<title>
+			<![CDATA[Bridget add a quote by Mary Ann Shaffer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/73333-reading-good-books-ruins-you-for-enjoying-bad-books]]>
+		</link>
+		<description>
+	    <![CDATA["Reading good books ruins you for enjoying bad books." -- Mary Ann Shaffer]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

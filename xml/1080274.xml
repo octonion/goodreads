@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1080274-amanda-garner]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1080274-amanda-garner" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 29 Jul 2008 17:20:51 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5169-what-really-knocks-me-out-is-a-book-that-when</guid>
+		<pubDate>Tue, 29 Jul 2008 17:20:51 -0700</pubDate>
+		<title>
+			<![CDATA[Amanda add a quote by J.D. Salinger]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5169-what-really-knocks-me-out-is-a-book-that-when]]>
+		</link>
+		<description>
+	    <![CDATA["What really knocks me out is a book that, when you're all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it. That doesn't happen much, though." -- J.D. Salinger]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/18493-parents-can-only-give-good-advice-or-put-them-on</guid>
+		<pubDate>Tue, 29 Jul 2008 17:22:24 -0700</pubDate>
+		<title>
+			<![CDATA[Amanda add a quote by Anne Frank]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18493-parents-can-only-give-good-advice-or-put-them-on]]>
+		</link>
+		<description>
+	    <![CDATA["Parents can only give good advice or put them on the right paths, but the final forming of a person's character lies in their own hands." -- Anne Frank]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/11035-no-one-can-make-you-feel-inferior-without-your-consent</guid>
+		<pubDate>Tue, 29 Jul 2008 17:22:41 -0700</pubDate>
+		<title>
+			<![CDATA[Amanda add a quote by Eleanor Roosevelt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11035-no-one-can-make-you-feel-inferior-without-your-consent]]>
+		</link>
+		<description>
+	    <![CDATA["No one can make you feel inferior without your consent." -- Eleanor Roosevelt]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

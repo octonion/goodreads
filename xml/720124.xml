@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/720124-trish]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/720124-trish" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 16 Aug 2009 15:18:01 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4317-but-in-a-story-which-is-a-kind-of-dreaming</guid>
+		<pubDate>Sun, 16 Aug 2009 15:18:01 -0700</pubDate>
+		<title>
+			<![CDATA[Trish add a quote by Tim O'Brien]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4317-but-in-a-story-which-is-a-kind-of-dreaming]]>
+		</link>
+		<description>
+	    <![CDATA["But in a story, which is a kind of dreaming, the dead sometimes smile and sit up and return to the world." -- Tim O'Brien]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6459-i-would-tell-you-the-whole-story-but-i-might</guid>
+		<pubDate>Sun, 16 Aug 2009 15:18:47 -0700</pubDate>
+		<title>
+			<![CDATA[Trish add a quote by Holden Caulfield]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6459-i-would-tell-you-the-whole-story-but-i-might]]>
+		</link>
+		<description>
+	    <![CDATA["I would tell you the whole story, but I might puke if I did." -- Holden Caulfield]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

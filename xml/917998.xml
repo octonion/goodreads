@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/917998-rachel-unkovic]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/917998-rachel-unkovic" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 18 Feb 2008 08:32:52 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/26024-this-was-the-first-time-that-he-has-ever-looked</guid>
+		<pubDate>Mon, 18 Feb 2008 08:32:52 -0800</pubDate>
+		<title>
+			<![CDATA[Rachel add a quote by Halldor Laxness]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/26024-this-was-the-first-time-that-he-has-ever-looked]]>
+		</link>
+		<description>
+	    <![CDATA["This was the first time that he has ever looked into the labyrinth of the human soul. He was very far from understanding what he saw. But what was of more value, he felt and suffered with her. In years that were yet to come, he relived this memory in song, in the most beautiful song this world has known. For the understanding of the soul's defencelessness, of the conflict between the two poles, is not the source of the greatest song. The source of the greatest song is sympathy." -- Halldor Laxness]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

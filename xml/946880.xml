@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/946880-wachansa]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/946880-wachansa" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 26 Feb 2008 22:28:24 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/17759-people-where-you-live-the-little-prince-said-grow-five</guid>
+		<pubDate>Tue, 26 Feb 2008 22:28:24 -0800</pubDate>
+		<title>
+			<![CDATA[Wachansa add a quote by Antoine de Saint-Exupéry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17759-people-where-you-live-the-little-prince-said-grow-five]]>
+		</link>
+		<description>
+	    <![CDATA["People where you live,&quot; the little prince said, &quot;grow five thousand roses in one garden... yet they don't find what they're looking for...
+
+They don't find it,&quot; I answered.
+
+And yet what they're looking for could be found in a single rose, or a little water...&quot;
+
+Of course,&quot; I answered.
+
+And the little prince added, &quot;But eyes are blind. You have to look with the heart." -- Antoine de Saint-Exupéry]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

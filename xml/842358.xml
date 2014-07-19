@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/842358-anna]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/842358-anna" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 15 Dec 2013 19:18:56 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/61626-i-am-not-tragically-colored-there-is-no-great-sorrow</guid>
+		<pubDate>Sun, 15 Dec 2013 19:18:56 -0800</pubDate>
+		<title>
+			<![CDATA[Anna add a quote by Zora Neale Hurston]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/61626-i-am-not-tragically-colored-there-is-no-great-sorrow]]>
+		</link>
+		<description>
+	    <![CDATA["I am not tragically colored. There is no great sorrow dammed up in my soul, nor lurking behind my eyes. I do not mind at all. I do not belong to the sobbing school of Negrohood who hold that nature somehow has given them a lowdown dirty deal and whose feelings are all hurt about it. Even in the helter-skelter skirmish that is my life, I have seen that the world is to the strong regardless of a little pigmentation more or less. No, I do not weep at the world—I am too busy sharpening my oyster knife." -- Zora Neale Hurston]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

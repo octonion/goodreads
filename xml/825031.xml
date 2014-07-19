@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/825031-nicholas-wang]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/825031-nicholas-wang" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 28 Oct 2013 08:57:07 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/53015-education-is-not-preparation-for-life-education-is-life-itself</guid>
+		<pubDate>Mon, 28 Oct 2013 08:57:07 -0700</pubDate>
+		<title>
+			<![CDATA[Nicholas add a quote by John Dewey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/53015-education-is-not-preparation-for-life-education-is-life-itself]]>
+		</link>
+		<description>
+	    <![CDATA["Education is not preparation for life; education is life itself." -- John Dewey]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/564533-rachel]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/564533-rachel" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 05 Dec 2007 08:41:01 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2066-you-are-not-your-job-you-re-not-how-much-money</guid>
+		<pubDate>Wed, 05 Dec 2007 08:41:01 -0800</pubDate>
+		<title>
+			<![CDATA[Rachel add a quote by Chuck Palahniuk]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2066-you-are-not-your-job-you-re-not-how-much-money]]>
+		</link>
+		<description>
+	    <![CDATA["You are not your job, you're not how much money you have in the bank. You are not the car you drive. You're not the contents of your wallet. You are not your fucking khakis. You are all singing, all dancing crap of the world." -- Chuck Palahniuk]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3540-i-miss-nixon-compared-to-these-nazis-we-have-in</guid>
+		<pubDate>Wed, 05 Dec 2007 08:42:13 -0800</pubDate>
+		<title>
+			<![CDATA[Rachel add a quote by Hunter S. Thompson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3540-i-miss-nixon-compared-to-these-nazis-we-have-in]]>
+		</link>
+		<description>
+	    <![CDATA["I miss Nixon. Compared to these Nazis we have in the White House now, Richard Nixon was a flaming liberal." -- Hunter S. Thompson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

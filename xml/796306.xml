@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/796306-brandy-bones]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/796306-brandy-bones" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 03 Jun 2013 08:24:45 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2-i-must-not-fear-fear-is-the-mind-killer-fear-is</guid>
+		<pubDate>Mon, 03 Jun 2013 08:24:45 -0700</pubDate>
+		<title>
+			<![CDATA[Brandy add a quote by Frank Herbert]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2-i-must-not-fear-fear-is-the-mind-killer-fear-is]]>
+		</link>
+		<description>
+	    <![CDATA["I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain." -- Frank Herbert]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

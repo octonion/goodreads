@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/654668-michael]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/654668-michael" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 27 Jun 2013 18:03:01 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/136812-remember-tonight-for-it-is-the-beginning-of-always</guid>
+		<pubDate>Thu, 27 Jun 2013 18:03:01 -0700</pubDate>
+		<title>
+			<![CDATA[Michael add a quote by Dante]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/136812-remember-tonight-for-it-is-the-beginning-of-always]]>
+		</link>
+		<description>
+	    <![CDATA["Remember tonight... for it is the beginning of always" -- Dante]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/18634-in-that-book-which-is-my-memory-on-the-first</guid>
+		<pubDate>Thu, 27 Jun 2013 18:02:28 -0700</pubDate>
+		<title>
+			<![CDATA[Michael add a quote by Dante Alighieri]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18634-in-that-book-which-is-my-memory-on-the-first]]>
+		</link>
+		<description>
+	    <![CDATA["In that book which is my memory,
+On the first page of the chapter that is the day when I first met you,
+Appear the words, ‘Here begins a new life’." -- Dante Alighieri]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/27510-the-hottest-places-in-hell-are-reserved-for-those-who</guid>
+		<pubDate>Thu, 27 Jun 2013 18:04:02 -0700</pubDate>
+		<title>
+			<![CDATA[Michael add a quote by John F. Kennedy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/27510-the-hottest-places-in-hell-are-reserved-for-those-who]]>
+		</link>
+		<description>
+	    <![CDATA["The hottest places in hell are reserved for those who, in times of great moral crisis, maintain their neutrality." -- John F. Kennedy]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

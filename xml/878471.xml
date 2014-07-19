@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/878471-nate]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/878471-nate" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 19 Feb 2014 18:24:52 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1051268-microbiology-and-meteorology-now-explain-what-only-a-few-centuries</guid>
+		<pubDate>Wed, 19 Feb 2014 18:24:52 -0800</pubDate>
+		<title>
+			<![CDATA[Nate add a quote by Carl Sagan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1051268-microbiology-and-meteorology-now-explain-what-only-a-few-centuries]]>
+		</link>
+		<description>
+	    <![CDATA["Microbiology and meteorology now explain what only a few centuries ago was considered sufficient cause to burn women to death." -- Carl Sagan]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2604-writing-is-a-way-of-talking-without-being-interrupted</guid>
+		<pubDate>Wed, 19 Feb 2014 19:04:54 -0800</pubDate>
+		<title>
+			<![CDATA[Nate add a quote by Jules Renard]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2604-writing-is-a-way-of-talking-without-being-interrupted]]>
+		</link>
+		<description>
+	    <![CDATA["Writing is a way of talking without being interrupted." -- Jules Renard]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1140833-claims-that-cannot-be-tested-assertions-immune-to-disproof-are</guid>
+		<pubDate>Mon, 24 Mar 2014 21:23:00 -0700</pubDate>
+		<title>
+			<![CDATA[Nate add a quote by Carl Sagan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1140833-claims-that-cannot-be-tested-assertions-immune-to-disproof-are]]>
+		</link>
+		<description>
+	    <![CDATA["Claims that cannot be tested, assertions immune to disproof are veridically worthless, whatever value they may have in inspiring us or in exciting our sense of wonder." -- Carl Sagan]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

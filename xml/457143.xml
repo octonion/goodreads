@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/457143-seepp]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/457143-seepp" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 11 Feb 2013 23:10:23 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/568877-i-choose-a-lazy-person-to-do-a-hard-job</guid>
+		<pubDate>Mon, 11 Feb 2013 23:10:23 -0800</pubDate>
+		<title>
+			<![CDATA[Seepp add a quote by Bill Gates]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/568877-i-choose-a-lazy-person-to-do-a-hard-job]]>
+		</link>
+		<description>
+	    <![CDATA["I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it." -- Bill Gates]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/445070-if-you-haven-t-found-it-yet-keep-looking-don-t-settle</guid>
+		<pubDate>Fri, 10 May 2013 01:00:18 -0700</pubDate>
+		<title>
+			<![CDATA[Seepp add a quote by Steve Jobs]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/445070-if-you-haven-t-found-it-yet-keep-looking-don-t-settle]]>
+		</link>
+		<description>
+	    <![CDATA["If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it. And, like any great relationship, it just gets better and better as the years roll on." -- Steve Jobs]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/865-be-who-you-are-and-say-what-you-feel-because</guid>
+		<pubDate>Mon, 07 Apr 2014 23:23:41 -0700</pubDate>
+		<title>
+			<![CDATA[Seepp add a quote by Bernard M. Baruch]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/865-be-who-you-are-and-say-what-you-feel-because]]>
+		</link>
+		<description>
+	    <![CDATA["Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind." -- Bernard M. Baruch]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

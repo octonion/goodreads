@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/922633-rosetta]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/922633-rosetta" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 20 Feb 2008 08:19:47 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/26575-today-is-a-most-unusual-day-because-we-have-never</guid>
+		<pubDate>Wed, 20 Feb 2008 08:19:47 -0800</pubDate>
+		<title>
+			<![CDATA[Rosetta add a quote by William Arthur Ward]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/26575-today-is-a-most-unusual-day-because-we-have-never]]>
+		</link>
+		<description>
+	    <![CDATA["Today is a most unusual day, because we have never lived it before; we will never live it again; it is the only day we have." -- William Arthur Ward]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

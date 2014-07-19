@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/940731-beth]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/940731-beth" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 14 Apr 2012 13:20:02 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/123510-yes-said-gandalf-for-it-will-be-better-to-ride</guid>
+		<pubDate>Sat, 14 Apr 2012 13:20:02 -0700</pubDate>
+		<title>
+			<![CDATA[Beth add a quote by J.R.R. Tolkien]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/123510-yes-said-gandalf-for-it-will-be-better-to-ride]]>
+		</link>
+		<description>
+	    <![CDATA["Yes&quot; Said Gandalf; &quot;for it will be better to ride back three together than one alone. Well, here at last, dear friends, on the shores of the Sea comes the end of out fellowship in Middle-earth. Go in peace! I will not say: do not weep; for not all tears are an evil." -- J.R.R. Tolkien]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/281783-but-to-sam-the-evening-deepened-to-darkness-as-he</guid>
+		<pubDate>Sat, 14 Apr 2012 13:21:17 -0700</pubDate>
+		<title>
+			<![CDATA[Beth add a quote by J. R. R. Tolkien]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/281783-but-to-sam-the-evening-deepened-to-darkness-as-he]]>
+		</link>
+		<description>
+	    <![CDATA["But to Sam the evening deepened to darkness as he stood at the Haven; and as he looked at the grey sea he saw only a shadow in the waters that was soon lost in the West. There he stood far into the night, hearing only the sigh and murmur of the waves on the shores of Middle-Earth, and the sound of them sank deep into his heart." -- J. R. R. Tolkien]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

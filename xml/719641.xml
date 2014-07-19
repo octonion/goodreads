@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/719641-edith]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/719641-edith" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 25 Jun 2014 13:37:52 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1189349-indeed-pursuing-pleasure-seneca-warns-is-like-pursuing-a-wild</guid>
+		<pubDate>Wed, 25 Jun 2014 13:37:52 -0700</pubDate>
+		<title>
+			<![CDATA[Edith add a quote by William B. Irvine]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1189349-indeed-pursuing-pleasure-seneca-warns-is-like-pursuing-a-wild]]>
+		</link>
+		<description>
+	    <![CDATA["Indeed, pursuing pleasure, Seneca warns, is like pursuing a wild beast: On being captured, it can turn on us and tear us to pieces. Or, changing the metaphor a bit, he tells us that intense pleasures, when captured by us, become our captors, meaning that the more pleasures a man captures, “the more masters will he have to serve." -- William B. Irvine]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

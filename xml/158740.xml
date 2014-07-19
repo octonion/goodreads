@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/158740-anjali]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/158740-anjali" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 11 Nov 2013 02:42:28 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/525471-man-surprised-me-most-about-humanity-because-he-sacrifices-his</guid>
+		<pubDate>Mon, 11 Nov 2013 02:42:28 -0800</pubDate>
+		<title>
+			<![CDATA[Anjali add a quote by James J. Lachard (Jim Brown)]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/525471-man-surprised-me-most-about-humanity-because-he-sacrifices-his]]>
+		</link>
+		<description>
+	    <![CDATA["Man surprised me most about humanity. Because he sacrifices his health in order to make money.
+Then he sacrifices money to recuperate his health. And then he is so anxious about the future that he does not enjoy the present; the result being that he does not live in the present or the future; he lives as if he is never going to die, and then dies having never really lived." -- James J. Lachard (Jim Brown)]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

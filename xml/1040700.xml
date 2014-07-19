@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1040700-eren-demiray]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1040700-eren-demiray" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 29 Apr 2008 07:53:04 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3831-the-only-people-for-me-are-the-mad-ones-the</guid>
+		<pubDate>Tue, 29 Apr 2008 07:53:04 -0700</pubDate>
+		<title>
+			<![CDATA[Eren add a quote by Jack Kerouac]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3831-the-only-people-for-me-are-the-mad-ones-the]]>
+		</link>
+		<description>
+	    <![CDATA["the only people for me are the mad ones, the ones who are mad to live, mad to talk, mad to be saved, desirous of everything at the same time, the ones who never yawn or say a commonplace thing, but burn, burn, burn like fabulous yellow roman candles exploding like spiders across the stars." -- Jack Kerouac]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/47435-like-those-in-the-valley-behind-us-most-people-stand</guid>
+		<pubDate>Tue, 29 Apr 2008 07:56:06 -0700</pubDate>
+		<title>
+			<![CDATA[Eren add a quote by Robert M. Pirsig]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/47435-like-those-in-the-valley-behind-us-most-people-stand]]>
+		</link>
+		<description>
+	    <![CDATA["Like those in the valley behind us, most people stand in sight of the spiritual mountains all their lives and never enter them, being content to listen to others who have been there and thus avoid the hardships." -- Robert M. Pirsig]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

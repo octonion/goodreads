@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/350158-allan-smulling]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/350158-allan-smulling" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 15 Mar 2011 20:49:19 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/292450-i-have-always-loved-a-window-especially-an-open-one</guid>
+		<pubDate>Tue, 15 Mar 2011 20:49:19 -0700</pubDate>
+		<title>
+			<![CDATA[Allan add a quote by Wendell Berry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/292450-i-have-always-loved-a-window-especially-an-open-one]]>
+		</link>
+		<description>
+	    <![CDATA["I have always loved a window, especially an open one." -- Wendell Berry]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/261872-my-wish-simply-is-to-live-my-life-as-fully</guid>
+		<pubDate>Tue, 15 Mar 2011 20:54:08 -0700</pubDate>
+		<title>
+			<![CDATA[Allan add a quote by Wendell Berry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/261872-my-wish-simply-is-to-live-my-life-as-fully]]>
+		</link>
+		<description>
+	    <![CDATA["My wish simply is to live my life as fully as I can.  In both our work and our leisure, I think, we should be so employed.  And in our time this means that we must save ourselves from the products that we are asked to buy in order, ultimately, to replace ourselves." -- Wendell Berry]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

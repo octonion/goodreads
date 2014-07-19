@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/950115-chris]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/950115-chris" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 27 Feb 2008 19:09:16 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/15920-love-is-what-we-are-born-with-fear-is-what</guid>
+		<pubDate>Wed, 27 Feb 2008 19:09:16 -0800</pubDate>
+		<title>
+			<![CDATA[Chris add a quote by Marianne Williamson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/15920-love-is-what-we-are-born-with-fear-is-what]]>
+		</link>
+		<description>
+	    <![CDATA["Love is what we are born with. Fear is what we learn. The spiritual journey is the unlearning of fear and prejudices and the acceptance of love back in our hearts. Love is the essential reality and our purpose on earth. To be consciously aware of it, to experience love in ourselves and others, is the meaning of life. Meaning does not lie in things. Meaning lies in us." -- Marianne Williamson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/8137-we-are-not-held-back-by-the-love-we-didn-t</guid>
+		<pubDate>Wed, 27 Feb 2008 19:09:28 -0800</pubDate>
+		<title>
+			<![CDATA[Chris add a quote by Marianne Williamson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8137-we-are-not-held-back-by-the-love-we-didn-t]]>
+		</link>
+		<description>
+	    <![CDATA["We are not held back by the love we didn't receive in the past, but by the love we're not extending in the present." -- Marianne Williamson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1054372-bettunia]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1054372-bettunia" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 18 Dec 2009 08:59:58 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/434-he-s-like-a-drug-for-you-bella</guid>
+		<pubDate>Fri, 18 Dec 2009 08:59:58 -0800</pubDate>
+		<title>
+			<![CDATA[Bettunia add a quote by Stephenie Meyer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/434-he-s-like-a-drug-for-you-bella]]>
+		</link>
+		<description>
+	    <![CDATA["He's like a drug for you, Bella." -- Stephenie Meyer]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3922-cogito-ergo-sum-i-think-therefore-i-am</guid>
+		<pubDate>Sun, 22 Feb 2009 19:48:10 -0800</pubDate>
+		<title>
+			<![CDATA[Bettunia add a quote by René Descartes]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3922-cogito-ergo-sum-i-think-therefore-i-am]]>
+		</link>
+		<description>
+	    <![CDATA["Cogito ergo sum.    &lt;i&gt;(I think, therefore I am.)&lt;/i&gt;" -- René Descartes]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3060-i-am-the-lorax-i-speak-for-the-trees-i</guid>
+		<pubDate>Thu, 09 Apr 2009 16:06:26 -0700</pubDate>
+		<title>
+			<![CDATA[Bettunia add a quote by Dr. Seuss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3060-i-am-the-lorax-i-speak-for-the-trees-i]]>
+		</link>
+		<description>
+	    <![CDATA["I am the Lorax. I speak for the trees. I speak for the trees for the trees have no tongues." -- Dr. Seuss]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/22618-how-did-it-get-so-late-so-soon</guid>
+		<pubDate>Thu, 09 Apr 2009 16:06:31 -0700</pubDate>
+		<title>
+			<![CDATA[Bettunia add a quote by Dr. Seuss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22618-how-did-it-get-so-late-so-soon]]>
+		</link>
+		<description>
+	    <![CDATA["How did it get so late so soon?" -- Dr. Seuss]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

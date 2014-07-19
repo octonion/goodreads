@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/964623-matt]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/964623-matt" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 04 Mar 2014 20:05:52 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/114731-beware-of-the-man-who-works-hard-to-learn-something</guid>
+		<pubDate>Tue, 04 Mar 2014 20:05:52 -0800</pubDate>
+		<title>
+			<![CDATA[Matt add a quote by Kurt Vonnegut]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/114731-beware-of-the-man-who-works-hard-to-learn-something]]>
+		</link>
+		<description>
+	    <![CDATA["Beware of the man who works hard to learn something, learns it, and finds himself no wiser than before. He is full of murderous resentment of people who are ignorant without having come by their ignorance the hard way." -- Kurt Vonnegut]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/257030-live-by-the-foma-that-make-you-brave-and-kind</guid>
+		<pubDate>Tue, 04 Mar 2014 20:08:46 -0800</pubDate>
+		<title>
+			<![CDATA[Matt add a quote by Kurt Vonnegut]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/257030-live-by-the-foma-that-make-you-brave-and-kind]]>
+		</link>
+		<description>
+	    <![CDATA["Live by the foma* that make you brave and kind and healthy and happy.  
+
+*Harmless untruths" -- Kurt Vonnegut]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

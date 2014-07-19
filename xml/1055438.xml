@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1055438-tantz-aerine]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1055438-tantz-aerine" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 28 May 2013 09:00:18 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/260933</guid>
+		<pubDate>Tue, 28 May 2013 09:00:18 -0700</pubDate>
+		<title>
+			<![CDATA[Tantz add a quote by Alki Zei]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/260933]]>
+		</link>
+		<description>
+	    <![CDATA["Από τα μικρά μου χρόνια ως σήμερα, ας μην πω με ακρίβεια πόσα είναι γιατί θα τρομάξω κι εγώ η ίδια, έζησα έναν πόλεμο, δύο εμφύλιους πολέμους, δύο δικτατορίες και δύο προσφυγιές. Δεν τα έζησα σαν απλός παρατηρητής, αλλά παίρνοντας ενεργό μέρος κάθε φορά κι έτσι και να ήθελα δεν θα μπορούσε το συγγραφικό μου έργο να μην επηρεαστεί από τα γεγονότα  αυτά που συγκλόνισαν τον τόπο μας. Άθελα μου η ζωή μου μπλέχτηκε μέσα στην ιστορία κι έγινα κι εγώ ένα κομμάτι της. Το συγγραφικό μου λοιπόν έργο, θέλω δε θέλω είναι γεμάτο ιστορία." -- Alki Zei]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

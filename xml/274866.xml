@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/274866-ali]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/274866-ali" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 22 Jan 2014 21:54:12 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/66547-that-s-one-of-the-remarkable-things-about-life-it-s-never</guid>
+		<pubDate>Wed, 22 Jan 2014 21:54:12 -0800</pubDate>
+		<title>
+			<![CDATA[Ali add a quote by Bill Watterson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/66547-that-s-one-of-the-remarkable-things-about-life-it-s-never]]>
+		</link>
+		<description>
+	    <![CDATA["That's one of the remarkable things about life. It's never so bad that it can't get worse." -- Bill Watterson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/170887-nothing-in-this-world-was-more-difficult-than-love</guid>
+		<pubDate>Thu, 17 Apr 2014 14:13:45 -0700</pubDate>
+		<title>
+			<![CDATA[Ali add a quote by Gabriel García Márquez]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/170887-nothing-in-this-world-was-more-difficult-than-love]]>
+		</link>
+		<description>
+	    <![CDATA["nothing in this world was more difficult than love." -- Gabriel García Márquez]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/16923-nobody-deserves-your-tears-but-whoever-deserves-them-will-not</guid>
+		<pubDate>Thu, 17 Apr 2014 14:15:01 -0700</pubDate>
+		<title>
+			<![CDATA[Ali add a quote by Gabriel García Márquez]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16923-nobody-deserves-your-tears-but-whoever-deserves-them-will-not]]>
+		</link>
+		<description>
+	    <![CDATA["Nobody deserves your tears, but whoever deserves them will not make you cry." -- Gabriel García Márquez]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/60415-the-only-regret-i-will-have-in-dying-is-if</guid>
+		<pubDate>Thu, 17 Apr 2014 14:22:55 -0700</pubDate>
+		<title>
+			<![CDATA[Ali add a quote by Gabriel García Márquez]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/60415-the-only-regret-i-will-have-in-dying-is-if]]>
+		</link>
+		<description>
+	    <![CDATA["The only regret I will have in dying is if it is not for love." -- Gabriel García Márquez]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

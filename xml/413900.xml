@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/413900-dado]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/413900-dado" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 14 May 2013 03:13:12 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/574342</guid>
+		<pubDate>Tue, 14 May 2013 03:13:12 -0700</pubDate>
+		<title>
+			<![CDATA[Dado add a quote by ابن القيم]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/574342]]>
+		</link>
+		<description>
+	    <![CDATA["الأرواح قسمان: أرواح معذبة وأرواح منعمة. فالمعذبة فى شغل بما هى فيه من العذاب عن التزاور والتلاقى والأرواح المنعمة المرسلة غير المحبوسة تتلاقى وتتزاور وتتذاكر ما كان منها فى الدنياوما يكون من اهل الدنيا, فتكون كل روح مع رفيقها الذى هو على مثل عملها ." -- ابن القيم]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/340001</guid>
+		<pubDate>Sat, 25 May 2013 05:49:27 -0700</pubDate>
+		<title>
+			<![CDATA[Dado add a quote by باولو كويلو]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/340001]]>
+		</link>
+		<description>
+	    <![CDATA["إن تشابهت الأيام هكذا فذلك يعني أن الناس توقفوا عن إدراك الأشياء الجميلة التي تمثل في حياتهم" -- باولو كويلو]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

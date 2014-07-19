@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/916344-maleesha]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/916344-maleesha" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 13 Dec 2013 10:15:16 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/84-turn-your-wounds-into-wisdom</guid>
+		<pubDate>Fri, 13 Dec 2013 10:15:16 -0800</pubDate>
+		<title>
+			<![CDATA[Maleesha add a quote by Oprah Winfrey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/84-turn-your-wounds-into-wisdom]]>
+		</link>
+		<description>
+	    <![CDATA["Turn your wounds into wisdom." -- Oprah Winfrey]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/11741-the-weak-can-never-forgive-forgiveness-is-the-attribute-of</guid>
+		<pubDate>Fri, 13 Dec 2013 10:28:07 -0800</pubDate>
+		<title>
+			<![CDATA[Maleesha add a quote by Mahatma Gandhi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11741-the-weak-can-never-forgive-forgiveness-is-the-attribute-of]]>
+		</link>
+		<description>
+	    <![CDATA["The weak can never forgive. Forgiveness is the attribute of the strong." -- Mahatma Gandhi]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

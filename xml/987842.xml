@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/987842-rod-allmon]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/987842-rod-allmon" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 08 Dec 2008 10:28:04 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/120781-it-was-some-time-since-i-had-gone-to-sleep</guid>
+		<pubDate>Mon, 08 Dec 2008 10:28:04 -0800</pubDate>
+		<title>
+			<![CDATA[Rod add a quote by Ross MacDonald]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/120781-it-was-some-time-since-i-had-gone-to-sleep]]>
+		</link>
+		<description>
+	    <![CDATA["It was some time since I had gone to sleep in the same room with a girl.  Of course, the room was large and reasonably well-lighted, and the girl had other things than me on her mind." -- Ross MacDonald]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

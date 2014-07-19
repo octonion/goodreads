@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/700612-bonnie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/700612-bonnie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 26 Oct 2009 22:21:45 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/987-there-are-only-two-ways-to-live-your-life-one</guid>
+		<pubDate>Mon, 26 Oct 2009 22:21:45 -0700</pubDate>
+		<title>
+			<![CDATA[Bonnie add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/987-there-are-only-two-ways-to-live-your-life-one]]>
+		</link>
+		<description>
+	    <![CDATA["There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle." -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/19884-be-yourself-everyone-else-is-already-taken</guid>
+		<pubDate>Mon, 26 Oct 2009 22:22:16 -0700</pubDate>
+		<title>
+			<![CDATA[Bonnie add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/19884-be-yourself-everyone-else-is-already-taken]]>
+		</link>
+		<description>
+	    <![CDATA["Be yourself; everyone else is already taken." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/257411-one-can-acquire-everything-in-solitude-except-character</guid>
+		<pubDate>Thu, 23 Jan 2014 20:47:49 -0800</pubDate>
+		<title>
+			<![CDATA[Bonnie add a quote by Stendhal]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/257411-one-can-acquire-everything-in-solitude-except-character]]>
+		</link>
+		<description>
+	    <![CDATA["One can acquire everything in solitude except character." -- Stendhal]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

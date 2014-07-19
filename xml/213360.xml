@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/213360-inger]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/213360-inger" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 09 Apr 2009 13:47:22 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/13578-be-with-me-always---take-any-form---drive</guid>
+		<pubDate>Thu, 09 Apr 2009 13:47:22 -0700</pubDate>
+		<title>
+			<![CDATA[Inger add a quote by Emily Brontë]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13578-be-with-me-always---take-any-form---drive]]>
+		</link>
+		<description>
+	    <![CDATA["Be with me always - take any form - drive me mad! only do not leave me in this abyss, where I cannot find you! Oh, God! it is unutterable! I can not live without my life! I can not live without my soul!" -- Emily Brontë]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

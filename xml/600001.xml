@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/600001-shawn-sinclair]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/600001-shawn-sinclair" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 16 Dec 2007 06:19:46 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5656-we-are-all-thinking-willing-knowing-conscious-centers-of-life-we</guid>
+		<pubDate>Sun, 16 Dec 2007 06:19:46 -0800</pubDate>
+		<title>
+			<![CDATA[Shawn add a quote by Ernest Holmes]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5656-we-are-all-thinking-willing-knowing-conscious-centers-of-life-we]]>
+		</link>
+		<description>
+	    <![CDATA["We are all thinking, willing, knowing,conscious centers of Life.  We are surroundedby, immersed in, and there is flowing through us a creative something... call it what you will." -- Ernest Holmes]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

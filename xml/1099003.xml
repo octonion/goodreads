@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1099003-sheli-dodson]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1099003-sheli-dodson" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 19 Apr 2008 21:56:50 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/38669-there-is-so-much-about-my-fate-that-i-cannot</guid>
+		<pubDate>Sat, 19 Apr 2008 21:56:50 -0700</pubDate>
+		<title>
+			<![CDATA[Sheli add a quote by Elizabeth Gilbert]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/38669-there-is-so-much-about-my-fate-that-i-cannot]]>
+		</link>
+		<description>
+	    <![CDATA["There is so much about my fate that I cannot control, but other things do fall under the jurisdiction. I can decide how I spend my time, whom I interact with, whom I share my body and life and money and energy with. I can select what I can read and eat and study. I can choose how  I'm going to regard unfortunate circumstances in my life-whether I will see them as curses or opportunities. I can choose my words and the tone of voice in which I speak to others. And most of all, I can choose my thoughts." -- Elizabeth Gilbert]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

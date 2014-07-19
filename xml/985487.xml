@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/985487-flajol]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/985487-flajol" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 01 Apr 2009 01:36:55 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/151648-we-are-the-choices-we-make</guid>
+		<pubDate>Wed, 01 Apr 2009 01:36:55 -0700</pubDate>
+		<title>
+			<![CDATA[flajol add a quote by Patrick Ness]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/151648-we-are-the-choices-we-make]]>
+		</link>
+		<description>
+	    <![CDATA["We are the choices we make." -- Patrick Ness]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2711-no-matter-who-you-are-no-matter-where-you-live</guid>
+		<pubDate>Sun, 12 Apr 2009 02:53:42 -0700</pubDate>
+		<title>
+			<![CDATA[flajol add a quote by Lemony Snicket]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2711-no-matter-who-you-are-no-matter-where-you-live]]>
+		</link>
+		<description>
+	    <![CDATA["No matter who you are, no matter where you live, and no matter how many people are chasing you, what you don't read is often as important as what you do read." -- Lemony Snicket]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1502-facts-do-not-cease-to-exist-because-they-are-ignored</guid>
+		<pubDate>Sun, 12 Apr 2009 02:54:39 -0700</pubDate>
+		<title>
+			<![CDATA[flajol add a quote by Aldous Huxley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1502-facts-do-not-cease-to-exist-because-they-are-ignored]]>
+		</link>
+		<description>
+	    <![CDATA["Facts do not cease to exist because they are ignored." -- Aldous Huxley]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

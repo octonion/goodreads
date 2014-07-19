@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/268220-alice]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/268220-alice" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 13 Oct 2013 03:12:42 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/44278-it-s-actually-very-difficult-to-make-something-both-simple-and</guid>
+		<pubDate>Sun, 13 Oct 2013 03:12:42 -0700</pubDate>
+		<title>
+			<![CDATA[Alice add a quote by Paul Simon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/44278-it-s-actually-very-difficult-to-make-something-both-simple-and]]>
+		</link>
+		<description>
+	    <![CDATA["It's actually very difficult to make something both simple and good." -- Paul Simon]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/429952-one-day-i-was-counting-the-cats-and-i-absent-mindedly</guid>
+		<pubDate>Thu, 01 May 2014 06:24:55 -0700</pubDate>
+		<title>
+			<![CDATA[Alice add a quote by Bobbie Ann Mason]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/429952-one-day-i-was-counting-the-cats-and-i-absent-mindedly]]>
+		</link>
+		<description>
+	    <![CDATA["One day I was counting the cats and I absent-mindedly counted myself." -- Bobbie Ann Mason]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/147142-the-wild-still-lingered-in-him-and-the-wolf-in</guid>
+		<pubDate>Tue, 17 Jun 2014 02:54:11 -0700</pubDate>
+		<title>
+			<![CDATA[Alice add a quote by Jack London]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/147142-the-wild-still-lingered-in-him-and-the-wolf-in]]>
+		</link>
+		<description>
+	    <![CDATA["The Wild still lingered in him and the wolf in him merely slept." -- Jack London]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/49549-what-a-long-strange-trip-it-s-been</guid>
+		<pubDate>Mon, 23 Jun 2014 06:24:29 -0700</pubDate>
+		<title>
+			<![CDATA[Alice add a quote by Jerry Garcia]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/49549-what-a-long-strange-trip-it-s-been]]>
+		</link>
+		<description>
+	    <![CDATA["What a long strange trip it's been." -- Jerry Garcia]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

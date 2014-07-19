@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/141893-susan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/141893-susan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 13 Aug 2012 21:11:43 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/605880-people-who-read-poetry-have-heard-about-the-burning-bush</guid>
+		<pubDate>Mon, 13 Aug 2012 21:11:43 -0700</pubDate>
+		<title>
+			<![CDATA[Susan add a quote by Li-Young Lee]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/605880-people-who-read-poetry-have-heard-about-the-burning-bush]]>
+		</link>
+		<description>
+	    <![CDATA["People who read poetry have heard about the burning bush, but when you write poetry, you sit inside the burning bush." -- Li-Young Lee]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/605882-she-shines-and-nobody-knows-what-to-do-with-her</guid>
+		<pubDate>Mon, 13 Aug 2012 21:13:23 -0700</pubDate>
+		<title>
+			<![CDATA[Susan add a quote by Linda Gregg]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/605882-she-shines-and-nobody-knows-what-to-do-with-her]]>
+		</link>
+		<description>
+	    <![CDATA["She shines and nobody knows what to do with her." -- Linda Gregg]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/396420-this-world-is-painted-on-a-wild-dark-metal</guid>
+		<pubDate>Sun, 06 Apr 2014 10:23:48 -0700</pubDate>
+		<title>
+			<![CDATA[Susan add a quote by Peter Matthiessen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/396420-this-world-is-painted-on-a-wild-dark-metal]]>
+		</link>
+		<description>
+	    <![CDATA["This world is painted on a wild dark metal" -- Peter Matthiessen]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/79844-you-see-i-am-a-poet-and-not-quite-right</guid>
+		<pubDate>Mon, 14 Apr 2014 21:40:27 -0700</pubDate>
+		<title>
+			<![CDATA[Susan add a quote by Edna St. Vincent Millay]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/79844-you-see-i-am-a-poet-and-not-quite-right]]>
+		</link>
+		<description>
+	    <![CDATA["You see, I am a poet, and not quite right in the head, darling. It’s only that." -- Edna St. Vincent Millay]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/182465-jennifer-casey]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/182465-jennifer-casey" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 31 Mar 2011 15:17:30 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/329322-young-men-especially-in-america-write-to-me-and-ask</guid>
+		<pubDate>Thu, 31 Mar 2011 15:17:30 -0700</pubDate>
+		<title>
+			<![CDATA[Jennifer add a quote by Andrew Lang]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/329322-young-men-especially-in-america-write-to-me-and-ask]]>
+		</link>
+		<description>
+	    <![CDATA["Young men, especially in America, write to me and ask me to recommend “a course of reading.”  Distrust a course of reading!  People who really care for books read all of them.  There is no other course." -- Andrew Lang]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/9940-the-best-index-to-a-person-s-character-is-how-he</guid>
+		<pubDate>Thu, 09 Jan 2014 13:15:46 -0800</pubDate>
+		<title>
+			<![CDATA[Jennifer add a quote by Abigail Van Buren]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9940-the-best-index-to-a-person-s-character-is-how-he]]>
+		</link>
+		<description>
+	    <![CDATA["The best index to a person's character is how he treats people who can't do him any good, and how he treats people who can't fight back." -- Abigail Van Buren]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

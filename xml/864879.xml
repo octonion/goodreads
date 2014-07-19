@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/864879-chris]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/864879-chris" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 03 Feb 2008 20:22:22 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/21074-it-was-a-great-mistake-my-being-born-a-man</guid>
+		<pubDate>Sun, 03 Feb 2008 20:22:22 -0800</pubDate>
+		<title>
+			<![CDATA[Chris add a quote by Eugene O'Neill]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21074-it-was-a-great-mistake-my-being-born-a-man]]>
+		</link>
+		<description>
+	    <![CDATA["It was a great mistake, my being born a man, I would have been much more successful as a seagull or a fish. As it is, I will always be a stranger who never feels at home, who does not really want and is not really wanted, who can never belong, who must be a little in love with death!" -- Eugene O'Neill]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

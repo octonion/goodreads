@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/195652-thom]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/195652-thom" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 22 Dec 2008 11:17:49 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/101539-the-only-way-we-live-beyond-our-lives-is-to</guid>
+		<pubDate>Mon, 22 Dec 2008 11:17:49 -0800</pubDate>
+		<title>
+			<![CDATA[Thom add a quote by Michael John LaChiusa]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/101539-the-only-way-we-live-beyond-our-lives-is-to]]>
+		</link>
+		<description>
+	    <![CDATA["The only way we live beyond our lives is to connect and carve ourselves into the souls of those we love." -- Michael John LaChiusa]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

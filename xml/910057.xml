@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/910057-melissa]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/910057-melissa" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 27 Feb 2014 19:32:20 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/642570-hey-clark-he-said-tell-me-something-good-i-stared-out</guid>
+		<pubDate>Thu, 27 Feb 2014 19:32:20 -0800</pubDate>
+		<title>
+			<![CDATA[Melissa add a quote by Jojo Moyes]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/642570-hey-clark-he-said-tell-me-something-good-i-stared-out]]>
+		</link>
+		<description>
+	    <![CDATA["Hey Clark', he said.'Tell me something good'. I stared out of the window at the bright-blue Swiss sky and I told him a story of two people. Two people who shouldn't have met, and who didn't like each other much when they did, but who found they were the only two people in the world who could possibly have understood each other. And I told him of the adventures they had, the places they had gone, and the things I had seen that I had never expected to. I conjured for him electric skies and iridescent seas and evenings full of laughter and silly jokes. I drew a world for him, a world far from a Swiss industrial estate, a world in which he was still somehow the person he had wanted to be. I drew the world he had created for me, full of wonder and possibility." -- Jojo Moyes]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

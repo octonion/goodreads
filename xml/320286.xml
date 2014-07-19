@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/320286-lindsay-beyerstein]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/320286-lindsay-beyerstein" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 25 Jun 2011 16:35:00 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4940-don-t-join-the-book-burners-don-t-think-you-re-going-to</guid>
+		<pubDate>Sat, 25 Jun 2011 16:35:00 -0700</pubDate>
+		<title>
+			<![CDATA[Lindsay add a quote by Dwight D. Eisenhower]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4940-don-t-join-the-book-burners-don-t-think-you-re-going-to]]>
+		</link>
+		<description>
+	    <![CDATA["Don't join the book burners. Don't think you're going to conceal faults by concealing evidence that they ever existed. Don't be afraid to go in your library and read every book..." -- Dwight D. Eisenhower]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3408-every-gun-that-is-made-every-warship-launched-every-rocket</guid>
+		<pubDate>Sat, 25 Jun 2011 16:35:08 -0700</pubDate>
+		<title>
+			<![CDATA[Lindsay add a quote by Dwight D. Eisenhower]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3408-every-gun-that-is-made-every-warship-launched-every-rocket]]>
+		</link>
+		<description>
+	    <![CDATA["Every gun that is made, every warship launched, every rocket fired signifies in the final sense, a theft from those who hunger and are not fed, those who are cold and are not clothed. This world in arms is not spending money alone. It is spending the sweat of its laborers, the genius of its scientists, the hopes of its children. This is not a way of life at all in any true sense. Under the clouds of war, it is humanity hanging on a cross of iron." -- Dwight D. Eisenhower]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

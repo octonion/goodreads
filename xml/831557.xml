@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/831557-joseph]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/831557-joseph" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 06 Feb 2012 11:42:16 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/498652-every-man-has-somewhere-about-him-some-belief-for-which</guid>
+		<pubDate>Mon, 06 Feb 2012 11:42:16 -0800</pubDate>
+		<title>
+			<![CDATA[Joseph add a quote by E.M. Forster]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/498652-every-man-has-somewhere-about-him-some-belief-for-which]]>
+		</link>
+		<description>
+	    <![CDATA["Every man has somewhere about him some belief for which he'd die. Only isn't it improbable that your parents and guardians told it to you? If there is one won't it be part of your own flesh and spirit?" -- E.M. Forster]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

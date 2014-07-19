@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/626196-tom]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/626196-tom" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 01 Dec 2007 10:35:01 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2671-within-siddhartha-there-slowly-grew-and-ripened-the-knowledge-of</guid>
+		<pubDate>Sat, 01 Dec 2007 10:35:01 -0800</pubDate>
+		<title>
+			<![CDATA[Tom add a quote by Hermann Hesse]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2671-within-siddhartha-there-slowly-grew-and-ripened-the-knowledge-of]]>
+		</link>
+		<description>
+	    <![CDATA["Within Siddhartha there slowly grew and ripened the knowledge of what wisdom really was and the goal of his long seeking.  It was nothing but a preparation of the soul, a capacity, a secret art of thinking, feeling and breathing thoughts of unity at every  moment of life." -- Hermann Hesse]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2672-desription-should-be-very-brief-and-have-an-incidental-nature</guid>
+		<pubDate>Sat, 01 Dec 2007 10:36:43 -0800</pubDate>
+		<title>
+			<![CDATA[Tom add a quote by Anton Pavlovich Chekhov]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2672-desription-should-be-very-brief-and-have-an-incidental-nature]]>
+		</link>
+		<description>
+	    <![CDATA["Desription should be very brief and have an incidental nature." -- Anton Pavlovich Chekhov]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2673-i-enjoy-looking-like-a-tart-and-thinking-like-a</guid>
+		<pubDate>Sat, 01 Dec 2007 10:37:43 -0800</pubDate>
+		<title>
+			<![CDATA[Tom add a quote by P.J. Harvey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2673-i-enjoy-looking-like-a-tart-and-thinking-like-a]]>
+		</link>
+		<description>
+	    <![CDATA["I enjoy looking like a tart and thinking like a politician." -- P.J. Harvey]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/978357-beau]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/978357-beau" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 08 Mar 2008 21:36:43 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/32838-then-he-looked-by-him-and-was-ware-of-a</guid>
+		<pubDate>Sat, 08 Mar 2008 21:36:43 -0800</pubDate>
+		<title>
+			<![CDATA[Beau add a quote by Thomas Malory]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/32838-then-he-looked-by-him-and-was-ware-of-a]]>
+		</link>
+		<description>
+	    <![CDATA["Then he looked by him, and was ware of a damsel that came riding as fast as her horse might gallop upon a fair palfrey. And when she espied that Sir Lanceor was slain, then she made sorrow out of measure, and said, &quot;O Balin ! two bodies hast thou slain and one heart, and two hearts in one body, and two souls thou hast lost." -- Thomas Malory]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

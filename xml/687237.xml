@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/687237-kirstie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/687237-kirstie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 10 Jun 2008 19:01:05 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/8667-it-takes-a-great-deal-of-bravery-to-stand-up</guid>
+		<pubDate>Tue, 10 Jun 2008 19:01:05 -0700</pubDate>
+		<title>
+			<![CDATA[Kirstie add a quote by J.K. Rowling]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8667-it-takes-a-great-deal-of-bravery-to-stand-up]]>
+		</link>
+		<description>
+	    <![CDATA["It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends." -- J.K. Rowling]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/341164-it-would-be-inappropiate-undignified-at-38-to-conduct-friendships</guid>
+		<pubDate>Mon, 01 Aug 2011 22:11:13 -0700</pubDate>
+		<title>
+			<![CDATA[Kirstie add a quote by David Nicholls]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/341164-it-would-be-inappropiate-undignified-at-38-to-conduct-friendships]]>
+		</link>
+		<description>
+	    <![CDATA["It would be inappropiate, undignified, at 38, to conduct friendships or love affairs with the ardour or intensity of a 22 year old. Falling in love like that? Writing poetry? Crying at pop songs? Dragging people into photobooths? Taking a whole day to make a compilation tape? Asking people if they wanted to share your bed, just for company? If you quoted Bob Dylan or TS Eliot or, god forbid, Brecht at someone these days they would smile politely and step quietly backwards, and who would blame them? Ridiculous, at 38, to expect a song or book or film to change your life." -- David Nicholls]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

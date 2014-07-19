@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/856086-julia]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/856086-julia" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 17 Mar 2008 10:54:15 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/24956-the-most-erroneous-stories-are-those-we-think-we-know</guid>
+		<pubDate>Mon, 17 Mar 2008 10:54:15 -0700</pubDate>
+		<title>
+			<![CDATA[Julia add a quote by Stephen Jay Gould]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/24956-the-most-erroneous-stories-are-those-we-think-we-know]]>
+		</link>
+		<description>
+	    <![CDATA["The most erroneous stories are those we think we know best - and therefore never scrutinize or question." -- Stephen Jay Gould]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/363-it-is-better-to-remain-silent-at-the-risk-of</guid>
+		<pubDate>Thu, 15 May 2008 20:06:50 -0700</pubDate>
+		<title>
+			<![CDATA[Julia add a quote by Maurice Switzer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/363-it-is-better-to-remain-silent-at-the-risk-of]]>
+		</link>
+		<description>
+	    <![CDATA["It is better to remain silent at the risk of being thought a fool, than to talk and remove all doubt of it." -- Maurice Switzer]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/876-to-be-yourself-in-a-world-that-is-constantly-trying</guid>
+		<pubDate>Thu, 15 May 2008 20:08:58 -0700</pubDate>
+		<title>
+			<![CDATA[Julia add a quote by Ralph Waldo Emerson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/876-to-be-yourself-in-a-world-that-is-constantly-trying]]>
+		</link>
+		<description>
+	    <![CDATA["To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment." -- Ralph Waldo Emerson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

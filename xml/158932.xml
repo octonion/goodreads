@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/158932-eka-priatna]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/158932-eka-priatna" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 26 Sep 2013 20:45:39 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/238770-and-yes-i-ll-admit-i-am-jealous-i-m-jealous-of</guid>
+		<pubDate>Thu, 26 Sep 2013 20:45:39 -0700</pubDate>
+		<title>
+			<![CDATA[Eka add a quote by Colleen Houck]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/238770-and-yes-i-ll-admit-i-am-jealous-i-m-jealous-of]]>
+		</link>
+		<description>
+	    <![CDATA["And yes, I’ll admit, I am jealous.  I’m jealous of every minute you spend with him, of every concerned expression you send his way, of every tear shed, of every glance, every touch, and every thought.  I want to rip him to pieces and purge him from your mind and from your heart.  But I can’t." -- Colleen Houck]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/366525-jamie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/366525-jamie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 07 Jan 2010 10:38:25 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/939-if-the-world-were-merely-seductive-that-would-be-easy</guid>
+		<pubDate>Thu, 07 Jan 2010 10:38:25 -0800</pubDate>
+		<title>
+			<![CDATA[Jamie add a quote by E.B. White]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/939-if-the-world-were-merely-seductive-that-would-be-easy]]>
+		</link>
+		<description>
+	    <![CDATA["If the world were merely seductive, that would be easy. If it were merely challenging, that would be no problem. But I arise in the morning torn between a desire to improve the world and a desire to enjoy the world. This makes it hard to plan the day." -- E.B. White]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/17140-when-someone-you-love-dies-and-you-re-not-expecting-it</guid>
+		<pubDate>Wed, 06 Apr 2011 12:11:05 -0700</pubDate>
+		<title>
+			<![CDATA[Jamie add a quote by John Irving]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17140-when-someone-you-love-dies-and-you-re-not-expecting-it]]>
+		</link>
+		<description>
+	    <![CDATA["When someone you love dies, and you're not expecting it, you don't lose her all at once; you lose her in pieces over a long time—the way the mail stops coming, and her scent fades from the pillows and even from the clothes in her closet and drawers. Gradually, you accumulate the parts of her that are gone. Just when the day comes—when there's a particular missing part that overwhelms you with the feeling that she's gone, forever—there comes another day, and another specifically missing part." -- John Irving]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

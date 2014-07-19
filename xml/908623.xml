@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/908623-heather]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/908623-heather" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 11 Mar 2009 08:17:02 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/42147-right-now-i-d-like-all-my-troubles-to-stand-in</guid>
+		<pubDate>Wed, 11 Mar 2009 08:17:02 -0700</pubDate>
+		<title>
+			<![CDATA[Heather add a quote by Shannon Hale]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/42147-right-now-i-d-like-all-my-troubles-to-stand-in]]>
+		</link>
+		<description>
+	    <![CDATA["Right now I'd like all my troubles to stand in front of me in a straight line, and one by one I'd give each a black eye. " -- Shannon Hale]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/19152-i-think-the-only-way-to-get-through-this-life</guid>
+		<pubDate>Wed, 11 Mar 2009 08:17:03 -0700</pubDate>
+		<title>
+			<![CDATA[Heather add a quote by Shannon Hale]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/19152-i-think-the-only-way-to-get-through-this-life]]>
+		</link>
+		<description>
+	    <![CDATA["I think the only way to get through this life is laughing hard and constantly, mostly at myself." -- Shannon Hale]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/844277-ann]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/844277-ann" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 09 Jan 2012 16:46:33 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/380883-if-there-is-a-fundamental-challenge-within-these-stories-it</guid>
+		<pubDate>Mon, 09 Jan 2012 16:46:33 -0800</pubDate>
+		<title>
+			<![CDATA[Ann add a quote by Gregory Boyle]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/380883-if-there-is-a-fundamental-challenge-within-these-stories-it]]>
+		</link>
+		<description>
+	    <![CDATA["If there is a fundamental challenge within these stories, it is simply to change our lurking suspicion that some lives matter less than other lives." -- Gregory Boyle]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/305872-god-would-seem-to-be-too-occupied-in-being-unable</guid>
+		<pubDate>Mon, 09 Jan 2012 16:46:07 -0800</pubDate>
+		<title>
+			<![CDATA[Ann add a quote by Gregory Boyle]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/305872-god-would-seem-to-be-too-occupied-in-being-unable]]>
+		</link>
+		<description>
+	    <![CDATA["God would seem to be too occupied in being unable to take Her eyes off of us to spend any time raising an eyebrow in disapproval." -- Gregory Boyle]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

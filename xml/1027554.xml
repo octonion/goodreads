@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1027554-paul]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1027554-paul" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 28 Mar 2008 16:55:27 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/39314-truth-may-seem-but-cannot-be-beauty-brag-but-tis</guid>
+		<pubDate>Fri, 28 Mar 2008 16:55:27 -0700</pubDate>
+		<title>
+			<![CDATA[Paul add a quote by William Shakespeare]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/39314-truth-may-seem-but-cannot-be-beauty-brag-but-tis]]>
+		</link>
+		<description>
+	    <![CDATA["Truth may seem, but cannot be;
+Beauty brag, but 'tis not she:
+Truth and beauty buriéd be." -- William Shakespeare]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/91198-both-capitalism-and-marxism-promised-to-point-out-the-path</guid>
+		<pubDate>Sun, 31 Aug 2008 12:30:47 -0700</pubDate>
+		<title>
+			<![CDATA[Paul add a quote by Benedict XVI]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/91198-both-capitalism-and-marxism-promised-to-point-out-the-path]]>
+		</link>
+		<description>
+	    <![CDATA["Both capitalism and Marxism promised to point out the path for the creation of just structures, and they declared that these, once established, would function by themselves; they declared that not only would they have no need of any prior individual morality, but that they would promote a communal morality. And this ideological promise has been proved false. The facts have clearly demonstrated it. The Marxist system, where it found its way into government, not only left a sad heritage of economic and ecological destruction, but also a painful oppression of souls. And we can also see the same thing happening in the West, where the distance between rich and poor is growing constantly, and giving rise to a worrying degradation of personal dignity through drugs, alcohol and deceptive illusions of happiness." -- Benedict XVI]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

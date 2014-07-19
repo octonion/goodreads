@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/640621-aaron]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/640621-aaron" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 25 Nov 2007 23:27:05 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1239-men-however-shouldn-t-despair-they-are-excellent-at-identifying-and</guid>
+		<pubDate>Sun, 25 Nov 2007 23:27:05 -0800</pubDate>
+		<title>
+			<![CDATA[Aaron add a quote by Barbara Pease]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1239-men-however-shouldn-t-despair-they-are-excellent-at-identifying-and]]>
+		</link>
+		<description>
+	    <![CDATA["Men, however, shouldn't despair. They are excellent at identifying and imitating animal sounds, which would have been a significant advantage for the ancient hunter. Sadly, that's not quite as much use today." -- Barbara Pease]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

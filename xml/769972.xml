@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/769972-jen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/769972-jen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 14 Jan 2013 15:14:15 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/352298-do-you-think-it-s-easy-for-me-no-i-don-t</guid>
+		<pubDate>Mon, 14 Jan 2013 15:14:15 -0800</pubDate>
+		<title>
+			<![CDATA[Jen add a quote by Gwen Hayes]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/352298-do-you-think-it-s-easy-for-me-no-i-don-t]]>
+		</link>
+		<description>
+	    <![CDATA["Do you think it’s easy for me? No, I don’t remember you. I don’t remember holding you or talking to you or falling in love with you—but I walk around with a giant hole in my heart all the time. I feel your absence every second of the day. It aches and nothing soothes it. Losing you is bad enough, but I don’t even get the comfort of remembering that I had you once.
+-Haden" -- Gwen Hayes]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/767-when-you-are-sorrowful-look-again-in-your-heart-and</guid>
+		<pubDate>Mon, 14 Jan 2013 15:16:19 -0800</pubDate>
+		<title>
+			<![CDATA[Jen add a quote by Kahlil Gibran]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/767-when-you-are-sorrowful-look-again-in-your-heart-and]]>
+		</link>
+		<description>
+	    <![CDATA["When you are sorrowful look again in your heart, and you shall see that in truth you are weeping for that which has been your delight." -- Kahlil Gibran]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

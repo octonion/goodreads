@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/162637-jeff-locke]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/162637-jeff-locke" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 09 Mar 2014 07:06:01 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1116266-when-our-faith-can-firmly-grasp-the-deity-of-our</guid>
+		<pubDate>Sun, 09 Mar 2014 07:06:01 -0700</pubDate>
+		<title>
+			<![CDATA[Jeff add a quote by Anonymous]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1116266-when-our-faith-can-firmly-grasp-the-deity-of-our]]>
+		</link>
+		<description>
+	    <![CDATA["When our faith can firmly grasp the Deity of our adorable Lord—and on this precious doctrine may it never waver!—there is a corresponding confidence and repose of the mind in each particular of His sacrificial work." -- Anonymous]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

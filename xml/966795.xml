@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/966795-steven-strong]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/966795-steven-strong" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 04 Mar 2008 16:15:54 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/31015-i-think-it-only-makes-sense-to-seek-out-and</guid>
+		<pubDate>Tue, 04 Mar 2008 16:15:54 -0800</pubDate>
+		<title>
+			<![CDATA[Steven add a quote by Noam Chomsky]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/31015-i-think-it-only-makes-sense-to-seek-out-and]]>
+		</link>
+		<description>
+	    <![CDATA["I think it only makes sense to seek out and identify structures of authority, hierarchy, and domination in every aspect of life, and to challenge them; unless a justification for them can be given, they are illegitimate, and should be dismantled, to increase the scope of human freedom." -- Noam Chomsky]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

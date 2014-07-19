@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/310403-kyle]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/310403-kyle" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 14 May 2008 03:01:20 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/53827-cicero-smiled-at-us-the-art-of-life-is-to</guid>
+		<pubDate>Wed, 14 May 2008 03:01:20 -0700</pubDate>
+		<title>
+			<![CDATA[Kyle add a quote by Robert Harris]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/53827-cicero-smiled-at-us-the-art-of-life-is-to]]>
+		</link>
+		<description>
+	    <![CDATA["Cicero smiled at us.  'The art of life is to deal with problems as they arise, rather than destory one's spirit by worrying about them too far in advance.  Especially tonight." -- Robert Harris]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/53829-when-don-quixote-went-out-into-the-world-that-world</guid>
+		<pubDate>Wed, 14 May 2008 03:06:52 -0700</pubDate>
+		<title>
+			<![CDATA[Kyle add a quote by Milan Kundera]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/53829-when-don-quixote-went-out-into-the-world-that-world]]>
+		</link>
+		<description>
+	    <![CDATA["When Don Quixote went out into the world, that world turned into a mystery before his eyes.  That is the legacy of the first European novel to the entire subsequent history of the novel.  The novel teaches us to comprehend the world as a question.  There is wisdom and tolerance in that attitude." -- Milan Kundera]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

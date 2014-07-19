@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/613265-sheing]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/613265-sheing" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 28 Jun 2012 07:42:13 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/16711-the-thing-about-mountains-is-that-you-have-to-keep</guid>
+		<pubDate>Thu, 28 Jun 2012 07:42:13 -0700</pubDate>
+		<title>
+			<![CDATA[Sheing add a quote by Nancy Garden]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16711-the-thing-about-mountains-is-that-you-have-to-keep]]>
+		</link>
+		<description>
+	    <![CDATA["The thing about mountains is that you have to keep on climbing them, and that it's always hard, but there's a view from top every time when you finally get there." -- Nancy Garden]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/354094-the-1st-day-i-stood-in-the-kitchen-leaning-against</guid>
+		<pubDate>Thu, 28 Jun 2012 07:43:57 -0700</pubDate>
+		<title>
+			<![CDATA[Sheing add a quote by Nancy Garden]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/354094-the-1st-day-i-stood-in-the-kitchen-leaning-against]]>
+		</link>
+		<description>
+	    <![CDATA["The 1st day, I stood in the kitchen leaning against the counter watching Annie feed the cats, and I knew I wanted to do that forever." -- Nancy Garden]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/192522-kim]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/192522-kim" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 20 Jan 2014 10:07:30 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/399629-we-need-to-make-books-cool-again-if-you-go</guid>
+		<pubDate>Mon, 20 Jan 2014 10:07:30 -0800</pubDate>
+		<title>
+			<![CDATA[Kim add a quote by John Waters]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/399629-we-need-to-make-books-cool-again-if-you-go]]>
+		</link>
+		<description>
+	    <![CDATA["We need to make books cool again. If you go home with somebody and they don't have books, don't fuck them." -- John Waters]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

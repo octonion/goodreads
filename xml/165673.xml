@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/165673-julie-platt]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/165673-julie-platt" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 20 Jul 2013 06:02:44 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/207602-polonius-what-do-you-read-my-lord-hamlet-words-words</guid>
+		<pubDate>Sat, 20 Jul 2013 06:02:44 -0700</pubDate>
+		<title>
+			<![CDATA[Julie add a quote by William Shakespeare]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/207602-polonius-what-do-you-read-my-lord-hamlet-words-words]]>
+		</link>
+		<description>
+	    <![CDATA["POLONIUS: What do you read, my lord?
+HAMLET: Words, words, words." -- William Shakespeare]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/56217-times-are-bad-children-no-longer-obey-their-parents-and</guid>
+		<pubDate>Sat, 20 Jul 2013 06:02:02 -0700</pubDate>
+		<title>
+			<![CDATA[Julie add a quote by Cicero. M Tullius]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/56217-times-are-bad-children-no-longer-obey-their-parents-and]]>
+		</link>
+		<description>
+	    <![CDATA["Times are bad.  Children no longer obey their parents, and everyone is writing a book." -- Cicero. M Tullius]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/28431-i-can-t-go-on-i-ll-go-on</guid>
+		<pubDate>Wed, 18 Jun 2014 11:19:12 -0700</pubDate>
+		<title>
+			<![CDATA[Julie add a quote by Samuel Beckett]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/28431-i-can-t-go-on-i-ll-go-on]]>
+		</link>
+		<description>
+	    <![CDATA["I can't go on, I'll go on." -- Samuel Beckett]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/409600-what-a-strange-illusion-it-is-to-suppose-that-beauty</guid>
+		<pubDate>Sun, 12 Jan 2014 09:32:50 -0800</pubDate>
+		<title>
+			<![CDATA[Julie add a quote by Leo Tolstoy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/409600-what-a-strange-illusion-it-is-to-suppose-that-beauty]]>
+		</link>
+		<description>
+	    <![CDATA["What a strange illusion it is to suppose that beauty is goodness." -- Leo Tolstoy]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

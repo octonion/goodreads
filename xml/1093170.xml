@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1093170-joann]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1093170-joann" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 17 Apr 2008 14:36:41 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/8864-when-i-was-growing-up-i-always-wanted-to-be</guid>
+		<pubDate>Thu, 17 Apr 2008 14:36:41 -0700</pubDate>
+		<title>
+			<![CDATA[Joann add a quote by Lily Tomlin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8864-when-i-was-growing-up-i-always-wanted-to-be]]>
+		</link>
+		<description>
+	    <![CDATA["When I was growing up I always wanted to be someone. Now I realize I should have been more specific." -- Lily Tomlin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/40133-if-truth-is-beauty-how-come-no-one-has-their</guid>
+		<pubDate>Thu, 17 Apr 2008 14:37:24 -0700</pubDate>
+		<title>
+			<![CDATA[Joann add a quote by Lily Tomlin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/40133-if-truth-is-beauty-how-come-no-one-has-their]]>
+		</link>
+		<description>
+	    <![CDATA["If truth is beauty, how come no one has their hair done in the library?" -- Lily Tomlin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

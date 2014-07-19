@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/662066-ann]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/662066-ann" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 04 Feb 2011 09:49:37 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/230372-when-a-chapter-of-your-life-book-is-complete-your</guid>
+		<pubDate>Fri, 04 Feb 2011 09:49:37 -0800</pubDate>
+		<title>
+			<![CDATA[Ann add a quote by Beth Hoffman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/230372-when-a-chapter-of-your-life-book-is-complete-your]]>
+		</link>
+		<description>
+	    <![CDATA["When a chapter of your Life Book is complete, your spirit knows its time to turn the page so a new chapter can begin.  Even when you're scared or think you're not ready your spirit knows you are. " -- Beth Hoffman]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5890-be-steady-and-well-ordered-in-your-life-so-that-you</guid>
+		<pubDate>Thu, 12 Dec 2013 09:54:47 -0800</pubDate>
+		<title>
+			<![CDATA[Ann add a quote by Gustave Flaubert]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5890-be-steady-and-well-ordered-in-your-life-so-that-you]]>
+		</link>
+		<description>
+	    <![CDATA["Be steady and well-ordered in your life so that you can be fierce and original in your work." -- Gustave Flaubert]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

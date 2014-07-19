@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/758590-melanie-edens]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/758590-melanie-edens" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 17 Feb 2008 22:20:46 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2795-she-is-too-fond-of-books-and-it-has-turned</guid>
+		<pubDate>Sun, 17 Feb 2008 22:20:46 -0800</pubDate>
+		<title>
+			<![CDATA[Melanie add a quote by Louisa May Alcott]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2795-she-is-too-fond-of-books-and-it-has-turned]]>
+		</link>
+		<description>
+	    <![CDATA["She is too fond of books, and it has turned her brain." -- Louisa May Alcott]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/435494-he-made-me-think-of-all-the-books-i-hadn-t</guid>
+		<pubDate>Thu, 15 Aug 2013 10:49:41 -0700</pubDate>
+		<title>
+			<![CDATA[Melanie add a quote by Tom Perrotta]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/435494-he-made-me-think-of-all-the-books-i-hadn-t]]>
+		</link>
+		<description>
+	    <![CDATA["He made me think of all the books I hadn't read, and all the ones I'd read but hadn't fully understood." -- Tom Perrotta]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/322262-i-was-32-when-i-started-cooking-up-until-then</guid>
+		<pubDate>Thu, 15 Aug 2013 10:50:30 -0700</pubDate>
+		<title>
+			<![CDATA[Melanie add a quote by Julia Child]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/322262-i-was-32-when-i-started-cooking-up-until-then]]>
+		</link>
+		<description>
+	    <![CDATA["I was 32 when I started cooking; up until then, I just ate." -- Julia Child]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

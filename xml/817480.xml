@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/817480-leslie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/817480-leslie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 27 Jan 2013 06:46:32 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/204561-we-re-all-a-little-weird-and-life-is-a-little</guid>
+		<pubDate>Sun, 27 Jan 2013 06:46:32 -0800</pubDate>
+		<title>
+			<![CDATA[Leslie add a quote by Robert Fulghum]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/204561-we-re-all-a-little-weird-and-life-is-a-little]]>
+		</link>
+		<description>
+	    <![CDATA["We’re all a little weird. And life is a little weird. And when we find someone whose weirdness is compatible with ours, we join up with them and fall into mutually satisfying weirdness—and call it love—true love." -- Robert Fulghum]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

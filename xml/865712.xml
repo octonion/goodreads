@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/865712-charlise]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/865712-charlise" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 06 Dec 2011 09:59:33 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/470144-because-if-memory-exists-outside-of-the-flesh-it-won-t</guid>
+		<pubDate>Tue, 06 Dec 2011 09:59:33 -0800</pubDate>
+		<title>
+			<![CDATA[Charlise add a quote by William Faulkner]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/470144-because-if-memory-exists-outside-of-the-flesh-it-won-t]]>
+		</link>
+		<description>
+	    <![CDATA["Because if memory exists outside of the flesh it won't be memory because it won't know what it remembers so when she became not then half of memory became not and if I become not then all of remembering will cease to be. -Yes he thought Between grief and nothing I will take grief." -- William Faulkner]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/470145-but-here-was-all-the-timorousness-and-angularity-of-inexperienced</guid>
+		<pubDate>Tue, 06 Dec 2011 10:05:59 -0800</pubDate>
+		<title>
+			<![CDATA[Charlise add a quote by Anton Chekhov]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/470145-but-here-was-all-the-timorousness-and-angularity-of-inexperienced]]>
+		</link>
+		<description>
+	    <![CDATA["But here was all the timorousness and angularity of inexperienced youth, a feeling of awkwardness, and an impression of bewilderment, as if someone had suddenly knocked at the door." -- Anton Chekhov]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

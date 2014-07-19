@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/714014-rini-f]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/714014-rini-f" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 15 Jun 2009 23:37:22 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/109461-when-you-will-not-fly-into-a-passion-people-know</guid>
+		<pubDate>Mon, 15 Jun 2009 23:37:22 -0700</pubDate>
+		<title>
+			<![CDATA[Rini add a quote by Frances Hodgson Burnett]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/109461-when-you-will-not-fly-into-a-passion-people-know]]>
+		</link>
+		<description>
+	    <![CDATA["When you will not fly into a passion people know you are stronger than they are, because you are strong enough to hold in your rage, and they are not, and they say stupid things they wish they hadn't said afterward. There's nothing so strong as rage, except what makes you hold it in--that's stronger. It's a good thing not to answer your enemies." -- Frances Hodgson Burnett]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

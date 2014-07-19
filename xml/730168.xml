@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/730168-arnold]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/730168-arnold" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 Jan 2008 11:26:48 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/9177-he-asked-croesus-who-told-you-to-attack-my-land</guid>
+		<pubDate>Tue, 01 Jan 2008 11:26:48 -0800</pubDate>
+		<title>
+			<![CDATA[Arnold add a quote by Herodotus]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9177-he-asked-croesus-who-told-you-to-attack-my-land]]>
+		</link>
+		<description>
+	    <![CDATA["He asked, 'Croesus, who told you to attack my land and meet me as an enemy instead of a friend?'
+
+The King replied, 'It was caused by your good fate and my bad fate. It was the fault of the Greek gods, who with their arrogance, encouraged me to march onto your lands. &lt;b&gt;Nobody is mad enough to choose war whilst there is peace. During times of peace, the sons bury their fathers, but in war it is the fathers who send their sons to the grave&lt;/b&gt;." -- Herodotus]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/375624-i-am-proof-positive-that-wolves-write-doggie-style</guid>
+		<pubDate>Sat, 30 Apr 2011 10:51:57 -0700</pubDate>
+		<title>
+			<![CDATA[Arnold add a quote by Arnold Wolf]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/375624-i-am-proof-positive-that-wolves-write-doggie-style]]>
+		</link>
+		<description>
+	    <![CDATA["I am proof positive that wolves write doggie-style..." -- Arnold Wolf]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

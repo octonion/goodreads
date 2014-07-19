@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/849891-drew-lackovic]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/849891-drew-lackovic" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 06 May 2008 13:03:28 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/50136-read-every-day-something-no-one-else-is-reading-think</guid>
+		<pubDate>Tue, 06 May 2008 13:03:28 -0700</pubDate>
+		<title>
+			<![CDATA[Drew add a quote by Christopher Morley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/50136-read-every-day-something-no-one-else-is-reading-think]]>
+		</link>
+		<description>
+	    <![CDATA["Read, every day, something no one else is reading. Think, every day, something no one else is thinking. Do, every day, something no one else would be silly enough to do. It is bad for the mind to be always part of unanimity." -- Christopher Morley]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/51788-there-is-always-more-misery-among-the-lower-classes-than</guid>
+		<pubDate>Tue, 06 May 2008 13:06:09 -0700</pubDate>
+		<title>
+			<![CDATA[Drew add a quote by Victor Hugo]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/51788-there-is-always-more-misery-among-the-lower-classes-than]]>
+		</link>
+		<description>
+	    <![CDATA["There is always more misery among the lower classes than there is humanity in the higher." -- Victor Hugo]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/51790-i-think-music-in-general-and-all-types-of-art</guid>
+		<pubDate>Tue, 06 May 2008 13:06:38 -0700</pubDate>
+		<title>
+			<![CDATA[Drew add a quote by Shirley Manson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/51790-i-think-music-in-general-and-all-types-of-art]]>
+		</link>
+		<description>
+	    <![CDATA["I think music in general, and all types of art really, have always been about escapism-escaping the norm and asserting your own reality." -- Shirley Manson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

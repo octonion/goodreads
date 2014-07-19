@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/379279-ann-lutterman-aguilar]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/379279-ann-lutterman-aguilar" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 18 Dec 2013 14:28:40 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6528-what-are-men-to-rocks-and-mountains</guid>
+		<pubDate>Wed, 18 Dec 2013 14:28:40 -0800</pubDate>
+		<title>
+			<![CDATA[Ann add a quote by Jane Austen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6528-what-are-men-to-rocks-and-mountains]]>
+		</link>
+		<description>
+	    <![CDATA["What are men to rocks and mountains?" -- Jane Austen]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/80459-thousands-of-tired-nerve-shaken-over-civilized-people-are-beginning-to-find</guid>
+		<pubDate>Wed, 18 Dec 2013 14:28:53 -0800</pubDate>
+		<title>
+			<![CDATA[Ann add a quote by John Muir]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/80459-thousands-of-tired-nerve-shaken-over-civilized-people-are-beginning-to-find]]>
+		</link>
+		<description>
+	    <![CDATA["Thousands of tired, nerve-shaken, over-civilized people are beginning to find out going to the mountains is going home; that wilderness is a necessity..." -- John Muir]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/439772-every-mountain-top-is-within-reach-if-you-just-keep</guid>
+		<pubDate>Wed, 18 Dec 2013 14:30:34 -0800</pubDate>
+		<title>
+			<![CDATA[Ann add a quote by Barry Finlay]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/439772-every-mountain-top-is-within-reach-if-you-just-keep]]>
+		</link>
+		<description>
+	    <![CDATA["Every mountain top is within reach if you just keep climbing." -- Barry Finlay]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

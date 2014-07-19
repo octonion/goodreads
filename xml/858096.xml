@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/858096-heather]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/858096-heather" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 30 Apr 2008 19:56:09 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/37649-my-cow-is-not-pretty-but-it-is-pretty-to</guid>
+		<pubDate>Wed, 30 Apr 2008 19:56:09 -0700</pubDate>
+		<title>
+			<![CDATA[Heather add a quote by David Lynch]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/37649-my-cow-is-not-pretty-but-it-is-pretty-to]]>
+		</link>
+		<description>
+	    <![CDATA["My cow is not pretty, but it is pretty to me." -- David Lynch]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4153-there-s-always-fear-of-the-unknown-where-there-s-mystery</guid>
+		<pubDate>Wed, 30 Apr 2008 19:56:38 -0700</pubDate>
+		<title>
+			<![CDATA[Heather add a quote by David Lynch ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4153-there-s-always-fear-of-the-unknown-where-there-s-mystery]]>
+		</link>
+		<description>
+	    <![CDATA["There's always fear of the unknown where there's mystery" -- David Lynch ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/22088-this-is-not-for-you</guid>
+		<pubDate>Sat, 06 Jun 2009 22:27:34 -0700</pubDate>
+		<title>
+			<![CDATA[Heather add a quote by Mark Z. Danielewski]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22088-this-is-not-for-you]]>
+		</link>
+		<description>
+	    <![CDATA["This is not for you." -- Mark Z. Danielewski]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

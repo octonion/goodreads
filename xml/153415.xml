@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/153415-alvina]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/153415-alvina" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 10 Jun 2011 18:59:57 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/393365-she-craved-a-presence-beside-her-solid-fingertips-light-at</guid>
+		<pubDate>Fri, 10 Jun 2011 18:59:57 -0700</pubDate>
+		<title>
+			<![CDATA[Alvina add a quote by Laini Taylor]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/393365-she-craved-a-presence-beside-her-solid-fingertips-light-at]]>
+		</link>
+		<description>
+	    <![CDATA["She craved a presence beside her, solid. Fingertips light at the nape of her neck and a voice meeting hers in the dark. Someone who would wait with an umbrella to walk her home in the rain, and smile like sunshine when he saw her coming. Who would dance with her on her balcony, keep his promises and know her secrets, and make a tiny world wherever he was, with just her and his arms and his whisper and her trust." -- Laini Taylor]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

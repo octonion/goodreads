@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/704509-sierva]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/704509-sierva" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 04 May 2010 22:30:59 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/255784-january-8-has-been-a-lucky-day-for-me-i</guid>
+		<pubDate>Tue, 04 May 2010 22:30:59 -0700</pubDate>
+		<title>
+			<![CDATA[Sierva add a quote by Isabel Allende]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/255784-january-8-has-been-a-lucky-day-for-me-i]]>
+		</link>
+		<description>
+	    <![CDATA["January 8 has been a lucky day for me. I have started all my books on that day, and all of them have been well received by the readers. I write eight to ten hours a day until I have a first draft, then I can relax a little. I am very disciplined. I write in silence and solitude. I light a candle to call inspiration and the muses, and I surround myself with pictures of the people I love, dead and alive." -- Isabel Allende]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

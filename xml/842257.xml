@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/842257-rebecca]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/842257-rebecca" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 30 Aug 2009 13:59:46 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/189544-the-truly-cultured-are-capable-of-owning-thousands-of-unread</guid>
+		<pubDate>Sun, 30 Aug 2009 13:59:46 -0700</pubDate>
+		<title>
+			<![CDATA[Rebecca add a quote by Gabriel Zaid]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/189544-the-truly-cultured-are-capable-of-owning-thousands-of-unread]]>
+		</link>
+		<description>
+	    <![CDATA["The truly cultured are capable of owning thousands of unread books without losing their composure or their desire for more." -- Gabriel Zaid]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/602975-you-mean-old-books-stories-written-before-space-travel-but</guid>
+		<pubDate>Thu, 09 Aug 2012 01:22:45 -0700</pubDate>
+		<title>
+			<![CDATA[Rebecca add a quote by Philip K. Dick]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/602975-you-mean-old-books-stories-written-before-space-travel-but]]>
+		</link>
+		<description>
+	    <![CDATA["You mean old books?&quot;
+
+&quot;Stories written before space travel but about space travel.&quot;
+
+&quot;How could there have been stories about space travel before --&quot;
+
+&quot;The writers,&quot; Pris said, &quot;made it up." -- Philip K. Dick]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/846102-judy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/846102-judy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 06 Jul 2013 21:46:34 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/51043-what-we-do-see-depends-mainly-on-what-we-look</guid>
+		<pubDate>Sat, 06 Jul 2013 21:46:34 -0700</pubDate>
+		<title>
+			<![CDATA[Judy add a quote by John Lubbock]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/51043-what-we-do-see-depends-mainly-on-what-we-look]]>
+		</link>
+		<description>
+	    <![CDATA["What we do see depends mainly on what we look for. ... In the same field the farmer will notice the crop, the geologists the fossils, botanists the flowers, artists the colouring, sportmen the cover for the game. Though we may all look at the same things, it does not all follow that we should see them." -- John Lubbock]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1132991-a-god-without-body-or-parts-is-conceivable-but-a</guid>
+		<pubDate>Mon, 12 May 2014 20:13:54 -0700</pubDate>
+		<title>
+			<![CDATA[Judy add a quote by Terryl Givens]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1132991-a-god-without-body-or-parts-is-conceivable-but-a]]>
+		</link>
+		<description>
+	    <![CDATA["A God without body or parts is conceivable. But a God without passions would engender in our hearts neither love nor interest." -- Terryl Givens]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

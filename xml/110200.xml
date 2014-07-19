@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/110200-georgia]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/110200-georgia" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 11 Jul 2008 05:08:21 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/71856-the-memory-of-a-particular-image-is-but-regret-for</guid>
+		<pubDate>Fri, 11 Jul 2008 05:08:21 -0700</pubDate>
+		<title>
+			<![CDATA[Georgia add a quote by Marcel Proust]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/71856-the-memory-of-a-particular-image-is-but-regret-for]]>
+		</link>
+		<description>
+	    <![CDATA["...the memory of a particular image is but regret for a particular moment.." -- Marcel Proust]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/512-there-is-no-greater-agony-than-bearing-an-untold-story</guid>
+		<pubDate>Thu, 24 Jul 2008 11:06:39 -0700</pubDate>
+		<title>
+			<![CDATA[Georgia add a quote by Maya Angelou]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/512-there-is-no-greater-agony-than-bearing-an-untold-story]]>
+		</link>
+		<description>
+	    <![CDATA["There is no greater agony than bearing an untold story inside you." -- Maya Angelou]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/8287-i-have-not-failed-i-ve-just-found-10-000-ways-that</guid>
+		<pubDate>Thu, 24 Jul 2008 11:07:34 -0700</pubDate>
+		<title>
+			<![CDATA[Georgia add a quote by Thomas A. Edison]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8287-i-have-not-failed-i-ve-just-found-10-000-ways-that]]>
+		</link>
+		<description>
+	    <![CDATA["I have not failed. I've just found 10,000 ways that won't work." -- Thomas A. Edison]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1519-i-believe-that-imagination-is-stronger-than-knowledge-that-myth</guid>
+		<pubDate>Thu, 24 Jul 2008 11:07:59 -0700</pubDate>
+		<title>
+			<![CDATA[Georgia add a quote by Robert Fulghum]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1519-i-believe-that-imagination-is-stronger-than-knowledge-that-myth]]>
+		</link>
+		<description>
+	    <![CDATA["I believe that imagination is stronger than knowledge. That myth is more potent than history. That dreams are more powerful than facts. That hope always triumphs over experience. That laughter is the only cure for grief. And I believe that love is stronger than death." -- Robert Fulghum]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

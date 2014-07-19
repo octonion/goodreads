@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/714174-zaz]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/714174-zaz" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 26 Dec 2007 04:53:36 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/7647-this-is-my-letter-to-the-world-that-never-wrote</guid>
+		<pubDate>Wed, 26 Dec 2007 04:53:36 -0800</pubDate>
+		<title>
+			<![CDATA[Zaz add a quote by Emily Dickinson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7647-this-is-my-letter-to-the-world-that-never-wrote]]>
+		</link>
+		<description>
+	    <![CDATA["This is my letter to the world
+That never wrote to me" -- Emily Dickinson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/7661-de-fant-mes-poursuivis-oubli-s-recherch-s-nouveau-quelquefois-pour-une</guid>
+		<pubDate>Wed, 26 Dec 2007 09:11:22 -0800</pubDate>
+		<title>
+			<![CDATA[Zaz add a quote by Marcel Proust]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7661-de-fant-mes-poursuivis-oubli-s-recherch-s-nouveau-quelquefois-pour-une]]>
+		</link>
+		<description>
+	    <![CDATA["De fantômes poursuivis, oubliés, recherchés à nouveau quelquefois pour une seule entrevue et afin de toucher à une vie irréelle laquelle aussitôt s'enfuyait, ces chemins de Balbec en étaient pleins." -- Marcel Proust]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

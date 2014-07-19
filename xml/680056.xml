@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/680056-amy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/680056-amy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 14 Aug 2013 17:53:50 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/14328-there-is-a-special-place-in-hell-for-women-who</guid>
+		<pubDate>Wed, 14 Aug 2013 17:53:50 -0700</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Madeleine Albright]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14328-there-is-a-special-place-in-hell-for-women-who]]>
+		</link>
+		<description>
+	    <![CDATA["There is a special place in hell for women who don't help other women.&quot;
+
+(Keynote speech at &lt;i&gt;Celebrating Inspiration&lt;/i&gt; luncheon with the WNBA's All-Decade Team, 2006)" -- Madeleine Albright]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/20368-a-little-madness-in-the-spring-is-wholesome-even-for</guid>
+		<pubDate>Sun, 02 Feb 2014 20:44:37 -0800</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Emily Dickinson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20368-a-little-madness-in-the-spring-is-wholesome-even-for]]>
+		</link>
+		<description>
+	    <![CDATA["A little Madness in the Spring Is wholesome even for the King." -- Emily Dickinson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

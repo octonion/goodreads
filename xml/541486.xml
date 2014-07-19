@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/541486-jeannine]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/541486-jeannine" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 18 Jul 2011 18:07:27 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/94435-the-problem-with-doing-nothing-is-not-knowing-when-you</guid>
+		<pubDate>Mon, 18 Jul 2011 18:07:27 -0700</pubDate>
+		<title>
+			<![CDATA[Jeannine add a quote by Nelson De Mille]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/94435-the-problem-with-doing-nothing-is-not-knowing-when-you]]>
+		</link>
+		<description>
+	    <![CDATA["The problem with doing nothing is not knowing when you are finished." -- Nelson De Mille]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

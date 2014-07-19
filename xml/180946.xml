@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/180946-simone]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/180946-simone" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 05 May 2013 21:42:48 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/554594-allen-westberlinern-war-gemeinsam-dass-sie-nur-selten-den-ostteil</guid>
+		<pubDate>Sun, 05 May 2013 21:42:48 -0700</pubDate>
+		<title>
+			<![CDATA[Simone add a quote by Jakob Hein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/554594-allen-westberlinern-war-gemeinsam-dass-sie-nur-selten-den-ostteil]]>
+		</link>
+		<description>
+	    <![CDATA["Allen Westberlinern war gemeinsam, dass sie nur selten den Ostteil der Stadt besuchten. Der Eintritt nach Ostberlin war mit fünfundzwanzig D-Mark einfach zu teuer. Zwar erhielt man im Gegenzug fünfundzwanzig Ostmark, aber es fand sich weit und breit keine Möglichkeit, das Ostgeld auszugeben. An der Grenze wurde man unhöflich behandelt und wenn man bis Mitternacht nicht wieder zurück war, musste man nochmal fünfundzwanzig Mark bezahlen." -- Jakob Hein]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

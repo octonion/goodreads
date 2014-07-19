@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/868883-shaun]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/868883-shaun" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 02 Feb 2008 20:50:32 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/20841-consider-me-no-fool-because-my-tongue-is-mad-i</guid>
+		<pubDate>Sat, 02 Feb 2008 20:50:32 -0800</pubDate>
+		<title>
+			<![CDATA[Shaun add a quote by Charles S. Brooks]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20841-consider-me-no-fool-because-my-tongue-is-mad-i]]>
+		</link>
+		<description>
+	    <![CDATA["Consider me no fool because my tongue is mad. I salt a truth with jest that it sound not dull and heavy. There is more than jig and cadence in my words. I am of stronger fiber than you think. If there comes a time for proof I shall not fail." -- Charles S. Brooks]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/20842-no-law-can-be-sacred-to-me-but-that-of</guid>
+		<pubDate>Sat, 02 Feb 2008 20:52:21 -0800</pubDate>
+		<title>
+			<![CDATA[Shaun add a quote by Ralph Waldo Emerson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20842-no-law-can-be-sacred-to-me-but-that-of]]>
+		</link>
+		<description>
+	    <![CDATA["No law can be sacred to me but that of my nature.  Good and bad are but names very readily transferable to that or this; the only right is what is after my constitution; the only wrong is what is against it." -- Ralph Waldo Emerson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

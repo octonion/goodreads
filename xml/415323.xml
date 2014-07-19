@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/415323-patti]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/415323-patti" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 07 Apr 2014 19:03:35 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/50844-though-i-do-not-believe-that-a-plant-will-spring</guid>
+		<pubDate>Mon, 07 Apr 2014 19:03:35 -0700</pubDate>
+		<title>
+			<![CDATA[Patti add a quote by Henry David Thoreau]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/50844-though-i-do-not-believe-that-a-plant-will-spring]]>
+		</link>
+		<description>
+	    <![CDATA["Though I do not believe that a plant will spring up where no seed has
+been, I have great faith in a seed. Convince me that you have a seed
+there, and I am prepared to expect wonders." -- Henry David Thoreau]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

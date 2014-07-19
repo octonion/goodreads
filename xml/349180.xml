@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/349180-toeknee-mabanes]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/349180-toeknee-mabanes" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 26 Apr 2010 07:34:39 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/143482-once-evil-is-individualized-becoming-part-of-everyday-life-the</guid>
+		<pubDate>Mon, 26 Apr 2010 07:34:39 -0700</pubDate>
+		<title>
+			<![CDATA[Toeknee add a quote by Azar Nafisi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/143482-once-evil-is-individualized-becoming-part-of-everyday-life-the]]>
+		</link>
+		<description>
+	    <![CDATA["Once evil is individualized, becoming part of everyday life, the way of resisting it also becomes individual. How does the soul survive? is the essential question. And the response is: through love and imagination." -- Azar Nafisi]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

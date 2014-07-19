@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/210312-laura]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/210312-laura" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 09 Oct 2008 07:48:47 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/104522-word-work-is-sublime-because-it-is-generative-it-makes-meaning</guid>
+		<pubDate>Thu, 09 Oct 2008 07:48:47 -0700</pubDate>
+		<title>
+			<![CDATA[Laura add a quote by Toni Morrison (Nobel Lecture, 1993)]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/104522-word-work-is-sublime-because-it-is-generative-it-makes-meaning]]>
+		</link>
+		<description>
+	    <![CDATA["Word-work is sublime... because it is generative; it makes meaning that secures our difference, our human difference - the way in which we are like no other life.  We die. That may be the meaning of life. But we do language. That may be the measure of our lives." -- Toni Morrison (Nobel Lecture, 1993)]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

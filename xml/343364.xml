@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/343364-janell-sims]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/343364-janell-sims" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 27 Oct 2008 13:52:48 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/109663-margaret-could-not-reply-was-he-incredibly-stupid-or-did</guid>
+		<pubDate>Mon, 27 Oct 2008 13:52:48 -0700</pubDate>
+		<title>
+			<![CDATA[Janell add a quote by Howards End, EM Forster]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/109663-margaret-could-not-reply-was-he-incredibly-stupid-or-did]]>
+		</link>
+		<description>
+	    <![CDATA["Margaret could not reply. Was he incredibly stupid, or did he understand her better than she understood herself?" -- Howards End, EM Forster]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

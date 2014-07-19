@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/662627-ava-anvari]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/662627-ava-anvari" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 05 Dec 2007 16:23:55 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3655-what-lies-behind-us-and-what-lies-ahead-of-us</guid>
+		<pubDate>Wed, 05 Dec 2007 16:23:55 -0800</pubDate>
+		<title>
+			<![CDATA[Ava add a quote by Henry David Thoreau ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3655-what-lies-behind-us-and-what-lies-ahead-of-us]]>
+		</link>
+		<description>
+	    <![CDATA["What lies behind us and what lies ahead of us are tiny matters compared to what lives within us." -- Henry David Thoreau ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/188-do-what-you-can-with-what-you-have-where-you</guid>
+		<pubDate>Thu, 06 Dec 2007 07:55:21 -0800</pubDate>
+		<title>
+			<![CDATA[Ava add a quote by Theodore Roosevelt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/188-do-what-you-can-with-what-you-have-where-you]]>
+		</link>
+		<description>
+	    <![CDATA["Do what you can, with what you have, where you are." -- Theodore Roosevelt]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1944-a-woman-is-like-a-tea-bag-you-never-know</guid>
+		<pubDate>Thu, 06 Dec 2007 07:56:11 -0800</pubDate>
+		<title>
+			<![CDATA[Ava add a quote by Eleanor Roosevelt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1944-a-woman-is-like-a-tea-bag-you-never-know]]>
+		</link>
+		<description>
+	    <![CDATA["A woman is like a tea bag; you never know how strong it is until it's in hot water." -- Eleanor Roosevelt]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/346-there-may-be-times-when-we-are-powerless-to-prevent</guid>
+		<pubDate>Thu, 06 Dec 2007 07:57:00 -0800</pubDate>
+		<title>
+			<![CDATA[Ava add a quote by Elie Wiesel]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/346-there-may-be-times-when-we-are-powerless-to-prevent]]>
+		</link>
+		<description>
+	    <![CDATA["There may be times when we are powerless to prevent injustice, but there must never be a time when we fail to protest." -- Elie Wiesel]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

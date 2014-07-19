@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/748507-jessica]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/748507-jessica" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 06 Feb 2012 06:15:38 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/491140-writing-is-the-dragon-that-lives-underneath-my-floorboards-the</guid>
+		<pubDate>Mon, 06 Feb 2012 06:15:38 -0800</pubDate>
+		<title>
+			<![CDATA[Jessica add a quote by Quentin R. Bufogle]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/491140-writing-is-the-dragon-that-lives-underneath-my-floorboards-the]]>
+		</link>
+		<description>
+	    <![CDATA["Writing is the dragon that lives underneath my floorboards.  The one I incessantly feed for fear it may turn and devour my ass. Writing is the friend who doesn't return my phone calls; the itch I'm unable to scratch; a dinner invitation from a cannibal; elevator music for a narcoleptic. Writing is the hope of lifting all boats by pissing in the ocean. Writing isn't something that makes me happy like a good cup of coffee. It's just something I do because not writing, as I've found, is so much worse." -- Quentin R. Bufogle]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

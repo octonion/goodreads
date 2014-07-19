@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/596777-ian]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/596777-ian" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 01 Feb 2008 11:48:11 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/20259-orang-cendekia-sudah-harus-adil-sejak-dari-pikiran</guid>
+		<pubDate>Fri, 01 Feb 2008 11:48:11 -0800</pubDate>
+		<title>
+			<![CDATA[Ian add a quote by Pramoedya Ananta Toer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20259-orang-cendekia-sudah-harus-adil-sejak-dari-pikiran]]>
+		</link>
+		<description>
+	    <![CDATA["Orang Cendekia sudah harus adil sejak dari pikiran" -- Pramoedya Ananta Toer]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5012-man-is-condemned-to-be-free-because-once-thrown-into</guid>
+		<pubDate>Sun, 19 Oct 2008 06:57:02 -0700</pubDate>
+		<title>
+			<![CDATA[Ian add a quote by Jean-Paul Sartre]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5012-man-is-condemned-to-be-free-because-once-thrown-into]]>
+		</link>
+		<description>
+	    <![CDATA["Man is condemned to be free; because once thrown into the world, he is responsible for everything he does. 
+It is up to you to give [life] a meaning." -- Jean-Paul Sartre]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

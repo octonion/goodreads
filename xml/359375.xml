@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/359375-christopher]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/359375-christopher" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 31 Mar 2008 10:05:23 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4703-the-aim-of-life-is-to-live-and-to-live</guid>
+		<pubDate>Mon, 31 Mar 2008 10:05:23 -0700</pubDate>
+		<title>
+			<![CDATA[Christopher add a quote by Henry Miller]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4703-the-aim-of-life-is-to-live-and-to-live]]>
+		</link>
+		<description>
+	    <![CDATA["The aim of life is to live, and to live means to be aware, joyously, drunkenly, serenely, divinely aware." -- Henry Miller]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/7038-kiss-me-and-you-will-see-how-important-i-am</guid>
+		<pubDate>Mon, 28 Nov 2011 22:10:39 -0800</pubDate>
+		<title>
+			<![CDATA[Christopher add a quote by Sylvia Plath]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7038-kiss-me-and-you-will-see-how-important-i-am]]>
+		</link>
+		<description>
+	    <![CDATA["Kiss me, and you will see how important I am." -- Sylvia Plath]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/9371-the-purpose-of-life-is-to-be-defeated-by-greater</guid>
+		<pubDate>Tue, 29 Apr 2014 12:53:08 -0700</pubDate>
+		<title>
+			<![CDATA[Christopher add a quote by Rainer Maria Rilke]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9371-the-purpose-of-life-is-to-be-defeated-by-greater]]>
+		</link>
+		<description>
+	    <![CDATA["The purpose of life is to be defeated by greater and greater things." -- Rainer Maria Rilke]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

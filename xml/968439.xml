@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/968439-amy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/968439-amy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 05 Mar 2008 05:45:11 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/31020-mr-darcy-is-my-severest-critic</guid>
+		<pubDate>Wed, 05 Mar 2008 05:45:11 -0800</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Elizabeth Bennett]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/31020-mr-darcy-is-my-severest-critic]]>
+		</link>
+		<description>
+	    <![CDATA["Mr Darcy is my severest critic." -- Elizabeth Bennett]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/15873-was-everyone-else-really-as-alive-as-she-was-if-the</guid>
+		<pubDate>Thu, 08 Jul 2010 08:18:37 -0700</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Ian McEwan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/15873-was-everyone-else-really-as-alive-as-she-was-if-the]]>
+		</link>
+		<description>
+	    <![CDATA["Was everyone else really as alive as she was?...If the answer was yes, then the world, the social world, was unbearably complicated, with two billion voices, and everyone's thoughts striving in equal importance and everyone's claim on life as intense, and everyone thinking they were unique, when no one was." -- Ian McEwan]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

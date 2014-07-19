@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/337291-irene]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/337291-irene" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 05 Jul 2012 11:28:40 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6806-the-more-that-you-read-the-more-things-you-will</guid>
+		<pubDate>Thu, 05 Jul 2012 11:28:40 -0700</pubDate>
+		<title>
+			<![CDATA[Irene add a quote by Dr. Seuss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6806-the-more-that-you-read-the-more-things-you-will]]>
+		</link>
+		<description>
+	    <![CDATA["The more that you read, the more things you will know. The more that you learn, the more places you'll go." -- Dr. Seuss]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/408801-i-m-either-on-the-cusp-of-greatness-or-the-edge</guid>
+		<pubDate>Sat, 08 Sep 2012 21:13:15 -0700</pubDate>
+		<title>
+			<![CDATA[Irene add a quote by Meb Bryant]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/408801-i-m-either-on-the-cusp-of-greatness-or-the-edge]]>
+		</link>
+		<description>
+	    <![CDATA["I'm either on the cusp of greatness or the edge of insanity." -- Meb Bryant]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/30875-forgiveness-is-giving-up-all-hope-of-having-had-a</guid>
+		<pubDate>Wed, 10 Jul 2013 08:01:49 -0700</pubDate>
+		<title>
+			<![CDATA[Irene add a quote by Anne Lamott]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/30875-forgiveness-is-giving-up-all-hope-of-having-had-a]]>
+		</link>
+		<description>
+	    <![CDATA["Forgiveness is giving up all hope of having had a better past." -- Anne Lamott]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

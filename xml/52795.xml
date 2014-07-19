@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/52795-neil]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/52795-neil" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 04 Jun 2014 04:43:17 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1235285-a-math-teacher-s-least-favorite-thing-to-hear-from-a</guid>
+		<pubDate>Wed, 04 Jun 2014 04:43:17 -0700</pubDate>
+		<title>
+			<![CDATA[Neil add a quote by Jordan Ellenberg]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1235285-a-math-teacher-s-least-favorite-thing-to-hear-from-a]]>
+		</link>
+		<description>
+	    <![CDATA["A math teacher’s least favorite thing to hear from a student is “I get the concept, but I couldn’t do the problems.” Though the student doesn’t know it, this is shorthand for “I don’t get the concept." -- Jordan Ellenberg]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/388807-sara]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/388807-sara" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 06 Jan 2013 18:39:13 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/161661-when-you-open-yourself-to-the-continually-changing-impermanent-dynamic</guid>
+		<pubDate>Sun, 06 Jan 2013 18:39:13 -0800</pubDate>
+		<title>
+			<![CDATA[Sara add a quote by Pema Chödrön]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/161661-when-you-open-yourself-to-the-continually-changing-impermanent-dynamic]]>
+		</link>
+		<description>
+	    <![CDATA["When you open yourself to the continually changing, impermanent, dynamic nature of your own being and of reality, you increase your capacity to love and care about other people and your capacity to not be afraid. You're able to keep your eyes open, your heart open, and your mind open. And you notice when you get caught up in prejudice, bias, and aggression. You develop an enthusiasm for no longer watering those negative seeds, from now until the day you die. And, you begin to think of your life as offering endless opportunities to start to do things differently." -- Pema Chödrön]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

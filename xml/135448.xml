@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/135448-shay]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/135448-shay" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 12 Oct 2009 09:58:40 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/11673-she-read-books-quickly-and-compulsively-paperback-after-paperback-as</guid>
+		<pubDate>Mon, 12 Oct 2009 09:58:40 -0700</pubDate>
+		<title>
+			<![CDATA[Shay add a quote by Jane Hamilton]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11673-she-read-books-quickly-and-compulsively-paperback-after-paperback-as]]>
+		</link>
+		<description>
+	    <![CDATA["She read books quickly and compulsively, paperback after paperback, as if she might drift away without the anchor of the printed page." -- Jane Hamilton]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

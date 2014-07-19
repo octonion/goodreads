@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/655093-cristian-trujillo]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/655093-cristian-trujillo" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 03 Dec 2007 07:34:15 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3040-el-guardador-de-reba-os-evocando-un-esp-ritu-pastoril-lo-que</guid>
+		<pubDate>Mon, 03 Dec 2007 07:34:15 -0800</pubDate>
+		<title>
+			<![CDATA[Cristian add a quote by Alberto Caeiro]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3040-el-guardador-de-reba-os-evocando-un-esp-ritu-pastoril-lo-que]]>
+		</link>
+		<description>
+	    <![CDATA["El guardador de rebaños. Evocando un espíritu pastoril, lo que acá se anhela no es la mujer amada y negada, el objeto de este pastor es millones de veces más ámplio. Tanto que es imposible no encontrarse en estas páginas." -- Alberto Caeiro]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

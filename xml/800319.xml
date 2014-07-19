@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/800319-count-no-count]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/800319-count-no-count" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 27 Jan 2008 07:42:41 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/18029-if-ordinary-people-complain-that-i-speak-too-much-of</guid>
+		<pubDate>Sun, 27 Jan 2008 07:42:41 -0800</pubDate>
+		<title>
+			<![CDATA[Count No Count add a quote by Michel de Montaigne]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18029-if-ordinary-people-complain-that-i-speak-too-much-of]]>
+		</link>
+		<description>
+	    <![CDATA["If ordinary people complain that I speak too much of myself, I complain that they do not even think of themselves." -- Michel de Montaigne]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4810-any-idiot-can-face-a-crisis-it-s-this-day-to-day-living</guid>
+		<pubDate>Sun, 27 Jan 2008 07:43:05 -0800</pubDate>
+		<title>
+			<![CDATA[Count No Count add a quote by Anton Chekhov]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4810-any-idiot-can-face-a-crisis-it-s-this-day-to-day-living]]>
+		</link>
+		<description>
+	    <![CDATA["Any idiot can face a crisis; it's this day-to-day living that wears you out." -- Anton Chekhov]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/18049-sometimes-it-s-more-important-to-be-human-than-to-have</guid>
+		<pubDate>Sun, 27 Jan 2008 09:18:11 -0800</pubDate>
+		<title>
+			<![CDATA[Count No Count add a quote by Bertolt Brecht]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18049-sometimes-it-s-more-important-to-be-human-than-to-have]]>
+		</link>
+		<description>
+	    <![CDATA["Sometimes it's more important to be human, than to have good taste. " -- Bertolt Brecht]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

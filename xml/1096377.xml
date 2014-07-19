@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1096377-kelly-bryant]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1096377-kelly-bryant" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 27 Feb 2009 08:07:52 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/17398-the-whole-family-is-a-bunch-of-dangerous-freaks-most-are</guid>
+		<pubDate>Fri, 27 Feb 2009 08:07:52 -0800</pubDate>
+		<title>
+			<![CDATA[Kelly add a quote by Tim Dorsey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17398-the-whole-family-is-a-bunch-of-dangerous-freaks-most-are]]>
+		</link>
+		<description>
+	    <![CDATA["The whole family is a bunch of dangerous freaks...Most are ex-cons or junkies or deranged from inbreeding. Five have died violently, three are back in prison, two have gone insane from untreated venereal disease, and one writes book reviews." -- Tim Dorsey]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1205453-i-try-to-be-open-minded-to-judge-each-individual-on</guid>
+		<pubDate>Sat, 10 May 2014 18:59:53 -0700</pubDate>
+		<title>
+			<![CDATA[Kelly add a quote by Kathy Reichs]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1205453-i-try-to-be-open-minded-to-judge-each-individual-on]]>
+		</link>
+		<description>
+	    <![CDATA["I try to be open-minded, to judge each individual on merit and accomplishment. I hold no bias against any belief system, sexual orientation, or skin color that differs from mine. I do not hate in stereotype." -- Kathy Reichs]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

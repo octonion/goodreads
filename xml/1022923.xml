@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1022923-melissa]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1022923-melissa" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 21 Nov 2011 04:59:01 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1398-i-love-deadlines-i-love-the-whooshing-noise-they-make</guid>
+		<pubDate>Mon, 21 Nov 2011 04:59:01 -0800</pubDate>
+		<title>
+			<![CDATA[Melissa add a quote by Douglas Adams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1398-i-love-deadlines-i-love-the-whooshing-noise-they-make]]>
+		</link>
+		<description>
+	    <![CDATA["I love deadlines. I love the whooshing noise they make as they go by." -- Douglas Adams]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/20268-i-would-maintain-that-thanks-are-the-highest-form-of</guid>
+		<pubDate>Thu, 24 Nov 2011 02:39:52 -0800</pubDate>
+		<title>
+			<![CDATA[Melissa add a quote by G.K. Chesterton]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20268-i-would-maintain-that-thanks-are-the-highest-form-of]]>
+		</link>
+		<description>
+	    <![CDATA["I would maintain that thanks are the highest form of thought; and that gratitude is happiness doubled by wonder." -- G.K. Chesterton]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/9675-i-m-the-one-that-s-got-to-die-when-it-s-time</guid>
+		<pubDate>Sun, 27 Nov 2011 16:41:30 -0800</pubDate>
+		<title>
+			<![CDATA[Melissa add a quote by Jimi Hendrix]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9675-i-m-the-one-that-s-got-to-die-when-it-s-time]]>
+		</link>
+		<description>
+	    <![CDATA["I'm the one that's got to die when it's time for me to die, so let me live my life the way I want to." -- Jimi Hendrix]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

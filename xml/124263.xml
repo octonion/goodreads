@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/124263-heather-van-de-mark]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/124263-heather-van-de-mark" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 31 Oct 2010 16:30:18 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/215451-i-did-not-need-to-know-if-he-could-love</guid>
+		<pubDate>Sun, 31 Oct 2010 16:30:18 -0700</pubDate>
+		<title>
+			<![CDATA[heather add a quote by Jonathan Safran Foer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/215451-i-did-not-need-to-know-if-he-could-love]]>
+		</link>
+		<description>
+	    <![CDATA["I did not need to know if he could love me.
+I needed to know if he could need me." -- Jonathan Safran Foer]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/275004-you-can-t-love-anything-more-than-something-you-miss</guid>
+		<pubDate>Sun, 31 Oct 2010 16:31:13 -0700</pubDate>
+		<title>
+			<![CDATA[heather add a quote by Jonathan Safran Foer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/275004-you-can-t-love-anything-more-than-something-you-miss]]>
+		</link>
+		<description>
+	    <![CDATA["You can't love anything more than something you miss." -- Jonathan Safran Foer]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/138477-passion-has-little-to-do-with-euphoria-and-everything-to</guid>
+		<pubDate>Sun, 31 Oct 2010 16:36:23 -0700</pubDate>
+		<title>
+			<![CDATA[heather add a quote by Mark Z. Danielewski]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/138477-passion-has-little-to-do-with-euphoria-and-everything-to]]>
+		</link>
+		<description>
+	    <![CDATA["Passion has little to do with euphoria and everything to do with patience. It is not about feeling good. It is about endurance. Like patience, passion comes from the same Latin root: pati. It does not mean to flow with exuberance. It means to suffer." -- Mark Z. Danielewski]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

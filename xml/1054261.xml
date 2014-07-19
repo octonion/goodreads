@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1054261-eva-lana]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1054261-eva-lana" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 19 Feb 2009 13:06:06 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/119903-i-ve-known-you-for-years-everyone-says-you-were-beautiful</guid>
+		<pubDate>Thu, 19 Feb 2009 13:06:06 -0800</pubDate>
+		<title>
+			<![CDATA[Eva add a quote by Marguerite Duras]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/119903-i-ve-known-you-for-years-everyone-says-you-were-beautiful]]>
+		</link>
+		<description>
+	    <![CDATA["I've known you for years. Everyone says you were beautiful when you were young, but I want to tell you I think you're more beautiful now than then. Rather than your face as a young woman, I prefer your face as it is now. Ravaged." -- Marguerite Duras]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/12680-we-all-have-such-fateful-objects----it-may-be</guid>
+		<pubDate>Thu, 03 Sep 2009 15:13:50 -0700</pubDate>
+		<title>
+			<![CDATA[Eva add a quote by Vladimir Nabokov]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12680-we-all-have-such-fateful-objects----it-may-be]]>
+		</link>
+		<description>
+	    <![CDATA["We all have such fateful objects -- it may be a recurrent landscape in one case, a number in another -- carefully chosen by the gods to attract events of specific significance for us:  here shall John always stumble; there shall Jane's heart always break." -- Vladimir Nabokov]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

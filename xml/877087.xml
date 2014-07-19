@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/877087-shradha-diwan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/877087-shradha-diwan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 05 Feb 2008 09:17:57 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/21610-i-just-want-to-make-a-point-that-it-s-not</guid>
+		<pubDate>Tue, 05 Feb 2008 09:17:57 -0800</pubDate>
+		<title>
+			<![CDATA[Shradha add a quote by Julia Roberts]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21610-i-just-want-to-make-a-point-that-it-s-not]]>
+		</link>
+		<description>
+	    <![CDATA["I just want to make a point that it's not just great teachers that sometimes shape your life. Sometimes it's the absence of great teachers that shapes your life and being ignored can be just as good for a person as being lauded." -- Julia Roberts]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

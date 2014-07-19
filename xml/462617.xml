@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/462617-siobhan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/462617-siobhan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 12 Nov 2012 11:43:39 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/661823-i-know-what-the-value-of-storytelling-is-to-me</guid>
+		<pubDate>Mon, 12 Nov 2012 11:43:39 -0800</pubDate>
+		<title>
+			<![CDATA[Siobhan add a quote by Lois McMaster Bujold]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/661823-i-know-what-the-value-of-storytelling-is-to-me]]>
+		</link>
+		<description>
+	    <![CDATA["I know what the value [of storytelling] is to me -- varied and huge, giving me everything from delight, to knowledge, to access to friends and colleagues, a desirable identity through valued work, escape from pain, and a steady income. Not bad, for something so intangible as making and selling dream-by-number kits." -- Lois McMaster Bujold]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

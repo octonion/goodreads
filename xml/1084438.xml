@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1084438-aimee]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1084438-aimee" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 13 Jan 2013 22:40:55 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/112387-i-believe-in-god-but-not-as-one-thing-not</guid>
+		<pubDate>Sun, 13 Jan 2013 22:40:55 -0800</pubDate>
+		<title>
+			<![CDATA[Aimee add a quote by John Lennon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/112387-i-believe-in-god-but-not-as-one-thing-not]]>
+		</link>
+		<description>
+	    <![CDATA["I believe in God, but not as one thing, not as an old man in the sky. I believe that what people call God is something in all of us. I believe that what Jesus and Mohammed and Buddha and all the rest said was right. It's just that the translations have gone wrong." -- John Lennon]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/48989-the-moment-god-is-figured-out-with-nice-neat-lines</guid>
+		<pubDate>Sun, 13 Jan 2013 22:42:35 -0800</pubDate>
+		<title>
+			<![CDATA[Aimee add a quote by Rob Bell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/48989-the-moment-god-is-figured-out-with-nice-neat-lines]]>
+		</link>
+		<description>
+	    <![CDATA["The moment God is figured out with nice neat lines and definitions, we are no longer dealing with God." -- Rob Bell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

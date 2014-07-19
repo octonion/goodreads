@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/958884-mandy-mukozaka]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/958884-mandy-mukozaka" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Mar 2008 22:27:47 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/942-two-things-are-infinite-the-universe-and-human-stupidity-and</guid>
+		<pubDate>Sun, 02 Mar 2008 22:27:47 -0800</pubDate>
+		<title>
+			<![CDATA[Mandy add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/942-two-things-are-infinite-the-universe-and-human-stupidity-and]]>
+		</link>
+		<description>
+	    <![CDATA["Two things are infinite: the universe and human stupidity; and I'm not sure about the universe." -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/10123-you-ve-gotta-dance-like-there-s-nobody-watching-love-like-you-ll</guid>
+		<pubDate>Sun, 02 Mar 2008 22:28:25 -0800</pubDate>
+		<title>
+			<![CDATA[Mandy add a quote by William W. Purkey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10123-you-ve-gotta-dance-like-there-s-nobody-watching-love-like-you-ll]]>
+		</link>
+		<description>
+	    <![CDATA["You've gotta dance like there's nobody watching,
+Love like you'll never be hurt,
+Sing like there's nobody listening,
+And live like it's heaven on earth." -- William W. Purkey]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/8667-it-takes-a-great-deal-of-bravery-to-stand-up</guid>
+		<pubDate>Tue, 10 Jun 2008 19:01:05 -0700</pubDate>
+		<title>
+			<![CDATA[Mandy add a quote by J.K. Rowling]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8667-it-takes-a-great-deal-of-bravery-to-stand-up]]>
+		</link>
+		<description>
+	    <![CDATA["It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends." -- J.K. Rowling]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

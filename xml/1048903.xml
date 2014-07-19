@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1048903-jason]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1048903-jason" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 27 Oct 2010 10:30:45 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1024-i-love-mankind-it-s-people-i-can-t-stand</guid>
+		<pubDate>Wed, 27 Oct 2010 10:30:45 -0700</pubDate>
+		<title>
+			<![CDATA[Jason add a quote by Charles Schultz]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1024-i-love-mankind-it-s-people-i-can-t-stand]]>
+		</link>
+		<description>
+	    <![CDATA["&lt;b&gt;I&lt;/b&gt; love mankind ... it's &lt;b&gt;people&lt;/b&gt; I can't stand!!" -- Charles Schultz]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/12553-the-trouble-with-my-generation-is-that-we-all-think</guid>
+		<pubDate>Wed, 27 Oct 2010 10:30:45 -0700</pubDate>
+		<title>
+			<![CDATA[Jason add a quote by Nick Hornby]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12553-the-trouble-with-my-generation-is-that-we-all-think]]>
+		</link>
+		<description>
+	    <![CDATA["The trouble with my generation is that we all think we're fucking geniuses. Making something isn't good enough for us, and neither is selling something, or teaching something, or even just doing something; we have to &lt;i&gt;be&lt;/i&gt; something." -- Nick Hornby]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/18759-every-day-i-wonder-how-many-things-i-am-dead</guid>
+		<pubDate>Tue, 05 Jun 2012 19:32:33 -0700</pubDate>
+		<title>
+			<![CDATA[Jason add a quote by Jim Harrison]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18759-every-day-i-wonder-how-many-things-i-am-dead]]>
+		</link>
+		<description>
+	    <![CDATA["Every day I wonder how many things I am dead wrong about. -- True North" -- Jim Harrison]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

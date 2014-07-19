@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/347194-chase]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/347194-chase" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 22 Sep 2008 18:49:24 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/69018-stuffed-deer-heads-on-walls-are-bad-enough-but-it-s</guid>
+		<pubDate>Mon, 22 Sep 2008 18:49:24 -0700</pubDate>
+		<title>
+			<![CDATA[Chase add a quote by Ellen DeGeneres]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/69018-stuffed-deer-heads-on-walls-are-bad-enough-but-it-s]]>
+		</link>
+		<description>
+	    <![CDATA["Stuffed deer heads on walls are bad enough, but it’s worse when you see them wearing dark glasses, having streamers around their necks and a hat on their antlers. Because then you know they were enjoying themselves at a party when they were shot." -- Ellen DeGeneres]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/21228-there-is-no-such-thing-as-fun-for-the-whole</guid>
+		<pubDate>Mon, 22 Sep 2008 18:50:52 -0700</pubDate>
+		<title>
+			<![CDATA[Chase add a quote by Jerry Seinfeld]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21228-there-is-no-such-thing-as-fun-for-the-whole]]>
+		</link>
+		<description>
+	    <![CDATA["There is no such thing as fun for the whole family." -- Jerry Seinfeld]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

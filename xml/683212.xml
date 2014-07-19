@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/683212-ne-cole-v]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/683212-ne-cole-v" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 14 Dec 2007 18:15:11 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5466-always-be-a-first-rate-version-of-yourself-and-not</guid>
+		<pubDate>Fri, 14 Dec 2007 18:15:11 -0800</pubDate>
+		<title>
+			<![CDATA[Ne`cole add a quote by Judy Garland]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5466-always-be-a-first-rate-version-of-yourself-and-not]]>
+		</link>
+		<description>
+	    <![CDATA["Always be a first rate version of yourself and not a second rate version of someone else." -- Judy Garland]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

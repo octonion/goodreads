@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/769767-eric]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/769767-eric" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 14 Mar 2014 08:30:15 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5609-if-we-couldn-t-laugh-we-would-all-go-insane</guid>
+		<pubDate>Fri, 14 Mar 2014 08:30:15 -0700</pubDate>
+		<title>
+			<![CDATA[Eric add a quote by Robert Frost]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5609-if-we-couldn-t-laugh-we-would-all-go-insane]]>
+		</link>
+		<description>
+	    <![CDATA["If we couldn't laugh we would all go insane." -- Robert Frost]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/16070-the-best-way-out-is-always-through</guid>
+		<pubDate>Fri, 14 Mar 2014 08:30:37 -0700</pubDate>
+		<title>
+			<![CDATA[Eric add a quote by Robert Frost]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16070-the-best-way-out-is-always-through]]>
+		</link>
+		<description>
+	    <![CDATA["The best way out is always through." -- Robert Frost]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/28665-nature-s-first-green-is-gold-her-hardest-hue-to-hold</guid>
+		<pubDate>Fri, 14 Mar 2014 08:30:45 -0700</pubDate>
+		<title>
+			<![CDATA[Eric add a quote by Robert Frost]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/28665-nature-s-first-green-is-gold-her-hardest-hue-to-hold]]>
+		</link>
+		<description>
+	    <![CDATA["Nature's first green is gold,
+Her hardest hue to hold.
+Her early leaf's a flower;
+But only so an hour.
+Then leaf subsides to leaf.
+So Eden sank to grief,
+So dawn goes down to day.
+Nothing gold can stay." -- Robert Frost]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

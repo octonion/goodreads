@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/320460-jennifer-marshburn]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/320460-jennifer-marshburn" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 06 Mar 2014 09:10:12 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/456070-when-you-think-things-are-bad-when-you-feel-sour</guid>
+		<pubDate>Thu, 06 Mar 2014 09:10:12 -0800</pubDate>
+		<title>
+			<![CDATA[Jennifer add a quote by Dr. Seuss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/456070-when-you-think-things-are-bad-when-you-feel-sour]]>
+		</link>
+		<description>
+	    <![CDATA["When you think things are bad,
+when you feel sour and blue,
+when you start to get mad...
+you should do what I do!
+Just tell yourself, Duckie, 
+you're really quite lucky!
+Some people are much more...
+oh, ever so much more...
+oh, muchly much-much more
+unlucky than you!" -- Dr. Seuss]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/300463-writing-simply-means-no-dependent-clauses-no-dangling-things-no</guid>
+		<pubDate>Thu, 06 Mar 2014 09:20:01 -0800</pubDate>
+		<title>
+			<![CDATA[Jennifer add a quote by Dr. Seuss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/300463-writing-simply-means-no-dependent-clauses-no-dangling-things-no]]>
+		</link>
+		<description>
+	    <![CDATA["Writing simply means no dependent clauses, no dangling things, no flashbacks, and keeping the subject near the predicate. We throw in as many fresh words we can get away with. Simple, short sentences don't always work. You have to do tricks with pacing, alternate long sentences with short, to keep it vital and alive.... Virtually every page is a cliffhanger--you've got to force them to turn it.&quot;~" -- Dr. Seuss]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

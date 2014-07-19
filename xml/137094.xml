@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/137094-cath]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/137094-cath" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 23 Jan 2014 07:46:52 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/984831-the-thing-is-to-be-happy-he-said-no-matter</guid>
+		<pubDate>Thu, 23 Jan 2014 07:46:52 -0800</pubDate>
+		<title>
+			<![CDATA[Cath add a quote by Alice Munro]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/984831-the-thing-is-to-be-happy-he-said-no-matter]]>
+		</link>
+		<description>
+	    <![CDATA["The thing is to be happy,” he said. “No matter what. Just try that. You can. It gets to be easier and easier. It’s nothing to do with circumstances. You wouldn’t believe how good it is. Accept everything and then tragedy disappears." -- Alice Munro]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

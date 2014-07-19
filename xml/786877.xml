@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/786877-erin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/786877-erin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 25 Sep 2013 17:54:27 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/385858-why-is-it-i-wondered-that-old-people-are-always</guid>
+		<pubDate>Wed, 25 Sep 2013 17:54:27 -0700</pubDate>
+		<title>
+			<![CDATA[Erin add a quote by Bill Bryson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/385858-why-is-it-i-wondered-that-old-people-are-always]]>
+		</link>
+		<description>
+	    <![CDATA["Why is it, I wondered, that old people are always so self-centered and excitable? But I just smiled benignly and stood back, comforted by the thought that soon they would be dead." -- Bill Bryson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

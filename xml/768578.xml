@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/768578-david-seitz]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/768578-david-seitz" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 27 Apr 2011 11:50:40 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/374338-and-then-i-understood-that-the-answer-is-yes-yes</guid>
+		<pubDate>Wed, 27 Apr 2011 11:50:40 -0700</pubDate>
+		<title>
+			<![CDATA[David add a quote by June Jordan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/374338-and-then-i-understood-that-the-answer-is-yes-yes]]>
+		</link>
+		<description>
+	    <![CDATA["And then I understood that the answer is yes, yes yes: I care because I want you to care about me. I care because I have become aware of my absolute dependency upon you, whoever you are, for the outcome of my social, my democratic experience." -- June Jordan]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

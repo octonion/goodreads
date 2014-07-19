@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/670411-susan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/670411-susan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 03 Nov 2008 13:25:52 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/40433-i-am-not-bound-to-please-thee-with-my-answer</guid>
+		<pubDate>Mon, 03 Nov 2008 13:25:52 -0800</pubDate>
+		<title>
+			<![CDATA[Susan add a quote by William Shakespeare]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/40433-i-am-not-bound-to-please-thee-with-my-answer]]>
+		</link>
+		<description>
+	    <![CDATA["I am not bound to please thee with my answer." -- William Shakespeare]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/147041-with-mirth-and-laughter-let-old-wrinkles-come</guid>
+		<pubDate>Sat, 22 Dec 2007 10:30:03 -0800</pubDate>
+		<title>
+			<![CDATA[Susan add a quote by William Shakespeare]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/147041-with-mirth-and-laughter-let-old-wrinkles-come]]>
+		</link>
+		<description>
+	    <![CDATA["With mirth and laughter let old wrinkles come." -- William Shakespeare]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/451837-there-is-an-eloquence-in-true-enthusiasm</guid>
+		<pubDate>Tue, 08 Apr 2014 06:56:43 -0700</pubDate>
+		<title>
+			<![CDATA[Susan add a quote by Edgar Allan Poe]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/451837-there-is-an-eloquence-in-true-enthusiasm]]>
+		</link>
+		<description>
+	    <![CDATA["There is an eloquence in true enthusiasm" -- Edgar Allan Poe]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

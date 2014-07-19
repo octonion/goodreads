@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/973818-alyssa-avant]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/973818-alyssa-avant" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 04 Apr 2013 18:37:31 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/773064-surviving-is-good-but-overcoming-is-better</guid>
+		<pubDate>Thu, 04 Apr 2013 18:37:31 -0700</pubDate>
+		<title>
+			<![CDATA[Alyssa add a quote by Shelley Hendrix]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/773064-surviving-is-good-but-overcoming-is-better]]>
+		</link>
+		<description>
+	    <![CDATA["Surviving is good, but overcoming is better." -- Shelley Hendrix]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/773028-you-have-everything-you-need-today-to-do-what-god</guid>
+		<pubDate>Thu, 04 Apr 2013 18:38:48 -0700</pubDate>
+		<title>
+			<![CDATA[Alyssa add a quote by Shelley Hendrix]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/773028-you-have-everything-you-need-today-to-do-what-god]]>
+		</link>
+		<description>
+	    <![CDATA["You have everything you need today to do what God has for you to do today." -- Shelley Hendrix]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

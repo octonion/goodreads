@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1030007-alene]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1030007-alene" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 08 Jul 2008 06:56:26 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/21217-there-are-only-two-forces-at-work-in-this-world-</guid>
+		<pubDate>Tue, 08 Jul 2008 06:56:26 -0700</pubDate>
+		<title>
+			<![CDATA[Alene add a quote by Chris Heimerdinger]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21217-there-are-only-two-forces-at-work-in-this-world-]]>
+		</link>
+		<description>
+	    <![CDATA["There are only two forces at work in this world- black and white. Only people are grey." -- Chris Heimerdinger]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/21218-knowing-the-precies-answers-is-not-as-crucial-as-the</guid>
+		<pubDate>Tue, 08 Jul 2008 06:56:27 -0700</pubDate>
+		<title>
+			<![CDATA[Alene add a quote by Chris Heimerdinger]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21218-knowing-the-precies-answers-is-not-as-crucial-as-the]]>
+		</link>
+		<description>
+	    <![CDATA["Knowing the precies answers is not as crucial as the certainty that the answers do, in fact, exist." -- Chris Heimerdinger]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

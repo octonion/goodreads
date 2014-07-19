@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/70565-lauren]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/70565-lauren" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 14 Dec 2012 12:22:45 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3026-if-you-live-to-be-a-hundred-i-want-to</guid>
+		<pubDate>Fri, 14 Dec 2012 12:22:45 -0800</pubDate>
+		<title>
+			<![CDATA[Lauren add a quote by A.A. Milne]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3026-if-you-live-to-be-a-hundred-i-want-to]]>
+		</link>
+		<description>
+	    <![CDATA["If you live to be a hundred, I want to live to be a hundred minus one day so I never have to live without you." -- A.A. Milne]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/46292-we-ll-be-friends-forever-won-t-we-pooh-asked-piglet-even</guid>
+		<pubDate>Fri, 14 Dec 2012 12:25:14 -0800</pubDate>
+		<title>
+			<![CDATA[Lauren add a quote by A.A. Milne]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/46292-we-ll-be-friends-forever-won-t-we-pooh-asked-piglet-even]]>
+		</link>
+		<description>
+	    <![CDATA["We'll be Friends Forever, won't we, Pooh?' asked Piglet.
+Even longer,' Pooh answered." -- A.A. Milne]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

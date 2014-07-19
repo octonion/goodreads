@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/831951-baff]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/831951-baff" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 01 Feb 2008 14:26:48 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1427-i-have-never-let-my-schooling-interfere-with-my-education</guid>
+		<pubDate>Fri, 01 Feb 2008 14:26:48 -0800</pubDate>
+		<title>
+			<![CDATA[Baff add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1427-i-have-never-let-my-schooling-interfere-with-my-education]]>
+		</link>
+		<description>
+	    <![CDATA["I have never let my schooling interfere with my education." -- Mark Twain]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/20365-why-should-your-majesty-think-it-my-own-plans-are</guid>
+		<pubDate>Fri, 01 Feb 2008 14:32:12 -0800</pubDate>
+		<title>
+			<![CDATA[Baff add a quote by C.S. Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20365-why-should-your-majesty-think-it-my-own-plans-are]]>
+		</link>
+		<description>
+	    <![CDATA["Why should your majesty think it?  My own plans are made.  While I may, I sail East in Dawn Treader.  When she fails me, I row East in my coracle.  When that sinks, shall I paddle East with my four paws.  Then, when I can swim no longer, if I have not yet reached Aslan's Country, there shall I sink with my nose to the sunrise...
+and Peepiceek will be head of Talking Mice in Narnia" -- C.S. Lewis]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/719891-loren]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/719891-loren" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 10 Sep 2012 13:17:54 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6346-a-question-that-sometimes-drives-me-hazy-am-i-or</guid>
+		<pubDate>Mon, 10 Sep 2012 13:17:54 -0700</pubDate>
+		<title>
+			<![CDATA[Loren add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6346-a-question-that-sometimes-drives-me-hazy-am-i-or]]>
+		</link>
+		<description>
+	    <![CDATA["A question that sometimes drives me hazy: am I or are the others crazy?" -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/156426-we-re-in-a-giant-car-heading-towards-a-brick-wall</guid>
+		<pubDate>Fri, 14 Sep 2012 07:50:35 -0700</pubDate>
+		<title>
+			<![CDATA[Loren add a quote by David Suzuki]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/156426-we-re-in-a-giant-car-heading-towards-a-brick-wall]]>
+		</link>
+		<description>
+	    <![CDATA["We're in a giant car heading towards a brick wall and everyones arguing over where they're going to sit" -- David Suzuki]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

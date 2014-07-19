@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/934033-jenn-coonce]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/934033-jenn-coonce" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 24 Feb 2012 08:40:27 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/309824-let-s-face-it-we-re-undone-by-each-other-and-if</guid>
+		<pubDate>Fri, 24 Feb 2012 08:40:27 -0800</pubDate>
+		<title>
+			<![CDATA[Jenn add a quote by Judith Butler]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/309824-let-s-face-it-we-re-undone-by-each-other-and-if]]>
+		</link>
+		<description>
+	    <![CDATA["Let’s face it. We’re undone by each other. And if we’re not, we’re missing something. If this seems so clearly the case with grief, it is only because it was already the case with desire. One does not always stay intact. It may be that one wants to, or does, but it may also be that despite one’s best efforts, one is undone, in the face of the other, by the touch, by the scent, be the feel, by the prospect of the touch, by the memory of the feel." -- Judith Butler]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

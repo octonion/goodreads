@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/160899-lisa]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/160899-lisa" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 29 Sep 2008 19:38:25 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/21798-the-best-six-doctors-anywhere-and-no-one-can-deny</guid>
+		<pubDate>Mon, 29 Sep 2008 19:38:25 -0700</pubDate>
+		<title>
+			<![CDATA[Lisa add a quote by Wayne Fields]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21798-the-best-six-doctors-anywhere-and-no-one-can-deny]]>
+		</link>
+		<description>
+	    <![CDATA["The best six doctors anywhere
+And no one can deny it
+Are sunshine, water, rest, and air
+Exercise and diet.
+These six will gladly you attend
+If only you are willing
+Your mind they'll ease
+Your will they'll mend
+And charge you not a shilling.”
+
+-- Nursery rhyme quoted by Wayne Fields, What the River Knows, 1990" -- Wayne Fields]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

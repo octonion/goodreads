@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1075935-claudia]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1075935-claudia" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 29 Jan 2010 12:12:38 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/137609-non--euclidean-calculus-and-quantum-physics-are-enough-to-stretch</guid>
+		<pubDate>Fri, 29 Jan 2010 12:12:38 -0800</pubDate>
+		<title>
+			<![CDATA[Claudia add a quote by Howard Phillips Lovecraft]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/137609-non--euclidean-calculus-and-quantum-physics-are-enough-to-stretch]]>
+		</link>
+		<description>
+	    <![CDATA["Non- Euclidean calculus and quantum physics are enough to stretch any brain; and when one mixes them with folklore, and tries to trace a strange background of multi-dimensional reality behind the ghoulish hints of Gothic tales and the wild whispers of the chimney-corner, one can hardly expect to be wholly free from mental tension. 
+(Dreams In The Witch-House)" -- Howard Phillips Lovecraft]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

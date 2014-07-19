@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/756550-emily]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/756550-emily" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 08 Jan 2008 08:15:33 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1730-always-do-sober-what-you-said-you-d-do-drunk-that</guid>
+		<pubDate>Tue, 08 Jan 2008 08:15:33 -0800</pubDate>
+		<title>
+			<![CDATA[emily add a quote by Ernest Hemingway ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1730-always-do-sober-what-you-said-you-d-do-drunk-that]]>
+		</link>
+		<description>
+	    <![CDATA["Always do sober what you said you'd do drunk. That will teach you to keep your mouth shut." -- Ernest Hemingway ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2981-happiness-in-intelligent-people-is-the-rarest-thing-i-know</guid>
+		<pubDate>Tue, 08 Jan 2008 08:15:41 -0800</pubDate>
+		<title>
+			<![CDATA[emily add a quote by Ernest Hemingway]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2981-happiness-in-intelligent-people-is-the-rarest-thing-i-know]]>
+		</link>
+		<description>
+	    <![CDATA["Happiness in intelligent people is the rarest thing I know." -- Ernest Hemingway]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/13719-we-are-what-we-pretend-to-be-so-we-must</guid>
+		<pubDate>Tue, 08 Jan 2008 09:53:18 -0800</pubDate>
+		<title>
+			<![CDATA[emily add a quote by Kurt Vonnegut]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13719-we-are-what-we-pretend-to-be-so-we-must]]>
+		</link>
+		<description>
+	    <![CDATA["We are what we pretend to be, so we must be careful about what we pretend to be." -- Kurt Vonnegut]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1227-of-all-forms-of-caution-caution-in-love-is-perhaps</guid>
+		<pubDate>Wed, 09 Jan 2008 07:29:01 -0800</pubDate>
+		<title>
+			<![CDATA[emily add a quote by Bertrand Russell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1227-of-all-forms-of-caution-caution-in-love-is-perhaps]]>
+		</link>
+		<description>
+	    <![CDATA["Of all forms of caution, caution in love is perhaps the most fatal to true happiness." -- Bertrand Russell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

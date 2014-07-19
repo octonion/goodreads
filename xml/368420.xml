@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/368420-marcella-termini]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/368420-marcella-termini" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 02 Feb 2010 06:31:50 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/59882-the-quality-which-makes-man-want-to-write-and-be</guid>
+		<pubDate>Tue, 02 Feb 2010 06:31:50 -0800</pubDate>
+		<title>
+			<![CDATA[Marcella add a quote by James Jones]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/59882-the-quality-which-makes-man-want-to-write-and-be]]>
+		</link>
+		<description>
+	    <![CDATA["The quality which makes man want to write and be read is essentially a desire for self-exposure and masochism. Like one of those guys who has a compulsion to take his thing out and show it on the street." -- James Jones]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/130806-that-was-one-of-the-virtues-of-being-a-pessimist</guid>
+		<pubDate>Tue, 02 Feb 2010 06:31:53 -0800</pubDate>
+		<title>
+			<![CDATA[Marcella add a quote by James Jones]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/130806-that-was-one-of-the-virtues-of-being-a-pessimist]]>
+		</link>
+		<description>
+	    <![CDATA["That was one of the virtues of being a pessimist: nothing was ever as bad as you thought it would be." -- James Jones]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

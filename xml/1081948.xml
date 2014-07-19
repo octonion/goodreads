@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1081948-robin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1081948-robin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 16 Apr 2008 09:06:15 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/45261-the-modern-ignorance-is-in-people-s-assumption-that-they-can</guid>
+		<pubDate>Wed, 16 Apr 2008 09:06:15 -0700</pubDate>
+		<title>
+			<![CDATA[Robin add a quote by Wendell Berry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/45261-the-modern-ignorance-is-in-people-s-assumption-that-they-can]]>
+		</link>
+		<description>
+	    <![CDATA["The modern ignorance is in people's assumption that they can outsmart their own nature. It is in the arrogance that will believe nothing that cannot be proved, and respect nothing it cannot understand, and value nothing it cannot sell . . . The &lt;i&gt;next&lt;/i&gt; hard time is just as real to him as the last, and so is the next blessing. The new ignorance is the same as the old, only less aware that ignorance is the same as the old, only less aware that ignorance is what it is. It is less humble, more foolish and frivolous, more dangerous. A man, Old Jack thinks, has no choice but to be ignorant, but he does not have to be a fool. He can know his place, and he can stay in it and be faithful." -- Wendell Berry]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

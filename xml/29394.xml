@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/29394-nancy-delahoussaye]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/29394-nancy-delahoussaye" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 20 Dec 2008 03:59:52 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/40142-to-have-that-sense-of-one-s-intrinsic-worth-which-constitutes</guid>
+		<pubDate>Sat, 20 Dec 2008 03:59:52 -0800</pubDate>
+		<title>
+			<![CDATA[Nancy add a quote by Joan Didion]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/40142-to-have-that-sense-of-one-s-intrinsic-worth-which-constitutes]]>
+		</link>
+		<description>
+	    <![CDATA["To have that sense of one's intrinsic worth which constitutes self-respect is potentially to have everything: the ability to discriminate, to love and to remain indifferent.  To lack it is to be locked within oneself, paradoxically incapable of either love or indifference.  If we do not respect ourselves, we are on the one hand forced to despise those who have so few resources as to consort with us, so little perception as to remain blind to our fatal weaknesses.  On the other, we are pecularily in thrall to everyone we see, curiously determined to live out - since our self-image is untenable - their false notions of us... " -- Joan Didion]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

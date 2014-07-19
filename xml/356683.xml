@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/356683-sha-labare]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/356683-sha-labare" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 20 Feb 2013 15:55:23 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/120768-i-am-enthusiastic-over-humanity-s-extraordinary-and-sometimes-very-timely</guid>
+		<pubDate>Wed, 20 Feb 2013 15:55:23 -0800</pubDate>
+		<title>
+			<![CDATA[Sha add a quote by Richard Buckminster Fuller]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/120768-i-am-enthusiastic-over-humanity-s-extraordinary-and-sometimes-very-timely]]>
+		</link>
+		<description>
+	    <![CDATA["I am enthusiastic over humanity’s extraordinary and sometimes very timely ingenuity. If you are in a shipwreck and all the boats are gone, a piano top buoyant enough to keep you afloat that comes along makes a fortuitous life preserver. But this is not to say that the best way to design a life preserver is in the form of a piano top. I think that we are clinging to a great many piano tops in accepting yesterday’s fortuitous contrivings as constituting the only means for solving a given problem." -- Richard Buckminster Fuller]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

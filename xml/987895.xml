@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/987895-terry-reschke]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/987895-terry-reschke" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 16 Mar 2008 09:51:26 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/35168-life-is-only-as-good-as-you-can-dream-it</guid>
+		<pubDate>Sun, 16 Mar 2008 09:51:26 -0700</pubDate>
+		<title>
+			<![CDATA[Terry add a quote by Terry A. Reschke]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/35168-life-is-only-as-good-as-you-can-dream-it]]>
+		</link>
+		<description>
+	    <![CDATA["Life is only as good as you can dream it to be." -- Terry A. Reschke]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/34158-who-better-to-blame-it-on-than-a-fairy</guid>
+		<pubDate>Sun, 16 Mar 2008 10:17:49 -0700</pubDate>
+		<title>
+			<![CDATA[Terry add a quote by Bobbie Hinman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/34158-who-better-to-blame-it-on-than-a-fairy]]>
+		</link>
+		<description>
+	    <![CDATA["Who better to blame it on than a fairy?" -- Bobbie Hinman]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

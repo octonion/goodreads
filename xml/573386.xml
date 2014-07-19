@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/573386-mike]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/573386-mike" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 16 May 2008 08:21:08 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/53641-a-man-is-like-a-fraction-whose-numerator-is-what</guid>
+		<pubDate>Fri, 16 May 2008 08:21:08 -0700</pubDate>
+		<title>
+			<![CDATA[Mike add a quote by Leo Tolstoy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/53641-a-man-is-like-a-fraction-whose-numerator-is-what]]>
+		</link>
+		<description>
+	    <![CDATA["A man is like a fraction whose numerator is what he is and whose denominator is what he thinks of himself. The larger the denominator, the smaller the fraction." -- Leo Tolstoy]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4292-in-the-name-of-god-stop-a-moment-cease-your</guid>
+		<pubDate>Fri, 16 May 2008 08:21:18 -0700</pubDate>
+		<title>
+			<![CDATA[Mike add a quote by Leo Tolstoy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4292-in-the-name-of-god-stop-a-moment-cease-your]]>
+		</link>
+		<description>
+	    <![CDATA["In the name of God, stop a moment, cease your work, look around you." -- Leo Tolstoy]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

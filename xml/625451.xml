@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/625451-jessica]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/625451-jessica" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 17 Oct 2011 16:48:29 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/346270-don-t-be-seduced-into-thinking-that-that-which-does-not</guid>
+		<pubDate>Mon, 17 Oct 2011 16:48:29 -0700</pubDate>
+		<title>
+			<![CDATA[Jessica add a quote by Arthur Miller]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/346270-don-t-be-seduced-into-thinking-that-that-which-does-not]]>
+		</link>
+		<description>
+	    <![CDATA["Don't be seduced into thinking that that which does not make a profit is without value." -- Arthur Miller]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/121904-the-only-artists-i-have-ever-known-who-are-personally</guid>
+		<pubDate>Mon, 25 Mar 2013 20:49:49 -0700</pubDate>
+		<title>
+			<![CDATA[Jessica add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/121904-the-only-artists-i-have-ever-known-who-are-personally]]>
+		</link>
+		<description>
+	    <![CDATA["The only artists I have ever known who are personally delightful are bad artists. Good artists exist simply in what they make, and consequently are perfectly uninteresting in what they are. A great poet, a really great poet, is the most unpoetical of all creatures. But inferior poets are absolutely fascinating. The worse their rhymes are, the more picturesque they look. The mere fact of having published a book of second-rate sonnets makes a man quite irresistible. He lives the poetry that he cannot write. The others write the poetry that they dare not realize." -- Oscar Wilde]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

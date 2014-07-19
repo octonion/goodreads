@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/953967-crystal]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/953967-crystal" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 30 Mar 2008 12:52:45 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/942-two-things-are-infinite-the-universe-and-human-stupidity-and</guid>
+		<pubDate>Sun, 30 Mar 2008 12:52:45 -0700</pubDate>
+		<title>
+			<![CDATA[Crystal add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/942-two-things-are-infinite-the-universe-and-human-stupidity-and]]>
+		</link>
+		<description>
+	    <![CDATA["Two things are infinite: the universe and human stupidity; and I'm not sure about the universe." -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5803-education-is-what-remains-after-one-has-forgotten-what-one</guid>
+		<pubDate>Sun, 30 Mar 2008 12:52:56 -0700</pubDate>
+		<title>
+			<![CDATA[Crystal add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5803-education-is-what-remains-after-one-has-forgotten-what-one]]>
+		</link>
+		<description>
+	    <![CDATA["Education is what remains after one has forgotten what one has learned in school." -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1408-there-s-a-fine-line-between-genius-and-insanity-i-have</guid>
+		<pubDate>Sun, 30 Mar 2008 12:53:53 -0700</pubDate>
+		<title>
+			<![CDATA[Crystal add a quote by Oscar Levant]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1408-there-s-a-fine-line-between-genius-and-insanity-i-have]]>
+		</link>
+		<description>
+	    <![CDATA["There's a fine line between genius and insanity. I have erased this line." -- Oscar Levant]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

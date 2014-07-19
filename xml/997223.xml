@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/997223-toribee]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/997223-toribee" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 16 Mar 2008 14:43:14 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2571-when-you-get-into-a-tight-place-and-everything-goes</guid>
+		<pubDate>Sun, 16 Mar 2008 14:43:14 -0700</pubDate>
+		<title>
+			<![CDATA[Toribee add a quote by Harriet Beecher Stowe]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2571-when-you-get-into-a-tight-place-and-everything-goes]]>
+		</link>
+		<description>
+	    <![CDATA["When you get into a tight place and everything goes against you until it seems that you cannot hold on for a minute longer, never give up then, for that is just the place and time when the tide will turn." -- Harriet Beecher Stowe]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/29875-the-world-is-a-dangerous-place-to-live-not-because</guid>
+		<pubDate>Sun, 16 Mar 2008 15:05:20 -0700</pubDate>
+		<title>
+			<![CDATA[Toribee add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/29875-the-world-is-a-dangerous-place-to-live-not-because]]>
+		</link>
+		<description>
+	    <![CDATA["The world is a dangerous place to live, not because of the people who are evil, but because of the people who don't do anything about it." -- Albert Einstein]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

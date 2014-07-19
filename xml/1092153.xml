@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1092153-beth-helmey]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1092153-beth-helmey" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 17 Apr 2008 09:40:41 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/45583-no-two-languages-are-ever-sufficiently-similar-to-be-considered</guid>
+		<pubDate>Thu, 17 Apr 2008 09:40:41 -0700</pubDate>
+		<title>
+			<![CDATA[Beth add a quote by Amy Tan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/45583-no-two-languages-are-ever-sufficiently-similar-to-be-considered]]>
+		</link>
+		<description>
+	    <![CDATA["No two languages are ever sufficiently similar to be considered as representing the same social reality. The worlds in which different societies live are distinct worlds, not merely the same world with different labels attached." -- Amy Tan]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

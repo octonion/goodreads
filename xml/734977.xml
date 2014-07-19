@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/734977-laura]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/734977-laura" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 19 Dec 2012 09:54:55 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1244-friendship-is-unnecessary-like-philosophy-like-art-it-has-no</guid>
+		<pubDate>Wed, 19 Dec 2012 09:54:55 -0800</pubDate>
+		<title>
+			<![CDATA[Laura add a quote by C.S. Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1244-friendship-is-unnecessary-like-philosophy-like-art-it-has-no]]>
+		</link>
+		<description>
+	    <![CDATA["Friendship is unnecessary, like philosophy, like art.... It has no survival value; rather it is one of those things which give value to survival." -- C.S. Lewis]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/303375-they-had-battled-and-bloodied-one-another-they-had-kept</guid>
+		<pubDate>Sun, 15 Dec 2013 08:12:25 -0800</pubDate>
+		<title>
+			<![CDATA[Laura add a quote by Robin Wasserman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/303375-they-had-battled-and-bloodied-one-another-they-had-kept]]>
+		</link>
+		<description>
+	    <![CDATA["They had battled and bloodied one another, they had kept secrets, broken hearts, lied, betrayed, exiled, they had walked away, said goodbye and sworn it was forever, and somehow, every time, they had mended, they had forgiven, they had survived. Some mistakes could never be fixed - some, but not all. Some people can't be driven away, no matter how hard you try. Some friendships won't break." -- Robin Wasserman]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

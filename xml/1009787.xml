@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1009787-janet]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1009787-janet" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 10 Jun 2008 11:24:56 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3813-books-may-well-be-the-only-true-magic</guid>
+		<pubDate>Tue, 10 Jun 2008 11:24:56 -0700</pubDate>
+		<title>
+			<![CDATA[JANET add a quote by Alice Hoffman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3813-books-may-well-be-the-only-true-magic]]>
+		</link>
+		<description>
+	    <![CDATA["Books may well be the only true magic." -- Alice Hoffman]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/714-all-endings-are-also-beginnings-we-just-don-t-know-it</guid>
+		<pubDate>Thu, 24 Jul 2008 06:11:11 -0700</pubDate>
+		<title>
+			<![CDATA[JANET add a quote by Mitch Albom]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/714-all-endings-are-also-beginnings-we-just-don-t-know-it]]>
+		</link>
+		<description>
+	    <![CDATA["All endings are also beginnings. We just don't know it at the time." -- Mitch Albom]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

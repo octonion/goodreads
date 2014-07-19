@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/423591-philip]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/423591-philip" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 06 Aug 2008 18:16:23 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/80218-you-receive-what-you-believe</guid>
+		<pubDate>Wed, 06 Aug 2008 18:16:23 -0700</pubDate>
+		<title>
+			<![CDATA[Philip add a quote by Philip F. Harris]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/80218-you-receive-what-you-believe]]>
+		</link>
+		<description>
+	    <![CDATA["YOU RECEIVE WHAT YOU BELIEVE" -- Philip F. Harris]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/390490-it-s-not-about-saving-humanity-it-never-has-been-mantrella</guid>
+		<pubDate>Fri, 03 Jun 2011 05:16:15 -0700</pubDate>
+		<title>
+			<![CDATA[Philip add a quote by Philip F. Harris]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/390490-it-s-not-about-saving-humanity-it-never-has-been-mantrella]]>
+		</link>
+		<description>
+	    <![CDATA["It's not about saving humanity. It never has been.&quot; Mantrella, THE WAKING GOD TRILOGY" -- Philip F. Harris]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

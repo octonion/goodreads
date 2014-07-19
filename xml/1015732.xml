@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1015732-rocky]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1015732-rocky" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 06 Apr 2008 09:44:45 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/20080-what-is-a-poet-an-unhappy-man-who-hides-deep</guid>
+		<pubDate>Sun, 06 Apr 2008 09:44:45 -0700</pubDate>
+		<title>
+			<![CDATA[Rocky add a quote by Soren Kierkegaard]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20080-what-is-a-poet-an-unhappy-man-who-hides-deep]]>
+		</link>
+		<description>
+	    <![CDATA["What is a poet? An unhappy man who hides deep anguish in his heart, but whose lips are so formed that when the sigh and cry pass through them, it sounds like lovely music.... And people flock around the poet and say: 'Sing again soon' - that is, 'May new sufferings torment your soul but your lips be fashioned as before, for the cry would only frighten us, but the music, that is blissful." -- Soren Kierkegaard]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/297216-melanie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/297216-melanie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 06 May 2014 10:27:08 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1200460-i-ve-never-had-a-moment-s-doubt-i-love-you-i</guid>
+		<pubDate>Tue, 06 May 2014 10:27:08 -0700</pubDate>
+		<title>
+			<![CDATA[Melanie add a quote by Ian McEwan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1200460-i-ve-never-had-a-moment-s-doubt-i-love-you-i]]>
+		</link>
+		<description>
+	    <![CDATA["I've never had a moment's doubt. I love you. I believe in you completely. You are my dearest one. My reason for life." -- Ian McEwan]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

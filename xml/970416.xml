@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/970416-celeste]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/970416-celeste" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 09 Apr 2008 13:11:41 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/38257-there-is-no-happiness-like-that-of-being-loved-by</guid>
+		<pubDate>Wed, 09 Apr 2008 13:11:41 -0700</pubDate>
+		<title>
+			<![CDATA[Celeste add a quote by Charlotte Brontë]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/38257-there-is-no-happiness-like-that-of-being-loved-by]]>
+		</link>
+		<description>
+	    <![CDATA["There is no happiness like that of being loved by your fellow creatures, and feeling that your presence is an addition to their comfort." -- Charlotte Brontë]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

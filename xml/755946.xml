@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/755946-ginger]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/755946-ginger" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 07 Apr 2013 11:37:50 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/23731---why-are-we-fighting-them---they-re-mad-we-re-sane---how</guid>
+		<pubDate>Sun, 07 Apr 2013 11:37:50 -0700</pubDate>
+		<title>
+			<![CDATA[Ginger add a quote by Donald Barthelme]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/23731---why-are-we-fighting-them---they-re-mad-we-re-sane---how]]>
+		</link>
+		<description>
+	    <![CDATA["--Why are we fighting them?
+--They're mad. We're sane.
+--How do we know?
+--That we're sane?
+--Yes.
+--Am I sane?
+--To all appearances.
+--And you, do you consider yourself sane?
+--I do.
+--Well, there you have it.
+--But don't they also consider themselves sane?
+--I think they know. Deep down. That they're not sane.
+--How must that make them feel?
+--Terrible, I should think. They must fight ever more fiercely, in order to deny what they know to be true. That they are not sane." -- Donald Barthelme]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

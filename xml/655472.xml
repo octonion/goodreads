@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/655472-diane]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/655472-diane" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 28 Mar 2011 17:32:52 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/25851-gentle-reader-may-you-never-feel-what-i-then-felt</guid>
+		<pubDate>Mon, 28 Mar 2011 17:32:52 -0700</pubDate>
+		<title>
+			<![CDATA[Diane add a quote by Charlotte Brontë ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/25851-gentle-reader-may-you-never-feel-what-i-then-felt]]>
+		</link>
+		<description>
+	    <![CDATA["Gentle reader, may you never feel what I then felt!  May your eyes never shed such stormy, scalding, heart-wrung tears as poured from mine.  May you never appeal to Heaven in prayers so hopeless and so agised as in that hour left my lips: for never may you, like me, dread to be the instrument of evil to what you wholly love." -- Charlotte Brontë ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/139908-i-know-i-must-conceal-my-sentiments-i-must-smother</guid>
+		<pubDate>Mon, 28 Mar 2011 17:35:07 -0700</pubDate>
+		<title>
+			<![CDATA[Diane add a quote by Charlotte Brontë]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/139908-i-know-i-must-conceal-my-sentiments-i-must-smother]]>
+		</link>
+		<description>
+	    <![CDATA["I know I must conceal my sentiments: I must smother hope; I must remember that he cannot care much for me. For when I say that I am of his kind, I do not mean that I have his force to influence, and his spell to attract: I mean only that I have certain tastes and feelings in common with him.I must, then, repeat continually that we are forever sundered: - and yet, while I breathe and think, I must love him." -- Charlotte Brontë]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/173318-rachel]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/173318-rachel" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 25 Mar 2009 08:33:31 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/129693-author-mt-838305-mother-teresa-was-not-a-friend-of-the-poor</guid>
+		<pubDate>Wed, 25 Mar 2009 08:33:31 -0700</pubDate>
+		<title>
+			<![CDATA[Rachel add a quote by Christopher Hitchens]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/129693-author-mt-838305-mother-teresa-was-not-a-friend-of-the-poor]]>
+		</link>
+		<description>
+	    <![CDATA["[author:MT|838305] &lt;i&gt;[Mother Teresa]&lt;/i&gt; was not a friend of the poor. She was a friend of &lt;i&gt;poverty&lt;/i&gt;. She said that suffering was a gift from God. She spent her life opposing the only known cure for poverty, which is the empowerment of women and the emancipation of them from a livestock version of compulsory reproduction." -- Christopher Hitchens]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/970166-glorianne]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/970166-glorianne" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 10 Apr 2008 20:12:19 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/8986-joy-is-the-infallible-sign-of-the-presence-of-god</guid>
+		<pubDate>Thu, 10 Apr 2008 20:12:19 -0700</pubDate>
+		<title>
+			<![CDATA[Glorianne add a quote by Pierre Teilhard de Chardin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8986-joy-is-the-infallible-sign-of-the-presence-of-god]]>
+		</link>
+		<description>
+	    <![CDATA["Joy is the infallible sign of the presence of God." -- Pierre Teilhard de Chardin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/365-you-have-to-write-the-book-that-wants-to-be</guid>
+		<pubDate>Thu, 10 Apr 2008 20:12:26 -0700</pubDate>
+		<title>
+			<![CDATA[Glorianne add a quote by Madeleine L'Engle]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/365-you-have-to-write-the-book-that-wants-to-be]]>
+		</link>
+		<description>
+	    <![CDATA["You have to write the book that wants to be written. And if the book will be too difficult for grown-ups, then you write it for children." -- Madeleine L'Engle]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/53718-mike]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/53718-mike" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 06 Jul 2011 07:32:22 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/70319-as-the-government-of-the-united-states-of-america-is</guid>
+		<pubDate>Wed, 06 Jul 2011 07:32:22 -0700</pubDate>
+		<title>
+			<![CDATA[Mike add a quote by John Adams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/70319-as-the-government-of-the-united-states-of-america-is]]>
+		</link>
+		<description>
+	    <![CDATA["As the Government of the United States of America is not, in any sense, founded on the Christian religion,—as it has in itself no character of enmity against the laws, religion, or tranquility, of Mussulmen [Muslims],—and as the said States never entered into any war or act of hostility against any Mahometan [Mohammedan] nation, it is declared by the parties that no pretext arising from religious opinions shall ever produce an interruption of the harmony existing between the two countries.
+
+[&lt;i&gt;Adams submitted and signed the Treaty of Tripoli, 1797&lt;/i&gt;]" -- John Adams]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

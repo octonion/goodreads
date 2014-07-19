@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/712739-irwan-bajang]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/712739-irwan-bajang" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 23 Jan 2013 00:39:47 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/328684-tugas-peneliti-adalah-mengungkap-rahasia-dengan-metode</guid>
+		<pubDate>Wed, 23 Jan 2013 00:39:47 -0800</pubDate>
+		<title>
+			<![CDATA[Irwan add a quote by E.S. Ito]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/328684-tugas-peneliti-adalah-mengungkap-rahasia-dengan-metode]]>
+		</link>
+		<description>
+	    <![CDATA["Tugas peneliti adalah mengungkap rahasia dengan metode" -- E.S. Ito]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/372709-i-think-therefore-i-am</guid>
+		<pubDate>Mon, 31 Mar 2014 20:13:18 -0700</pubDate>
+		<title>
+			<![CDATA[Irwan add a quote by Rene Descartes]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/372709-i-think-therefore-i-am]]>
+		</link>
+		<description>
+	    <![CDATA["I think; therefore I am." -- Rene Descartes]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

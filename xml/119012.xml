@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/119012-joseph]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/119012-joseph" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 14 Apr 2008 01:27:32 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/15214-do-you-know-what-we-call-opinion-in-the-absence</guid>
+		<pubDate>Mon, 14 Apr 2008 01:27:32 -0700</pubDate>
+		<title>
+			<![CDATA[Joseph add a quote by Michael Crichton]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/15214-do-you-know-what-we-call-opinion-in-the-absence]]>
+		</link>
+		<description>
+	    <![CDATA["Do you know what we call opinion in the absence of evidence?  We call it prejudice." -- Michael Crichton]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/8606-power-is-neither-male-or-female</guid>
+		<pubDate>Mon, 14 Apr 2008 01:27:51 -0700</pubDate>
+		<title>
+			<![CDATA[Joseph add a quote by Michael Crichton]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8606-power-is-neither-male-or-female]]>
+		</link>
+		<description>
+	    <![CDATA["Power is neither male or female." -- Michael Crichton]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

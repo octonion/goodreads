@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1078896-amy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1078896-amy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 13 Jun 2013 10:45:52 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/354-live-in-the-sunshine-swim-the-sea-drink-the-wild</guid>
+		<pubDate>Thu, 13 Jun 2013 10:45:52 -0700</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Ralph Waldo Emerson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/354-live-in-the-sunshine-swim-the-sea-drink-the-wild]]>
+		</link>
+		<description>
+	    <![CDATA["Live in the sunshine, swim the sea, drink the wild air." -- Ralph Waldo Emerson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/358640-families-are-forever-and-wondered-if-the-slogan-was-meant</guid>
+		<pubDate>Sun, 16 Jun 2013 22:26:21 -0700</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Brady Udall]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/358640-families-are-forever-and-wondered-if-the-slogan-was-meant]]>
+		</link>
+		<description>
+	    <![CDATA["...Families are Forever, and wondered if the slogan was meant as a promise or a threat." -- Brady Udall]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/10383-when-i-got-my-library-card-that-was-when-my</guid>
+		<pubDate>Sat, 16 Nov 2013 14:03:45 -0800</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Rita Mae Brown]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10383-when-i-got-my-library-card-that-was-when-my]]>
+		</link>
+		<description>
+	    <![CDATA["When I got [my] library card, that was when my life began." -- Rita Mae Brown]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/867110-nancy-sirvent]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/867110-nancy-sirvent" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 27 Oct 2011 14:47:07 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/18869-the-first-thing-i-do-in-the-morning-is-brush</guid>
+		<pubDate>Thu, 27 Oct 2011 14:47:07 -0700</pubDate>
+		<title>
+			<![CDATA[Nancy add a quote by Dorothy Parker]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18869-the-first-thing-i-do-in-the-morning-is-brush]]>
+		</link>
+		<description>
+	    <![CDATA["The first thing I do in the morning is brush my teeth and sharpen my tongue." -- Dorothy Parker]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/95284-you-will-hear-thunder-and-remember-me-and-think-she</guid>
+		<pubDate>Sun, 23 Jun 2013 09:36:30 -0700</pubDate>
+		<title>
+			<![CDATA[Nancy add a quote by Anna Akhmatova]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/95284-you-will-hear-thunder-and-remember-me-and-think-she]]>
+		</link>
+		<description>
+	    <![CDATA["You will hear thunder and remember me,
+and think: she wanted storms..." -- Anna Akhmatova]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/562565-i-learned-about-religion-the-way-most-children-learned-about</guid>
+		<pubDate>Tue, 27 May 2014 12:41:27 -0700</pubDate>
+		<title>
+			<![CDATA[Nancy add a quote by Margaret Atwood]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/562565-i-learned-about-religion-the-way-most-children-learned-about]]>
+		</link>
+		<description>
+	    <![CDATA["I learned about religion the way most children learned about sex, [in the schoolyard]. . . . They terrified me by telling me there was a dead man in the sky watching everything I did and I retaliated by explaining where babies came from. Some of their mothers phoned mine to complain, though I think I was more upset than they were: they didn't believe me but I believed them." -- Margaret Atwood]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

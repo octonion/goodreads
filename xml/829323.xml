@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/829323-tebstan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/829323-tebstan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 17 Jun 2012 20:24:53 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/432846-there-is-no-such-thing-as-a-broken-family-family</guid>
+		<pubDate>Sun, 17 Jun 2012 20:24:53 -0700</pubDate>
+		<title>
+			<![CDATA[Tebstan add a quote by C. JoyBell C.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/432846-there-is-no-such-thing-as-a-broken-family-family]]>
+		</link>
+		<description>
+	    <![CDATA["There is no such thing as a &quot;broken family.&quot; Family is family, and is not determined by marriage certificates, divorce papers, and adoption documents. Families are made in the heart. The only time family becomes null is when those ties in the heart are cut. If you cut those ties, those people are not your family. If you make those ties, those people are your family. And if you hate those ties, those people will still be your family because whatever you hate will always be with you." -- C. JoyBell C.]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

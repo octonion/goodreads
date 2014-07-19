@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/993219-kathy-anderson]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/993219-kathy-anderson" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 15 Mar 2008 07:49:39 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/66-so-many-books-so-little-time</guid>
+		<pubDate>Sat, 15 Mar 2008 07:49:39 -0700</pubDate>
+		<title>
+			<![CDATA[Kathy add a quote by Frank Zappa]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/66-so-many-books-so-little-time]]>
+		</link>
+		<description>
+	    <![CDATA["So many books, so little time." -- Frank Zappa]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/467-life-is-what-happens-to-you-while-you-re-busy-making</guid>
+		<pubDate>Sat, 15 Mar 2008 07:49:53 -0700</pubDate>
+		<title>
+			<![CDATA[Kathy add a quote by Allen Saunders]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/467-life-is-what-happens-to-you-while-you-re-busy-making]]>
+		</link>
+		<description>
+	    <![CDATA["Life is what happens to you while you're busy making other plans." -- Allen Saunders]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/30-that-which-does-not-kill-us-makes-us-stronger</guid>
+		<pubDate>Sat, 15 Mar 2008 07:50:24 -0700</pubDate>
+		<title>
+			<![CDATA[Kathy add a quote by Friedrich Nietzsche]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/30-that-which-does-not-kill-us-makes-us-stronger]]>
+		</link>
+		<description>
+	    <![CDATA["That which does not kill us makes us stronger." -- Friedrich Nietzsche]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/232075-koen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/232075-koen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 18 Sep 2012 10:08:35 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/571810-despite-my-resistance-to-hyperbole-the-lhc-belongs-to-a</guid>
+		<pubDate>Tue, 18 Sep 2012 10:08:35 -0700</pubDate>
+		<title>
+			<![CDATA[Koen add a quote by Lisa Randall]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/571810-despite-my-resistance-to-hyperbole-the-lhc-belongs-to-a]]>
+		</link>
+		<description>
+	    <![CDATA["Despite my resistance to hyperbole, the LHC belongs to a world that can only be described with superlatives. It is not merely large: the LHC is the biggest machine ever built. It is not merely cold: the 1.9 kelvin (1.9 degrees Celsius above absolute zero) temperature necessary for the LHC’s supercomputing magnets to operate is the coldest extended region that we know of in the universe—even colder than outer space. The magnetic field is not merely big: the superconducting dipole magnets generating a magnetic field more than 100,000 times stronger than the Earth’s are the strongest magnets in industrial production ever made.
+
+And the extremes don’t end there. The vacuum inside the proton-containing tubes, a 10 trillionth of an atmosphere, is the most complete vacuum over the largest region ever produced. The energy of the collisions are the highest ever generated on Earth, allowing us to study the interactions that occurred in the early universe the furthest back in time." -- Lisa Randall]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

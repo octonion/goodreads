@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/876163-dawn-tagala]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/876163-dawn-tagala" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 12 Feb 2008 04:37:29 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/24146-no-knowledge-obtained-without-risk</guid>
+		<pubDate>Tue, 12 Feb 2008 04:37:29 -0800</pubDate>
+		<title>
+			<![CDATA[Dawn add a quote by Stephen King]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/24146-no-knowledge-obtained-without-risk]]>
+		</link>
+		<description>
+	    <![CDATA["no knowledge obtained without risk" -- Stephen King]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/24148-i-like-myself-better-when-i-m-with-you</guid>
+		<pubDate>Tue, 12 Feb 2008 04:38:49 -0800</pubDate>
+		<title>
+			<![CDATA[Dawn add a quote by Mitch Albom]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/24148-i-like-myself-better-when-i-m-with-you]]>
+		</link>
+		<description>
+	    <![CDATA["I like myself better when I'm with you." -- Mitch Albom]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

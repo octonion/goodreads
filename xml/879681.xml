@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/879681-goldread]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/879681-goldread" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 05 Oct 2010 00:10:04 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/110186-in-my-next-life-i-want-to-live-my-life</guid>
+		<pubDate>Tue, 05 Oct 2010 00:10:04 -0700</pubDate>
+		<title>
+			<![CDATA[goldread add a quote by Woody Allen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/110186-in-my-next-life-i-want-to-live-my-life]]>
+		</link>
+		<description>
+	    <![CDATA["In my next life I want to live my life backwards. You start out dead and get that out of the way. Then you wake up in an old people's home feeling better every day. You get kicked out for being too healthy, go collect your pension, and then when you start work, you get a gold watch and a party on your first day. You work for 40 years until you're young enough to enjoy your retirement. You party, drink alcohol, and are generally promiscuous, then you are ready for high school. You then go to primary school, you become a kid, you play. You have no responsibilities, you become a baby until you are born. And then you spend your last 9 months floating in luxurious spa-like conditions with central heating and room service on tap, larger quarters every day and then Voila! You finish off as an orgasm!" -- Woody Allen]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

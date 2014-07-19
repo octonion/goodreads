@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/874141-rob]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/874141-rob" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 10 Feb 2008 23:56:52 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/23835-a-tale-is-told-of-twin-boys-born-to-different</guid>
+		<pubDate>Sun, 10 Feb 2008 23:56:52 -0800</pubDate>
+		<title>
+			<![CDATA[Rob add a quote by Matthew Woodring Stover]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/23835-a-tale-is-told-of-twin-boys-born-to-different]]>
+		</link>
+		<description>
+	    <![CDATA["A tale is told of twin boys born to different mothers.
+One is dark by nature, the other light.  One is rich, the other poor.  One is harsh, the other gentle.  One is forever youthful, the other old before his time.
+One is mortal.
+They share no bond of blood or sympathy, but they are twins nonetheless.
+They each live without ever knowing that they are brothers.
+They each die fighting the blind god." -- Matthew Woodring Stover]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

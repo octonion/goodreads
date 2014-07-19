@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/837086-lisa]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/837086-lisa" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 28 Dec 2011 22:04:07 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/21259-in-the-case-of-good-books-the-point-is-not</guid>
+		<pubDate>Wed, 28 Dec 2011 22:04:07 -0800</pubDate>
+		<title>
+			<![CDATA[Lisa add a quote by Mortimer J. Adler]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21259-in-the-case-of-good-books-the-point-is-not]]>
+		</link>
+		<description>
+	    <![CDATA["In the case of good books, the point is not to see how many of them you can get through, but rather how many can get through to you." -- Mortimer J. Adler]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/197766-life-is-not-a-journey-to-the-grave-with-the</guid>
+		<pubDate>Sat, 17 Nov 2012 20:36:12 -0800</pubDate>
+		<title>
+			<![CDATA[Lisa add a quote by Marjorie Pay Hinckley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/197766-life-is-not-a-journey-to-the-grave-with-the]]>
+		</link>
+		<description>
+	    <![CDATA["Life is not a journey to the grave with the intention of arriving safely in a well preserved body, but rather to skid in broadside, thoroughly used up, totally worn out, and loudly proclaiming, “Wow what a ride!" -- Marjorie Pay Hinckley]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

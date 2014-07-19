@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1078170-linda]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1078170-linda" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 12 May 2008 15:06:58 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6691-if-i-should-ever-die-god-forbid-let-this-be</guid>
+		<pubDate>Mon, 12 May 2008 15:06:58 -0700</pubDate>
+		<title>
+			<![CDATA[Linda add a quote by kurt vonnegut]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6691-if-i-should-ever-die-god-forbid-let-this-be]]>
+		</link>
+		<description>
+	    <![CDATA["If I should ever die, God forbid, let this be my epitaph:
+THE ONLY PROOF HE NEEDED
+FOR THE EXISTENCE OF GOD
+WAS MUSIC" -- kurt vonnegut]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/24822-if-you-focus-on-results-you-will-never-change-if</guid>
+		<pubDate>Sun, 18 Aug 2013 12:27:33 -0700</pubDate>
+		<title>
+			<![CDATA[Linda add a quote by Jack  Dixon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/24822-if-you-focus-on-results-you-will-never-change-if]]>
+		</link>
+		<description>
+	    <![CDATA["If you focus on results, you will never change.  If you focus on change, you will get results." -- Jack  Dixon]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

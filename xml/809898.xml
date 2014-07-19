@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/809898-dave]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/809898-dave" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 10 Jun 2013 01:02:11 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/194799-it-was-the-day-my-grandmother-exploded</guid>
+		<pubDate>Mon, 10 Jun 2013 01:02:11 -0700</pubDate>
+		<title>
+			<![CDATA[Dave add a quote by Iain Banks]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/194799-it-was-the-day-my-grandmother-exploded]]>
+		</link>
+		<description>
+	    <![CDATA["It was the day my grandmother exploded." -- Iain Banks]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/97317-the-usual-example-given-to-illustrate-an-outside-context-problem</guid>
+		<pubDate>Mon, 10 Jun 2013 01:11:52 -0700</pubDate>
+		<title>
+			<![CDATA[Dave add a quote by Iain Banks]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/97317-the-usual-example-given-to-illustrate-an-outside-context-problem]]>
+		</link>
+		<description>
+	    <![CDATA["The usual example given to illustrate an Outside Context Problem was imagining you were a tribe on a largish, fertile island; you'd tamed the land, invented the wheel or writing or whatever, the neighbours were cooperative or enslaved but at any rate peaceful and you were busy raising temples to yourself with all the excess productive capacity you had, you were in a position of near-absolute power and control which your hallowed ancestors could hardly have dreamed of and the whole situation was just running along nicely like a canoe on wet grass... when suddenly this bristling lump of iron appears sailless and trailing steam in the bay and these guys carrying long funny-looking sticks come ashore and announce you've just been discovered, you're all subjects of the Emperor now, he's keen on presents called tax and these bright-eyed holy men would like a word with your priests." -- Iain Banks]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/825144-joel]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/825144-joel" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 12 Feb 2008 14:06:38 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3763-every-relationship-is-fundamentally-a-power-struggle-and-the-individual</guid>
+		<pubDate>Tue, 12 Feb 2008 14:06:38 -0800</pubDate>
+		<title>
+			<![CDATA[Joel add a quote by Chuck Klosterman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3763-every-relationship-is-fundamentally-a-power-struggle-and-the-individual]]>
+		</link>
+		<description>
+	    <![CDATA["Every relationship is fundamentally a power struggle, and the individual in power is whoever likes the other person less." -- Chuck Klosterman]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5539-a-few-light-taps-upon-the-pane-made-him-turn</guid>
+		<pubDate>Tue, 12 Feb 2008 14:09:53 -0800</pubDate>
+		<title>
+			<![CDATA[Joel add a quote by James Joyce]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5539-a-few-light-taps-upon-the-pane-made-him-turn]]>
+		</link>
+		<description>
+	    <![CDATA["A few light taps upon the pane made him turn to the window. It had begun to snow again. He watched sleepily the flakes, silver and dark, falling obliquely against the lamplight. The time had come for him to set out on his journey westward. Yes, the newspapers were right: snow was general all over Ireland. It was falling on every part of the dark central plain, on the treeless hills, falling softly upon the Bog of Allen and, farther westward, softly falling into the dark mutinous Shannon waves. It was falling, too, upon every part of the lonely churchyard on the hill where Michael Furey lay buried. It lay thickly drifted on the crooked crosses and headstones, on the spears of the little gate, on the barren thorns. His soul swooned slowly as he heard the snow falling faintly through the universe and faintly falling, like the descent of their last end, upon all the living and the dead." -- James Joyce]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

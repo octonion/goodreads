@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/915757-katie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/915757-katie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 10 Mar 2010 16:39:55 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/133681-i-think-even-if-i-ever-die-and-they-stick</guid>
+		<pubDate>Wed, 10 Mar 2010 16:39:55 -0800</pubDate>
+		<title>
+			<![CDATA[Katie add a quote by J.D. Salinger]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/133681-i-think-even-if-i-ever-die-and-they-stick]]>
+		</link>
+		<description>
+	    <![CDATA["I think, even, if I ever die, and they stick me in a cemetery, and I have a tombstone and all, it'll say 'Holden Caulfield' on it, and then what year I was born and what year I died, and then right under that it'll say 'Fuck you.' I'm positive, in fact." -- J.D. Salinger]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/10622-it-s-funny-all-you-have-to-do-is-say-something</guid>
+		<pubDate>Wed, 10 Mar 2010 16:40:03 -0800</pubDate>
+		<title>
+			<![CDATA[Katie add a quote by J.D. Salinger]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10622-it-s-funny-all-you-have-to-do-is-say-something]]>
+		</link>
+		<description>
+	    <![CDATA["It's funny.  All you have to do is say something nobody understands and they'll do practically anything you want them to." -- J.D. Salinger]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

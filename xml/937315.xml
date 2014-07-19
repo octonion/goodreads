@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/937315-lizardsonic]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/937315-lizardsonic" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 06 Nov 2013 18:28:46 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/366987-we-re-all-fools-said-clemens-all-the-time-it-s-just</guid>
+		<pubDate>Wed, 06 Nov 2013 18:28:46 -0800</pubDate>
+		<title>
+			<![CDATA[Lizardsonic add a quote by Ray Bradbury]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/366987-we-re-all-fools-said-clemens-all-the-time-it-s-just]]>
+		</link>
+		<description>
+	    <![CDATA["We're all fools,&quot; said Clemens, &quot;all the time. It's just we're a different kind each day. We think, I'm not a fool today. I've learned my lesson. I was a fool yesterday but not this morning. Then tomorrow we find out that, yes, we were a fool today too. I think the only way we can grow and get on in this world is to accept the fact we're not perfect and live accordingly." -- Ray Bradbury]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/32378-oh-what-strange-wonderful-clocks-women-are-they-nest-in</guid>
+		<pubDate>Wed, 06 Nov 2013 18:28:52 -0800</pubDate>
+		<title>
+			<![CDATA[Lizardsonic add a quote by Ray Bradbury]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/32378-oh-what-strange-wonderful-clocks-women-are-they-nest-in]]>
+		</link>
+		<description>
+	    <![CDATA["Oh, what strange wonderful clocks women are. They nest in Time. They make the flesh that holds fast and binds eternity. They live inside the gift, know power, accept, and need not mention it. Why speak of time when you are Time, and shape the universal moments, as they pass, into warmth and action?" -- Ray Bradbury]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

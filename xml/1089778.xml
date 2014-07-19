@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1089778-jamie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1089778-jamie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 16 Apr 2008 16:36:57 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/363-it-is-better-to-remain-silent-at-the-risk-of</guid>
+		<pubDate>Wed, 16 Apr 2008 16:36:57 -0700</pubDate>
+		<title>
+			<![CDATA[Jamie add a quote by Maurice Switzer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/363-it-is-better-to-remain-silent-at-the-risk-of]]>
+		</link>
+		<description>
+	    <![CDATA["It is better to remain silent at the risk of being thought a fool, than to talk and remove all doubt of it." -- Maurice Switzer]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/71-the-fool-doth-think-he-is-wise-but-the-wise</guid>
+		<pubDate>Wed, 16 Apr 2008 16:37:31 -0700</pubDate>
+		<title>
+			<![CDATA[Jamie add a quote by William Shakespeare]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/71-the-fool-doth-think-he-is-wise-but-the-wise]]>
+		</link>
+		<description>
+	    <![CDATA["The fool doth think he is wise, but the wise man knows himself to be a fool." -- William Shakespeare]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/298-a-day-without-sunshine-is-like-you-know-night</guid>
+		<pubDate>Wed, 16 Apr 2008 16:39:12 -0700</pubDate>
+		<title>
+			<![CDATA[Jamie add a quote by Steve Martin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/298-a-day-without-sunshine-is-like-you-know-night]]>
+		</link>
+		<description>
+	    <![CDATA["A day without sunshine is like, you know, night." -- Steve Martin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

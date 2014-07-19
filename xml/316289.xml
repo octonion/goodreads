@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/316289-plorqk]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/316289-plorqk" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 21 Jul 2012 22:08:56 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/384190-photoshop-is-just-like-makeup-when-it-s-done-well-it</guid>
+		<pubDate>Sat, 21 Jul 2012 22:08:56 -0700</pubDate>
+		<title>
+			<![CDATA[Plorqk add a quote by Tina Fey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/384190-photoshop-is-just-like-makeup-when-it-s-done-well-it]]>
+		</link>
+		<description>
+	    <![CDATA["Photoshop is just like makeup. When it’s done well it looks great, and when it’s overdone you look like a crazy asshole." -- Tina Fey]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/17178-here-is-a-lesson-in-creative-writing-first-rule-do</guid>
+		<pubDate>Thu, 23 May 2013 22:23:24 -0700</pubDate>
+		<title>
+			<![CDATA[Plorqk add a quote by Kurt Vonnegut]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17178-here-is-a-lesson-in-creative-writing-first-rule-do]]>
+		</link>
+		<description>
+	    <![CDATA["Here is a lesson in creative writing. First rule: Do not use semicolons. They are transvestite hermaphrodites representing absolutely nothing. All they do is show you've been to college." -- Kurt Vonnegut]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

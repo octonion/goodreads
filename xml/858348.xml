@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/858348-ginger]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/858348-ginger" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 27 Jan 2010 04:53:50 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/83235-i-would-not-choose-to-live-in-any-age-but</guid>
+		<pubDate>Wed, 27 Jan 2010 04:53:50 -0800</pubDate>
+		<title>
+			<![CDATA[Ginger add a quote by Stephen Jay Gould (Dinosaur in a Haystack)]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/83235-i-would-not-choose-to-live-in-any-age-but]]>
+		</link>
+		<description>
+	    <![CDATA["I would not choose to live in any age but my own; advances in medicine alone, and the consequent survival of children with access to these benefits, should preclude any temptation to trade for the past. But we cannot understand history if we saddle the past with pejorative categories based on our bad habits for dividing continua into compartments of increasing worth towards the present. These errors apply to the vast paleontological history of life, as much as to the temporally trivial chronicle of human beings. I cringe every time I read that this failed business, or that defeated team, has become a dinosaur is succumbing to progress. &lt;i&gt;Dinosaur&lt;/i&gt; should be a term of praise, not opprobrium. Dinosaurs reigned for more than 100 million years and died through no fault of their own; &lt;i&gt;Homo sapiens&lt;/i&gt; is nowhere near a million years old, and has limited prospects, entirely self-imposed, for extended geological longevity. " -- Stephen Jay Gould (Dinosaur in a Haystack)]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1216-we-pass-through-this-world-but-once-few-tragedies-can</guid>
+		<pubDate>Wed, 27 Jan 2010 04:59:21 -0800</pubDate>
+		<title>
+			<![CDATA[Ginger add a quote by Stephen Jay Gould]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1216-we-pass-through-this-world-but-once-few-tragedies-can]]>
+		</link>
+		<description>
+	    <![CDATA["We pass through this world but once. Few tragedies can be more extensive than the stunting of life, few injustices deeper than the denial of an opportunity to strive or even to hope, by a limit imposed from without, but falsely identified as lying within." -- Stephen Jay Gould]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

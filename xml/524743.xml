@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/524743-anastasia]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/524743-anastasia" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 31 Dec 2007 13:12:19 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/8965-familiarity-breeds-contempt-and-children</guid>
+		<pubDate>Mon, 31 Dec 2007 13:12:19 -0800</pubDate>
+		<title>
+			<![CDATA[Anastasia add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8965-familiarity-breeds-contempt-and-children]]>
+		</link>
+		<description>
+	    <![CDATA["Familiarity breeds contempt and children." -- Mark Twain]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/8968-everything-you-see-i-owe-to-spaghetti</guid>
+		<pubDate>Mon, 31 Dec 2007 13:26:13 -0800</pubDate>
+		<title>
+			<![CDATA[Anastasia add a quote by Sophia Loren]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8968-everything-you-see-i-owe-to-spaghetti]]>
+		</link>
+		<description>
+	    <![CDATA["Everything you see I owe to spaghetti." -- Sophia Loren]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/14912-if-you-want-your-children-to-be-intelligent-read-them</guid>
+		<pubDate>Sat, 08 Nov 2008 19:58:32 -0800</pubDate>
+		<title>
+			<![CDATA[Anastasia add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14912-if-you-want-your-children-to-be-intelligent-read-them]]>
+		</link>
+		<description>
+	    <![CDATA["If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales." -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3193-i-ll-be-more-enthusiastic-about-encouraging-thinking-outside-the-box</guid>
+		<pubDate>Mon, 18 Nov 2013 21:28:49 -0800</pubDate>
+		<title>
+			<![CDATA[Anastasia add a quote by Terry Pratchett]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3193-i-ll-be-more-enthusiastic-about-encouraging-thinking-outside-the-box]]>
+		</link>
+		<description>
+	    <![CDATA["I'll be more enthusiastic about encouraging thinking outside the box when there's evidence of any thinking going on inside it." -- Terry Pratchett]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

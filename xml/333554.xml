@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/333554-roger-whitson]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/333554-roger-whitson" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 08 Apr 2012 08:42:55 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/23832-for-all-eternity-i-forgive-you-and-you-forgive-me</guid>
+		<pubDate>Sun, 08 Apr 2012 08:42:55 -0700</pubDate>
+		<title>
+			<![CDATA[Roger add a quote by William Blake]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/23832-for-all-eternity-i-forgive-you-and-you-forgive-me]]>
+		</link>
+		<description>
+	    <![CDATA["For all eternity, I forgive you and you forgive me." -- William Blake]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/373803-the-world-is-not-a-solid-continent-of-facts-sprinkled</guid>
+		<pubDate>Sun, 08 Apr 2012 08:47:03 -0700</pubDate>
+		<title>
+			<![CDATA[Roger add a quote by Bruno Latour]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/373803-the-world-is-not-a-solid-continent-of-facts-sprinkled]]>
+		</link>
+		<description>
+	    <![CDATA["The world is not a solid continent of facts sprinkled by a few lakes of uncertainties, but a vast ocean of uncertainties speckled by a few islands of calibrated and stabilized forms" -- Bruno Latour]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/422566-cities-have-sexes-london-is-a-man-paris-a-woman</guid>
+		<pubDate>Sun, 08 Apr 2012 08:53:22 -0700</pubDate>
+		<title>
+			<![CDATA[Roger add a quote by Angela Carter]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/422566-cities-have-sexes-london-is-a-man-paris-a-woman]]>
+		</link>
+		<description>
+	    <![CDATA["Cities have sexes: London is a man, Paris a woman, and New York a well-adjusted transsexual." -- Angela Carter]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

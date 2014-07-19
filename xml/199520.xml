@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/199520-jenn-alter]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/199520-jenn-alter" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 09 Nov 2013 15:20:35 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/27726-somewhere-something-incredible-is-waiting-to-be-known</guid>
+		<pubDate>Sat, 09 Nov 2013 15:20:35 -0800</pubDate>
+		<title>
+			<![CDATA[Jenn add a quote by Carl Sagan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/27726-somewhere-something-incredible-is-waiting-to-be-known]]>
+		</link>
+		<description>
+	    <![CDATA["Somewhere, something incredible is waiting to be known." -- Carl Sagan]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/593712-you-couldn-t-relive-your-life-skipping-the-awful-parts-without</guid>
+		<pubDate>Tue, 04 Feb 2014 15:25:25 -0800</pubDate>
+		<title>
+			<![CDATA[Jenn add a quote by Stewart O'Nan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/593712-you-couldn-t-relive-your-life-skipping-the-awful-parts-without]]>
+		</link>
+		<description>
+	    <![CDATA["You couldn't relive your life, skipping the awful parts, without losing what made it worthwhile.  You had to accept it as a whole--like the world, or the person you loved." -- Stewart O'Nan]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2058-there-is-no-friend-as-loyal-as-a-book</guid>
+		<pubDate>Sat, 08 Feb 2014 17:39:50 -0800</pubDate>
+		<title>
+			<![CDATA[Jenn add a quote by Ernest Hemingway]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2058-there-is-no-friend-as-loyal-as-a-book]]>
+		</link>
+		<description>
+	    <![CDATA["There is no friend as loyal as a book." -- Ernest Hemingway]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5863-a-great-book-should-leave-you-with-many-experiences-and</guid>
+		<pubDate>Sat, 08 Feb 2014 17:40:31 -0800</pubDate>
+		<title>
+			<![CDATA[Jenn add a quote by William Styron]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5863-a-great-book-should-leave-you-with-many-experiences-and]]>
+		</link>
+		<description>
+	    <![CDATA["A great book should leave you with many experiences, and slightly exhausted at the end. You live several lives while reading." -- William Styron]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/144480-andrea-urmanita]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/144480-andrea-urmanita" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 16 Sep 2013 23:23:15 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/15051-to-teach-how-to-live-without-certainty-and-yet-without</guid>
+		<pubDate>Mon, 16 Sep 2013 23:23:15 -0700</pubDate>
+		<title>
+			<![CDATA[Andrea add a quote by Bertrand Russell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/15051-to-teach-how-to-live-without-certainty-and-yet-without]]>
+		</link>
+		<description>
+	    <![CDATA["To teach how to live without certainty, and yet without being paralyzed by hesitation, is perhaps the chief thing that philosophy, in our age, can still do for those who study it." -- Bertrand Russell]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/162082-to-design-means-forcing-ourselves-to-unlearn-what-we-believe</guid>
+		<pubDate>Tue, 08 Oct 2013 02:01:12 -0700</pubDate>
+		<title>
+			<![CDATA[Andrea add a quote by Alain de Botton]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/162082-to-design-means-forcing-ourselves-to-unlearn-what-we-believe]]>
+		</link>
+		<description>
+	    <![CDATA["to design means forcing ourselves to unlearn what we believe we already know, patiently to take apart the mechanisms behind our reflexes and to acknowledge the mystery and stupefying complexity of everyday gestures like switching off a light of turning on a tap" -- Alain de Botton]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

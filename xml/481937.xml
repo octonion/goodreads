@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/481937-aon]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/481937-aon" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 22 Apr 2014 01:41:17 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/724791-i-fear-the-day-technology-will-surpass-our-human-interaction</guid>
+		<pubDate>Tue, 22 Apr 2014 01:41:17 -0700</pubDate>
+		<title>
+			<![CDATA[Aon add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/724791-i-fear-the-day-technology-will-surpass-our-human-interaction]]>
+		</link>
+		<description>
+	    <![CDATA["I fear the day technology will surpass our human interaction. The world will have a generation of idiots." -- Albert Einstein]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

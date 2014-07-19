@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/33859-michael]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/33859-michael" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 02 Dec 2009 03:58:03 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/211237-we-hang-the-petty-thieves-and-appoint-the-great-ones</guid>
+		<pubDate>Wed, 02 Dec 2009 03:58:03 -0800</pubDate>
+		<title>
+			<![CDATA[Michael add a quote by Aesop]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/211237-we-hang-the-petty-thieves-and-appoint-the-great-ones]]>
+		</link>
+		<description>
+	    <![CDATA["We hang the petty thieves and appoint the great ones to public office." -- Aesop]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/23717-reports-that-say-that-something-hasn-t-happened-are-always-interesting</guid>
+		<pubDate>Fri, 17 Dec 2010 16:36:33 -0800</pubDate>
+		<title>
+			<![CDATA[Michael add a quote by Donald Rumsfeld]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/23717-reports-that-say-that-something-hasn-t-happened-are-always-interesting]]>
+		</link>
+		<description>
+	    <![CDATA["Reports that say that something hasn't happened are always interesting to me, because as we know, there are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns- the ones we don't know we don't know." -- Donald Rumsfeld]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/211240-i-m-giving-my-analyst-one-more-year--then-i-m-going-to</guid>
+		<pubDate>Fri, 17 Dec 2010 16:36:33 -0800</pubDate>
+		<title>
+			<![CDATA[Michael add a quote by Woody Allen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/211240-i-m-giving-my-analyst-one-more-year--then-i-m-going-to]]>
+		</link>
+		<description>
+	    <![CDATA["I'm giving [my analyst] one more year--then I'm going to Lourdes." -- Woody Allen]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

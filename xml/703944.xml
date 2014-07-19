@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/703944-rustyn]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/703944-rustyn" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 20 Dec 2007 20:20:28 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1077-toby-zeigler-there-s-literally-no-one-in-the-world-i</guid>
+		<pubDate>Thu, 20 Dec 2007 20:20:28 -0800</pubDate>
+		<title>
+			<![CDATA[Rustyn add a quote by Aaron Sorkin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1077-toby-zeigler-there-s-literally-no-one-in-the-world-i]]>
+		</link>
+		<description>
+	    <![CDATA["Toby Zeigler: There's literally no one in the world I don't hate right now." -- Aaron Sorkin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1079-toby-all-right-it-couldn-t-have-gone-far-right-sam</guid>
+		<pubDate>Thu, 20 Dec 2007 20:20:51 -0800</pubDate>
+		<title>
+			<![CDATA[Rustyn add a quote by Aaron Sorkin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1079-toby-all-right-it-couldn-t-have-gone-far-right-sam]]>
+		</link>
+		<description>
+	    <![CDATA["Toby: All right. It couldn't have gone far, right?
+
+Sam: No.
+
+Toby: Somewhere in this building...is our talent. " -- Aaron Sorkin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/137779-clara]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/137779-clara" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 25 May 2013 13:59:52 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/184357-drunk-jane-spoke-as-though-she-were-nancy-drew-i</guid>
+		<pubDate>Sat, 25 May 2013 13:59:52 -0700</pubDate>
+		<title>
+			<![CDATA[Clara add a quote by Michael Chabon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/184357-drunk-jane-spoke-as-though-she-were-nancy-drew-i]]>
+		</link>
+		<description>
+	    <![CDATA["Drunk, Jane spoke as though she were Nancy Drew.  I was a fool for a girl with a dainty lexicon." -- Michael Chabon]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/817498-oh-i-have-slipped-the-surly-bonds-of-earth-and</guid>
+		<pubDate>Sun, 09 Jun 2013 09:24:24 -0700</pubDate>
+		<title>
+			<![CDATA[Clara add a quote by John Gillespie MaGee Jr.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/817498-oh-i-have-slipped-the-surly-bonds-of-earth-and]]>
+		</link>
+		<description>
+	    <![CDATA["Oh, I have slipped the surly bonds of earth, 
+And danced the skies on laughter-silvered wings" -- John Gillespie MaGee Jr.]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/85178-the-good-we-secure-for-ourselves-is-precarious-and-uncertain</guid>
+		<pubDate>Sun, 08 Sep 2013 10:05:04 -0700</pubDate>
+		<title>
+			<![CDATA[Clara add a quote by Jane Addams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/85178-the-good-we-secure-for-ourselves-is-precarious-and-uncertain]]>
+		</link>
+		<description>
+	    <![CDATA["The good we secure for ourselves is precarious and uncertain until it is secured for all of us and incorporated into our common life." -- Jane Addams]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/772066-bops]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/772066-bops" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 30 Jun 2008 12:23:39 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/58747-you-may-not-believe-in-magic-but-something-very-strange</guid>
+		<pubDate>Mon, 30 Jun 2008 12:23:39 -0700</pubDate>
+		<title>
+			<![CDATA[Bops add a quote by Leonora Carrington]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/58747-you-may-not-believe-in-magic-but-something-very-strange]]>
+		</link>
+		<description>
+	    <![CDATA["You may not believe in magic but something very strange is happening at this very moment.  Your head has dissolved into thin air and I can see the rhododendrons through your stomach.  It's not that you are dead or anything dramatic like that, it is simply that you are fading away and I can't even remember your name." -- Leonora Carrington]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

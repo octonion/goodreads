@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/334498-adam]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/334498-adam" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 08 Jul 2014 18:10:22 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/748735-rule-of-thumb-the-more-important-a-call-or-action</guid>
+		<pubDate>Tue, 08 Jul 2014 18:10:22 -0700</pubDate>
+		<title>
+			<![CDATA[Adam add a quote by Steven Pressfield]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/748735-rule-of-thumb-the-more-important-a-call-or-action]]>
+		</link>
+		<description>
+	    <![CDATA["Rule of thumb: The more important a call or action is to our soul's evolution, the Resistance we will feel toward pursuing it." -- Steven Pressfield]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

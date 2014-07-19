@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1096477-gail]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1096477-gail" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 05 Nov 2008 20:36:26 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/27912-you-pierce-my-soul-i-am-half-agony-half-hope-i</guid>
+		<pubDate>Wed, 05 Nov 2008 20:36:26 -0800</pubDate>
+		<title>
+			<![CDATA[Gail add a quote by Jane Austen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/27912-you-pierce-my-soul-i-am-half-agony-half-hope-i]]>
+		</link>
+		<description>
+	    <![CDATA["You pierce my soul. I am half agony, half hope...I have loved none but you." -- Jane Austen]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

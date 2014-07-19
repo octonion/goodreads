@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/742166-kate-gannon]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/742166-kate-gannon" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 24 Nov 2011 04:55:59 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/20268-i-would-maintain-that-thanks-are-the-highest-form-of</guid>
+		<pubDate>Thu, 24 Nov 2011 04:55:59 -0800</pubDate>
+		<title>
+			<![CDATA[Kate add a quote by G.K. Chesterton]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20268-i-would-maintain-that-thanks-are-the-highest-form-of]]>
+		</link>
+		<description>
+	    <![CDATA["I would maintain that thanks are the highest form of thought; and that gratitude is happiness doubled by wonder." -- G.K. Chesterton]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/470303-whenever-you-think-or-you-believe-or-you-know-you-re</guid>
+		<pubDate>Tue, 13 Dec 2011 07:27:18 -0800</pubDate>
+		<title>
+			<![CDATA[Kate add a quote by e.e. cummings]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/470303-whenever-you-think-or-you-believe-or-you-know-you-re]]>
+		</link>
+		<description>
+	    <![CDATA["Whenever you think or you believe or you know, you're a lot of other people: but the moment you feel, you're nobody-but-yourself." -- e.e. cummings]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

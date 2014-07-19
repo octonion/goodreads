@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/122452-kat]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/122452-kat" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 07 Dec 2009 12:37:17 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/127873-conventionality-is-not-morality-self-righteousness-is-not-religion-to-attack</guid>
+		<pubDate>Mon, 07 Dec 2009 12:37:17 -0800</pubDate>
+		<title>
+			<![CDATA[Kat add a quote by Charlotte Brontë]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/127873-conventionality-is-not-morality-self-righteousness-is-not-religion-to-attack]]>
+		</link>
+		<description>
+	    <![CDATA["Conventionality is not morality. Self-righteousness is not religion. To attack the first is not to assail the last." -- Charlotte Brontë]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/438701-the-most-terrifying-fact-about-the-universe-is-not-that</guid>
+		<pubDate>Tue, 01 Apr 2014 17:24:10 -0700</pubDate>
+		<title>
+			<![CDATA[Kat add a quote by Stanley Kubrick]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/438701-the-most-terrifying-fact-about-the-universe-is-not-that]]>
+		</link>
+		<description>
+	    <![CDATA["The most terrifying fact about the universe is not that it is hostile but that it is indifferent; but if we can come to terms with this indifference and accept the challenges of life within the boundaries of death – however mutable man may be able to make them – our existence as a species can have genuine meaning and fulfillment. However vast the darkness, we must supply our own light." -- Stanley Kubrick]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

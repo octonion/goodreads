@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/74721-sam]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/74721-sam" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 12 Feb 2008 10:10:58 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/24198-you-stand-on-dead-men-s-legs-you-ve-never-had-any</guid>
+		<pubDate>Tue, 12 Feb 2008 10:10:58 -0800</pubDate>
+		<title>
+			<![CDATA[Sam add a quote by Jack London]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/24198-you-stand-on-dead-men-s-legs-you-ve-never-had-any]]>
+		</link>
+		<description>
+	    <![CDATA["You stand on dead men's legs. You've never had any of your own. You couldn't walk alone between two sunrises and hustle the meat for your belly" -- Jack London]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/24200-the-student-is-to-read-history-actively-not-passively</guid>
+		<pubDate>Tue, 12 Feb 2008 10:12:24 -0800</pubDate>
+		<title>
+			<![CDATA[Sam add a quote by Ralph Waldo Emerson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/24200-the-student-is-to-read-history-actively-not-passively]]>
+		</link>
+		<description>
+	    <![CDATA["The student is to read history actively not passively." -- Ralph Waldo Emerson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

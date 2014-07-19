@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1019806-kathy-gilsbach]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1019806-kathy-gilsbach" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 24 Mar 2008 13:33:44 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/25921-i-de-luv-to-kiss-ya-but-i-just-washed-my</guid>
+		<pubDate>Mon, 24 Mar 2008 13:33:44 -0700</pubDate>
+		<title>
+			<![CDATA[Kathy add a quote by Bette Davis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/25921-i-de-luv-to-kiss-ya-but-i-just-washed-my]]>
+		</link>
+		<description>
+	    <![CDATA["I'de luv to kiss ya but I just washed my hair." -- Bette Davis]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

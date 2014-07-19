@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1024181-allyson]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1024181-allyson" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 02 Aug 2011 00:34:22 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/370155-i-just-got-threw-reading-prada-plan-2-and-it</guid>
+		<pubDate>Tue, 02 Aug 2011 00:34:22 -0700</pubDate>
+		<title>
+			<![CDATA[Allyson add a quote by Ashley Antoinette Snell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/370155-i-just-got-threw-reading-prada-plan-2-and-it]]>
+		</link>
+		<description>
+	    <![CDATA["I just got threw reading Prada Plan 2 and it was off the chain. I hope there is a part3. Its got 2 be." -- Ashley Antoinette Snell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/687418-louise]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/687418-louise" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 14 May 2012 15:04:17 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/13146-never-trust-anyone-who-has-not-brought-a-book-with</guid>
+		<pubDate>Mon, 14 May 2012 15:04:17 -0700</pubDate>
+		<title>
+			<![CDATA[Louise add a quote by Lemony Snicket]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13146-never-trust-anyone-who-has-not-brought-a-book-with]]>
+		</link>
+		<description>
+	    <![CDATA["Never trust anyone who has not brought a book with them." -- Lemony Snicket]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/21259-in-the-case-of-good-books-the-point-is-not</guid>
+		<pubDate>Wed, 30 May 2012 20:15:01 -0700</pubDate>
+		<title>
+			<![CDATA[Louise add a quote by Mortimer J. Adler]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21259-in-the-case-of-good-books-the-point-is-not]]>
+		</link>
+		<description>
+	    <![CDATA["In the case of good books, the point is not to see how many of them you can get through, but rather how many can get through to you." -- Mortimer J. Adler]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/220778-a-lot-of-the-people-who-read-a-bestselling-novel</guid>
+		<pubDate>Wed, 13 Nov 2013 13:34:33 -0800</pubDate>
+		<title>
+			<![CDATA[Louise add a quote by The Economist]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/220778-a-lot-of-the-people-who-read-a-bestselling-novel]]>
+		</link>
+		<description>
+	    <![CDATA["A lot of the people who read a bestselling novel, for example, do not read much other fiction. By contrast, the audience for an obscure novel is largely composed of people who read a lot. That means the least popular books are judged by people who have the highest standards, while the most popular are judged by people who literally do not know any better. An American who read just one book this year was disproportionately likely to have read ‘The Lost Symbol’, by Dan Brown. He almost certainly liked it." -- The Economist]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

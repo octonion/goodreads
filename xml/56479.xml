@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/56479-res]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/56479-res" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 10 May 2008 06:40:39 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/52753-very-few-things-happen-at-the-right-time-and-the</guid>
+		<pubDate>Sat, 10 May 2008 06:40:39 -0700</pubDate>
+		<title>
+			<![CDATA[Res add a quote by Herodotus]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/52753-very-few-things-happen-at-the-right-time-and-the]]>
+		</link>
+		<description>
+	    <![CDATA["Very few things happen at the right time, and the rest do not happen at all. The conscientious historian will correct these defects." -- Herodotus]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/200-no-tears-in-the-writer-no-tears-in-the-reader</guid>
+		<pubDate>Sat, 28 Feb 2009 21:37:35 -0800</pubDate>
+		<title>
+			<![CDATA[Res add a quote by Robert Frost]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/200-no-tears-in-the-writer-no-tears-in-the-reader]]>
+		</link>
+		<description>
+	    <![CDATA["No tears in the writer, no tears in the reader.  No surprise in the writer, no surprise in the reader." -- Robert Frost]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/125292-amy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/125292-amy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 19 May 2008 20:16:31 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/16805-for-the-sake-of-a-few-lines-one-must-see</guid>
+		<pubDate>Mon, 19 May 2008 20:16:31 -0700</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Rainer Maria Rilke]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16805-for-the-sake-of-a-few-lines-one-must-see]]>
+		</link>
+		<description>
+	    <![CDATA["For the sake of a few lines one must see many cities, men and things. One must know the animals, one must feel how the birds fly and know the gesture with which the small flowers open in the morning. One must be able to think back to roads in unknown regions, to unexpected meetings and to partings which one had long seen coming; to days of childhood that are still unexplained, to parents that one had to hurt when they brought one some joy and one did not grasp it (it was joy for someone else); to childhood illness that so strangely began with a number of profound and grave transformations, to days in rooms withdrawn and quiet and to mornings by the sea, to the sea itself, to seas, to nights of travel that rushed along on  high and flew with all the stars-and it is not enough if one may think all of this. One must have memories of many nights of love, none of which was like the others, of the screams of women in labor, and of light, white, sleeping women in childbed, closing again. But one must also have been beside the dying, one must have sat beside the dead in the room with the open window and the fitful noises. And still it is not enough to have memories. One must be able to forget them when they are many, and one must have the great patience to wait until they come again. For it is not yet the memories themselves. Not until they have turned to blood within us, to glance, to gesture, nameless and no longer to be distinguished from ourselves-not until then can it happen that in a most rare hour the first word of a verse arises in their midst and goes forth from them." -- Rainer Maria Rilke]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/620450-i-was-an-omnivore-like-a-lot-of-people-i</guid>
+		<pubDate>Thu, 06 Sep 2012 12:25:09 -0700</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Demetri Martin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/620450-i-was-an-omnivore-like-a-lot-of-people-i]]>
+		</link>
+		<description>
+	    <![CDATA["I was an &quot;Omnivore.&quot; Like a lot of people, I didn't know any better. Then I read a couple of books. One of them was called How Chickens Are Raped Before You Eat Them. Another was called Hotdogs and Fingertips. I also read The Cow Feces Dilemma as well as Barf, STDs and Veal." -- Demetri Martin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

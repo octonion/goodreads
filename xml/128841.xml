@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/128841-t-lar]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/128841-t-lar" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 19 Nov 2013 18:22:22 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/543097-no-reader-has-any-obligation-to-an-author-whether-it</guid>
+		<pubDate>Tue, 19 Nov 2013 18:22:22 -0800</pubDate>
+		<title>
+			<![CDATA[T'Lar add a quote by Stacia Kane]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/543097-no-reader-has-any-obligation-to-an-author-whether-it]]>
+		</link>
+		<description>
+	    <![CDATA["NO reader has ANY obligation to an author, whether it be to leave a review or to write a &quot;constructive&quot; one. I put out a product. You are consumers of that product. Since when does that mean you have to kiss my ass? Hey, I like Pop-Tarts and eat them a few times a year; since when does that mean I'm obligated to support Kellogg's in any way except legally purchasing the Pop-Tarts before I eat them? I wasn't aware that purchasing and consuming a product meant I was under some sort of fucking thrall in which I'm only allowed to either praise the Pop-Tart (which to be honest isn't hard, especially the S'mores flavor) or, if I am going to criticize a flavor, offer a specific and detailed analysis as to why, phrased in as inoffensive and gentle a manner as possible so as not to upset the gentle people at Kellogg's.&quot;
+
+[&lt;i&gt;Something in the Water?&lt;/i&gt; (blog post; January 9, 2012)]" -- Stacia Kane]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/142469-don-t-forget-and-don-t-let-your-reader-forget-that-the</guid>
+		<pubDate>Tue, 27 May 2014 14:13:10 -0700</pubDate>
+		<title>
+			<![CDATA[T'Lar add a quote by Joseph Hansen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/142469-don-t-forget-and-don-t-let-your-reader-forget-that-the]]>
+		</link>
+		<description>
+	    <![CDATA["Don't forget, and don't let your reader forget, that the small world in which you have held him for the last hour or two hasn't ended. Be aware, and make him aware, that tomorrow all of its remaining inhabitants will pick up the broken fragments of their lives, and carry on." -- Joseph Hansen]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

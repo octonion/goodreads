@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/230921-dave-ebben]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/230921-dave-ebben" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 May 2012 20:13:51 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/70926-some-men-are-born-mediocre-some-men-achieve-mediocrity-and</guid>
+		<pubDate>Tue, 01 May 2012 20:13:51 -0700</pubDate>
+		<title>
+			<![CDATA[Dave add a quote by Joseph Heller]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/70926-some-men-are-born-mediocre-some-men-achieve-mediocrity-and]]>
+		</link>
+		<description>
+	    <![CDATA["Some men are born mediocre, some men achieve mediocrity, and some men have mediocrity thrust upon them." -- Joseph Heller]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/40536-worry-never-robs-tomorrow-of-its-sorrow-but-only-saps</guid>
+		<pubDate>Fri, 02 Aug 2013 07:35:26 -0700</pubDate>
+		<title>
+			<![CDATA[Dave add a quote by A.J. Cronin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/40536-worry-never-robs-tomorrow-of-its-sorrow-but-only-saps]]>
+		</link>
+		<description>
+	    <![CDATA["Worry never robs tomorrow of its sorrow, but only saps today of its strength." -- A.J. Cronin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

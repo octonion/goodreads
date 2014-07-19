@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/912617-michael]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/912617-michael" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 06 Mar 2008 16:42:34 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/637-i-hate-to-advocate-drugs-alcohol-violence-or-insanity-to</guid>
+		<pubDate>Thu, 06 Mar 2008 16:42:34 -0800</pubDate>
+		<title>
+			<![CDATA[Michael add a quote by Hunter S. Thompson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/637-i-hate-to-advocate-drugs-alcohol-violence-or-insanity-to]]>
+		</link>
+		<description>
+	    <![CDATA["I hate to advocate drugs, alcohol, violence, or insanity to anyone, but they've always worked for me." -- Hunter S. Thompson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/33063-i-want-god-i-want-poetry-i-want-danger-i</guid>
+		<pubDate>Sun, 09 Mar 2008 16:24:42 -0700</pubDate>
+		<title>
+			<![CDATA[Michael add a quote by Aldous Huxley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/33063-i-want-god-i-want-poetry-i-want-danger-i]]>
+		</link>
+		<description>
+	    <![CDATA["I want God, I want poetry, I want danger, I want freedom, I want sin." -- Aldous Huxley]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/18883-you-do-not-need-to-leave-your-room-remain-sitting</guid>
+		<pubDate>Sun, 09 Mar 2008 16:28:39 -0700</pubDate>
+		<title>
+			<![CDATA[Michael add a quote by Franz Kafka]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18883-you-do-not-need-to-leave-your-room-remain-sitting]]>
+		</link>
+		<description>
+	    <![CDATA["You do not need to leave your room. Remain sitting at your table and listen. Do not even listen, simply wait, be quiet, still and solitary. The world will freely offer itself to you to be unmasked, it has no choice, it will roll in ecstasy at your feet." -- Franz Kafka]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

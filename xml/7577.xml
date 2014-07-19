@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/7577-pinkgal]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/7577-pinkgal" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 21 Aug 2013 14:15:50 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/503581-foes-and-false-friends-are-all-around-me-lord-davos</guid>
+		<pubDate>Wed, 21 Aug 2013 14:15:50 -0700</pubDate>
+		<title>
+			<![CDATA[pinkgal add a quote by George R.R. Martin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/503581-foes-and-false-friends-are-all-around-me-lord-davos]]>
+		</link>
+		<description>
+	    <![CDATA["Foes and false friends are all around me, Lord Davos. They infest my city like roaches, and at night I feel them crawling over me.” The fat man’s fingers coiled into a fist, and all his chins trembled. “My son Wendel came to the Twins a guest. He ate Lord Walder’s bread and salt, and hung his sword upon the wall to feast with his friends. And they murdered him. Murdered, I say, and may the Freys choke upon their fables. I drink with Jared, jape with Symond, promise Rhaegar the hand of my own beloved granddaughter…but never think that means I have forgotten. The north remembers, Lord Davos. The north remembers, and the mummer’s farce is almost done. My son is home." -- George R.R. Martin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

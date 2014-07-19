@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/331521-bethany]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/331521-bethany" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 05 Jun 2010 22:21:44 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/66086-some-mothers-in-today-s-world-feel-cumbered-by-home-duties</guid>
+		<pubDate>Sat, 05 Jun 2010 22:21:44 -0700</pubDate>
+		<title>
+			<![CDATA[Bethany add a quote by Neal A. Maxwell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/66086-some-mothers-in-today-s-world-feel-cumbered-by-home-duties]]>
+		</link>
+		<description>
+	    <![CDATA["Some mothers in today's world feel &quot;cumbered&quot; by home duties and are thus attracted by other more &quot;romantic&quot; challenges.  Such women could make the same error of perspective that Martha made.  The woman, for instance, who deserts the cradle in order to help defend civilization against the barbarians may well later meet, among the barbarians, her own neglected child." -- Neal A. Maxwell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

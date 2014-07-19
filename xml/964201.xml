@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/964201-anna-reed]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/964201-anna-reed" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 03 Mar 2008 20:27:36 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/9770-i-cannot-live-without-books</guid>
+		<pubDate>Mon, 03 Mar 2008 20:27:36 -0800</pubDate>
+		<title>
+			<![CDATA[Anna add a quote by Thomas Jefferson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9770-i-cannot-live-without-books]]>
+		</link>
+		<description>
+	    <![CDATA["I cannot live without books." -- Thomas Jefferson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2326-things-which-matter-most-must-never-be-at-the-mercy</guid>
+		<pubDate>Tue, 04 Mar 2008 08:04:53 -0800</pubDate>
+		<title>
+			<![CDATA[Anna add a quote by Johann Wolfgang von Goethe]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2326-things-which-matter-most-must-never-be-at-the-mercy]]>
+		</link>
+		<description>
+	    <![CDATA["Things which matter most must never be at the mercy of things which matter least." -- Johann Wolfgang von Goethe]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3929-yesterday-is-history-tomorrow-is-a-mystery-today-is-a</guid>
+		<pubDate>Wed, 26 Mar 2008 10:48:23 -0700</pubDate>
+		<title>
+			<![CDATA[Anna add a quote by Bill Keane]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3929-yesterday-is-history-tomorrow-is-a-mystery-today-is-a]]>
+		</link>
+		<description>
+	    <![CDATA["Yesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present." -- Bill Keane]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

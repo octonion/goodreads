@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/727180-caro]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/727180-caro" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 17 Jul 2012 19:48:43 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/590195-the-arts-are-not-a-way-to-make-a-living</guid>
+		<pubDate>Tue, 17 Jul 2012 19:48:43 -0700</pubDate>
+		<title>
+			<![CDATA[Caro add a quote by Kurt Vonnegut]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/590195-the-arts-are-not-a-way-to-make-a-living]]>
+		</link>
+		<description>
+	    <![CDATA["The arts are not a way to make a living. They are a very human way of making life more bearable." -- Kurt Vonnegut]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/90987-sane-people-did-what-their-neighbors-did-so-that-if</guid>
+		<pubDate>Tue, 17 Jul 2012 19:50:49 -0700</pubDate>
+		<title>
+			<![CDATA[Caro add a quote by George Eliot]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/90987-sane-people-did-what-their-neighbors-did-so-that-if]]>
+		</link>
+		<description>
+	    <![CDATA["Sane people did what their neighbors did, so that if any lunatics were at large, one might know and avoid them." -- George Eliot]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

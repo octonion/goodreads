@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/349714-stacia]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/349714-stacia" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 28 Mar 2012 13:24:49 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/222771-a-year-from-now-you-may-wish-you-had-started</guid>
+		<pubDate>Wed, 28 Mar 2012 13:24:49 -0700</pubDate>
+		<title>
+			<![CDATA[Stacia add a quote by Karen Lamb]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/222771-a-year-from-now-you-may-wish-you-had-started]]>
+		</link>
+		<description>
+	    <![CDATA["A year from now you may wish you had started today." -- Karen Lamb]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1191268-if-you-don-t-hate-your-darlings-a-little-by-the</guid>
+		<pubDate>Tue, 29 Apr 2014 15:30:31 -0700</pubDate>
+		<title>
+			<![CDATA[Stacia add a quote by S. Kelley Harrell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1191268-if-you-don-t-hate-your-darlings-a-little-by-the]]>
+		</link>
+		<description>
+	    <![CDATA["If you don't hate your darlings a little by the time they go to press, you haven't edited them enough." -- S. Kelley Harrell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

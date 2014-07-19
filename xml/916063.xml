@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/916063-bette]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/916063-bette" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 16 Apr 2009 23:34:09 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/22675-children-are-the-living-messages-we-send-to-a-time</guid>
+		<pubDate>Thu, 16 Apr 2009 23:34:09 -0700</pubDate>
+		<title>
+			<![CDATA[Bette add a quote by John W. Whitehead ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22675-children-are-the-living-messages-we-send-to-a-time]]>
+		</link>
+		<description>
+	    <![CDATA["Children are the living messages we send to a time we will not see." -- John W. Whitehead ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/17521-it-s-so-hard-to-forget-pain-but-it-s-even-harder</guid>
+		<pubDate>Mon, 13 Feb 2012 08:46:34 -0800</pubDate>
+		<title>
+			<![CDATA[Bette add a quote by Chuck Palahniuk]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17521-it-s-so-hard-to-forget-pain-but-it-s-even-harder]]>
+		</link>
+		<description>
+	    <![CDATA["It's so hard to forget pain, but it's even harder to remember sweetness.  We have no scar to show for happiness. We learn so little from peace." -- Chuck Palahniuk]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

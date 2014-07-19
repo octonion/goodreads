@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/859335-sal-glynn]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/859335-sal-glynn" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 12 Sep 2009 15:07:10 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/192569-no-complete-son-of-a-bitch-ever-wrote-a-good</guid>
+		<pubDate>Sat, 12 Sep 2009 15:07:10 -0700</pubDate>
+		<title>
+			<![CDATA[Sal add a quote by Malcolm Cowley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/192569-no-complete-son-of-a-bitch-ever-wrote-a-good]]>
+		</link>
+		<description>
+	    <![CDATA["No complete son of a bitch ever wrote a good sentence." -- Malcolm Cowley]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/192570-the-worst-persian-voluptuary-could-never-have-imagined-my-most</guid>
+		<pubDate>Sat, 12 Sep 2009 15:10:11 -0700</pubDate>
+		<title>
+			<![CDATA[Sal add a quote by Lew Welch]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/192570-the-worst-persian-voluptuary-could-never-have-imagined-my-most]]>
+		</link>
+		<description>
+	    <![CDATA["The worst Persian voluptuary could never have imagined my most ordinary day." -- Lew Welch]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/372374-my-course-is-set-for-an-uncharted-sea</guid>
+		<pubDate>Mon, 27 Jan 2014 09:25:51 -0800</pubDate>
+		<title>
+			<![CDATA[Sal add a quote by Dante Alighieri]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/372374-my-course-is-set-for-an-uncharted-sea]]>
+		</link>
+		<description>
+	    <![CDATA["My course is set for an uncharted sea." -- Dante Alighieri]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

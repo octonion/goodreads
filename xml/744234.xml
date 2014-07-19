@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/744234-amy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/744234-amy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 02 Jun 2008 20:16:58 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/63-i-was-a-victim-of-a-series-of-accidents-as</guid>
+		<pubDate>Mon, 02 Jun 2008 20:16:58 -0700</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Kurt Vonnegut]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/63-i-was-a-victim-of-a-series-of-accidents-as]]>
+		</link>
+		<description>
+	    <![CDATA["I was a victim of a series of accidents, as are we all." -- Kurt Vonnegut]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1930-think-of-all-the-beauty-still-left-around-you-and</guid>
+		<pubDate>Mon, 05 Jan 2009 10:45:39 -0800</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Anne Frank]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1930-think-of-all-the-beauty-still-left-around-you-and]]>
+		</link>
+		<description>
+	    <![CDATA["Think of all the beauty still left around you and be happy." -- Anne Frank]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

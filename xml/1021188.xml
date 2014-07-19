@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1021188-khalid]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1021188-khalid" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 21 Jan 2014 02:15:48 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/131923-i-shall-pass-through-this-world-but-once-any-good</guid>
+		<pubDate>Tue, 21 Jan 2014 02:15:48 -0800</pubDate>
+		<title>
+			<![CDATA[Khalid add a quote by Stephen Grellet]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/131923-i-shall-pass-through-this-world-but-once-any-good]]>
+		</link>
+		<description>
+	    <![CDATA["I shall pass through this world but once. Any good therefore that I can do or any kindness that I can show to any human being, let me do it now. Let me not defer or neglect it, for I shall not pass this way again." -- Stephen Grellet]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/134739-the-things-you-own-end-up-owning-you-it-s-only</guid>
+		<pubDate>Tue, 04 Feb 2014 04:21:47 -0800</pubDate>
+		<title>
+			<![CDATA[Khalid add a quote by Chuck Palahniuk]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/134739-the-things-you-own-end-up-owning-you-it-s-only]]>
+		</link>
+		<description>
+	    <![CDATA["The things you own end up owning you. It's only after you lose everything that you're free to do anything." -- Chuck Palahniuk]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/816920-dedra]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/816920-dedra" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 20 May 2013 20:01:17 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/48122-the-brick-walls-are-there-for-a-reason-the-brick</guid>
+		<pubDate>Mon, 20 May 2013 20:01:17 -0700</pubDate>
+		<title>
+			<![CDATA[Dedra add a quote by Randy Pausch]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/48122-the-brick-walls-are-there-for-a-reason-the-brick]]>
+		</link>
+		<description>
+	    <![CDATA["The brick walls are there for a reason. The brick walls are not there to keep us out. The brick walls are there to give us a chance to show how badly we want something. Because the brick walls are there to stop the people who don’t want it badly enough. They’re there to stop the other people." -- Randy Pausch]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/62867-when-we-least-expect-it-life-sets-us-a-challenge</guid>
+		<pubDate>Mon, 20 May 2013 20:01:28 -0700</pubDate>
+		<title>
+			<![CDATA[Dedra add a quote by Paulo Coelho]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/62867-when-we-least-expect-it-life-sets-us-a-challenge]]>
+		</link>
+		<description>
+	    <![CDATA["When we least expect it, life sets us a challenge to test our courage and willingness to change; at such a moment, there is no point in pretending that nothing has happened or in saying that we are not yet ready. The challenge will not wait. Life does not look back. A week is more than enough time for us to decide whether or not to accept our destiny." -- Paulo Coelho]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

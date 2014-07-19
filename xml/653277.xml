@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/653277-garry-wilmore]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/653277-garry-wilmore" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 19 Dec 2010 21:12:05 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/19884-be-yourself-everyone-else-is-already-taken</guid>
+		<pubDate>Sun, 19 Dec 2010 21:12:05 -0800</pubDate>
+		<title>
+			<![CDATA[Garry add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/19884-be-yourself-everyone-else-is-already-taken]]>
+		</link>
+		<description>
+	    <![CDATA["Be yourself; everyone else is already taken." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2452-i-think-god-in-creating-man-somewhat-overestimated-his-ability</guid>
+		<pubDate>Sun, 19 Dec 2010 21:12:42 -0800</pubDate>
+		<title>
+			<![CDATA[Garry add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2452-i-think-god-in-creating-man-somewhat-overestimated-his-ability]]>
+		</link>
+		<description>
+	    <![CDATA["I think God, in creating man, somewhat overestimated his ability." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/12620-every-saint-has-a-past-and-every-sinner-has-a</guid>
+		<pubDate>Sun, 19 Dec 2010 21:13:02 -0800</pubDate>
+		<title>
+			<![CDATA[Garry add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12620-every-saint-has-a-past-and-every-sinner-has-a]]>
+		</link>
+		<description>
+	    <![CDATA["Every saint has a past, and every sinner has a future." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/181294-my-congratulations-to-you-sir-your-manuscript-is-both-good</guid>
+		<pubDate>Sun, 19 Dec 2010 21:16:58 -0800</pubDate>
+		<title>
+			<![CDATA[Garry add a quote by Samuel Johnson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/181294-my-congratulations-to-you-sir-your-manuscript-is-both-good]]>
+		</link>
+		<description>
+	    <![CDATA["My congratulations to you, sir. Your manuscript is both good and original; but the part that is good is not original, and the part that is original is not good. " -- Samuel Johnson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

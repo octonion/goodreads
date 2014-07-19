@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1031156-georgia]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1031156-georgia" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 28 Mar 2008 08:46:56 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/942-two-things-are-infinite-the-universe-and-human-stupidity-and</guid>
+		<pubDate>Fri, 28 Mar 2008 08:46:56 -0700</pubDate>
+		<title>
+			<![CDATA[Georgia add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/942-two-things-are-infinite-the-universe-and-human-stupidity-and]]>
+		</link>
+		<description>
+	    <![CDATA["Two things are infinite: the universe and human stupidity; and I'm not sure about the universe." -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4424-the-legitimate-powers-of-government-extend-to-such-acts-only</guid>
+		<pubDate>Fri, 18 Apr 2008 06:50:43 -0700</pubDate>
+		<title>
+			<![CDATA[Georgia add a quote by Thomas Jefferson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4424-the-legitimate-powers-of-government-extend-to-such-acts-only]]>
+		</link>
+		<description>
+	    <![CDATA["The legitimate powers of government extend to such acts only as are injurious to others. It does me no injury for my neighbor to say there are twenty gods or no god. It neither picks my pocket nor breaks my leg." -- Thomas Jefferson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

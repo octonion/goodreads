@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/890949-murs]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/890949-murs" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 09 Feb 2008 07:49:43 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/23211-the-expression-one-wears-on-one-s-face-is-far-more</guid>
+		<pubDate>Sat, 09 Feb 2008 07:49:43 -0800</pubDate>
+		<title>
+			<![CDATA[Murs add a quote by Dale Carnegie]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/23211-the-expression-one-wears-on-one-s-face-is-far-more]]>
+		</link>
+		<description>
+	    <![CDATA["The expression one wears on one's face is far more important than the clothes one wears on one's back." -- Dale Carnegie]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/21959-there-is-nothing-either-good-or-bad-but-thinking-makes</guid>
+		<pubDate>Sat, 09 Feb 2008 07:51:47 -0800</pubDate>
+		<title>
+			<![CDATA[Murs add a quote by William Shakespear]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21959-there-is-nothing-either-good-or-bad-but-thinking-makes]]>
+		</link>
+		<description>
+	    <![CDATA["There is nothing either good or bad, but thinking makes it so." -- William Shakespear]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/23215-the-deepest-principle-in-human-nature-is-the-craving-to</guid>
+		<pubDate>Sat, 09 Feb 2008 07:54:51 -0800</pubDate>
+		<title>
+			<![CDATA[Murs add a quote by William James]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/23215-the-deepest-principle-in-human-nature-is-the-craving-to]]>
+		</link>
+		<description>
+	    <![CDATA["The deepest principle in human nature is the craving to be appreciated." -- William James]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

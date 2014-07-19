@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1099090-jessica]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1099090-jessica" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 24 Jun 2009 20:25:36 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/164758-why-is-santa-an-anagram-for-satan-i-mean-besides</guid>
+		<pubDate>Wed, 24 Jun 2009 20:25:36 -0700</pubDate>
+		<title>
+			<![CDATA[Jessica add a quote by Sam Logan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/164758-why-is-santa-an-anagram-for-satan-i-mean-besides]]>
+		</link>
+		<description>
+	    <![CDATA["Why is Santa an anagram for Satan? I mean, besides the fact that both have the same amounts of the same letters. Just consider the many other similarities between the two figures: both of them are red, both of them like to laugh, both of them give presents to children and both of them are kings of an ungodly underworld of unspeakable horror and suffering. Coincidence? I THINK NOT." -- Sam Logan]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1598-you-only-live-once-but-if-you-do-it-right</guid>
+		<pubDate>Sun, 18 Aug 2013 21:23:33 -0700</pubDate>
+		<title>
+			<![CDATA[Jessica add a quote by Mae West]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1598-you-only-live-once-but-if-you-do-it-right]]>
+		</link>
+		<description>
+	    <![CDATA["You only live once, but if you do it right, once is enough." -- Mae West]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

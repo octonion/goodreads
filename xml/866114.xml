@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/866114-ryan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/866114-ryan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 04 Nov 2012 20:30:51 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/22291-you-think-when-you-wake-up-in-the-mornin-yesterday</guid>
+		<pubDate>Sun, 04 Nov 2012 20:30:51 -0800</pubDate>
+		<title>
+			<![CDATA[Ryan add a quote by Cormac McCarthy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22291-you-think-when-you-wake-up-in-the-mornin-yesterday]]>
+		</link>
+		<description>
+	    <![CDATA["You think when you wake up in the mornin yesterday don't count. But yesterday is all that does count. What else is there? Your life is made out of the days it’s made out of. Nothin else." -- Cormac McCarthy]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/23141-deep-in-each-man-is-the-knowledge-that-something-knows</guid>
+		<pubDate>Sun, 04 Nov 2012 20:32:13 -0800</pubDate>
+		<title>
+			<![CDATA[Ryan add a quote by Cormac McCarthy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/23141-deep-in-each-man-is-the-knowledge-that-something-knows]]>
+		</link>
+		<description>
+	    <![CDATA["Deep in each man is the knowledge that something knows of his existence. Something knows, and cannot be fled nor hid from." -- Cormac McCarthy]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/69730-if-a-story-is-not-about-the-hearer-he-will</guid>
+		<pubDate>Sun, 04 Nov 2012 20:34:51 -0800</pubDate>
+		<title>
+			<![CDATA[Ryan add a quote by John Steinbeck]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/69730-if-a-story-is-not-about-the-hearer-he-will]]>
+		</link>
+		<description>
+	    <![CDATA["If a story is not about the hearer, he will not listen. And here I make a rule—a great and interesting story is about everyone or it will not last." -- John Steinbeck]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/982360-lydia]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/982360-lydia" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 10 Jul 2008 18:06:32 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/71751-the-real-point-is-that-you-cannot-harbor-malice-toward</guid>
+		<pubDate>Thu, 10 Jul 2008 18:06:32 -0700</pubDate>
+		<title>
+			<![CDATA[Lydia add a quote by Harvey Fierstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/71751-the-real-point-is-that-you-cannot-harbor-malice-toward]]>
+		</link>
+		<description>
+	    <![CDATA["The real point is that you cannot harbor malice toward others and then cry foul when someone displays intolerance against you. Prejudice tolerated is intolerance encouraged. Rise up in righteousness when you witness the words and deeds of hate, but only if you are willing to rise up against them all,  including your own. Otherwise suffer the slings and arrows of disrespect silently." -- Harvey Fierstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1896-when-i-have-a-little-money-i-buy-books-and</guid>
+		<pubDate>Thu, 10 Jul 2008 18:07:11 -0700</pubDate>
+		<title>
+			<![CDATA[Lydia add a quote by Desiderius Erasmus Roterodamus]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1896-when-i-have-a-little-money-i-buy-books-and]]>
+		</link>
+		<description>
+	    <![CDATA["When I have a little money, I buy books; and if I have any left, I buy food and clothes." -- Desiderius Erasmus Roterodamus]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

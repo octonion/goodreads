@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/588396-jessica]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/588396-jessica" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 Jan 2008 14:54:42 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5445-whereas-story-is-processed-in-the-mind-in-a-straightforward</guid>
+		<pubDate>Tue, 01 Jan 2008 14:54:42 -0800</pubDate>
+		<title>
+			<![CDATA[Jessica add a quote by Jasper Fforde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5445-whereas-story-is-processed-in-the-mind-in-a-straightforward]]>
+		</link>
+		<description>
+	    <![CDATA["Whereas story is processed in the mind in a straightforward manner, poetry bypasses rational thought and goes straight to the limbic system and lights it up like a brushfire.  It's the crack cocaine of the literary world." -- Jasper Fforde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/7593-i-do-not-know-which-to-prefer-the-beauty-of</guid>
+		<pubDate>Tue, 01 Jan 2008 14:58:25 -0800</pubDate>
+		<title>
+			<![CDATA[Jessica add a quote by Wallace Stevens]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7593-i-do-not-know-which-to-prefer-the-beauty-of]]>
+		</link>
+		<description>
+	    <![CDATA["I do not know which to prefer,
+The beauty of inflections
+Or the beauty of innuendos
+The blackbird whistling
+Or just after." -- Wallace Stevens]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

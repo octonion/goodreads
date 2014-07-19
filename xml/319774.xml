@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/319774-michael]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/319774-michael" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 03 Sep 2013 19:11:06 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/885564-the-council-of-american-builders-met-once-a-month-and</guid>
+		<pubDate>Tue, 03 Sep 2013 19:11:06 -0700</pubDate>
+		<title>
+			<![CDATA[Michael add a quote by Ayn Rand]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/885564-the-council-of-american-builders-met-once-a-month-and]]>
+		</link>
+		<description>
+	    <![CDATA["The Council of American Builders met once a month and engaged in no tangible activity beyond listening to speeches and sipping an inferior brand of root beer. Its membership did not grow fast in quantity or quality. There were no concrete results achieved." -- Ayn Rand]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

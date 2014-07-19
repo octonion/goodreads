@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/329156-aiza-yparraguirre]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/329156-aiza-yparraguirre" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 29 Jun 2014 01:27:24 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/23923-her-pleasure-in-the-walk-must-arise-from-the-exercise</guid>
+		<pubDate>Sun, 29 Jun 2014 01:27:24 -0700</pubDate>
+		<title>
+			<![CDATA[Aiza add a quote by Jane Austen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/23923-her-pleasure-in-the-walk-must-arise-from-the-exercise]]>
+		</link>
+		<description>
+	    <![CDATA["Her &lt;i&gt;pleasure&lt;/i&gt; in the walk must arise from the exercise and the day, from the view of the last smiles of the year upon the tawny leaves and withered hedges, and from repeating to herself some few of the thousand poetical descriptions extant of autumn--that season of peculiar and inexhaustible influence on the mind of taste and tenderness--that season which has drawn from every poet worthy of being read some attempt at description, or some lines of feeling." -- Jane Austen]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

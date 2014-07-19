@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/96729-amanda]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/96729-amanda" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 21 Jul 2011 15:57:49 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/33501-he-showed-the-words-chocolate-cake-to-a-group-of</guid>
+		<pubDate>Thu, 21 Jul 2011 15:57:49 -0700</pubDate>
+		<title>
+			<![CDATA[Amanda add a quote by Michael Pollan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/33501-he-showed-the-words-chocolate-cake-to-a-group-of]]>
+		</link>
+		<description>
+	    <![CDATA["He showed the words “chocolate cake” to a group of Americans and recorded their word associations. “Guilt” was the top response. If that strikes you as unexceptional, consider the response of French eaters to the same prompt: “celebration." -- Michael Pollan]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

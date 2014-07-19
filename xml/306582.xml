@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/306582-brian]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/306582-brian" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 10 Feb 2011 13:38:31 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1216-we-pass-through-this-world-but-once-few-tragedies-can</guid>
+		<pubDate>Thu, 10 Feb 2011 13:38:31 -0800</pubDate>
+		<title>
+			<![CDATA[Brian add a quote by Stephen Jay Gould]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1216-we-pass-through-this-world-but-once-few-tragedies-can]]>
+		</link>
+		<description>
+	    <![CDATA["We pass through this world but once. Few tragedies can be more extensive than the stunting of life, few injustices deeper than the denial of an opportunity to strive or even to hope, by a limit imposed from without, but falsely identified as lying within." -- Stephen Jay Gould]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/23894-democracy-must-be-something-more-than-two-wolves-and-a</guid>
+		<pubDate>Tue, 27 Nov 2012 22:08:10 -0800</pubDate>
+		<title>
+			<![CDATA[Brian add a quote by James Bovard]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/23894-democracy-must-be-something-more-than-two-wolves-and-a]]>
+		</link>
+		<description>
+	    <![CDATA["Democracy must be something more than two wolves and a sheep voting on what to have for dinner." -- James Bovard]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/53247-men-will-never-be-free-until-the-last-king-is</guid>
+		<pubDate>Tue, 27 Nov 2012 22:08:14 -0800</pubDate>
+		<title>
+			<![CDATA[Brian add a quote by Denis Diderot]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/53247-men-will-never-be-free-until-the-last-king-is]]>
+		</link>
+		<description>
+	    <![CDATA["Men will never be free until the last king is strangled with the entrails of the last priest." -- Denis Diderot]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

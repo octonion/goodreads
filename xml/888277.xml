@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/888277-trixi]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/888277-trixi" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 08 Feb 2008 08:45:08 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/987-there-are-only-two-ways-to-live-your-life-one</guid>
+		<pubDate>Fri, 08 Feb 2008 08:45:08 -0800</pubDate>
+		<title>
+			<![CDATA[Trixi add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/987-there-are-only-two-ways-to-live-your-life-one]]>
+		</link>
+		<description>
+	    <![CDATA["There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle." -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/575614-i-m-neither-pro-women-nor-anti-men-i-m-just-thumbs-up-for</guid>
+		<pubDate>Tue, 04 Sep 2012 18:15:02 -0700</pubDate>
+		<title>
+			<![CDATA[Trixi add a quote by Caitlin Moran ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/575614-i-m-neither-pro-women-nor-anti-men-i-m-just-thumbs-up-for]]>
+		</link>
+		<description>
+	    <![CDATA["I’m neither ‘pro-women’ nor ‘anti-men’. I’m just ‘Thumbs up for the six billion" -- Caitlin Moran ]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

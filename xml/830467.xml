@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/830467-filia-martin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/830467-filia-martin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 17 Sep 2013 18:36:26 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/413483-i-don-t-know-how-to-deal-with-this</guid>
+		<pubDate>Tue, 17 Sep 2013 18:36:26 -0700</pubDate>
+		<title>
+			<![CDATA[Filia add a quote by Atsushi Ohkubo]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/413483-i-don-t-know-how-to-deal-with-this]]>
+		</link>
+		<description>
+	    <![CDATA["I don't know how to deal with this!" -- Atsushi Ohkubo]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/223578-sunny-day-sweepin-the-clouds-away-on-my-way-to</guid>
+		<pubDate>Sun, 10 Nov 2013 22:26:21 -0800</pubDate>
+		<title>
+			<![CDATA[Filia add a quote by Joe Raposo]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/223578-sunny-day-sweepin-the-clouds-away-on-my-way-to]]>
+		</link>
+		<description>
+	    <![CDATA["Sunny day 
+Sweepin' the clouds away 
+On my way to where the air is sweet" -- Joe Raposo]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

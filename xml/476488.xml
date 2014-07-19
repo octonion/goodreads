@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/476488-sasimam-c]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/476488-sasimam-c" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 24 Jun 2013 09:13:31 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/200671-everybody-is-special-everybody-everybody-is-a-hero-a-lover</guid>
+		<pubDate>Mon, 24 Jun 2013 09:13:31 -0700</pubDate>
+		<title>
+			<![CDATA[Sasimam add a quote by Alan Moore]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/200671-everybody-is-special-everybody-everybody-is-a-hero-a-lover]]>
+		</link>
+		<description>
+	    <![CDATA["Everybody is special. Everybody. Everybody is a hero, a lover, a fool, a villain. Everybody. Everybody has their story to tell." -- Alan Moore]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/8065-people-shouldn-t-be-afraid-of-their-government-governments-should-be</guid>
+		<pubDate>Mon, 24 Jun 2013 09:15:16 -0700</pubDate>
+		<title>
+			<![CDATA[Sasimam add a quote by Alan Moore]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8065-people-shouldn-t-be-afraid-of-their-government-governments-should-be]]>
+		</link>
+		<description>
+	    <![CDATA["People shouldn't be afraid of their government. Governments should be afraid of their people." -- Alan Moore]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

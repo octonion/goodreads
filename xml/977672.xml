@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/977672-tadhg]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/977672-tadhg" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 15 Jun 2013 10:00:52 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/826773-but-if-you-know-about-god-why-don-t-you-tell</guid>
+		<pubDate>Sat, 15 Jun 2013 10:00:52 -0700</pubDate>
+		<title>
+			<![CDATA[Tadhg add a quote by Aldous Huxley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/826773-but-if-you-know-about-god-why-don-t-you-tell]]>
+		</link>
+		<description>
+	    <![CDATA["But if you know about God, why don’t you tell them?' asked the Savage indignantly.
+'Why don’t you give them these books about God?'
+'For the same reason as we don’t give them Othello: they’re old; they’re about God hundreds of years ago. Not about God now.'
+'But God doesn’t change.'
+'Men do, though.'
+'What difference does that make?'
+&quot;All the difference in the world,' said Mustapha Mond." -- Aldous Huxley]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/851607-kilean]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/851607-kilean" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 15 Jan 2009 05:06:17 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/52127-we-should-be-careful-to-get-out-of-an-experience</guid>
+		<pubDate>Thu, 15 Jan 2009 05:06:17 -0800</pubDate>
+		<title>
+			<![CDATA[Kilean add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/52127-we-should-be-careful-to-get-out-of-an-experience]]>
+		</link>
+		<description>
+	    <![CDATA["We should be careful to get out of an experience only the wisdom that is in it and stop there lest we be like the cat that sits down on a hot stove lid. She will never sit down on a hot stove lid again and that is well but also she will never sit down on a cold one anymore." -- Mark Twain]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/16383-don-t-tell-me-the-moon-is-shining-show-me-the</guid>
+		<pubDate>Sat, 02 May 2009 15:07:44 -0700</pubDate>
+		<title>
+			<![CDATA[Kilean add a quote by Anton Chekhov]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16383-don-t-tell-me-the-moon-is-shining-show-me-the]]>
+		</link>
+		<description>
+	    <![CDATA["Don't tell me the moon is shining; show me the glint of light on broken glass." -- Anton Chekhov]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

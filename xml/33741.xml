@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/33741-kate]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/33741-kate" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 22 Jul 2009 10:40:13 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/72669-connection-is-the-triumphal-cry-these-days-connection-has-made</guid>
+		<pubDate>Wed, 22 Jul 2009 10:40:13 -0700</pubDate>
+		<title>
+			<![CDATA[Kate add a quote by Paul Theroux]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/72669-connection-is-the-triumphal-cry-these-days-connection-has-made]]>
+		</link>
+		<description>
+	    <![CDATA["Connection&quot; is the triumphal cry these days. Connection has made people arrogant, impatient, hasty, and presumptuous. ...I don't doubt that instant communication has been good for business, even for the publishing business, but it has done nothing for literature, and might even have harmed it.  In many ways connection has been disastrous. We have confused information (of which there is too much) with ideas (of which there are too few). I found out much more about the world and myself by being unconnected." -- Paul Theroux]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

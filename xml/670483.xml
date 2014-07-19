@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/670483-tudieth-williams]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/670483-tudieth-williams" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 21 Dec 2007 15:06:06 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/179221-a-friend-is-one-who-walks-in-when-others-walk</guid>
+		<pubDate>Fri, 21 Dec 2007 15:06:06 -0800</pubDate>
+		<title>
+			<![CDATA[tudieth add a quote by Walter Winchell ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/179221-a-friend-is-one-who-walks-in-when-others-walk]]>
+		</link>
+		<description>
+	    <![CDATA["A friend is one who walks in when others walk out." -- Walter Winchell ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6908-the-time-is-always-right-to-do-the-right-thing</guid>
+		<pubDate>Fri, 21 Dec 2007 15:08:18 -0800</pubDate>
+		<title>
+			<![CDATA[tudieth add a quote by Martin Luther King Jr.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6908-the-time-is-always-right-to-do-the-right-thing]]>
+		</link>
+		<description>
+	    <![CDATA["the time is always right to do the right thing" -- Martin Luther King Jr.]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6909-the-highest-reward-for-a-man-s-toil-is-not-what</guid>
+		<pubDate>Fri, 21 Dec 2007 15:15:36 -0800</pubDate>
+		<title>
+			<![CDATA[tudieth add a quote by John Ruskin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6909-the-highest-reward-for-a-man-s-toil-is-not-what]]>
+		</link>
+		<description>
+	    <![CDATA["The highest reward for a man's toil is not what he gets for it but what he becomes by it." -- John Ruskin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

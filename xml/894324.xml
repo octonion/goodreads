@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/894324-lyndsey]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/894324-lyndsey" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 27 Mar 2011 17:47:55 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5979-anyone-who-thinks-sitting-in-church-can-make-you-a</guid>
+		<pubDate>Sun, 27 Mar 2011 17:47:55 -0700</pubDate>
+		<title>
+			<![CDATA[Lyndsey add a quote by Garrison Keillor]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5979-anyone-who-thinks-sitting-in-church-can-make-you-a]]>
+		</link>
+		<description>
+	    <![CDATA["Anyone who thinks sitting in church can make you a Christian must also think that sitting in a garage can make you a car." -- Garrison Keillor]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

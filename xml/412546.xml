@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/412546-susi]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/412546-susi" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 02 Feb 2010 13:31:08 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/205831-i-became-known-as-lily-casey-the-mustang-breaking-poker-playing-horse-race-winning</guid>
+		<pubDate>Tue, 02 Feb 2010 13:31:08 -0800</pubDate>
+		<title>
+			<![CDATA[Susi add a quote by Jeannette Walls]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/205831-i-became-known-as-lily-casey-the-mustang-breaking-poker-playing-horse-race-winning]]>
+		</link>
+		<description>
+	    <![CDATA["I became known as Lily Casey, the mustang-breaking, poker-playing, horse-race-winning schoolmarm of Coconino County, and it wasn't half bad to be in place where no one had a problem with a woman having a moniker like that." -- Jeannette Walls]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

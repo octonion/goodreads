@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/720355-eduardo-sangarc-a]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/720355-eduardo-sangarc-a" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 19 May 2014 08:56:10 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/844885-se-qued-escuchando-el-goteo-del-agua-en-el-bosque</guid>
+		<pubDate>Mon, 19 May 2014 08:56:10 -0700</pubDate>
+		<title>
+			<![CDATA[Eduardo add a quote by Cormac McCarthy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/844885-se-qued-escuchando-el-goteo-del-agua-en-el-bosque]]>
+		</link>
+		<description>
+	    <![CDATA["Se quedó escuchando el goteo del agua en el bosque. Lecho rocoso, este. El frío y el silencio. Las cenizas del mundo difunto trajinadas de acá para allá por los crudos y transitorios vientos en el vacío. Llevadas, esparcidas y llevadas de nuevo. Todo desencajado de su apuntalamiento. Sin soporte en el viento cinéreo. Sostenido por una respiración, temblorosa y breve. Ojalá mi corazón fuese de piedra." -- Cormac McCarthy]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

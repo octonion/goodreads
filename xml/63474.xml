@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/63474-kevin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/63474-kevin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 19 Oct 2013 20:49:18 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/137062-you-think-you-know-what-is-just-and-what-is</guid>
+		<pubDate>Sat, 19 Oct 2013 20:49:18 -0700</pubDate>
+		<title>
+			<![CDATA[Kevin add a quote by J. M. Coetzee]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/137062-you-think-you-know-what-is-just-and-what-is]]>
+		</link>
+		<description>
+	    <![CDATA["You think you know what is just and what is not.  I understand.  We all think we know.&quot;  I had no doubt, myself, then, that at each moment each one of us, man, woman, child, perhaps even the poor old horse turning the mill-wheel, knew what was just: all creatures come into the world bringing with them the memory of justice.  &quot;But we live in a world of laws,&quot; I said to my poor prisoner, &quot;a world of the second-best.  There is nothing we can do about that.  We are fallen creatures.  All we can do is to uphold the laws, all of us, without allowing the memory of justice to fade." -- J. M. Coetzee]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

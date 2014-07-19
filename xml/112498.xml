@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/112498-dan-beck]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/112498-dan-beck" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 25 Jun 2014 17:18:19 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/642497-at-home-i-used-to-walk-through-emotional-wastelands-where</guid>
+		<pubDate>Wed, 25 Jun 2014 17:18:19 -0700</pubDate>
+		<title>
+			<![CDATA[Dan add a quote by Damien Echols]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/642497-at-home-i-used-to-walk-through-emotional-wastelands-where]]>
+		</link>
+		<description>
+	    <![CDATA["At home I used to walk through emotional wastelands where the lines on craggy faces were so deep that the wind whistled through them. People fell in and out of my life, but it was the places that really mattered. Even now I can feel them tugging at my sleeve and spinning around in my head. All the old stories have it wrong, because it's not the ghost that haunts the house; it's the house that haunts the ghost. I feel lost out here, and everything reminds me that I'm not quite real. In the end it's always home that damns us." -- Damien Echols]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/74499-lance-agena]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/74499-lance-agena" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 11 Nov 2012 21:15:23 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/503050-i-think-there-should-be-a-rule-that-everyone-in</guid>
+		<pubDate>Sun, 11 Nov 2012 21:15:23 -0800</pubDate>
+		<title>
+			<![CDATA[Lance add a quote by R.J. Palacio]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/503050-i-think-there-should-be-a-rule-that-everyone-in]]>
+		</link>
+		<description>
+	    <![CDATA["I think there should be a rule that everyone in the world should get a standing ovation at least once in their lives." -- R.J. Palacio]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/503051-kinder-than-is-necessary-because-it-s-not-enough-to-be</guid>
+		<pubDate>Sun, 11 Nov 2012 21:15:24 -0800</pubDate>
+		<title>
+			<![CDATA[Lance add a quote by R.J. Palacio]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/503051-kinder-than-is-necessary-because-it-s-not-enough-to-be]]>
+		</link>
+		<description>
+	    <![CDATA["Kinder than is &lt;i&gt;necessary&lt;/i&gt;. Because it's not enough to be kind. One should be kinder than needed." -- R.J. Palacio]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/505062-courage-kindness-friendship-character-these-are-the-qualities-that-define</guid>
+		<pubDate>Sun, 11 Nov 2012 21:15:46 -0800</pubDate>
+		<title>
+			<![CDATA[Lance add a quote by R.J. Palacio]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/505062-courage-kindness-friendship-character-these-are-the-qualities-that-define]]>
+		</link>
+		<description>
+	    <![CDATA["Courage. Kindness. Friendship. Character. These are the qualities that define us as human beings, and propel us, on occasion, to greatness." -- R.J. Palacio]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

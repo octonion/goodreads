@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/988388-elizabeth]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/988388-elizabeth" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 12 Mar 2008 13:19:02 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/34082-books-are-but-waste-paper-unless-we-spend-in-action</guid>
+		<pubDate>Wed, 12 Mar 2008 13:19:02 -0700</pubDate>
+		<title>
+			<![CDATA[Elizabeth add a quote by William Butler Yeats]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/34082-books-are-but-waste-paper-unless-we-spend-in-action]]>
+		</link>
+		<description>
+	    <![CDATA["Books are but waste paper unless we spend in action the wisdom we get from thought - asleep. When we are weary of the living, we may repair to the dead, who have nothing of peevishness, pride, or design in their conversation." -- William Butler Yeats]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

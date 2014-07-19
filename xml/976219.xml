@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/976219-paul-nunan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/976219-paul-nunan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 03 Aug 2008 05:32:04 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/79132-is-there-beauty-in-sodom-believe-me-that-for-the</guid>
+		<pubDate>Sun, 03 Aug 2008 05:32:04 -0700</pubDate>
+		<title>
+			<![CDATA[Paul add a quote by Fyodor Dostoevsky]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/79132-is-there-beauty-in-sodom-believe-me-that-for-the]]>
+		</link>
+		<description>
+	    <![CDATA["Is there beauty in Sodom? Believe me, that for the immense mass of mankind beauty is found in Sodom. Did you know that secret? The awful thing is that beauty is mysterious as well as terrible. God and the devil are fighting there and the battlefield is the heart of man." -- Fyodor Dostoevsky]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

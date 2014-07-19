@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/591640-c-sar-marins]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/591640-c-sar-marins" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 15 May 2010 12:49:48 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/28778-i-feel-as-if-i-were-a-piece-in-a</guid>
+		<pubDate>Sat, 15 May 2010 12:49:48 -0700</pubDate>
+		<title>
+			<![CDATA[César add a quote by Soren Kierkegaard]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/28778-i-feel-as-if-i-were-a-piece-in-a]]>
+		</link>
+		<description>
+	    <![CDATA["I feel as if I were a piece in a game of chess, when my opponent says of it: That piece cannot be moved." -- Soren Kierkegaard]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/22980-boredom-is-the-root-of-all-evil---the-despairing</guid>
+		<pubDate>Sat, 15 May 2010 12:51:35 -0700</pubDate>
+		<title>
+			<![CDATA[César add a quote by Soren Kierkegaard]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22980-boredom-is-the-root-of-all-evil---the-despairing]]>
+		</link>
+		<description>
+	    <![CDATA["Boredom is the root of all evil - the despairing refusal to be oneself." -- Soren Kierkegaard]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/815987-you-should-pass-us-by-and-forgive-us-our-happiness</guid>
+		<pubDate>Fri, 31 May 2013 16:39:17 -0700</pubDate>
+		<title>
+			<![CDATA[César add a quote by Fyodor Dostoyevsky]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/815987-you-should-pass-us-by-and-forgive-us-our-happiness]]>
+		</link>
+		<description>
+	    <![CDATA["You should pass us by and forgive us our happiness,&quot; said the prince in a low voice." -- Fyodor Dostoyevsky]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

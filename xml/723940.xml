@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/723940-heather]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/723940-heather" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 03 Jan 2008 15:44:24 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3388-love-is-a-snowmobile-racing-across-the-tundra-and-then</guid>
+		<pubDate>Thu, 03 Jan 2008 15:44:24 -0800</pubDate>
+		<title>
+			<![CDATA[Heather add a quote by Matt Groening]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3388-love-is-a-snowmobile-racing-across-the-tundra-and-then]]>
+		</link>
+		<description>
+	    <![CDATA["Love is a snowmobile racing across the tundra and then suddenly it flips over, pinning you underneath. At night, the ice weasels come." -- Matt Groening]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5445-whereas-story-is-processed-in-the-mind-in-a-straightforward</guid>
+		<pubDate>Fri, 18 Jan 2008 08:51:07 -0800</pubDate>
+		<title>
+			<![CDATA[Heather add a quote by Jasper Fforde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5445-whereas-story-is-processed-in-the-mind-in-a-straightforward]]>
+		</link>
+		<description>
+	    <![CDATA["Whereas story is processed in the mind in a straightforward manner, poetry bypasses rational thought and goes straight to the limbic system and lights it up like a brushfire.  It's the crack cocaine of the literary world." -- Jasper Fforde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/12124-the-past-is-never-dead-it-s-not-even-past</guid>
+		<pubDate>Tue, 10 Jun 2008 13:44:10 -0700</pubDate>
+		<title>
+			<![CDATA[Heather add a quote by William Faulkner]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12124-the-past-is-never-dead-it-s-not-even-past]]>
+		</link>
+		<description>
+	    <![CDATA["The past is never dead.  It's not even past." -- William Faulkner]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

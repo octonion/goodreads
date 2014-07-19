@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/45101-kimron-c]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/45101-kimron-c" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 28 Dec 2007 14:52:33 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/8274-not-only-does-the-universe-have-its-own-laws-all</guid>
+		<pubDate>Fri, 28 Dec 2007 14:52:33 -0800</pubDate>
+		<title>
+			<![CDATA[Kimron C. add a quote by José Saramago]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8274-not-only-does-the-universe-have-its-own-laws-all]]>
+		</link>
+		<description>
+	    <![CDATA["Not only does the universe have its own laws, all of them indifferent to the contradictory dreams and desires of humanity, and in the formulation of which we contribute not one iota, apart, that is, from the words by which we clumsily name them, but everything seems to indicate that it uses these laws for aims and objectives that transcend and always will transcend our understanding." -- José Saramago]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

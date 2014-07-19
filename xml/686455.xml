@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/686455-malikmisbah]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/686455-malikmisbah" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 22 Oct 2012 15:22:41 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/57290-sister-she-is-your-mirror-shining-back-at-you-with</guid>
+		<pubDate>Mon, 22 Oct 2012 15:22:41 -0700</pubDate>
+		<title>
+			<![CDATA[Malikmisbah add a quote by Barbara Alpert]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/57290-sister-she-is-your-mirror-shining-back-at-you-with]]>
+		</link>
+		<description>
+	    <![CDATA["Sister. She is your mirror, shining back at you with a world of possibilities. She is your witness, who sees you at your worst and best, and loves you anyway. She is your partner in crime, your midnight companion, someone who knows when you are smiling, even in the dark. She is your teacher, your defense attorney, your personal press agent, even your shrink. Some days, she's the reason you wish you were an only child." -- Barbara Alpert]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

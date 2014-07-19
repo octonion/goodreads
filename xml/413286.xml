@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/413286-laura]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/413286-laura" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 25 May 2008 14:50:25 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/16410-there-are-no-words-to-express-the-abyss-between-isolation</guid>
+		<pubDate>Sun, 25 May 2008 14:50:25 -0700</pubDate>
+		<title>
+			<![CDATA[Laura add a quote by G. K. Chesterton]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16410-there-are-no-words-to-express-the-abyss-between-isolation]]>
+		</link>
+		<description>
+	    <![CDATA["There are no words to express the abyss between isolation and having one ally. It may be conceded to the mathematician that four is twice two. But two is not twice one; two is two thousand times one." -- G. K. Chesterton]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

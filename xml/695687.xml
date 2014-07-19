@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/695687-mike]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/695687-mike" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 18 Dec 2007 17:52:35 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6296-i-saw-someone-peeing-in-jermym-street-the-other-day</guid>
+		<pubDate>Tue, 18 Dec 2007 17:52:35 -0800</pubDate>
+		<title>
+			<![CDATA[Mike add a quote by Alan Bennett]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6296-i-saw-someone-peeing-in-jermym-street-the-other-day]]>
+		</link>
+		<description>
+	    <![CDATA["I saw someone peeing in Jermym Street the other day. I thought, is this the end of civilization as we know it? Or is it simply someone peeing in Jermyn Street?" -- Alan Bennett]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/136491-heaven-and-hell-seem-out-of-proportion-to-me-the</guid>
+		<pubDate>Mon, 02 Feb 2009 06:04:19 -0800</pubDate>
+		<title>
+			<![CDATA[Mike add a quote by Jorge Luis Borges]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/136491-heaven-and-hell-seem-out-of-proportion-to-me-the]]>
+		</link>
+		<description>
+	    <![CDATA["Heaven and hell seem out of proportion to me: the actions of men do not deserve so much." -- Jorge Luis Borges]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/22107-i-soon-discovered-that-one-doesn-t-simply-read-crime-and</guid>
+		<pubDate>Mon, 31 Aug 2009 10:26:58 -0700</pubDate>
+		<title>
+			<![CDATA[Mike add a quote by Alberto Manguel]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22107-i-soon-discovered-that-one-doesn-t-simply-read-crime-and]]>
+		</link>
+		<description>
+	    <![CDATA["I soon discovered that one doesn't simply read &lt;i&gt;Crime and Punishment&lt;/i&gt; or &lt;i&gt;A Tree Grows in Brooklyn&lt;/i&gt;. One reads a certain edition, a specific copy, recognizable by the roughness or the smoothness of its paper, by its scent, by a slight tear on page 72 and a coffee ring on the right-hand corner of the back cover. " -- Alberto Manguel]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

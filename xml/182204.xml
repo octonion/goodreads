@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/182204-christopher]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/182204-christopher" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 06 Feb 2011 20:20:33 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/291699-i-m-not-sure-the-word-sorry-does-anything-justice-it-s</guid>
+		<pubDate>Sun, 06 Feb 2011 20:20:33 -0800</pubDate>
+		<title>
+			<![CDATA[Christopher add a quote by Jonathan Miles]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/291699-i-m-not-sure-the-word-sorry-does-anything-justice-it-s]]>
+		</link>
+		<description>
+	    <![CDATA["I'm not sure the word &quot;sorry&quot; does anything justice. It's such a loose word isn't it? I mean how can one puny word encompass all the stuff you did - But also the, all the things you didn't do? It's the inactions that keep people up at night. The actions, they're done. They're done. It's the inactions that never go away. They just hang there. They ROT. How is sorry supposed to stretch across all that?" -- Jonathan Miles]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

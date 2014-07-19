@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/20567-joe]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/20567-joe" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 02 Feb 2011 19:46:18 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/17976-if-you-know-the-enemy-and-know-yourself-you-need</guid>
+		<pubDate>Wed, 02 Feb 2011 19:46:18 -0800</pubDate>
+		<title>
+			<![CDATA[Joe add a quote by Sun Tzu]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17976-if-you-know-the-enemy-and-know-yourself-you-need]]>
+		</link>
+		<description>
+	    <![CDATA["If you know the enemy and know yourself, you need not fear the result of a hundred battles. If you know yourself but not the enemy, for every victory gained you will also suffer a defeat. If you know neither the enemy nor yourself, you will succumb in every battle." -- Sun Tzu]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/41960-the-supreme-art-of-war-is-to-subdue-the-enemy</guid>
+		<pubDate>Wed, 02 Feb 2011 19:46:58 -0800</pubDate>
+		<title>
+			<![CDATA[Joe add a quote by Sun Tzu]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/41960-the-supreme-art-of-war-is-to-subdue-the-enemy]]>
+		</link>
+		<description>
+	    <![CDATA["The supreme art of war is to subdue the enemy without fighting." -- Sun Tzu]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/103957-all-warfare-is-based-on-deception-hence-when-we-are</guid>
+		<pubDate>Wed, 02 Feb 2011 19:47:16 -0800</pubDate>
+		<title>
+			<![CDATA[Joe add a quote by Sun tzu]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/103957-all-warfare-is-based-on-deception-hence-when-we-are]]>
+		</link>
+		<description>
+	    <![CDATA["All warfare is based on deception. Hence, when we are able to attack, we must seem unable; when using our forces, we must appear inactive; when we are near, we must make the enemy believe we are far away; when far away, we must make him believe we are near." -- Sun tzu]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

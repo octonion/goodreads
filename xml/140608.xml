@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/140608-rich-mcneary]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/140608-rich-mcneary" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 11 Jun 2009 18:13:04 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/158287-patience-is-the-mother-of-joy-it-is-through-patience</guid>
+		<pubDate>Thu, 11 Jun 2009 18:13:04 -0700</pubDate>
+		<title>
+			<![CDATA[Rich add a quote by William Bryant Logan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/158287-patience-is-the-mother-of-joy-it-is-through-patience]]>
+		</link>
+		<description>
+	    <![CDATA["Patience is the mother of joy.  It is through patience that we can endure each others company long enough to fall in love, through patience that we can cooperate in a task, through patience that we can go from abysmally bad to almost all right, through patience that we can restrain ourselves from wasting our lives in anger and disappointment.  The patient person waits, listens, expects, hopes, nurtures, cares, remembers, speaks, trusts, and is courteous.  The impatient person demands, gets angry, hurries, presumes, is careless, despairs, forgets, complains, distrusts, disrupts." -- William Bryant Logan]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

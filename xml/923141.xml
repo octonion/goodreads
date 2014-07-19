@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/923141-josh-martin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/923141-josh-martin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 22 Apr 2008 19:33:10 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/47406-the-scrape-and-snap-of-keds-on-loose-alley-pebbles</guid>
+		<pubDate>Tue, 22 Apr 2008 19:33:10 -0700</pubDate>
+		<title>
+			<![CDATA[Josh add a quote by John Updike]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/47406-the-scrape-and-snap-of-keds-on-loose-alley-pebbles]]>
+		</link>
+		<description>
+	    <![CDATA["The scrape and snap of Keds on loose alley pebbles seems to catapult their voices high into the moist March air blue above the wires." -- John Updike]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6050-the-fundamental-cause-of-the-trouble-is-that-in-the</guid>
+		<pubDate>Tue, 21 May 2013 07:38:50 -0700</pubDate>
+		<title>
+			<![CDATA[Josh add a quote by Bertrand Russell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6050-the-fundamental-cause-of-the-trouble-is-that-in-the]]>
+		</link>
+		<description>
+	    <![CDATA["The  fundamental cause of the trouble is that in the modern world the stupid are cocksure while the intelligent are full of doubt." -- Bertrand Russell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1009449-jessica]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1009449-jessica" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 06 Jun 2008 14:26:33 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6248-book-collecting-is-an-obsession-an-occupation-a-disease-an</guid>
+		<pubDate>Fri, 06 Jun 2008 14:26:33 -0700</pubDate>
+		<title>
+			<![CDATA[Jessica add a quote by Jeanette Winterson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6248-book-collecting-is-an-obsession-an-occupation-a-disease-an]]>
+		</link>
+		<description>
+	    <![CDATA["Book collecting is an obsession, an occupation, a disease, an addiction, a fascination, an absurdity, a fate. It is not a hobby. Those who do it must do it. Those who do not do it, think of it as a cousin of stamp collecting, a sister of the trophy cabinet, bastard of a sound bank account and a weak mind." -- Jeanette Winterson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

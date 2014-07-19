@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/113611-haddayr]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/113611-haddayr" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 30 Dec 2011 16:12:05 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/17394-so-you-re-the-man-who-can-t-spell-fuck-dorothy-parker</guid>
+		<pubDate>Fri, 30 Dec 2011 16:12:05 -0800</pubDate>
+		<title>
+			<![CDATA[Haddayr add a quote by Dorothy Parker]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17394-so-you-re-the-man-who-can-t-spell-fuck-dorothy-parker]]>
+		</link>
+		<description>
+	    <![CDATA["So, you're the man who can't spell 'fuck.'&quot;
+ Dorothy Parker to Norman Mailer after publishers had convinced Mailer to replace the word with a euphemism, 'fug,' in his 1948 book, &quot;The Naked and the Dead." -- Dorothy Parker]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

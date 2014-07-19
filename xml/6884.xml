@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/6884-david]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/6884-david" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 08 Feb 2009 10:45:27 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/277-everything-must-be-made-as-simple-as-possible-but-not</guid>
+		<pubDate>Sun, 08 Feb 2009 10:45:27 -0800</pubDate>
+		<title>
+			<![CDATA[David add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/277-everything-must-be-made-as-simple-as-possible-but-not]]>
+		</link>
+		<description>
+	    <![CDATA["Everything must be made as simple as possible. But not simpler." -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1629-it-is-the-mark-of-an-educated-mind-to-be</guid>
+		<pubDate>Sun, 08 Feb 2009 10:47:26 -0800</pubDate>
+		<title>
+			<![CDATA[David add a quote by Aristotle]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1629-it-is-the-mark-of-an-educated-mind-to-be]]>
+		</link>
+		<description>
+	    <![CDATA["It is the mark of an educated mind to be able to entertain a thought without accepting it." -- Aristotle]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1427-i-have-never-let-my-schooling-interfere-with-my-education</guid>
+		<pubDate>Sun, 08 Feb 2009 10:50:31 -0800</pubDate>
+		<title>
+			<![CDATA[David add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1427-i-have-never-let-my-schooling-interfere-with-my-education]]>
+		</link>
+		<description>
+	    <![CDATA["I have never let my schooling interfere with my education." -- Mark Twain]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/42812-the-advantage-of-a-bad-memory-is-that-one-enjoys</guid>
+		<pubDate>Sun, 08 Feb 2009 10:51:56 -0800</pubDate>
+		<title>
+			<![CDATA[David add a quote by Friedrich Nietzsche]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/42812-the-advantage-of-a-bad-memory-is-that-one-enjoys]]>
+		</link>
+		<description>
+	    <![CDATA["The advantage of a bad memory is that one enjoys several times the same good things for the first time." -- Friedrich Nietzsche]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

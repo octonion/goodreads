@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/441241-jeff]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/441241-jeff" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 08 Apr 2012 02:39:57 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/161955-in-a-world-where-the-dead-have-returned-to-life</guid>
+		<pubDate>Sun, 08 Apr 2012 02:39:57 -0700</pubDate>
+		<title>
+			<![CDATA[Jeff add a quote by Dennis Hopper]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/161955-in-a-world-where-the-dead-have-returned-to-life]]>
+		</link>
+		<description>
+	    <![CDATA["In a world where the dead have returned to life, the word&quot; trouble' loses much of its meaning." -- Dennis Hopper]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/99392-no-man-knows-how-bad-he-is-till-he-has</guid>
+		<pubDate>Sat, 06 Jul 2013 09:27:48 -0700</pubDate>
+		<title>
+			<![CDATA[Jeff add a quote by C.S. Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/99392-no-man-knows-how-bad-he-is-till-he-has]]>
+		</link>
+		<description>
+	    <![CDATA["No man knows how bad he is till he has tried very hard to be good. A silly idea is current that good people do not know what temptation means. This is an obvious lie. Only those who try to resist temptation know how strong it is. After all, you find out the strength of the German army by fighting against it, not by giving in. You find out the strength of a wind by trying to walk against it, not by lying down. A man who gives in to temptation after five minutes simply does not know what it would have been like an hour later. That is why bad people, in one sense, know very little about badness — they have lived a sheltered life by always giving in. We never find out the strength of the evil impulse inside us until we try to fight it: and Christ, because He was the only man who never yielded to temptation, is also the only man who knows to the full what temptation means — the only complete realist." -- C.S. Lewis]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/780695-gabriel]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/780695-gabriel" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 01 Sep 2008 15:40:55 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/92615-there-is-in-nature-a-parallel-unity-which-corresponds-to</guid>
+		<pubDate>Mon, 01 Sep 2008 15:40:55 -0700</pubDate>
+		<title>
+			<![CDATA[Gabriel add a quote by Ralph Waldo Emerson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/92615-there-is-in-nature-a-parallel-unity-which-corresponds-to]]>
+		</link>
+		<description>
+	    <![CDATA["There is in nature a parallel unity which corresponds to the unity in the mind and makes it available. This methodizing mind meets no resistance in its attempts. The scattered blocks, with which it strives to form a symmetrical structure, fit. This design following after finds with joy that like design went before. Not only man puts things in a row, but things belong in a row." -- Ralph Waldo Emerson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/106096-besides-rereading-not-reading-is-what-counts</guid>
+		<pubDate>Tue, 14 Oct 2008 13:23:10 -0700</pubDate>
+		<title>
+			<![CDATA[Gabriel add a quote by Jorge Luis Borges]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/106096-besides-rereading-not-reading-is-what-counts]]>
+		</link>
+		<description>
+	    <![CDATA["Besides, rereading, not reading, is what counts." -- Jorge Luis Borges]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/144032-a-work-of-art-really-is-above-all-an-adventure</guid>
+		<pubDate>Mon, 02 Mar 2009 10:00:55 -0800</pubDate>
+		<title>
+			<![CDATA[Gabriel add a quote by Eugene Ionesco]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/144032-a-work-of-art-really-is-above-all-an-adventure]]>
+		</link>
+		<description>
+	    <![CDATA["A work of art really is above all an adventure of the mind." -- Eugene Ionesco]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

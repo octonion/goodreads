@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/241005-rachel]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/241005-rachel" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 07 Aug 2008 21:02:04 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2940-to-choose-doubt-as-a-philosophy-of-life-is-akin</guid>
+		<pubDate>Thu, 07 Aug 2008 21:02:04 -0700</pubDate>
+		<title>
+			<![CDATA[Rachel add a quote by Yann Martel]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2940-to-choose-doubt-as-a-philosophy-of-life-is-akin]]>
+		</link>
+		<description>
+	    <![CDATA["To choose doubt as a philosophy of life is akin to choosing immobility as a means of transportation." -- Yann Martel]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/80633-life-is-a-peephole-a-single-tiny-entry-onto-a</guid>
+		<pubDate>Thu, 07 Aug 2008 21:06:44 -0700</pubDate>
+		<title>
+			<![CDATA[Rachel add a quote by Yann Martel]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/80633-life-is-a-peephole-a-single-tiny-entry-onto-a]]>
+		</link>
+		<description>
+	    <![CDATA["Life is a peephole, a single tiny entry onto a vastness--how can I not dwell on this brief, cramped view of things? This peephole is all I've got!" -- Yann Martel]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

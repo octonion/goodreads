@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/892277-danielle-smith]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/892277-danielle-smith" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 01 Jun 2011 10:53:01 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/98236-in-the-end-i-am-the-only-one-who-can</guid>
+		<pubDate>Wed, 01 Jun 2011 10:53:01 -0700</pubDate>
+		<title>
+			<![CDATA[Danielle add a quote by Janene Wolsey Baadsgaard]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/98236-in-the-end-i-am-the-only-one-who-can]]>
+		</link>
+		<description>
+	    <![CDATA["In the end, I am the only one who can give my children a happy mother who loves life." -- Janene Wolsey Baadsgaard]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/381344-how-do-i-love-thee-let-me-count-the-ways</guid>
+		<pubDate>Mon, 12 Sep 2011 15:27:38 -0700</pubDate>
+		<title>
+			<![CDATA[Danielle add a quote by Elizabeth Barrett Browning]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/381344-how-do-i-love-thee-let-me-count-the-ways]]>
+		</link>
+		<description>
+	    <![CDATA["How do I love thee? Let me count the ways.
+I love thee to the depth and breadth and height
+My soul can reach" -- Elizabeth Barrett Browning]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

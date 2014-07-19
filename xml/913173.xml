@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/913173-lewis]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/913173-lewis" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 16 Feb 2008 00:39:15 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/8206-do-i-contradict-myself-very-well-then-i-contradict-myself</guid>
+		<pubDate>Sat, 16 Feb 2008 00:39:15 -0800</pubDate>
+		<title>
+			<![CDATA[Lewis add a quote by Walt Whitman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8206-do-i-contradict-myself-very-well-then-i-contradict-myself]]>
+		</link>
+		<description>
+	    <![CDATA["Do I contradict myself? Very well, then, I contradict myself; I am large -- I contain multitudes." -- Walt Whitman]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

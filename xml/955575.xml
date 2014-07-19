@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/955575-derek]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/955575-derek" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 30 Apr 2010 06:36:14 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/251627-nothing-happened-today-and-if-anything-did-i-d-rather-not</guid>
+		<pubDate>Fri, 30 Apr 2010 06:36:14 -0700</pubDate>
+		<title>
+			<![CDATA[Derek add a quote by Roberto Bolaño]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/251627-nothing-happened-today-and-if-anything-did-i-d-rather-not]]>
+		</link>
+		<description>
+	    <![CDATA["Nothing happened today. And if anything did, I’d rather not talk about it, because I didn’t understand it." -- Roberto Bolaño]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/140215-so-fuck-you-los-angeles-fuck-your-palm-trees-and</guid>
+		<pubDate>Mon, 23 Aug 2010 09:29:29 -0700</pubDate>
+		<title>
+			<![CDATA[Derek add a quote by John Fante]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/140215-so-fuck-you-los-angeles-fuck-your-palm-trees-and]]>
+		</link>
+		<description>
+	    <![CDATA["So fuck you, Los Angeles, fuck your palm trees, and your highassed women, and your fancy streets, for I am going home, back to Colorado, back to the best damned town in the USA - Boulder, Colorado." -- John Fante]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

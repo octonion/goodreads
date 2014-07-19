@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/19739-camilla]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/19739-camilla" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 01 Jun 2011 12:27:55 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/162231-no-black-woman-writer-in-this-culture-can-write-too</guid>
+		<pubDate>Wed, 01 Jun 2011 12:27:55 -0700</pubDate>
+		<title>
+			<![CDATA[camilla add a quote by bell hooks]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/162231-no-black-woman-writer-in-this-culture-can-write-too]]>
+		</link>
+		<description>
+	    <![CDATA["No black woman writer in this culture can write &quot;too much&quot;. Indeed, no woman writer can write &quot;too much&quot;...No woman has ever written enough." -- bell hooks]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/117477-it-is-better-to-be-alone-she-figures-than-to</guid>
+		<pubDate>Sat, 25 Jun 2011 19:37:10 -0700</pubDate>
+		<title>
+			<![CDATA[camilla add a quote by E. Lockhart]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/117477-it-is-better-to-be-alone-she-figures-than-to]]>
+		</link>
+		<description>
+	    <![CDATA["It is better to be alone, she figures, than to be with someone who can't see who you are.  It is better to lead than to follow.  It is better to speak up than stay silent.  It is better to open doors than to shut them on people.
+
+She will not be simple and sweet.  She will not be what people tell her to be.  That Bunny Rabbit is dead." -- E. Lockhart]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

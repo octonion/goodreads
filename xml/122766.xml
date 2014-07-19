@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/122766-jo-khalaf]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/122766-jo-khalaf" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 12 Jan 2013 20:28:24 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/347084-the-first-thing-you-notice-coming-to-israel-from-the</guid>
+		<pubDate>Sat, 12 Jan 2013 20:28:24 -0800</pubDate>
+		<title>
+			<![CDATA[Jo`` add a quote by Tony Horwitz]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/347084-the-first-thing-you-notice-coming-to-israel-from-the]]>
+		</link>
+		<description>
+	    <![CDATA["The first thing you notice, coming to Israel from the Arab world, is that you have left the most courteous region of the globe and entered the rudest.  The difference is so profound that you're left wondering when the mutation in Semitic blood occurred, as though God parted the Red Sea and said: &quot;Okay, you rude ones, keep wandering toward the Promised Land.  The rest of you can stay here and rot in the desert, saying 'welcome, most welcome' and drowning each other in tea until the end of time." -- Tony Horwitz]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

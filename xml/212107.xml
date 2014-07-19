@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/212107-sarah]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/212107-sarah" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Feb 2014 15:07:50 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/575322-you-must-know-that-i-do-not-love-and-that</guid>
+		<pubDate>Sun, 02 Feb 2014 15:07:50 -0800</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by Pablo Neruda]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/575322-you-must-know-that-i-do-not-love-and-that]]>
+		</link>
+		<description>
+	    <![CDATA["You must know that I do not love and that I love you,
+because everything alive has its two sides;
+a word is one wing of silence,
+fire has its cold half.
+I love you in order to begin to love you,
+to start infinity again
+and never to stop loving you:
+that’s why I do not love you yet.
+I love you, and I do not love you, as if I held
+keys in my hand: to a future of joy-
+a wretched, muddled fate-
+My love has two lives, in order to love you.
+
+-Sonnet XLIV" -- Pablo Neruda]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

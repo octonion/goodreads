@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1006696-anqi]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1006696-anqi" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 07 Sep 2008 05:57:12 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3616-i-am-nothing-special-of-this-i-am-sure-i</guid>
+		<pubDate>Sun, 07 Sep 2008 05:57:12 -0700</pubDate>
+		<title>
+			<![CDATA[Anqi add a quote by Nicholas Sparks]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3616-i-am-nothing-special-of-this-i-am-sure-i]]>
+		</link>
+		<description>
+	    <![CDATA["I am nothing special, of this I am sure. I am a common man with common thoughts and I've led a common life. There are no monuments dedicated to me and my name will soon be forgotten, but I've loved another with all my heart and soul, and to me, this has always been enough.." -- Nicholas Sparks]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/26122-i-didn-t-fail-the-test-i-just-found-100-ways</guid>
+		<pubDate>Wed, 19 Mar 2008 22:46:50 -0700</pubDate>
+		<title>
+			<![CDATA[Anqi add a quote by Benjamin Franklin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/26122-i-didn-t-fail-the-test-i-just-found-100-ways]]>
+		</link>
+		<description>
+	    <![CDATA["I didn't fail the test, I just found 100 ways to do it wrong." -- Benjamin Franklin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/43633-too-far-fetched-to-believe-too-obvious-to-ignore</guid>
+		<pubDate>Fri, 11 Apr 2008 07:36:08 -0700</pubDate>
+		<title>
+			<![CDATA[Anqi add a quote by Nicholas Sparks]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/43633-too-far-fetched-to-believe-too-obvious-to-ignore]]>
+		</link>
+		<description>
+	    <![CDATA["Too far-fetched to believe, too obvious to ignore." -- Nicholas Sparks]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/249373-nichelle-h]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/249373-nichelle-h" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 11 May 2008 11:35:09 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/7510-if-neurotic-is-wanting-two-mutually-exclusive-things-at-one</guid>
+		<pubDate>Sun, 11 May 2008 11:35:09 -0700</pubDate>
+		<title>
+			<![CDATA[Nichelle add a quote by Sylvia Plath]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7510-if-neurotic-is-wanting-two-mutually-exclusive-things-at-one]]>
+		</link>
+		<description>
+	    <![CDATA["If neurotic is wanting two mutually exclusive things at one and the same time, then I'm neurotic as hell. I'll be flying back and forth between one mutually exclusive thing and another for the rest of my days." -- Sylvia Plath]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/7931-i-talk-to-god-but-the-sky-is-empty</guid>
+		<pubDate>Sun, 11 May 2008 11:35:45 -0700</pubDate>
+		<title>
+			<![CDATA[Nichelle add a quote by Sylvia Plath]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7931-i-talk-to-god-but-the-sky-is-empty]]>
+		</link>
+		<description>
+	    <![CDATA["I talk to God but the sky is empty." -- Sylvia Plath]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

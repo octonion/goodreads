@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/733502-laura]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/733502-laura" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 28 Jan 2013 18:50:26 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/473133-out-damned-spot-out-i-say-one-two-why-then-tis</guid>
+		<pubDate>Mon, 28 Jan 2013 18:50:26 -0800</pubDate>
+		<title>
+			<![CDATA[Laura add a quote by William Shakespeare]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/473133-out-damned-spot-out-i-say-one-two-why-then-tis]]>
+		</link>
+		<description>
+	    <![CDATA["Out, damned spot! out, I say!—One, two; why, then ‘tis time to do’t.—Hell is murky!—Fie, my lord, fie! a soldier, and afeard? What need we fear who knows it, when none can call our power to account?—Yet who would have thought the old man to have so much blood in him? The thane of Fife had a wife; where is she now?—What, will these hands ne’er be clean?—No more o’that, my lord, no more o’that: you mar all with this starting. Here’s the smell of the blood still: all the perfumes of Arabia will not sweeten this little hand. Oh, oh, oh!" -- William Shakespeare]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

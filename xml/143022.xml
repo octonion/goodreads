@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/143022-tomasz]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/143022-tomasz" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 21 Jan 2013 18:20:05 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/340727-the-good-thing-about-science-is-that-it-s-true-whether</guid>
+		<pubDate>Mon, 21 Jan 2013 18:20:05 -0800</pubDate>
+		<title>
+			<![CDATA[Tomasz add a quote by Neil deGrasse Tyson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/340727-the-good-thing-about-science-is-that-it-s-true-whether]]>
+		</link>
+		<description>
+	    <![CDATA["The good thing about science is that it's true whether or not you believe in it." -- Neil deGrasse Tyson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/40891-the-more-i-learn-about-the-universe-the-less-convinced</guid>
+		<pubDate>Mon, 21 Jan 2013 18:22:10 -0800</pubDate>
+		<title>
+			<![CDATA[Tomasz add a quote by Neil deGrasse Tyson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/40891-the-more-i-learn-about-the-universe-the-less-convinced]]>
+		</link>
+		<description>
+	    <![CDATA["The more I learn about the universe, the less convinced I am that there's any sort of benevolent force that has anything to do with it, at all." -- Neil deGrasse Tyson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

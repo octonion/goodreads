@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/949596-thomas]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/949596-thomas" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 04 Feb 2014 20:15:15 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/969111-she-isn-t-feeling-easy-with-any-of-this-she-doesn-t</guid>
+		<pubDate>Tue, 04 Feb 2014 20:15:15 -0800</pubDate>
+		<title>
+			<![CDATA[Thomas add a quote by William Gibson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/969111-she-isn-t-feeling-easy-with-any-of-this-she-doesn-t]]>
+		</link>
+		<description>
+	    <![CDATA["She isn't feeling easy with any of this. She doesn't know quite what to do with Bigend's proposition, which has kicked her into one of those modes that her therapist, when she last had one, would lump under the rubric of 'old behaviors.' It consisted of saying no, but somehow not quite forcefully enough, and then continuing to listen. With the result that her 'no' could be gradually chipped away at, and turned into a 'yes' before she herself was consciously aware that this was happening. She had thought she had been getting much better around this, but now she feels it happening again." -- William Gibson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

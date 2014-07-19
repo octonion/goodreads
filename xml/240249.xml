@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/240249-nick]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/240249-nick" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 22 Apr 2008 17:23:32 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/15254-the-facts-of-history-have-been-too-well-rehearsed-i-m</guid>
+		<pubDate>Tue, 22 Apr 2008 17:23:32 -0700</pubDate>
+		<title>
+			<![CDATA[Nick add a quote by John Ashbery]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/15254-the-facts-of-history-have-been-too-well-rehearsed-i-m]]>
+		</link>
+		<description>
+	    <![CDATA["The facts of history have been too well rehearsed (I'm speaking needless to say not of written history but the oral kind that goes on in you without your having to do anything about it). . ." -- John Ashbery]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/351189-jon]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/351189-jon" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 05 Sep 2012 07:09:25 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/68038-if-you-would-tell-me-the-heart-of-a-man</guid>
+		<pubDate>Wed, 05 Sep 2012 07:09:25 -0700</pubDate>
+		<title>
+			<![CDATA[Jon add a quote by Francois Mauriac]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/68038-if-you-would-tell-me-the-heart-of-a-man]]>
+		</link>
+		<description>
+	    <![CDATA["If you would tell me the heart of a man, tell me not what he reads, but what he rereads." -- Francois Mauriac]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/13356-if-everything-seems-under-control-you-re-not-going-fast-enough</guid>
+		<pubDate>Mon, 15 Apr 2013 09:31:27 -0700</pubDate>
+		<title>
+			<![CDATA[Jon add a quote by Mario Andretti]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13356-if-everything-seems-under-control-you-re-not-going-fast-enough]]>
+		</link>
+		<description>
+	    <![CDATA["If everything seems under control, you're not going fast enough." -- Mario Andretti]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1053301-aly]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1053301-aly" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 03 Apr 2008 14:51:21 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/41245-the-man-paused-and-added-with-a-grin-he-also</guid>
+		<pubDate>Thu, 03 Apr 2008 14:51:21 -0700</pubDate>
+		<title>
+			<![CDATA[Aly add a quote by Robin McKinley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/41245-the-man-paused-and-added-with-a-grin-he-also]]>
+		</link>
+		<description>
+	    <![CDATA["The man paused and added with a grin, &quot;He also wishes your porter's head on a silver plate for not opening the gate at once upon his herald's declaration of his visit.  This tale of threatening brigands is all very well, but can't I see he's the sheriff?" -- Robin McKinley]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/37340-the-train-is-roaring-toward-you-and-the-villain-is</guid>
+		<pubDate>Thu, 03 Apr 2008 14:54:35 -0700</pubDate>
+		<title>
+			<![CDATA[Aly add a quote by Robin McKinley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/37340-the-train-is-roaring-toward-you-and-the-villain-is]]>
+		</link>
+		<description>
+	    <![CDATA["The train is roaring toward you and the villain is twirling his moustache and you're fussing that he's tied you to the tracks with the wrong kind of rope." -- Robin McKinley]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

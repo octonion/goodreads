@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/677236-toni]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/677236-toni" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Dec 2007 16:45:19 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4851-i-am-a-fallen-woman-but-i-assure-you-i</guid>
+		<pubDate>Tue, 11 Dec 2007 16:45:19 -0800</pubDate>
+		<title>
+			<![CDATA[Toni add a quote by Michel Faber]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4851-i-am-a-fallen-woman-but-i-assure-you-i]]>
+		</link>
+		<description>
+	    <![CDATA["I am a fallen woman, but I assure you: I did not fall.  I was pushed." -- Michel Faber]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4854-writing-a-book-is-a-horrible-exhausting-struggle-like-a</guid>
+		<pubDate>Tue, 11 Dec 2007 16:51:52 -0800</pubDate>
+		<title>
+			<![CDATA[Toni add a quote by George Orwell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4854-writing-a-book-is-a-horrible-exhausting-struggle-like-a]]>
+		</link>
+		<description>
+	    <![CDATA["Writing a book is a horrible, exhausting struggle, like a long bout with some painful illness. One would never undertake such a thing if one were not driven on by some demon whom one can neither resist nor understand." -- George Orwell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

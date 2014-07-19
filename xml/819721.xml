@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/819721-kristina]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/819721-kristina" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 13 Dec 2011 22:25:38 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/120275-the-great-thing-about-fantasy-is-that-you-can-drag</guid>
+		<pubDate>Tue, 13 Dec 2011 22:25:38 -0800</pubDate>
+		<title>
+			<![CDATA[Kristina add a quote by Robin McKinley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/120275-the-great-thing-about-fantasy-is-that-you-can-drag]]>
+		</link>
+		<description>
+	    <![CDATA["The great thing about fantasy is that you can drag dreams and longings and hopes and fears and strivings out of your subconscious and call them 'magic' or 'dragons' or 'faeries' and get to know them better. But then I write the stuff. Obviously I'm prejudiced." -- Robin McKinley]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/172745-when-they-finished-laughing-they-were-on-their-way-to</guid>
+		<pubDate>Tue, 13 Dec 2011 22:26:42 -0800</pubDate>
+		<title>
+			<![CDATA[Kristina add a quote by Robin McKinley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/172745-when-they-finished-laughing-they-were-on-their-way-to]]>
+		</link>
+		<description>
+	    <![CDATA["When they finished laughing they were on their way to being not just friends, but the dearest of friends, the sort of friends whose lives are shaped by the friendship." -- Robin McKinley]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

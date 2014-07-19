@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/962429-corey]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/962429-corey" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 05 May 2008 19:14:44 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/32030-i-detest-the-idea-that-love-between-two-persons-can</guid>
+		<pubDate>Mon, 05 May 2008 19:14:44 -0700</pubDate>
+		<title>
+			<![CDATA[Corey add a quote by Rainer Werner Fassbinder]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/32030-i-detest-the-idea-that-love-between-two-persons-can]]>
+		</link>
+		<description>
+	    <![CDATA["I detest the idea that love between two persons can lead to salvation.  All my life I have fought against this oppressive type of relationship.  Instead, I believe in searching for a kind of love that somehow involves all of humanity." -- Rainer Werner Fassbinder]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/83643-i-bear-my-burden-proudly-for-all-to-see-to</guid>
+		<pubDate>Mon, 18 Aug 2008 21:17:39 -0700</pubDate>
+		<title>
+			<![CDATA[Corey add a quote by William S. Burroughs]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/83643-i-bear-my-burden-proudly-for-all-to-see-to]]>
+		</link>
+		<description>
+	    <![CDATA["I bear my burden proudly for all to see, to conquer prejudice and ignorance and hate with knowledge and sincerity and love. Whenever you are threatened by a hostile presence, you emit a thick cloud of love like an octopus squirts out ink..." -- William S. Burroughs]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

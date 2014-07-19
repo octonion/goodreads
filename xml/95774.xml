@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/95774-trent-ross]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/95774-trent-ross" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 13 Aug 2012 20:05:37 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/13519-reality-continues-to-ruin-my-life</guid>
+		<pubDate>Mon, 13 Aug 2012 20:05:37 -0700</pubDate>
+		<title>
+			<![CDATA[Trent add a quote by Bill Watterson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13519-reality-continues-to-ruin-my-life]]>
+		</link>
+		<description>
+	    <![CDATA["Reality continues to ruin my life." -- Bill Watterson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/668799-every-day-you-amass-knowledge-in-a-frantic-race-against</guid>
+		<pubDate>Tue, 29 Oct 2013 20:53:03 -0700</pubDate>
+		<title>
+			<![CDATA[Trent add a quote by Derek Raymond]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/668799-every-day-you-amass-knowledge-in-a-frantic-race-against]]>
+		</link>
+		<description>
+	    <![CDATA["Every day you amass knowledge in a frantic race against death that death must win. You want to find out everything in the time you have; yet in the end you wonder why you bothered, it'll all be lost. I keep trying to explain this to anyone who will listen." -- Derek Raymond]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

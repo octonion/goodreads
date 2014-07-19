@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/179599-normandy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/179599-normandy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 09 Feb 2012 12:00:17 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/34397-if-you-want-a-golden-rule-that-will-fit-everything</guid>
+		<pubDate>Thu, 09 Feb 2012 12:00:17 -0800</pubDate>
+		<title>
+			<![CDATA[Normandy add a quote by William Morris]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/34397-if-you-want-a-golden-rule-that-will-fit-everything]]>
+		</link>
+		<description>
+	    <![CDATA["If you want a golden rule that will fit everything, this is it: Have nothing in your houses that you do not know to be useful or believe to be beautiful." -- William Morris]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/142853-some-day-locke-lamora-he-said-some-day-you-re-going</guid>
+		<pubDate>Thu, 09 Feb 2012 12:09:52 -0800</pubDate>
+		<title>
+			<![CDATA[Normandy add a quote by Scott Lynch]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/142853-some-day-locke-lamora-he-said-some-day-you-re-going]]>
+		</link>
+		<description>
+	    <![CDATA["Some day, Locke Lamora,” he said, “some day, you’re going to fuck up so magnificently, so ambitiously, so overwhelmingly that the sky will light up and the moons will spin and the gods themselves will shit comets with glee. And I just hope I’m still around to see it.”
+“Oh please,” said Locke. “It’ll never happen." -- Scott Lynch]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

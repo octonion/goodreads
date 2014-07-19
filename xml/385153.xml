@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/385153-liza-taylor]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/385153-liza-taylor" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 19 Aug 2012 06:18:22 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/129652-you-never-know-what-worse-luck-your-bad-luck-has</guid>
+		<pubDate>Sun, 19 Aug 2012 06:18:22 -0700</pubDate>
+		<title>
+			<![CDATA[Liza add a quote by Cormac McCarthy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/129652-you-never-know-what-worse-luck-your-bad-luck-has]]>
+		</link>
+		<description>
+	    <![CDATA["You never know what worse luck your bad luck has saved you from." -- Cormac McCarthy]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/11116-nobody-wants-to-be-here-and-nobody-wants-to-leave</guid>
+		<pubDate>Sun, 19 Aug 2012 06:18:37 -0700</pubDate>
+		<title>
+			<![CDATA[Liza add a quote by Cormac McCarthy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11116-nobody-wants-to-be-here-and-nobody-wants-to-leave]]>
+		</link>
+		<description>
+	    <![CDATA["Nobody wants to be here and nobody wants to leave." -- Cormac McCarthy]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

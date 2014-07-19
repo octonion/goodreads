@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/785688-jamie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/785688-jamie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 29 Feb 2008 09:33:28 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/29572-we-die-to-each-other-daily-what-we-know-of</guid>
+		<pubDate>Fri, 29 Feb 2008 09:33:28 -0800</pubDate>
+		<title>
+			<![CDATA[jamie add a quote by T.S. Eliot]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/29572-we-die-to-each-other-daily-what-we-know-of]]>
+		</link>
+		<description>
+	    <![CDATA["We die to each other daily. What we know of other people is only our memory of the moments during which we knew them. And they have changed since then. To pretend that they and we are the same is a useful and convenient social convention which must sometimes be broken. We must also remember that at every meeting we are meeting a stranger." -- T.S. Eliot]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5920-hope-is-the-thing-with-feathers-that-perches-in-the</guid>
+		<pubDate>Sat, 24 Jul 2010 11:44:18 -0700</pubDate>
+		<title>
+			<![CDATA[jamie add a quote by Emily Dickinson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5920-hope-is-the-thing-with-feathers-that-perches-in-the]]>
+		</link>
+		<description>
+	    <![CDATA["Hope is the thing with feathers 
+That perches in the soul 
+And sings the tune without the words 
+And never stops at all." -- Emily Dickinson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

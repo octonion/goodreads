@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/638931-john]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/638931-john" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 26 May 2008 23:18:41 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/57807-time-is-the-brush-of-god-as-he-paints-his</guid>
+		<pubDate>Mon, 26 May 2008 23:18:41 -0700</pubDate>
+		<title>
+			<![CDATA[john add a quote by Ravi Zacharias]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/57807-time-is-the-brush-of-god-as-he-paints-his]]>
+		</link>
+		<description>
+	    <![CDATA["Time is the brush of God, as he paints his masterpiece on the heart of humanity." -- Ravi Zacharias]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

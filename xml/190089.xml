@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/190089-stacy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/190089-stacy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 03 Feb 2008 10:47:46 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1791-a-book-must-be-the-axe-for-the-frozen-sea</guid>
+		<pubDate>Sun, 03 Feb 2008 10:47:46 -0800</pubDate>
+		<title>
+			<![CDATA[Stacy add a quote by Franz Kafka]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1791-a-book-must-be-the-axe-for-the-frozen-sea]]>
+		</link>
+		<description>
+	    <![CDATA["A book must be the axe for the frozen sea within us." -- Franz Kafka]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/24431-boy-those-french-they-have-a-different-word-for-everything</guid>
+		<pubDate>Fri, 11 Jul 2008 17:50:17 -0700</pubDate>
+		<title>
+			<![CDATA[Stacy add a quote by Steve Martin ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/24431-boy-those-french-they-have-a-different-word-for-everything]]>
+		</link>
+		<description>
+	    <![CDATA["Boy, those French! They have a different word for everything." -- Steve Martin ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/257922-before-parents-accept-the-wisdeom-of-a-school-board-to</guid>
+		<pubDate>Wed, 12 May 2010 12:46:34 -0700</pubDate>
+		<title>
+			<![CDATA[Stacy add a quote by Mark Moran]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/257922-before-parents-accept-the-wisdeom-of-a-school-board-to]]>
+		</link>
+		<description>
+	    <![CDATA["Before parents accept the wisdeom of a school board to cut school librarians, they should ask: Will my child graduate with a 21st-century resume, or a 19th-century transcript? . . . As the information landscape becomes ever more complex, why does a school district want to abandon its professional guides to it?" -- Mark Moran]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

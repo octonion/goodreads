@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/502928-laura]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/502928-laura" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 20 Mar 2014 11:20:32 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/59581-i-have-come-to-the-frightening-conclusion-that-i-am</guid>
+		<pubDate>Thu, 20 Mar 2014 11:20:32 -0700</pubDate>
+		<title>
+			<![CDATA[Laura add a quote by Haim G. Ginott]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/59581-i-have-come-to-the-frightening-conclusion-that-i-am]]>
+		</link>
+		<description>
+	    <![CDATA["I have come to the frightening conclusion that I am the decisive element. It is my personal approach that creates the climate. It is my daily mood that makes the weather. I possess tremendous power to make life miserable or joyous. I can be a tool of torture or an instrument of inspiration, I can humiliate or humor, hurt or heal. In all situations, it is my response that decides whether a crisis is escalated or de-escalated, and a person is humanized or de-humanized. If we treat people as they are, we make them worse. If we treat people as they ought to be, we help them become what they are capable of becoming." -- Haim G. Ginott]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/680650-adrienne]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/680650-adrienne" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 11 Jan 2009 14:30:32 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/95321-i-hate-books-they-only-teach-us-to-talk-about</guid>
+		<pubDate>Sun, 11 Jan 2009 14:30:32 -0800</pubDate>
+		<title>
+			<![CDATA[Adrienne add a quote by Jean-Jacques Rousseau]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/95321-i-hate-books-they-only-teach-us-to-talk-about]]>
+		</link>
+		<description>
+	    <![CDATA["I hate books; they only teach us to talk about things we know nothing about." -- Jean-Jacques Rousseau]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/40556-love-known-to-the-person-by-whom-it-is-inspired</guid>
+		<pubDate>Sun, 11 Jan 2009 14:30:51 -0800</pubDate>
+		<title>
+			<![CDATA[Adrienne add a quote by Jean-Jacques Rousseau ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/40556-love-known-to-the-person-by-whom-it-is-inspired]]>
+		</link>
+		<description>
+	    <![CDATA["Love, known to the person by whom it is inspired, becomes more bearable." -- Jean-Jacques Rousseau ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/11361-the-art-of-art-the-glory-of-expression-and-the</guid>
+		<pubDate>Sun, 11 Jan 2009 14:34:37 -0800</pubDate>
+		<title>
+			<![CDATA[Adrienne add a quote by Walt Whitman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11361-the-art-of-art-the-glory-of-expression-and-the]]>
+		</link>
+		<description>
+	    <![CDATA["The art of art, the glory of expression and the sunshine of the light of letters, is simplicity." -- Walt Whitman]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

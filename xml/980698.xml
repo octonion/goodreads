@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/980698-patty]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/980698-patty" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 10 Mar 2008 14:14:01 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/33411-the-greatest-disease-of-mankind-is-a-lack-of-love</guid>
+		<pubDate>Mon, 10 Mar 2008 14:14:01 -0700</pubDate>
+		<title>
+			<![CDATA[Patty add a quote by Bernie Seigel]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/33411-the-greatest-disease-of-mankind-is-a-lack-of-love]]>
+		</link>
+		<description>
+	    <![CDATA["The greatest disease of mankind is a lack of love for children, leading to their psychological and sometimes even physical abuse, which predisposes those children to a hopeless-helpless attitude and to disease later in life.  We cannot keep blaming physical poisons or genetic defects for every disease.  We have to realize that there are social and psychosocial poisons in our own homes that predispose us to disease by creating certain attitudes and feelings within us." -- Bernie Seigel]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

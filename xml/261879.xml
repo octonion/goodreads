@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/261879-lauren]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/261879-lauren" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 27 Jun 2010 07:27:38 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/185905-empathy-is-not-simply-a-matter-of-trying-to-imagine</guid>
+		<pubDate>Sun, 27 Jun 2010 07:27:38 -0700</pubDate>
+		<title>
+			<![CDATA[Lauren add a quote by Cornel West]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/185905-empathy-is-not-simply-a-matter-of-trying-to-imagine]]>
+		</link>
+		<description>
+	    <![CDATA["Empathy is not simply a matter of trying to imagine what others are going through, but having the will to muster enough courage to do something about it. In a way, empathy is predicated upon hope." -- Cornel West]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

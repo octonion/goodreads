@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1011790-m-alan-cox]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1011790-m-alan-cox" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 21 Mar 2008 09:45:14 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/11819-language-is-a-virus-from-outer-space</guid>
+		<pubDate>Fri, 21 Mar 2008 09:45:14 -0700</pubDate>
+		<title>
+			<![CDATA[M add a quote by William S. Burroughs]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11819-language-is-a-virus-from-outer-space]]>
+		</link>
+		<description>
+	    <![CDATA["Language is a virus from outer space" -- William S. Burroughs]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3090-the-secret-of-life-is-honesty-and-fair-dealing-if</guid>
+		<pubDate>Fri, 21 Mar 2008 09:46:36 -0700</pubDate>
+		<title>
+			<![CDATA[M add a quote by Groucho Marx]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3090-the-secret-of-life-is-honesty-and-fair-dealing-if]]>
+		</link>
+		<description>
+	    <![CDATA["The secret of life is honesty and fair dealing. If you can fake that, you've got it made." -- Groucho Marx]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

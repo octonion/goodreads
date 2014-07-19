@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/368616-linnzi]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/368616-linnzi" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 05 Apr 2013 15:17:40 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/412167-you-could-duct-tape-my-mouth-shut-and-i-d-still</guid>
+		<pubDate>Fri, 05 Apr 2013 15:17:40 -0700</pubDate>
+		<title>
+			<![CDATA[Linnzi add a quote by Jarod Kintz]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/412167-you-could-duct-tape-my-mouth-shut-and-i-d-still]]>
+		</link>
+		<description>
+	    <![CDATA["You could duct tape my mouth shut, and I'd still talk too much. I talk with my hands, so you have to listen hard to hear me. You'll hear my flattering words when you see me clap. Hello and goodbye are the same word, in the language of the hand. When I talk with my hands, I might be agreeable and say &quot;Ok.&quot; Or I might be calling you an asshole. But let's face it, I am agreeable, and you are an asshole." -- Jarod Kintz]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

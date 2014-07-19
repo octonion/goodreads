@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/366420-andrew]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/366420-andrew" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 08 Aug 2008 19:57:18 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/15622-where-do-i-get-my-ideas-from-you-might-as</guid>
+		<pubDate>Fri, 08 Aug 2008 19:57:18 -0700</pubDate>
+		<title>
+			<![CDATA[Andrew add a quote by Kurt Vonnegut]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/15622-where-do-i-get-my-ideas-from-you-might-as]]>
+		</link>
+		<description>
+	    <![CDATA["Where do I get my ideas from? You might as well have asked that of Beethoven. He was goofing around in Germany like everybody else, and all of a sudden this stuff came gushing out of him. It was music. I was goofing around like everybody else in Indiana, and all of a sudden stuff came gushing out. It was disgust with civilization." -- Kurt Vonnegut]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4122-only-dull-people-are-brilliant-at-breakfast</guid>
+		<pubDate>Fri, 08 Aug 2008 20:00:43 -0700</pubDate>
+		<title>
+			<![CDATA[Andrew add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4122-only-dull-people-are-brilliant-at-breakfast]]>
+		</link>
+		<description>
+	    <![CDATA["Only dull people are brilliant at breakfast." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4-whenever-you-find-yourself-on-the-side-of-the-majority</guid>
+		<pubDate>Fri, 08 Aug 2008 20:04:21 -0700</pubDate>
+		<title>
+			<![CDATA[Andrew add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4-whenever-you-find-yourself-on-the-side-of-the-majority]]>
+		</link>
+		<description>
+	    <![CDATA["Whenever you find yourself on the side of the majority, it is time to pause and reflect." -- Mark Twain]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

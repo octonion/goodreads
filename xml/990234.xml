@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/990234-terry]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/990234-terry" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 15 Mar 2008 11:07:33 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/18741-i-can-resist-anything-except-temptation</guid>
+		<pubDate>Sat, 15 Mar 2008 11:07:33 -0700</pubDate>
+		<title>
+			<![CDATA[Terry add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18741-i-can-resist-anything-except-temptation]]>
+		</link>
+		<description>
+	    <![CDATA["I can resist anything except temptation." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6950-the-mystery-of-love-is-greater-than-the-mystery-of</guid>
+		<pubDate>Sat, 15 Mar 2008 11:08:21 -0700</pubDate>
+		<title>
+			<![CDATA[Terry add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6950-the-mystery-of-love-is-greater-than-the-mystery-of]]>
+		</link>
+		<description>
+	    <![CDATA["The mystery of love is greater than the mystery of death." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1173-don-t-cry-because-it-s-over-smile-because-it-happened</guid>
+		<pubDate>Fri, 04 Apr 2008 22:19:19 -0700</pubDate>
+		<title>
+			<![CDATA[Terry add a quote by Dr. Seuss ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1173-don-t-cry-because-it-s-over-smile-because-it-happened]]>
+		</link>
+		<description>
+	    <![CDATA["Don't cry because it's over, smile because it happened." -- Dr. Seuss ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/177972-procrastination-is-the-art-of-keeping-up-with-yesterday</guid>
+		<pubDate>Fri, 04 Apr 2008 22:20:49 -0700</pubDate>
+		<title>
+			<![CDATA[Terry add a quote by Don Marquis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/177972-procrastination-is-the-art-of-keeping-up-with-yesterday]]>
+		</link>
+		<description>
+	    <![CDATA["Procrastination is the art of keeping up with yesterday" -- Don Marquis]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

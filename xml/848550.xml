@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/848550-kelli]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/848550-kelli" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 22 Dec 2009 17:51:04 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/122706-i-say-love-it-knows-no-season-it-haunts-the</guid>
+		<pubDate>Tue, 22 Dec 2009 17:51:04 -0800</pubDate>
+		<title>
+			<![CDATA[Kelli add a quote by Dwight Yoakam]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/122706-i-say-love-it-knows-no-season-it-haunts-the]]>
+		</link>
+		<description>
+	    <![CDATA["I say love,
+it knows no season.
+It haunts the soul
+eternally." -- Dwight Yoakam]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/41485-you-can-t-please-everyone-so-you-ve-got-to-please-yourself</guid>
+		<pubDate>Tue, 22 Dec 2009 17:51:04 -0800</pubDate>
+		<title>
+			<![CDATA[Kelli add a quote by Ricky Nelson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/41485-you-can-t-please-everyone-so-you-ve-got-to-please-yourself]]>
+		</link>
+		<description>
+	    <![CDATA["You can't please everyone, so you've got to please yourself." -- Ricky Nelson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

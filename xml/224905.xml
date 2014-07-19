@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/224905-melissa-grace]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/224905-melissa-grace" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 01 Aug 2008 19:41:56 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/25-we-are-all-in-the-gutter-but-some-of-us</guid>
+		<pubDate>Fri, 01 Aug 2008 19:41:56 -0700</pubDate>
+		<title>
+			<![CDATA[Melissa Grace add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/25-we-are-all-in-the-gutter-but-some-of-us]]>
+		</link>
+		<description>
+	    <![CDATA["We are all in the gutter, but some of us are looking at the stars." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/11871-that-s-the-problem-with-drinking-i-thought-as-i-poured</guid>
+		<pubDate>Fri, 29 Aug 2008 13:53:28 -0700</pubDate>
+		<title>
+			<![CDATA[Melissa Grace add a quote by Charles Bukowski]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11871-that-s-the-problem-with-drinking-i-thought-as-i-poured]]>
+		</link>
+		<description>
+	    <![CDATA["That's the problem with drinking, I thought, as I poured myself a drink. If something bad happens you drink in an attempt to forget; if something good happens you drink in order to celebrate; and if nothing happens you drink to make something happen." -- Charles Bukowski]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/67125-happiness-is-an-allegory-unhappiness-a-story</guid>
+		<pubDate>Fri, 02 Jan 2009 18:04:53 -0800</pubDate>
+		<title>
+			<![CDATA[Melissa Grace add a quote by Leo Tolstoy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/67125-happiness-is-an-allegory-unhappiness-a-story]]>
+		</link>
+		<description>
+	    <![CDATA["Happiness is an allegory, unhappiness a story." -- Leo Tolstoy]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

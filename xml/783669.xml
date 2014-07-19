@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/783669-joanna]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/783669-joanna" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 16 May 2008 18:48:33 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/48103-beauty-is-like-a-train-that-ceaselessly-roars-out-of</guid>
+		<pubDate>Fri, 16 May 2008 18:48:33 -0700</pubDate>
+		<title>
+			<![CDATA[Joanna add a quote by Andre Breton]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/48103-beauty-is-like-a-train-that-ceaselessly-roars-out-of]]>
+		</link>
+		<description>
+	    <![CDATA["Beauty is like a train that ceaselessly roars out of the Gare de Lyon and which I know will never leave, which has not left. It consists of jolts and shocks, many of which do not have much importance, but which we know are destined to produce one &lt;i&gt;Shock&lt;/i&gt;, which does...The human heart, beautiful as a seismograph...Beauty will be CONVULSIVE or will not be at all." -- Andre Breton]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

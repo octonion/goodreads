@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/85407-david]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/85407-david" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 07 Apr 2008 07:58:42 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/42260-man-does-not-live-by-words-alone-despite-the-fact</guid>
+		<pubDate>Mon, 07 Apr 2008 07:58:42 -0700</pubDate>
+		<title>
+			<![CDATA[David add a quote by Adlai Stevenson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/42260-man-does-not-live-by-words-alone-despite-the-fact]]>
+		</link>
+		<description>
+	    <![CDATA["Man does not live by words alone, despite the fact that sometimes he has to eat them." -- Adlai Stevenson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/42261-we-think-it-is-calm-here-or-that-our-storm</guid>
+		<pubDate>Mon, 07 Apr 2008 07:59:06 -0700</pubDate>
+		<title>
+			<![CDATA[David add a quote by William Stafford]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/42261-we-think-it-is-calm-here-or-that-our-storm]]>
+		</link>
+		<description>
+	    <![CDATA["We think it is calm here, or that our storm is the right size." -- William Stafford]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

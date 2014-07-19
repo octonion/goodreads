@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/398853-colleen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/398853-colleen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 28 Jan 2013 17:41:13 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/666845-birds-sing-after-a-song-why-shouldn-t-people-feel-free</guid>
+		<pubDate>Mon, 28 Jan 2013 17:41:13 -0800</pubDate>
+		<title>
+			<![CDATA[Colleen add a quote by Rose Kennedy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/666845-birds-sing-after-a-song-why-shouldn-t-people-feel-free]]>
+		</link>
+		<description>
+	    <![CDATA["Birds sing after a song. Why shouldn't people feel free to delight in whatever sunlight remains to them?" -- Rose Kennedy]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/659138-it-has-been-said-that-time-heals-all-wounds-i</guid>
+		<pubDate>Mon, 28 Jan 2013 17:41:21 -0800</pubDate>
+		<title>
+			<![CDATA[Colleen add a quote by Rose Kennedy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/659138-it-has-been-said-that-time-heals-all-wounds-i]]>
+		</link>
+		<description>
+	    <![CDATA["It has been said that time heals all wounds, I don't agree. The wounds remain. In time, the mind, protecting its sanity, covers them with scar tissue, and the pain lessens, but is never gone" -- Rose Kennedy]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

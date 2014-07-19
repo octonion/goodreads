@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1032446-jeff]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1032446-jeff" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 13 Apr 2011 14:55:34 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/340623-there-are-many-reasons-why-so-many-of-us-choose</guid>
+		<pubDate>Wed, 13 Apr 2011 14:55:34 -0700</pubDate>
+		<title>
+			<![CDATA[Jeff add a quote by Nick Trout]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/340623-there-are-many-reasons-why-so-many-of-us-choose]]>
+		</link>
+		<description>
+	    <![CDATA["There are many reasons why so many of us choose to share our lives with a pet--it's the perfect antidote for loneliness, providing an endless supply of smiles and the certainty of unwavering companionship, and many of us have seen the way a pet can make a family feel whole." -- Nick Trout]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/59103-we-are-all-worthy-of-one-another</guid>
+		<pubDate>Wed, 13 Apr 2011 14:56:49 -0700</pubDate>
+		<title>
+			<![CDATA[Jeff add a quote by Edward P. Jones]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/59103-we-are-all-worthy-of-one-another]]>
+		</link>
+		<description>
+	    <![CDATA["We are all worthy of one another." -- Edward P. Jones]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

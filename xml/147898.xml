@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/147898-ririn-miu]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/147898-ririn-miu" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 19 Oct 2010 02:09:19 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/10320-we-don-t-make-mistakes-just-happy-little-accidents</guid>
+		<pubDate>Tue, 19 Oct 2010 02:09:19 -0700</pubDate>
+		<title>
+			<![CDATA[Ririn add a quote by Bob Ross]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10320-we-don-t-make-mistakes-just-happy-little-accidents]]>
+		</link>
+		<description>
+	    <![CDATA["We don't make mistakes, just happy little accidents." -- Bob Ross]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/35963-one-person-s-craziness-is-another-person-s-reality</guid>
+		<pubDate>Mon, 26 Dec 2011 23:30:30 -0800</pubDate>
+		<title>
+			<![CDATA[Ririn add a quote by Tim Burton]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/35963-one-person-s-craziness-is-another-person-s-reality]]>
+		</link>
+		<description>
+	    <![CDATA["One person's craziness is another person's reality." -- Tim Burton]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/240466-you-here-to-finish-me-off-sweetheart</guid>
+		<pubDate>Mon, 26 Mar 2012 07:59:28 -0700</pubDate>
+		<title>
+			<![CDATA[Ririn add a quote by Suzanne Collins]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/240466-you-here-to-finish-me-off-sweetheart]]>
+		</link>
+		<description>
+	    <![CDATA["You here to finish me off, Sweetheart?" -- Suzanne Collins]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/9590-we-read-to-know-we-re-not-alone</guid>
+		<pubDate>Tue, 07 Jan 2014 17:52:38 -0800</pubDate>
+		<title>
+			<![CDATA[Ririn add a quote by William Nicholson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9590-we-read-to-know-we-re-not-alone]]>
+		</link>
+		<description>
+	    <![CDATA["We read to know we're not alone." -- William Nicholson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

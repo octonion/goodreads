@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/703669-rachel]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/703669-rachel" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 04 Jan 2008 20:36:36 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/865-be-who-you-are-and-say-what-you-feel-because</guid>
+		<pubDate>Fri, 04 Jan 2008 20:36:36 -0800</pubDate>
+		<title>
+			<![CDATA[Rachel add a quote by Bernard M. Baruch]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/865-be-who-you-are-and-say-what-you-feel-because]]>
+		</link>
+		<description>
+	    <![CDATA["Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind." -- Bernard M. Baruch]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/10213-on-no-days-of-our-childhood-did-we-live-so</guid>
+		<pubDate>Fri, 04 Jan 2008 20:40:11 -0800</pubDate>
+		<title>
+			<![CDATA[Rachel add a quote by Marcel Proust]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10213-on-no-days-of-our-childhood-did-we-live-so]]>
+		</link>
+		<description>
+	    <![CDATA["On no days of our childhood did we
+live so fully perhaps as those we
+thought we had left behind without
+living them, those that we spent with
+a favourite book." -- Marcel Proust]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

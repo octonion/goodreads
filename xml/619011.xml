@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/619011-drew]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/619011-drew" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 10 Feb 2008 12:19:35 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/23640-never-lend-books-for-no-one-ever-returns-them-the</guid>
+		<pubDate>Sun, 10 Feb 2008 12:19:35 -0800</pubDate>
+		<title>
+			<![CDATA[Drew add a quote by Anatole France]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/23640-never-lend-books-for-no-one-ever-returns-them-the]]>
+		</link>
+		<description>
+	    <![CDATA["Never lend books, for no one ever returns them; the only books I have in my library are books that other folks have lent me." -- Anatole France]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/24965-there-s-nothing-to-writing-all-you-do-is-sit-down</guid>
+		<pubDate>Thu, 14 Feb 2008 12:03:42 -0800</pubDate>
+		<title>
+			<![CDATA[Drew add a quote by Red Smith]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/24965-there-s-nothing-to-writing-all-you-do-is-sit-down]]>
+		</link>
+		<description>
+	    <![CDATA["There's nothing to writing.  All you do is sit down at a typewriter and open a vein." -- Red Smith]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

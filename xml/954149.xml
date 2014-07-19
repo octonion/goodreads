@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/954149-e-g-parsons]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/954149-e-g-parsons" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 09 Jun 2013 15:35:47 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/20171-there-are-three-rules-for-writing-a-novel-unfortunately-no</guid>
+		<pubDate>Sun, 09 Jun 2013 15:35:47 -0700</pubDate>
+		<title>
+			<![CDATA[E.G. add a quote by W. Somerset Maugham]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20171-there-are-three-rules-for-writing-a-novel-unfortunately-no]]>
+		</link>
+		<description>
+	    <![CDATA["There are three rules for writing a novel. Unfortunately, no one knows what they are." -- W. Somerset Maugham]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5920-hope-is-the-thing-with-feathers-that-perches-in-the</guid>
+		<pubDate>Fri, 23 Aug 2013 03:56:37 -0700</pubDate>
+		<title>
+			<![CDATA[E.G. add a quote by Emily Dickinson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5920-hope-is-the-thing-with-feathers-that-perches-in-the]]>
+		</link>
+		<description>
+	    <![CDATA["Hope is the thing with feathers 
+That perches in the soul 
+And sings the tune without the words 
+And never stops at all." -- Emily Dickinson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

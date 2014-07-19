@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/367837-emily]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/367837-emily" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 30 Dec 2013 19:44:11 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/99574-we-must-take-sides-neutrality-helps-the-oppressor-never-the</guid>
+		<pubDate>Mon, 30 Dec 2013 19:44:11 -0800</pubDate>
+		<title>
+			<![CDATA[Emily add a quote by Elie Wiesel]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/99574-we-must-take-sides-neutrality-helps-the-oppressor-never-the]]>
+		</link>
+		<description>
+	    <![CDATA["We must take sides. Neutrality helps the oppressor, never the victim. Silence encourages the tormentor, never the tormented. Sometimes we must interfere. When human lives are endangered, when human dignity is in jeopardy, national borders and sensitivities become irrelevant. Wherever men and women are persecuted because of their race, religion, or political views, that place must - at that moment - become the center of the universe." -- Elie Wiesel]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

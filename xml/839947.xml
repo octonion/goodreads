@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/839947-beverly-davis]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/839947-beverly-davis" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 18 May 2008 06:29:51 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/356-i-learned-this-at-least-by-my-experiment-that-if</guid>
+		<pubDate>Sun, 18 May 2008 06:29:51 -0700</pubDate>
+		<title>
+			<![CDATA[Beverly add a quote by Henry David Thoreau]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/356-i-learned-this-at-least-by-my-experiment-that-if]]>
+		</link>
+		<description>
+	    <![CDATA["I learned this, at least, by my experiment: that if one advances confidently in the direction of his dreams, and endeavors to live the life which he has imagined, he will meet with a success unexpected in common hours." -- Henry David Thoreau]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/27777-love-of-music-of-sunsets-and-sea-a-liking-for</guid>
+		<pubDate>Sun, 18 May 2008 06:40:57 -0700</pubDate>
+		<title>
+			<![CDATA[Beverly add a quote by Madeleine L'Engle]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/27777-love-of-music-of-sunsets-and-sea-a-liking-for]]>
+		</link>
+		<description>
+	    <![CDATA["Love of music, of sunsets and sea; a liking for the same kind of people; political opinions that are not radically divergent; a similar stance as we look at the stars and think of the marvelous strangeness of the universe - these are what build a marriage. And it is never to be taken for granted." -- Madeleine L'Engle]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/982713-susan-mangigian]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/982713-susan-mangigian" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 20 Jul 2011 04:28:24 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/167849-louisiana-is-a-fresh-air-mental-asylum</guid>
+		<pubDate>Wed, 20 Jul 2011 04:28:24 -0700</pubDate>
+		<title>
+			<![CDATA[Susan add a quote by James Lee Burke]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/167849-louisiana-is-a-fresh-air-mental-asylum]]>
+		</link>
+		<description>
+	    <![CDATA["Louisiana is a fresh-air mental asylum." -- James Lee Burke]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/64212-the-happiness-of-your-life-depends-upon-the-quality-of</guid>
+		<pubDate>Wed, 18 Sep 2013 10:05:11 -0700</pubDate>
+		<title>
+			<![CDATA[Susan add a quote by Marcus Aurelius]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/64212-the-happiness-of-your-life-depends-upon-the-quality-of]]>
+		</link>
+		<description>
+	    <![CDATA["The happiness of your life depends upon the quality of your thoughts." -- Marcus Aurelius]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/186784-the-best-revenge-is-to-be-unlike-him-who-performed</guid>
+		<pubDate>Wed, 18 Sep 2013 10:05:55 -0700</pubDate>
+		<title>
+			<![CDATA[Susan add a quote by Marcus Aurelius]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/186784-the-best-revenge-is-to-be-unlike-him-who-performed]]>
+		</link>
+		<description>
+	    <![CDATA["The best revenge is to be unlike him who performed the injury." -- Marcus Aurelius]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

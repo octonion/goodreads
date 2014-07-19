@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/38460-tara]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/38460-tara" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 02 Dec 2013 11:46:17 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/485604-this-is-fish-number-six-hundred-and-forty-one-in-a</guid>
+		<pubDate>Mon, 02 Dec 2013 11:46:17 -0800</pubDate>
+		<title>
+			<![CDATA[Tara add a quote by Chuck Palahniuk]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/485604-this-is-fish-number-six-hundred-and-forty-one-in-a]]>
+		</link>
+		<description>
+	    <![CDATA["This is fish number six hundred and forty-one in a lifetime of goldfish. My parents bought me the first one to teach me about loving and caring for another living breathing creature of God. Six hundred and forty fish later, the only thing I know is everything you love will die. The first time you meet that someone special, you can count on them one day being dead and in the ground." -- Chuck Palahniuk]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

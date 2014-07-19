@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/342120-cau]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/342120-cau" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 12 Dec 2007 01:27:50 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4914-finally-you-had-to-measure-yourself-by-other-people--</guid>
+		<pubDate>Wed, 12 Dec 2007 01:27:50 -0800</pubDate>
+		<title>
+			<![CDATA[Cau add a quote by Ian McEwan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4914-finally-you-had-to-measure-yourself-by-other-people--]]>
+		</link>
+		<description>
+	    <![CDATA["Finally, you had to measure yourself by other people - there really was nothing else. every now and then, quite unintentionally, someone taught you something about yourself." -- Ian McEwan]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/116825-i-hope-that-one-day-you-will-have-the-experience</guid>
+		<pubDate>Thu, 06 Oct 2011 07:35:42 -0700</pubDate>
+		<title>
+			<![CDATA[Cau add a quote by Jonathan Safran Foer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/116825-i-hope-that-one-day-you-will-have-the-experience]]>
+		</link>
+		<description>
+	    <![CDATA["I hope that one day you will have the experience of doing something you do not understand for someone you love." -- Jonathan Safran Foer]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

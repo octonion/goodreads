@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/697655-jason]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/697655-jason" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 31 Mar 2008 12:47:10 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/40112-i-must-judge-for-myself-but-how-can-i-judge</guid>
+		<pubDate>Mon, 31 Mar 2008 12:47:10 -0700</pubDate>
+		<title>
+			<![CDATA[Jason add a quote by John Adams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/40112-i-must-judge-for-myself-but-how-can-i-judge]]>
+		</link>
+		<description>
+	    <![CDATA["I must judge for myself, but how can I judge, how can any man judge, unless his mind has been opened and enlarged by reading." -- John Adams]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/919-the-man-who-does-not-read-has-no-advantage-over</guid>
+		<pubDate>Fri, 04 Apr 2008 18:49:46 -0700</pubDate>
+		<title>
+			<![CDATA[Jason add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/919-the-man-who-does-not-read-has-no-advantage-over]]>
+		</link>
+		<description>
+	    <![CDATA["The man who does not read has no advantage over the man who cannot read." -- Mark Twain]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2675-if-that-energy-could-have-been-channelled-into-anything-more</guid>
+		<pubDate>Sat, 31 May 2008 15:06:49 -0700</pubDate>
+		<title>
+			<![CDATA[Jason add a quote by Michael Herr]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2675-if-that-energy-could-have-been-channelled-into-anything-more]]>
+		</link>
+		<description>
+	    <![CDATA["...if that energy could have been channelled into anything more than noise, waste and pain it would have lighted up Indochina for a thousand years." -- Michael Herr]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/733293-mahan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/733293-mahan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 31 Jan 2014 14:05:59 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/115212</guid>
+		<pubDate>Fri, 31 Jan 2014 14:05:59 -0800</pubDate>
+		<title>
+			<![CDATA[Mahan add a quote by احمد شاملو / Ahmad Shamloo]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/115212]]>
+		</link>
+		<description>
+	    <![CDATA["چراغی در دست
+چراغی در دلم.
+زنگار روحم را صیقل می زنم
+اینه ئی برابر اینه ات می گذارم
+تا از تو
+ابدیتی بسازم." -- احمد شاملو / Ahmad Shamloo]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

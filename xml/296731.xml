@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/296731-jennifer-breslin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/296731-jennifer-breslin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 19 Jun 2013 21:25:32 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/435069-i-know-now-that-we-never-get-over-great-losses</guid>
+		<pubDate>Wed, 19 Jun 2013 21:25:32 -0700</pubDate>
+		<title>
+			<![CDATA[Jennifer add a quote by Gail Caldwell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/435069-i-know-now-that-we-never-get-over-great-losses]]>
+		</link>
+		<description>
+	    <![CDATA["I know now that we never get over great losses; we absorb them, and they carve us into different, often kinder, creatures. ...We tell the story to get them back, to capture the traces of footfalls through the snow." -- Gail Caldwell]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/571534-if-we-don-t-allow-ourselves-to-experience-joy-and-love</guid>
+		<pubDate>Fri, 16 Aug 2013 20:10:20 -0700</pubDate>
+		<title>
+			<![CDATA[Jennifer add a quote by Brené Brown]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/571534-if-we-don-t-allow-ourselves-to-experience-joy-and-love]]>
+		</link>
+		<description>
+	    <![CDATA["If we don’t allow ourselves to experience joy and love, we will definitely miss out on filling our reservoir with what we need when. . . . hard things happen." -- Brené Brown]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

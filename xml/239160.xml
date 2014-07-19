@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/239160-cyndie-kalina]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/239160-cyndie-kalina" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 09 Apr 2012 09:33:02 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/45592-live-so-that-when-your-children-think-of-fairness-caring</guid>
+		<pubDate>Mon, 09 Apr 2012 09:33:02 -0700</pubDate>
+		<title>
+			<![CDATA[Cyndie add a quote by H. Jackson Brown, Jr.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/45592-live-so-that-when-your-children-think-of-fairness-caring]]>
+		</link>
+		<description>
+	    <![CDATA["Live so that when your children think of 
+fairness, caring and integrity, 
+they think of you." -- H. Jackson Brown, Jr.]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/38657-courage-doesn-t-always-roar-sometimes-courage-is-the-little-voice</guid>
+		<pubDate>Mon, 09 Apr 2012 09:33:02 -0700</pubDate>
+		<title>
+			<![CDATA[Cyndie add a quote by Mary Anne Radmacher]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/38657-courage-doesn-t-always-roar-sometimes-courage-is-the-little-voice]]>
+		</link>
+		<description>
+	    <![CDATA["Courage doesn't always roar.  Sometimes courage is the little voice at the end of the day that says I'll try again tomorrow." -- Mary Anne Radmacher]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1244-friendship-is-unnecessary-like-philosophy-like-art-it-has-no</guid>
+		<pubDate>Mon, 09 Apr 2012 09:33:02 -0700</pubDate>
+		<title>
+			<![CDATA[Cyndie add a quote by C.S. Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1244-friendship-is-unnecessary-like-philosophy-like-art-it-has-no]]>
+		</link>
+		<description>
+	    <![CDATA["Friendship is unnecessary, like philosophy, like art.... It has no survival value; rather it is one of those things which give value to survival." -- C.S. Lewis]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

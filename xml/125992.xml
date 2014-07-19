@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/125992-jason]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/125992-jason" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 02 May 2008 13:03:52 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/50680-i-am-looking-for-the-people-who-have-always-been</guid>
+		<pubDate>Fri, 02 May 2008 13:03:52 -0700</pubDate>
+		<title>
+			<![CDATA[Jason add a quote by Norman Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/50680-i-am-looking-for-the-people-who-have-always-been]]>
+		</link>
+		<description>
+	    <![CDATA["I am looking for the people who have always been there, and belong to the places they live. The others I do not wish to see." -- Norman Lewis]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/52265-they-wrote-to-me-and-said-something-about-it-and</guid>
+		<pubDate>Wed, 07 May 2008 22:29:10 -0700</pubDate>
+		<title>
+			<![CDATA[Jason add a quote by Robert Bly]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/52265-they-wrote-to-me-and-said-something-about-it-and]]>
+		</link>
+		<description>
+	    <![CDATA["They wrote to me and said something about it, and I said that if it doesn't involve any work, I'll do it. 
+(On being named Minnesota's first Poet Laureate)" -- Robert Bly]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

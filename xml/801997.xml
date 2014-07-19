@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/801997-johann]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/801997-johann" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 26 Feb 2008 04:32:54 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5360-the-work-of-an-intellectual-is-not-to-mould-the</guid>
+		<pubDate>Tue, 26 Feb 2008 04:32:54 -0800</pubDate>
+		<title>
+			<![CDATA[Johann add a quote by Michel Foucault]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5360-the-work-of-an-intellectual-is-not-to-mould-the]]>
+		</link>
+		<description>
+	    <![CDATA["The work of an intellectual is not to mould the political will of others; it is, through the analyses that he does in his own field, to re-examine evidence and assumptions, to shake up habitual ways of working and thinking, to dissipate conventional familiarities, to re-evaluate rules and institutions and to participate in the formation of a political will (where he has his role as citizen to play)." -- Michel Foucault]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/23649-if-you-are-not-like-everybody-else-then-you-are</guid>
+		<pubDate>Tue, 26 Feb 2008 04:33:19 -0800</pubDate>
+		<title>
+			<![CDATA[Johann add a quote by Michel Foucault]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/23649-if-you-are-not-like-everybody-else-then-you-are]]>
+		</link>
+		<description>
+	    <![CDATA["...if you are not like everybody else, then you are abnormal, if you are abnormal , then you are sick. These three categories, not being like everybody else, not being normal and being sick are in fact very different but have been reduced to the same thing" -- Michel Foucault]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

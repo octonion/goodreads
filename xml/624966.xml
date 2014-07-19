@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/624966-scott-march]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/624966-scott-march" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 21 Dec 2007 08:53:57 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4853-in-spite-of-everything-i-loved-you-and-will-go</guid>
+		<pubDate>Fri, 21 Dec 2007 08:53:57 -0800</pubDate>
+		<title>
+			<![CDATA[Scott add a quote by Vladimir Nabokov]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4853-in-spite-of-everything-i-loved-you-and-will-go]]>
+		</link>
+		<description>
+	    <![CDATA["In spite of everything I loved you, and will go on loving you―on my knees, with my shoulders drawn back, showing my heels to the headsman and straining my goose neck―even then.  And afterwards―perhaps most of all afterwards―I shall love you, and one day we shall have a real, all-embracing explanation, and then perhaps we shall somehow fit together, you and I, and turn ourselves in such a way that we form one pattern, and solve the puzzle: draw a line from point A to point B... without looking, or, without lifting the pencil... or in some other way... we shall connect the points, draw the line, and you and I shall form that unique design for which I yearn.  If they do this kind of thing to me every morning, they will get me trained and I shall become quite wooden." -- Vladimir Nabokov]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

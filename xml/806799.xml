@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/806799-kandiehart5]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/806799-kandiehart5" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 20 Jan 2008 16:59:53 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/15274-the-bond-that-links-your-true-family-is-not-one</guid>
+		<pubDate>Sun, 20 Jan 2008 16:59:53 -0800</pubDate>
+		<title>
+			<![CDATA[Kandiehart5 add a quote by Richard Bach]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/15274-the-bond-that-links-your-true-family-is-not-one]]>
+		</link>
+		<description>
+	    <![CDATA["The bond that links your true family is not one of blood, but of respect and joy in each other's life. Rarely do members of one family grow up under the same roof." -- Richard Bach]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/15275-a-family-is-a-place-where-minds-come-in-contact</guid>
+		<pubDate>Sun, 20 Jan 2008 17:01:24 -0800</pubDate>
+		<title>
+			<![CDATA[Kandiehart5 add a quote by Buddha]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/15275-a-family-is-a-place-where-minds-come-in-contact]]>
+		</link>
+		<description>
+	    <![CDATA["A family is a place where minds come in contact with one another. If these minds love one another the home will be as beautiful as a flower garden. But if these minds get out of harmony with one another it is like a storm that plays havoc with the garden." -- Buddha]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

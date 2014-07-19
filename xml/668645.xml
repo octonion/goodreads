@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/668645-stephanie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/668645-stephanie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 08 Dec 2007 14:35:59 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/991-until-i-feared-i-would-lose-it-i-never-loved</guid>
+		<pubDate>Sat, 08 Dec 2007 14:35:59 -0800</pubDate>
+		<title>
+			<![CDATA[Stephanie add a quote by Harper Lee]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/991-until-i-feared-i-would-lose-it-i-never-loved]]>
+		</link>
+		<description>
+	    <![CDATA["Until I feared I would lose it, I never loved to read. One does not love breathing." -- Harper Lee]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3765-get-busy-living-or-get-busy-dying</guid>
+		<pubDate>Sat, 08 Dec 2007 14:38:00 -0800</pubDate>
+		<title>
+			<![CDATA[Stephanie add a quote by Stephen King]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3765-get-busy-living-or-get-busy-dying]]>
+		</link>
+		<description>
+	    <![CDATA["Get busy living or get busy dying." -- Stephen King]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/12357-i-wish-it-need-not-have-happened-in-my-time</guid>
+		<pubDate>Sat, 08 Dec 2007 14:40:34 -0800</pubDate>
+		<title>
+			<![CDATA[Stephanie add a quote by J.R.R. Tolkien]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12357-i-wish-it-need-not-have-happened-in-my-time]]>
+		</link>
+		<description>
+	    <![CDATA["I wish it need not have happened in my time,&quot; said Frodo.
+&quot;So do I,&quot; said Gandalf, &quot;and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us." -- J.R.R. Tolkien]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

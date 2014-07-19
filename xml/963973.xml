@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/963973-xelloss100]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/963973-xelloss100" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 03 Mar 2008 20:35:58 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/30761-qu-es-la-vida-un-frenes-qu-es-la-vida</guid>
+		<pubDate>Mon, 03 Mar 2008 20:35:58 -0800</pubDate>
+		<title>
+			<![CDATA[Xelloss100 add a quote by Pedro Calderon de la Barca]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/30761-qu-es-la-vida-un-frenes-qu-es-la-vida]]>
+		</link>
+		<description>
+	    <![CDATA["Qué es la vida? Un frenesí.
+¿Qué es la vida? Una ilusión,
+una sombra, una ficción,
+y el mayor bien es pequeño:
+que toda la vida es sueño,
+y los sueños, sueños son" -- Pedro Calderon de la Barca]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/298483-if-you-wait-by-the-river-long-enough-the-bodies</guid>
+		<pubDate>Sun, 15 Jan 2012 08:11:11 -0800</pubDate>
+		<title>
+			<![CDATA[Xelloss100 add a quote by Sun Tzu]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/298483-if-you-wait-by-the-river-long-enough-the-bodies]]>
+		</link>
+		<description>
+	    <![CDATA["If you wait by the river long enough, the bodies of your enemies will float by." -- Sun Tzu]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

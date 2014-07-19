@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/198932-brian]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/198932-brian" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 23 Jan 2013 08:44:06 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/713215-the-worst-part-was-that-as-the-years-passed-these</guid>
+		<pubDate>Wed, 23 Jan 2013 08:44:06 -0800</pubDate>
+		<title>
+			<![CDATA[Brian add a quote by Jeffrey Eugenides]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/713215-the-worst-part-was-that-as-the-years-passed-these]]>
+		</link>
+		<description>
+	    <![CDATA["The worst part was that, as the years passed, these memories became, in the way you kept them in a secret box in your head, taking them out every so often to turn them over and over, something like dear possessions. They were the key to your unhappiness. They were the evidence that life wasn’t fair. If you weren’t a lucky child, you didn’t know you weren’t lucky until you got older. And then it was all you ever thought about." -- Jeffrey Eugenides]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/978268-to-understand-the-world-at-all-sometimes-you-could-only</guid>
+		<pubDate>Fri, 21 Mar 2014 08:45:18 -0700</pubDate>
+		<title>
+			<![CDATA[Brian add a quote by Donna Tartt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/978268-to-understand-the-world-at-all-sometimes-you-could-only]]>
+		</link>
+		<description>
+	    <![CDATA["To understand the world at all, sometimes you could only focus on a tiny bit of it, look very hard at what was close to hand and make it stand in for the whole;" -- Donna Tartt]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

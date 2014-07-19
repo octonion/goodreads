@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/684947-n-s]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/684947-n-s" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 14 Apr 2013 06:47:25 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/780943-that-s-what-happens-in-plays-yes-the-shit-hits-the</guid>
+		<pubDate>Sun, 14 Apr 2013 06:47:25 -0700</pubDate>
+		<title>
+			<![CDATA[N.S. add a quote by Edward Albee]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/780943-that-s-what-happens-in-plays-yes-the-shit-hits-the]]>
+		</link>
+		<description>
+	    <![CDATA["That's what happens in plays, yes? The shit hits the fan.&quot;
+--Edward Albee" -- Edward Albee]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/780950-all-those-people-who-rejected-me-gave-me-a-head-start</guid>
+		<pubDate>Sun, 14 Apr 2013 06:43:30 -0700</pubDate>
+		<title>
+			<![CDATA[N.S. add a quote by Ariel Gore]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/780950-all-those-people-who-rejected-me-gave-me-a-head-start]]>
+		</link>
+		<description>
+	    <![CDATA["All those people who rejected me gave me a head-start on freedom, because the fear and obedience we are all taught, well, those things weren't getting me any love." -- Ariel Gore]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

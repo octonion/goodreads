@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/650355-monica]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/650355-monica" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 30 Nov 2007 09:03:08 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2395-friends-don-t-count-the-cost-of-favors</guid>
+		<pubDate>Fri, 30 Nov 2007 09:03:08 -0800</pubDate>
+		<title>
+			<![CDATA[Monica add a quote by Laurell K. Hamilton]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2395-friends-don-t-count-the-cost-of-favors]]>
+		</link>
+		<description>
+	    <![CDATA["Friends don't count the cost of favors." -- Laurell K. Hamilton]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/11035-no-one-can-make-you-feel-inferior-without-your-consent</guid>
+		<pubDate>Sun, 17 Feb 2008 16:39:56 -0800</pubDate>
+		<title>
+			<![CDATA[Monica add a quote by Eleanor Roosevelt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11035-no-one-can-make-you-feel-inferior-without-your-consent]]>
+		</link>
+		<description>
+	    <![CDATA["No one can make you feel inferior without your consent." -- Eleanor Roosevelt]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/365-you-have-to-write-the-book-that-wants-to-be</guid>
+		<pubDate>Sun, 02 Dec 2007 19:46:14 -0800</pubDate>
+		<title>
+			<![CDATA[Monica add a quote by Madeleine L'Engle]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/365-you-have-to-write-the-book-that-wants-to-be]]>
+		</link>
+		<description>
+	    <![CDATA["You have to write the book that wants to be written. And if the book will be too difficult for grown-ups, then you write it for children." -- Madeleine L'Engle]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6057-a-flower-may-be-beautiful-all-on-its-own-but</guid>
+		<pubDate>Sat, 29 Mar 2008 18:41:21 -0700</pubDate>
+		<title>
+			<![CDATA[Monica add a quote by Laurell K. Hamilton]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6057-a-flower-may-be-beautiful-all-on-its-own-but]]>
+		</link>
+		<description>
+	    <![CDATA["A flower may be beautiful all on its own, but a person is never truly beautiful unless someone's eyes show him that he is beautiful." -- Laurell K. Hamilton]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

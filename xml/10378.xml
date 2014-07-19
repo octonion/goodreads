@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/10378-mike]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/10378-mike" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 06 Feb 2008 09:08:37 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/22061-my-favorite-comedy-is-comedy-where-nothing-is-achieved-and</guid>
+		<pubDate>Wed, 06 Feb 2008 09:08:37 -0800</pubDate>
+		<title>
+			<![CDATA[Mike                                               add a quote by Conan O'Brien]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22061-my-favorite-comedy-is-comedy-where-nothing-is-achieved-and]]>
+		</link>
+		<description>
+	    <![CDATA["My favorite comedy is comedy where nothing is achieved and there is no point." -- Conan O'Brien]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/17840-cry-havoc-and-let-slip-the-dogs-of-war</guid>
+		<pubDate>Tue, 15 Mar 2011 08:46:52 -0700</pubDate>
+		<title>
+			<![CDATA[Mike                                               add a quote by William Shakespeare]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17840-cry-havoc-and-let-slip-the-dogs-of-war]]>
+		</link>
+		<description>
+	    <![CDATA["Cry havoc and let slip the dogs of war!" -- William Shakespeare]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/102339-there-was-no-possibility-of-taking-a-walk-that-day</guid>
+		<pubDate>Tue, 15 Mar 2011 08:49:16 -0700</pubDate>
+		<title>
+			<![CDATA[Mike                                               add a quote by Charlotte Brontë]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/102339-there-was-no-possibility-of-taking-a-walk-that-day]]>
+		</link>
+		<description>
+	    <![CDATA["There was no possibility of taking a walk that day." -- Charlotte Brontë]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

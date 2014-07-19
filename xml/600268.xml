@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/600268-kathryn]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/600268-kathryn" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 31 Jan 2014 10:03:55 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/50268-there-are-not-many-persons-who-know-what-wonders-are</guid>
+		<pubDate>Fri, 31 Jan 2014 10:03:55 -0800</pubDate>
+		<title>
+			<![CDATA[Kathryn add a quote by Howard Phillips Lovecraft]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/50268-there-are-not-many-persons-who-know-what-wonders-are]]>
+		</link>
+		<description>
+	    <![CDATA["There are not many persons who know what wonders are opened to them in the stories and visions of their youth; for when as children we learn and dream, we think but half-formed thoughts, and when as men we try to remember, we are dulled and prosaic with the poison of life. But some of us awake in the night with strange phantasms of enchanted hills and gardens, of fountains that sing in the sun, of golden cliffs overhanging murmuring seas, of plains that stretch down to sleeping cities of bronze and stone, and of shadowy companies of heroes that ride caparisoned white horses along the edges of thick forests; and then we know that we have looked back through the ivory gates into that world of wonder which was ours before we were wise and unhappy." -- Howard Phillips Lovecraft]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

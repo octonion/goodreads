@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/168715-mary]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/168715-mary" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 17 Dec 2010 16:35:09 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/99324-it-s-hardly-possible-to-overstate-the-value-in-the-present</guid>
+		<pubDate>Fri, 17 Dec 2010 16:35:09 -0800</pubDate>
+		<title>
+			<![CDATA[Mary add a quote by John Stuart Mill]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/99324-it-s-hardly-possible-to-overstate-the-value-in-the-present]]>
+		</link>
+		<description>
+	    <![CDATA["It's hardly possible to overstate the value, in the present state of human improvement, of placing human beings in contact with other persons dissimilar to themselves, and with modes of thought and action unlike those with which they are familiar.  Such communication has always been... one of the primary sources of progress.  " -- John Stuart Mill]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/591835-brianne]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/591835-brianne" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 03 Apr 2012 18:11:28 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/519927-do-not-despise-your-own-place-and-hour-every-place</guid>
+		<pubDate>Tue, 03 Apr 2012 18:11:28 -0700</pubDate>
+		<title>
+			<![CDATA[Brianne add a quote by John Burroughs]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/519927-do-not-despise-your-own-place-and-hour-every-place]]>
+		</link>
+		<description>
+	    <![CDATA["Do not despise your own place and hour. Every place is under the stars, every place is the center of the world." -- John Burroughs]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/60147-do-your-little-bit-of-good-where-you-are-it-s</guid>
+		<pubDate>Thu, 11 Oct 2012 18:00:23 -0700</pubDate>
+		<title>
+			<![CDATA[Brianne add a quote by Desmond Tutu]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/60147-do-your-little-bit-of-good-where-you-are-it-s]]>
+		</link>
+		<description>
+	    <![CDATA["Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world." -- Desmond Tutu]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

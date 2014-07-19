@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/979103-john-maberry]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/979103-john-maberry" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 10 Mar 2008 14:17:10 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/33413-a-great-human-revolution-in-just-a-single-individual-will</guid>
+		<pubDate>Mon, 10 Mar 2008 14:17:10 -0700</pubDate>
+		<title>
+			<![CDATA[John add a quote by Daisaku Ikeda]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/33413-a-great-human-revolution-in-just-a-single-individual-will]]>
+		</link>
+		<description>
+	    <![CDATA["A great human revolution in just a single individual will help achieve a change in the destiny of a nation and, further, can even enable a change in the destiny of all humankind." -- Daisaku Ikeda]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/33416-then-you-should-say-what-you-mean-the-march-hare</guid>
+		<pubDate>Mon, 10 Mar 2008 14:29:49 -0700</pubDate>
+		<title>
+			<![CDATA[John add a quote by Lewis Carroll]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/33416-then-you-should-say-what-you-mean-the-march-hare]]>
+		</link>
+		<description>
+	    <![CDATA["Then you should say what you mean,&quot; the March Hare went on. 
+
+&quot;I do,&quot; Alice hastily replied; &quot;at least--at least I mean what I say--that's the same thing, you know.&quot; 
+
+&quot;Not the same thing a bit!&quot; said the Hatter. &quot;You might just as well say that &quot;I see what I eat&quot; is the same thing as &quot;I eat what I see&quot;!" -- Lewis Carroll]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

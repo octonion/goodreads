@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/747775-sara]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/747775-sara" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 26 Jul 2013 23:36:11 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/298372-there-are-shadows-because-there-are-hills</guid>
+		<pubDate>Fri, 26 Jul 2013 23:36:11 -0700</pubDate>
+		<title>
+			<![CDATA[Sara add a quote by E.M. Forster]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/298372-there-are-shadows-because-there-are-hills]]>
+		</link>
+		<description>
+	    <![CDATA["... there are shadows because there are hills." -- E.M. Forster]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/869526-i-knew-it-then-for-me-and-her-there-wasn-t</guid>
+		<pubDate>Fri, 03 Jan 2014 18:14:45 -0800</pubDate>
+		<title>
+			<![CDATA[Sara add a quote by Sarah Dessen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/869526-i-knew-it-then-for-me-and-her-there-wasn-t]]>
+		</link>
+		<description>
+	    <![CDATA["I knew it then. For me and her, there wasn’t any time left to think back to that summer and the beach and a boy who charmed us and disappointed us. There was only what stretched out ahead, years full of new summers and promise, with all the time in the world left to start again. My sister, who never understood most of the things I wanted her to, might have been able to understand what had happened to me in this summer of weddings and beginnings. And she was right. The first boy was always the hardest." -- Sarah Dessen]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

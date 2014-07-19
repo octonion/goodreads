@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/930912-shayne-moyles]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/930912-shayne-moyles" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 18 Apr 2008 18:26:04 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/39961-paraphrasing-science-is-the-language-of-the-intellect-of-society-art</guid>
+		<pubDate>Fri, 18 Apr 2008 18:26:04 -0700</pubDate>
+		<title>
+			<![CDATA[Shayne add a quote by Naguib Mahfouz]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/39961-paraphrasing-science-is-the-language-of-the-intellect-of-society-art]]>
+		</link>
+		<description>
+	    <![CDATA["paraphrasing..&quot;Science is the language of the intellect of society. Art is language of the entire human personality." -- Naguib Mahfouz]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/12124-the-past-is-never-dead-it-s-not-even-past</guid>
+		<pubDate>Sat, 20 Dec 2008 13:21:59 -0800</pubDate>
+		<title>
+			<![CDATA[Shayne add a quote by William Faulkner]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12124-the-past-is-never-dead-it-s-not-even-past]]>
+		</link>
+		<description>
+	    <![CDATA["The past is never dead.  It's not even past." -- William Faulkner]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

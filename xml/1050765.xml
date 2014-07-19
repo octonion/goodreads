@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1050765-laura]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1050765-laura" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 18 Feb 2011 19:24:55 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/222818-rochester-i-am-no-better-than-the-old-lightning-struck-chestnut-tree</guid>
+		<pubDate>Fri, 18 Feb 2011 19:24:55 -0800</pubDate>
+		<title>
+			<![CDATA[Laura add a quote by Charlotte Brontë]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/222818-rochester-i-am-no-better-than-the-old-lightning-struck-chestnut-tree]]>
+		</link>
+		<description>
+	    <![CDATA["Rochester: &quot;I am no better than the old lightning-struck chestnut-tree in Thornfield orchard…And what right would that ruin have to bid a budding woodbine cover its decay with freshness?&quot;
+
+Jane: &quot;You are no ruin sir - no lighting-struck tree: you are green and vigorous. Plants will grow about your roots, whether you ask them or not, because they take delight in your bountiful shadow; and as they grow they will lean towards you, and wind round you, because your strength offers them so safe a prop." -- Charlotte Brontë]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/413539-wolfgang-von-goethe-a-man-can-stand-anything-except-a-succession</guid>
+		<pubDate>Wed, 14 Aug 2013 12:46:24 -0700</pubDate>
+		<title>
+			<![CDATA[Laura add a quote by Jacqueline Winspear]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/413539-wolfgang-von-goethe-a-man-can-stand-anything-except-a-succession]]>
+		</link>
+		<description>
+	    <![CDATA["Wolfgang von Goethe:&quot;A man can stand anything, except a succession of ordinary days." -- Jacqueline Winspear]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

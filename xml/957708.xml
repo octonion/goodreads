@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/957708-frank-edwards]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/957708-frank-edwards" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 04 Feb 2012 09:01:36 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/764-a-room-without-books-is-like-a-body-without-a</guid>
+		<pubDate>Sat, 04 Feb 2012 09:01:36 -0800</pubDate>
+		<title>
+			<![CDATA[Frank add a quote by Marcus Tullius Cicero]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/764-a-room-without-books-is-like-a-body-without-a]]>
+		</link>
+		<description>
+	    <![CDATA["A room without books is like a body without a soul." -- Marcus Tullius Cicero]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/16383-don-t-tell-me-the-moon-is-shining-show-me-the</guid>
+		<pubDate>Sun, 06 May 2012 11:53:18 -0700</pubDate>
+		<title>
+			<![CDATA[Frank add a quote by Anton Chekhov]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16383-don-t-tell-me-the-moon-is-shining-show-me-the]]>
+		</link>
+		<description>
+	    <![CDATA["Don't tell me the moon is shining; show me the glint of light on broken glass." -- Anton Chekhov]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

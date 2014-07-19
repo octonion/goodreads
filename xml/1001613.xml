@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1001613-kevin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1001613-kevin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 12 Mar 2012 13:36:53 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1396-isn-t-it-enough-to-see-that-a-garden-is-beautiful</guid>
+		<pubDate>Mon, 12 Mar 2012 13:36:53 -0700</pubDate>
+		<title>
+			<![CDATA[Kevin add a quote by Douglas Adams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1396-isn-t-it-enough-to-see-that-a-garden-is-beautiful]]>
+		</link>
+		<description>
+	    <![CDATA["Isn't it enough to see that a garden is beautiful without having to believe that there are fairies at the bottom of it too?" -- Douglas Adams]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2397-there-is-a-theory-which-states-that-if-ever-anyone</guid>
+		<pubDate>Mon, 12 Mar 2012 13:36:53 -0700</pubDate>
+		<title>
+			<![CDATA[Kevin add a quote by Douglas Adams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2397-there-is-a-theory-which-states-that-if-ever-anyone]]>
+		</link>
+		<description>
+	    <![CDATA["There is a theory which states that if ever anyone discovers exactly what the Universe is for and why it is here, it will instantly disappear and be replaced by something even more bizarre and inexplicable. 
+There is another theory which states that this has already happened." -- Douglas Adams]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

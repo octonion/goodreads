@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/294801-natalie-millon]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/294801-natalie-millon" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 29 Aug 2011 10:30:18 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/19338-fools-talk-cowards-are-silent-wise-men-listen</guid>
+		<pubDate>Mon, 29 Aug 2011 10:30:18 -0700</pubDate>
+		<title>
+			<![CDATA[Natalie add a quote by Carlos Ruiz Zafon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/19338-fools-talk-cowards-are-silent-wise-men-listen]]>
+		</link>
+		<description>
+	    <![CDATA["Fools talk, cowards are silent, wise men listen." -- Carlos Ruiz Zafon]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3356-i-like-nonsense-it-wakes-up-the-brain-cells-fantasy</guid>
+		<pubDate>Fri, 18 May 2012 12:25:17 -0700</pubDate>
+		<title>
+			<![CDATA[Natalie add a quote by Dr. Seuss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3356-i-like-nonsense-it-wakes-up-the-brain-cells-fantasy]]>
+		</link>
+		<description>
+	    <![CDATA["I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living." -- Dr. Seuss]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

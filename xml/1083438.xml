@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1083438-lisa]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1083438-lisa" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 25 Feb 2011 07:09:28 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/348543-the-main-thing-is-to-write-some-days-it-might</guid>
+		<pubDate>Fri, 25 Feb 2011 07:09:28 -0800</pubDate>
+		<title>
+			<![CDATA[Lisa add a quote by L.K. Madigan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/348543-the-main-thing-is-to-write-some-days-it-might]]>
+		</link>
+		<description>
+	    <![CDATA["The main thing is to WRITE. Some days it might be 2000 words. Some days you might tinker with two sentences until you get them just right. Both days belong in the writing life. Some days you may watch a ‘Doctor Who’ marathon or become immersed in a book that is so good you can’t stop reading. Some days you may be in love or in mourning. Those days belong in the writing life, too. Live them without guilt." -- L.K. Madigan]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/817749-i-hate-that-everyone-calls-it-growing-up-but-it</guid>
+		<pubDate>Sun, 23 Feb 2014 09:01:38 -0800</pubDate>
+		<title>
+			<![CDATA[Lisa add a quote by Holly Black]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/817749-i-hate-that-everyone-calls-it-growing-up-but-it]]>
+		</link>
+		<description>
+	    <![CDATA["I hate that everyone calls it growing up, but it seems like DYING." -- Holly Black]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

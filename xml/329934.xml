@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/329934-d-j]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/329934-d-j" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 20 May 2008 09:56:52 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/19918-just-because-you-can-read-write-and-do-a-little</guid>
+		<pubDate>Tue, 20 May 2008 09:56:52 -0700</pubDate>
+		<title>
+			<![CDATA[D.J. add a quote by Kurt Vonnegut]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/19918-just-because-you-can-read-write-and-do-a-little]]>
+		</link>
+		<description>
+	    <![CDATA["Just because you can read, write and do a little math, doesn't mean that you're entitled to conquer the universe." -- Kurt Vonnegut]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/806-it-takes-courage-to-grow-up-and-become-who-you</guid>
+		<pubDate>Fri, 01 Aug 2008 10:24:57 -0700</pubDate>
+		<title>
+			<![CDATA[D.J. add a quote by E.E. Cummings]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/806-it-takes-courage-to-grow-up-and-become-who-you]]>
+		</link>
+		<description>
+	    <![CDATA["It takes courage to grow up and become who you really are." -- E.E. Cummings]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/447752-yes-the-money-could-be-better-spent-on-earth-but</guid>
+		<pubDate>Sat, 12 May 2012 17:43:18 -0700</pubDate>
+		<title>
+			<![CDATA[D.J. add a quote by Mary Roach]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/447752-yes-the-money-could-be-better-spent-on-earth-but]]>
+		</link>
+		<description>
+	    <![CDATA["Yes, the money could be better spent on Earth. But would it? Since when has money saved by government red-lining been spent on education and cancer research? It is always squandered. Let's squander some on Mars. Let's go out and play." -- Mary Roach]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

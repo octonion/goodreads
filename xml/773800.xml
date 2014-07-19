@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/773800-magnopere]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/773800-magnopere" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 11 Jan 2008 22:27:11 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/9178-chance-favors-the-prepared-mind</guid>
+		<pubDate>Fri, 11 Jan 2008 22:27:11 -0800</pubDate>
+		<title>
+			<![CDATA[Magnopere add a quote by Louis Pasteur]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9178-chance-favors-the-prepared-mind]]>
+		</link>
+		<description>
+	    <![CDATA["Chance favors the prepared mind." -- Louis Pasteur]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/12601-the-mind-is-sharper-and-keener-in-seclusion-and-uninterrupted</guid>
+		<pubDate>Fri, 11 Jan 2008 22:31:54 -0800</pubDate>
+		<title>
+			<![CDATA[Magnopere add a quote by Tesla]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12601-the-mind-is-sharper-and-keener-in-seclusion-and-uninterrupted]]>
+		</link>
+		<description>
+	    <![CDATA["The mind is sharper and keener in seclusion and uninterrupted solitude. No big laboratory is needed in which to think. Originality thrives in seclusion free of outside influences beating upon us to cripple the creative mind. Be alone, that is the secret of invention; be alone, that is when ideas are born. That is why many of the earthly miracles have had their genesis in humble surroundings.&quot;
+" -- Tesla]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

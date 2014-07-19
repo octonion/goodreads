@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/859521-john]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/859521-john" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 21 Mar 2012 02:20:57 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/344887-what-really-does-work-to-increase-the-feeling-of-having</guid>
+		<pubDate>Wed, 21 Mar 2012 02:20:57 -0700</pubDate>
+		<title>
+			<![CDATA[John add a quote by Cheryl Mendelson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/344887-what-really-does-work-to-increase-the-feeling-of-having]]>
+		</link>
+		<description>
+	    <![CDATA["What really does work to increase the feeling of having a home and its comforts is housekeeping. Housekeeping creates cleanliness, order, regularity, beauty, the conditions for health and safety, and a good place to do and feel all the things you wish and need to do and feel in your home. Whether you live alone or with a spouse, parents, and ten children, it is your housekeeping that makes your home alive, that turns it into a small society in its own right, a vital place with its own ways and rhythms, the place where you can be more yourself than you can be anywhere else." -- Cheryl Mendelson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

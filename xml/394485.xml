@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/394485-jim-downey]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/394485-jim-downey" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 16 Mar 2008 07:23:05 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/35139-observe-perpetually</guid>
+		<pubDate>Sun, 16 Mar 2008 07:23:05 -0700</pubDate>
+		<title>
+			<![CDATA[Jim add a quote by Henry James]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/35139-observe-perpetually]]>
+		</link>
+		<description>
+	    <![CDATA["Observe perpetually!" -- Henry James]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/25311-abandon-hope-all-ye-who-enter-here-omnes-relinquite-spes</guid>
+		<pubDate>Wed, 19 Mar 2008 06:37:58 -0700</pubDate>
+		<title>
+			<![CDATA[Jim add a quote by Dante Alighieri]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/25311-abandon-hope-all-ye-who-enter-here-omnes-relinquite-spes]]>
+		</link>
+		<description>
+	    <![CDATA["Abandon hope, all ye who enter here.
+[Omnes relinquite spes, o vos intrantes]" -- Dante Alighieri]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

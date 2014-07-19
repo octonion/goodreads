@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/821039-matt]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/821039-matt" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 03 Jun 2008 07:28:50 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2501-a-foolish-consistency-is-the-hobgoblin-of-little-minds</guid>
+		<pubDate>Tue, 03 Jun 2008 07:28:50 -0700</pubDate>
+		<title>
+			<![CDATA[Matt add a quote by Ralph Waldo Emerson ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2501-a-foolish-consistency-is-the-hobgoblin-of-little-minds]]>
+		</link>
+		<description>
+	    <![CDATA["A foolish consistency is the hobgoblin of little minds." -- Ralph Waldo Emerson ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/60059-moderation-in-temper-is-always-a-virtue-but-moderation-in</guid>
+		<pubDate>Tue, 03 Jun 2008 07:30:07 -0700</pubDate>
+		<title>
+			<![CDATA[Matt add a quote by Thomas Paine]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/60059-moderation-in-temper-is-always-a-virtue-but-moderation-in]]>
+		</link>
+		<description>
+	    <![CDATA["Moderation in temper is always a virtue; but moderation in principle is always a vice." -- Thomas Paine]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6403-they-who-can-give-up-essential-liberty-to-obtain-a</guid>
+		<pubDate>Thu, 25 Sep 2008 12:59:49 -0700</pubDate>
+		<title>
+			<![CDATA[Matt add a quote by Benjamin Franklin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6403-they-who-can-give-up-essential-liberty-to-obtain-a]]>
+		</link>
+		<description>
+	    <![CDATA["They who can give up essential liberty to obtain a little temporary safety deserve neither liberty nor safety." -- Benjamin Franklin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

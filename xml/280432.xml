@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/280432-andrea]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/280432-andrea" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 25 Apr 2010 00:52:43 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/153199-eating-with-the-fullest-pleasure---pleasure-that-is-that</guid>
+		<pubDate>Sun, 25 Apr 2010 00:52:43 -0700</pubDate>
+		<title>
+			<![CDATA[Andrea add a quote by Wendell Berry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/153199-eating-with-the-fullest-pleasure---pleasure-that-is-that]]>
+		</link>
+		<description>
+	    <![CDATA["Eating with the fullest pleasure - pleasure, that is, that does not depend on ignorance - is perhaps the profoundest enactment of our connection with the world. In this pleasure we experience our dependence and our gratitude, for we are living in a mystery, from creatures we did not make and powers we cannot comprehend." -- Wendell Berry]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/97477-it-may-be-that-when-we-no-longer-know-which</guid>
+		<pubDate>Sun, 25 Apr 2010 00:56:52 -0700</pubDate>
+		<title>
+			<![CDATA[Andrea add a quote by wendell berry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/97477-it-may-be-that-when-we-no-longer-know-which]]>
+		</link>
+		<description>
+	    <![CDATA["It may be that when we no longer know which way to go that we have come to our real journey. The mind that is not baffled is not employed. The impeded stream is the one that sings." -- wendell berry]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

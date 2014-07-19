@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/909993-ej-cullen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/909993-ej-cullen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 26 Aug 2012 22:29:08 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/614180-try-walking-a-mile-in-your-enemy-s-shoes-you-ll-be</guid>
+		<pubDate>Sun, 26 Aug 2012 22:29:08 -0700</pubDate>
+		<title>
+			<![CDATA[ej add a quote by Alfred E Newman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/614180-try-walking-a-mile-in-your-enemy-s-shoes-you-ll-be]]>
+		</link>
+		<description>
+	    <![CDATA["Try walking a mile in your enemy's shoes.  You'll be a mile away and you'll have his shoes." -- Alfred E Newman]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/18856-believe-those-who-are-seeking-the-truth-doubt-those-who</guid>
+		<pubDate>Mon, 28 Jan 2013 23:35:19 -0800</pubDate>
+		<title>
+			<![CDATA[ej add a quote by Andre Gide ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18856-believe-those-who-are-seeking-the-truth-doubt-those-who]]>
+		</link>
+		<description>
+	    <![CDATA["Believe those who are seeking the truth. Doubt those who find it." -- Andre Gide ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/277-everything-must-be-made-as-simple-as-possible-but-not</guid>
+		<pubDate>Mon, 28 Jan 2013 23:42:51 -0800</pubDate>
+		<title>
+			<![CDATA[ej add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/277-everything-must-be-made-as-simple-as-possible-but-not]]>
+		</link>
+		<description>
+	    <![CDATA["Everything must be made as simple as possible. But not simpler." -- Albert Einstein]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

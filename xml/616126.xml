@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/616126-catherine]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/616126-catherine" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 22 Jan 2013 10:48:50 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/172198-the-adventure-is-over-everything-gets-over-and-nothing-is</guid>
+		<pubDate>Tue, 22 Jan 2013 10:48:50 -0800</pubDate>
+		<title>
+			<![CDATA[Catherine add a quote by E. L. Konigsburg]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/172198-the-adventure-is-over-everything-gets-over-and-nothing-is]]>
+		</link>
+		<description>
+	    <![CDATA["The adventure is over.  Everything gets over, and nothing is ever enough.  Except the part you carry with you.  It's the same as going on a vacation.  Some people spend all their time on a vacation taking pictures so that when they get home they can show their friends evidence that they had a good time.  They don't pause to let the vacation enter inside of them and take that home." -- E. L. Konigsburg]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/487239-listen-smile-agree-and-then-do-whatever-the-fuck-you</guid>
+		<pubDate>Thu, 31 Jan 2013 09:18:03 -0800</pubDate>
+		<title>
+			<![CDATA[Catherine add a quote by Robert Downey Jr.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/487239-listen-smile-agree-and-then-do-whatever-the-fuck-you]]>
+		</link>
+		<description>
+	    <![CDATA["Listen, smile, agree, and then do whatever the fuck you were gonna do anyway." -- Robert Downey Jr.]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

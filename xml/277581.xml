@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/277581-kasmin-fernandes]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/277581-kasmin-fernandes" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 22 Jun 2013 03:36:55 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/29138-be-like-water-making-its-way-through-cracks-do-not</guid>
+		<pubDate>Sat, 22 Jun 2013 03:36:55 -0700</pubDate>
+		<title>
+			<![CDATA[Kasmin add a quote by Bruce Lee]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/29138-be-like-water-making-its-way-through-cracks-do-not]]>
+		</link>
+		<description>
+	    <![CDATA["Be like water making its way through cracks. Do not be assertive, but adjust to the object, and you shall find a way around or through it. If nothing within you stays rigid, outward things will disclose themselves. 
+
+Empty your mind, be formless. Shapeless, like water. If you put water into a cup, it becomes the cup. You put water into a bottle and it becomes the bottle. You put it in a teapot, it becomes the teapot. Now, water can flow or it can crash. Be water, my friend." -- Bruce Lee]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

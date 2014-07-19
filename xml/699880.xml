@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/699880-yasmine]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/699880-yasmine" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 28 Feb 2013 14:52:44 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/64170-class-is-an-aura-of-confidence-that-is-being-sure</guid>
+		<pubDate>Thu, 28 Feb 2013 14:52:44 -0800</pubDate>
+		<title>
+			<![CDATA[Yasmine add a quote by Ann Landers]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/64170-class-is-an-aura-of-confidence-that-is-being-sure]]>
+		</link>
+		<description>
+	    <![CDATA["Class is an aura of confidence that is being sure without being cocky. Class has nothing to do with money. Class never runs scared. It is self-discipline and self-knowledge. It's the sure-footedness that comes with having proved you can meet life. " -- Ann Landers]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/278241-it-may-be-a-species-of-impudence-to-think-that</guid>
+		<pubDate>Thu, 28 Feb 2013 14:55:41 -0800</pubDate>
+		<title>
+			<![CDATA[Yasmine add a quote by Joseph Campbell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/278241-it-may-be-a-species-of-impudence-to-think-that]]>
+		</link>
+		<description>
+	    <![CDATA["It may be a species of impudence to think that the way you understand God is the way God is.  (60)." -- Joseph Campbell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

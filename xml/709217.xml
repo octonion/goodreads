@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/709217-anette]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/709217-anette" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 25 Dec 2007 12:27:29 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3666-isn-t-that-how-it-is-when-you-must-decide-with</guid>
+		<pubDate>Tue, 25 Dec 2007 12:27:29 -0800</pubDate>
+		<title>
+			<![CDATA[Anette add a quote by Amy Tan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3666-isn-t-that-how-it-is-when-you-must-decide-with]]>
+		</link>
+		<description>
+	    <![CDATA["Isn't that how it is when you must decide with your heart? You are not just choosing one thing over another. You are choosing what you want. And you are also choosing what somebody else does not want, and all the consequences that follow. You can tell yourself, That's not my problem, but those words do not wash the trouble away. Maybe it is no longer a problem in your life. But it is always a problem in your heart." -- Amy Tan]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/233-i-don-t-know-half-of-you-half-as-well-as</guid>
+		<pubDate>Tue, 25 Dec 2007 12:28:22 -0800</pubDate>
+		<title>
+			<![CDATA[Anette add a quote by J.R.R. Tolkien]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/233-i-don-t-know-half-of-you-half-as-well-as]]>
+		</link>
+		<description>
+	    <![CDATA["I don't know half of you half as well as I should like; and I like less than half of you half as well as you deserve." -- J.R.R. Tolkien]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

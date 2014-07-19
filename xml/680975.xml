@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/680975-rachel]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/680975-rachel" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 13 Dec 2007 07:35:05 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/214-in-a-time-of-social-fragmentation-vulgarity-becomes-a-way</guid>
+		<pubDate>Thu, 13 Dec 2007 07:35:05 -0800</pubDate>
+		<title>
+			<![CDATA[Rachel add a quote by Al Gore]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/214-in-a-time-of-social-fragmentation-vulgarity-becomes-a-way]]>
+		</link>
+		<description>
+	    <![CDATA["In a time of social fragmentation, vulgarity becomes a way of life. To be shocking becomes more important - and often more profitable - than to be civil or creative or truly original." -- Al Gore]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2074-only-within-the-moment-of-time-represented-by-the-present</guid>
+		<pubDate>Thu, 13 Dec 2007 07:36:40 -0800</pubDate>
+		<title>
+			<![CDATA[Rachel add a quote by Rachel Carson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2074-only-within-the-moment-of-time-represented-by-the-present]]>
+		</link>
+		<description>
+	    <![CDATA["Only within the moment of time represented by the present century has one species -- man -- acquired significant power to alter the nature of the world. " -- Rachel Carson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

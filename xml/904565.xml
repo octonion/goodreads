@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/904565-ryan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/904565-ryan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 10 Jul 2009 14:59:17 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/176965-it-has-always-been-my-private-conviction-that-any-man</guid>
+		<pubDate>Fri, 10 Jul 2009 14:59:17 -0700</pubDate>
+		<title>
+			<![CDATA[Ryan add a quote by John Steinbeck]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/176965-it-has-always-been-my-private-conviction-that-any-man]]>
+		</link>
+		<description>
+	    <![CDATA["It has always been my private conviction that any man who puts his intelligence up against a fish and loses had it coming." -- John Steinbeck]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/12042-that-which-can-be-asserted-without-evidence-can-be-dismissed</guid>
+		<pubDate>Sat, 25 Dec 2010 09:32:01 -0800</pubDate>
+		<title>
+			<![CDATA[Ryan add a quote by Christopher Hitchens]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12042-that-which-can-be-asserted-without-evidence-can-be-dismissed]]>
+		</link>
+		<description>
+	    <![CDATA["That which can be asserted without evidence, can be dismissed without evidence." -- Christopher Hitchens]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/20151-many-religions-now-come-before-us-with-ingratiating-smirks-and</guid>
+		<pubDate>Sat, 25 Dec 2010 09:33:10 -0800</pubDate>
+		<title>
+			<![CDATA[Ryan add a quote by Christopher Hitchens]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20151-many-religions-now-come-before-us-with-ingratiating-smirks-and]]>
+		</link>
+		<description>
+	    <![CDATA["Many religions now come before us with ingratiating smirks and outspread hands, like an unctuous merchant in a bazaar. They offer consolation and solidarity and uplift, competing as they do in a marketplace. But we have a right to remember how barbarically they behaved when they were strong and were making an offer that people could not refuse." -- Christopher Hitchens]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/921033-carol]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/921033-carol" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 30 Apr 2008 08:02:16 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/49869-i-have-nothing-to-say-and-i-am-saying-it</guid>
+		<pubDate>Wed, 30 Apr 2008 08:02:16 -0700</pubDate>
+		<title>
+			<![CDATA[Carol add a quote by John Wain ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/49869-i-have-nothing-to-say-and-i-am-saying-it]]>
+		</link>
+		<description>
+	    <![CDATA["I have nothing to say. And I am saying it. That's poetry." -- John Wain ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/58599-in-our-time-they-say-there-is-no-penalty-for</guid>
+		<pubDate>Thu, 29 May 2008 09:54:24 -0700</pubDate>
+		<title>
+			<![CDATA[Carol add a quote by Muriel Rukeyser ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/58599-in-our-time-they-say-there-is-no-penalty-for]]>
+		</link>
+		<description>
+	    <![CDATA["In our time, they say there is no penalty for writing poems. 
+They say this. 
+This is the penalty." -- Muriel Rukeyser ]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

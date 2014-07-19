@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/590755-alex]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/590755-alex" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 25 Mar 2014 06:15:53 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/104129-karl-marx-religion-is-the-opiate-of-the-masses-carrie</guid>
+		<pubDate>Tue, 25 Mar 2014 06:15:53 -0700</pubDate>
+		<title>
+			<![CDATA[Alex add a quote by Carrie Fisher]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/104129-karl-marx-religion-is-the-opiate-of-the-masses-carrie]]>
+		</link>
+		<description>
+	    <![CDATA["&lt;i&gt;Karl Marx:&lt;/i&gt; &quot;Religion is the opiate of the masses.&quot;
+
+&lt;i&gt;Carrie Fisher:&lt;/i&gt; &quot;I did masses of opiates religiously." -- Carrie Fisher]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/129081-when-you-finally-go-back-to-your-old-hometown-you</guid>
+		<pubDate>Thu, 03 Apr 2014 07:56:29 -0700</pubDate>
+		<title>
+			<![CDATA[Alex add a quote by sam ewing]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/129081-when-you-finally-go-back-to-your-old-hometown-you]]>
+		</link>
+		<description>
+	    <![CDATA["When you finally go back to your old hometown, you find it wasn't the old home you missed but your childhood." -- sam ewing]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/15790-men-do-not-quit-playing-because-they-grow-old-they</guid>
+		<pubDate>Thu, 03 Apr 2014 07:56:33 -0700</pubDate>
+		<title>
+			<![CDATA[Alex add a quote by Oliver Wendell Holmes Jr]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/15790-men-do-not-quit-playing-because-they-grow-old-they]]>
+		</link>
+		<description>
+	    <![CDATA["Men do not quit playing because they grow old; they grow old because they quit playing." -- Oliver Wendell Holmes Jr]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

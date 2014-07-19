@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1022229-desertkatz]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1022229-desertkatz" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 26 Mar 2008 18:13:23 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/31762-gotta-protect-the-little-dudes-i-tried-an-ak-47-but</guid>
+		<pubDate>Wed, 26 Mar 2008 18:13:23 -0700</pubDate>
+		<title>
+			<![CDATA[Desertkatz add a quote by Janet Evanovich]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/31762-gotta-protect-the-little-dudes-i-tried-an-ak-47-but]]>
+		</link>
+		<description>
+	    <![CDATA["Gotta protect the little dudes. I tried an AK-47, but it wouldn't fit under my seat. I like the Uzi better, anyway. It looks better with the dress. The AK seems too casual to me" -- Janet Evanovich]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/21130-was-a-fast-easy-reading-good-to-take-your-mind</guid>
+		<pubDate>Wed, 26 Mar 2008 18:13:54 -0700</pubDate>
+		<title>
+			<![CDATA[Desertkatz add a quote by Janet Evanovich]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21130-was-a-fast-easy-reading-good-to-take-your-mind]]>
+		</link>
+		<description>
+	    <![CDATA["Was a fast easy reading, Good to take your mind off of anything serious for a while" -- Janet Evanovich]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

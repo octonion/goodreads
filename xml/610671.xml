@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/610671-allison]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/610671-allison" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 04 Apr 2008 13:12:23 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/17500-good-books-are-as-friends-willing-to-give-to-us</guid>
+		<pubDate>Fri, 04 Apr 2008 13:12:23 -0700</pubDate>
+		<title>
+			<![CDATA[Allison add a quote by Gordon B. Hinckley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17500-good-books-are-as-friends-willing-to-give-to-us]]>
+		</link>
+		<description>
+	    <![CDATA["Good books are as friends, willing to give to us if we are willing to make a little effort." -- Gordon B. Hinckley]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/25905-home-is-the-nicest-word-there-is</guid>
+		<pubDate>Fri, 04 Apr 2008 13:14:27 -0700</pubDate>
+		<title>
+			<![CDATA[Allison add a quote by Laura Ingalls Wilder]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/25905-home-is-the-nicest-word-there-is]]>
+		</link>
+		<description>
+	    <![CDATA["Home is the nicest word there is." -- Laura Ingalls Wilder]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/15108-now-the-trouble-about-trying-to-make-yourself-stupider-than</guid>
+		<pubDate>Fri, 04 Apr 2008 13:17:17 -0700</pubDate>
+		<title>
+			<![CDATA[Allison add a quote by C.S. Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/15108-now-the-trouble-about-trying-to-make-yourself-stupider-than]]>
+		</link>
+		<description>
+	    <![CDATA["Now the trouble about trying to make yourself stupider than you really are is that you very often succeed." -- C.S. Lewis]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/17411-think-left-and-think-right-and-think-low-and-think</guid>
+		<pubDate>Fri, 04 Apr 2008 16:21:22 -0700</pubDate>
+		<title>
+			<![CDATA[Allison add a quote by Dr. Seuss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17411-think-left-and-think-right-and-think-low-and-think]]>
+		</link>
+		<description>
+	    <![CDATA["Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!" -- Dr. Seuss]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

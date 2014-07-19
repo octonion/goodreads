@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/74596-lee]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/74596-lee" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 27 Apr 2013 14:23:20 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/744385-and-after-his-death---or-even-before-it-perhaps</guid>
+		<pubDate>Sat, 27 Apr 2013 14:23:20 -0700</pubDate>
+		<title>
+			<![CDATA[Lee add a quote by Nadezhda Mandelstam]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/744385-and-after-his-death---or-even-before-it-perhaps]]>
+		</link>
+		<description>
+	    <![CDATA["And after his death - or even before it, perhaps - he lived on in camp legend as a demented old man of seventy who had once written poetry in the outside world and was therefore nicknamed The Poet. And another old man - or was it the same one? - lived in the transit camp of Vtoraya Rechka, waiting to be shipped to Kolyma, and was thought by many people to be Osip Mandelstam - which, for all I know, he may have been. That is all I have been able to find out about the last days, illness and death of Mandelstam. Others know very much less about the death of their dear ones." -- Nadezhda Mandelstam]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

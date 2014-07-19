@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/227238-beth]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/227238-beth" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 20 Feb 2013 19:56:04 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/94028-no-one-else-has-access-to-the-world-you-carry</guid>
+		<pubDate>Wed, 20 Feb 2013 19:56:04 -0800</pubDate>
+		<title>
+			<![CDATA[Beth add a quote by John O'Donohue]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/94028-no-one-else-has-access-to-the-world-you-carry]]>
+		</link>
+		<description>
+	    <![CDATA["No one else has access to the world you carry around within yourself; you are its custodian and entrance. No one else can see the world the way you see it. No one else can feel your life the way you feel it. Thus it is impossible to ever compare two people because each stands on such different ground. When you compare yourself to others, you are inviting envy into your consciousness; it can be a dangerous and destructive guest." -- John O'Donohue]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

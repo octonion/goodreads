@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/377710-dom]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/377710-dom" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 05 May 2008 20:51:21 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/22806-most-people-think-that-shadows-follow-precede-or-surround-beings</guid>
+		<pubDate>Mon, 05 May 2008 20:51:21 -0700</pubDate>
+		<title>
+			<![CDATA[Dom add a quote by Elie Wiesel]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22806-most-people-think-that-shadows-follow-precede-or-surround-beings]]>
+		</link>
+		<description>
+	    <![CDATA["Most people think that shadows follow, precede or surround beings or objects. The truth is that they also surround words, ideas, desires, deeds, impulses and memories." -- Elie Wiesel]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

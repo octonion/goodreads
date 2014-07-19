@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/15920-maya]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/15920-maya" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 28 Apr 2011 19:10:30 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/117986-it-seems-to-me-if-you-add-music-and-books</guid>
+		<pubDate>Thu, 28 Apr 2011 19:10:30 -0700</pubDate>
+		<title>
+			<![CDATA[Maya add a quote by Nick Hornby]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/117986-it-seems-to-me-if-you-add-music-and-books]]>
+		</link>
+		<description>
+	    <![CDATA["It seems to me if you add music (and books, probably, and films, and plays, and anything that makes you feel) at the center of your being, then you can't afford to sort out your love life, start to think of it as the finished product. You've got to pick at it, keep it alive and in turmoil, you've got to pick at it and unravel it until it all comes apart and you're compelled to start all over again. Maybe we live life at too high a pitch, those of us who absorb emotional things all day, and as a consequence we can never feel merely content: we have to be unhappy, or ecstatically, head-over-heels happy, and those states are difficult to achieve within a stable, solid relationship." -- Nick Hornby]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

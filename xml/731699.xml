@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/731699-sarah]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/731699-sarah" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 20 Nov 2012 06:20:56 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/57437-i-have-come-home-at-last-this-is-my-real</guid>
+		<pubDate>Tue, 20 Nov 2012 06:20:56 -0800</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by C.S. Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/57437-i-have-come-home-at-last-this-is-my-real]]>
+		</link>
+		<description>
+	    <![CDATA["I have come home at last! This is my real country! I belong here. This is the land I have been looking for all my life, though I never knew it till now...Come further up, come further in!" -- C.S. Lewis]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/70275-the-term-is-over-the-holidays-have-begun-the-dream</guid>
+		<pubDate>Tue, 20 Nov 2012 06:21:00 -0800</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by C.S. Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/70275-the-term-is-over-the-holidays-have-begun-the-dream]]>
+		</link>
+		<description>
+	    <![CDATA["The term is over: the holidays have begun. The dream is ended: this is the morning." -- C.S. Lewis]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/157932-they-have-chosen-cunning-instead-of-belief-their-prison-is</guid>
+		<pubDate>Tue, 20 Nov 2012 06:21:08 -0800</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by C.S. Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/157932-they-have-chosen-cunning-instead-of-belief-their-prison-is]]>
+		</link>
+		<description>
+	    <![CDATA["They have chosen cunning instead of belief. Their prison is only in their minds, yet they are in that prison; and so afraid of being taken in that they cannot be taken out." -- C.S. Lewis]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

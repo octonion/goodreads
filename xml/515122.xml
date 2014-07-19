@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/515122-jamie-burt]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/515122-jamie-burt" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 04 Apr 2008 16:06:30 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/11888-it-would-be-mortifying-to-the-feelings-of-many-ladies</guid>
+		<pubDate>Fri, 04 Apr 2008 16:06:30 -0700</pubDate>
+		<title>
+			<![CDATA[Jamie add a quote by Jane Austen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11888-it-would-be-mortifying-to-the-feelings-of-many-ladies]]>
+		</link>
+		<description>
+	    <![CDATA["It would be mortifying to the feelings of many ladies, could they be made to understand how little the heart of a man is affected by what is costly or new in their attire...  Woman is fine for her own satisfaction alone.  No man will admire her the more, no woman will like her the better for it.  Neatness and fashion are enough for the former, and a something of shabbiness or impropriety will be most endearing to the latter." -- Jane Austen]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/14244-a-woman-especially-if-she-have-the-misfortune-of-knowing</guid>
+		<pubDate>Fri, 04 Apr 2008 16:11:00 -0700</pubDate>
+		<title>
+			<![CDATA[Jamie add a quote by Jane Austen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14244-a-woman-especially-if-she-have-the-misfortune-of-knowing]]>
+		</link>
+		<description>
+	    <![CDATA["A woman, especially if she have the misfortune of knowing anything, should conceal it as well as she can." -- Jane Austen]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/261670-anne]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/261670-anne" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 12 Dec 2007 19:34:15 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4480-you-know-what-the-fellow-said-in-italy-for</guid>
+		<pubDate>Wed, 12 Dec 2007 19:34:15 -0800</pubDate>
+		<title>
+			<![CDATA[Anne add a quote by Orson Welles]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4480-you-know-what-the-fellow-said-in-italy-for]]>
+		</link>
+		<description>
+	    <![CDATA["You know what the fellow said – in Italy, for thirty years under the Borgias, they had warfare, terror, murder and bloodshed, but they produced Michelangelo, Leonardo da Vinci and the Renaissance. In Switzerland, they had brotherly love, they had five hundred years of democracy and peace – and what did that produce? The cuckoo clock." -- Orson Welles]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

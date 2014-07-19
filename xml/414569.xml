@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/414569-carrie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/414569-carrie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 29 Dec 2011 13:15:41 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/286893-his-heart-danced-upon-her-movements-like-a-cork-upon</guid>
+		<pubDate>Thu, 29 Dec 2011 13:15:41 -0800</pubDate>
+		<title>
+			<![CDATA[Carrie add a quote by James Joyce]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/286893-his-heart-danced-upon-her-movements-like-a-cork-upon]]>
+		</link>
+		<description>
+	    <![CDATA["His heart danced upon her movements like a cork upon a tide. He heard what her eyes said to him from beneath their cowl and knew that in some dim past, whether in life or revery, he had heard their tale before." -- James Joyce]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/417390-i-define-connection-as-the-energy-that-exists-between-people</guid>
+		<pubDate>Wed, 01 Feb 2012 06:13:25 -0800</pubDate>
+		<title>
+			<![CDATA[Carrie add a quote by Brené Brown]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/417390-i-define-connection-as-the-energy-that-exists-between-people]]>
+		</link>
+		<description>
+	    <![CDATA["I define connection as the energy that exists between people when they feel seen, heard, and valued; when they can give and receive without judgment; and when they derive sustenance and strength from the relationship." -- Brené Brown]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/125728-a-desk-is-a-dangerous-place-from-which-to-view</guid>
+		<pubDate>Fri, 19 Oct 2012 10:43:48 -0700</pubDate>
+		<title>
+			<![CDATA[Carrie add a quote by John le Carré]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/125728-a-desk-is-a-dangerous-place-from-which-to-view]]>
+		</link>
+		<description>
+	    <![CDATA["A desk is a dangerous place from which to view the world." -- John le Carré]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

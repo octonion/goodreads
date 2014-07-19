@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/279428-ann]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/279428-ann" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 15 Mar 2008 09:20:26 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/34950-in-a-nutshell-the-universe-is-4-visible-23-undetectable</guid>
+		<pubDate>Sat, 15 Mar 2008 09:20:26 -0700</pubDate>
+		<title>
+			<![CDATA[Ann add a quote by Tim Radford]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/34950-in-a-nutshell-the-universe-is-4-visible-23-undetectable]]>
+		</link>
+		<description>
+	    <![CDATA["In a nutshell, the universe is 4% visible, 23% undetectable and 73% unimaginable. Welcome to the cosmos, full of mass you can measure but not manhandle, driven by a force you can infer but not explain." -- Tim Radford]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/34951-and-for-the-last-three-minutes-on-the-wind-of</guid>
+		<pubDate>Sat, 15 Mar 2008 09:23:10 -0700</pubDate>
+		<title>
+			<![CDATA[Ann add a quote by Tom Stoppard]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/34951-and-for-the-last-three-minutes-on-the-wind-of]]>
+		</link>
+		<description>
+	    <![CDATA["...and for the last three minutes on the wind of a windless day I have heard the sound of drums and flute..." -- Tom Stoppard]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/649329-jessica]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/649329-jessica" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 03 May 2013 13:07:49 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/167393-you-must-carry-on-my-spirit-it-can-no-longer</guid>
+		<pubDate>Fri, 03 May 2013 13:07:49 -0700</pubDate>
+		<title>
+			<![CDATA[Jessica add a quote by Rick Riordan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/167393-you-must-carry-on-my-spirit-it-can-no-longer]]>
+		</link>
+		<description>
+	    <![CDATA["You must carry on my spirit. It can no longer be carried by a god. It must be taken up by all of you. - Pan" -- Rick Riordan]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3203-but-the-hebrew-word-the-word-timshel-thou-mayest-that-gives</guid>
+		<pubDate>Mon, 17 Jun 2013 17:14:17 -0700</pubDate>
+		<title>
+			<![CDATA[Jessica add a quote by John Steinbeck]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3203-but-the-hebrew-word-the-word-timshel-thou-mayest-that-gives]]>
+		</link>
+		<description>
+	    <![CDATA["But the Hebrew word, the word timshel—‘Thou mayest’— that gives a choice. It might be the most important word in the world. That says the way is open. That throws it right back on a man. For if ‘Thou mayest’—it is also true that ‘Thou mayest not." -- John Steinbeck]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/161077-will]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/161077-will" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 25 Jan 2008 01:06:17 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/17210-i-only-appear-to-be-dead</guid>
+		<pubDate>Fri, 25 Jan 2008 01:06:17 -0800</pubDate>
+		<title>
+			<![CDATA[Will add a quote by Hans Christian Andersen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17210-i-only-appear-to-be-dead]]>
+		</link>
+		<description>
+	    <![CDATA["I only appear to be dead." -- Hans Christian Andersen]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/9257-we-need-not-to-be-let-alone-we-need-to</guid>
+		<pubDate>Wed, 18 Jun 2008 13:24:15 -0700</pubDate>
+		<title>
+			<![CDATA[Will add a quote by Ray Bradbury]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9257-we-need-not-to-be-let-alone-we-need-to]]>
+		</link>
+		<description>
+	    <![CDATA["We need not to be let alone. We need to be really bothered once in a while. How long is it since you were really bothered? About something important, about something real?" -- Ray Bradbury]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/65602-surrender-to-a-logic-more-powerful-than-reason</guid>
+		<pubDate>Fri, 20 Jun 2008 23:57:08 -0700</pubDate>
+		<title>
+			<![CDATA[Will add a quote by J.G. Ballard]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/65602-surrender-to-a-logic-more-powerful-than-reason]]>
+		</link>
+		<description>
+	    <![CDATA["Surrender to a logic more powerful than reason.  " -- J.G. Ballard]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/271905-panicky-despair-is-an-underrated-element-of-writing</guid>
+		<pubDate>Thu, 11 Apr 2013 16:46:10 -0700</pubDate>
+		<title>
+			<![CDATA[Will add a quote by Dave Barry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/271905-panicky-despair-is-an-underrated-element-of-writing]]>
+		</link>
+		<description>
+	    <![CDATA["Panicky despair is an underrated element of writing." -- Dave Barry]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

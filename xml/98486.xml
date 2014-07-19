@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/98486-kat]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/98486-kat" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 01 Feb 2008 08:44:22 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4810-any-idiot-can-face-a-crisis-it-s-this-day-to-day-living</guid>
+		<pubDate>Fri, 01 Feb 2008 08:44:22 -0800</pubDate>
+		<title>
+			<![CDATA[Kat add a quote by Anton Chekhov]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4810-any-idiot-can-face-a-crisis-it-s-this-day-to-day-living]]>
+		</link>
+		<description>
+	    <![CDATA["Any idiot can face a crisis; it's this day-to-day living that wears you out." -- Anton Chekhov]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4590-without-music-life-would-be-a-mistake</guid>
+		<pubDate>Fri, 01 Feb 2008 08:59:49 -0800</pubDate>
+		<title>
+			<![CDATA[Kat add a quote by Friedrich Nietzsche]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4590-without-music-life-would-be-a-mistake]]>
+		</link>
+		<description>
+	    <![CDATA["Without music, life would be a mistake." -- Friedrich Nietzsche]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1610-art-is-the-lie-that-enables-us-to-realize-the</guid>
+		<pubDate>Fri, 01 Feb 2008 09:03:30 -0800</pubDate>
+		<title>
+			<![CDATA[Kat add a quote by Pablo Picasso]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1610-art-is-the-lie-that-enables-us-to-realize-the]]>
+		</link>
+		<description>
+	    <![CDATA["Art is the lie that enables us to realize the truth." -- Pablo Picasso]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2852-art-is-the-reason-i-get-up-in-the-morning</guid>
+		<pubDate>Mon, 23 Jun 2008 12:02:01 -0700</pubDate>
+		<title>
+			<![CDATA[Kat add a quote by Ani DiFranco]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2852-art-is-the-reason-i-get-up-in-the-morning]]>
+		</link>
+		<description>
+	    <![CDATA["Art is the reason I get up in the morning, but the definition ends there. It doesn't seem fair that I'm living for something I can't even define." -- Ani DiFranco]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

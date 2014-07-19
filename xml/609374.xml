@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/609374-natalie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/609374-natalie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 24 Mar 2014 17:10:32 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/36917-you-know-that-a-good-long-session-of-weeping-can</guid>
+		<pubDate>Mon, 24 Mar 2014 17:10:32 -0700</pubDate>
+		<title>
+			<![CDATA[Natalie add a quote by Lemony Snicket]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/36917-you-know-that-a-good-long-session-of-weeping-can]]>
+		</link>
+		<description>
+	    <![CDATA["...you know that a good, long session of weeping can often make you feel better, even if your circumstances have not changed one bit." -- Lemony Snicket]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/104562-science-fiction-is-the-most-important-literature-in-the-history</guid>
+		<pubDate>Sun, 29 Jun 2014 18:14:48 -0700</pubDate>
+		<title>
+			<![CDATA[Natalie add a quote by Ray Bradbury]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/104562-science-fiction-is-the-most-important-literature-in-the-history]]>
+		</link>
+		<description>
+	    <![CDATA["Science fiction is the most important literature in the history of the world, because it's the history of ideas, the history of our civilization birthing itself. ...Science fiction is central to everything we've ever done, and people who make fun of science fiction writers don't know what they're talking about." -- Ray Bradbury]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

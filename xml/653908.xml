@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/653908-eric]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/653908-eric" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 23 Dec 2008 12:46:48 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/246-the-unexamined-life-is-not-worth-living</guid>
+		<pubDate>Tue, 23 Dec 2008 12:46:48 -0800</pubDate>
+		<title>
+			<![CDATA[Eric add a quote by Socrates]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/246-the-unexamined-life-is-not-worth-living]]>
+		</link>
+		<description>
+	    <![CDATA["The unexamined life is not worth living." -- Socrates]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/249055-the-beginning-is-the-most-important-part-of-the-work</guid>
+		<pubDate>Mon, 31 Dec 2012 22:43:54 -0800</pubDate>
+		<title>
+			<![CDATA[Eric add a quote by Plato]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/249055-the-beginning-is-the-most-important-part-of-the-work]]>
+		</link>
+		<description>
+	    <![CDATA["The beginning is the most important part of the work." -- Plato]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/70343-fighting-for-peace-is-like-screwing-for-virginity</guid>
+		<pubDate>Mon, 28 Jan 2013 11:48:32 -0800</pubDate>
+		<title>
+			<![CDATA[Eric add a quote by George Carlin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/70343-fighting-for-peace-is-like-screwing-for-virginity]]>
+		</link>
+		<description>
+	    <![CDATA["Fighting for peace is like screwing for virginity." -- George Carlin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/7090-the-intuitive-mind-is-a-sacred-gift-and-the-rational</guid>
+		<pubDate>Mon, 28 Jan 2013 13:11:09 -0800</pubDate>
+		<title>
+			<![CDATA[Eric add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7090-the-intuitive-mind-is-a-sacred-gift-and-the-rational]]>
+		</link>
+		<description>
+	    <![CDATA["The intuitive mind is a sacred gift and the rational mind is a faithful servant. We have created a society that honors the servant and has forgotten the gift." -- Albert Einstein]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

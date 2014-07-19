@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/96003-steve]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/96003-steve" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 07 Feb 2014 15:26:15 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/354-live-in-the-sunshine-swim-the-sea-drink-the-wild</guid>
+		<pubDate>Fri, 07 Feb 2014 15:26:15 -0800</pubDate>
+		<title>
+			<![CDATA[Steve add a quote by Ralph Waldo Emerson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/354-live-in-the-sunshine-swim-the-sea-drink-the-wild]]>
+		</link>
+		<description>
+	    <![CDATA["Live in the sunshine, swim the sea, drink the wild air." -- Ralph Waldo Emerson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/15662-when-you-wake-up-in-the-morning-pooh-said-piglet</guid>
+		<pubDate>Tue, 04 Mar 2014 18:53:00 -0800</pubDate>
+		<title>
+			<![CDATA[Steve add a quote by A.A. Milne]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/15662-when-you-wake-up-in-the-morning-pooh-said-piglet]]>
+		</link>
+		<description>
+	    <![CDATA["When you wake up in the morning, Pooh,&quot; said Piglet at last, &quot;what's the first thing you say to yourself?&quot;
+
+&quot;What's for breakfast?&quot; said Pooh. &quot;What do you say, Piglet?&quot;
+
+&quot;I say, I wonder what's going to happen exciting today?&quot; said Piglet.
+
+Pooh nodded thoughtfully. &quot;It's the same thing,&quot; he said." -- A.A. Milne]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

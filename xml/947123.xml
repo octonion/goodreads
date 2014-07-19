@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/947123-rachel]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/947123-rachel" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 30 Nov 2013 09:44:14 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/915574-when-she-transformed-into-a-butterfly-the-caterpillars-spoke-not</guid>
+		<pubDate>Sat, 30 Nov 2013 09:44:14 -0800</pubDate>
+		<title>
+			<![CDATA[Rachel add a quote by Dean Jackson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/915574-when-she-transformed-into-a-butterfly-the-caterpillars-spoke-not]]>
+		</link>
+		<description>
+	    <![CDATA["When she transformed into a butterfly, the caterpillars spoke not of her beauty, but of her weirdness. They wanted her to change back into what she always had been. But she had wings." -- Dean Jackson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/816257-when-a-child-gives-you-a-gift-even-if-it</guid>
+		<pubDate>Sat, 30 Nov 2013 09:44:15 -0800</pubDate>
+		<title>
+			<![CDATA[Rachel add a quote by dean jackson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/816257-when-a-child-gives-you-a-gift-even-if-it]]>
+		</link>
+		<description>
+	    <![CDATA["when a child gives you a gift,  even if it is a rock they just picked up,  exude gratitude.  it may be the only thing they have to give,  and they have chosen to give it to you" -- dean jackson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

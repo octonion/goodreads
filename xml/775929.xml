@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/775929-blake]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/775929-blake" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 03 Sep 2008 01:38:14 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/16821-if-you-go-home-with-somebody-and-they-don-t-have</guid>
+		<pubDate>Wed, 03 Sep 2008 01:38:14 -0700</pubDate>
+		<title>
+			<![CDATA[blake add a quote by John Waters]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16821-if-you-go-home-with-somebody-and-they-don-t-have]]>
+		</link>
+		<description>
+	    <![CDATA["If you go home with somebody, and they don't have books, don't fuck 'em!" -- John Waters]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/16111-it-is-a-magic-book-words-mean-things-when-you</guid>
+		<pubDate>Wed, 03 Sep 2008 01:42:03 -0700</pubDate>
+		<title>
+			<![CDATA[blake add a quote by Samuel R. Delany]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16111-it-is-a-magic-book-words-mean-things-when-you]]>
+		</link>
+		<description>
+	    <![CDATA["It is a magic book. Words mean things. When you put them together they speak. Yes, sometimes they flatten out and nothing they say is real, and that is one kind of magic. But sometimes a vision will rip up from them and shriek and clank wings clear as the sweat smudge on the paper under your thumb. And that is another kind." -- Samuel R. Delany]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/115373-i-want-to-throw-up-because-we-re-supposed-to-quietly</guid>
+		<pubDate>Wed, 03 Sep 2008 01:45:54 -0700</pubDate>
+		<title>
+			<![CDATA[blake add a quote by David Wojnarowicz]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/115373-i-want-to-throw-up-because-we-re-supposed-to-quietly]]>
+		</link>
+		<description>
+	    <![CDATA["I want to throw up because we're supposed to quietly and politely make house in this killing machine called America and pay taxes to support our own slow murder and I'm amazed we're not running amok in the streets, and that we can still be capable of gestures of loving after lifetimes of all this." -- David Wojnarowicz]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

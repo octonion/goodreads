@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/652546-jeff-m]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/652546-jeff-m" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 28 Dec 2007 17:04:34 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/8295-if-we-could-survive-without-a-wife-citizens-of-rome</guid>
+		<pubDate>Fri, 28 Dec 2007 17:04:34 -0800</pubDate>
+		<title>
+			<![CDATA[Jeff add a quote by Augustus]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8295-if-we-could-survive-without-a-wife-citizens-of-rome]]>
+		</link>
+		<description>
+	    <![CDATA["If we could survive without a wife, citizens of Rome, all of us would do without that nuisance; but since nature has so decreed that we cannot manage comfortably with them, nor live in any way without them, we must plan for our lasting preservation rather than for our temporary pleasure." -- Augustus]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/435900-therefore-do-not-worry-about-tomorrow-for-tomorrow-will-worry</guid>
+		<pubDate>Fri, 28 Dec 2007 17:10:28 -0800</pubDate>
+		<title>
+			<![CDATA[Jeff add a quote by The Bible for Today]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/435900-therefore-do-not-worry-about-tomorrow-for-tomorrow-will-worry]]>
+		</link>
+		<description>
+	    <![CDATA["Therefore, do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own." -- The Bible for Today]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

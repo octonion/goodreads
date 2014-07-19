@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/839479-jennifer]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/839479-jennifer" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 25 May 2013 11:23:08 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/811564-i-believe-firmly-in-mystery-and-manners</guid>
+		<pubDate>Sat, 25 May 2013 11:23:08 -0700</pubDate>
+		<title>
+			<![CDATA[Jennifer add a quote by Flannery O'Connor]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/811564-i-believe-firmly-in-mystery-and-manners]]>
+		</link>
+		<description>
+	    <![CDATA["I believe firmly in mystery and manners." -- Flannery O'Connor]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/129652-you-never-know-what-worse-luck-your-bad-luck-has</guid>
+		<pubDate>Sat, 20 Jul 2013 14:30:04 -0700</pubDate>
+		<title>
+			<![CDATA[Jennifer add a quote by Cormac McCarthy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/129652-you-never-know-what-worse-luck-your-bad-luck-has]]>
+		</link>
+		<description>
+	    <![CDATA["You never know what worse luck your bad luck has saved you from." -- Cormac McCarthy]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/40002-don-t-fuck-with-me-fellas-this-cowgirl-has-been-to</guid>
+		<pubDate>Wed, 06 Nov 2013 08:33:14 -0800</pubDate>
+		<title>
+			<![CDATA[Jennifer add a quote by Joan Crawford]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/40002-don-t-fuck-with-me-fellas-this-cowgirl-has-been-to]]>
+		</link>
+		<description>
+	    <![CDATA["Don't fuck with me, fellas. This cowgirl has been to the rodeo before." -- Joan Crawford]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

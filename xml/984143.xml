@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/984143-judy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/984143-judy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 25 Aug 2013 04:30:58 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/834878-i-called-up-to-mama-is-this-a-miracle-she</guid>
+		<pubDate>Sun, 25 Aug 2013 04:30:58 -0700</pubDate>
+		<title>
+			<![CDATA[Judy add a quote by Edward Kelsey Moore]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/834878-i-called-up-to-mama-is-this-a-miracle-she]]>
+		</link>
+		<description>
+	    <![CDATA["I called up to Mama, &quot;Is this a miracle?&quot; She raised and lowered her shoulders.  Her voice drifted down, &quot;Maybe.  Or maybe this is just what's supposed to be." -- Edward Kelsey Moore]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

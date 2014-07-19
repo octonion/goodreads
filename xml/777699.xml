@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/777699-jennifer-solow]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/777699-jennifer-solow" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 23 Jul 2010 12:39:28 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/280247-the-secret-was-pretty-simple-wearing-the-right-clothes</guid>
+		<pubDate>Fri, 23 Jul 2010 12:39:28 -0700</pubDate>
+		<title>
+			<![CDATA[Jennifer add a quote by Jennifer Solow]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/280247-the-secret-was-pretty-simple-wearing-the-right-clothes]]>
+		</link>
+		<description>
+	    <![CDATA["The secret was pretty simple — wearing the right clothes wasn’t as important as how you felt in them. Being beautiful was about what you did with what you had. Popularity was like that too — it was all about attitude. You had to picture who you wanted to be and then just imagine that’s who you already were." -- Jennifer Solow]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

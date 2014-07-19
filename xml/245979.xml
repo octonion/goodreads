@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/245979-jennifer]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/245979-jennifer" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 20 Jul 2013 10:25:19 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/48719-long-ago-i-yearned-to-be-a-hero-without-knowing</guid>
+		<pubDate>Sat, 20 Jul 2013 10:25:19 -0700</pubDate>
+		<title>
+			<![CDATA[Jennifer add a quote by Lloyd Alexander]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/48719-long-ago-i-yearned-to-be-a-hero-without-knowing]]>
+		</link>
+		<description>
+	    <![CDATA["Long ago I yearned to be a hero without knowing, in truth, what a hero was.  Now, perhaps, I understand it a little better.  A grower of turnips or a shaper of clay, a Commot farmer or a king--every man is a hero if he strives more for others than for himself alone.
+Once you told me that the seeking counts more than the finding.  So, too, must the striving count more than the gain." -- Lloyd Alexander]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

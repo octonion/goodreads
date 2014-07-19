@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/522752-lala]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/522752-lala" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 30 Mar 2013 12:11:34 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/260703-if-anything-is-certain-it-is-that-i-myself-am</guid>
+		<pubDate>Sat, 30 Mar 2013 12:11:34 -0700</pubDate>
+		<title>
+			<![CDATA[LaLa add a quote by Karl Marx]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/260703-if-anything-is-certain-it-is-that-i-myself-am]]>
+		</link>
+		<description>
+	    <![CDATA["If anything is certain, it is that I myself am not a Marxist.
+
+[&lt;i&gt;In a letter about the peculiar 'Marxism' which arose in France 1882&lt;/i&gt;]" -- Karl Marx]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

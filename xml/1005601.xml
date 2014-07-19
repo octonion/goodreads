@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1005601-mary]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1005601-mary" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 02 Apr 2008 18:40:11 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/40987-i-believe-there-are-techniques-of-the-human-mind-whereby</guid>
+		<pubDate>Wed, 02 Apr 2008 18:40:11 -0700</pubDate>
+		<title>
+			<![CDATA[Mary add a quote by John Steinbeck]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/40987-i-believe-there-are-techniques-of-the-human-mind-whereby]]>
+		</link>
+		<description>
+	    <![CDATA["I believe there are techniques of the human mind whereby, in its dark deep, problems are examined, rejected or accepted. Such activities sometimes concern facets a man does not know he has. How often one goes to sleep troubled and full of pain, not knowing what causes the travail, and in the morning a whole new direction and a clearness is there, maybe the results of the black reasoning. And again there are mornings when ecstasy bubbles in the blood, and the stomach and chest are tight and electric with joy, and nothing in the thoughts to justify it or cause it." -- John Steinbeck]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

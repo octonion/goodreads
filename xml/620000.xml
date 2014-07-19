@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/620000-ryan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/620000-ryan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 11 Jan 2008 07:32:33 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/12407-you-re-on-earth-there-s-no-cure-for-that</guid>
+		<pubDate>Fri, 11 Jan 2008 07:32:33 -0800</pubDate>
+		<title>
+			<![CDATA[Ryan add a quote by Samuel Beckett]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12407-you-re-on-earth-there-s-no-cure-for-that]]>
+		</link>
+		<description>
+	    <![CDATA["You're on Earth. There's no cure for that." -- Samuel Beckett]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/12408-the-secret-story-is-the-one-we-ll-never-know-although</guid>
+		<pubDate>Fri, 11 Jan 2008 07:33:43 -0800</pubDate>
+		<title>
+			<![CDATA[Ryan add a quote by Roberto Bolaño]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12408-the-secret-story-is-the-one-we-ll-never-know-although]]>
+		</link>
+		<description>
+	    <![CDATA["The secret story is the one we'll never know, although we're living it from day to day, thinking we're alive, thinking we've got it all under control and the stuff we overlook doesn't matter." -- Roberto Bolaño]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5138-people-were-always-getting-ready-for-tomorrow-i-didn-t-believe</guid>
+		<pubDate>Sun, 12 Sep 2010 19:35:08 -0700</pubDate>
+		<title>
+			<![CDATA[Ryan add a quote by Cormac McCarthy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5138-people-were-always-getting-ready-for-tomorrow-i-didn-t-believe]]>
+		</link>
+		<description>
+	    <![CDATA["People were always getting ready for tomorrow. I didn't believe in that. Tomorrow wasn't getting ready for them. It didn't even know they were there." -- Cormac McCarthy]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

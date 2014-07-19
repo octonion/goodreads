@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/859950-peter-swenson]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/859950-peter-swenson" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 11 Jun 2014 07:48:59 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/8199-is-god-willing-to-prevent-evil-but-not-able-then</guid>
+		<pubDate>Wed, 11 Jun 2014 07:48:59 -0700</pubDate>
+		<title>
+			<![CDATA[Peter add a quote by Epicurus]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8199-is-god-willing-to-prevent-evil-but-not-able-then]]>
+		</link>
+		<description>
+	    <![CDATA["Is God willing to prevent evil, but not able? Then he is not omnipotent. 
+Is he able, but not willing? Then he is malevolent. 
+Is he both able and willing? Then whence cometh evil? 
+Is he neither able nor willing? Then why call him God?" -- Epicurus]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

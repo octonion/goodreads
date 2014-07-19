@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/843162-david]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/843162-david" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Dec 2012 09:57:59 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/298244-of-course-my-jokes-are-in-poor-taste-inappropriate-and</guid>
+		<pubDate>Sun, 02 Dec 2012 09:57:59 -0800</pubDate>
+		<title>
+			<![CDATA[David add a quote by Fyodor Dostoevsky]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/298244-of-course-my-jokes-are-in-poor-taste-inappropriate-and]]>
+		</link>
+		<description>
+	    <![CDATA["Of course my jokes are in poor taste, inappropriate, and confused; they reveal my lack of security. But that is because I have no respect for myself." -- Fyodor Dostoevsky]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/7507-remember-to-always-be-yourself-unless-you-suck</guid>
+		<pubDate>Mon, 15 Jul 2013 16:18:22 -0700</pubDate>
+		<title>
+			<![CDATA[David add a quote by Joss Whedon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7507-remember-to-always-be-yourself-unless-you-suck]]>
+		</link>
+		<description>
+	    <![CDATA["Remember to always be yourself. Unless you suck." -- Joss Whedon]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

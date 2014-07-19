@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1032933-jenifer-jacobs]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1032933-jenifer-jacobs" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 08 Apr 2012 08:23:34 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1718-the-very-least-you-can-do-in-your-life-is</guid>
+		<pubDate>Sun, 08 Apr 2012 08:23:34 -0700</pubDate>
+		<title>
+			<![CDATA[Jenifer add a quote by Barbara Kingsolver]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1718-the-very-least-you-can-do-in-your-life-is]]>
+		</link>
+		<description>
+	    <![CDATA["The very least you can do in your life is figure out what you hope for. And the most you can do is live inside that hope. Not admire it from a distance but live right in it, under its roof." -- Barbara Kingsolver]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/61217-it-is-impossible-to-live-without-failing-at-something-unless</guid>
+		<pubDate>Wed, 14 Aug 2013 22:04:27 -0700</pubDate>
+		<title>
+			<![CDATA[Jenifer add a quote by J.K. Rowling]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/61217-it-is-impossible-to-live-without-failing-at-something-unless]]>
+		</link>
+		<description>
+	    <![CDATA["It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all - in which case, you fail by default." -- J.K. Rowling]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1745-everyone-is-entitled-to-his-own-opinion-but-not-to</guid>
+		<pubDate>Wed, 14 May 2014 21:38:52 -0700</pubDate>
+		<title>
+			<![CDATA[Jenifer add a quote by Daniel Patrick Moynihan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1745-everyone-is-entitled-to-his-own-opinion-but-not-to]]>
+		</link>
+		<description>
+	    <![CDATA["Everyone is entitled to his own opinion, but not to his own facts." -- Daniel Patrick Moynihan]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

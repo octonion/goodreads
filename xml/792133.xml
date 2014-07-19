@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/792133-linda]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/792133-linda" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 27 Feb 2008 07:35:57 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/7414-the-only-emperor-is-the-emperor-of-ice-cream</guid>
+		<pubDate>Wed, 27 Feb 2008 07:35:57 -0800</pubDate>
+		<title>
+			<![CDATA[Linda add a quote by Wallace Stevens]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7414-the-only-emperor-is-the-emperor-of-ice-cream]]>
+		</link>
+		<description>
+	    <![CDATA["The only emperor is the emperor of ice cream." -- Wallace Stevens]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

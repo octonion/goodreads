@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/2810-ansel]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/2810-ansel" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 29 Jul 2008 00:24:17 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/681-the-future-is-already-here-it-s-just-not-evenly</guid>
+		<pubDate>Tue, 29 Jul 2008 00:24:17 -0700</pubDate>
+		<title>
+			<![CDATA[Ansel add a quote by William Gibson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/681-the-future-is-already-here-it-s-just-not-evenly]]>
+		</link>
+		<description>
+	    <![CDATA["The future is already here – it's just not evenly distributed.
+
+&lt;i&gt;The Economist, December 4, 2003&lt;/i&gt;" -- William Gibson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/34853-all-bad-precedents-begin-as-justifiable-measures</guid>
+		<pubDate>Tue, 29 Jul 2008 00:27:02 -0700</pubDate>
+		<title>
+			<![CDATA[Ansel add a quote by Julius Caesar]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/34853-all-bad-precedents-begin-as-justifiable-measures]]>
+		</link>
+		<description>
+	    <![CDATA["All bad precedents begin as justifiable measures. " -- Julius Caesar]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1140912-once-microsoft-lost-its-grip-on-developers-it-became-only</guid>
+		<pubDate>Tue, 25 Mar 2014 00:24:18 -0700</pubDate>
+		<title>
+			<![CDATA[Ansel add a quote by Ben Horowitz]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1140912-once-microsoft-lost-its-grip-on-developers-it-became-only]]>
+		</link>
+		<description>
+	    <![CDATA["Once Microsoft lost its grip on developers, it became only a matter of time before it lost its monopoly on operating systems." -- Ben Horowitz]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

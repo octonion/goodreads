@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/111218-saeed]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/111218-saeed" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 13 Dec 2007 08:52:39 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/729-i-ve-never-stunned-anyone-except-in-our-d-a-lessons-said</guid>
+		<pubDate>Thu, 13 Dec 2007 08:52:39 -0800</pubDate>
+		<title>
+			<![CDATA[Saeed add a quote by J.K. Rowling]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/729-i-ve-never-stunned-anyone-except-in-our-d-a-lessons-said]]>
+		</link>
+		<description>
+	    <![CDATA["I've never stunned anyone except in our D.A. lessons,&quot; said Luna, sounding mildly interested. &quot;That was noisier than I thought it would be." -- J.K. Rowling]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/727-yeah-quirrell-was-a-great-teacher-there-was-just-that</guid>
+		<pubDate>Thu, 27 Dec 2007 04:24:03 -0800</pubDate>
+		<title>
+			<![CDATA[Saeed add a quote by J.K. Rowling]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/727-yeah-quirrell-was-a-great-teacher-there-was-just-that]]>
+		</link>
+		<description>
+	    <![CDATA["Yeah, Quirrell was a great teacher. There was just that minor drawback of him having Lord Voldemort sticking out of the back of his head!" -- J.K. Rowling]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

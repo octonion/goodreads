@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1033834-kris-adair]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1033834-kris-adair" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 29 Mar 2008 04:44:50 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/8088-he-who-makes-a-beast-of-himself-gets-rid-of</guid>
+		<pubDate>Sat, 29 Mar 2008 04:44:50 -0700</pubDate>
+		<title>
+			<![CDATA[Kris add a quote by Samuel Johnson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8088-he-who-makes-a-beast-of-himself-gets-rid-of]]>
+		</link>
+		<description>
+	    <![CDATA["He who makes a beast of himself gets rid of the pain of being a man." -- Samuel Johnson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/9821-i-did-then-what-i-knew-how-to-do-now</guid>
+		<pubDate>Mon, 11 Feb 2013 10:28:42 -0800</pubDate>
+		<title>
+			<![CDATA[Kris add a quote by Maya Angelou]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9821-i-did-then-what-i-knew-how-to-do-now]]>
+		</link>
+		<description>
+	    <![CDATA["I did then what I knew how to do. Now that I know better, I do better." -- Maya Angelou]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/800011-daniel]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/800011-daniel" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 18 Jan 2008 11:23:20 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/14709-there-are-only-two-kinds-of-people-in-this-world</guid>
+		<pubDate>Fri, 18 Jan 2008 11:23:20 -0800</pubDate>
+		<title>
+			<![CDATA[Daniel add a quote by Joan of Arc]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14709-there-are-only-two-kinds-of-people-in-this-world]]>
+		</link>
+		<description>
+	    <![CDATA["There are only two kinds of people in this world - those who believe these are two kinds of people and those who don't." -- Joan of Arc]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/14712-polypro-wicks-away-the-sweat-cotton-absorbs-it-ergo-cotton</guid>
+		<pubDate>Fri, 18 Jan 2008 11:24:12 -0800</pubDate>
+		<title>
+			<![CDATA[Daniel add a quote by Sir Edmund Hillary]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14712-polypro-wicks-away-the-sweat-cotton-absorbs-it-ergo-cotton]]>
+		</link>
+		<description>
+	    <![CDATA["Polypro wicks away the sweat. Cotton absorbs it. Ergo, cotton is for suckers" -- Sir Edmund Hillary]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

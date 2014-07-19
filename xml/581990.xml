@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/581990-cher-johnson]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/581990-cher-johnson" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 28 May 2013 17:52:58 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/627803-life-is-revealed-as-a-place-to-contribute-and-we</guid>
+		<pubDate>Tue, 28 May 2013 17:52:58 -0700</pubDate>
+		<title>
+			<![CDATA[Cher add a quote by Benjamin Zander]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/627803-life-is-revealed-as-a-place-to-contribute-and-we]]>
+		</link>
+		<description>
+	    <![CDATA["Life is revealed as a place to contribute and we as contributors. Not because we have done a measurable amount of good, but because that is the story we tell." -- Benjamin Zander]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/32694-eric-cartier]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/32694-eric-cartier" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 17 Jun 2014 03:45:50 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/865773-as-he-caught-his-footing-his-head-fell-back-and</guid>
+		<pubDate>Tue, 17 Jun 2014 03:45:50 -0700</pubDate>
+		<title>
+			<![CDATA[Eric add a quote by Yasunari Kawabata]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/865773-as-he-caught-his-footing-his-head-fell-back-and]]>
+		</link>
+		<description>
+	    <![CDATA["As he caught his footing, his head fell back, and the Milky Way flowed down inside him with a roar." -- Yasunari Kawabata]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

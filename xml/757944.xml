@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/757944-martha]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/757944-martha" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 27 Jan 2013 10:43:56 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/497283-i-also-believe-that-introversion-is-my-greatest-strength-i</guid>
+		<pubDate>Sun, 27 Jan 2013 10:43:56 -0800</pubDate>
+		<title>
+			<![CDATA[Martha add a quote by Susan Cain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/497283-i-also-believe-that-introversion-is-my-greatest-strength-i]]>
+		</link>
+		<description>
+	    <![CDATA["...I also believe that introversion is my greatest strength. I have such a strong inner life that I’m never bored and only occasionally lonely. No matter what mayhem is happening around me, I know I can always turn inward." -- Susan Cain]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/265360-people-ask-me-to-predict-the-future-when-all-i</guid>
+		<pubDate>Thu, 23 Jan 2014 23:18:06 -0800</pubDate>
+		<title>
+			<![CDATA[Martha add a quote by Ray Bradbury]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/265360-people-ask-me-to-predict-the-future-when-all-i]]>
+		</link>
+		<description>
+	    <![CDATA["People ask me to predict the future, when all I want to do is prevent it. Better yet, build it. Predicting the future is much too easy, anyway. You look at the people around you, the street you stand on, the visible air you breathe, and predict more of the same. To hell with more. I want better." -- Ray Bradbury]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

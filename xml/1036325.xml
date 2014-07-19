@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1036325-claudia]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1036325-claudia" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 30 Mar 2008 09:05:16 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/21047-if-i-win-i-m-a-prodigy-if-i-lose-then</guid>
+		<pubDate>Sun, 30 Mar 2008 09:05:16 -0700</pubDate>
+		<title>
+			<![CDATA[Claudia add a quote by Eoin Colfer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21047-if-i-win-i-m-a-prodigy-if-i-lose-then]]>
+		</link>
+		<description>
+	    <![CDATA["If I win, I'm a prodigy. If I lose, then I'm crazy. That's the way history is written." -- Eoin Colfer]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/764-a-room-without-books-is-like-a-body-without-a</guid>
+		<pubDate>Sun, 30 Mar 2008 14:09:36 -0700</pubDate>
+		<title>
+			<![CDATA[Claudia add a quote by Marcus Tullius Cicero]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/764-a-room-without-books-is-like-a-body-without-a]]>
+		</link>
+		<description>
+	    <![CDATA["A room without books is like a body without a soul." -- Marcus Tullius Cicero]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

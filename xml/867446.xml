@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/867446-grey]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/867446-grey" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 31 Mar 2008 08:37:26 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/7777-if-you-think-you-are-too-small-to-make-a</guid>
+		<pubDate>Mon, 31 Mar 2008 08:37:26 -0700</pubDate>
+		<title>
+			<![CDATA[Grey add a quote by The Dalai Lama]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7777-if-you-think-you-are-too-small-to-make-a]]>
+		</link>
+		<description>
+	    <![CDATA["If you think you are too small to make a difference, try sleeping with a mosquito." -- The Dalai Lama]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/363-it-is-better-to-remain-silent-at-the-risk-of</guid>
+		<pubDate>Mon, 31 Mar 2008 08:39:50 -0700</pubDate>
+		<title>
+			<![CDATA[Grey add a quote by Maurice Switzer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/363-it-is-better-to-remain-silent-at-the-risk-of]]>
+		</link>
+		<description>
+	    <![CDATA["It is better to remain silent at the risk of being thought a fool, than to talk and remove all doubt of it." -- Maurice Switzer]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/40020-you-ll-come-back-because-yours-is-an-error-of-knowledge</guid>
+		<pubDate>Mon, 31 Mar 2008 08:43:17 -0700</pubDate>
+		<title>
+			<![CDATA[Grey add a quote by Ayn Rand]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/40020-you-ll-come-back-because-yours-is-an-error-of-knowledge]]>
+		</link>
+		<description>
+	    <![CDATA["You'll come back, because yours is an error of knowledge, not a moral failure, not an act of surrender to evil, but only the last act of being victim to your own virtue. We'll wait for you and when you come back, you will have discovered that there need never be any conflict among your desires, nor so tragic a clash of values as the one you've borne so well." -- Ayn Rand]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

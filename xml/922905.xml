@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/922905-kristina]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/922905-kristina" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 20 Jun 2012 17:58:19 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/204561-we-re-all-a-little-weird-and-life-is-a-little</guid>
+		<pubDate>Wed, 20 Jun 2012 17:58:19 -0700</pubDate>
+		<title>
+			<![CDATA[Kristina add a quote by Robert Fulghum]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/204561-we-re-all-a-little-weird-and-life-is-a-little]]>
+		</link>
+		<description>
+	    <![CDATA["We’re all a little weird. And life is a little weird. And when we find someone whose weirdness is compatible with ours, we join up with them and fall into mutually satisfying weirdness—and call it love—true love." -- Robert Fulghum]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/223913-like-all-of-my-friends-she-s-a-lousy-judge-of</guid>
+		<pubDate>Thu, 26 Dec 2013 11:03:58 -0800</pubDate>
+		<title>
+			<![CDATA[Kristina add a quote by David Sedaris]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/223913-like-all-of-my-friends-she-s-a-lousy-judge-of]]>
+		</link>
+		<description>
+	    <![CDATA["Like all of my friends, she's a lousy judge of character." -- David Sedaris]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

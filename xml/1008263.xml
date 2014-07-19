@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1008263-jennifer]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1008263-jennifer" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 20 Mar 2008 12:03:33 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6974-i-don-t-mind-living-in-a-man-s-world-as-long</guid>
+		<pubDate>Thu, 20 Mar 2008 12:03:33 -0700</pubDate>
+		<title>
+			<![CDATA[Jennifer add a quote by Marilyn Monroe]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6974-i-don-t-mind-living-in-a-man-s-world-as-long]]>
+		</link>
+		<description>
+	    <![CDATA["I don't mind living in a man's world, as long as I can be a woman in it." -- Marilyn Monroe]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/36632-we-must-change-the-system-of-education-and-instruction-unfortunately</guid>
+		<pubDate>Thu, 20 Mar 2008 12:05:05 -0700</pubDate>
+		<title>
+			<![CDATA[Jennifer add a quote by Josephine Baker]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/36632-we-must-change-the-system-of-education-and-instruction-unfortunately]]>
+		</link>
+		<description>
+	    <![CDATA["We must change the system of education and instruction. Unfortunately, history has shown us that brotherhood must be learned, when it should be natural." -- Josephine Baker]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

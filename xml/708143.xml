@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/708143-brian]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/708143-brian" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 22 Dec 2007 10:23:06 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/7047-there-are-those-that-look-at-things-the-way-they</guid>
+		<pubDate>Sat, 22 Dec 2007 10:23:06 -0800</pubDate>
+		<title>
+			<![CDATA[Brian add a quote by Robert F. Kennedy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7047-there-are-those-that-look-at-things-the-way-they]]>
+		</link>
+		<description>
+	    <![CDATA["There are those that look at things the way they are, and ask why? I dream of things that never were, and ask why not?" -- Robert F. Kennedy]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5543-insanity-is-doing-the-same-thing-over-and-over-again</guid>
+		<pubDate>Sat, 22 Dec 2007 10:23:49 -0800</pubDate>
+		<title>
+			<![CDATA[Brian add a quote by Narcotics Anonymous]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5543-insanity-is-doing-the-same-thing-over-and-over-again]]>
+		</link>
+		<description>
+	    <![CDATA["Insanity is doing the same thing, over and over again, but expecting different results." -- Narcotics Anonymous]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

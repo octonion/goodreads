@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/203807-kaity]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/203807-kaity" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 23 Jan 2011 22:24:01 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5797-the-person-be-it-gentleman-or-lady-who-has-not</guid>
+		<pubDate>Sun, 23 Jan 2011 22:24:01 -0800</pubDate>
+		<title>
+			<![CDATA[Kaity add a quote by Jane Austen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5797-the-person-be-it-gentleman-or-lady-who-has-not]]>
+		</link>
+		<description>
+	    <![CDATA["The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid." -- Jane Austen]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/335868-what-other-thing-eve-i-love-you-sometimes-it-makes</guid>
+		<pubDate>Tue, 25 Jan 2011 00:25:11 -0800</pubDate>
+		<title>
+			<![CDATA[Kaity add a quote by J.D. Robb]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/335868-what-other-thing-eve-i-love-you-sometimes-it-makes]]>
+		</link>
+		<description>
+	    <![CDATA["What other thing, Eve?&quot;
+&quot;I love you. Sometimes it makes my stomach hurt, but I kind of like it. Tired now, come to bed. Love you." -- J.D. Robb]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/12415-it-is-our-choices-harry-that-show-what-we-truly</guid>
+		<pubDate>Sun, 31 Jul 2011 21:52:19 -0700</pubDate>
+		<title>
+			<![CDATA[Kaity add a quote by J.K. Rowling]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12415-it-is-our-choices-harry-that-show-what-we-truly]]>
+		</link>
+		<description>
+	    <![CDATA["It is our choices, Harry, that show what we truly are, far more than our abilities." -- J.K. Rowling]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

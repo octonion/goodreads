@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/648840-lindsey-bontempo]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/648840-lindsey-bontempo" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 16 Dec 2007 09:29:13 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5445-whereas-story-is-processed-in-the-mind-in-a-straightforward</guid>
+		<pubDate>Sun, 16 Dec 2007 09:29:13 -0800</pubDate>
+		<title>
+			<![CDATA[Lindsey add a quote by Jasper Fforde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5445-whereas-story-is-processed-in-the-mind-in-a-straightforward]]>
+		</link>
+		<description>
+	    <![CDATA["Whereas story is processed in the mind in a straightforward manner, poetry bypasses rational thought and goes straight to the limbic system and lights it up like a brushfire.  It's the crack cocaine of the literary world." -- Jasper Fforde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/7881-trees-are-poems-the-earth-writes-upon-the-sky-we</guid>
+		<pubDate>Fri, 28 Dec 2007 21:49:10 -0800</pubDate>
+		<title>
+			<![CDATA[Lindsey add a quote by Kahlil Gibran]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7881-trees-are-poems-the-earth-writes-upon-the-sky-we]]>
+		</link>
+		<description>
+	    <![CDATA["Trees are poems the earth writes upon the sky, We fell them down and turn them into paper,
+That we may record our emptiness." -- Kahlil Gibran]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

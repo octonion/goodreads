@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/992958-laura]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/992958-laura" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 17 Jul 2008 07:46:23 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/18802-i-hate-to-think-that-all-my-current-experiences-will</guid>
+		<pubDate>Thu, 17 Jul 2008 07:46:23 -0700</pubDate>
+		<title>
+			<![CDATA[Laura add a quote by Bill Watterson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18802-i-hate-to-think-that-all-my-current-experiences-will]]>
+		</link>
+		<description>
+	    <![CDATA["I hate to think that all my current experiences will someday become stories with no point." -- Bill Watterson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/73735-i-d-rather-laugh-with-the-sinners-than-cry-with-the</guid>
+		<pubDate>Thu, 17 Jul 2008 07:46:57 -0700</pubDate>
+		<title>
+			<![CDATA[Laura add a quote by Billy Joel]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/73735-i-d-rather-laugh-with-the-sinners-than-cry-with-the]]>
+		</link>
+		<description>
+	    <![CDATA["I’d rather laugh with the sinners than cry with the saints, the sinners are much more fun." -- Billy Joel]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/73736-sometimes-life-will-get-you-down-break-your-heart-steal</guid>
+		<pubDate>Thu, 17 Jul 2008 07:47:28 -0700</pubDate>
+		<title>
+			<![CDATA[Laura add a quote by Tom Petty]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/73736-sometimes-life-will-get-you-down-break-your-heart-steal]]>
+		</link>
+		<description>
+	    <![CDATA["Sometimes life, will get you down, break your heart, steal your crown." -- Tom Petty]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1039781-andy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1039781-andy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 04 Apr 2008 19:04:06 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/41682-now-that-the-space-race-is-over-and-i-can-t</guid>
+		<pubDate>Fri, 04 Apr 2008 19:04:06 -0700</pubDate>
+		<title>
+			<![CDATA[Andy add a quote by Billy Bragg]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/41682-now-that-the-space-race-is-over-and-i-can-t]]>
+		</link>
+		<description>
+	    <![CDATA["Now that the space race is over and I can't help but feel that we have all grown up too soon." -- Billy Bragg]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1173-don-t-cry-because-it-s-over-smile-because-it-happened</guid>
+		<pubDate>Sun, 06 Apr 2008 09:42:46 -0700</pubDate>
+		<title>
+			<![CDATA[Andy add a quote by Dr. Seuss ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1173-don-t-cry-because-it-s-over-smile-because-it-happened]]>
+		</link>
+		<description>
+	    <![CDATA["Don't cry because it's over, smile because it happened." -- Dr. Seuss ]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

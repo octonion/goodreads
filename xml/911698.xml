@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/911698-erin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/911698-erin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 22 Feb 2008 14:00:36 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2197-it-costs-a-lot-of-money-to-look-this-cheap</guid>
+		<pubDate>Fri, 22 Feb 2008 14:00:36 -0800</pubDate>
+		<title>
+			<![CDATA[Erin add a quote by Dolly Parton]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2197-it-costs-a-lot-of-money-to-look-this-cheap]]>
+		</link>
+		<description>
+	    <![CDATA["It costs a lot of money to look this cheap" -- Dolly Parton]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5321-it-s-a-good-thing-i-was-born-a-girl-otherwise</guid>
+		<pubDate>Fri, 22 Feb 2008 14:00:39 -0800</pubDate>
+		<title>
+			<![CDATA[Erin add a quote by Dolly Parton]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5321-it-s-a-good-thing-i-was-born-a-girl-otherwise]]>
+		</link>
+		<description>
+	    <![CDATA["It's a good thing I was born a girl, otherwise I'd be a drag queen." -- Dolly Parton]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

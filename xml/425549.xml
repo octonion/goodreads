@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/425549-heidi]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/425549-heidi" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 08 Jul 2013 02:19:47 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/397181-to-study-the-buddha-way-is-to-study-the-self</guid>
+		<pubDate>Mon, 08 Jul 2013 02:19:47 -0700</pubDate>
+		<title>
+			<![CDATA[Heidi add a quote by Dogen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/397181-to-study-the-buddha-way-is-to-study-the-self]]>
+		</link>
+		<description>
+	    <![CDATA["To study the Buddha Way is to study the self. To study the self is to forget the self. To forget the self is to be actualized by myriad things. When actualized by myriad things, your body and mind as well as the bodies and minds of others drop away. No trace of enlightenment remains, and this no-trace continues endlessly." -- Dogen]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

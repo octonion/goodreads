@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/445495-darlene-wright]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/445495-darlene-wright" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 07 Nov 2012 17:31:35 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/36114-when-it-can-be-said-by-any-country-in-the</guid>
+		<pubDate>Wed, 07 Nov 2012 17:31:35 -0800</pubDate>
+		<title>
+			<![CDATA[Darlene add a quote by Thomas Paine]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/36114-when-it-can-be-said-by-any-country-in-the]]>
+		</link>
+		<description>
+	    <![CDATA["When it can be said by any country in the world, my poor are happy, neither ignorance nor distress is to be found among them, my jails are empty of prisoners, my streets of beggars, the aged are not in want, the taxes are not oppressive, the rational world is my friend because I am the friend of happiness. When these things can be said, then may that country boast its constitution and government. &lt;b&gt;Independence is my happiness, the world is my country and my religion is to do good&lt;/b&gt;." -- Thomas Paine]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

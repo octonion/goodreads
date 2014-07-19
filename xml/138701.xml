@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/138701-robin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/138701-robin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 11 May 2008 20:13:28 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/9766-in-the-shop-window-you-have-promptly-identified-the-cover</guid>
+		<pubDate>Sun, 11 May 2008 20:13:28 -0700</pubDate>
+		<title>
+			<![CDATA[robin add a quote by Italo Calvino]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9766-in-the-shop-window-you-have-promptly-identified-the-cover]]>
+		</link>
+		<description>
+	    <![CDATA["In the shop window you have promptly identified the cover with the title you were looking for. Following this visual trail, you have forced your way through the shop past the thick barricade of Books You Haven't Read, which are frowning at you from the tables and shelves, trying to cow you...And thus you pass the outer girdle of ramparts, but then you are attacked by the infantry of Books That If You Had More Than One Life You Would Certainly Also Read But Unfortunately Your Days Are Numbered. With a rapid maneuver you bypass them and move into the phalanxes of the Books You Mean To Read But There Are Others You Must Read First, the Books Too Expensive Now And You'll Wait Till They're Remaindered, the Books ditto When They Come Out in Paperback, Books You Can Borrow From Somebody, Books That Everybody's Read So It's As If You Had Read Them, Too. " -- Italo Calvino]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

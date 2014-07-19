@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/14074-diana]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/14074-diana" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 09 May 2012 13:31:00 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/92508-it-must-be-wonderful-to-be-seventeen-and-to-know</guid>
+		<pubDate>Wed, 09 May 2012 13:31:00 -0700</pubDate>
+		<title>
+			<![CDATA[Diana add a quote by Arthur C. Clarke]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/92508-it-must-be-wonderful-to-be-seventeen-and-to-know]]>
+		</link>
+		<description>
+	    <![CDATA["It must be wonderful to be seventeen, and to know everything." -- Arthur C. Clarke]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/569245-our-highest-endeavor-must-be-to-develop-free-human-beings</guid>
+		<pubDate>Wed, 09 Oct 2013 16:57:12 -0700</pubDate>
+		<title>
+			<![CDATA[Diana add a quote by Rudolf Steiner]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/569245-our-highest-endeavor-must-be-to-develop-free-human-beings]]>
+		</link>
+		<description>
+	    <![CDATA["Our highest endeavor must be to develop free human beings who are able of themselves to impart purpose and direction to their lives. The need for imagination, a sense of truth, and a feeling of responsibility—these three forces are the very nerve of education." -- Rudolf Steiner]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

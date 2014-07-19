@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/951518-erik-montanez]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/951518-erik-montanez" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 28 Feb 2008 12:14:11 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/29242-obstacles-don-t-have-to-stop-you-if-you-run-into</guid>
+		<pubDate>Thu, 28 Feb 2008 12:14:11 -0800</pubDate>
+		<title>
+			<![CDATA[Erik add a quote by Michael Jordan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/29242-obstacles-don-t-have-to-stop-you-if-you-run-into]]>
+		</link>
+		<description>
+	    <![CDATA["Obstacles don’t have to stop you. If you run into a wall, don’t turn around and give up. Figure out how to climb it, go through it, or work around it." -- Michael Jordan]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/29243-my-attitude-is-that-if-you-push-me-towards-something</guid>
+		<pubDate>Thu, 28 Feb 2008 12:15:02 -0800</pubDate>
+		<title>
+			<![CDATA[Erik add a quote by Michael Jordan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/29243-my-attitude-is-that-if-you-push-me-towards-something]]>
+		</link>
+		<description>
+	    <![CDATA["My attitude is that if you push me towards something that you think is a weakness, then I will turn that perceived weakness into a strength." -- Michael Jordan]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

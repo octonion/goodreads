@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/807826-deborah]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/807826-deborah" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 18 Feb 2008 15:02:33 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/26120-i-don-t-care-a-damn-about-men-who-are-loyal</guid>
+		<pubDate>Mon, 18 Feb 2008 15:02:33 -0800</pubDate>
+		<title>
+			<![CDATA[Deborah add a quote by Graham Greene]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/26120-i-don-t-care-a-damn-about-men-who-are-loyal]]>
+		</link>
+		<description>
+	    <![CDATA["I don't care a damn about men who are loyal to the people who pay them, to organizations...I don't think even my country means all that much.  There are many countries in our blood, aren't there, but only one person.  Would the world be in the mess it is if we were loyal to love and not to countries?" -- Graham Greene]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/26121-they-haven-t-left-us-much-to-believe-in-have-they---even</guid>
+		<pubDate>Mon, 18 Feb 2008 15:07:46 -0800</pubDate>
+		<title>
+			<![CDATA[Deborah add a quote by Graham Greene]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/26121-they-haven-t-left-us-much-to-believe-in-have-they---even]]>
+		</link>
+		<description>
+	    <![CDATA["They haven't left us much to believe in, have they?--even disbelief.  I can't believe in anything bigger than a home or vaguer than a human being." -- Graham Greene]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

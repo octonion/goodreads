@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/563844-heather]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/563844-heather" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 23 Jul 2011 20:37:43 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/377408-you-are-the-trip-i-did-not-take-you-are</guid>
+		<pubDate>Sat, 23 Jul 2011 20:37:43 -0700</pubDate>
+		<title>
+			<![CDATA[Heather add a quote by Anne Campbell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/377408-you-are-the-trip-i-did-not-take-you-are]]>
+		</link>
+		<description>
+	    <![CDATA["You are the trip I did not take, you are the pearls I could not buy,
+you are my blue Italian lake, you are my piece of foreign sky.
+
+You are my Honolulu moon, you are the book I did not write,
+you are my heart's unuttered tune, you are a candle in my night.
+
+You are the flower beneath the snow, in my dark sky a bit of blue,
+answering disappointment's blow with &quot;I am happy! I have you!" -- Anne Campbell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

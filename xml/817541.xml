@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/817541-s]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/817541-s" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 26 May 2014 19:35:17 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1224995-that-last-extraordinary-face-had-sent-a-throb-through-her</guid>
+		<pubDate>Mon, 26 May 2014 19:35:17 -0700</pubDate>
+		<title>
+			<![CDATA[S add a quote by Frances Hardinge]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1224995-that-last-extraordinary-face-had-sent-a-throb-through-her]]>
+		</link>
+		<description>
+	    <![CDATA["That last extraordinary Face had sent a throb through her very soul, like a breeze shivering the string of a harp, and she could not account for it." -- Frances Hardinge]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1225007-pull-on-a-thread-and-you-pull-on-the-whole</guid>
+		<pubDate>Mon, 26 May 2014 19:50:06 -0700</pubDate>
+		<title>
+			<![CDATA[S add a quote by Frances Hardinge]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1225007-pull-on-a-thread-and-you-pull-on-the-whole]]>
+		</link>
+		<description>
+	    <![CDATA["Pull on a thread, and you pull on the whole web. And then out come the spiders . . ." -- Frances Hardinge]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

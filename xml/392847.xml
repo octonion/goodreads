@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/392847-smarties]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/392847-smarties" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 13 Jan 2013 06:44:12 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/357274-i-am-a-flawed-person-a-brook-with-many-stones</guid>
+		<pubDate>Sun, 13 Jan 2013 06:44:12 -0800</pubDate>
+		<title>
+			<![CDATA[Smarties add a quote by C. JoyBell C.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/357274-i-am-a-flawed-person-a-brook-with-many-stones]]>
+		</link>
+		<description>
+	    <![CDATA["I am a flawed person. A brook with many stones, a clear blue sky with many blackbirds. I have many shortcomings. A rainbow that’s not long enough, a starry night with clouds. But I can only be thankful to the God who loves me just this way, and I can only be grateful to the people in my life who accept the clear blue sky with many blackbirds and who are patient with the rainbow that isn’t long enough. And because of this, I am taught love, because of this I love my God, and I love these people." -- C. JoyBell C.]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

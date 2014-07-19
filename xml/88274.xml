@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/88274-audrey]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/88274-audrey" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 07 May 2014 18:31:27 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/771700-you-ll-be-bothered-from-time-to-time-by-storms-fog</guid>
+		<pubDate>Wed, 07 May 2014 18:31:27 -0700</pubDate>
+		<title>
+			<![CDATA[Audrey add a quote by Antoine de Saint-Exupéry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/771700-you-ll-be-bothered-from-time-to-time-by-storms-fog]]>
+		</link>
+		<description>
+	    <![CDATA["You’ll be bothered from time to time by storms, fog, snow.  When you are, think to yourself, ‘What they could do, I can do." -- Antoine de Saint-Exupéry]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/365914-when-i-opened-my-eyes-i-saw-nothing-but-the</guid>
+		<pubDate>Wed, 07 May 2014 18:32:35 -0700</pubDate>
+		<title>
+			<![CDATA[Audrey add a quote by Antoine de Saint-Exupéry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/365914-when-i-opened-my-eyes-i-saw-nothing-but-the]]>
+		</link>
+		<description>
+	    <![CDATA["When I opened my eyes I saw nothing but the pool of nocturnal sky, for I was lying on my back with out-stretched arms, face to face with that hatchery of stars. Only half awake, still unaware that those depths were sky, having no roof between those depths and me, no branches to screen them, no root to cling to, I was seized with vertigo and felt myself as if flung forth and plunging downward like a diver." -- Antoine de Saint-Exupéry]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6273-don-t-ask-what-the-world-needs-ask-what-makes-you</guid>
+		<pubDate>Wed, 14 May 2014 20:13:46 -0700</pubDate>
+		<title>
+			<![CDATA[Audrey add a quote by Howard Thurman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6273-don-t-ask-what-the-world-needs-ask-what-makes-you]]>
+		</link>
+		<description>
+	    <![CDATA["Don’t ask what the world needs. Ask what makes you come alive, and go do it. Because what the world needs is people who have come alive." -- Howard Thurman]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

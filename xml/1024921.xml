@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1024921-angie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1024921-angie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 07 Jul 2012 17:39:15 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/14862-i-cannot-make-speeches-emma-if-i-loved-you-less-i</guid>
+		<pubDate>Sat, 07 Jul 2012 17:39:15 -0700</pubDate>
+		<title>
+			<![CDATA[Angie add a quote by Jane Austen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14862-i-cannot-make-speeches-emma-if-i-loved-you-less-i]]>
+		</link>
+		<description>
+	    <![CDATA["I cannot make speeches, Emma...If I loved you less, I might be able to talk about it more.  But you know what I am.  You hear nothing but truth from me.  I have blamed you, and lectured you, and you have borne it as no other woman in England would have borne it." -- Jane Austen]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

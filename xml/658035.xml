@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/658035-alissa]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/658035-alissa" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 22 Dec 2007 10:21:13 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/7046-in-the-long-run-we-shape-our-lives-and-we</guid>
+		<pubDate>Sat, 22 Dec 2007 10:21:13 -0800</pubDate>
+		<title>
+			<![CDATA[Alissa add a quote by Eleanor Roosevelt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7046-in-the-long-run-we-shape-our-lives-and-we]]>
+		</link>
+		<description>
+	    <![CDATA["In the long run, we shape our lives, and we shape ourselves. The process never ends until we die. And the choices we make are ultimately our own responsibility." -- Eleanor Roosevelt]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/7052-a-man-who-won-t-die-for-something-is-not-fit</guid>
+		<pubDate>Sat, 22 Dec 2007 10:33:16 -0800</pubDate>
+		<title>
+			<![CDATA[Alissa add a quote by Martin Luther King Jr.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7052-a-man-who-won-t-die-for-something-is-not-fit]]>
+		</link>
+		<description>
+	    <![CDATA["A man who won't die for something is not fit to live." -- Martin Luther King Jr.]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/943-darkness-cannot-drive-out-darkness-only-light-can-do-that</guid>
+		<pubDate>Sat, 22 Dec 2007 10:34:12 -0800</pubDate>
+		<title>
+			<![CDATA[Alissa add a quote by Martin Luther King Jr.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/943-darkness-cannot-drive-out-darkness-only-light-can-do-that]]>
+		</link>
+		<description>
+	    <![CDATA["Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that." -- Martin Luther King Jr.]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

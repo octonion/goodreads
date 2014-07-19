@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/899800-aaron]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/899800-aaron" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 13 Feb 2008 20:54:13 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/12988-for-ever-and-ever-we-say-when-we-are-young</guid>
+		<pubDate>Wed, 13 Feb 2008 20:54:13 -0800</pubDate>
+		<title>
+			<![CDATA[Aaron add a quote by Susan Cooper]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12988-for-ever-and-ever-we-say-when-we-are-young]]>
+		</link>
+		<description>
+	    <![CDATA["For ever and ever, we say when we are young, or in our prayers. Twice, we say it. Old One, do we not? For ever and ever ... so that a thing may be for ever, a life or a love or a quest, and yet begin again, and be for ever just as before. And any ending that may seem to come is not truly an ending, but an illusion. For Time does not die, Time has neither beginning nor end, and so nothing can end or die that has once had a place in Time." -- Susan Cooper]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

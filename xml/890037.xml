@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/890037-joan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/890037-joan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 26 Oct 2012 07:21:06 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/210114-listen-slide-the-weight-from-your-shoulders-and-move-forward</guid>
+		<pubDate>Fri, 26 Oct 2012 07:21:06 -0700</pubDate>
+		<title>
+			<![CDATA[Joan add a quote by Barbara Kingsolver]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/210114-listen-slide-the-weight-from-your-shoulders-and-move-forward]]>
+		</link>
+		<description>
+	    <![CDATA["Listen. Slide the weight from your shoulders and move forward. You are afraid you might forget, but you never will. You will forgive and remember." -- Barbara Kingsolver]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/115631-a-first-child-is-your-own-best-foot-forward-and</guid>
+		<pubDate>Fri, 26 Oct 2012 07:22:05 -0700</pubDate>
+		<title>
+			<![CDATA[Joan add a quote by Barbara Kingsolver]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/115631-a-first-child-is-your-own-best-foot-forward-and]]>
+		</link>
+		<description>
+	    <![CDATA["A first child is your own best foot forward, and how you do cheer those little feet as they strike out. You examine every turn of flesh for precocity, and crow it to the world. But the last one: the baby who trails her scent like a flag of surrender through your life when there will be no more coming after--oh, that' s love by a different name." -- Barbara Kingsolver]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

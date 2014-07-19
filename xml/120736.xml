@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/120736-laura]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/120736-laura" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 04 Jan 2014 16:22:20 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/70510-my-kids-are-starting-to-notice-i-m-a-little-different</guid>
+		<pubDate>Sat, 04 Jan 2014 16:22:20 -0800</pubDate>
+		<title>
+			<![CDATA[Laura add a quote by Tom Waits]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/70510-my-kids-are-starting-to-notice-i-m-a-little-different]]>
+		</link>
+		<description>
+	    <![CDATA["My kids are starting to notice I'm a little different from the other dads. &quot;Why don't you have a straight job like everyone else?&quot; they asked me the other day. 
+
+I told them this story: 
+In the forest, there was a crooked tree and a straight tree. Every day, the straight tree would say to the crooked tree, &quot;Look at me...I'm tall, and I'm straight, and I'm handsome. Look at you...you're all crooked and bent over. No one wants to look at you.&quot; And they grew up in that forest together. And then one day the loggers came, and they saw the crooked tree and the straight tree, and they said, &quot;Just cut the straight trees and leave the rest.&quot; So the loggers turned all the straight trees into lumber and toothpicks and paper. And the crooked tree is still there, growing stronger and stranger every day." -- Tom Waits]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/198408-joey]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/198408-joey" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 19 Jan 2009 07:43:05 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/30038-go-placidly-amid-the-noise-and-the-haste-and-remember</guid>
+		<pubDate>Mon, 19 Jan 2009 07:43:05 -0800</pubDate>
+		<title>
+			<![CDATA[Joey add a quote by Max Ehrmann]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/30038-go-placidly-amid-the-noise-and-the-haste-and-remember]]>
+		</link>
+		<description>
+	    <![CDATA["Go placidly amid the noise and the haste, and remember what peace there may be in silence. As far as possible without surrender, be on good terms with all persons. Speak your truth quietly and clearly, and listen to others, even the dull and ignorant; they too have their story. Be yourself. Especially do not feign affection. Neither be cynical about love – for in the face of all aridity and disenchantment is it perennial as the grass. Take kindly the counsel of the years, gracefully surrendering the things of youth. Nurture strength of spirit to shield you from misfortune. But do not distress yourself with imaginings. Many fears are born of fatigue and loneliness. Beyond a wholesome discipline, be gentle with yourself. You are a child of the universe no less than the trees and the stars; you have a right to be here. And whether or not it is clear to you, no doubt the universe is unfolding as it should. Therefore be at peace with God, whatever you conceive Him to be, and whatever your labours and aspirations, in the noisy confusion of life keep peace with your soul. With all its sham, drudgery and broken dreams, it is still a beautiful world." -- Max Ehrmann]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

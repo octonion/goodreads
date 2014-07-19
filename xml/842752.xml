@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/842752-jan-lamm]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/842752-jan-lamm" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 28 Jan 2008 04:51:07 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/18413-there-was-never-a-bad-peace-or-a-good-war</guid>
+		<pubDate>Mon, 28 Jan 2008 04:51:07 -0800</pubDate>
+		<title>
+			<![CDATA[Jan add a quote by Ben Franklin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18413-there-was-never-a-bad-peace-or-a-good-war]]>
+		</link>
+		<description>
+	    <![CDATA["There was never a bad peace or a good war." -- Ben Franklin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/18415-when-you-are-finished-changing-you-re-finished</guid>
+		<pubDate>Mon, 28 Jan 2008 04:54:03 -0800</pubDate>
+		<title>
+			<![CDATA[Jan add a quote by Benjamin Franklin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18415-when-you-are-finished-changing-you-re-finished]]>
+		</link>
+		<description>
+	    <![CDATA["When you are finished changing, you're finished." -- Benjamin Franklin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/62266-what-can-you-do-to-promote-world-peace-go-home</guid>
+		<pubDate>Mon, 28 Jan 2008 04:59:15 -0800</pubDate>
+		<title>
+			<![CDATA[Jan add a quote by Mother Teresa]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/62266-what-can-you-do-to-promote-world-peace-go-home]]>
+		</link>
+		<description>
+	    <![CDATA["What can you do to promote world peace? Go home and love your family." -- Mother Teresa]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

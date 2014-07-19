@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/799410-kevin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/799410-kevin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 13 Feb 2014 07:55:16 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4662-a-vote-is-like-a-rifle-its-usefulness-depends-upon</guid>
+		<pubDate>Thu, 13 Feb 2014 07:55:16 -0800</pubDate>
+		<title>
+			<![CDATA[Kevin add a quote by Theodore Roosevelt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4662-a-vote-is-like-a-rifle-its-usefulness-depends-upon]]>
+		</link>
+		<description>
+	    <![CDATA["A vote is like a rifle: its usefulness depends upon the character of the user." -- Theodore Roosevelt]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1200131-6then-he-said-to-me-this-is-the-word-of</guid>
+		<pubDate>Tue, 06 May 2014 02:59:28 -0700</pubDate>
+		<title>
+			<![CDATA[Kevin add a quote by Anonymous]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1200131-6then-he-said-to-me-this-is-the-word-of]]>
+		</link>
+		<description>
+	    <![CDATA["6Then he said to me, “This is the word of the LORD to  l Zerubbabel:  m Not by might, nor by power, but by my Spirit, says the LORD of hosts." -- Anonymous]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

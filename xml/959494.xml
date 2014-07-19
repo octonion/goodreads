@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/959494-chelsea]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/959494-chelsea" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 13 Sep 2008 22:20:28 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/22155-i-like-your-christ-i-do-not-like-your-christians</guid>
+		<pubDate>Sat, 13 Sep 2008 22:20:28 -0700</pubDate>
+		<title>
+			<![CDATA[Chelsea add a quote by Mahatma Gandhi ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22155-i-like-your-christ-i-do-not-like-your-christians]]>
+		</link>
+		<description>
+	    <![CDATA["I like your Christ, I do not like your Christians. Your Christians are so unlike your Christ." -- Mahatma Gandhi ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/36308-a-dysfunctional-family-is-any-family-with-more-than-one</guid>
+		<pubDate>Thu, 06 Aug 2009 11:49:20 -0700</pubDate>
+		<title>
+			<![CDATA[Chelsea add a quote by Mary Karr]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/36308-a-dysfunctional-family-is-any-family-with-more-than-one]]>
+		</link>
+		<description>
+	    <![CDATA["A dysfunctional family is any family with more than one person in it." -- Mary Karr]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/133424-if-you-don-t-stick-to-your-values-when-they-re-being</guid>
+		<pubDate>Thu, 06 Aug 2009 11:55:59 -0700</pubDate>
+		<title>
+			<![CDATA[Chelsea add a quote by Jon Stewart]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/133424-if-you-don-t-stick-to-your-values-when-they-re-being]]>
+		</link>
+		<description>
+	    <![CDATA["If you don't stick to your values when they're being tested, they're not values: they're hobbies." -- Jon Stewart]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

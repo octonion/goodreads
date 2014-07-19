@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/960175-shelley]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/960175-shelley" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 06 May 2012 21:13:25 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/80736-the-best-stories-don-t-come-from-good-vs-bad-but</guid>
+		<pubDate>Sun, 06 May 2012 21:13:25 -0700</pubDate>
+		<title>
+			<![CDATA[Shelley add a quote by Leo Tolstoy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/80736-the-best-stories-don-t-come-from-good-vs-bad-but]]>
+		</link>
+		<description>
+	    <![CDATA["The best stories don't come from &quot;good vs. bad&quot; but &quot;good vs. good." -- Leo Tolstoy]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/475886-i-wanted-to-tell-her-that-if-only-something-were</guid>
+		<pubDate>Sat, 15 Dec 2012 04:57:03 -0800</pubDate>
+		<title>
+			<![CDATA[Shelley add a quote by Sylvia Plath]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/475886-i-wanted-to-tell-her-that-if-only-something-were]]>
+		</link>
+		<description>
+	    <![CDATA["I wanted to tell her that if only something were wrong with my body it would be fine, I would rather have anything wrong with my body than something wrong with my head, but the idea seemed so involved and wearisome that I didn’t say anything. I only burrowed down further in the bed." -- Sylvia Plath]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/28276-life-will-give-you-whatever-experience-is-most-helpful-for</guid>
+		<pubDate>Thu, 21 Feb 2013 18:01:53 -0800</pubDate>
+		<title>
+			<![CDATA[Shelley add a quote by Eckhart Tolle]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/28276-life-will-give-you-whatever-experience-is-most-helpful-for]]>
+		</link>
+		<description>
+	    <![CDATA["Life will give you whatever experience is most helpful for the evolution of your consciousness. How do you know this is the experience you need? Because this is the experience you are having at the moment." -- Eckhart Tolle]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/775344-deanna]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/775344-deanna" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 17 Mar 2008 12:29:53 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/35609-dare-to-change-the-world-there-is-nothing-quixotic-or</guid>
+		<pubDate>Mon, 17 Mar 2008 12:29:53 -0700</pubDate>
+		<title>
+			<![CDATA[Deanna add a quote by Gioconda Belli]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/35609-dare-to-change-the-world-there-is-nothing-quixotic-or]]>
+		</link>
+		<description>
+	    <![CDATA["Dare to change the world
+
+There is nothing quixotic or romantic in wanting to change the world. It is possible. It is the age-old vocation of all humanity. I can't think of a better life than one dedicated to passion, to dreams, to the stubborness that defies chaos and disillusionment." -- Gioconda Belli]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

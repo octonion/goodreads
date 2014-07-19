@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/436946-laura]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/436946-laura" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 17 Jul 2013 20:56:42 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/65011-i-remember-when-i-saw-peter-pan-when-i-was</guid>
+		<pubDate>Wed, 17 Jul 2013 20:56:42 -0700</pubDate>
+		<title>
+			<![CDATA[Laura add a quote by J.T. LeRoy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/65011-i-remember-when-i-saw-peter-pan-when-i-was]]>
+		</link>
+		<description>
+	    <![CDATA["I remember when I saw Peter Pan when I was little. After all the other kids wanted to reenact the battles of the lost boys, pirates, and Indians, and all I could think about was the part where Peter Pan sits still while Wendy takes a sharp needle and, with concern and maybe love, sews his shadow onto his feet. And I wonder if the pain excited him as much as it excited me to watch. I hang here, the voices still bleeding in my ears. I watch my shadow, solid like a murdered body's outline, and I pray. Maybe one more slice, just one more, will sever it forever." -- J.T. LeRoy]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

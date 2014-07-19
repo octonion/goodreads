@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/863345-daniel]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/863345-daniel" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 14 Jun 2012 06:23:59 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/182841-why-am-i-compelled-to-write-because-the-world-i</guid>
+		<pubDate>Thu, 14 Jun 2012 06:23:59 -0700</pubDate>
+		<title>
+			<![CDATA[Daniel add a quote by Gloria Anzaldúa]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/182841-why-am-i-compelled-to-write-because-the-world-i]]>
+		</link>
+		<description>
+	    <![CDATA["Why am I compelled to write?... Because the world I create in the writing compensates for what the real world does not give me. By writing I put order in the world, give it a handle so I can grasp it. I write because life does not appease my appetites and anger... To become more intimate with myself and you. To discover myself, to preserve myself, to make myself, to achieve self-autonomy. To dispell the myths that I am a mad prophet or a poor suffering soul. To convince myself that I am worthy and that what I have to say is not a pile of shit... Finally I write because I'm scared of writing, but I'm more scared of not writing." -- Gloria Anzaldúa]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

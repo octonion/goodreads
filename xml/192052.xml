@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/192052-chris]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/192052-chris" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 21 Apr 2013 10:58:50 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/367952-the-less-you-eat-drink-and-read-books-the-less</guid>
+		<pubDate>Sun, 21 Apr 2013 10:58:50 -0700</pubDate>
+		<title>
+			<![CDATA[Chris add a quote by Karl Marx and Friedrich Engels]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/367952-the-less-you-eat-drink-and-read-books-the-less]]>
+		</link>
+		<description>
+	    <![CDATA["The less you eat, drink and read books; the less you go to the theatre, the dance hall, the public house; the less you think, love, theorize, sing, paint, fence, etc., the more you save-the greater becomes your treasure which neither moths nor dust will devour-your capital. The less you are, the more you have; the less you express your own life, the greater is your alienated life-the greater is the store of your estranged being." -- Karl Marx and Friedrich Engels]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/354835-meredith]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/354835-meredith" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 18 Sep 2008 05:14:37 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5030-we-don-t-see-things-as-they-are-we-see-them</guid>
+		<pubDate>Thu, 18 Sep 2008 05:14:37 -0700</pubDate>
+		<title>
+			<![CDATA[Meredith add a quote by Anaïs Nin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5030-we-don-t-see-things-as-they-are-we-see-them]]>
+		</link>
+		<description>
+	    <![CDATA["We don't see things as they are, we see them as we are." -- Anaïs Nin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/623-everyone-has-talent-what-s-rare-is-the-courage-to-follow</guid>
+		<pubDate>Thu, 18 Sep 2008 05:18:03 -0700</pubDate>
+		<title>
+			<![CDATA[Meredith add a quote by Erica Jong]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/623-everyone-has-talent-what-s-rare-is-the-courage-to-follow]]>
+		</link>
+		<description>
+	    <![CDATA["Everyone has talent. What's rare is the courage to follow it to the dark places where it leads." -- Erica Jong]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

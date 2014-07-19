@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/177632-rochelle]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/177632-rochelle" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 16 Feb 2014 15:31:10 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/994760-img-src-http-mycutechristmas-com-myspace-graphics-images-animations-prod-637-31829-gif-width-20</guid>
+		<pubDate>Sun, 16 Feb 2014 15:31:10 -0800</pubDate>
+		<title>
+			<![CDATA[Rochelle add a quote by Mary Oliver]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/994760-img-src-http-mycutechristmas-com-myspace-graphics-images-animations-prod-637-31829-gif-width-20]]>
+		</link>
+		<description>
+	    <![CDATA["&lt;img src=&quot;http://mycutechristmas.com/myspace-graphics/images/Animations/prod_637_31829.gif&quot; width=200px /&gt;
+
+&quot;Snow was falling,
+         so much like stars
+         filling the dark trees
+        that one could easily imagine
+        its reason for being was nothing more
+       than prettiness." -- Mary Oliver]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

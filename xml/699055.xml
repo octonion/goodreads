@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/699055-amanda]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/699055-amanda" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 29 Dec 2013 14:05:41 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/971676-if-it-s-true-that-the-spirit-of-god-dwells-in</guid>
+		<pubDate>Sun, 29 Dec 2013 14:05:41 -0800</pubDate>
+		<title>
+			<![CDATA[Amanda add a quote by Francis Chan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/971676-if-it-s-true-that-the-spirit-of-god-dwells-in]]>
+		</link>
+		<description>
+	    <![CDATA["If it’s true that the Spirit of God dwells in us and that our bodies are the Holy Spirit’s temple, then shouldn’t there be a huge difference between the person who has the Spirit of God living inside of him or her and the person who does not?" -- Francis Chan]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

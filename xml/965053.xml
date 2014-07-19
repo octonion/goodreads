@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/965053-mark]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/965053-mark" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 14 Mar 2008 07:04:47 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/17177-those-who-believe-in-telekinetics-raise-my-hand</guid>
+		<pubDate>Fri, 14 Mar 2008 07:04:47 -0700</pubDate>
+		<title>
+			<![CDATA[Mark add a quote by Kurt Vonnegut]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17177-those-who-believe-in-telekinetics-raise-my-hand]]>
+		</link>
+		<description>
+	    <![CDATA["Those who believe in telekinetics, raise my hand." -- Kurt Vonnegut]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2308-one-of-the-few-good-things-about-modern-times-if</guid>
+		<pubDate>Fri, 14 Mar 2008 07:06:33 -0700</pubDate>
+		<title>
+			<![CDATA[Mark add a quote by Kurt Vonnegut]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2308-one-of-the-few-good-things-about-modern-times-if]]>
+		</link>
+		<description>
+	    <![CDATA["One of the few good things about modern times: If you die horribly on television, you will not have died in vain. You will have entertained us." -- Kurt Vonnegut]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/34585-to-the-heavens-on-the-wings-of-a-pig</guid>
+		<pubDate>Fri, 14 Mar 2008 07:09:24 -0700</pubDate>
+		<title>
+			<![CDATA[Mark add a quote by John Steinbeck]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/34585-to-the-heavens-on-the-wings-of-a-pig]]>
+		</link>
+		<description>
+	    <![CDATA["To the heavens on the wings of a pig." -- John Steinbeck]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/195944-tim]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/195944-tim" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 30 Mar 2011 13:06:18 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/346903-is-she-special-asks-the-gay-waiter-i-thinks-she-s</guid>
+		<pubDate>Wed, 30 Mar 2011 13:06:18 -0700</pubDate>
+		<title>
+			<![CDATA[Tim add a quote by Christopher Moore]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/346903-is-she-special-asks-the-gay-waiter-i-thinks-she-s]]>
+		</link>
+		<description>
+	    <![CDATA["Is she special? (asks the gay waiter)&quot; I thinks she's going to break my heart&quot; On arrival of the girl&quot; The flannel is fine honey,but I have'nt seen anyone that over accesorized since batman!" -- Christopher Moore]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/28219-early-bird-oh-if-you-re-a-bird-be-an-early</guid>
+		<pubDate>Wed, 07 Dec 2011 17:57:37 -0800</pubDate>
+		<title>
+			<![CDATA[Tim add a quote by Shel Silverstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/28219-early-bird-oh-if-you-re-a-bird-be-an-early]]>
+		</link>
+		<description>
+	    <![CDATA["Early bird
+Oh, if you’re a bird, be an early bird
+And catch the worm for your breakfast plate.
+If you’re a bird, be an early bird—
+But if you’re a worm, sleep late." -- Shel Silverstein]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

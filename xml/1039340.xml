@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1039340-jon-mcdonald]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1039340-jon-mcdonald" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 22 Jul 2013 06:23:14 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/47149-a-true-war-story-is-never-moral-it-does-not</guid>
+		<pubDate>Mon, 22 Jul 2013 06:23:14 -0700</pubDate>
+		<title>
+			<![CDATA[Jon add a quote by Tim O'Brien]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/47149-a-true-war-story-is-never-moral-it-does-not]]>
+		</link>
+		<description>
+	    <![CDATA["A true war story is never moral. It does not instruct, nor encourage virtue, nor suggest models of proper human behavior, nor restrain men from doing the things men have always done. If a story seems moral, do not believe it. If at the end of a war story you feel uplifted, or if you feel that some small bit of rectitude has been salvaged from the larger waste, then you have been made the victim of a very old and terrible lie. There is no rectitude whatsoever. There is no virtue. As a first rule of thumb, therefore, you can tell a true war story by its absolute and uncompromising allegiance to obscenity and evil. " -- Tim O'Brien]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

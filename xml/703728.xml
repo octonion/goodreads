@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/703728-neill-pert]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/703728-neill-pert" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 29 May 2008 16:37:11 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/811-for-instance-on-the-planet-earth-man-had-always-assumed</guid>
+		<pubDate>Thu, 29 May 2008 16:37:11 -0700</pubDate>
+		<title>
+			<![CDATA[Neill add a quote by Douglas Adams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/811-for-instance-on-the-planet-earth-man-had-always-assumed]]>
+		</link>
+		<description>
+	    <![CDATA["For instance, on the planet Earth, man had always assumed that he was more intelligent than dolphins because he had achieved so much&amp;mdash;the wheel, New York, wars and so on&amp;mdash;whilst all the dolphins had ever done was muck about in the water having a good time. But conversely, the dolphins had always believed that they were far more intelligent than man&amp;mdash;for precisely the same reasons." -- Douglas Adams]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3278-i-may-not-have-gone-where-i-intended-to-go</guid>
+		<pubDate>Thu, 29 May 2008 16:37:18 -0700</pubDate>
+		<title>
+			<![CDATA[Neill add a quote by douglas adams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3278-i-may-not-have-gone-where-i-intended-to-go]]>
+		</link>
+		<description>
+	    <![CDATA["I may not have gone where I intended to go, but I think I have ended up where I needed to be." -- douglas adams]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

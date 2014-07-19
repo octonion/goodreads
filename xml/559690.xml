@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/559690-noina]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/559690-noina" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 04 Apr 2013 11:28:33 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/7141-if-you-don-t-know-where-you-re-going-any-road-ll-take</guid>
+		<pubDate>Thu, 04 Apr 2013 11:28:33 -0700</pubDate>
+		<title>
+			<![CDATA[Noina add a quote by George Harrison]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7141-if-you-don-t-know-where-you-re-going-any-road-ll-take]]>
+		</link>
+		<description>
+	    <![CDATA["If you don't know where you're going, any road'll take you there" -- George Harrison]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5785-the-fear-of-death-follows-from-the-fear-of-life</guid>
+		<pubDate>Thu, 04 Apr 2013 11:29:58 -0700</pubDate>
+		<title>
+			<![CDATA[Noina add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5785-the-fear-of-death-follows-from-the-fear-of-life]]>
+		</link>
+		<description>
+	    <![CDATA["The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time." -- Mark Twain]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

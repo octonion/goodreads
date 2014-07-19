@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/376146-ann-chao]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/376146-ann-chao" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 07 Mar 2013 09:03:34 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6691-if-i-should-ever-die-god-forbid-let-this-be</guid>
+		<pubDate>Thu, 07 Mar 2013 09:03:34 -0800</pubDate>
+		<title>
+			<![CDATA[Ann add a quote by kurt vonnegut]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6691-if-i-should-ever-die-god-forbid-let-this-be]]>
+		</link>
+		<description>
+	    <![CDATA["If I should ever die, God forbid, let this be my epitaph:
+THE ONLY PROOF HE NEEDED
+FOR THE EXISTENCE OF GOD
+WAS MUSIC" -- kurt vonnegut]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5601-when-i-write-i-feel-like-an-armless-legless-man</guid>
+		<pubDate>Thu, 07 Mar 2013 09:04:27 -0800</pubDate>
+		<title>
+			<![CDATA[Ann add a quote by Kurt Vonnegut]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5601-when-i-write-i-feel-like-an-armless-legless-man]]>
+		</link>
+		<description>
+	    <![CDATA["When I write, I feel like an armless, legless man with a crayon in his mouth." -- Kurt Vonnegut]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

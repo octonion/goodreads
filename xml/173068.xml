@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/173068-mary]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/173068-mary" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 15 Sep 2012 11:22:56 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/221968-you-re-in-a-car-with-a-beautiful-boy-and-he</guid>
+		<pubDate>Sat, 15 Sep 2012 11:22:56 -0700</pubDate>
+		<title>
+			<![CDATA[Mary add a quote by richard siken]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/221968-you-re-in-a-car-with-a-beautiful-boy-and-he]]>
+		</link>
+		<description>
+	    <![CDATA["You’re in a car with a beautiful boy, and he won’t tell you that he loves you, but he loves you. And you feel like you’ve done something terrible, like robbed a liquor store, or swallowed pills, or shoveled yourself a grave in the dirt, and you’re tired. You’re in a car with a beautiful boy, and you’re trying not to tell him that you love him, and you’re trying to choke down the feeling, and you’re trembling, but he reaches over and he touches you, like a prayer for which no words exist, and you feel your heart taking root in your body, like you’ve discovered something you didn’t even have a name for." -- richard siken]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/836633-vicki-loves-libraries]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/836633-vicki-loves-libraries" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 14 May 2012 21:26:12 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/280425-you-have-to-look-at-what-you-have-right-in</guid>
+		<pubDate>Mon, 14 May 2012 21:26:12 -0700</pubDate>
+		<title>
+			<![CDATA[Vicki_Loves_Libraries add a quote by Jonathan Tropper]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/280425-you-have-to-look-at-what-you-have-right-in]]>
+		</link>
+		<description>
+	    <![CDATA["You have to look at what you have right in front of you, at what it could be, and stop measuring it against what you've lost. I know this to be wise and true, just as I know that pretty much no one can do it." -- Jonathan Tropper]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

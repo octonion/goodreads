@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/272637-diana-kenney]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/272637-diana-kenney" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 18 Dec 2011 21:03:04 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/208317-wonder-is-the-heaviest-element-on-the-periodic-table-even</guid>
+		<pubDate>Sun, 18 Dec 2011 21:03:04 -0800</pubDate>
+		<title>
+			<![CDATA[Diana add a quote by Diane Ackerman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/208317-wonder-is-the-heaviest-element-on-the-periodic-table-even]]>
+		</link>
+		<description>
+	    <![CDATA["Wonder is the heaviest element on the periodic table. Even a tiny fleck of it stops time." -- Diane Ackerman]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/29046-there-was-nothing-to-do-but-wait-it-is-always</guid>
+		<pubDate>Sun, 18 Dec 2011 21:04:26 -0800</pubDate>
+		<title>
+			<![CDATA[Diana add a quote by Diane Ackerman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/29046-there-was-nothing-to-do-but-wait-it-is-always]]>
+		</link>
+		<description>
+	    <![CDATA["There was nothing to do but wait. It is always like this for naturalists, and for poets--the long hours of travel and preparation, and then the longer hours of waiting. All for that one electric, pulse-revving vision when the universe suddenly declares itself." -- Diane Ackerman]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

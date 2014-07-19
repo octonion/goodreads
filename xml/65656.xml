@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/65656-danae]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/65656-danae" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 03 Jun 2010 08:54:51 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/74459-my-doctrine-is-this-that-if-we-see-cruelty-or</guid>
+		<pubDate>Thu, 03 Jun 2010 08:54:51 -0700</pubDate>
+		<title>
+			<![CDATA[Danae add a quote by Anna Sewell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/74459-my-doctrine-is-this-that-if-we-see-cruelty-or]]>
+		</link>
+		<description>
+	    <![CDATA["My doctrine is this, that if we see 
+cruelty or wrong that we have the 
+power to stop, and do nothing, we 
+make ourselves sharers in the guilt." -- Anna Sewell]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/74458-there-is-no-religion-without-love-and-people-may-talk</guid>
+		<pubDate>Thu, 03 Jun 2010 08:55:22 -0700</pubDate>
+		<title>
+			<![CDATA[Danae add a quote by Anna Sewell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/74458-there-is-no-religion-without-love-and-people-may-talk]]>
+		</link>
+		<description>
+	    <![CDATA["There is no religion without love, 
+and people may talk as much as 
+they like about their religion, but 
+if it does not teach them to be good 
+and kind to man and beast, 
+it is all a sham." -- Anna Sewell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

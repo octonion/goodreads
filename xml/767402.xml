@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/767402-carol-c]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/767402-carol-c" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 26 Sep 2008 18:39:32 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/101242-normal-day-let-me-be-aware-of-the-treasure-you</guid>
+		<pubDate>Fri, 26 Sep 2008 18:39:32 -0700</pubDate>
+		<title>
+			<![CDATA[Carol add a quote by Mary Jean Irion]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/101242-normal-day-let-me-be-aware-of-the-treasure-you]]>
+		</link>
+		<description>
+	    <![CDATA["Normal day, let me be aware of the treasure you are. Let me learn from you, love you, bless you before you depart. Let me not pass you by in quest of some rare and perfect tomorrow. Let me hold you while I may, for it may not always be so. One day I shall dig my nails into the earth, or bury my face in the pillow, or stretch myself taut, or raise my hands to the sky and want, more than all the world, your return." -- Mary Jean Irion]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/885754-nate-cooley]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/885754-nate-cooley" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 07 Feb 2008 12:58:28 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/207237-a-government-big-enough-to-give-you-everything-you-want</guid>
+		<pubDate>Thu, 07 Feb 2008 12:58:28 -0800</pubDate>
+		<title>
+			<![CDATA[Nate add a quote by Barry Goldwater ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/207237-a-government-big-enough-to-give-you-everything-you-want]]>
+		</link>
+		<description>
+	    <![CDATA["A government big enough to give you everything you want is big enough to take everything you have." -- Barry Goldwater ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/22753-merely-because-i-was-black-it-seemed-i-was-supposed</guid>
+		<pubDate>Thu, 07 Feb 2008 23:02:42 -0800</pubDate>
+		<title>
+			<![CDATA[Nate add a quote by Clarence Thomas]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22753-merely-because-i-was-black-it-seemed-i-was-supposed]]>
+		</link>
+		<description>
+	    <![CDATA["Merely because I was black, it seemed, I was supposed to listen to Hugh Maskela instead of Carole King, just as I was expected to be a radical, not a conservative. I no longer cared to play that game ... The black people I knew came from different places and backgrounds - social, economic, even ethnic - yet the color of our skin was somehow supposed to make us identical in spite of our differences. I didn't buy it. Of course we had all experienced racism in one way or another, but that did not mean we had to think alike" -- Clarence Thomas]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

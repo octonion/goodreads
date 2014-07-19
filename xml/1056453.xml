@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1056453-natalie-sanchez]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1056453-natalie-sanchez" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 06 May 2008 13:48:58 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/51796-we-are-all-born-for-love-it-is-the-principle</guid>
+		<pubDate>Tue, 06 May 2008 13:48:58 -0700</pubDate>
+		<title>
+			<![CDATA[Natalie add a quote by Henry Finck]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/51796-we-are-all-born-for-love-it-is-the-principle]]>
+		</link>
+		<description>
+	    <![CDATA["we are all born for love; it is the principle of existence and it's only end!" -- Henry Finck]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/51797-what-is-uttered-from-the-heart-alone-will-win-the</guid>
+		<pubDate>Tue, 06 May 2008 13:49:54 -0700</pubDate>
+		<title>
+			<![CDATA[Natalie add a quote by Johann Wolfgang von Goethe]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/51797-what-is-uttered-from-the-heart-alone-will-win-the]]>
+		</link>
+		<description>
+	    <![CDATA["What is uttered from the heart alone will win the heart of others to your own." -- Johann Wolfgang von Goethe]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/909411-linda-ransom]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/909411-linda-ransom" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 14 May 2013 07:34:55 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/326023-children-need-boundaries-so-they-can-know-how-far-they</guid>
+		<pubDate>Tue, 14 May 2013 07:34:55 -0700</pubDate>
+		<title>
+			<![CDATA[Linda add a quote by Katharine Hepburn]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/326023-children-need-boundaries-so-they-can-know-how-far-they]]>
+		</link>
+		<description>
+	    <![CDATA["Children need boundaries, so they can know how far they have to go to get beyond them." -- Katharine Hepburn]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/43030-fools-rush-in-where-angels-fear-to-tread</guid>
+		<pubDate>Tue, 21 May 2013 06:46:49 -0700</pubDate>
+		<title>
+			<![CDATA[Linda add a quote by Alexander Pope]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/43030-fools-rush-in-where-angels-fear-to-tread]]>
+		</link>
+		<description>
+	    <![CDATA["Fools rush in where angels fear to tread." -- Alexander Pope]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/32945-when-one-tugs-at-a-single-thing-in-nature-he</guid>
+		<pubDate>Tue, 28 May 2013 09:56:46 -0700</pubDate>
+		<title>
+			<![CDATA[Linda add a quote by John Muir]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/32945-when-one-tugs-at-a-single-thing-in-nature-he]]>
+		</link>
+		<description>
+	    <![CDATA["When one tugs at a single thing in nature, he finds it attached to the rest of the world." -- John Muir]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

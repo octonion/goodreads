@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/647224-misa212]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/647224-misa212" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 28 Nov 2007 15:43:06 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/902-before-prior-to-there-is-no-difference-between-these-two</guid>
+		<pubDate>Wed, 28 Nov 2007 15:43:06 -0800</pubDate>
+		<title>
+			<![CDATA[Misa212 add a quote by Bill Bryson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/902-before-prior-to-there-is-no-difference-between-these-two]]>
+		</link>
+		<description>
+	    <![CDATA["Before, prior to. There is no difference between these two except length and a certain affectedness on the part of 'prior to.' To paraphrase Bernstein, if you would use 'posterior to' instead of 'after,' then by all means use 'prior to' instead of 'before." -- Bill Bryson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

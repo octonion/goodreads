@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/666427-jill]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/666427-jill" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 27 Dec 2011 09:30:16 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2313-in-the-depth-of-winter-i-finally-learned-that-within</guid>
+		<pubDate>Tue, 27 Dec 2011 09:30:16 -0800</pubDate>
+		<title>
+			<![CDATA[Jill add a quote by Albert Camus]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2313-in-the-depth-of-winter-i-finally-learned-that-within]]>
+		</link>
+		<description>
+	    <![CDATA["In the depth of winter, I finally learned that within me there lay an invincible summer." -- Albert Camus]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

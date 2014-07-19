@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/315169-frankie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/315169-frankie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 29 Aug 2011 22:30:27 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/339904-he-sat-across-from-her-and-took-her-small-hands</guid>
+		<pubDate>Mon, 29 Aug 2011 22:30:27 -0700</pubDate>
+		<title>
+			<![CDATA[Frankie add a quote by Barbara O'Neal]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/339904-he-sat-across-from-her-and-took-her-small-hands]]>
+		</link>
+		<description>
+	    <![CDATA["He sat across from her and took her small hands in his own. &quot;Babe, you don't have to carry the world. I've got it, okay?" -- Barbara O'Neal]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

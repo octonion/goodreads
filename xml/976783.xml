@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/976783-john]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/976783-john" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 08 Apr 2008 16:57:04 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2580-never-put-off-till-tomorrow-what-may-be-done-day</guid>
+		<pubDate>Tue, 08 Apr 2008 16:57:04 -0700</pubDate>
+		<title>
+			<![CDATA[John add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2580-never-put-off-till-tomorrow-what-may-be-done-day]]>
+		</link>
+		<description>
+	    <![CDATA["Never put off till tomorrow what may be done day after tomorrow just as well&quot;. 
+
+From: &quot;More Maxims of Mark" -- Mark Twain]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1398-i-love-deadlines-i-love-the-whooshing-noise-they-make</guid>
+		<pubDate>Tue, 08 Apr 2008 17:01:04 -0700</pubDate>
+		<title>
+			<![CDATA[John add a quote by Douglas Adams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1398-i-love-deadlines-i-love-the-whooshing-noise-they-make]]>
+		</link>
+		<description>
+	    <![CDATA["I love deadlines. I love the whooshing noise they make as they go by." -- Douglas Adams]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/22450-i-ve-been-to-canada-and-i-ve-always-gotten-the-impression</guid>
+		<pubDate>Tue, 08 Apr 2008 17:09:37 -0700</pubDate>
+		<title>
+			<![CDATA[John add a quote by Jon Stewart]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22450-i-ve-been-to-canada-and-i-ve-always-gotten-the-impression]]>
+		</link>
+		<description>
+	    <![CDATA["I've been to Canada, and I've always gotten the impression that I could take the country over in about two days." -- Jon Stewart]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

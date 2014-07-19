@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1041392-rob]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1041392-rob" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 18 Jan 2010 19:20:03 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/73368-everything-we-hear-is-an-opinion-not-a-fact-everything</guid>
+		<pubDate>Mon, 18 Jan 2010 19:20:03 -0800</pubDate>
+		<title>
+			<![CDATA[Rob add a quote by Marcus Aurelius ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/73368-everything-we-hear-is-an-opinion-not-a-fact-everything]]>
+		</link>
+		<description>
+	    <![CDATA["Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth." -- Marcus Aurelius ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/65867-very-little-is-needed-to-make-a-happy-life-it</guid>
+		<pubDate>Mon, 18 Jan 2010 19:24:37 -0800</pubDate>
+		<title>
+			<![CDATA[Rob add a quote by Marcus Aurelius]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/65867-very-little-is-needed-to-make-a-happy-life-it]]>
+		</link>
+		<description>
+	    <![CDATA["Very little is needed to make a happy life; it is all within yourself  in your way of thinking." -- Marcus Aurelius]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/7838-veni-vidi-vici-i-came-i-saw-i-conquered</guid>
+		<pubDate>Mon, 18 Jan 2010 19:31:32 -0800</pubDate>
+		<title>
+			<![CDATA[Rob add a quote by Julius Caesar]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7838-veni-vidi-vici-i-came-i-saw-i-conquered]]>
+		</link>
+		<description>
+	    <![CDATA["Veni, vidi, vici. (&lt;i&gt;I came, I saw, I conquered&lt;/i&gt;.)" -- Julius Caesar]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

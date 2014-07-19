@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/922948-johannah]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/922948-johannah" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 31 Mar 2012 19:02:52 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/255004-what-was-wrong-with-me-i-had-a-decent-life</guid>
+		<pubDate>Sat, 31 Mar 2012 19:02:52 -0700</pubDate>
+		<title>
+			<![CDATA[Johannah add a quote by Jodi Picoult]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/255004-what-was-wrong-with-me-i-had-a-decent-life]]>
+		</link>
+		<description>
+	    <![CDATA["What was wrong with me? I had a decent life. I was healthy. I wasn't starving or maimed by a land mine or orphaned. Yet somehow, it wasn't enough. I had a hole in me, and everything I took for granted slipped through it like sand.
+
+I felt like I had swallowed yeast, like whatever evil was festering inside me had doubled in size." -- Jodi Picoult]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

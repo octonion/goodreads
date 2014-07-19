@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/112364-melanie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/112364-melanie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 05 Apr 2008 15:09:58 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/41896-you-can-learn-more-by-going-to-the-opera-than</guid>
+		<pubDate>Sat, 05 Apr 2008 15:09:58 -0700</pubDate>
+		<title>
+			<![CDATA[Melanie add a quote by David Markson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/41896-you-can-learn-more-by-going-to-the-opera-than]]>
+		</link>
+		<description>
+	    <![CDATA["You can learn more by going to the opera than you ever can by reading Emerson. Like that there are two sexes." -- David Markson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

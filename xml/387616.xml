@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/387616-gerard]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/387616-gerard" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 26 Jun 2013 21:42:00 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/494699-the-life-so-brief-the-art-so-long-in-the</guid>
+		<pubDate>Wed, 26 Jun 2013 21:42:00 -0700</pubDate>
+		<title>
+			<![CDATA[Gerard add a quote by Geoffrey Chaucer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/494699-the-life-so-brief-the-art-so-long-in-the]]>
+		</link>
+		<description>
+	    <![CDATA["The life so brief, the art so long in the learning, the attempt so hard, the conquest so sharp, the fearful joy that ever slips away so quickly - by all this I mean love, which so sorely astounds my feeling with its wondrous operation, that when I think upon it I scarce know whether I wake or sleep." -- Geoffrey Chaucer]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

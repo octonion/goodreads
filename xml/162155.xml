@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/162155-hillary]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/162155-hillary" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 07 Oct 2008 17:31:16 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/47455-everybody-says-sex-is-obscene-the-only-true-obscenity-is</guid>
+		<pubDate>Tue, 07 Oct 2008 17:31:16 -0700</pubDate>
+		<title>
+			<![CDATA[Hillary add a quote by Henry Miller]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/47455-everybody-says-sex-is-obscene-the-only-true-obscenity-is]]>
+		</link>
+		<description>
+	    <![CDATA["Everybody says sex is obscene. The only true obscenity is war." -- Henry Miller]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/14996-my-ambition-is-handicapped-by-laziness</guid>
+		<pubDate>Wed, 20 Oct 2010 17:55:47 -0700</pubDate>
+		<title>
+			<![CDATA[Hillary add a quote by Charles Bukowski]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14996-my-ambition-is-handicapped-by-laziness]]>
+		</link>
+		<description>
+	    <![CDATA["My ambition is handicapped by laziness" -- Charles Bukowski]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/222583-if-i-knew-i-was-going-to-die-at-a</guid>
+		<pubDate>Wed, 20 Oct 2010 18:06:40 -0700</pubDate>
+		<title>
+			<![CDATA[Hillary add a quote by Chuck Klosterman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/222583-if-i-knew-i-was-going-to-die-at-a]]>
+		</link>
+		<description>
+	    <![CDATA["If I knew I was going to die at a specific moment in the future, it would be nice to be able to control what song I was listening to; this is why I always bring my iPod on airplanes." -- Chuck Klosterman]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

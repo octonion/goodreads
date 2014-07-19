@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/842210-colleen-nerdywoman-kayter]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/842210-colleen-nerdywoman-kayter" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 17 Dec 2010 16:34:58 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/50009-be-prepared-for-some-changes-his-voice-dropped-it-ll-be</guid>
+		<pubDate>Fri, 17 Dec 2010 16:34:58 -0800</pubDate>
+		<title>
+			<![CDATA[Colleen (NerdyWoman) add a quote by Jennifer Labrecque]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/50009-be-prepared-for-some-changes-his-voice-dropped-it-ll-be]]>
+		</link>
+		<description>
+	    <![CDATA["Be prepared for some changes.&quot; His voice dropped. &quot;It'll be noisy. Maybe dirty. Definitely messy. But I can guarantee you'll be satisfied when it's over." -- Jennifer Labrecque]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

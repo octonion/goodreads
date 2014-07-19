@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/36487-kira]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/36487-kira" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 28 Apr 2008 18:00:19 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/49449-there-s-a-taste-in-the-air-sweet-and-vaguely-antiseptic</guid>
+		<pubDate>Mon, 28 Apr 2008 18:00:19 -0700</pubDate>
+		<title>
+			<![CDATA[kira add a quote by Ian McEwan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/49449-there-s-a-taste-in-the-air-sweet-and-vaguely-antiseptic]]>
+		</link>
+		<description>
+	    <![CDATA["There's a taste in the air, sweet and vaguely antiseptic, that reminds him of his teenage years in these streets, and of a general state of longing, a hunger for life to begin that from this distance seems like happiness." -- Ian McEwan]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

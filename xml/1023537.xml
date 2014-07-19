@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1023537-kate-hawkes]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1023537-kate-hawkes" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 25 Mar 2008 16:59:36 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/38302-it-is-no-use-i-find-it-impossible-to-work</guid>
+		<pubDate>Tue, 25 Mar 2008 16:59:36 -0700</pubDate>
+		<title>
+			<![CDATA[Kate add a quote by Sherwood Anderson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/38302-it-is-no-use-i-find-it-impossible-to-work]]>
+		</link>
+		<description>
+	    <![CDATA["It is no use. I find it impossible to work with security staring me in the face. " -- Sherwood Anderson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/12425-when-i-dare-to-be-powerful-to-use-my-strength</guid>
+		<pubDate>Tue, 25 Mar 2008 17:00:59 -0700</pubDate>
+		<title>
+			<![CDATA[Kate add a quote by Audre Lorde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12425-when-i-dare-to-be-powerful-to-use-my-strength]]>
+		</link>
+		<description>
+	    <![CDATA["When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid." -- Audre Lorde]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

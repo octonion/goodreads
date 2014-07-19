@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/927454-giannopoulou]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/927454-giannopoulou" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 02 Jun 2010 07:47:55 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1268-however-many-holy-words-you-read-however-many-you-speak</guid>
+		<pubDate>Wed, 02 Jun 2010 07:47:55 -0700</pubDate>
+		<title>
+			<![CDATA[Giannopoulou add a quote by Buddha Siddhartha Guatama Shakyamuni]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1268-however-many-holy-words-you-read-however-many-you-speak]]>
+		</link>
+		<description>
+	    <![CDATA["However many holy words you read, however many you speak, what good will they do you if you do not act on upon them?" -- Buddha Siddhartha Guatama Shakyamuni]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

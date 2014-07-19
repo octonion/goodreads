@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/686264-d-k]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/686264-d-k" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 30 Dec 2013 08:27:35 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/196876-happiness-is-a-gift-and-the-trick-is-not-to</guid>
+		<pubDate>Mon, 30 Dec 2013 08:27:35 -0800</pubDate>
+		<title>
+			<![CDATA[D.K. add a quote by Charles Dickens]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/196876-happiness-is-a-gift-and-the-trick-is-not-to]]>
+		</link>
+		<description>
+	    <![CDATA["Happiness is a gift and the trick is not to expect it, but to delight in it when it comes." -- Charles Dickens]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/317780-the-pain-of-parting-is-nothing-to-the-joy-of</guid>
+		<pubDate>Mon, 30 Dec 2013 08:27:37 -0800</pubDate>
+		<title>
+			<![CDATA[D.K. add a quote by Charles Dickens]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/317780-the-pain-of-parting-is-nothing-to-the-joy-of]]>
+		</link>
+		<description>
+	    <![CDATA["The pain of parting is nothing to the joy of meeting again." -- Charles Dickens]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/826227-pride-is-one-of-the-seven-deadly-sins-but-it</guid>
+		<pubDate>Mon, 30 Dec 2013 08:37:43 -0800</pubDate>
+		<title>
+			<![CDATA[D.K. add a quote by Charles Dickens]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/826227-pride-is-one-of-the-seven-deadly-sins-but-it]]>
+		</link>
+		<description>
+	    <![CDATA["Pride is one of the seven deadly sins; but it cannot be the pride of a mother in her children, for that is a compound of two cardinal virtues — faith and hope." -- Charles Dickens]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

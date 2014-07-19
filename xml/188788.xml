@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/188788-margo]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/188788-margo" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 23 Mar 2014 00:54:35 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/422003-many-americans-would-die-naked-in-the-middle-of-the</guid>
+		<pubDate>Sun, 23 Mar 2014 00:54:35 -0700</pubDate>
+		<title>
+			<![CDATA[Margo add a quote by Reynolds Price]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/422003-many-americans-would-die-naked-in-the-middle-of-the]]>
+		</link>
+		<description>
+	    <![CDATA["Many Americans would die naked in the middle of the road before they'd tell you what's hurt them most. But a born Southerner will show you the cell in their heart that burns the hardest. They'll hold it out to you in their bare right hand." -- Reynolds Price]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/50275-what-is-to-give-light-must-endure-burning</guid>
+		<pubDate>Fri, 04 Apr 2014 22:19:20 -0700</pubDate>
+		<title>
+			<![CDATA[Margo add a quote by Victor Frankl]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/50275-what-is-to-give-light-must-endure-burning]]>
+		</link>
+		<description>
+	    <![CDATA["What is to give light must endure burning." -- Victor Frankl]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

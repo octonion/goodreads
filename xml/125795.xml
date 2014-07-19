@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/125795-amelia]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/125795-amelia" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 09 Aug 2008 12:53:37 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/363-it-is-better-to-remain-silent-at-the-risk-of</guid>
+		<pubDate>Sat, 09 Aug 2008 12:53:37 -0700</pubDate>
+		<title>
+			<![CDATA[Amelia add a quote by Maurice Switzer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/363-it-is-better-to-remain-silent-at-the-risk-of]]>
+		</link>
+		<description>
+	    <![CDATA["It is better to remain silent at the risk of being thought a fool, than to talk and remove all doubt of it." -- Maurice Switzer]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/9131-if-you-tell-the-truth-you-don-t-have-to-remember</guid>
+		<pubDate>Sat, 09 Aug 2008 12:53:42 -0700</pubDate>
+		<title>
+			<![CDATA[Amelia add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9131-if-you-tell-the-truth-you-don-t-have-to-remember]]>
+		</link>
+		<description>
+	    <![CDATA["If you tell the truth, you don't have to remember anything." -- Mark Twain]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/18830-finish-each-day-and-be-done-with-it-you-have</guid>
+		<pubDate>Sat, 09 Aug 2008 12:56:42 -0700</pubDate>
+		<title>
+			<![CDATA[Amelia add a quote by Ralph Waldo Emerson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18830-finish-each-day-and-be-done-with-it-you-have]]>
+		</link>
+		<description>
+	    <![CDATA["Finish each day and be done with it. You have done what you could.  Some blunders and absurdities no doubt crept in; forget them as soon as you can. Tomorrow is a new day.  You shall begin it serenely and with too high a spirit to be encumbered with your old nonsense." -- Ralph Waldo Emerson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

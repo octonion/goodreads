@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/775700-christina-knox]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/775700-christina-knox" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 12 Jan 2008 15:46:10 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/12765-so-shall-we-come-to-look-at-the-world-with</guid>
+		<pubDate>Sat, 12 Jan 2008 15:46:10 -0800</pubDate>
+		<title>
+			<![CDATA[Christina add a quote by Ralph Waldo Emerson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12765-so-shall-we-come-to-look-at-the-world-with]]>
+		</link>
+		<description>
+	    <![CDATA["So shall we come to look at the world with new eyes. It shall answer the endless inquiry of the intellect, — What is truth? and of the affections, — What is good? by yielding itself passive to the educated Will. ... Build, therefore, your own world. As fast as you conform your life to the pure idea in your mind, that will unfold its great proportions. A correspondent revolution in things will attend the influx of the spirit." -- Ralph Waldo Emerson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

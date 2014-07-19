@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/882910-rob]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/882910-rob" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 08 Apr 2012 11:28:27 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/331887-just-because-an-idea-is-true-doesn-t-mean-it-can</guid>
+		<pubDate>Sun, 08 Apr 2012 11:28:27 -0700</pubDate>
+		<title>
+			<![CDATA[Rob add a quote by Jonah Lehrer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/331887-just-because-an-idea-is-true-doesn-t-mean-it-can]]>
+		</link>
+		<description>
+	    <![CDATA["Just because an idea is true doesn't mean it can be proved.  And just because an idea can be proved doesn't mean it's true." -- Jonah Lehrer]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

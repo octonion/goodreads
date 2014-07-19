@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/654296-rita]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/654296-rita" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 21 Dec 2007 18:06:04 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/761-sometimes-it-s-a-form-of-love-just-to-talk-to</guid>
+		<pubDate>Fri, 21 Dec 2007 18:06:04 -0800</pubDate>
+		<title>
+			<![CDATA[Rita add a quote by David Byrne]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/761-sometimes-it-s-a-form-of-love-just-to-talk-to]]>
+		</link>
+		<description>
+	    <![CDATA["Sometimes it's a form of love just to talk to somebody that you have nothing in common with and still be fascinated by their presence." -- David Byrne]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2534-we-accept-the-love-we-think-we-deserve</guid>
+		<pubDate>Fri, 21 Dec 2007 18:07:31 -0800</pubDate>
+		<title>
+			<![CDATA[Rita add a quote by Stephen Chbosky]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2534-we-accept-the-love-we-think-we-deserve]]>
+		</link>
+		<description>
+	    <![CDATA["We accept the love we think we deserve." -- Stephen Chbosky]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

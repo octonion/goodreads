@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/319126-jessica]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/319126-jessica" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 23 Nov 2008 10:53:46 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/116617-apparently-i-am-pushing-a-jinx-about-the-streets-i</guid>
+		<pubDate>Sun, 23 Nov 2008 10:53:46 -0800</pubDate>
+		<title>
+			<![CDATA[jessica add a quote by John Kennedy Toole]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/116617-apparently-i-am-pushing-a-jinx-about-the-streets-i]]>
+		</link>
+		<description>
+	    <![CDATA["Apparently I am pushing a jinx about the streets. I am certain that I can do better with some other wagon. A new cart, a new start. " -- John Kennedy Toole]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5206-you-may-be-a-lady-but-you-are-still-the</guid>
+		<pubDate>Sun, 12 Dec 2010 10:40:47 -0800</pubDate>
+		<title>
+			<![CDATA[jessica add a quote by Lynda Barry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5206-you-may-be-a-lady-but-you-are-still-the]]>
+		</link>
+		<description>
+	    <![CDATA["You may be a lady but you are still the man!" -- Lynda Barry]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/319619-if-i-could-only-turn-the-etch-a-sketch-of-my-life</guid>
+		<pubDate>Sun, 12 Dec 2010 10:41:07 -0800</pubDate>
+		<title>
+			<![CDATA[jessica add a quote by Lynda Barry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/319619-if-i-could-only-turn-the-etch-a-sketch-of-my-life]]>
+		</link>
+		<description>
+	    <![CDATA["If I could only turn the etch-a-sketch of my life upside down." -- Lynda Barry]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

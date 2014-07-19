@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/902434-cher-lyn]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/902434-cher-lyn" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 12 Feb 2008 15:43:28 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3679-if-the-doors-of-perception-were-cleansed-every-thing-would</guid>
+		<pubDate>Tue, 12 Feb 2008 15:43:28 -0800</pubDate>
+		<title>
+			<![CDATA[CHER add a quote by William Blake]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3679-if-the-doors-of-perception-were-cleansed-every-thing-would]]>
+		</link>
+		<description>
+	    <![CDATA["If the doors of perception were cleansed every thing would appear to man as it is, Infinite. For man has closed himself up, till he sees all things thro' narrow chinks of his cavern." -- William Blake]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/33575-if-you-hear-a-voice-within-you-say-you-cannot</guid>
+		<pubDate>Mon, 24 Feb 2014 19:35:15 -0800</pubDate>
+		<title>
+			<![CDATA[CHER add a quote by Vincent Willem van Gogh]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/33575-if-you-hear-a-voice-within-you-say-you-cannot]]>
+		</link>
+		<description>
+	    <![CDATA["If you hear a voice within you say &lt;i&gt;you cannot paint,&lt;/i&gt; then by all means paint and that voice will be silenced." -- Vincent Willem van Gogh]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

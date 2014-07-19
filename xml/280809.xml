@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/280809-dita]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/280809-dita" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 15 Mar 2011 02:47:38 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3549-there-is-never-a-time-or-place-for-true-love</guid>
+		<pubDate>Tue, 15 Mar 2011 02:47:38 -0700</pubDate>
+		<title>
+			<![CDATA[Dita add a quote by Sarah Dessen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3549-there-is-never-a-time-or-place-for-true-love]]>
+		</link>
+		<description>
+	    <![CDATA["There is never a time or place for true love. It happens accidentally, in a heartbeat, in a single flashing, throbbing moment." -- Sarah Dessen]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/8750-i-love-you-without-knowing-how-or-when-or-from</guid>
+		<pubDate>Tue, 15 Mar 2011 02:48:46 -0700</pubDate>
+		<title>
+			<![CDATA[Dita add a quote by Pablo Neruda]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8750-i-love-you-without-knowing-how-or-when-or-from]]>
+		</link>
+		<description>
+	    <![CDATA["I love you without knowing how, or when, or from where. I love you simply, without problems or pride: I love you in this way because I do not know any other way of loving but this, in which there is no I or you, so intimate that your hand upon my chest is my hand, so intimate that when I fall asleep your eyes close." -- Pablo Neruda]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/9726-your-task-is-not-to-seek-for-love-but-merely</guid>
+		<pubDate>Tue, 15 Mar 2011 03:18:14 -0700</pubDate>
+		<title>
+			<![CDATA[Dita add a quote by Rumi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9726-your-task-is-not-to-seek-for-love-but-merely]]>
+		</link>
+		<description>
+	    <![CDATA["Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it." -- Rumi]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

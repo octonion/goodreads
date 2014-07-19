@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/906188-catherine]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/906188-catherine" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 19 Aug 2011 20:05:17 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/192326-if-you-want-to-keep-people-subjugated-the-last-thing</guid>
+		<pubDate>Fri, 19 Aug 2011 20:05:17 -0700</pubDate>
+		<title>
+			<![CDATA[Catherine add a quote by Desmond Tutu]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/192326-if-you-want-to-keep-people-subjugated-the-last-thing]]>
+		</link>
+		<description>
+	    <![CDATA["If you want to keep people subjugated, the last thing you place in their hands is a Bible. There's nothing more radical, nothing more revolutionary, nothing more subversive against injustice and oppression than the Bible." -- Desmond Tutu]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/352-outside-of-a-dog-a-book-is-man-s-best-friend</guid>
+		<pubDate>Thu, 13 Oct 2011 07:03:49 -0700</pubDate>
+		<title>
+			<![CDATA[Catherine add a quote by Groucho Marx]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/352-outside-of-a-dog-a-book-is-man-s-best-friend]]>
+		</link>
+		<description>
+	    <![CDATA["Outside of a dog, a book is man's best friend. Inside of a dog it's too dark to read." -- Groucho Marx]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/400898-never-be-so-focused-on-what-you-re-looking-for-that</guid>
+		<pubDate>Fri, 06 Jan 2012 18:48:00 -0800</pubDate>
+		<title>
+			<![CDATA[Catherine add a quote by Ann Patchett]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/400898-never-be-so-focused-on-what-you-re-looking-for-that]]>
+		</link>
+		<description>
+	    <![CDATA["Never be so focused on what you're looking for that you overlook the thing you actually find." -- Ann Patchett]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

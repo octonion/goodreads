@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1086384-mom-taxi-julie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1086384-mom-taxi-julie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 17 Aug 2013 22:12:29 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/467185-there-s-always-this-one-girl-she-s-desperate-and-she-s-weird</guid>
+		<pubDate>Sat, 17 Aug 2013 22:12:29 -0700</pubDate>
+		<title>
+			<![CDATA[Mom Taxi Julie add a quote by Courtney Summers]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/467185-there-s-always-this-one-girl-she-s-desperate-and-she-s-weird]]>
+		</link>
+		<description>
+	    <![CDATA["There's always this one girl. She's desperate and she's weird and she's jealous, and you're stuck with her, no matter how hard you try to get her off your back. Just throw some really fucked-up self-esteem issues into the mix and you have Kara." -- Courtney Summers]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

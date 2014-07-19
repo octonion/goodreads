@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/824738-dody]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/824738-dody" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 24 Jan 2008 01:22:42 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/16759-kesempatan-datang-bagai-awan-berlalu-maka-pergunakanlah-selagi-ia-nampak</guid>
+		<pubDate>Thu, 24 Jan 2008 01:22:42 -0800</pubDate>
+		<title>
+			<![CDATA[Dody add a quote by Ali bin Abi Thalib]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16759-kesempatan-datang-bagai-awan-berlalu-maka-pergunakanlah-selagi-ia-nampak]]>
+		</link>
+		<description>
+	    <![CDATA["Kesempatan datang bagai awan berlalu, maka pergunakanlah selagi ia nampak di hadapanmu." -- Ali bin Abi Thalib]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/110196-real-love-is-always-fated-it-has-been-arranged-before</guid>
+		<pubDate>Fri, 23 Dec 2011 02:52:41 -0800</pubDate>
+		<title>
+			<![CDATA[Dody add a quote by D. Harris]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/110196-real-love-is-always-fated-it-has-been-arranged-before]]>
+		</link>
+		<description>
+	    <![CDATA["Real love is always fated. It has been arranged before time. It is the most meticulously prepared of coincidences.  " -- D. Harris]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

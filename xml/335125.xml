@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/335125-joe-midgley]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/335125-joe-midgley" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 01 Sep 2013 15:14:28 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/200744-silflay-hraka-u-embleer-rah</guid>
+		<pubDate>Sun, 01 Sep 2013 15:14:28 -0700</pubDate>
+		<title>
+			<![CDATA[Joe add a quote by Richard Adams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/200744-silflay-hraka-u-embleer-rah]]>
+		</link>
+		<description>
+	    <![CDATA["Silflay hraka, u embleer rah!" -- Richard Adams]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/685039-hodor-said-hodor</guid>
+		<pubDate>Wed, 12 Feb 2014 06:55:30 -0800</pubDate>
+		<title>
+			<![CDATA[Joe add a quote by George R.R. Martin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/685039-hodor-said-hodor]]>
+		</link>
+		<description>
+	    <![CDATA["Hodor,&quot; said Hodor." -- George R.R. Martin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2792-and-so-it-goes</guid>
+		<pubDate>Tue, 04 Mar 2014 13:53:07 -0800</pubDate>
+		<title>
+			<![CDATA[Joe add a quote by Kurt Vonnegut]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2792-and-so-it-goes]]>
+		</link>
+		<description>
+	    <![CDATA["And so it goes..." -- Kurt Vonnegut]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/409404-you-are-the-blood-of-the-dragon-you-can-make</guid>
+		<pubDate>Wed, 26 Mar 2014 22:05:51 -0700</pubDate>
+		<title>
+			<![CDATA[Joe add a quote by George R. R. Martin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/409404-you-are-the-blood-of-the-dragon-you-can-make]]>
+		</link>
+		<description>
+	    <![CDATA["You are the blood of the dragon. You can make a hat." -- George R. R. Martin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

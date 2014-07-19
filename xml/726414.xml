@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/726414-ali-z]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/726414-ali-z" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 30 Dec 2007 10:41:26 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/8689-if-you-re-having-difficulty-coming-up-with-new-ideas-then</guid>
+		<pubDate>Sun, 30 Dec 2007 10:41:26 -0800</pubDate>
+		<title>
+			<![CDATA[Ali add a quote by Natalie Goldberg ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8689-if-you-re-having-difficulty-coming-up-with-new-ideas-then]]>
+		</link>
+		<description>
+	    <![CDATA["If you're having difficulty coming up with new ideas, then slow down. For me, slowing down has been a tremendous source of creativity. It has allowed me to open up -- to know that there's life under the earth and that I have to let it come through me in a new way. Creativity exists in the present moment. You can't find it anywhere else." -- Natalie Goldberg ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/8690-it-s-important-to-be-heroic-ambitious-productive-efficient-creative-and</guid>
+		<pubDate>Sun, 30 Dec 2007 10:44:08 -0800</pubDate>
+		<title>
+			<![CDATA[Ali add a quote by Thomas Moore]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8690-it-s-important-to-be-heroic-ambitious-productive-efficient-creative-and]]>
+		</link>
+		<description>
+	    <![CDATA["It's important to be heroic, ambitious, productive, efficient, creative, and progressive, but these qualities don't necessarily nurture soul. The soul has different concerns, of equal value: downtime for reflection, conversation, and reverie; beauty that is captivating and pleasuring; relatedness to the environs and to people; and any animal’s rhythm of rest and activity." -- Thomas Moore]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

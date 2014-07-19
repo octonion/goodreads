@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/649724-john]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/649724-john" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 12 Dec 2007 18:57:39 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4661-man-cannot-discover-new-oceans-unless-he-has-the-courage</guid>
+		<pubDate>Wed, 12 Dec 2007 18:57:39 -0800</pubDate>
+		<title>
+			<![CDATA[John add a quote by Andre Gide]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4661-man-cannot-discover-new-oceans-unless-he-has-the-courage]]>
+		</link>
+		<description>
+	    <![CDATA["Man cannot discover new oceans unless he has the courage to lose sight of the shore." -- Andre Gide]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/18856-believe-those-who-are-seeking-the-truth-doubt-those-who</guid>
+		<pubDate>Wed, 12 Dec 2007 18:57:42 -0800</pubDate>
+		<title>
+			<![CDATA[John add a quote by Andre Gide ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18856-believe-those-who-are-seeking-the-truth-doubt-those-who]]>
+		</link>
+		<description>
+	    <![CDATA["Believe those who are seeking the truth. Doubt those who find it." -- Andre Gide ]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

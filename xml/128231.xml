@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/128231-heidi-magnus]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/128231-heidi-magnus" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 10 Nov 2008 17:05:59 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/112767-it-takes-a-wise-man-to-learn-wisdom-from-a</guid>
+		<pubDate>Mon, 10 Nov 2008 17:05:59 -0800</pubDate>
+		<title>
+			<![CDATA[Heidi add a quote by Marcie Telander]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/112767-it-takes-a-wise-man-to-learn-wisdom-from-a]]>
+		</link>
+		<description>
+	    <![CDATA["It takes a wise man to learn wisdom from a wise woman!" -- Marcie Telander]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

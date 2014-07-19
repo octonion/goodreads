@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/173333-deborah]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/173333-deborah" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 25 Jan 2013 18:02:26 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/75385-if-only-if-only-the-woodpecker-sighs-the-bark-on</guid>
+		<pubDate>Fri, 25 Jan 2013 18:02:26 -0800</pubDate>
+		<title>
+			<![CDATA[Deborah add a quote by Louis Sachar]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/75385-if-only-if-only-the-woodpecker-sighs-the-bark-on]]>
+		</link>
+		<description>
+	    <![CDATA["If only, if only,&quot; the woodpecker sighs,
+&quot;The bark on the tree was as soft as the skies.&quot;
+While the wolf waits below, hungry and lonely,
+Crying to the moo-oo-oon,
+&quot;If only, If only." -- Louis Sachar]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1089063-daniel]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1089063-daniel" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 07 Oct 2008 21:16:06 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/9187-those-who-know-do-not-speak-those-who-speak-do</guid>
+		<pubDate>Tue, 07 Oct 2008 21:16:06 -0700</pubDate>
+		<title>
+			<![CDATA[Daniel add a quote by Lao Tsu]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9187-those-who-know-do-not-speak-those-who-speak-do]]>
+		</link>
+		<description>
+	    <![CDATA["Those who know do not speak. Those who speak do not know." -- Lao Tsu]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6011-he-who-knows-others-is-wise-he-who-knows-himself</guid>
+		<pubDate>Fri, 18 Apr 2008 13:10:16 -0700</pubDate>
+		<title>
+			<![CDATA[Daniel add a quote by Lao]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6011-he-who-knows-others-is-wise-he-who-knows-himself]]>
+		</link>
+		<description>
+	    <![CDATA["He who knows others is wise.
+He who knows himself is enlightened" -- Lao]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/36788-knowledge-is-a-treasure-but-practice-is-the-key-to</guid>
+		<pubDate>Fri, 09 May 2008 13:13:57 -0700</pubDate>
+		<title>
+			<![CDATA[Daniel add a quote by Lao Tzu]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/36788-knowledge-is-a-treasure-but-practice-is-the-key-to]]>
+		</link>
+		<description>
+	    <![CDATA["Knowledge is a treasure, but practice is the key to it." -- Lao Tzu]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/50542-the-best-fighter-is-never-angry</guid>
+		<pubDate>Fri, 09 May 2008 13:18:19 -0700</pubDate>
+		<title>
+			<![CDATA[Daniel add a quote by Lao Tzu]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/50542-the-best-fighter-is-never-angry]]>
+		</link>
+		<description>
+	    <![CDATA["The best fighter is never angry." -- Lao Tzu]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

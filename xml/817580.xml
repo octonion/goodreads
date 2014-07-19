@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/817580-chris]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/817580-chris" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 25 Feb 2012 15:21:07 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/191181-if-you-think-that-it-would-be-impossible-to-improve</guid>
+		<pubDate>Sat, 25 Feb 2012 15:21:07 -0800</pubDate>
+		<title>
+			<![CDATA[Chris add a quote by Sam Harris]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/191181-if-you-think-that-it-would-be-impossible-to-improve]]>
+		</link>
+		<description>
+	    <![CDATA["If you think that it would be impossible to improve upon the Ten Commandments as a statement of morality,  you really owe it to yourself to read some other scriptures.  Once again, we need look no further than the Jains:  [author:Mahavira|7061021], the Jain patriarch, surpassed the morality of the Bible with a single sentence:  'Do not injure, abuse, oppress, enslave, insult, torment, torture, or kill any creature or living being.' Imagine how different our world might be if the Bible contained this as its central precept.  Christians have abused, oppressed, enslaved, insulted, tormented, tortured, and killed people in the name of God for centuries, on the basis of a theologically defensible reading of the Bible." -- Sam Harris]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

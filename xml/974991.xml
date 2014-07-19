@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/974991-makiko]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/974991-makiko" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 16 Mar 2008 12:29:55 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/35206-there-are-only-two-things-love-all-sorts-of-love</guid>
+		<pubDate>Sun, 16 Mar 2008 12:29:55 -0700</pubDate>
+		<title>
+			<![CDATA[Makiko add a quote by Boris Vian]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/35206-there-are-only-two-things-love-all-sorts-of-love]]>
+		</link>
+		<description>
+	    <![CDATA["There are only two things: love, all sorts of love, with pretty girls, and the music of New Orleans or Duke Ellington. Everything else ought to go, because everything else is ugly. " -- Boris Vian]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1173-don-t-cry-because-it-s-over-smile-because-it-happened</guid>
+		<pubDate>Thu, 16 May 2013 20:48:34 -0700</pubDate>
+		<title>
+			<![CDATA[Makiko add a quote by Dr. Seuss ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1173-don-t-cry-because-it-s-over-smile-because-it-happened]]>
+		</link>
+		<description>
+	    <![CDATA["Don't cry because it's over, smile because it happened." -- Dr. Seuss ]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

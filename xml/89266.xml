@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/89266-beatleboymatt]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/89266-beatleboymatt" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 06 May 2008 13:12:12 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/379-behind-me-i-heard-a-young-woman-of-25-say</guid>
+		<pubDate>Tue, 06 May 2008 13:12:12 -0700</pubDate>
+		<title>
+			<![CDATA[Beatleboymatt add a quote by Lewis Black]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/379-behind-me-i-heard-a-young-woman-of-25-say]]>
+		</link>
+		<description>
+	    <![CDATA["Behind me, I heard a young woman of 25 say, &quot;If it weren’t for my horse, I wouldn’t have spent that year in college.&quot; Now, I'm gonna repeat that, because it bears repeating. &quot;If it weren't for my horse...&quot; as in, giddyup, giddyup, let's go — &quot;I wouldn't have spent that year in college,&quot; which is a degree-granting institution. Don't think about that too long, or BLOOD will shoot out your NOSE!" -- Lewis Black]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

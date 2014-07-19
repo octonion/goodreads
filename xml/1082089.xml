@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1082089-sasha-coyle]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1082089-sasha-coyle" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 14 Apr 2008 08:53:26 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/44558-speak-softly-and-employ-a-huge-man-with-a-crowbar</guid>
+		<pubDate>Mon, 14 Apr 2008 08:53:26 -0700</pubDate>
+		<title>
+			<![CDATA[Sasha add a quote by Terry Pratchett]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/44558-speak-softly-and-employ-a-huge-man-with-a-crowbar]]>
+		</link>
+		<description>
+	    <![CDATA["Speak softly and employ a huge man with a crowbar." -- Terry Pratchett]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/60759-there-is-an-ecstasy-that-marks-the-summit-of-life</guid>
+		<pubDate>Wed, 15 Apr 2009 09:42:07 -0700</pubDate>
+		<title>
+			<![CDATA[Sasha add a quote by Jack London]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/60759-there-is-an-ecstasy-that-marks-the-summit-of-life]]>
+		</link>
+		<description>
+	    <![CDATA["There is an ecstasy that marks the summit of life, and beyond which life cannot rise. And such is the paradox of living, this ecstasy comes when one is most alive, and it comes as a complete forgetfulness that one is alive. 
+This ecstasy, this forgetfulness of living, comes to the artist, caught up and out of himself in a sheet of flame; it comes to the soldier, war-mad in a stricken field and refusing quarter; and it came to Buck, leading the pack, sounding the old wolf-cry, straining after the food that was alive and that fled swiftly before him through the moonlight." -- Jack London]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1078615-darryl]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1078615-darryl" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 28 Jun 2013 01:36:24 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/403866-love-is-our-true-destiny-we-do-not-find-the</guid>
+		<pubDate>Fri, 28 Jun 2013 01:36:24 -0700</pubDate>
+		<title>
+			<![CDATA[Darryl add a quote by Thomas Merton]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/403866-love-is-our-true-destiny-we-do-not-find-the]]>
+		</link>
+		<description>
+	    <![CDATA["Love is our true destiny. We do not find the meaning of life by ourselves alone - we find it with another." -- Thomas Merton]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/443080-sometimes-the-hardest-part-isn-t-letting-go-but-rather-learning</guid>
+		<pubDate>Fri, 28 Jun 2013 01:24:42 -0700</pubDate>
+		<title>
+			<![CDATA[Darryl add a quote by Nicole Sobon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/443080-sometimes-the-hardest-part-isn-t-letting-go-but-rather-learning]]>
+		</link>
+		<description>
+	    <![CDATA["Sometimes the hardest part isn't letting go but rather learning to start over." -- Nicole Sobon]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

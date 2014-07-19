@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/839098-travis]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/839098-travis" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 01 Aug 2012 20:08:37 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/125392-how-marvelous-books-are-crossing-worlds-and-centuries-defeating-ignorance</guid>
+		<pubDate>Wed, 01 Aug 2012 20:08:37 -0700</pubDate>
+		<title>
+			<![CDATA[Travis add a quote by Gore Vidal]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/125392-how-marvelous-books-are-crossing-worlds-and-centuries-defeating-ignorance]]>
+		</link>
+		<description>
+	    <![CDATA["How marvelous books are, crossing worlds and centuries, defeating ignorance and, finally, cruel time itself." -- Gore Vidal]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/77396-a-bore-is-someone-who-deprives-you-of-solitude-without</guid>
+		<pubDate>Sun, 19 Aug 2012 14:11:05 -0700</pubDate>
+		<title>
+			<![CDATA[Travis add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/77396-a-bore-is-someone-who-deprives-you-of-solitude-without]]>
+		</link>
+		<description>
+	    <![CDATA["A bore is someone who deprives you of solitude without providing you with company." -- Oscar Wilde]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

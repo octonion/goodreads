@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/541590-matt-lundquist]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/541590-matt-lundquist" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 02 Jan 2013 22:32:40 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/140244-do-not-be-deceived-wormwood-our-cause-is-never-more</guid>
+		<pubDate>Wed, 02 Jan 2013 22:32:40 -0800</pubDate>
+		<title>
+			<![CDATA[Matt add a quote by C. S. Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/140244-do-not-be-deceived-wormwood-our-cause-is-never-more]]>
+		</link>
+		<description>
+	    <![CDATA["Do not be deceived, Wormwood.  Our cause is never more in danger than when a human, no longer desiring, but still intending, to do our Enemy's will, looks round upon a universe from which every trace of Him seems to have vanished, and asks why he has been forsaken, and still obeys." -- C. S. Lewis]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

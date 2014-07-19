@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/169574-laura]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/169574-laura" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 10 Apr 2012 13:17:17 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/377482-the-work-of-the-eyes-is-done-go-now-and</guid>
+		<pubDate>Tue, 10 Apr 2012 13:17:17 -0700</pubDate>
+		<title>
+			<![CDATA[Laura add a quote by Rainer Maria Rilke]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/377482-the-work-of-the-eyes-is-done-go-now-and]]>
+		</link>
+		<description>
+	    <![CDATA["The work of the eyes is done. Go now and do the heart-work on the images imprisoned within you." -- Rainer Maria Rilke]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/149432-was-he-an-animal-that-music-could-move-him-so</guid>
+		<pubDate>Mon, 10 Feb 2014 00:59:59 -0800</pubDate>
+		<title>
+			<![CDATA[Laura add a quote by Franz Kafka]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/149432-was-he-an-animal-that-music-could-move-him-so]]>
+		</link>
+		<description>
+	    <![CDATA["Was he an animal, that music could move him so? He felt as if the way to the unknown nourishment he longed for were coming to light." -- Franz Kafka]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

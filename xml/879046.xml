@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/879046-bedlam1313]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/879046-bedlam1313" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 10 Feb 2008 14:50:09 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/23680-there-was-another-thing-i-heartily-disbelieved-in---work</guid>
+		<pubDate>Sun, 10 Feb 2008 14:50:09 -0800</pubDate>
+		<title>
+			<![CDATA[Bedlam1313 add a quote by Henry Miller]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/23680-there-was-another-thing-i-heartily-disbelieved-in---work]]>
+		</link>
+		<description>
+	    <![CDATA["There was another thing I heartily disbelieved in - work. Work, it seemed to me even at the threshold of life, is an activity reserved for the dullard. It is the very opposite of creation, which is play… The part of me which was given up to work, which enabled my wife and child to live in the manner which they unthinkingly demanded, this part of me which kept the wheel turning - a completely fatuous, ego-centric notion! - was the least part of me. I gave nothing to the world in fulfilling the function of breadwinner; the world exacted its tribute of me, that was all." -- Henry Miller]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/854525-adam]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/854525-adam" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 26 Apr 2012 08:59:27 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/23231-even-the-king-s-erkynguard-might-have-wished-to-be-elsewhere</guid>
+		<pubDate>Thu, 26 Apr 2012 08:59:27 -0700</pubDate>
+		<title>
+			<![CDATA[Adam add a quote by Tad Williams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/23231-even-the-king-s-erkynguard-might-have-wished-to-be-elsewhere]]>
+		</link>
+		<description>
+	    <![CDATA["Even the king's Erkynguard might have wished to be elsewhere, rather than here on this killing ground where duty brought them and loyalty prisoned them. Only the mercenaries were here by choice. To Simon, the minds of men who would come to this of their own will were suddenly as incomprehensible as the thoughts of spiders or lizards—less so, even, for the small creatures of the earth almost always fled from danger. These were madmen, Simon realized, and that was the direst problem of the world: that madmen should be strong and unafraid, so that they could force their will on the weak and peace-loving. If God allowed such madness to be, Simon could not help thinking, then He was an old god who had lost His grip." -- Tad Williams]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

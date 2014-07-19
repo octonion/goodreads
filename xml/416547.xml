@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/416547-thomas]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/416547-thomas" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 23 Mar 2008 15:59:34 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/11708-information-is-not-knowledge-knowledge-is-not-wisdom-wisdom-is</guid>
+		<pubDate>Sun, 23 Mar 2008 15:59:34 -0700</pubDate>
+		<title>
+			<![CDATA[Thomas add a quote by Frank Zappa]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11708-information-is-not-knowledge-knowledge-is-not-wisdom-wisdom-is]]>
+		</link>
+		<description>
+	    <![CDATA["Information is not knowledge.
+Knowledge is not wisdom.
+Wisdom is not truth.
+Truth is not beauty.
+Beauty is not love.
+Love is not music.
+Music is THE BEST." -- Frank Zappa]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/363-it-is-better-to-remain-silent-at-the-risk-of</guid>
+		<pubDate>Sun, 23 Mar 2008 16:02:16 -0700</pubDate>
+		<title>
+			<![CDATA[Thomas add a quote by Maurice Switzer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/363-it-is-better-to-remain-silent-at-the-risk-of]]>
+		</link>
+		<description>
+	    <![CDATA["It is better to remain silent at the risk of being thought a fool, than to talk and remove all doubt of it." -- Maurice Switzer]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

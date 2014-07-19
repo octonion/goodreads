@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/798914-emily]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/798914-emily" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 17 Mar 2008 21:59:29 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/35804-the-wise-men-understood-that-this-natural-world-is-only</guid>
+		<pubDate>Mon, 17 Mar 2008 21:59:29 -0700</pubDate>
+		<title>
+			<![CDATA[Emily add a quote by Paulo Coelho]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/35804-the-wise-men-understood-that-this-natural-world-is-only]]>
+		</link>
+		<description>
+	    <![CDATA["The wise men understood that this natural world is only an image and a copy of paradise. The existence of this world is simply a guarantee that there exists a world that is perfect. God created the world so that, through its visible objects, men could understand his spiritual teachings and the marvels of his wisdom." -- Paulo Coelho]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

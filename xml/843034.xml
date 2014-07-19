@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/843034-aimee]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/843034-aimee" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 15 Oct 2011 12:12:01 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/9970-that-s-what-careless-words-do-they-make-people-love-you</guid>
+		<pubDate>Sat, 15 Oct 2011 12:12:01 -0700</pubDate>
+		<title>
+			<![CDATA[Aimee add a quote by Arundhati Roy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9970-that-s-what-careless-words-do-they-make-people-love-you]]>
+		</link>
+		<description>
+	    <![CDATA["That's what careless words do. They make people love you a little less." -- Arundhati Roy]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/797915-and-what-did-you-want-to-call-myself-beloved-to</guid>
+		<pubDate>Sat, 25 May 2013 13:51:11 -0700</pubDate>
+		<title>
+			<![CDATA[Aimee add a quote by Raymond Carver]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/797915-and-what-did-you-want-to-call-myself-beloved-to]]>
+		</link>
+		<description>
+	    <![CDATA["And what did you want? To call myself beloved, to feel myself beloved on the earth." -- Raymond Carver]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

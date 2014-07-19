@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/168280-peter-mangiaracina]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/168280-peter-mangiaracina" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 29 Dec 2013 04:45:18 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/90682-if-by-a-liberal-they-mean-someone-who-looks-ahead</guid>
+		<pubDate>Sun, 29 Dec 2013 04:45:18 -0800</pubDate>
+		<title>
+			<![CDATA[Peter add a quote by John F. Kennedy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/90682-if-by-a-liberal-they-mean-someone-who-looks-ahead]]>
+		</link>
+		<description>
+	    <![CDATA["If by a &quot;Liberal&quot; they mean someone who looks ahead and not behind, someone who welcomes new ideas without rigid reactions, someone who cares about the welfare of the people-their health, their housing, their schools, their jobs, their civil rights and their civil liberties-someone who believes we can break through the stalemate and suspicions that grip us in our policies abroad, if that is what they mean by a &quot;Liberal&quot;, then I'm proud to say I'm a &quot;Liberal." -- John F. Kennedy]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/751443-joe]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/751443-joe" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 18 Nov 2008 04:07:07 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/115243-today-and-yesterday-i-was-in-several-diffrent-space-at</guid>
+		<pubDate>Tue, 18 Nov 2008 04:07:07 -0800</pubDate>
+		<title>
+			<![CDATA[Joe add a quote by Joe Esterhuizen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/115243-today-and-yesterday-i-was-in-several-diffrent-space-at]]>
+		</link>
+		<description>
+	    <![CDATA["Today and Yesterday, i was in several diffrent space at once, so technically I was ok" -- Joe Esterhuizen]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/19-words-are-of-course-the-most-powerful-drug-used-by</guid>
+		<pubDate>Thu, 18 Feb 2010 22:33:14 -0800</pubDate>
+		<title>
+			<![CDATA[Joe add a quote by Rudyard Kipling]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/19-words-are-of-course-the-most-powerful-drug-used-by]]>
+		</link>
+		<description>
+	    <![CDATA["Words are, of course, the most powerful drug used by mankind." -- Rudyard Kipling]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/27854-if-you-can-walk-with-the-crowd-and-keep-your</guid>
+		<pubDate>Thu, 18 Feb 2010 22:33:40 -0800</pubDate>
+		<title>
+			<![CDATA[Joe add a quote by Rudyard Kipling]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/27854-if-you-can-walk-with-the-crowd-and-keep-your]]>
+		</link>
+		<description>
+	    <![CDATA["If you can walk with the crowd and keep your virtue, or walk with Kings-nor lose the common touch; If neither foes nor loving friends can hurt you; If all men count with you, but none too much; If you can fill the unforgiving minute with 60 seconds worth of distance run- Yours is the earth and everything that's in it, And-which is more-you'll be a man my son." -- Rudyard Kipling]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4614-i-never-made-a-mistake-in-my-life-at-least</guid>
+		<pubDate>Thu, 18 Feb 2010 22:33:41 -0800</pubDate>
+		<title>
+			<![CDATA[Joe add a quote by Rudyard Kipling]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4614-i-never-made-a-mistake-in-my-life-at-least]]>
+		</link>
+		<description>
+	    <![CDATA["I never made a mistake in my life; at least, never one that I couldn't explain away afterwards." -- Rudyard Kipling]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/469830-sam-moon]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/469830-sam-moon" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 16 Apr 2008 22:40:05 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/38367-i-have-known-many-gods-he-who-denies-them-is</guid>
+		<pubDate>Wed, 16 Apr 2008 22:40:05 -0700</pubDate>
+		<title>
+			<![CDATA[Sam add a quote by Robert E. Howard and L. Sprague De Camp]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/38367-i-have-known-many-gods-he-who-denies-them-is]]>
+		</link>
+		<description>
+	    <![CDATA["I have known many gods. He who denies them is as blind as he who trusts them too deeply. I seek not beyond death. It may be the blackness averred by the Nemedian skeptics, or Crom's realm of ice and cloud, or the snowy plains and vaulted halls of the Nordheimer's Valhalla. I know not, nor do I care. Let me live deep while I live; let me know the rich juices of red meat and stinging wine on my palate, the hot embrace of white arms, the mad exultation of battle when the blue blades flame and crimson, and I am content. Let teachers and philosophers brood over questions of reality and illusion. I know this: if life is illusion, then I am no less an illusion, and being thus, the illusion is real to me. I live, I burn with life, I love, I slay, and am content." -- Robert E. Howard and L. Sprague De Camp]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

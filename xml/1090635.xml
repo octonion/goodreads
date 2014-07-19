@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1090635-mi-mew]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1090635-mi-mew" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 29 Jan 2012 01:08:19 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/494675-don-t-ever-get-angry-at-a-man-for-stating-the</guid>
+		<pubDate>Sun, 29 Jan 2012 01:08:19 -0800</pubDate>
+		<title>
+			<![CDATA[Mi add a quote by Ayn Rand]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/494675-don-t-ever-get-angry-at-a-man-for-stating-the]]>
+		</link>
+		<description>
+	    <![CDATA["Don't ever get angry at a man for stating the truth.&quot;
+Dagny Taggart" -- Ayn Rand]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/46507-contradictions-do-not-exist-whenever-you-think-that-you-are</guid>
+		<pubDate>Mon, 15 Oct 2012 23:01:12 -0700</pubDate>
+		<title>
+			<![CDATA[Mi add a quote by Ayn Rand]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/46507-contradictions-do-not-exist-whenever-you-think-that-you-are]]>
+		</link>
+		<description>
+	    <![CDATA["Contradictions do not exist. Whenever you think that you are facing a contradiction, check your premises. You will find that one of them is wrong." -- Ayn Rand]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/314018-what-we-fear-doing-most-is-usually-what-we-most</guid>
+		<pubDate>Thu, 17 Jan 2013 01:00:11 -0800</pubDate>
+		<title>
+			<![CDATA[Mi add a quote by Timothy Ferriss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/314018-what-we-fear-doing-most-is-usually-what-we-most]]>
+		</link>
+		<description>
+	    <![CDATA["What we fear doing most is usually what we most need to do." -- Timothy Ferriss]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

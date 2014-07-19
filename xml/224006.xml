@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/224006-jody-heifner]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/224006-jody-heifner" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 29 Sep 2013 14:17:12 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/336443-why-should-we-tolerate-a-diet-of-weak-poisons-a</guid>
+		<pubDate>Sun, 29 Sep 2013 14:17:12 -0700</pubDate>
+		<title>
+			<![CDATA[Jody add a quote by Rachel Carson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/336443-why-should-we-tolerate-a-diet-of-weak-poisons-a]]>
+		</link>
+		<description>
+	    <![CDATA["Why should we tolerate a diet of weak poisons, a home in insipid surroundings, a circle of acquaintances who are not quite our enemies, the noise of motors with just enough relief to prevent insanity? Who would want to live in a world which is just not quite fatal?" -- Rachel Carson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

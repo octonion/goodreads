@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/655879-kim]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/655879-kim" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 01 Aug 2009 13:56:04 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/182384-i-have-never-described-this-to-you-before-not-so</guid>
+		<pubDate>Sat, 01 Aug 2009 13:56:04 -0700</pubDate>
+		<title>
+			<![CDATA[Kim add a quote by Julio Cortazar]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/182384-i-have-never-described-this-to-you-before-not-so]]>
+		</link>
+		<description>
+	    <![CDATA["I have never described this to you before, not so much, I don't think, from lack of truthfulness as that, just naturally, one is not going to explain to people at large that from time to time one vomits up a small rabbit." -- Julio Cortazar]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/229255-we-take-almost-all-the-decisive-steps-in-our-lives</guid>
+		<pubDate>Mon, 03 Feb 2014 03:40:23 -0800</pubDate>
+		<title>
+			<![CDATA[Kim add a quote by W.G. Sebald]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/229255-we-take-almost-all-the-decisive-steps-in-our-lives]]>
+		</link>
+		<description>
+	    <![CDATA["We take almost all the decisive steps in our lives as a result of slight inner adjustments of which we are barely conscious." -- W.G. Sebald]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/326925-lauren]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/326925-lauren" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 13 Jun 2010 05:30:27 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/186402-and-telling-a-story-i-suppose-is-like-winding-a</guid>
+		<pubDate>Sun, 13 Jun 2010 05:30:27 -0700</pubDate>
+		<title>
+			<![CDATA[Lauren   add a quote by Edith Pattou]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/186402-and-telling-a-story-i-suppose-is-like-winding-a]]>
+		</link>
+		<description>
+	    <![CDATA["And telling a story, I suppose, is like winding a skein of spun yarn- you sometimes lose track of the beginning." -- Edith Pattou]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

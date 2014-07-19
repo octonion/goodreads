@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/294729-ben-siems]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/294729-ben-siems" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 26 Dec 2007 14:09:09 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/7714-twas-a-clever-quibble-here-a-garment-for-it</guid>
+		<pubDate>Wed, 26 Dec 2007 14:09:09 -0800</pubDate>
+		<title>
+			<![CDATA[Ben add a quote by William Shakespeare]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7714-twas-a-clever-quibble-here-a-garment-for-it]]>
+		</link>
+		<description>
+	    <![CDATA["Twas a clever quibble. Here, a garment for it." -- William Shakespeare]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/7715-some-day-i-m-gonna-call-me-up-on-the-phone</guid>
+		<pubDate>Wed, 26 Dec 2007 14:09:51 -0800</pubDate>
+		<title>
+			<![CDATA[Ben add a quote by Miles Davis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7715-some-day-i-m-gonna-call-me-up-on-the-phone]]>
+		</link>
+		<description>
+	    <![CDATA["Some day I'm gonna call me up on the phone, so when I answer, I can tell myself to shut up." -- Miles Davis]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/9166-intuition-is-really-a-sudden-immersion-of-the-soul-into</guid>
+		<pubDate>Tue, 01 Jan 2008 10:58:46 -0800</pubDate>
+		<title>
+			<![CDATA[Ben add a quote by Paulo Coelho]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9166-intuition-is-really-a-sudden-immersion-of-the-soul-into]]>
+		</link>
+		<description>
+	    <![CDATA["Intuition is really a sudden immersion of the soul into the universal current of life." -- Paulo Coelho]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/11574-artists-often-enslave-their-friends</guid>
+		<pubDate>Tue, 08 Jan 2008 13:12:46 -0800</pubDate>
+		<title>
+			<![CDATA[Ben add a quote by Wladimir Kaminer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11574-artists-often-enslave-their-friends]]>
+		</link>
+		<description>
+	    <![CDATA["Artists often enslave their friends." -- Wladimir Kaminer]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

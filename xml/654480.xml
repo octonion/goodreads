@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/654480-wk]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/654480-wk" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 06 Aug 2008 11:58:19 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/78731-i-think-very-few-people-are-completely-normal-really-deep</guid>
+		<pubDate>Wed, 06 Aug 2008 11:58:19 -0700</pubDate>
+		<title>
+			<![CDATA[WK add a quote by Laurie R. King ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/78731-i-think-very-few-people-are-completely-normal-really-deep]]>
+		</link>
+		<description>
+	    <![CDATA["I think very few people are completely normal really, deep down in their private lives. It all depends on a combination of circumstances. If all the various cosmic thingummys fuse at the same moment, and the right spark is struck, there's no knowing what one mightn't do." -- Laurie R. King ]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

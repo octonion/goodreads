@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1009955-meg]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1009955-meg" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 24 Mar 2008 19:28:50 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/38013-i-ll-tell-you-know-that-grown-men-cry-and-irish</guid>
+		<pubDate>Mon, 24 Mar 2008 19:28:50 -0700</pubDate>
+		<title>
+			<![CDATA[Meg add a quote by The Proclaimers]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/38013-i-ll-tell-you-know-that-grown-men-cry-and-irish]]>
+		</link>
+		<description>
+	    <![CDATA["I'll tell you know that grown men cry and Irish girls are pretty. " -- The Proclaimers]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/27809-never-laugh-at-live-dragons</guid>
+		<pubDate>Tue, 03 Jan 2012 19:59:00 -0800</pubDate>
+		<title>
+			<![CDATA[Meg add a quote by J.R.R. Tolkien]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/27809-never-laugh-at-live-dragons]]>
+		</link>
+		<description>
+	    <![CDATA["Never laugh at live dragons." -- J.R.R. Tolkien]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/695163-no-book-can-be-appreciated-until-it-has-been-slept</guid>
+		<pubDate>Tue, 03 Sep 2013 15:14:50 -0700</pubDate>
+		<title>
+			<![CDATA[Meg add a quote by Eugene Field]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/695163-no-book-can-be-appreciated-until-it-has-been-slept]]>
+		</link>
+		<description>
+	    <![CDATA["No book can be appreciated until it has been slept with and dreamed over." -- Eugene Field]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

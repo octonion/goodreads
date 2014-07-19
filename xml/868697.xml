@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/868697-dianeinjapan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/868697-dianeinjapan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 05 Oct 2011 23:53:12 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/13146-never-trust-anyone-who-has-not-brought-a-book-with</guid>
+		<pubDate>Wed, 05 Oct 2011 23:53:12 -0700</pubDate>
+		<title>
+			<![CDATA[dianeinjapan add a quote by Lemony Snicket]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13146-never-trust-anyone-who-has-not-brought-a-book-with]]>
+		</link>
+		<description>
+	    <![CDATA["Never trust anyone who has not brought a book with them." -- Lemony Snicket]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/377688-books-are-let-s-face-it-better-than-everything-else</guid>
+		<pubDate>Wed, 05 Oct 2011 23:53:29 -0700</pubDate>
+		<title>
+			<![CDATA[dianeinjapan add a quote by Nick Hornby]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/377688-books-are-let-s-face-it-better-than-everything-else]]>
+		</link>
+		<description>
+	    <![CDATA["Books are, let's face it, better than everything else." -- Nick Hornby]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/247099-look-for-the-ridiculous-in-everything-and-you-will-find</guid>
+		<pubDate>Wed, 18 Jan 2012 00:27:01 -0800</pubDate>
+		<title>
+			<![CDATA[dianeinjapan add a quote by Jules Renard]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/247099-look-for-the-ridiculous-in-everything-and-you-will-find]]>
+		</link>
+		<description>
+	    <![CDATA["Look for the ridiculous in everything and you will find it." -- Jules Renard]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

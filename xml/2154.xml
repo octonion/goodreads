@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/2154-elmira]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/2154-elmira" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 31 Mar 2013 10:24:37 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/179020-the-longer-and-more-carefully-we-look-at-a-funny</guid>
+		<pubDate>Sun, 31 Mar 2013 10:24:37 -0700</pubDate>
+		<title>
+			<![CDATA[Elmira add a quote by Nikolai V. Gogol]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/179020-the-longer-and-more-carefully-we-look-at-a-funny]]>
+		</link>
+		<description>
+	    <![CDATA["The longer and more carefully we look at a funny story, the sadder it becomes." -- Nikolai V. Gogol]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/529025-going-to-another-country-doesn-t-make-any-difference-i-ve-tried</guid>
+		<pubDate>Sat, 13 Apr 2013 09:16:08 -0700</pubDate>
+		<title>
+			<![CDATA[Elmira add a quote by Ernest Hemingway]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/529025-going-to-another-country-doesn-t-make-any-difference-i-ve-tried]]>
+		</link>
+		<description>
+	    <![CDATA["Going to another country doesn’t make any difference. I’ve tried all that. You can’t get away from yourself by moving from one place to another. There’s nothing to that." -- Ernest Hemingway]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1394-all-serious-daring-starts-from-within</guid>
+		<pubDate>Sat, 13 Apr 2013 09:16:28 -0700</pubDate>
+		<title>
+			<![CDATA[Elmira add a quote by Eudora Welty]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1394-all-serious-daring-starts-from-within]]>
+		</link>
+		<description>
+	    <![CDATA["All serious daring starts from within." -- Eudora Welty]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

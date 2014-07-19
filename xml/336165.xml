@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/336165-nicole]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/336165-nicole" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 03 Mar 2014 19:38:35 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/26566-what-i-like-doing-best-is-nothing-how-do-you</guid>
+		<pubDate>Mon, 03 Mar 2014 19:38:35 -0800</pubDate>
+		<title>
+			<![CDATA[Nicole add a quote by A.A. Milne]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/26566-what-i-like-doing-best-is-nothing-how-do-you]]>
+		</link>
+		<description>
+	    <![CDATA["What I like doing best is Nothing.&quot;
+
+&quot;How do you do Nothing,&quot; asked Pooh after he had wondered for a long time.
+
+&quot;Well, it's when people call out at you just as you're going off to do it, 'What are you going to do, Christopher Robin?' and you say, 'Oh, Nothing,' and then you go and do it.
+
+It means just going along, listening to all the things you can't hear, and not bothering.&quot;
+
+&quot;Oh!&quot; said Pooh." -- A.A. Milne]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

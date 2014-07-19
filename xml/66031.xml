@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/66031-abhay-singh]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/66031-abhay-singh" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 09 May 2012 01:25:43 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/45770-too-late-came-i-to-love-you-o-beauty-both</guid>
+		<pubDate>Wed, 09 May 2012 01:25:43 -0700</pubDate>
+		<title>
+			<![CDATA[abhay add a quote by Saint Augustin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/45770-too-late-came-i-to-love-you-o-beauty-both]]>
+		</link>
+		<description>
+	    <![CDATA["Too late came I to love you, O Beauty both so ancient and so new! Too late came I to love you - and behold you were with me all the time . . ." -- Saint Augustin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/21573-i-am-only-responsible-for-my-own-heart-you-offered</guid>
+		<pubDate>Thu, 16 Aug 2012 04:01:04 -0700</pubDate>
+		<title>
+			<![CDATA[abhay add a quote by Anais Nin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21573-i-am-only-responsible-for-my-own-heart-you-offered]]>
+		</link>
+		<description>
+	    <![CDATA["I am only responsible for my own heart, you offered yours up for the smashing my darling.  Only a fool would give out such a vital organ" -- Anais Nin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

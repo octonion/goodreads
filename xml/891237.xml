@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/891237-jonathan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/891237-jonathan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 05 May 2014 08:35:18 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/41372-did-it-matter-then-she-asked-herself-walking-towards-bond</guid>
+		<pubDate>Mon, 05 May 2014 08:35:18 -0700</pubDate>
+		<title>
+			<![CDATA[Jonathan add a quote by Virginia Woolf]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/41372-did-it-matter-then-she-asked-herself-walking-towards-bond]]>
+		</link>
+		<description>
+	    <![CDATA["Did it matter then, she asked herself, walking towards Bond Street, did it matter that she must inevitably cease completely? All this must go on without her; did she resent it; or did it not become consoling to believe that death ended absolutely?" -- Virginia Woolf]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

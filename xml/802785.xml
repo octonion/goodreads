@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/802785-regina]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/802785-regina" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 28 Dec 2012 09:16:12 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1025-happiness-is-a-warm-puppy</guid>
+		<pubDate>Fri, 28 Dec 2012 09:16:12 -0800</pubDate>
+		<title>
+			<![CDATA[Regina add a quote by Charles M. Schulz]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1025-happiness-is-a-warm-puppy]]>
+		</link>
+		<description>
+	    <![CDATA["Happiness is a warm puppy." -- Charles M. Schulz]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/957220-luke-12-48-says-from-everyone-who-has-been-given-much</guid>
+		<pubDate>Sat, 07 Dec 2013 06:01:11 -0800</pubDate>
+		<title>
+			<![CDATA[Regina add a quote by Katie J. Davis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/957220-luke-12-48-says-from-everyone-who-has-been-given-much]]>
+		</link>
+		<description>
+	    <![CDATA["Luke 12:48 says, “From everyone who has been given much, much will be demanded; and from the one who has been entrusted with much, much more will be asked.” And I have been given so much." -- Katie J. Davis]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

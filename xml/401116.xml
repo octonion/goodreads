@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/401116-eirish]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/401116-eirish" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 18 Jan 2009 13:52:17 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/131166-my-affection-hath-an-unknown-bottom-like-the-bay-of</guid>
+		<pubDate>Sun, 18 Jan 2009 13:52:17 -0800</pubDate>
+		<title>
+			<![CDATA[Eirish add a quote by William Shakespeare]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/131166-my-affection-hath-an-unknown-bottom-like-the-bay-of]]>
+		</link>
+		<description>
+	    <![CDATA["My affection hath an unknown bottom, like the Bay of Portugal." -- William Shakespeare]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/25528-it-was-a-love-of-perpetual-flight</guid>
+		<pubDate>Mon, 19 Jan 2009 17:15:15 -0800</pubDate>
+		<title>
+			<![CDATA[Eirish add a quote by Gabriel García Márquez]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/25528-it-was-a-love-of-perpetual-flight]]>
+		</link>
+		<description>
+	    <![CDATA["It was a love of perpetual flight." -- Gabriel García Márquez]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/916288-justus]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/916288-justus" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 21 Apr 2010 19:34:50 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/251680-i-never-use-a-big-word-when-a-diminutive-word</guid>
+		<pubDate>Wed, 21 Apr 2010 19:34:50 -0700</pubDate>
+		<title>
+			<![CDATA[Justus add a quote by Phillies coach Pete Mackanin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/251680-i-never-use-a-big-word-when-a-diminutive-word]]>
+		</link>
+		<description>
+	    <![CDATA["I never use a big word when a diminutive word would suffice." -- Phillies coach Pete Mackanin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/251681-hey-you-know-what-they-say-see-a-broad-to</guid>
+		<pubDate>Wed, 21 Apr 2010 19:37:08 -0700</pubDate>
+		<title>
+			<![CDATA[Justus add a quote by Airplane]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/251681-hey-you-know-what-they-say-see-a-broad-to]]>
+		</link>
+		<description>
+	    <![CDATA["Hey, you know what they say: see a broad to get dat booty yak 'em... 
+...leg 'er down a smack 'em yak 'em! 
+COL' got to be! Y'know? Shiiiiit." -- Airplane]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

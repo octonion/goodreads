@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/39937-wayne]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/39937-wayne" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 09 Feb 2009 06:57:24 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/138410-a-woman-once-of-some-height-she-is-bent-small</guid>
+		<pubDate>Mon, 09 Feb 2009 06:57:24 -0800</pubDate>
+		<title>
+			<![CDATA[Wayne add a quote by John Updike]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/138410-a-woman-once-of-some-height-she-is-bent-small]]>
+		</link>
+		<description>
+	    <![CDATA["A woman once of some height, she is bent small, and the lingering strands of black look dirty in her white hair. She carries a cane, but in forgetfulness, perhaps, hangs it over her forearm and totters along with it dangling loose like an outlandish bracelet. Her method of gripping her gardener is this: he crooks his right arm, pointing his elbow toward her shoulder, and she shakily brings her left forearm up within his and bears down heavily on his wrist with her lumpish freckled fingers. Her hold is like that of a vine to a wall; one good pull will destroy it, but otherwise it will survive all weathers." -- John Updike]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

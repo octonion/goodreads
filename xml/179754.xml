@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/179754-amber-manning-harris]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/179754-amber-manning-harris" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 26 Nov 2007 14:52:55 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1413-in-the-end-it-is-impossible-not-to-become-what</guid>
+		<pubDate>Mon, 26 Nov 2007 14:52:55 -0800</pubDate>
+		<title>
+			<![CDATA[Amber add a quote by Naphtali Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1413-in-the-end-it-is-impossible-not-to-become-what]]>
+		</link>
+		<description>
+	    <![CDATA["In the end, it is impossible not to become what others believe you are." -- Naphtali Lewis]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

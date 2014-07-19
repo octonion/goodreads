@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/610021-manu]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/610021-manu" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 13 Jun 2008 13:15:11 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/63032-ana-it-is-i</guid>
+		<pubDate>Fri, 13 Jun 2008 13:15:11 -0700</pubDate>
+		<title>
+			<![CDATA[Manu add a quote by Amitav Ghosh]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/63032-ana-it-is-i]]>
+		</link>
+		<description>
+	    <![CDATA["Ana (it is I)" -- Amitav Ghosh]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/63034-gurus-enable-you-to-see-new-things-the-trouble-with</guid>
+		<pubDate>Fri, 13 Jun 2008 13:15:58 -0700</pubDate>
+		<title>
+			<![CDATA[Manu add a quote by Kiran Nagarkar]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/63034-gurus-enable-you-to-see-new-things-the-trouble-with]]>
+		</link>
+		<description>
+	    <![CDATA["Gurus Enable you to see new things. The trouble with Gurus is that you can rarely see beyond them." -- Kiran Nagarkar]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

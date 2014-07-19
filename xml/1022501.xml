@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1022501-jen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1022501-jen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 21 Oct 2008 15:14:32 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/10956-while-the-astronauts-heroes-forever-spent-mere-hours-on-the</guid>
+		<pubDate>Tue, 21 Oct 2008 15:14:32 -0700</pubDate>
+		<title>
+			<![CDATA[Jen add a quote by Jhumpa Lahiri]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10956-while-the-astronauts-heroes-forever-spent-mere-hours-on-the]]>
+		</link>
+		<description>
+	    <![CDATA["While the astronauts, heroes forever, spent mere hours on the moon, I have remained in this new world for nearly thirty years. I know that my achievement is quite ordinary. I am not the only man to seek his fortune far from home, and certainly I am not the first. Still, there are times I am bewildered by each mile I have traveled, each meal I have eaten, each person I have known, each room in which I have slept. As ordinary as it all appears, there are times when it is beyond my imagination.&quot; (from &quot;The Third and Final Continent&quot;)" -- Jhumpa Lahiri]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

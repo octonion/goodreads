@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/985737-scott]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/985737-scott" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 12 Mar 2008 15:59:44 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6691-if-i-should-ever-die-god-forbid-let-this-be</guid>
+		<pubDate>Wed, 12 Mar 2008 15:59:44 -0700</pubDate>
+		<title>
+			<![CDATA[Scott add a quote by kurt vonnegut]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6691-if-i-should-ever-die-god-forbid-let-this-be]]>
+		</link>
+		<description>
+	    <![CDATA["If I should ever die, God forbid, let this be my epitaph:
+THE ONLY PROOF HE NEEDED
+FOR THE EXISTENCE OF GOD
+WAS MUSIC" -- kurt vonnegut]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

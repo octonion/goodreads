@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/818712-sariah]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/818712-sariah" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 14 May 2008 06:41:14 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/200019-such-is-the-influence-which-the-condition-of-our-own</guid>
+		<pubDate>Wed, 14 May 2008 06:41:14 -0700</pubDate>
+		<title>
+			<![CDATA[Sariah add a quote by Charles Dickens]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/200019-such-is-the-influence-which-the-condition-of-our-own]]>
+		</link>
+		<description>
+	    <![CDATA["Such is the influence which the condition of our own thoughts, exercises, even over the appearance of external objects. Men who look on nature, and their fellow-men, and cry that all is dark and gloomy, are in the right; but the sombre colours are reflections from their own jaundiced eyes and hearts. The real hues are delicate, and need a clearer vision." -- Charles Dickens]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

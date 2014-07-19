@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/236480-melissa]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/236480-melissa" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 12 Oct 2012 08:23:36 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/7286-three-may-keep-a-secret-if-two-of-them-are</guid>
+		<pubDate>Fri, 12 Oct 2012 08:23:36 -0700</pubDate>
+		<title>
+			<![CDATA[Melissa add a quote by Benjamin Franklin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7286-three-may-keep-a-secret-if-two-of-them-are]]>
+		</link>
+		<description>
+	    <![CDATA["Three may keep a secret, if two of them are dead." -- Benjamin Franklin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

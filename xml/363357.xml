@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/363357-darth]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/363357-darth" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 01 Jan 2012 18:02:50 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/14885-any-sufficiently-advanced-technology-is-indistinguishable-from-magic</guid>
+		<pubDate>Sun, 01 Jan 2012 18:02:50 -0800</pubDate>
+		<title>
+			<![CDATA[Darth add a quote by Arthur C. Clarke]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14885-any-sufficiently-advanced-technology-is-indistinguishable-from-magic]]>
+		</link>
+		<description>
+	    <![CDATA["Any sufficiently advanced technology is indistinguishable from magic." -- Arthur C. Clarke]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/177682-programming-today-is-a-race-between-software-engineers-striving-to</guid>
+		<pubDate>Sun, 01 Jan 2012 18:04:47 -0800</pubDate>
+		<title>
+			<![CDATA[Darth add a quote by Rick Cook]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/177682-programming-today-is-a-race-between-software-engineers-striving-to]]>
+		</link>
+		<description>
+	    <![CDATA["Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning." -- Rick Cook]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/235412-i-tried-to-believe-that-there-is-a-god-who</guid>
+		<pubDate>Sun, 01 Jan 2012 18:06:33 -0800</pubDate>
+		<title>
+			<![CDATA[Darth add a quote by George Carlin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/235412-i-tried-to-believe-that-there-is-a-god-who]]>
+		</link>
+		<description>
+	    <![CDATA["I tried to believe that there is a God, who created each of us in His own image and likeness, loves us very much, and keeps a close eye on things. I really tried to believe that, but I gotta tell you, the longer you live, the more you look around, the more you realize, something is fucked up." -- George Carlin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/558107-apparently-blank-thinks-i-am-a-nice-accommodating-guy-please</guid>
+		<pubDate>Wed, 23 May 2012 04:16:26 -0700</pubDate>
+		<title>
+			<![CDATA[Darth add a quote by Robert Heinlein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/558107-apparently-blank-thinks-i-am-a-nice-accommodating-guy-please]]>
+		</link>
+		<description>
+	    <![CDATA["Apparently Blank thinks I am a nice accommodating guy, please explain to him that I am a son of a bitch" -- Robert Heinlein]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

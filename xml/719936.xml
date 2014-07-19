@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/719936-david-alosi]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/719936-david-alosi" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 01 Mar 2013 20:44:25 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/14376-what-a-kid-i-got-i-told-him-about-the</guid>
+		<pubDate>Fri, 01 Mar 2013 20:44:25 -0800</pubDate>
+		<title>
+			<![CDATA[David add a quote by Rodney Dangerfield]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14376-what-a-kid-i-got-i-told-him-about-the]]>
+		</link>
+		<description>
+	    <![CDATA["What a kid I got, I told him about the birds and the bees and he told me about the butcher and my wife." -- Rodney Dangerfield]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

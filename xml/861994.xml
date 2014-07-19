@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/861994-diablo]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/861994-diablo" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 27 Mar 2008 18:28:19 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/109432-they-have-plundered-the-world-stripping-naked-the-land-in</guid>
+		<pubDate>Thu, 27 Mar 2008 18:28:19 -0700</pubDate>
+		<title>
+			<![CDATA[Diablo add a quote by Tacitus]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/109432-they-have-plundered-the-world-stripping-naked-the-land-in]]>
+		</link>
+		<description>
+	    <![CDATA["They have plundered the world, stripping naked the land in their hunger… they are driven by greed, if their enemy be rich; by ambition, if poor… They ravage, they slaughter, they seize by false pretenses, and all of this they hail as the construction of empire. And when in their wake nothing remains but a desert, they call that peace." -- Tacitus]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

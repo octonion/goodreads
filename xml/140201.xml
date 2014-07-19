@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/140201-michael-delgado]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/140201-michael-delgado" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 03 Sep 2012 00:08:32 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/993-pain-or-damage-don-t-end-the-world-or-despair-or</guid>
+		<pubDate>Mon, 03 Sep 2012 00:08:32 -0700</pubDate>
+		<title>
+			<![CDATA[Michael add a quote by David Milch]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/993-pain-or-damage-don-t-end-the-world-or-despair-or]]>
+		</link>
+		<description>
+	    <![CDATA["Pain or damage don't end the world.  Or despair, or fucking beatings.  The world ends when you're dead. Until then, you've got more punishment in store.  Stand it like a man... and give some back." -- David Milch]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

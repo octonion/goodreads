@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/781534-adriana-dias]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/781534-adriana-dias" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 28 Oct 2013 12:21:11 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/78509-anything-dead-coming-back-to-life-hurts</guid>
+		<pubDate>Mon, 28 Oct 2013 12:21:11 -0700</pubDate>
+		<title>
+			<![CDATA[Adriana add a quote by Toni Morrison]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/78509-anything-dead-coming-back-to-life-hurts]]>
+		</link>
+		<description>
+	    <![CDATA["Anything dead coming back to life hurts." -- Toni Morrison]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5765-if-they-put-an-iron-circle-around-your-neck-i</guid>
+		<pubDate>Mon, 28 Oct 2013 12:21:17 -0700</pubDate>
+		<title>
+			<![CDATA[Adriana add a quote by Toni Morrison]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5765-if-they-put-an-iron-circle-around-your-neck-i]]>
+		</link>
+		<description>
+	    <![CDATA["if they put an iron circle around your neck I will bite it away" -- Toni Morrison]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/296633-all-our-silences-in-the-face-of-racist-assault-are</guid>
+		<pubDate>Mon, 28 Oct 2013 12:22:53 -0700</pubDate>
+		<title>
+			<![CDATA[Adriana add a quote by bell hooks]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/296633-all-our-silences-in-the-face-of-racist-assault-are]]>
+		</link>
+		<description>
+	    <![CDATA["All our silences in the face of racist assault are acts of complicity." -- bell hooks]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

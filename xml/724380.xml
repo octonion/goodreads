@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/724380-liz]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/724380-liz" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 20 Jul 2010 18:00:10 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/259552-a-tree-falls-in-the-forest-thought-roxanne-staring-bleakly</guid>
+		<pubDate>Tue, 20 Jul 2010 18:00:10 -0700</pubDate>
+		<title>
+			<![CDATA[Liz add a quote by Madeleine Wickham]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/259552-a-tree-falls-in-the-forest-thought-roxanne-staring-bleakly]]>
+		</link>
+		<description>
+	    <![CDATA["A tree falls in the forest, thought Roxanne, staring bleakly out of the window. A man tells a woman he loves her. But if no-one is present to hear it does he really make a sound? Did it really happen?" -- Madeleine Wickham]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/41192-man-may-have-discovered-fire-but-women-discovered-how-to</guid>
+		<pubDate>Tue, 20 Jul 2010 18:01:21 -0700</pubDate>
+		<title>
+			<![CDATA[Liz add a quote by Candace Bushnell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/41192-man-may-have-discovered-fire-but-women-discovered-how-to]]>
+		</link>
+		<description>
+	    <![CDATA["Man may have discovered fire, but women discovered how to play with it." -- Candace Bushnell]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/56789-maybe-our-girlfriends-are-our-soulmates-and-guys-are-just</guid>
+		<pubDate>Tue, 20 Jul 2010 18:01:27 -0700</pubDate>
+		<title>
+			<![CDATA[Liz add a quote by Candace Bushnell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/56789-maybe-our-girlfriends-are-our-soulmates-and-guys-are-just]]>
+		</link>
+		<description>
+	    <![CDATA["Maybe our girlfriends are our soulmates and guys are just people to have fun with." -- Candace Bushnell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

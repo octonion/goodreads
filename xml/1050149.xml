@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1050149-greg]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1050149-greg" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 28 Nov 2012 11:11:19 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2300-remember-remember-always-that-all-of-us-and-you-and</guid>
+		<pubDate>Wed, 28 Nov 2012 11:11:19 -0800</pubDate>
+		<title>
+			<![CDATA[Greg add a quote by Franklin D. Roosevelt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2300-remember-remember-always-that-all-of-us-and-you-and]]>
+		</link>
+		<description>
+	    <![CDATA["Remember, remember always, that all of us, and you and I especially, are descended from immigrants and revolutionists." -- Franklin D. Roosevelt]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/256774-the-truth-is-immigrants-tend-to-be-more-american-than</guid>
+		<pubDate>Wed, 28 Nov 2012 11:13:15 -0800</pubDate>
+		<title>
+			<![CDATA[Greg add a quote by Chuck Palahniuk]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/256774-the-truth-is-immigrants-tend-to-be-more-american-than]]>
+		</link>
+		<description>
+	    <![CDATA["The truth is, immigrants tend to be more American than people born here." -- Chuck Palahniuk]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

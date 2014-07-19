@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/925594-julissa]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/925594-julissa" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 26 Feb 2008 11:01:50 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4808-success-is-getting-what-you-want-happiness-is-wanting-what</guid>
+		<pubDate>Tue, 26 Feb 2008 11:01:50 -0800</pubDate>
+		<title>
+			<![CDATA[Julissa add a quote by W. P. Kinsella]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4808-success-is-getting-what-you-want-happiness-is-wanting-what]]>
+		</link>
+		<description>
+	    <![CDATA["Success is getting what you want, happiness is wanting what you get" -- W. P. Kinsella]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3972-i-speak-to-everyone-in-the-same-way-whether-he</guid>
+		<pubDate>Wed, 27 Feb 2008 10:42:09 -0800</pubDate>
+		<title>
+			<![CDATA[Julissa add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3972-i-speak-to-everyone-in-the-same-way-whether-he]]>
+		</link>
+		<description>
+	    <![CDATA["I speak to everyone in the same way, whether he is the garbage man or the president of the university." -- Albert Einstein]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

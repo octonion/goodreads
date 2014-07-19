@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/888423-maquisedouglas]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/888423-maquisedouglas" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 07 Sep 2008 19:08:42 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/95287-if-you-quit-once-it-becomes-a-habit-never-quit</guid>
+		<pubDate>Sun, 07 Sep 2008 19:08:42 -0700</pubDate>
+		<title>
+			<![CDATA[Maquisedouglas add a quote by Michael Jordan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/95287-if-you-quit-once-it-becomes-a-habit-never-quit]]>
+		</link>
+		<description>
+	    <![CDATA["If you quit ONCE it becomes a habit.Never quit!!!" -- Michael Jordan]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/134267-it-s-not-what-you-say-out-of-your-mouth-that</guid>
+		<pubDate>Sun, 14 Sep 2008 18:19:33 -0700</pubDate>
+		<title>
+			<![CDATA[Maquisedouglas add a quote by Robert T. Kiyosaki]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/134267-it-s-not-what-you-say-out-of-your-mouth-that]]>
+		</link>
+		<description>
+	    <![CDATA["It's not what you say out of your mouth that determines your life,it's what you whisper to yourself that has the most power!" -- Robert T. Kiyosaki]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

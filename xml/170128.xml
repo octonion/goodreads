@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/170128-nuril-basri]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/170128-nuril-basri" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 13 Jan 2011 22:28:39 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/49722-its-easy-to-make-frends-if-you-let-pepul-laff</guid>
+		<pubDate>Thu, 13 Jan 2011 22:28:39 -0800</pubDate>
+		<title>
+			<![CDATA[Nuril add a quote by Daniel Keyes]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/49722-its-easy-to-make-frends-if-you-let-pepul-laff]]>
+		</link>
+		<description>
+	    <![CDATA["Its easy to make frends if you let pepul laff at you." -- Daniel Keyes]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/249368-untuk-negriku-indonesia-yang-dengan-sedih-aku-cinta</guid>
+		<pubDate>Sun, 27 Mar 2011 02:20:59 -0700</pubDate>
+		<title>
+			<![CDATA[Nuril add a quote by Ayu Utami]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/249368-untuk-negriku-indonesia-yang-dengan-sedih-aku-cinta]]>
+		</link>
+		<description>
+	    <![CDATA["untuk negriku Indonesia yang dengan sedih aku cinta" -- Ayu Utami]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

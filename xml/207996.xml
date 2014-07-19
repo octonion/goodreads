@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/207996-rachel]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/207996-rachel" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 12 Nov 2012 18:43:55 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1173-don-t-cry-because-it-s-over-smile-because-it-happened</guid>
+		<pubDate>Mon, 12 Nov 2012 18:43:55 -0800</pubDate>
+		<title>
+			<![CDATA[Rachel add a quote by Dr. Seuss ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1173-don-t-cry-because-it-s-over-smile-because-it-happened]]>
+		</link>
+		<description>
+	    <![CDATA["Don't cry because it's over, smile because it happened." -- Dr. Seuss ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/11035-no-one-can-make-you-feel-inferior-without-your-consent</guid>
+		<pubDate>Mon, 12 Nov 2012 18:44:09 -0800</pubDate>
+		<title>
+			<![CDATA[Rachel add a quote by Eleanor Roosevelt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11035-no-one-can-make-you-feel-inferior-without-your-consent]]>
+		</link>
+		<description>
+	    <![CDATA["No one can make you feel inferior without your consent." -- Eleanor Roosevelt]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/13753-people-who-claim-that-they-re-evil-are-usually-no-worse</guid>
+		<pubDate>Thu, 21 Feb 2013 19:22:23 -0800</pubDate>
+		<title>
+			<![CDATA[Rachel add a quote by Gregory Maguire]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13753-people-who-claim-that-they-re-evil-are-usually-no-worse]]>
+		</link>
+		<description>
+	    <![CDATA["People who claim that they're evil are usually no worse than the rest of us... It's people who claim that they're good, or any way  better than the rest of us, that you have to be wary of." -- Gregory Maguire]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

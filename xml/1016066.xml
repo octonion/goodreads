@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1016066-rini-stiltskin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1016066-rini-stiltskin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 10 May 2010 07:19:48 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/257189-i-consider-as-lovers-of-books-not-those-who-keep</guid>
+		<pubDate>Mon, 10 May 2010 07:19:48 -0700</pubDate>
+		<title>
+			<![CDATA[Rini add a quote by Desiderius Erasmus Roterodamus]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/257189-i-consider-as-lovers-of-books-not-those-who-keep]]>
+		</link>
+		<description>
+	    <![CDATA["I consider as lovers of books not those who keep their books hidden in their store-chests and never handle them, but those who, by nightly as well as daily use thumb them, batter them, wear them out, who fill out all the margins with annotations of many kinds, and who prefer the marks of a fault they have erased to a neat copy full of faults." -- Desiderius Erasmus Roterodamus]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

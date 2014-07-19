@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/713285-dana]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/713285-dana" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 19 Oct 2008 09:57:06 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6398-if-there-is-no-struggle-there-is-no-progress-those</guid>
+		<pubDate>Sun, 19 Oct 2008 09:57:06 -0700</pubDate>
+		<title>
+			<![CDATA[dana add a quote by Frederick Douglass]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6398-if-there-is-no-struggle-there-is-no-progress-those]]>
+		</link>
+		<description>
+	    <![CDATA["If there is no struggle, there is no progress. Those who profess to favor freedom, and yet depreciate agitation, are men who want crops without plowing up the ground. They want rain without thunder and lightning. They want the ocean without the awful roar of its many waters. This struggle may be a moral one; or it may be a physical one; or it may be both moral and physical; but it must be a struggle." -- Frederick Douglass]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

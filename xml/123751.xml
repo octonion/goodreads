@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/123751-elizabeth]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/123751-elizabeth" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 05 Oct 2012 05:26:16 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/333029-i-have-loved-the-stars-too-fondly-to-be-fearful</guid>
+		<pubDate>Fri, 05 Oct 2012 05:26:16 -0700</pubDate>
+		<title>
+			<![CDATA[Elizabeth add a quote by Sarah   Williams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/333029-i-have-loved-the-stars-too-fondly-to-be-fearful]]>
+		</link>
+		<description>
+	    <![CDATA["I have loved the stars too fondly to be fearful of the night." -- Sarah   Williams]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/491402-as-the-years-pass-i-am-coming-more-and-more</guid>
+		<pubDate>Fri, 17 Jan 2014 07:20:17 -0800</pubDate>
+		<title>
+			<![CDATA[Elizabeth add a quote by Laura Ingalls Wilder]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/491402-as-the-years-pass-i-am-coming-more-and-more]]>
+		</link>
+		<description>
+	    <![CDATA["As the years pass, I am coming more and more to understand that it is the common, everyday blessings of our common everyday lives for which we should be particularly grateful.  They are the things that fill our lives with comfort and our hearts with gladness -- just the pure air to breathe and the strength to breath it; just warmth and shelter and home folks; just plain food that gives us strength; the bright sunshine on a cold day; and a cool breeze when the day is warm." -- Laura Ingalls Wilder]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

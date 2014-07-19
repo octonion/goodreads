@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/980491-fiona]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/980491-fiona" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 05 Sep 2011 18:38:20 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/393252-parlabane-found-the-word-pro-active-enormously-useful-as-it-immediately</guid>
+		<pubDate>Mon, 05 Sep 2011 18:38:20 -0700</pubDate>
+		<title>
+			<![CDATA[Fiona add a quote by Christopher Brookmyre]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/393252-parlabane-found-the-word-pro-active-enormously-useful-as-it-immediately]]>
+		</link>
+		<description>
+	    <![CDATA["Parlabane found the word 'pro-active' enormously useful, as it immediately exposed the speaker as an irredeemable arsehole, whatever previous impression might have been given. Once upon a time, he remembered, people and companies just did things. But that ceased to be impressive enough, and for a while they 'actively' did things. Now they 'pro-actively' did things, but it was still the same bloody things that they were doing when they just plain old did things. Meaningless wank-language." -- Christopher Brookmyre]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

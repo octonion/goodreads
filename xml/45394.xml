@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/45394-pamela]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/45394-pamela" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 16 Jan 2009 12:37:41 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/37568-my-life-has-a-superb-cast-but-i-cannot-figure</guid>
+		<pubDate>Fri, 16 Jan 2009 12:37:41 -0800</pubDate>
+		<title>
+			<![CDATA[Pamela add a quote by Ashleigh Brilliant]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/37568-my-life-has-a-superb-cast-but-i-cannot-figure]]>
+		</link>
+		<description>
+	    <![CDATA["My life has a superb cast, but I cannot figure out the plot." -- Ashleigh Brilliant]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/752507-my-grandfather-always-said-that-living-is-like-licking-honey</guid>
+		<pubDate>Sat, 23 Mar 2013 19:33:58 -0700</pubDate>
+		<title>
+			<![CDATA[Pamela add a quote by Louis Adamic]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/752507-my-grandfather-always-said-that-living-is-like-licking-honey]]>
+		</link>
+		<description>
+	    <![CDATA["My grandfather always said that living is like licking honey off a thorn." -- Louis Adamic]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/10579-you-know-one-of-the-tragedies-of-real-life-is</guid>
+		<pubDate>Sun, 08 Sep 2013 19:51:38 -0700</pubDate>
+		<title>
+			<![CDATA[Pamela add a quote by Annie Proulx]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10579-you-know-one-of-the-tragedies-of-real-life-is]]>
+		</link>
+		<description>
+	    <![CDATA["You know, one of the tragedies of real life is that there is no background music." -- Annie Proulx]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

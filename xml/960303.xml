@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/960303-derek-toombs]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/960303-derek-toombs" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Mar 2008 23:40:34 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/7471-surround-yourself-with-human-beings-my-dear-james-they-are</guid>
+		<pubDate>Sun, 02 Mar 2008 23:40:34 -0800</pubDate>
+		<title>
+			<![CDATA[Derek add a quote by Ian Fleming]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7471-surround-yourself-with-human-beings-my-dear-james-they-are]]>
+		</link>
+		<description>
+	    <![CDATA["Surround yourself with human beings, my dear James. They are easier to fight for than principles." -- Ian Fleming]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/233-i-don-t-know-half-of-you-half-as-well-as</guid>
+		<pubDate>Sun, 02 Mar 2008 23:40:58 -0800</pubDate>
+		<title>
+			<![CDATA[Derek add a quote by J.R.R. Tolkien]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/233-i-don-t-know-half-of-you-half-as-well-as]]>
+		</link>
+		<description>
+	    <![CDATA["I don't know half of you half as well as I should like; and I like less than half of you half as well as you deserve." -- J.R.R. Tolkien]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/7299-i-ll-hold-on-to-the-world-tight-some-day-i-ve</guid>
+		<pubDate>Tue, 04 Mar 2008 14:00:02 -0800</pubDate>
+		<title>
+			<![CDATA[Derek add a quote by Ray Bradbury]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7299-i-ll-hold-on-to-the-world-tight-some-day-i-ve]]>
+		</link>
+		<description>
+	    <![CDATA["I'll hold on to the world tight some day. I've got one finger on it now; that's a beginning." -- Ray Bradbury]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

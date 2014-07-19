@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/317335-evelyn-case]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/317335-evelyn-case" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 05 Aug 2011 18:20:42 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/143715-when-you-re-moving-in-the-positive-your-destination-is-the</guid>
+		<pubDate>Fri, 05 Aug 2011 18:20:42 -0700</pubDate>
+		<title>
+			<![CDATA[Evelyn add a quote by Stevie Wonder]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/143715-when-you-re-moving-in-the-positive-your-destination-is-the]]>
+		</link>
+		<description>
+	    <![CDATA["When you're moving in the positive, your destination is the brightest star." -- Stevie Wonder]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/244559-do-not-grow-old-no-matter-how-long-you-live</guid>
+		<pubDate>Fri, 05 Aug 2011 18:20:49 -0700</pubDate>
+		<title>
+			<![CDATA[Evelyn add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/244559-do-not-grow-old-no-matter-how-long-you-live]]>
+		</link>
+		<description>
+	    <![CDATA["Do not grow old, no matter how long you live. Never cease to stand like curious children before the Great Mystery into which we were born." -- Albert Einstein]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

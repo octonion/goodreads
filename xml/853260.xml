@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/853260-alexis]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/853260-alexis" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 30 Jan 2008 00:12:42 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/19205-fish-cannot-carry-guns</guid>
+		<pubDate>Wed, 30 Jan 2008 00:12:42 -0800</pubDate>
+		<title>
+			<![CDATA[Alexis add a quote by Philip K. Dick]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/19205-fish-cannot-carry-guns]]>
+		</link>
+		<description>
+	    <![CDATA["Fish cannot carry guns." -- Philip K. Dick]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/42804-whiskey-like-a-beautiful-woman-demands-appreciation-you-gaze-first</guid>
+		<pubDate>Tue, 08 Apr 2008 20:29:14 -0700</pubDate>
+		<title>
+			<![CDATA[Alexis add a quote by Haruki Murakami]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/42804-whiskey-like-a-beautiful-woman-demands-appreciation-you-gaze-first]]>
+		</link>
+		<description>
+	    <![CDATA["Whiskey, like a beautiful woman, demands appreciation. You gaze first, then it's time to drink." -- Haruki Murakami]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/179118-there-comes-that-phase-in-life-when-tired-of-losing</guid>
+		<pubDate>Sun, 19 Jul 2009 13:41:06 -0700</pubDate>
+		<title>
+			<![CDATA[Alexis add a quote by George Saunders]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/179118-there-comes-that-phase-in-life-when-tired-of-losing]]>
+		</link>
+		<description>
+	    <![CDATA["There comes that phase in life when, tired of losing, you decide to stop losing, then continue losing.  Then you decide to really stop losing, and continue losing.  The losing goes on and on so long you begin to watch with curiosity, wondering how low you can go.  " -- George Saunders]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/177752-miriam]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/177752-miriam" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 08 Jan 2014 16:55:06 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/158635-i-hope-you-never-hear-those-words-your-mom-she</guid>
+		<pubDate>Wed, 08 Jan 2014 16:55:06 -0800</pubDate>
+		<title>
+			<![CDATA[Miriam add a quote by Mitch Albom]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/158635-i-hope-you-never-hear-those-words-your-mom-she]]>
+		</link>
+		<description>
+	    <![CDATA["I hope you never hear those words. Your mom. She died. They are different than other words. They are too big to fit in your ears. They belong to some strange, heavy, powerful language that pounds away at the side of your head, a wrecking ball coming at you again and again, until finally, the words crack a hole large enough to fit inside your brain. And in so doing, they split you apart. " -- Mitch Albom]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/809943-auntie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/809943-auntie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 25 Jun 2008 22:29:43 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/67116-not-only-have-you-been-lucky-enough-to-be-attached</guid>
+		<pubDate>Wed, 25 Jun 2008 22:29:43 -0700</pubDate>
+		<title>
+			<![CDATA[Auntie add a quote by Bill Bryson (Introduction)]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/67116-not-only-have-you-been-lucky-enough-to-be-attached]]>
+		</link>
+		<description>
+	    <![CDATA["Not only have you been lucky enough to be attached since time immemorial to a favored evolutionary line, but you have also been extremely- make that miraculously- fortunate in your personal ancestry. Consider the fact that for 3.8 billion years, a period of time older than the Earth's mountains and rivers and oceans, everyone of your forbears on both sides has been attractive enough to find a mate, healthy enough to reproduce, and sufficiently blessed by fate and circumstances to live long enough to do so. Not one of your pertinent ancestors was squashed, devoured, drowned, starved, stranded, stuck fast, untimely wounded, or otherwise deflected from it's life quest of delivering a tiny charge of genetic material to the right partner at the right moment in order to perpetuate the only possible sequence of hereditary combinations that could result - evetually, astoundingly, and all to briefly- in you." -- Bill Bryson (Introduction)]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/776287-sarah]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/776287-sarah" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 11 Aug 2010 11:30:52 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/172110-you-or-i-might-think-that-at-least-one-would</guid>
+		<pubDate>Wed, 11 Aug 2010 11:30:52 -0700</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by Robert Fanney]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/172110-you-or-i-might-think-that-at-least-one-would]]>
+		</link>
+		<description>
+	    <![CDATA["You or I might think that at least one would show courage and put up a fight. But neither you nor I have suffered as they, and even we have born witness in silence to lesser ills under less dire threat. Yet, in the face of evil, to sit silent is an even greater evil. Complacency is ever the enabler of darkest deeds;" -- Robert Fanney]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/433369-the-greatest-obstacle-to-connecting-with-our-joy-is-resentment</guid>
+		<pubDate>Mon, 20 May 2013 14:01:10 -0700</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by Pema Chodron]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/433369-the-greatest-obstacle-to-connecting-with-our-joy-is-resentment]]>
+		</link>
+		<description>
+	    <![CDATA["The greatest obstacle to connecting with our joy is resentment." -- Pema Chodron]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

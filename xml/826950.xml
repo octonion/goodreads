@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/826950-mark]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/826950-mark" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 15 Sep 2008 12:54:58 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/97436-here-s-another-nice-mess-you-ve-gotten-me-into</guid>
+		<pubDate>Mon, 15 Sep 2008 12:54:58 -0700</pubDate>
+		<title>
+			<![CDATA[Mark add a quote by Oliver Hardy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/97436-here-s-another-nice-mess-you-ve-gotten-me-into]]>
+		</link>
+		<description>
+	    <![CDATA["Here's another nice mess you've gotten me into." -- Oliver Hardy]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/214162-what-me-worry</guid>
+		<pubDate>Sat, 12 Dec 2009 22:08:41 -0800</pubDate>
+		<title>
+			<![CDATA[Mark add a quote by Alfred E. Neuman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/214162-what-me-worry]]>
+		</link>
+		<description>
+	    <![CDATA["What, me worry?" -- Alfred E. Neuman]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

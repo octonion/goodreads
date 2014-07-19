@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/286945-jb]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/286945-jb" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 09 Nov 2013 07:17:28 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/9452-for-it-was-not-into-my-ear-you-whispered-but</guid>
+		<pubDate>Sat, 09 Nov 2013 07:17:28 -0800</pubDate>
+		<title>
+			<![CDATA[JB add a quote by Judy Garland]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9452-for-it-was-not-into-my-ear-you-whispered-but]]>
+		</link>
+		<description>
+	    <![CDATA["For it was not into my ear you whispered, but into my heart. It was not my lips you kissed, but my soul." -- Judy Garland]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

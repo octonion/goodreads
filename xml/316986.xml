@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/316986-carl]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/316986-carl" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 08 Nov 2008 06:50:54 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/112411-there-is-a-moon-shaped-rictus-in-the-streetlamp-s-globe</guid>
+		<pubDate>Sat, 08 Nov 2008 06:50:54 -0800</pubDate>
+		<title>
+			<![CDATA[Carl add a quote by Cormac McCarthy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/112411-there-is-a-moon-shaped-rictus-in-the-streetlamp-s-globe]]>
+		</link>
+		<description>
+	    <![CDATA["There is a moon shaped rictus in the streetlamp's globe where a stone has gone and from this aperture there drifts down through the constant helix of aspiring insects a faint and steady rain of the same forms burnt and lifeless." -- Cormac McCarthy]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/339107-in-its-confounding-of-the-logic-that-maintains-terms-like</guid>
+		<pubDate>Tue, 23 Aug 2011 07:49:51 -0700</pubDate>
+		<title>
+			<![CDATA[Carl add a quote by Rosalind Krauss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/339107-in-its-confounding-of-the-logic-that-maintains-terms-like]]>
+		</link>
+		<description>
+	    <![CDATA["In its confounding of the logic that maintains terms like high and low, or base and sacred as polar opposites, it is this play of the contradictory that allows one to think the truth that Bataille never tired of demonstrating: that violence has historically been lodged at the heart of the sacred; that to be genuine, the very thought of the creative must simultaneously be an experience of death; and that it is impossible for any moment of true intensity to exist apart from a cruelty that is equally extreme." -- Rosalind Krauss]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

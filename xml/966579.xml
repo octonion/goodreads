@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/966579-zaba]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/966579-zaba" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 19 May 2010 20:22:46 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/260023-it-is-learning-how-to-stand-alone-unpopular-and-sometimes</guid>
+		<pubDate>Wed, 19 May 2010 20:22:46 -0700</pubDate>
+		<title>
+			<![CDATA[zaba add a quote by Audre Lorde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/260023-it-is-learning-how-to-stand-alone-unpopular-and-sometimes]]>
+		</link>
+		<description>
+	    <![CDATA["It is learning how to stand alone, unpopular and sometimes reviled, and how to make common cause with those other identified as outside the structures, in order to define and seek a world in which we can all flourish.  It is learning how to take our differences and make the strengths.  For the master's tools will never dismantle the master's house." -- Audre Lorde]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

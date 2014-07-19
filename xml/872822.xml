@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/872822-eliza]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/872822-eliza" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 06 Feb 2008 04:17:38 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/7731-no-man-remains-quite-what-he-was-when-he-recognizes</guid>
+		<pubDate>Wed, 06 Feb 2008 04:17:38 -0800</pubDate>
+		<title>
+			<![CDATA[Eliza add a quote by Thomas Mann]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7731-no-man-remains-quite-what-he-was-when-he-recognizes]]>
+		</link>
+		<description>
+	    <![CDATA["No man remains quite what he was when he recognizes himself." -- Thomas Mann]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/25-we-are-all-in-the-gutter-but-some-of-us</guid>
+		<pubDate>Wed, 06 Feb 2008 04:18:08 -0800</pubDate>
+		<title>
+			<![CDATA[Eliza add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/25-we-are-all-in-the-gutter-but-some-of-us]]>
+		</link>
+		<description>
+	    <![CDATA["We are all in the gutter, but some of us are looking at the stars." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2448-to-live-is-the-rarest-thing-in-the-world-most</guid>
+		<pubDate>Wed, 06 Feb 2008 04:18:23 -0800</pubDate>
+		<title>
+			<![CDATA[Eliza add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2448-to-live-is-the-rarest-thing-in-the-world-most]]>
+		</link>
+		<description>
+	    <![CDATA["To live is the rarest thing in the world. Most people exist, that is all." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/942-two-things-are-infinite-the-universe-and-human-stupidity-and</guid>
+		<pubDate>Wed, 06 Feb 2008 04:18:38 -0800</pubDate>
+		<title>
+			<![CDATA[Eliza add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/942-two-things-are-infinite-the-universe-and-human-stupidity-and]]>
+		</link>
+		<description>
+	    <![CDATA["Two things are infinite: the universe and human stupidity; and I'm not sure about the universe." -- Albert Einstein]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

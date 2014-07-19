@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/912577-gar]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/912577-gar" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 05 Nov 2011 00:11:50 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/20504-there-are-two-kinds-of-light---the-glow-that</guid>
+		<pubDate>Sat, 05 Nov 2011 00:11:50 -0700</pubDate>
+		<title>
+			<![CDATA[Gar add a quote by James Thurber]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20504-there-are-two-kinds-of-light---the-glow-that]]>
+		</link>
+		<description>
+	    <![CDATA["There are two kinds of light - the glow that illuminates, and the glare that obscures." -- James Thurber]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/25381-the-renaissance-is-studded-by-the-names-of-the-artists</guid>
+		<pubDate>Sat, 05 Nov 2011 00:11:59 -0700</pubDate>
+		<title>
+			<![CDATA[Gar add a quote by Arthur Erickson ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/25381-the-renaissance-is-studded-by-the-names-of-the-artists]]>
+		</link>
+		<description>
+	    <![CDATA["The Renaissance is studded by the names of the artists and architects, with their creations recorded as great historical events." -- Arthur Erickson ]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

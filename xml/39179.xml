@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/39179-lex]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/39179-lex" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 26 Nov 2012 15:50:14 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/111176-saying-again-if-you-do-not-teach-me-i-shall</guid>
+		<pubDate>Mon, 26 Nov 2012 15:50:14 -0800</pubDate>
+		<title>
+			<![CDATA[Lex add a quote by Samuel Beckett]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/111176-saying-again-if-you-do-not-teach-me-i-shall]]>
+		</link>
+		<description>
+	    <![CDATA["saying again
+if you do not teach me I shall not learn
+saying again there is a last
+even of last times
+last times of begging
+last times of loving
+of knowing not knowing pretending
+a last even of last times of saying
+if you do not love me I shall not be loved
+if I do not love you I shall not love" -- Samuel Beckett]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

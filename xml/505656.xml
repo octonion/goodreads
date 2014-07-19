@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/505656-nick-wallwork]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/505656-nick-wallwork" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 21 Feb 2008 06:40:01 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/8098-let-us-not-love-with-words-or-tongue-but-with</guid>
+		<pubDate>Thu, 21 Feb 2008 06:40:01 -0800</pubDate>
+		<title>
+			<![CDATA[Nick add a quote by 1 John 3:18]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8098-let-us-not-love-with-words-or-tongue-but-with]]>
+		</link>
+		<description>
+	    <![CDATA["Let us not love with words or tongue, but with our actions and in truth." -- 1 John 3:18]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/67-the-only-thing-we-have-to-fear-is-fear-itself</guid>
+		<pubDate>Fri, 04 Apr 2008 22:07:51 -0700</pubDate>
+		<title>
+			<![CDATA[Nick add a quote by Franklin D. Roosevelt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/67-the-only-thing-we-have-to-fear-is-fear-itself]]>
+		</link>
+		<description>
+	    <![CDATA["The only thing we have to fear is fear itself." -- Franklin D. Roosevelt]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1071-never-doubt-that-a-small-group-of-thoughtful-committed-citizens</guid>
+		<pubDate>Thu, 21 Feb 2008 06:41:12 -0800</pubDate>
+		<title>
+			<![CDATA[Nick add a quote by Margaret Mead]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1071-never-doubt-that-a-small-group-of-thoughtful-committed-citizens]]>
+		</link>
+		<description>
+	    <![CDATA["Never doubt that a small group of thoughtful, committed, citizens can change the world. Indeed, it is the only thing that ever has." -- Margaret Mead]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1078847-elmer-thomas]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1078847-elmer-thomas" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 22 Sep 2013 17:26:00 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2627-the-trouble-with-having-an-open-mind-of-course-is</guid>
+		<pubDate>Sun, 22 Sep 2013 17:26:00 -0700</pubDate>
+		<title>
+			<![CDATA[Elmer add a quote by Terry Pratchett]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2627-the-trouble-with-having-an-open-mind-of-course-is]]>
+		</link>
+		<description>
+	    <![CDATA["The trouble with having an open mind, of course, is that people will insist on coming along and trying to put things in it." -- Terry Pratchett]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

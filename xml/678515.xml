@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/678515-jayemine]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/678515-jayemine" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 19 May 2014 19:36:42 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/839021-go-all-the-way-with-it-do-not-back-off</guid>
+		<pubDate>Mon, 19 May 2014 19:36:42 -0700</pubDate>
+		<title>
+			<![CDATA[Jayemine add a quote by Ernest Hemingway]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/839021-go-all-the-way-with-it-do-not-back-off]]>
+		</link>
+		<description>
+	    <![CDATA["Go all the way with it. Do not back off. For once, go all the goddamn way with what matters." -- Ernest Hemingway]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

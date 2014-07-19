@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/818805-melissa]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/818805-melissa" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 28 Jan 2011 14:45:09 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/7519-if-life-gets-too-hard-to-stand-kneel</guid>
+		<pubDate>Fri, 28 Jan 2011 14:45:09 -0800</pubDate>
+		<title>
+			<![CDATA[Melissa add a quote by Gordon B. Hinckley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7519-if-life-gets-too-hard-to-stand-kneel]]>
+		</link>
+		<description>
+	    <![CDATA["If Life Gets Too Hard To Stand, Kneel." -- Gordon B. Hinckley]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/78175-you-can-be-smart-and-happy-or-stupid-and-miserable</guid>
+		<pubDate>Fri, 28 Jan 2011 14:47:49 -0800</pubDate>
+		<title>
+			<![CDATA[Melissa add a quote by Gordon B. Hinckley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/78175-you-can-be-smart-and-happy-or-stupid-and-miserable]]>
+		</link>
+		<description>
+	    <![CDATA["You can be smart and happy or stupid and miserable. . . it's your choice" -- Gordon B. Hinckley]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/74533-there-is-something-wonderful-about-a-book-we-can-pick</guid>
+		<pubDate>Fri, 28 Jan 2011 14:48:37 -0800</pubDate>
+		<title>
+			<![CDATA[Melissa add a quote by Gordon B. Hinckley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/74533-there-is-something-wonderful-about-a-book-we-can-pick]]>
+		</link>
+		<description>
+	    <![CDATA["There is something wonderful about a book. We can pick it up. We can heft it. We can read it. We can set it down. We can think of what we have read. It does something for us. We can share great minds, great actions, and great undertakings in the pages of a book." -- Gordon B. Hinckley]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

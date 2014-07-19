@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1035508-ben]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1035508-ben" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 10 Apr 2008 19:49:08 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/764-a-room-without-books-is-like-a-body-without-a</guid>
+		<pubDate>Thu, 10 Apr 2008 19:49:08 -0700</pubDate>
+		<title>
+			<![CDATA[Ben add a quote by Marcus Tullius Cicero]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/764-a-room-without-books-is-like-a-body-without-a]]>
+		</link>
+		<description>
+	    <![CDATA["A room without books is like a body without a soul." -- Marcus Tullius Cicero]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/71-the-fool-doth-think-he-is-wise-but-the-wise</guid>
+		<pubDate>Thu, 10 Apr 2008 19:50:29 -0700</pubDate>
+		<title>
+			<![CDATA[Ben add a quote by William Shakespeare]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/71-the-fool-doth-think-he-is-wise-but-the-wise]]>
+		</link>
+		<description>
+	    <![CDATA["The fool doth think he is wise, but the wise man knows himself to be a fool." -- William Shakespeare]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/801-my-alma-mater-was-books-a-good-library-i-could</guid>
+		<pubDate>Sat, 12 Apr 2008 22:36:41 -0700</pubDate>
+		<title>
+			<![CDATA[Ben add a quote by Malcolm X]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/801-my-alma-mater-was-books-a-good-library-i-could]]>
+		</link>
+		<description>
+	    <![CDATA["My alma mater was books, a good library.... I could spend the rest of my life reading, just satisfying my curiosity." -- Malcolm X]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/14013-the-fact-that-we-live-at-the-bottom-of-a</guid>
+		<pubDate>Wed, 16 Apr 2008 08:49:26 -0700</pubDate>
+		<title>
+			<![CDATA[Ben add a quote by Douglas Adams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14013-the-fact-that-we-live-at-the-bottom-of-a]]>
+		</link>
+		<description>
+	    <![CDATA["The fact that we live at the bottom of a deep gravity well, on the surface of a gas covered planet going around a nuclear fireball 90 million miles away and think this to be normal is obviously some indication of how skewed our perspective tends to be." -- Douglas Adams]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

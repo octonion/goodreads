@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/677161-sean]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/677161-sean" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Dec 2007 22:51:49 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4909-i-would-love-to-go-where-no-man-has-gone</guid>
+		<pubDate>Tue, 11 Dec 2007 22:51:49 -0800</pubDate>
+		<title>
+			<![CDATA[Sean add a quote by Garth (Wayne's World)]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4909-i-would-love-to-go-where-no-man-has-gone]]>
+		</link>
+		<description>
+	    <![CDATA["I would love to go where no man has gone before... But I'll probably just stay in Aurora." -- Garth (Wayne's World)]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4910-i-can-t-complain-but-sometimes-i-still-do</guid>
+		<pubDate>Tue, 11 Dec 2007 22:52:13 -0800</pubDate>
+		<title>
+			<![CDATA[Sean add a quote by Joe Walsh]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4910-i-can-t-complain-but-sometimes-i-still-do]]>
+		</link>
+		<description>
+	    <![CDATA["I can't complain,
+But sometimes I still do." -- Joe Walsh]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

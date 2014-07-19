@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/725843-nicole]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/725843-nicole" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 20 Jan 2014 01:20:04 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/253991-people-take-different-roads-seeking-fulfillment-and-happiness-just-because</guid>
+		<pubDate>Mon, 20 Jan 2014 01:20:04 -0800</pubDate>
+		<title>
+			<![CDATA[Nicole add a quote by Dalai Lama XIV]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/253991-people-take-different-roads-seeking-fulfillment-and-happiness-just-because]]>
+		</link>
+		<description>
+	    <![CDATA["People take different roads seeking fulfillment and happiness. Just because they’re not on your road doesn’t mean they’ve gotten lost." -- Dalai Lama XIV]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2534-we-accept-the-love-we-think-we-deserve</guid>
+		<pubDate>Sun, 17 Feb 2013 02:07:37 -0800</pubDate>
+		<title>
+			<![CDATA[Nicole add a quote by Stephen Chbosky]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2534-we-accept-the-love-we-think-we-deserve]]>
+		</link>
+		<description>
+	    <![CDATA["We accept the love we think we deserve." -- Stephen Chbosky]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/110596-any-war-that-requires-the-suspension-of-reason-as-a</guid>
+		<pubDate>Mon, 29 Oct 2012 13:56:46 -0700</pubDate>
+		<title>
+			<![CDATA[Nicole add a quote by Norman Mailer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/110596-any-war-that-requires-the-suspension-of-reason-as-a]]>
+		</link>
+		<description>
+	    <![CDATA["Any war that requires the suspension of reason as a necessity for support is a bad war." -- Norman Mailer]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

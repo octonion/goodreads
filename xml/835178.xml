@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/835178-reza-rajkumar]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/835178-reza-rajkumar" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 17 Apr 2013 21:53:39 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/301243-sometimes-fate-is-like-a-small-sandstorm-that-keeps-changing</guid>
+		<pubDate>Wed, 17 Apr 2013 21:53:39 -0700</pubDate>
+		<title>
+			<![CDATA[Reza add a quote by Haruki Murakami]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/301243-sometimes-fate-is-like-a-small-sandstorm-that-keeps-changing]]>
+		</link>
+		<description>
+	    <![CDATA["Sometimes fate is like a small sandstorm that keeps changing directions. You change direction but the sandstorm chases you. You turn again, but the storm adjusts. Over and over you play this out, like some ominous dance with death just before  dawn. Why? Because this storm isn't something that has nothing to do with you, This storm is you. Something inside you. So all you can do is give in to it, step right inside the storm, closing your eyes and plugging up your ears so the sand doesn't get in, and walk through it, step by step. There's no sun there, no moon, no direction, no sense of time. Just fine white sand swirling up the sky like pulverized bones." -- Haruki Murakami]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/15200-war-is-what-happens-when-language-fails</guid>
+		<pubDate>Wed, 17 Apr 2013 21:55:11 -0700</pubDate>
+		<title>
+			<![CDATA[Reza add a quote by Margaret Atwood]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/15200-war-is-what-happens-when-language-fails]]>
+		</link>
+		<description>
+	    <![CDATA["War is what happens when language fails." -- Margaret Atwood]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

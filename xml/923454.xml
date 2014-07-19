@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/923454-cynthia]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/923454-cynthia" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 19 Mar 2008 18:28:17 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/14507-there-is-no-frigate-like-a-book-to-take-us</guid>
+		<pubDate>Wed, 19 Mar 2008 18:28:17 -0700</pubDate>
+		<title>
+			<![CDATA[Cynthia add a quote by Emily Dickinson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14507-there-is-no-frigate-like-a-book-to-take-us]]>
+		</link>
+		<description>
+	    <![CDATA["There is no Frigate like a Book 
+To take us Lands away, 
+Nor any Coursers like a Page 
+Of prancing Poetry –  
+This Traverse may the poorest take
+Without oppress of Toll –  
+How frugal is the Chariot 
+That bears a Human soul." -- Emily Dickinson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/598868-i-can-t-tell-you-how-much-i-don-t-care</guid>
+		<pubDate>Sat, 26 Oct 2013 18:55:05 -0700</pubDate>
+		<title>
+			<![CDATA[Cynthia add a quote by LAmour Louis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/598868-i-can-t-tell-you-how-much-i-don-t-care]]>
+		</link>
+		<description>
+	    <![CDATA["I can't tell you how much I don't care." -- LAmour Louis]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

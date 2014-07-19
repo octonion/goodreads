@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/974867-fatima-amer]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/974867-fatima-amer" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 02 Jun 2011 03:38:19 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/388462</guid>
+		<pubDate>Thu, 02 Jun 2011 03:38:19 -0700</pubDate>
+		<title>
+			<![CDATA[Fatima Amer add a quote by Jeffrey Lang]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/388462]]>
+		</link>
+		<description>
+	    <![CDATA["إذا كان بمقدورك أن تدرب نفسك على أن تنهض من فراشك عند الخامسة كل صباح فسوف تشعر أنه ليس هناك من تحد، مهما كبر، إلا بوسعك أن تتغلب عليه." -- Jeffrey Lang]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/602370</guid>
+		<pubDate>Wed, 08 Aug 2012 22:21:33 -0700</pubDate>
+		<title>
+			<![CDATA[Fatima Amer add a quote by مصطفى حجازي]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/602370]]>
+		</link>
+		<description>
+	    <![CDATA["تقدم الاسرة الكبيرة هوية أسرية لمن لا هوية مهنية أو علمية أو فردية له. من ليس لديه سبب ومصدر للاعتزاز الذاتي يعتز باسم أسرته. ومن عجز عن الحصول على مكانة مرموقة من خلال الانتماء إلى المؤسسات الاجتماعية يفخر بمكانة ما في أسرته وضمن عشيرته ." -- مصطفى حجازي]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

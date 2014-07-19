@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/931469-tom]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/931469-tom" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 15 Jun 2009 07:20:35 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/14640-superman-didn-t-become-superman-superman-was-born-superman-when-superman</guid>
+		<pubDate>Mon, 15 Jun 2009 07:20:35 -0700</pubDate>
+		<title>
+			<![CDATA[Tom add a quote by Quentin Tarantino]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14640-superman-didn-t-become-superman-superman-was-born-superman-when-superman]]>
+		</link>
+		<description>
+	    <![CDATA["Superman didn't become Superman. Superman was born Superman. When Superman wakes up in the morning, he's Superman. His alter ego is Clark Kent. His outfit with the big red &quot;S&quot;, that's the blanket he was wrapped in as a baby when the Kents found him. Those are his clothes. What Kent wears - the glasses, the business suit - that's the costume. That's the costume Superman wears to blend in with us. Clark Kent is how Superman views us. And what are the characteristics of Clark Kent. He's weak... he's unsure of himself... he's a coward. Clark Kent is Superman's critique on the whole human race." -- Quentin Tarantino]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/81507-phoebe]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/81507-phoebe" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 22 Jun 2012 21:13:20 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/429560-i-m-the-kind-of-person-who-likes-to-be-by</guid>
+		<pubDate>Fri, 22 Jun 2012 21:13:20 -0700</pubDate>
+		<title>
+			<![CDATA[phoebe add a quote by Haruki Murakami]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/429560-i-m-the-kind-of-person-who-likes-to-be-by]]>
+		</link>
+		<description>
+	    <![CDATA["I’m the kind of person who likes to be by himself. To put a finer point on it, I’m the type of person who doesn’t find it painful  to be alone. I find spending an hour or two every day running alone, not speaking to anyone, as well as four or five hours alone at my desk, to be neither difficult nor boring. I’ve had this tendency ever since I was young, when, given a choice, I much preferred reading books on my own or concentrating on listening to music over being with someone else. I could always think of things to do by myself." -- Haruki Murakami]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/916762-grace-artl]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/916762-grace-artl" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 14 Nov 2011 21:23:55 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/66512-i-believe-in-pink-i-believe-that-laughing-is-the</guid>
+		<pubDate>Mon, 14 Nov 2011 21:23:55 -0800</pubDate>
+		<title>
+			<![CDATA[Grace add a quote by Audrey Hepburn]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/66512-i-believe-in-pink-i-believe-that-laughing-is-the]]>
+		</link>
+		<description>
+	    <![CDATA["I believe in pink. I believe that laughing is the best calorie burner. I believe in kissing, kissing a lot. I believe in being strong when everything seems to be going wrong. I believe that happy girls are the prettiest girls. I believe that tomorrow is another day and I believe in miracles." -- Audrey Hepburn]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/302990-i-with-a-deeper-instinct-choose-a-man-who-compels</guid>
+		<pubDate>Sun, 27 Nov 2011 09:58:32 -0800</pubDate>
+		<title>
+			<![CDATA[Grace add a quote by Anais Nin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/302990-i-with-a-deeper-instinct-choose-a-man-who-compels]]>
+		</link>
+		<description>
+	    <![CDATA["I, with a deeper instinct, choose a man who compels my strength, who makes enormous demands on me, who does not doubt my courage or my toughness, who does not believe me naive or innocent, who has the courage to treat me like a woman." -- Anais Nin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

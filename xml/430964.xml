@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/430964-bonnie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/430964-bonnie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 16 Jan 2010 08:26:48 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/41586-it-takes-only-one-drink-to-get-me-drunk-the</guid>
+		<pubDate>Sat, 16 Jan 2010 08:26:48 -0800</pubDate>
+		<title>
+			<![CDATA[Bonnie add a quote by George Burns]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/41586-it-takes-only-one-drink-to-get-me-drunk-the]]>
+		</link>
+		<description>
+	    <![CDATA["It takes only one drink to get me drunk. The trouble is, I can't remember if it's the thirteenth or the fourteenth." -- George Burns]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5797-the-person-be-it-gentleman-or-lady-who-has-not</guid>
+		<pubDate>Sat, 16 Jan 2010 08:35:15 -0800</pubDate>
+		<title>
+			<![CDATA[Bonnie add a quote by Jane Austen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5797-the-person-be-it-gentleman-or-lady-who-has-not]]>
+		</link>
+		<description>
+	    <![CDATA["The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid." -- Jane Austen]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/74804-if-you-look-for-perfection-you-ll-never-be-content</guid>
+		<pubDate>Tue, 20 Nov 2012 14:52:05 -0800</pubDate>
+		<title>
+			<![CDATA[Bonnie add a quote by Leo Tolstoy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/74804-if-you-look-for-perfection-you-ll-never-be-content]]>
+		</link>
+		<description>
+	    <![CDATA["If you look for perfection, you'll never be content." -- Leo Tolstoy]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/369993-anne]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/369993-anne" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 29 Nov 2007 23:43:37 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2340-twenty-years-from-now-you-will-be-more-disappointed-by</guid>
+		<pubDate>Thu, 29 Nov 2007 23:43:37 -0800</pubDate>
+		<title>
+			<![CDATA[Anne add a quote by H. Jackson Brown Jr.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2340-twenty-years-from-now-you-will-be-more-disappointed-by]]>
+		</link>
+		<description>
+	    <![CDATA["Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover." -- H. Jackson Brown Jr.]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1204-how-we-spend-our-days-is-of-course-how-we</guid>
+		<pubDate>Thu, 29 Nov 2007 23:48:53 -0800</pubDate>
+		<title>
+			<![CDATA[Anne add a quote by Annie Dillard]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1204-how-we-spend-our-days-is-of-course-how-we]]>
+		</link>
+		<description>
+	    <![CDATA["How we spend our days is, of course, how we spend our lives." -- Annie Dillard]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

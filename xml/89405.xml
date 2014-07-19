@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/89405-mar]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/89405-mar" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 03 Jul 2011 19:44:11 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/95651-trying-to-exhaust-himself-vaughan-devised-an-endless-almanac-of</guid>
+		<pubDate>Sun, 03 Jul 2011 19:44:11 -0700</pubDate>
+		<title>
+			<![CDATA[Mar add a quote by J.G. Ballard]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/95651-trying-to-exhaust-himself-vaughan-devised-an-endless-almanac-of]]>
+		</link>
+		<description>
+	    <![CDATA["Trying to exhaust himself, Vaughan devised an endless almanac of terrifying wounds and insane collisions: The lungs of elderly men punctured by door-handles; the chests of young women impaled on steering-columns; the cheek of handsome youths torn on the chromium latches of quarter-lights. To Vaughan, these wounds formed the key to a new sexuality, born from a perverse technology. The images of these wounds hung in the gallery of his mind, like exhibits in the museum of a slaughterhouse." -- J.G. Ballard]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

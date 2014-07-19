@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/858292-usamaz]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/858292-usamaz" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 02 Feb 2008 00:23:24 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1342-goodbye-said-the-fox-and-now-here-is-my-secret</guid>
+		<pubDate>Sat, 02 Feb 2008 00:23:24 -0800</pubDate>
+		<title>
+			<![CDATA[Usamaz add a quote by Antoine de Saint-Exupéry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1342-goodbye-said-the-fox-and-now-here-is-my-secret]]>
+		</link>
+		<description>
+	    <![CDATA["Goodbye,&quot; said the fox. &quot;And now here is my secret, a very simple secret: It is only with the heart that one can see rightly; what is essential is invisible to the eye." -- Antoine de Saint-Exupéry]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/20563-life-is-a-tale-told-by-an-idiot-full</guid>
+		<pubDate>Sat, 02 Feb 2008 00:24:36 -0800</pubDate>
+		<title>
+			<![CDATA[Usamaz add a quote by William Shakespeare]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20563-life-is-a-tale-told-by-an-idiot-full]]>
+		</link>
+		<description>
+	    <![CDATA["Life ... is a tale
+Told by an idiot, full of sound and fury,
+Signifying nothing." -- William Shakespeare]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/20566-everybody-can-get-angry-that-s-easy-but-getting-angry-at</guid>
+		<pubDate>Sat, 02 Feb 2008 00:28:19 -0800</pubDate>
+		<title>
+			<![CDATA[Usamaz add a quote by (Aristotle)]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20566-everybody-can-get-angry-that-s-easy-but-getting-angry-at]]>
+		</link>
+		<description>
+	    <![CDATA["Everybody can get angry, that's easy. But getting angry at the right person, with the right intensity, at the right time, for the right reason and in the right way that's hard." -- (Aristotle)]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

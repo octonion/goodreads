@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/310338-aman3h]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/310338-aman3h" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 20 Nov 2012 01:00:35 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/36609-as-a-writer-you-should-not-judge-you-should-understand</guid>
+		<pubDate>Tue, 20 Nov 2012 01:00:35 -0800</pubDate>
+		<title>
+			<![CDATA[$aman3h add a quote by Ernest Hemingway]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/36609-as-a-writer-you-should-not-judge-you-should-understand]]>
+		</link>
+		<description>
+	    <![CDATA["As a writer, you should not judge, you should understand." -- Ernest Hemingway]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/111352-but-man-is-not-made-for-defeat-he-said-a</guid>
+		<pubDate>Thu, 15 May 2014 22:05:18 -0700</pubDate>
+		<title>
+			<![CDATA[$aman3h add a quote by Ernest Hemingway]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/111352-but-man-is-not-made-for-defeat-he-said-a]]>
+		</link>
+		<description>
+	    <![CDATA["But man is not made for defeat,&quot; he said. &quot;A man can be destroyed but not defeated. " -- Ernest Hemingway]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

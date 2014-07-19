@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/760062-melanie-storrusten]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/760062-melanie-storrusten" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 08 Jan 2008 20:21:34 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/11688-every-person-born-into-the-world-represents-something-new-something</guid>
+		<pubDate>Tue, 08 Jan 2008 20:21:34 -0800</pubDate>
+		<title>
+			<![CDATA[Melanie add a quote by Martin Buber]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11688-every-person-born-into-the-world-represents-something-new-something]]>
+		</link>
+		<description>
+	    <![CDATA["Every person born into the world represents something new, something that never existed before, something original and unique....If there had been someone like her in the world, there would have been no need for her to be born.&quot; --Martin Buber as quoted in Narrative Means for Sober Ends, by Jon Diamond, p.78" -- Martin Buber]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/11689-a-poem-needs-disguises-it-needs-secrets-it-thrives-on</guid>
+		<pubDate>Tue, 08 Jan 2008 20:24:25 -0800</pubDate>
+		<title>
+			<![CDATA[Melanie add a quote by J.D. McClatchy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11689-a-poem-needs-disguises-it-needs-secrets-it-thrives-on]]>
+		</link>
+		<description>
+	    <![CDATA["A poem needs disguises. It needs secrets. It thrives on the tension between what is said and not said; it prefers the oblique, the implied, the ironic, the suggestive; when it speaks, it wants you to lean forward a little to overhear; it wants you to understand things only years later." -- J.D. McClatchy]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

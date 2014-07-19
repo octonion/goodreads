@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/916595-chris]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/916595-chris" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 17 Feb 2008 19:00:58 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/16971-once-you-realize-that-the-road-is-the-goal-and</guid>
+		<pubDate>Sun, 17 Feb 2008 19:00:58 -0800</pubDate>
+		<title>
+			<![CDATA[Chris add a quote by Sri Nisargadatta Maharaj]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16971-once-you-realize-that-the-road-is-the-goal-and]]>
+		</link>
+		<description>
+	    <![CDATA["Once you realize that the road is the goal and that you are always on the road, not to reach a goal, but to enjoy its beauty and its wisdom, life ceases to be a task and becomes natural and simple, in itself an ecstasy." -- Sri Nisargadatta Maharaj]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/21396-if-you-can-see-your-path-laid-out-in-front</guid>
+		<pubDate>Sun, 17 Feb 2008 19:02:12 -0800</pubDate>
+		<title>
+			<![CDATA[Chris add a quote by Joseph Campbell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21396-if-you-can-see-your-path-laid-out-in-front]]>
+		</link>
+		<description>
+	    <![CDATA["If you can see your path laid out in front of you step by step, you know it's not your path.  Your own path you make with every step you take.  That's why it's your path." -- Joseph Campbell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

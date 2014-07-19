@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/850191-julie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/850191-julie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 10 Jan 2014 14:06:54 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/114306-how-do-you-pick-up-the-threads-of-an-old</guid>
+		<pubDate>Fri, 10 Jan 2014 14:06:54 -0800</pubDate>
+		<title>
+			<![CDATA[Julie add a quote by J.R.R. Tolkien]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/114306-how-do-you-pick-up-the-threads-of-an-old]]>
+		</link>
+		<description>
+	    <![CDATA["How do you pick up the threads of an old life? How do you go on, when in your heart, you begin to understand, there is no going back? There are some things that time cannot mend. Some hurts that go too deep...that have taken hold." -- J.R.R. Tolkien]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/994260-i-have-been-bent-and-broken-but-i-hope</guid>
+		<pubDate>Sun, 26 Jan 2014 11:58:59 -0800</pubDate>
+		<title>
+			<![CDATA[Julie add a quote by Charles Dickens]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/994260-i-have-been-bent-and-broken-but-i-hope]]>
+		</link>
+		<description>
+	    <![CDATA["I have been bent and broken, but — I hope — into a better shape." -- Charles Dickens]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

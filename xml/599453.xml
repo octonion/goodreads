@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/599453-flyingfox]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/599453-flyingfox" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 29 Mar 2013 10:21:56 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/768036-delvig-s-best-poem-is-the-one-he-dedicated-to-pushkin</guid>
+		<pubDate>Fri, 29 Mar 2013 10:21:56 -0700</pubDate>
+		<title>
+			<![CDATA[Flyingfox add a quote by Vladimir Nabokov]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/768036-delvig-s-best-poem-is-the-one-he-dedicated-to-pushkin]]>
+		</link>
+		<description>
+	    <![CDATA["Delvig's best poem is the one he dedicated to Pushkin, his schoolmate, in January 1815. A boy of sixteen, prophesying in exact detail literary immortality to a boy of fifteen, and doing it in a poem that is itself immortal - this is a combination of intuitive genius and actual destiny to which I can find no parallel in the history of world poetry." -- Vladimir Nabokov]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

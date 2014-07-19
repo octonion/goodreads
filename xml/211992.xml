@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/211992-wendi-igo]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/211992-wendi-igo" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 24 May 2012 00:24:10 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/154899-copyright-law-has-got-to-give-up-its-obsession-with</guid>
+		<pubDate>Thu, 24 May 2012 00:24:10 -0700</pubDate>
+		<title>
+			<![CDATA[Wendi'igo add a quote by Lawrence Lessig]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/154899-copyright-law-has-got-to-give-up-its-obsession-with]]>
+		</link>
+		<description>
+	    <![CDATA["Copyright law has got to give up its obsession with 'the copy.'  The law should not regulate 'copies' or 'modern reproductions' on their own.  It should instead regulate uses--like public distributions of copies of copyrighted work--that connect directly to the economic incentive copyright law was intended to foster." -- Lawrence Lessig]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/167462-if-the-law-imposed-the-death-penalty-for-parking-tickets</guid>
+		<pubDate>Thu, 24 May 2012 00:24:18 -0700</pubDate>
+		<title>
+			<![CDATA[Wendi'igo add a quote by Lawrence Lessig]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/167462-if-the-law-imposed-the-death-penalty-for-parking-tickets]]>
+		</link>
+		<description>
+	    <![CDATA["If the law imposed the death penalty for parking tickets, we’d not only have fewer parking tickets, we’d also have much
+less driving.
+" -- Lawrence Lessig]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

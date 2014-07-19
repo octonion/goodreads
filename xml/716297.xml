@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/716297-ashley]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/716297-ashley" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 06 Dec 2009 20:44:49 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/54301-remember-remember-this-is-now-and-now-and-now-live</guid>
+		<pubDate>Sun, 06 Dec 2009 20:44:49 -0800</pubDate>
+		<title>
+			<![CDATA[ashley add a quote by Sylvia Plath]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/54301-remember-remember-this-is-now-and-now-and-now-live]]>
+		</link>
+		<description>
+	    <![CDATA["Remember, remember, this is now, and now, and now. Live it, feel it, cling to it. I want to become acutely aware of all I’ve taken for granted." -- Sylvia Plath]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3710-we-love-the-things-we-love-for-what-they-are</guid>
+		<pubDate>Sun, 06 Dec 2009 20:45:42 -0800</pubDate>
+		<title>
+			<![CDATA[ashley add a quote by Robert Frost]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3710-we-love-the-things-we-love-for-what-they-are]]>
+		</link>
+		<description>
+	    <![CDATA["We love the things we love for what they are." -- Robert Frost]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/761-sometimes-it-s-a-form-of-love-just-to-talk-to</guid>
+		<pubDate>Sun, 06 Dec 2009 20:45:55 -0800</pubDate>
+		<title>
+			<![CDATA[ashley add a quote by David Byrne]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/761-sometimes-it-s-a-form-of-love-just-to-talk-to]]>
+		</link>
+		<description>
+	    <![CDATA["Sometimes it's a form of love just to talk to somebody that you have nothing in common with and still be fascinated by their presence." -- David Byrne]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

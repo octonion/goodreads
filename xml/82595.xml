@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/82595-alycia]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/82595-alycia" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 04 Aug 2013 19:22:43 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/33210-a-nation-can-survive-its-fools-and-even-the-ambitious</guid>
+		<pubDate>Sun, 04 Aug 2013 19:22:43 -0700</pubDate>
+		<title>
+			<![CDATA[Alycia add a quote by Marcus Tullius Cicero ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/33210-a-nation-can-survive-its-fools-and-even-the-ambitious]]>
+		</link>
+		<description>
+	    <![CDATA["A nation can survive its fools, and even the ambitious. But it cannot survive treason from within. An enemy at the gates is less formidable, for he is known and carries his banner openly. But the traitor moves amongst those within the gate freely, his sly whispers rustling through all the alleys, heard in the very halls of government itself. For the traitor appears not a traitor; he speaks in accents familiar to his victims, and he wears their face and their arguments, he appeals to the baseness that lies deep in the hearts of all men. He rots the soul of a nation, he works secretly and unknown in the night to undermine the pillars of the city, he infects the body politic so that it can no longer resist. A murderer is less to fear." -- Marcus Tullius Cicero ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/24991-do-not-pity-the-dead-harry-pity-the-living-and</guid>
+		<pubDate>Mon, 19 Aug 2013 20:46:16 -0700</pubDate>
+		<title>
+			<![CDATA[Alycia add a quote by J.K. Rowling]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/24991-do-not-pity-the-dead-harry-pity-the-living-and]]>
+		</link>
+		<description>
+	    <![CDATA["Do not pity the dead, Harry. Pity the living, and, above all those who live without love." -- J.K. Rowling]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

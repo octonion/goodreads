@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/786829-liz]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/786829-liz" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 Dec 2009 11:59:55 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2275-knowing-can-be-a-curse-on-a-person-s-life-i-d</guid>
+		<pubDate>Tue, 01 Dec 2009 11:59:55 -0800</pubDate>
+		<title>
+			<![CDATA[Liz add a quote by Sue Monk Kidd]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2275-knowing-can-be-a-curse-on-a-person-s-life-i-d]]>
+		</link>
+		<description>
+	    <![CDATA["Knowing can be a curse on a person's life. I'd traded in a pack of lies for a pack of truth, and I didn't know which one was heavier. Which one took the most strength to carry around? It was a ridiculous question, though, because once you know the truth, you can't ever go back and pick up your suitcase of lies. Heavier or not, the truth is yours now." -- Sue Monk Kidd]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/959075-jor-dahn]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/959075-jor-dahn" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 Nov 2011 14:55:16 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/33-men-occasionally-stumble-over-the-truth-but-most-of-them</guid>
+		<pubDate>Tue, 01 Nov 2011 14:55:16 -0700</pubDate>
+		<title>
+			<![CDATA[Jor-dahn add a quote by Winston S. Churchill]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/33-men-occasionally-stumble-over-the-truth-but-most-of-them]]>
+		</link>
+		<description>
+	    <![CDATA["Men occasionally stumble over the truth, but most of them pick themselves up and hurry off as if nothing ever happened." -- Winston S. Churchill]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/22956-the-most-essential-gift-for-a-good-writer-is-a</guid>
+		<pubDate>Sun, 08 Apr 2012 21:04:47 -0700</pubDate>
+		<title>
+			<![CDATA[Jor-dahn add a quote by Hemingway, Ernest]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22956-the-most-essential-gift-for-a-good-writer-is-a]]>
+		</link>
+		<description>
+	    <![CDATA["The most essential gift for a good writer is a built-in, shockproof, shit detector." -- Hemingway, Ernest]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

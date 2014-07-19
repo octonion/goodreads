@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1009294-tara-bauman]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1009294-tara-bauman" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 20 Mar 2008 16:14:19 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/10438-educate-your-children-to-self-control-to-the-habit-of-holding</guid>
+		<pubDate>Thu, 20 Mar 2008 16:14:19 -0700</pubDate>
+		<title>
+			<![CDATA[Tara add a quote by Benjamin Franklin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10438-educate-your-children-to-self-control-to-the-habit-of-holding]]>
+		</link>
+		<description>
+	    <![CDATA["Educate your children to self-control, to the habit of holding passion and prejudice and evil tendencies subject to an upright and reasoning will, and you have done much to abolish misery from their future and crimes from society." -- Benjamin Franklin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/36693-people-will-do-anything-no-matter-how-absurd-to-avoid</guid>
+		<pubDate>Thu, 20 Mar 2008 16:16:21 -0700</pubDate>
+		<title>
+			<![CDATA[Tara add a quote by Carl Gustav Jung]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/36693-people-will-do-anything-no-matter-how-absurd-to-avoid]]>
+		</link>
+		<description>
+	    <![CDATA["People will do anything, no matter how absurd, to avoid facing their own souls." -- Carl Gustav Jung]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

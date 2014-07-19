@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/330363-brittany]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/330363-brittany" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 23 Jan 2014 22:57:55 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1009549-at-least-the-angels-didn-t-have-the-sense-of-humor</guid>
+		<pubDate>Thu, 23 Jan 2014 22:57:55 -0800</pubDate>
+		<title>
+			<![CDATA[Brittany add a quote by Susan Ee]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1009549-at-least-the-angels-didn-t-have-the-sense-of-humor]]>
+		</link>
+		<description>
+	    <![CDATA["At least the angels didn’t have the sense of humor to take over the neighboring Angel Island instead. That’s something Raffe probably would have done if he had been in charge." -- Susan Ee]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/543677-libraries-were-full-of-ideas-perhaps-the-most-dangerous-and-powerful</guid>
+		<pubDate>Wed, 29 Jan 2014 11:34:55 -0800</pubDate>
+		<title>
+			<![CDATA[Brittany add a quote by Sarah J. Maas]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/543677-libraries-were-full-of-ideas-perhaps-the-most-dangerous-and-powerful]]>
+		</link>
+		<description>
+	    <![CDATA["Libraries were full of ideas–perhaps the most dangerous and powerful of all weapons." -- Sarah J. Maas]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

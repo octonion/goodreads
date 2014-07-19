@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/439944-megan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/439944-megan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 15 May 2009 08:02:31 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/84952-we-d-just-shared-the-last-beer-and-slung-the-empty</guid>
+		<pubDate>Fri, 15 May 2009 08:02:31 -0700</pubDate>
+		<title>
+			<![CDATA[Megan add a quote by Ken Kesey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/84952-we-d-just-shared-the-last-beer-and-slung-the-empty]]>
+		</link>
+		<description>
+	    <![CDATA["We'd just shared the last beer and slung the empty can out the window at a stop sign and were just waiting back to get the feel of the day, swimming in that kind of tasty drowsiness that comes over you after a day of going hard at something you enjoy doing -- half sunburned and half drunk and keeping awake only because you wanted to savor the taste as long as you could." -- Ken Kesey]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

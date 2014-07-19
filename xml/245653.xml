@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/245653-matt-sharon]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/245653-matt-sharon" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 02 Dec 2013 15:31:18 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/222083-in-the-world-it-is-called-tolerance-but-in-hell</guid>
+		<pubDate>Mon, 02 Dec 2013 15:31:18 -0800</pubDate>
+		<title>
+			<![CDATA[Matt/Sharon add a quote by Dorothy L. Sayers]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/222083-in-the-world-it-is-called-tolerance-but-in-hell]]>
+		</link>
+		<description>
+	    <![CDATA["In the world it is called Tolerance, but in hell it is called Despair...the sin that believes in nothing, cares for nothing, seeks to know nothing, interferes with nothing, enjoys nothing, hates nothing, finds purpose in nothing, lives for nothing, and remains alive because there is nothing for which it will die." -- Dorothy L. Sayers]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

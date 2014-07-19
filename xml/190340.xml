@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/190340-leanna]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/190340-leanna" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 24 Jul 2010 21:00:08 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/160756-on-the-girl-s-brown-legs-there-were-many-small-white</guid>
+		<pubDate>Sat, 24 Jul 2010 21:00:08 -0700</pubDate>
+		<title>
+			<![CDATA[Leanna add a quote by Chris Cleave]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/160756-on-the-girl-s-brown-legs-there-were-many-small-white]]>
+		</link>
+		<description>
+	    <![CDATA["On the girl's brown legs there were many small white scars. I was thinking, Do those scars cover the whole of you, like the stars and the moons on your dress? I thought that would be pretty too, and I ask you right here please to agree with me that a scar is never ugly. That is what the scar makers want us to think. But you and I, we must make an agreement to defy them. We must see all scars as beauty. Okay? This will be our secret. Because take it from me, a scar does not form on the dying. A scar means, I survived." -- Chris Cleave]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

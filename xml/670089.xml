@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/670089-stephanie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/670089-stephanie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 29 Nov 2008 02:29:59 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1928-if-you-re-looking-for-sympathy-you-ll-find-it-between-shit</guid>
+		<pubDate>Sat, 29 Nov 2008 02:29:59 -0800</pubDate>
+		<title>
+			<![CDATA[Stephanie add a quote by David Sedaris]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1928-if-you-re-looking-for-sympathy-you-ll-find-it-between-shit]]>
+		</link>
+		<description>
+	    <![CDATA["If you're looking for sympathy you'll find it between shit and syphilis in the dictionary." -- David Sedaris]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2027-the-cure-for-boredom-is-curiosity-there-is-no-cure</guid>
+		<pubDate>Mon, 15 Dec 2008 14:13:19 -0800</pubDate>
+		<title>
+			<![CDATA[Stephanie add a quote by Dorothy Parker]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2027-the-cure-for-boredom-is-curiosity-there-is-no-cure]]>
+		</link>
+		<description>
+	    <![CDATA["The cure for boredom is curiosity.
+There is no cure for curiosity." -- Dorothy Parker]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

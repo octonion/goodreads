@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/110051-becky]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/110051-becky" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 08 Feb 2012 09:33:23 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/51498-we-are-of-opinion-that-instead-of-letting-books-grow</guid>
+		<pubDate>Wed, 08 Feb 2012 09:33:23 -0800</pubDate>
+		<title>
+			<![CDATA[Becky add a quote by Jules Verne]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/51498-we-are-of-opinion-that-instead-of-letting-books-grow]]>
+		</link>
+		<description>
+	    <![CDATA["We are of opinion that instead of letting books grow moldy behind an iron grating, far from the vulgar gaze, it is better to let them wear out by being read." -- Jules Verne]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

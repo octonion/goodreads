@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/762505-stu-berkowitz]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/762505-stu-berkowitz" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 02 Jan 2012 14:28:24 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/12070-finally-from-so-little-sleeping-and-so-much-reading-his</guid>
+		<pubDate>Mon, 02 Jan 2012 14:28:24 -0800</pubDate>
+		<title>
+			<![CDATA[Stu add a quote by Miguel de Cervantes Saavedra]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12070-finally-from-so-little-sleeping-and-so-much-reading-his]]>
+		</link>
+		<description>
+	    <![CDATA["Finally, from so little sleeping and so much reading, his brain dried up and he went completely out of his mind." -- Miguel de Cervantes Saavedra]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/942-two-things-are-infinite-the-universe-and-human-stupidity-and</guid>
+		<pubDate>Fri, 10 Aug 2012 18:05:11 -0700</pubDate>
+		<title>
+			<![CDATA[Stu add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/942-two-things-are-infinite-the-universe-and-human-stupidity-and]]>
+		</link>
+		<description>
+	    <![CDATA["Two things are infinite: the universe and human stupidity; and I'm not sure about the universe." -- Albert Einstein]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

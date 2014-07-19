@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1012544-sara]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1012544-sara" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 31 Mar 2013 06:41:20 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/601295-if-there-was-anything-i-learned-from-john-the-baptist</guid>
+		<pubDate>Sun, 31 Mar 2013 06:41:20 -0700</pubDate>
+		<title>
+			<![CDATA[Sara add a quote by Christopher Moore]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/601295-if-there-was-anything-i-learned-from-john-the-baptist]]>
+		</link>
+		<description>
+	    <![CDATA["If there was anything I learned from John the Baptist, it was that the sooner you confess a mistake, the quicker you can get on to making new and better mistakes." -- Christopher Moore]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

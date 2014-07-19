@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/120371-wini]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/120371-wini" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 25 Jun 2008 03:39:34 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/66716</guid>
+		<pubDate>Wed, 25 Jun 2008 03:39:34 -0700</pubDate>
+		<title>
+			<![CDATA[Wini add a quote by 賴淑惠]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/66716]]>
+		</link>
+		<description>
+	    <![CDATA["選擇放下，就能活在當下" -- 賴淑惠]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/275340-i-m-going-to-smile-and-my-smile-will-sink-down</guid>
+		<pubDate>Sat, 11 Aug 2012 03:31:35 -0700</pubDate>
+		<title>
+			<![CDATA[Wini add a quote by Jean-Paul Sartre]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/275340-i-m-going-to-smile-and-my-smile-will-sink-down]]>
+		</link>
+		<description>
+	    <![CDATA["I'm going to smile, and my smile will sink down into your pupils, and heaven knows what it will become." -- Jean-Paul Sartre]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

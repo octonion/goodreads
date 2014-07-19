@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/698918-liz-daddino]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/698918-liz-daddino" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 19 Dec 2007 08:56:28 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/14390-there-is-only-one-thing-that-makes-a-dream-impossible</guid>
+		<pubDate>Wed, 19 Dec 2007 08:56:28 -0800</pubDate>
+		<title>
+			<![CDATA[Liz add a quote by Paulo Coelho]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14390-there-is-only-one-thing-that-makes-a-dream-impossible]]>
+		</link>
+		<description>
+	    <![CDATA["There is only one thing that makes a dream impossible to achieve: the fear of failure." -- Paulo Coelho]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/31035-every-man-dies-not-every-man-really-lives</guid>
+		<pubDate>Wed, 19 Dec 2007 08:58:56 -0800</pubDate>
+		<title>
+			<![CDATA[Liz add a quote by Randall Wallace]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/31035-every-man-dies-not-every-man-really-lives]]>
+		</link>
+		<description>
+	    <![CDATA["Every man dies, not every man really lives" -- Randall Wallace]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

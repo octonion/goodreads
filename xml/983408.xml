@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/983408-robin-dawes]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/983408-robin-dawes" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 01 Apr 2013 10:21:36 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/157896-and-little-he-knew-of-the-things-that-ink-may</guid>
+		<pubDate>Mon, 01 Apr 2013 10:21:36 -0700</pubDate>
+		<title>
+			<![CDATA[Robin add a quote by Lord Dunsany]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/157896-and-little-he-knew-of-the-things-that-ink-may]]>
+		</link>
+		<description>
+	    <![CDATA["And little he knew of the things that ink may do, how it can mark a dead man's thought for the wonder of later years, and tell of happening that are gone clean away, and be a voice for us out of the dark of time, and save many a fragile thing from the pounding of heavy ages; or carry to us, over the rolling centuries, even a song from lips long dead on forgotten hills." -- Lord Dunsany]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

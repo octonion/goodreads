@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/966275-karma]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/966275-karma" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 07 Aug 2011 15:14:39 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/34937-reading-is-one-of-the-true-pleasures-of-life-in</guid>
+		<pubDate>Sun, 07 Aug 2011 15:14:39 -0700</pubDate>
+		<title>
+			<![CDATA[Karma add a quote by Thomas S. Monson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/34937-reading-is-one-of-the-true-pleasures-of-life-in]]>
+		</link>
+		<description>
+	    <![CDATA["Reading is one of the true pleasures of life.  In our age of mass culture, when so much that we encounter is abridged,adapted, adulterated, shredded, and boiled down, it is mind-easing and mind-inspiring to sit down privately with a congenial book..." -- Thomas S. Monson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1718-the-very-least-you-can-do-in-your-life-is</guid>
+		<pubDate>Sun, 08 Apr 2012 23:31:02 -0700</pubDate>
+		<title>
+			<![CDATA[Karma add a quote by Barbara Kingsolver]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1718-the-very-least-you-can-do-in-your-life-is]]>
+		</link>
+		<description>
+	    <![CDATA["The very least you can do in your life is figure out what you hope for. And the most you can do is live inside that hope. Not admire it from a distance but live right in it, under its roof." -- Barbara Kingsolver]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1149-be-careful-about-reading-health-books-you-may-die-of</guid>
+		<pubDate>Sun, 10 Nov 2013 11:11:12 -0800</pubDate>
+		<title>
+			<![CDATA[Karma add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1149-be-careful-about-reading-health-books-you-may-die-of]]>
+		</link>
+		<description>
+	    <![CDATA["Be careful about reading health books. You may die of a misprint." -- Mark Twain]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

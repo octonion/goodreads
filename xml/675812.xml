@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/675812-kassie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/675812-kassie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Dec 2007 06:52:17 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4772-i-am-tomorrow-or-some-future-day-what-i-establish</guid>
+		<pubDate>Tue, 11 Dec 2007 06:52:17 -0800</pubDate>
+		<title>
+			<![CDATA[Kassie add a quote by James Joyce]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4772-i-am-tomorrow-or-some-future-day-what-i-establish]]>
+		</link>
+		<description>
+	    <![CDATA["I am tomorrow, or some future day, what I establish today. I am today what I established yesterday or some previous day." -- James Joyce]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/25-we-are-all-in-the-gutter-but-some-of-us</guid>
+		<pubDate>Thu, 13 Dec 2007 12:57:21 -0800</pubDate>
+		<title>
+			<![CDATA[Kassie add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/25-we-are-all-in-the-gutter-but-some-of-us]]>
+		</link>
+		<description>
+	    <![CDATA["We are all in the gutter, but some of us are looking at the stars." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4661-man-cannot-discover-new-oceans-unless-he-has-the-courage</guid>
+		<pubDate>Tue, 12 Feb 2008 08:09:38 -0800</pubDate>
+		<title>
+			<![CDATA[Kassie add a quote by Andre Gide]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4661-man-cannot-discover-new-oceans-unless-he-has-the-courage]]>
+		</link>
+		<description>
+	    <![CDATA["Man cannot discover new oceans unless he has the courage to lose sight of the shore." -- Andre Gide]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

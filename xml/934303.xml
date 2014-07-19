@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/934303-claire]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/934303-claire" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 10 Jul 2012 16:04:09 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/55278-no-misfortune-is-so-bad-that-whining-about-it-won-t</guid>
+		<pubDate>Tue, 10 Jul 2012 16:04:09 -0700</pubDate>
+		<title>
+			<![CDATA[Claire add a quote by Jeffrey R. Holland]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/55278-no-misfortune-is-so-bad-that-whining-about-it-won-t]]>
+		</link>
+		<description>
+	    <![CDATA["No misfortune is so bad that whining about it won’t make it worse.  (Apr 2007 Gen Conf)" -- Jeffrey R. Holland]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/770834-mes-mose]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/770834-mes-mose" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 31 Jan 2008 23:20:11 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/20101-with-me-it-is-better-never-than-late</guid>
+		<pubDate>Thu, 31 Jan 2008 23:20:11 -0800</pubDate>
+		<title>
+			<![CDATA[Mes add a quote by ngugi wa thiongo]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20101-with-me-it-is-better-never-than-late]]>
+		</link>
+		<description>
+	    <![CDATA["with me,it is 'better never than late" -- ngugi wa thiongo]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/21539-good-name-in-man-and-woman-dear-my-lord-is</guid>
+		<pubDate>Wed, 25 Jun 2008 23:26:35 -0700</pubDate>
+		<title>
+			<![CDATA[Mes add a quote by William Shakespeare]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21539-good-name-in-man-and-woman-dear-my-lord-is]]>
+		</link>
+		<description>
+	    <![CDATA["Good name in man and woman, dear my lord,
+Is the immediate jewel of their souls:
+Who steals my purse steals trash; ’tis something, nothing;
+’twas mine, ’tis his, and has been slave to thousands;
+But he that filches from me my good name
+Robs me of that which not enriches him, 
+And makes me poor indeed." -- William Shakespeare]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

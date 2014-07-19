@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/285567-robertmcelaney]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/285567-robertmcelaney" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 23 Jun 2008 09:20:47 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/31582-whenever-serious-and-competent-people-need-to-get-things-done</guid>
+		<pubDate>Mon, 23 Jun 2008 09:20:47 -0700</pubDate>
+		<title>
+			<![CDATA[Robertmcelaney add a quote by Neal Stephenson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/31582-whenever-serious-and-competent-people-need-to-get-things-done]]>
+		</link>
+		<description>
+	    <![CDATA["Whenever serious and competent people need to get things done in the real world, all considerations of tradition and protocol fly out the window." -- Neal Stephenson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4104-even-if-there-is-only-one-possible-unified-theory-it</guid>
+		<pubDate>Mon, 23 Jun 2008 10:35:46 -0700</pubDate>
+		<title>
+			<![CDATA[Robertmcelaney add a quote by Stephen Hawking]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4104-even-if-there-is-only-one-possible-unified-theory-it]]>
+		</link>
+		<description>
+	    <![CDATA["Even if there is only one possible unified theory, it is just a set of rules and equations. What is it that breathes fire into the equations and makes a universe for them to describe? The usual approach of science of constructing a mathematical model cannot answer the questions of why there should be a universe for the model to describe. Why does the universe go to all the bother of existing?" -- Stephen Hawking]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/20895-i-love-those-who-yearn-for-the-impossible</guid>
+		<pubDate>Mon, 29 Sep 2008 20:52:59 -0700</pubDate>
+		<title>
+			<![CDATA[Robertmcelaney add a quote by Johann wolfgang von Goethe]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20895-i-love-those-who-yearn-for-the-impossible]]>
+		</link>
+		<description>
+	    <![CDATA["I love those who yearn for the impossible." -- Johann wolfgang von Goethe]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

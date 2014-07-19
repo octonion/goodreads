@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/638034-natalie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/638034-natalie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 16 May 2009 08:05:13 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/12042-that-which-can-be-asserted-without-evidence-can-be-dismissed</guid>
+		<pubDate>Sat, 16 May 2009 08:05:13 -0700</pubDate>
+		<title>
+			<![CDATA[Natalie add a quote by Christopher Hitchens]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12042-that-which-can-be-asserted-without-evidence-can-be-dismissed]]>
+		</link>
+		<description>
+	    <![CDATA["That which can be asserted without evidence, can be dismissed without evidence." -- Christopher Hitchens]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/8510-to-argue-with-a-man-who-has-renounced-the-use</guid>
+		<pubDate>Sat, 16 May 2009 08:05:59 -0700</pubDate>
+		<title>
+			<![CDATA[Natalie add a quote by Thomas Paine]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8510-to-argue-with-a-man-who-has-renounced-the-use]]>
+		</link>
+		<description>
+	    <![CDATA["To argue with a man who has renounced the use and authority of reason, and whose philosophy consists in holding humanity in contempt, is like administering medicine to the dead, or endeavoring to convert an atheist by scripture." -- Thomas Paine]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

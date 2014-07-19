@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/799519-bill]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/799519-bill" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 17 Dec 2009 18:53:55 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/166119-it-may-be-that-when-we-no-longer-know-what</guid>
+		<pubDate>Thu, 17 Dec 2009 18:53:55 -0800</pubDate>
+		<title>
+			<![CDATA[Bill add a quote by Wendell Berry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/166119-it-may-be-that-when-we-no-longer-know-what]]>
+		</link>
+		<description>
+	    <![CDATA["It may be that when we no longer know what to do, 
+we have come to our real work 
+and when we no longer know which way to go, 
+we have begun our real journey. 
+ 
+The mind that is not baffled is not employed. 
+The impeded stream is the one that sings." -- Wendell Berry]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/63661-most-good-things-have-been-said-far-too-many-times</guid>
+		<pubDate>Sun, 28 Oct 2012 12:27:52 -0700</pubDate>
+		<title>
+			<![CDATA[Bill add a quote by Shane Claiborne]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/63661-most-good-things-have-been-said-far-too-many-times]]>
+		</link>
+		<description>
+	    <![CDATA["Most good things have been said far too many times and just need to be lived." -- Shane Claiborne]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/783586-mary]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/783586-mary" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 14 Aug 2010 05:40:30 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/59448-my-beloved-is-the-sun-and-i-am-the-earth</guid>
+		<pubDate>Sat, 14 Aug 2010 05:40:30 -0700</pubDate>
+		<title>
+			<![CDATA[Mary  add a quote by C.L. Wilson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/59448-my-beloved-is-the-sun-and-i-am-the-earth]]>
+		</link>
+		<description>
+	    <![CDATA["My beloved is the sun
+And I am the earth that thrives only in her warmth. My beloved is the rain
+And I am the grass that thirsts for her quenching kiss. My beloved is the wind
+And I am the wings that soar when she fills me with her gentle strength.
+My beloved is the rock
+Upon which rests the happiness of all my days.
+—The Elements of Love, a poem by Aileron v'En Kavali of the Fey" -- C.L. Wilson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/7901-you-know-you-re-in-love-when-you-can-t-fall-asleep</guid>
+		<pubDate>Mon, 16 Aug 2010 00:34:23 -0700</pubDate>
+		<title>
+			<![CDATA[Mary  add a quote by Dr. Seuss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7901-you-know-you-re-in-love-when-you-can-t-fall-asleep]]>
+		</link>
+		<description>
+	    <![CDATA["You know you're in love when you can't fall asleep because reality is finally better than your dreams." -- Dr. Seuss]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

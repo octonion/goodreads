@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/852301-carrie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/852301-carrie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 18 Feb 2008 10:39:31 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/31315-education-is-a-progressive-discovery-of-our-own-ignorance</guid>
+		<pubDate>Mon, 18 Feb 2008 10:39:31 -0800</pubDate>
+		<title>
+			<![CDATA[Carrie add a quote by Will Durant]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/31315-education-is-a-progressive-discovery-of-our-own-ignorance]]>
+		</link>
+		<description>
+	    <![CDATA["Education is a progressive discovery of our own ignorance." -- Will Durant]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/919-the-man-who-does-not-read-has-no-advantage-over</guid>
+		<pubDate>Mon, 18 Feb 2008 10:41:24 -0800</pubDate>
+		<title>
+			<![CDATA[Carrie add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/919-the-man-who-does-not-read-has-no-advantage-over]]>
+		</link>
+		<description>
+	    <![CDATA["The man who does not read has no advantage over the man who cannot read." -- Mark Twain]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/60143-nothing-that-is-worth-doing-can-be-achieved-in-our</guid>
+		<pubDate>Mon, 18 Feb 2008 10:42:37 -0800</pubDate>
+		<title>
+			<![CDATA[Carrie add a quote by Reinhold Niebuhr]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/60143-nothing-that-is-worth-doing-can-be-achieved-in-our]]>
+		</link>
+		<description>
+	    <![CDATA["Nothing that is worth doing can be achieved in our lifetime; therefore we must be saved by hope. 
+
+Nothing which is true or beautiful or good makes complete sense in any immediate context of history; therefore we must be saved by faith. 
+
+Nothing we do, however virtuous, can be accomplished alone; therefore we must be saved by love. 
+
+No virtuous act is quite as virtuous from the standpoint of our friend or foe as it is from our standpoint. Therefore we must be saved by the final form of love which is forgiveness." -- Reinhold Niebuhr]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

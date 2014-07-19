@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/757090-sonja-milbourn]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/757090-sonja-milbourn" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 09 May 2012 04:03:31 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/15251-so-please-oh-please-we-beg-we-pray-go-throw</guid>
+		<pubDate>Wed, 09 May 2012 04:03:31 -0700</pubDate>
+		<title>
+			<![CDATA[Sonja add a quote by Roald Dahl]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/15251-so-please-oh-please-we-beg-we-pray-go-throw]]>
+		</link>
+		<description>
+	    <![CDATA["So, please, oh please, we beg, we pray, go throw your TV set away, and in its place you can install, a lovely bookcase on the wall." -- Roald Dahl]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/855616-at-the-end-of-the-day-though-the-entire-basis</guid>
+		<pubDate>Mon, 09 Jun 2014 16:16:13 -0700</pubDate>
+		<title>
+			<![CDATA[Sonja add a quote by Jessica Valenti]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/855616-at-the-end-of-the-day-though-the-entire-basis]]>
+		</link>
+		<description>
+	    <![CDATA["At the end of the day, though, the entire basis for consent laws doesn't make sense. We're not old enough to decide if we don't want a baby, but we are old enough to have one?" -- Jessica Valenti]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

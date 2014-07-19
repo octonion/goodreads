@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1056143-nosocialize]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1056143-nosocialize" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 02 Feb 2012 16:51:16 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/496938-shy-south-comes-home-to-her-farm-to-find-a</guid>
+		<pubDate>Thu, 02 Feb 2012 16:51:16 -0800</pubDate>
+		<title>
+			<![CDATA[Nosocialize add a quote by Joe Abercrombie]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/496938-shy-south-comes-home-to-her-farm-to-find-a]]>
+		</link>
+		<description>
+	    <![CDATA["Shy South comes home to her farm to find a blackened shell, her brother and sister stolen, and knows she’ll have to go back to bad old ways if she’s ever to see them again.  She sets off in pursuit with only her cowardly old step-father Lamb for company.  But it turns out he’s hiding a bloody past of his own.  None bloodier.  Their journey will take them across the lawless plains, to a frontier town gripped by gold fever, through feuds, duels, and massacres, high into unmapped mountains to a reckoning with ancient enemies, and force them into alliance with Nicomo Cosca, infamous soldier of fortune, a man no one should ever have to trust…" -- Joe Abercrombie]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

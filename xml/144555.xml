@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/144555-lizzie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/144555-lizzie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 14 Apr 2008 12:48:01 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/44628-there-s-something-unrefined-about-a-reading-woman-they-always-reek</guid>
+		<pubDate>Mon, 14 Apr 2008 12:48:01 -0700</pubDate>
+		<title>
+			<![CDATA[Lizzie add a quote by Florence King]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/44628-there-s-something-unrefined-about-a-reading-woman-they-always-reek]]>
+		</link>
+		<description>
+	    <![CDATA["There's something unrefined about a reading woman, they always reek of the lamp. How can she grow up to be a lady if she's always got her nose
+in a book?
+
+Granny Rudin " -- Florence King]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

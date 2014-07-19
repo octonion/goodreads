@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/150440-kevin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/150440-kevin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 29 Jun 2014 19:16:54 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1267601-he-thought-for-a-while-of-mithradates-whose-system-learned</guid>
+		<pubDate>Sun, 29 Jun 2014 19:16:54 -0700</pubDate>
+		<title>
+			<![CDATA[Kevin add a quote by Saul Bellow - Herzog]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1267601-he-thought-for-a-while-of-mithradates-whose-system-learned]]>
+		</link>
+		<description>
+	    <![CDATA["He thought for a while of Mithradates, whose system learned to thrive on poison.  He cheated assassins, who made the mistake of using small doses, and was pickled, not destroyed.
+Tutto fa brodo." -- Saul Bellow - Herzog]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

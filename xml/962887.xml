@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/962887-cass]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/962887-cass" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 04 Aug 2008 09:04:40 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/79404-don-t-let-the-fear-of-the-time-it-will-take</guid>
+		<pubDate>Mon, 04 Aug 2008 09:04:40 -0700</pubDate>
+		<title>
+			<![CDATA[Cass add a quote by Earl Nightingale]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/79404-don-t-let-the-fear-of-the-time-it-will-take]]>
+		</link>
+		<description>
+	    <![CDATA["Don't let the fear of the time it will take to accomplish something stand in the way of your doing it. The time will pass anyway; we might just as well put that passing time to the best possible use." -- Earl Nightingale]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/250576-no-story-has-power-nor-will-it-last-unless-we</guid>
+		<pubDate>Tue, 02 Jul 2013 18:53:05 -0700</pubDate>
+		<title>
+			<![CDATA[Cass add a quote by John Steinbeck]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/250576-no-story-has-power-nor-will-it-last-unless-we]]>
+		</link>
+		<description>
+	    <![CDATA["No story has power, nor will it last, unless we feel in ourselves that it is true and true of us." -- John Steinbeck]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

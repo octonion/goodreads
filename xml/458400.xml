@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/458400-bimmie-bimmie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/458400-bimmie-bimmie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 29 Aug 2013 21:29:39 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/14304-it-is-better-to-be-hated-for-what-you-are</guid>
+		<pubDate>Thu, 29 Aug 2013 21:29:39 -0700</pubDate>
+		<title>
+			<![CDATA[BiMMiE add a quote by Andre Gide]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14304-it-is-better-to-be-hated-for-what-you-are]]>
+		</link>
+		<description>
+	    <![CDATA["It is better to be hated for what you are than to be loved for what you are not." -- Andre Gide]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2448-to-live-is-the-rarest-thing-in-the-world-most</guid>
+		<pubDate>Thu, 29 Aug 2013 21:29:42 -0700</pubDate>
+		<title>
+			<![CDATA[BiMMiE add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2448-to-live-is-the-rarest-thing-in-the-world-most]]>
+		</link>
+		<description>
+	    <![CDATA["To live is the rarest thing in the world. Most people exist, that is all." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/8630-i-m-selfish-impatient-and-a-little-insecure-i-make-mistakes</guid>
+		<pubDate>Sun, 17 Nov 2013 23:42:54 -0800</pubDate>
+		<title>
+			<![CDATA[BiMMiE add a quote by Marilyn Monroe]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8630-i-m-selfish-impatient-and-a-little-insecure-i-make-mistakes]]>
+		</link>
+		<description>
+	    <![CDATA["I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best." -- Marilyn Monroe]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3160-today-you-are-you-that-is-truer-than-true-there</guid>
+		<pubDate>Sun, 17 Nov 2013 23:43:57 -0800</pubDate>
+		<title>
+			<![CDATA[BiMMiE add a quote by Dr. Seuss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3160-today-you-are-you-that-is-truer-than-true-there]]>
+		</link>
+		<description>
+	    <![CDATA["Today you are You, that is truer than true. There is no one alive who is Youer than You." -- Dr. Seuss]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

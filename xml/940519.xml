@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/940519-lucille]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/940519-lucille" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 21 Mar 2009 05:07:15 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/7445-all-photographs-are-memento-mori-to-take-a-photograph-is</guid>
+		<pubDate>Sat, 21 Mar 2009 05:07:15 -0700</pubDate>
+		<title>
+			<![CDATA[Lucille add a quote by Susan Sontag]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7445-all-photographs-are-memento-mori-to-take-a-photograph-is]]>
+		</link>
+		<description>
+	    <![CDATA["All photographs are memento mori. To take a photograph is to participate in another person’s (or thing’s) mortality, vulnerability, mutability. Precisely by slicing out this moment and freezing it, all photographs testify to time’s relentless melt." -- Susan Sontag]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/188-do-what-you-can-with-what-you-have-where-you</guid>
+		<pubDate>Sat, 21 Mar 2009 05:10:57 -0700</pubDate>
+		<title>
+			<![CDATA[Lucille add a quote by Theodore Roosevelt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/188-do-what-you-can-with-what-you-have-where-you]]>
+		</link>
+		<description>
+	    <![CDATA["Do what you can, with what you have, where you are." -- Theodore Roosevelt]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

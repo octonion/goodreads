@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/53280-dario-vargas]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/53280-dario-vargas" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 06 Jan 2013 21:19:08 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/340911-jesus-matters-because-of-what-he-brought-and-what-he</guid>
+		<pubDate>Sun, 06 Jan 2013 21:19:08 -0800</pubDate>
+		<title>
+			<![CDATA[Dario add a quote by Dallas Willard]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/340911-jesus-matters-because-of-what-he-brought-and-what-he]]>
+		</link>
+		<description>
+	    <![CDATA["[Jesus] matters because of what he brought and what he still brings to ordinary human beings, living their ordinary lives and coping daily with their surroundings. He promises wholeness for their lives. In sharing our weaknesses he gives us strength and and imparts through his companionship a life that has the quality of eternity.&quot; (Dallas Willard in Ruthless Trust - Brennan Manning)" -- Dallas Willard]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

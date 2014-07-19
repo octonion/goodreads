@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/399906-brandy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/399906-brandy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 03 Oct 2011 09:31:00 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6493-a-children-s-story-that-can-only-be-enjoyed-by-children</guid>
+		<pubDate>Mon, 03 Oct 2011 09:31:00 -0700</pubDate>
+		<title>
+			<![CDATA[Brandy add a quote by C.S. Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6493-a-children-s-story-that-can-only-be-enjoyed-by-children]]>
+		</link>
+		<description>
+	    <![CDATA["A children's story that can only be enjoyed by children is not a good children's story in the slightest." -- C.S. Lewis]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/422395-once-upon-a-time-an-angel-and-a-devil-fell</guid>
+		<pubDate>Fri, 07 Oct 2011 15:47:15 -0700</pubDate>
+		<title>
+			<![CDATA[Brandy add a quote by Laini Taylor]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/422395-once-upon-a-time-an-angel-and-a-devil-fell]]>
+		</link>
+		<description>
+	    <![CDATA["Once upon a time, an angel and a devil fell in love. 
+
+It did not end well." -- Laini Taylor]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/421530-and-when-i-was-young-did-i-ever-tell-you</guid>
+		<pubDate>Sat, 26 Nov 2011 12:26:02 -0800</pubDate>
+		<title>
+			<![CDATA[Brandy add a quote by Peter Ackroyd]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/421530-and-when-i-was-young-did-i-ever-tell-you]]>
+		</link>
+		<description>
+	    <![CDATA["And when I was young, did I ever tell you, I always wanted to get inside
+a book and never come out again? I loved reading so much I wanted
+to be a part of it, and there were some books I could have stayed in
+for ever." -- Peter Ackroyd]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

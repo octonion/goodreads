@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/962156-watson]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/962156-watson" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 19 Sep 2011 14:19:49 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/80626-a-love-like-that-was-a-serious-illness-an-illness</guid>
+		<pubDate>Mon, 19 Sep 2011 14:19:49 -0700</pubDate>
+		<title>
+			<![CDATA[watson add a quote by Charles Bukowski]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/80626-a-love-like-that-was-a-serious-illness-an-illness]]>
+		</link>
+		<description>
+	    <![CDATA["A love like that was a serious illness, an illness from which you never entirely recover." -- Charles Bukowski]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

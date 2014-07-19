@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/609687-mary-catherine]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/609687-mary-catherine" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 30 Jan 2012 16:19:45 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/429357-you-may-tell-a-tale-that-takes-up-residence-in</guid>
+		<pubDate>Mon, 30 Jan 2012 16:19:45 -0800</pubDate>
+		<title>
+			<![CDATA[Mary-Catherine add a quote by Erin Morgenstern]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/429357-you-may-tell-a-tale-that-takes-up-residence-in]]>
+		</link>
+		<description>
+	    <![CDATA["You may tell a tale that takes up residence in someone's soul, becomes their blood and self and purpose. That tale will move them and drive them and who knows that they might do because of it, because of your words. That is your role, your gift." -- Erin Morgenstern]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/397442-the-finest-of-pleasures-are-always-the-unexpected-ones</guid>
+		<pubDate>Mon, 30 Jan 2012 16:20:04 -0800</pubDate>
+		<title>
+			<![CDATA[Mary-Catherine add a quote by Erin Morgenstern]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/397442-the-finest-of-pleasures-are-always-the-unexpected-ones]]>
+		</link>
+		<description>
+	    <![CDATA["The finest of pleasures are always the unexpected ones." -- Erin Morgenstern]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

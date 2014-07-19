@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/822412-heather-murphy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/822412-heather-murphy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 11 Feb 2013 12:52:45 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/987-there-are-only-two-ways-to-live-your-life-one</guid>
+		<pubDate>Mon, 11 Feb 2013 12:52:45 -0800</pubDate>
+		<title>
+			<![CDATA[Heather add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/987-there-are-only-two-ways-to-live-your-life-one]]>
+		</link>
+		<description>
+	    <![CDATA["There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle." -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/943-darkness-cannot-drive-out-darkness-only-light-can-do-that</guid>
+		<pubDate>Mon, 11 Feb 2013 12:53:18 -0800</pubDate>
+		<title>
+			<![CDATA[Heather add a quote by Martin Luther King Jr.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/943-darkness-cannot-drive-out-darkness-only-light-can-do-that]]>
+		</link>
+		<description>
+	    <![CDATA["Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that." -- Martin Luther King Jr.]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/362-if-you-don-t-stand-for-something-you-will-fall-for</guid>
+		<pubDate>Mon, 11 Feb 2013 12:53:26 -0800</pubDate>
+		<title>
+			<![CDATA[Heather add a quote by Gordon A. Eadie]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/362-if-you-don-t-stand-for-something-you-will-fall-for]]>
+		</link>
+		<description>
+	    <![CDATA["If you don't stand for something you will fall for anything." -- Gordon A. Eadie]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2326-things-which-matter-most-must-never-be-at-the-mercy</guid>
+		<pubDate>Mon, 11 Feb 2013 12:54:26 -0800</pubDate>
+		<title>
+			<![CDATA[Heather add a quote by Johann Wolfgang von Goethe]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2326-things-which-matter-most-must-never-be-at-the-mercy]]>
+		</link>
+		<description>
+	    <![CDATA["Things which matter most must never be at the mercy of things which matter least." -- Johann Wolfgang von Goethe]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

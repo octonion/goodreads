@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/871957-tony]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/871957-tony" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 18 Feb 2008 16:06:38 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/26136-pues-el-delito-mayor-del-hombre-es-haber-nacido</guid>
+		<pubDate>Mon, 18 Feb 2008 16:06:38 -0800</pubDate>
+		<title>
+			<![CDATA[Tony add a quote by Pedro Calderón de la Barca]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/26136-pues-el-delito-mayor-del-hombre-es-haber-nacido]]>
+		</link>
+		<description>
+	    <![CDATA["Pues el delito mayor del hombre es haber nacido." -- Pedro Calderón de la Barca]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/26137-never-trust-the-teller-trust-the-tale-the-proper-function</guid>
+		<pubDate>Mon, 18 Feb 2008 16:08:23 -0800</pubDate>
+		<title>
+			<![CDATA[Tony add a quote by D.H. Lawrence]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/26137-never-trust-the-teller-trust-the-tale-the-proper-function]]>
+		</link>
+		<description>
+	    <![CDATA["Never trust the teller, trust the tale. The proper function of a critic is to save the tale from the artist who created it." -- D.H. Lawrence]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/26140-your-interest-is-in-the-bloody-loam-but-what-i-m</guid>
+		<pubDate>Mon, 18 Feb 2008 16:13:05 -0800</pubDate>
+		<title>
+			<![CDATA[Tony add a quote by Ezra Pound]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/26140-your-interest-is-in-the-bloody-loam-but-what-i-m]]>
+		</link>
+		<description>
+	    <![CDATA["Your interest is in the bloody loam but what I'm after is the finished product." -- Ezra Pound]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

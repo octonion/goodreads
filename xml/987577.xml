@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/987577-matt]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/987577-matt" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 14 Mar 2008 23:57:06 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/13090-a-single-metaphor-can-give-birth-to-love</guid>
+		<pubDate>Fri, 14 Mar 2008 23:57:06 -0700</pubDate>
+		<title>
+			<![CDATA[Matt add a quote by Milan Kundera]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13090-a-single-metaphor-can-give-birth-to-love]]>
+		</link>
+		<description>
+	    <![CDATA["A single metaphor can give birth to love." -- Milan Kundera]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/16104-use-only-that-which-works-and-take-it-from-any</guid>
+		<pubDate>Fri, 14 Mar 2008 23:58:18 -0700</pubDate>
+		<title>
+			<![CDATA[Matt add a quote by Bruce Lee]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16104-use-only-that-which-works-and-take-it-from-any]]>
+		</link>
+		<description>
+	    <![CDATA["Use only that which works, and take it from any place you can find it." -- Bruce Lee]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1919-i-have-no-mission-no-one-has</guid>
+		<pubDate>Mon, 02 Mar 2009 08:23:48 -0800</pubDate>
+		<title>
+			<![CDATA[Matt add a quote by Milan Kundera]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1919-i-have-no-mission-no-one-has]]>
+		</link>
+		<description>
+	    <![CDATA["I have no mission. No one has." -- Milan Kundera]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

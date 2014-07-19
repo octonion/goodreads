@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1027428-seth]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1027428-seth" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 27 Mar 2008 00:50:16 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/38731-it-is-a-terrible-thing-to-be-happy-how-pleased</guid>
+		<pubDate>Thu, 27 Mar 2008 00:50:16 -0700</pubDate>
+		<title>
+			<![CDATA[Seth add a quote by Victor Hugo]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/38731-it-is-a-terrible-thing-to-be-happy-how-pleased]]>
+		</link>
+		<description>
+	    <![CDATA["It is a terrible thing to be happy! How pleased we are with it! How all-sufficient we think it! How, being in possession of the false aim of life, happiness, we forget the true aim, duty!" -- Victor Hugo]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/115230-these-loaves-pigeons-and-two-little-boys-seemed-unearthly-it</guid>
+		<pubDate>Fri, 04 Jan 2013 02:30:32 -0800</pubDate>
+		<title>
+			<![CDATA[Seth add a quote by Leo Tolstoy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/115230-these-loaves-pigeons-and-two-little-boys-seemed-unearthly-it]]>
+		</link>
+		<description>
+	    <![CDATA["These loaves, pigeons, and two little boys seemed unearthly. It all happened at the same time: a little boy ran over to a pigeon, glancing over at Levin with a smile; the pigeon flapped its wings and fluttered, gleaming in the sunshine among the snowdust quivering in the air, while the smell of freshly baked bread was wafted out of a little window as the loaves were put out. All this together was so extraordinarily wonderful that Levin burst out laughing and crying for joy." -- Leo Tolstoy]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

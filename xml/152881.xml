@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/152881-angela]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/152881-angela" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 06 Mar 2012 16:26:17 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/170284-invisible-before-birth-are-all-beings-and-after-death-invisible</guid>
+		<pubDate>Tue, 06 Mar 2012 16:26:17 -0800</pubDate>
+		<title>
+			<![CDATA[Angela add a quote by Bhagavad Gita]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/170284-invisible-before-birth-are-all-beings-and-after-death-invisible]]>
+		</link>
+		<description>
+	    <![CDATA["Invisible before birth are all beings and after death invisible again. They are seen between two unseens. Why in this truth find sorrow?" -- Bhagavad Gita]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

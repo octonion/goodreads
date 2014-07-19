@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/90840-james]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/90840-james" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 06 Feb 2012 19:54:54 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/241628-you-made-me-confess-the-fears-that-i-have-but</guid>
+		<pubDate>Mon, 06 Feb 2012 19:54:54 -0800</pubDate>
+		<title>
+			<![CDATA[James add a quote by James Joyce]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/241628-you-made-me-confess-the-fears-that-i-have-but]]>
+		</link>
+		<description>
+	    <![CDATA["You made me confess the fears that I have. But I will tell you also what I do not fear. I do not fear to be alone or to be spurned for another or to leave whatever I have to leave.  And I am not afraid to make a mistake, even a great mistake, a lifelong mistake and perhaps as long as eternity too." -- James Joyce]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

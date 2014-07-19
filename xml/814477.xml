@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/814477-veronica]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/814477-veronica" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 21 Feb 2008 13:29:29 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/16734-i-just-knew-there-were-stories-i-wanted-to-tell</guid>
+		<pubDate>Thu, 21 Feb 2008 13:29:29 -0800</pubDate>
+		<title>
+			<![CDATA[Veronica add a quote by Octavia E. Butler]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16734-i-just-knew-there-were-stories-i-wanted-to-tell]]>
+		</link>
+		<description>
+	    <![CDATA["I just knew there were stories I wanted to tell." -- Octavia E. Butler]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/15-as-my-mother-once-said-the-boys-throw-stones-at</guid>
+		<pubDate>Wed, 22 Jun 2011 08:57:30 -0700</pubDate>
+		<title>
+			<![CDATA[Veronica add a quote by Joanna Russ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/15-as-my-mother-once-said-the-boys-throw-stones-at]]>
+		</link>
+		<description>
+	    <![CDATA["As my mother once said: The boys throw stones at the frog in jest. But the frogs die in earnest." -- Joanna Russ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/14-i-m-not-a-girl-i-m-a-genius</guid>
+		<pubDate>Wed, 22 Jun 2011 08:57:37 -0700</pubDate>
+		<title>
+			<![CDATA[Veronica add a quote by Joanna Russ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14-i-m-not-a-girl-i-m-a-genius]]>
+		</link>
+		<description>
+	    <![CDATA["I'm not a girl. I'm a genius. " -- Joanna Russ]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

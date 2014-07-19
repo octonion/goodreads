@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1023578-sarah]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1023578-sarah" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 25 Mar 2008 16:45:40 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/8716-and-in-that-moment-i-swear-we-were-infinite</guid>
+		<pubDate>Tue, 25 Mar 2008 16:45:40 -0700</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by Stephen Chbosky]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8716-and-in-that-moment-i-swear-we-were-infinite]]>
+		</link>
+		<description>
+	    <![CDATA["And in that moment, I swear we were infinite." -- Stephen Chbosky]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/7694-let-us-step-into-the-night-and-pursue-that-flighty</guid>
+		<pubDate>Tue, 25 Mar 2008 16:49:47 -0700</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by J.K. Rowling]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7694-let-us-step-into-the-night-and-pursue-that-flighty]]>
+		</link>
+		<description>
+	    <![CDATA["Let us step into the night and pursue that flighty temptress, adventure." -- J.K. Rowling]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/12483-all-good-books-are-alike-in-that-they-are-truer</guid>
+		<pubDate>Fri, 28 Mar 2008 15:33:06 -0700</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by Ernest Hemingway ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12483-all-good-books-are-alike-in-that-they-are-truer]]>
+		</link>
+		<description>
+	    <![CDATA["All good books are alike in that they are truer than if they had really happened and after you are finished reading one you will feel that all that happened to you and afterwards it all belongs to you: the good and the bad, the ecstasy, the remorse and sorrow, the people and the places and how the weather was. If you can get so that you can give that to people, then you are a writer." -- Ernest Hemingway ]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

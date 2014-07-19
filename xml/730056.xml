@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/730056-peter]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/730056-peter" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 31 Dec 2007 19:35:02 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/29888-we-have-met-the-enemy-and-he-is-us</guid>
+		<pubDate>Mon, 31 Dec 2007 19:35:02 -0800</pubDate>
+		<title>
+			<![CDATA[Peter add a quote by Walt Kelly]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/29888-we-have-met-the-enemy-and-he-is-us]]>
+		</link>
+		<description>
+	    <![CDATA["We have met the enemy and he is us." -- Walt Kelly]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/60270-hell-isn-t-other-people-hell-is-yourself</guid>
+		<pubDate>Mon, 10 Mar 2014 17:39:09 -0700</pubDate>
+		<title>
+			<![CDATA[Peter add a quote by Ludwig Wittgenstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/60270-hell-isn-t-other-people-hell-is-yourself]]>
+		</link>
+		<description>
+	    <![CDATA["Hell isn't other people. Hell is yourself." -- Ludwig Wittgenstein]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

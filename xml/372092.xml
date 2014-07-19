@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/372092-lindsey]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/372092-lindsey" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 06 Oct 2010 10:20:07 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/122943-although-i-have-felt-compelled-to-write-things-down-since</guid>
+		<pubDate>Wed, 06 Oct 2010 10:20:07 -0700</pubDate>
+		<title>
+			<![CDATA[Lindsey add a quote by Joan Didion]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/122943-although-i-have-felt-compelled-to-write-things-down-since]]>
+		</link>
+		<description>
+	    <![CDATA["Although I have felt compelled to write things down since I was five years old, I doubt that my daughter ever will, for she is a singularly blessed and accepting child, delighted with life exactly as life presents itself to her, unafraid to go to sleep and unafraid to wake up.  Keepers of private notebooks are a different breed altogether, lonely and resistant rearrangers of things, anxious malcontents, children afflicted apparently at birth with some presentiment of loss." -- Joan Didion]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

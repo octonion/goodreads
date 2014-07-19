@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/178500-anne]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/178500-anne" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 04 Apr 2014 22:42:03 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1152688-the-sepia-tone-of-november-has-become-blood-soaked-with-paper</guid>
+		<pubDate>Fri, 04 Apr 2014 22:42:03 -0700</pubDate>
+		<title>
+			<![CDATA[Anne add a quote by Harry Leslie Smith]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1152688-the-sepia-tone-of-november-has-become-blood-soaked-with-paper]]>
+		</link>
+		<description>
+	    <![CDATA["The sepia tone of November has become blood-soaked with paper poppies festooning the lapels of our politicians, newsreaders and business leaders … I will no longer allow my obligation as a veteran to remember those who died in the great wars to be co-opted by current or former politicians to justify our folly in Iraq, our morally dubious war on terror and our elimination of one’s right to privacy." -- Harry Leslie Smith]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

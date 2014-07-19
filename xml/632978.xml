@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/632978-heather-sinclair-shaw]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/632978-heather-sinclair-shaw" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 13 Apr 2012 18:53:11 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/49570-it-is-perhaps-the-misfortune-of-my-life-that-i</guid>
+		<pubDate>Fri, 13 Apr 2012 18:53:11 -0700</pubDate>
+		<title>
+			<![CDATA[Heather add a quote by Soren Kierkegaard]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/49570-it-is-perhaps-the-misfortune-of-my-life-that-i]]>
+		</link>
+		<description>
+	    <![CDATA["It is perhaps the misfortune of my life that I am interested in far too much but not decisively in any one thing; all my interests are not subordinated in one but stand on an equal footing." -- Soren Kierkegaard]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/22980-boredom-is-the-root-of-all-evil---the-despairing</guid>
+		<pubDate>Fri, 13 Apr 2012 18:54:22 -0700</pubDate>
+		<title>
+			<![CDATA[Heather add a quote by Soren Kierkegaard]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22980-boredom-is-the-root-of-all-evil---the-despairing]]>
+		</link>
+		<description>
+	    <![CDATA["Boredom is the root of all evil - the despairing refusal to be oneself." -- Soren Kierkegaard]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/823628-susan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/823628-susan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 11 Feb 2012 21:52:55 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/10554-friendship-is-born-at-that-moment-when-one-man-says</guid>
+		<pubDate>Sat, 11 Feb 2012 21:52:55 -0800</pubDate>
+		<title>
+			<![CDATA[Susan  add a quote by C.S. Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10554-friendship-is-born-at-that-moment-when-one-man-says]]>
+		</link>
+		<description>
+	    <![CDATA["Friendship is born at that moment when one man says to another: &quot;What! You too? I thought that no one but myself . . .&amp;#34;" -- C.S. Lewis]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/148874-just-don-t-take-any-class-where-you-have-to-read</guid>
+		<pubDate>Sun, 09 Sep 2012 18:04:45 -0700</pubDate>
+		<title>
+			<![CDATA[Susan  add a quote by Woody Allen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/148874-just-don-t-take-any-class-where-you-have-to-read]]>
+		</link>
+		<description>
+	    <![CDATA["Just don't take any class where you have to read BEOWULF." -- Woody Allen]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

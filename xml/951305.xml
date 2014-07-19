@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/951305-bethany]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/951305-bethany" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 29 Feb 2008 17:21:43 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2945-accept-who-you-are-and-revel-in-it</guid>
+		<pubDate>Fri, 29 Feb 2008 17:21:43 -0800</pubDate>
+		<title>
+			<![CDATA[Bethany add a quote by Mitch Albom]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2945-accept-who-you-are-and-revel-in-it]]>
+		</link>
+		<description>
+	    <![CDATA["Accept who you are; and revel in it." -- Mitch Albom]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/714-all-endings-are-also-beginnings-we-just-don-t-know-it</guid>
+		<pubDate>Fri, 29 Feb 2008 17:21:51 -0800</pubDate>
+		<title>
+			<![CDATA[Bethany add a quote by Mitch Albom]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/714-all-endings-are-also-beginnings-we-just-don-t-know-it]]>
+		</link>
+		<description>
+	    <![CDATA["All endings are also beginnings. We just don't know it at the time." -- Mitch Albom]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3765-get-busy-living-or-get-busy-dying</guid>
+		<pubDate>Fri, 29 Feb 2008 17:23:14 -0800</pubDate>
+		<title>
+			<![CDATA[Bethany add a quote by Stephen King]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3765-get-busy-living-or-get-busy-dying]]>
+		</link>
+		<description>
+	    <![CDATA["Get busy living or get busy dying." -- Stephen King]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/8080-the-road-to-hell-is-paved-with-adverbs</guid>
+		<pubDate>Fri, 29 Feb 2008 17:23:20 -0800</pubDate>
+		<title>
+			<![CDATA[Bethany add a quote by Stephen King]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8080-the-road-to-hell-is-paved-with-adverbs]]>
+		</link>
+		<description>
+	    <![CDATA["The road to hell is paved with adverbs." -- Stephen King]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

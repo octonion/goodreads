@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/865136-crystal]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/865136-crystal" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 03 Jan 2014 19:42:24 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/615476-now-the-star-belly-sneetches-had-bellies-with-stars-the-plain-belly</guid>
+		<pubDate>Fri, 03 Jan 2014 19:42:24 -0800</pubDate>
+		<title>
+			<![CDATA[Crystal add a quote by Dr. Seuss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/615476-now-the-star-belly-sneetches-had-bellies-with-stars-the-plain-belly]]>
+		</link>
+		<description>
+	    <![CDATA["Now, the Star-Belly Sneetches had bellies with stars. The Plain-Belly Sneetches had none upon thars." -- Dr. Seuss]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/237253-i-said-i-do-not-fear-those-pants-with-nobody</guid>
+		<pubDate>Fri, 03 Jan 2014 19:42:53 -0800</pubDate>
+		<title>
+			<![CDATA[Crystal add a quote by Dr. Seuss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/237253-i-said-i-do-not-fear-those-pants-with-nobody]]>
+		</link>
+		<description>
+	    <![CDATA["I said, &quot;I do not fear those pants with nobody inside them.&quot; I said, and said, and said those words. I said them but I lied them.  " -- Dr. Seuss]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

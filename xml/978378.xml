@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/978378-chris-hearn]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/978378-chris-hearn" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 08 Feb 2010 19:42:51 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/197232-i-have-gone-to-the-forest</guid>
+		<pubDate>Mon, 08 Feb 2010 19:42:51 -0800</pubDate>
+		<title>
+			<![CDATA[Chris add a quote by Knut Hamsun]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/197232-i-have-gone-to-the-forest]]>
+		</link>
+		<description>
+	    <![CDATA["I have gone to the forest" -- Knut Hamsun]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/31867-language-is-a-skin-i-rub-my-language-against-the</guid>
+		<pubDate>Mon, 12 Apr 2010 03:20:47 -0700</pubDate>
+		<title>
+			<![CDATA[Chris add a quote by Roland Barthes]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/31867-language-is-a-skin-i-rub-my-language-against-the]]>
+		</link>
+		<description>
+	    <![CDATA["Language is a skin: I rub my language against the other. It is as if I had words instead of fingers, or fingers at the tip of my words. My language trembles with desire." -- Roland Barthes]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/44499-i-should-like-to-know-which-is-worse-to-be</guid>
+		<pubDate>Mon, 16 May 2011 06:01:43 -0700</pubDate>
+		<title>
+			<![CDATA[Chris add a quote by Voltaire]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/44499-i-should-like-to-know-which-is-worse-to-be]]>
+		</link>
+		<description>
+	    <![CDATA["I should like to know which is worse: to be ravished a hundred times by pirates, and have a buttock cut off, and run the gauntlet of the Bulgarians, and be flogged and hanged in an auto-da-fe, and be dissected, and have to row in a galley -- in short, to undergo all the miseries we have each of us suffered -- or simply to sit here and do nothing?'
+That is a hard question,' said Candide." -- Voltaire]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

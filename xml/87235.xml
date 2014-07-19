@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/87235-carlos-aranaga]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/87235-carlos-aranaga" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 07 Oct 2011 22:00:49 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/192640-you-is-kind-you-is-smart-you-is-important</guid>
+		<pubDate>Fri, 07 Oct 2011 22:00:49 -0700</pubDate>
+		<title>
+			<![CDATA[Carlos add a quote by Kathryn Stockett]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/192640-you-is-kind-you-is-smart-you-is-important]]>
+		</link>
+		<description>
+	    <![CDATA["You is kind. You is smart. You is important." -- Kathryn Stockett]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2-i-must-not-fear-fear-is-the-mind-killer-fear-is</guid>
+		<pubDate>Mon, 10 Feb 2014 19:03:35 -0800</pubDate>
+		<title>
+			<![CDATA[Carlos add a quote by Frank Herbert]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2-i-must-not-fear-fear-is-the-mind-killer-fear-is]]>
+		</link>
+		<description>
+	    <![CDATA["I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain." -- Frank Herbert]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1173566-the-future-remains-unwritten-but-i-m-writing-as-fast-as</guid>
+		<pubDate>Wed, 16 Apr 2014 20:55:54 -0700</pubDate>
+		<title>
+			<![CDATA[Carlos add a quote by Bill DeSmedt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1173566-the-future-remains-unwritten-but-i-m-writing-as-fast-as]]>
+		</link>
+		<description>
+	    <![CDATA["The future remains unwritten, but I'm writing as fast as I can!" -- Bill DeSmedt]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

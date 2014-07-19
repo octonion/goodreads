@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/363711-ine-foley]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/363711-ine-foley" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 13 Oct 2012 15:06:32 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/316416-those-that-go-searching-for-love-only-make-manifest-their</guid>
+		<pubDate>Sat, 13 Oct 2012 15:06:32 -0700</pubDate>
+		<title>
+			<![CDATA[Áine add a quote by D.H. Lawrence]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/316416-those-that-go-searching-for-love-only-make-manifest-their]]>
+		</link>
+		<description>
+	    <![CDATA["Those that go searching for love only make manifest their own lovelessness, and the loveless never find love, only the loving find love, and they never have to seek for it." -- D.H. Lawrence]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/101870-though-she-be-but-little-she-is-fierce</guid>
+		<pubDate>Sun, 13 Jan 2013 15:14:59 -0800</pubDate>
+		<title>
+			<![CDATA[Áine add a quote by William Shakespeare]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/101870-though-she-be-but-little-she-is-fierce]]>
+		</link>
+		<description>
+	    <![CDATA["Though she be but little, she is fierce!" -- William Shakespeare]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

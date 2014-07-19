@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/945624-mary]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/945624-mary" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 11 Jan 2010 17:19:14 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/117027-when-you-choose-the-path-you-choose-the-destination</guid>
+		<pubDate>Mon, 11 Jan 2010 17:19:14 -0800</pubDate>
+		<title>
+			<![CDATA[Mary add a quote by Glenn Beck]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/117027-when-you-choose-the-path-you-choose-the-destination]]>
+		</link>
+		<description>
+	    <![CDATA["When you choose the path, you choose the destination." -- Glenn Beck]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/117028-sometimes-the-hardest-part-of-the-journey-is-believing-you-re</guid>
+		<pubDate>Mon, 11 Jan 2010 17:19:16 -0800</pubDate>
+		<title>
+			<![CDATA[Mary add a quote by Glenn Beck]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/117028-sometimes-the-hardest-part-of-the-journey-is-believing-you-re]]>
+		</link>
+		<description>
+	    <![CDATA["Sometimes the hardest part of the journey is believing you're worthy of the trip." -- Glenn Beck]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

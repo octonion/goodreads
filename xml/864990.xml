@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/864990-reese]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/864990-reese" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 08 Apr 2008 19:29:54 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/978-whether-you-think-you-can-or-you-think-you-can-t--you-re</guid>
+		<pubDate>Tue, 08 Apr 2008 19:29:54 -0700</pubDate>
+		<title>
+			<![CDATA[Reese add a quote by Henry Ford]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/978-whether-you-think-you-can-or-you-think-you-can-t--you-re]]>
+		</link>
+		<description>
+	    <![CDATA["Whether you think you can, or you think you can't--you're right." -- Henry Ford]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/42772-optimism-produces-the-very-results-it-expects-and-deserves</guid>
+		<pubDate>Tue, 08 Apr 2008 19:30:27 -0700</pubDate>
+		<title>
+			<![CDATA[Reese add a quote by Rachel Carlson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/42772-optimism-produces-the-very-results-it-expects-and-deserves]]>
+		</link>
+		<description>
+	    <![CDATA["Optimism produces the very results it expects and deserves" -- Rachel Carlson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/28045-humor-is-emotional-chaos-remembered-in-tranquility</guid>
+		<pubDate>Tue, 08 Apr 2008 19:36:01 -0700</pubDate>
+		<title>
+			<![CDATA[Reese add a quote by James Thurber]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/28045-humor-is-emotional-chaos-remembered-in-tranquility]]>
+		</link>
+		<description>
+	    <![CDATA["Humor is emotional chaos remembered in tranquility." -- James Thurber]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/370-the-only-thing-necessary-for-the-triumph-of-evil-is</guid>
+		<pubDate>Sat, 19 Apr 2008 12:47:34 -0700</pubDate>
+		<title>
+			<![CDATA[Reese add a quote by Edmund Burke]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/370-the-only-thing-necessary-for-the-triumph-of-evil-is]]>
+		</link>
+		<description>
+	    <![CDATA["The only thing necessary for the triumph of evil is for good men to do nothing." -- Edmund Burke]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

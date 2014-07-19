@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1042949-brett-van-valkenburg]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1042949-brett-van-valkenburg" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 19 Aug 2012 12:33:46 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/205107-she-was-a-fool-and-so-am-i-and-so</guid>
+		<pubDate>Sun, 19 Aug 2012 12:33:46 -0700</pubDate>
+		<title>
+			<![CDATA[Brett add a quote by Kurt Vonnegut Jr.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/205107-she-was-a-fool-and-so-am-i-and-so]]>
+		</link>
+		<description>
+	    <![CDATA["She was a fool, and so am I, and so is anyone who thinks he sees what God is Doing, [writes Bokonon]." -- Kurt Vonnegut Jr.]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

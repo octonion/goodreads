@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/373646-kristin-brandt]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/373646-kristin-brandt" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 18 Dec 2011 15:36:14 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/173801-as-i-stood-outside-in-cow-lane-it-occurred-to</guid>
+		<pubDate>Sun, 18 Dec 2011 15:36:14 -0800</pubDate>
+		<title>
+			<![CDATA[Kristin add a quote by Alan Bradley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/173801-as-i-stood-outside-in-cow-lane-it-occurred-to]]>
+		</link>
+		<description>
+	    <![CDATA["As I stood outside in Cow Lane, it occurred to me that Heaven must be a place where the library is open twenty-four hours a day, seven days a week.
+
+No ... eight days a week." -- Alan Bradley]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/241462-there-are-no-faster-or-firmer-friendships-than-those-formed</guid>
+		<pubDate>Sat, 14 Jul 2012 06:44:17 -0700</pubDate>
+		<title>
+			<![CDATA[Kristin add a quote by Irving Stone]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/241462-there-are-no-faster-or-firmer-friendships-than-those-formed]]>
+		</link>
+		<description>
+	    <![CDATA["There are no faster or firmer friendships than those formed between people who love the same books." -- Irving Stone]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

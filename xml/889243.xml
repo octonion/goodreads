@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/889243-kari]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/889243-kari" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 08 Feb 2008 13:46:14 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/22965-for-we-have-not-even-to-risk-the-adventure-alone</guid>
+		<pubDate>Fri, 08 Feb 2008 13:46:14 -0800</pubDate>
+		<title>
+			<![CDATA[Kari add a quote by Joseph Campbell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22965-for-we-have-not-even-to-risk-the-adventure-alone]]>
+		</link>
+		<description>
+	    <![CDATA["For we have not even to risk the adventure alone, for the heros of all time have gone before us..." -- Joseph Campbell]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/470-it-is-a-far-far-better-thing-that-i-do</guid>
+		<pubDate>Sun, 08 Jun 2008 12:38:00 -0700</pubDate>
+		<title>
+			<![CDATA[Kari add a quote by Charles Dickens]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/470-it-is-a-far-far-better-thing-that-i-do]]>
+		</link>
+		<description>
+	    <![CDATA["It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known." -- Charles Dickens]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/246001-i-did-not-know-how-to-reach-him-how-to</guid>
+		<pubDate>Fri, 08 Feb 2008 13:52:00 -0800</pubDate>
+		<title>
+			<![CDATA[Kari add a quote by Antoine de Saint-Exupéry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/246001-i-did-not-know-how-to-reach-him-how-to]]>
+		</link>
+		<description>
+	    <![CDATA["I did not know how to reach him, how to catch up with him... The land of tears is so mysterious." -- Antoine de Saint-Exupéry]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

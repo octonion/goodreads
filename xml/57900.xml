@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/57900-kris-saknussemm]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/57900-kris-saknussemm" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 11 Feb 2009 14:39:11 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/139109-if-you-stop-at-nature-she-will-elude-you-forever</guid>
+		<pubDate>Wed, 11 Feb 2009 14:39:11 -0800</pubDate>
+		<title>
+			<![CDATA[Kris add a quote by The Marquis de Sade]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/139109-if-you-stop-at-nature-she-will-elude-you-forever]]>
+		</link>
+		<description>
+	    <![CDATA["If you stop at Nature, she will elude you forever.
+" -- The Marquis de Sade]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/832846-thomas]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/832846-thomas" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 22 Sep 2011 23:47:18 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/439621-in-science-discovery-can-mean-finding-a-guppy-with</guid>
+		<pubDate>Thu, 22 Sep 2011 23:47:18 -0700</pubDate>
+		<title>
+			<![CDATA[Thomas add a quote by Thomas Hayden]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/439621-in-science-discovery-can-mean-finding-a-guppy-with]]>
+		</link>
+		<description>
+	    <![CDATA["In science ... &quot;discovery&quot; can mean finding a guppy with an extra spine in its dorsal fin." -- Thomas Hayden]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/20958-thanks-to-evolution-half-of-all-americans-don-t-believe-in</guid>
+		<pubDate>Thu, 22 Sep 2011 23:56:50 -0700</pubDate>
+		<title>
+			<![CDATA[Thomas add a quote by Thomas Hayden]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20958-thanks-to-evolution-half-of-all-americans-don-t-believe-in]]>
+		</link>
+		<description>
+	    <![CDATA["Thanks to evolution, half of all Americans don't believe in evolution." -- Thomas Hayden]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

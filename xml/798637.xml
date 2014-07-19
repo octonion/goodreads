@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/798637-dahlia-rose]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/798637-dahlia-rose" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 17 Sep 2011 07:15:17 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/69550-now-this-is-the-law-of-the-jungle----as</guid>
+		<pubDate>Sat, 17 Sep 2011 07:15:17 -0700</pubDate>
+		<title>
+			<![CDATA[Dahlia add a quote by Rudyard Kipling]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/69550-now-this-is-the-law-of-the-jungle----as]]>
+		</link>
+		<description>
+	    <![CDATA["Now this is the Law of the Jungle -- as old and as true as the sky;
+And the Wolf that shall keep it may prosper, but the Wolf that shall break it must die.
+As the creeper that girdles the tree-trunk the Law runneth forward and back --
+For the strength of the Pack is the Wolf, and the strength of the Wolf is the Pack." -- Rudyard Kipling]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

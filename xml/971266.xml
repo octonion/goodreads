@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/971266-kayla]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/971266-kayla" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 05 Mar 2008 21:22:06 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5681-i-don-t-know-anything-with-certainty-but-seeing-the-stars</guid>
+		<pubDate>Wed, 05 Mar 2008 21:22:06 -0800</pubDate>
+		<title>
+			<![CDATA[Kayla add a quote by Vincent Van Gogh]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5681-i-don-t-know-anything-with-certainty-but-seeing-the-stars]]>
+		</link>
+		<description>
+	    <![CDATA["I don't know anything with certainty, but seeing the stars makes me dream." -- Vincent Van Gogh]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1921-tell-me-what-is-it-you-plan-to-do-with</guid>
+		<pubDate>Wed, 05 Mar 2008 21:22:29 -0800</pubDate>
+		<title>
+			<![CDATA[Kayla add a quote by Mary Oliver]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1921-tell-me-what-is-it-you-plan-to-do-with]]>
+		</link>
+		<description>
+	    <![CDATA["Tell me, what is it you plan to do 
+with your one wild and precious life?" -- Mary Oliver]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4590-without-music-life-would-be-a-mistake</guid>
+		<pubDate>Fri, 23 May 2008 23:06:12 -0700</pubDate>
+		<title>
+			<![CDATA[Kayla add a quote by Friedrich Nietzsche]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4590-without-music-life-would-be-a-mistake]]>
+		</link>
+		<description>
+	    <![CDATA["Without music, life would be a mistake." -- Friedrich Nietzsche]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

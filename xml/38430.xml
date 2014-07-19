@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/38430-stacy-whitman]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/38430-stacy-whitman" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 04 Aug 2013 19:11:17 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/623122-star-trek-was-an-attempt-to-say-that-humanity-will</guid>
+		<pubDate>Sun, 04 Aug 2013 19:11:17 -0700</pubDate>
+		<title>
+			<![CDATA[Stacy add a quote by Gene Roddenberry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/623122-star-trek-was-an-attempt-to-say-that-humanity-will]]>
+		</link>
+		<description>
+	    <![CDATA["Star Trek was an attempt to say that humanity will reach maturity and wisdom on the day that it begins not just to tolerate, but take a special delight in differences in ideas and differences in life forms. […] If we cannot learn to actually enjoy those small differences, to take a positive delight in those small differences between our own kind, here on this planet, then we do not deserve to go out into space and meet the diversity that is almost certainly out there." -- Gene Roddenberry]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

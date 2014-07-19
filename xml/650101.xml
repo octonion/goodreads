@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/650101-nathan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/650101-nathan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 09 Dec 2007 10:02:21 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4291-and-you-mr-ground-of-wheat-mr-text-mr-is-was-can-you</guid>
+		<pubDate>Sun, 09 Dec 2007 10:02:21 -0800</pubDate>
+		<title>
+			<![CDATA[Nathan add a quote by Michael  Palmer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4291-and-you-mr-ground-of-wheat-mr-text-mr-is-was-can-you]]>
+		</link>
+		<description>
+	    <![CDATA["And you Mr. Ground-of-Wheat, Mr. Text, Mr. Is-Was, 
+can you calculate the ratio between wire and window . . ." -- Michael  Palmer]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

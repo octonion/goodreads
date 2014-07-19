@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/588637-adam-daniels]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/588637-adam-daniels" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 16 Jun 2013 23:20:01 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/390964-the-longer-i-live-the-more-i-observe-that-carrying</guid>
+		<pubDate>Sun, 16 Jun 2013 23:20:01 -0700</pubDate>
+		<title>
+			<![CDATA[Adam add a quote by Katharine Graham]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/390964-the-longer-i-live-the-more-i-observe-that-carrying]]>
+		</link>
+		<description>
+	    <![CDATA["The longer I live, the more I observe that carrying around anger is the most debilitating to the person who bears it." -- Katharine Graham]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

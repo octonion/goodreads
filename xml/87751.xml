@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/87751-rachel]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/87751-rachel" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 06 Aug 2011 12:00:09 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/365-you-have-to-write-the-book-that-wants-to-be</guid>
+		<pubDate>Sat, 06 Aug 2011 12:00:09 -0700</pubDate>
+		<title>
+			<![CDATA[Rachel add a quote by Madeleine L'Engle]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/365-you-have-to-write-the-book-that-wants-to-be]]>
+		</link>
+		<description>
+	    <![CDATA["You have to write the book that wants to be written. And if the book will be too difficult for grown-ups, then you write it for children." -- Madeleine L'Engle]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/76159-when-the-time-comes-to-you-at-which-you-will</guid>
+		<pubDate>Sun, 22 Sep 2013 22:14:10 -0700</pubDate>
+		<title>
+			<![CDATA[Rachel add a quote by C.S. Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/76159-when-the-time-comes-to-you-at-which-you-will]]>
+		</link>
+		<description>
+	    <![CDATA["When the time comes to you at which you will be forced at last to utter the speech which has lain at the center of your soul for years, which you have, all that time, idiot-like, been saying over and over, you'll not talk about the joy of words. I saw well why the gods do not speak to us openly, nor let us answer. Till that word can be dug out of us, why should they hear the babble that we think we mean? How can they meet us face to face till we have faces?" -- C.S. Lewis]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/607410-jeff]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/607410-jeff" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 18 Oct 2013 09:42:44 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/155904-lucky-charms-are-like-the-vampires-of-breakfast-cereal-they-re</guid>
+		<pubDate>Fri, 18 Oct 2013 09:42:44 -0700</pubDate>
+		<title>
+			<![CDATA[Jeff add a quote by John Green]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/155904-lucky-charms-are-like-the-vampires-of-breakfast-cereal-they-re]]>
+		</link>
+		<description>
+	    <![CDATA["Lucky Charms are like the vampires of breakfast cereal. They're magical, they're delicious, they're a little bit dangerous and bad for you. They initially make you feel great, but then over time you realize that maybe your relationship with Lucky Charms is just a little bit unhealthy and you start to think, 'Maybe I don't want to be in a long-term relationship with a breakfast cereal that tastes delicious but damages my health.' But then the Lucky Charms gets all stalker on you and for some reason you kind of like that. It makes you feel special. So yeah, you spend your life with Lucky Charms. That's awesome. That's a great way to... get diabetes." -- John Green]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

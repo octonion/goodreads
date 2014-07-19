@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/778789-shane-davis]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/778789-shane-davis" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 26 Sep 2008 21:36:17 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/17404-love-sucks-sometimes-it-feels-good-sometimes-it-s-just-another</guid>
+		<pubDate>Fri, 26 Sep 2008 21:36:17 -0700</pubDate>
+		<title>
+			<![CDATA[Shane add a quote by Laurell K. Hamilton]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17404-love-sucks-sometimes-it-feels-good-sometimes-it-s-just-another]]>
+		</link>
+		<description>
+	    <![CDATA["Love sucks. Sometimes it feels good. Sometimes it's just another way to bleed." -- Laurell K. Hamilton]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2351-though-much-is-taken-much-abides-and-though-we-are</guid>
+		<pubDate>Fri, 26 Sep 2008 21:38:14 -0700</pubDate>
+		<title>
+			<![CDATA[Shane add a quote by Alfred Lord Tennyson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2351-though-much-is-taken-much-abides-and-though-we-are]]>
+		</link>
+		<description>
+	    <![CDATA["Though much is taken, much abides; and though
+We are not now that strength which in old days
+Moved earth and heaven, that which we are, we are;
+One equal temper of heroic hearts,
+Made weak by time and fate, but strong in will
+To strive, to seek, to find, and not to yield." -- Alfred Lord Tennyson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

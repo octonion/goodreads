@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/645159-jeanne]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/645159-jeanne" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 04 Apr 2013 14:56:02 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/592152-live-your-life-in-such-a-way-that-the-westboro</guid>
+		<pubDate>Thu, 04 Apr 2013 14:56:02 -0700</pubDate>
+		<title>
+			<![CDATA[Jeanne add a quote by Brandon Fibbs]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/592152-live-your-life-in-such-a-way-that-the-westboro]]>
+		</link>
+		<description>
+	    <![CDATA["Live your life in such a way that the Westboro Baptist Church will want to picket your funeral." -- Brandon Fibbs]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6379-despite-my-ghoulish-reputation-i-really-have-the-heart-of</guid>
+		<pubDate>Sat, 05 Apr 2014 12:41:42 -0700</pubDate>
+		<title>
+			<![CDATA[Jeanne add a quote by Robert Bloch]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6379-despite-my-ghoulish-reputation-i-really-have-the-heart-of]]>
+		</link>
+		<description>
+	    <![CDATA["Despite my ghoulish reputation, I really have the heart of a small boy. I keep it in a jar on my desk." -- Robert Bloch]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

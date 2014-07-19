@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/957259-andrea]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/957259-andrea" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 05 Mar 2012 08:39:22 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/218975-no-pain-that-we-suffer-no-trial-that-we-experience</guid>
+		<pubDate>Mon, 05 Mar 2012 08:39:22 -0800</pubDate>
+		<title>
+			<![CDATA[Andrea add a quote by Orson F. Whitney]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/218975-no-pain-that-we-suffer-no-trial-that-we-experience]]>
+		</link>
+		<description>
+	    <![CDATA["No pain that we suffer, no trial that we experience is wasted. It ministers to our education, to the development of such qualities as patience, faith, fortitude and humility. All that we suffer and all that we endure, especially when we endure it patiently, builds up our characters, purifies our hearts, expands our souls, and makes us more tender and charitable, more worthy to be called the children of God . . . and it is through sorrow and suffering, toil and tribulation, that we gain the education that we come here to acquire and which will make us more like our Father and Mother in heaven." -- Orson F. Whitney]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

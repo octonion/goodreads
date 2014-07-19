@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/655372-susan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/655372-susan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 26 Jan 2013 14:53:23 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/10246-don-t-pass-it-by--the-immediate-the-real-the-only-the</guid>
+		<pubDate>Sat, 26 Jan 2013 14:53:23 -0800</pubDate>
+		<title>
+			<![CDATA[Susan add a quote by Henry James]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10246-don-t-pass-it-by--the-immediate-the-real-the-only-the]]>
+		</link>
+		<description>
+	    <![CDATA["Don't pass it by--the immediate, the real, the only, the yours." -- Henry James]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/64052-let-life-happen-to-you-believe-me-life-is-in</guid>
+		<pubDate>Sat, 26 Jan 2013 14:53:31 -0800</pubDate>
+		<title>
+			<![CDATA[Susan add a quote by Rainer Marie Rilke]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/64052-let-life-happen-to-you-believe-me-life-is-in]]>
+		</link>
+		<description>
+	    <![CDATA["Let life happen to you. Believe me: life is in the right, always." -- Rainer Marie Rilke]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

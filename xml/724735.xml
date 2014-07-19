@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/724735-meaghan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/724735-meaghan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 30 Jul 2013 19:21:17 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/316348-jim-lights-a-cigarette-and-leans-indolently-back-on-his</guid>
+		<pubDate>Tue, 30 Jul 2013 19:21:17 -0700</pubDate>
+		<title>
+			<![CDATA[Meaghan add a quote by Tennessee Williams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/316348-jim-lights-a-cigarette-and-leans-indolently-back-on-his]]>
+		</link>
+		<description>
+	    <![CDATA["Jim lights a cigarette and leans indolently back on his elbow smiling at Laura with a warmth and charm which lights her inwardly with altar candles." -- Tennessee Williams]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

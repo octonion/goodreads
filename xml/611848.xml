@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/611848-curtis]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/611848-curtis" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 02 Feb 2009 08:09:03 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/14884-what-s-past-is-prologue</guid>
+		<pubDate>Mon, 02 Feb 2009 08:09:03 -0800</pubDate>
+		<title>
+			<![CDATA[Curtis add a quote by William Shakespeare]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14884-what-s-past-is-prologue]]>
+		</link>
+		<description>
+	    <![CDATA["What's past is prologue." -- William Shakespeare]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/136505-wisdom-comes-with-winters</guid>
+		<pubDate>Mon, 02 Feb 2009 08:09:43 -0800</pubDate>
+		<title>
+			<![CDATA[Curtis add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/136505-wisdom-comes-with-winters]]>
+		</link>
+		<description>
+	    <![CDATA["Wisdom comes with winters" -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/24949-doubt-is-an-uncomfortable-condition-but-certainty-is-a-ridiculous</guid>
+		<pubDate>Mon, 02 Feb 2009 08:10:17 -0800</pubDate>
+		<title>
+			<![CDATA[Curtis add a quote by Voltaire]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/24949-doubt-is-an-uncomfortable-condition-but-certainty-is-a-ridiculous]]>
+		</link>
+		<description>
+	    <![CDATA["Doubt is an uncomfortable condition, but certainty is a ridiculous one." -- Voltaire]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

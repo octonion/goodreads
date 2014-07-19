@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1079121-wes]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1079121-wes" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 10 Mar 2010 07:05:56 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/73288-progress-means-getting-nearer-to-the-place-you-want-to</guid>
+		<pubDate>Wed, 10 Mar 2010 07:05:56 -0800</pubDate>
+		<title>
+			<![CDATA[Wes add a quote by C.S. Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/73288-progress-means-getting-nearer-to-the-place-you-want-to]]>
+		</link>
+		<description>
+	    <![CDATA["Progress means getting nearer to the place you want to be. And if you have taken a wrong turning, then to go forward does not get you any nearer.
+If you are on the wrong road, progress means doing an about-turn and walking back to the right road; and in that case the man who turns back soonest is the most progressive man." -- C.S. Lewis]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/649599-dan-spielbauer]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/649599-dan-spielbauer" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 04 Dec 2007 18:09:35 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3408-every-gun-that-is-made-every-warship-launched-every-rocket</guid>
+		<pubDate>Tue, 04 Dec 2007 18:09:35 -0800</pubDate>
+		<title>
+			<![CDATA[Dan add a quote by Dwight D. Eisenhower]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3408-every-gun-that-is-made-every-warship-launched-every-rocket]]>
+		</link>
+		<description>
+	    <![CDATA["Every gun that is made, every warship launched, every rocket fired signifies in the final sense, a theft from those who hunger and are not fed, those who are cold and are not clothed. This world in arms is not spending money alone. It is spending the sweat of its laborers, the genius of its scientists, the hopes of its children. This is not a way of life at all in any true sense. Under the clouds of war, it is humanity hanging on a cross of iron." -- Dwight D. Eisenhower]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

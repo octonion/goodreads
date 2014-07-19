@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/169835-anna-cate]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/169835-anna-cate" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 07 Feb 2012 12:41:09 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/235327-anything-that-doesn-t-take-years-of-your-life-and-drive</guid>
+		<pubDate>Tue, 07 Feb 2012 12:41:09 -0800</pubDate>
+		<title>
+			<![CDATA[Anna Cate add a quote by Cormac McCarthy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/235327-anything-that-doesn-t-take-years-of-your-life-and-drive]]>
+		</link>
+		<description>
+	    <![CDATA["Anything that doesn't take years of your life and drive you to suicide hardly seems worth doing." -- Cormac McCarthy]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/67287-girls-there-are-poets-who-learn-from-you-to-say</guid>
+		<pubDate>Mon, 21 Sep 2009 09:45:46 -0700</pubDate>
+		<title>
+			<![CDATA[Anna Cate add a quote by Rainer Maria Rilke]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/67287-girls-there-are-poets-who-learn-from-you-to-say]]>
+		</link>
+		<description>
+	    <![CDATA["Girls, there are poets who learn from you
+to say, what you, in your aloneness, are;
+and they learn through you to live distantness,
+as the evenings through the great stars
+become accustomed to eternity." -- Rainer Maria Rilke]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

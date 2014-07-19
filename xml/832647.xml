@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/832647-paul]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/832647-paul" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 22 Jul 2008 21:53:09 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/75445-as-he-came-leaping-in-the-poodle-did-not-heed</guid>
+		<pubDate>Tue, 22 Jul 2008 21:53:09 -0700</pubDate>
+		<title>
+			<![CDATA[Paul add a quote by Goethe, Johann Wolfgang von]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/75445-as-he-came-leaping-in-the-poodle-did-not-heed]]>
+		</link>
+		<description>
+	    <![CDATA["As he came leaping in, the poodle did not heed it.
+The matter now seems turned about;
+The Devil's in the house and can't get out." -- Goethe, Johann Wolfgang von]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/78541-my-fur-is-matted-my-eyes-refuse-to-refocus-my</guid>
+		<pubDate>Thu, 31 Jul 2008 20:56:34 -0700</pubDate>
+		<title>
+			<![CDATA[Paul add a quote by Larry Niven]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/78541-my-fur-is-matted-my-eyes-refuse-to-refocus-my]]>
+		</link>
+		<description>
+	    <![CDATA["my fur is matted, my eyes refuse to refocus, my sthondat-begotten room is too small, my microwave heater heats all meat to the same temperature, and it is the wrong temperature, and I cannot get it fixed." -- Larry Niven]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

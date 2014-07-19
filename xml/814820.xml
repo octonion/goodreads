@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/814820-justin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/814820-justin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 14 Mar 2008 12:55:07 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/20766-who-is-john-galt</guid>
+		<pubDate>Fri, 14 Mar 2008 12:55:07 -0700</pubDate>
+		<title>
+			<![CDATA[Justin add a quote by Ayn Rand]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20766-who-is-john-galt]]>
+		</link>
+		<description>
+	    <![CDATA["Who is John Galt?" -- Ayn Rand]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/34703-paranoid-probably-but-just-because-you-re-paranoid-doesn-t-mean-there</guid>
+		<pubDate>Fri, 14 Mar 2008 12:59:52 -0700</pubDate>
+		<title>
+			<![CDATA[Justin add a quote by Jim Butcher]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/34703-paranoid-probably-but-just-because-you-re-paranoid-doesn-t-mean-there]]>
+		</link>
+		<description>
+	    <![CDATA["Paranoid? Probably. But just because you're paranoid doesn't mean there isn't an invisible demon about to eat your face." -- Jim Butcher]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/97137-it-s-a-wise-person-i-guess-who-knows-he-s-dumb</guid>
+		<pubDate>Sun, 14 Sep 2008 16:03:50 -0700</pubDate>
+		<title>
+			<![CDATA[Justin add a quote by Joseph Heller]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/97137-it-s-a-wise-person-i-guess-who-knows-he-s-dumb]]>
+		</link>
+		<description>
+	    <![CDATA["It's a wise person, I guess, who knows he's dumb, and an honest person who knows he's a liar.  And it's a dumb person, I guess, whose convinced he's wise...-Bob Slocum " -- Joseph Heller]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

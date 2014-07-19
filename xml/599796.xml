@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/599796-kris-waldherr]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/599796-kris-waldherr" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 14 Sep 2011 09:27:22 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/83895-it-was-love-at-first-sight-at-last-sight-at</guid>
+		<pubDate>Wed, 14 Sep 2011 09:27:22 -0700</pubDate>
+		<title>
+			<![CDATA[Kris add a quote by Vladimir Nabokov]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/83895-it-was-love-at-first-sight-at-last-sight-at]]>
+		</link>
+		<description>
+	    <![CDATA["It was love at first sight, at last sight, at ever and ever sight." -- Vladimir Nabokov]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/280246-erik-are-you-very-tired-christine-oh-tonight-i-gave</guid>
+		<pubDate>Wed, 14 Sep 2011 09:27:29 -0700</pubDate>
+		<title>
+			<![CDATA[Kris add a quote by Gaston Leroux]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/280246-erik-are-you-very-tired-christine-oh-tonight-i-gave]]>
+		</link>
+		<description>
+	    <![CDATA["Erik: Are you very tired?
+Christine: Oh, tonight I gave you my soul, and I am dead.
+Erik: Your soul is a beautiful thing, child. No emperor received so fair a gift. The angels wept to-night." -- Gaston Leroux]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

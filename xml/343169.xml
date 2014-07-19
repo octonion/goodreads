@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/343169-anne-ruthmann]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/343169-anne-ruthmann" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 06 Jan 2009 09:42:16 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/40981-the-true-voyage-of-discovery-consists-not-in-seeking-new</guid>
+		<pubDate>Tue, 06 Jan 2009 09:42:16 -0800</pubDate>
+		<title>
+			<![CDATA[Anne add a quote by Marcel Proust]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/40981-the-true-voyage-of-discovery-consists-not-in-seeking-new]]>
+		</link>
+		<description>
+	    <![CDATA["The true voyage of discovery consists,
+not in seeking new landscapes,
+but in having new eyes." -- Marcel Proust]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/73915-what-would-you-attempt-to-do-if-you-knew-you</guid>
+		<pubDate>Tue, 06 Jan 2009 09:42:34 -0800</pubDate>
+		<title>
+			<![CDATA[Anne add a quote by Robert Schuller]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/73915-what-would-you-attempt-to-do-if-you-knew-you]]>
+		</link>
+		<description>
+	    <![CDATA["What would you attempt to do if you knew you could not fail?" -- Robert Schuller]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

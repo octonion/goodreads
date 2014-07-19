@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/812635-michael]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/812635-michael" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 25 Jan 2008 00:13:30 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1288-i-don-t-know-about-you-but-i-m-kind-of-fed</guid>
+		<pubDate>Fri, 25 Jan 2008 00:13:30 -0800</pubDate>
+		<title>
+			<![CDATA[Michael add a quote by Audrey Niffenger]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1288-i-don-t-know-about-you-but-i-m-kind-of-fed]]>
+		</link>
+		<description>
+	    <![CDATA["I don't know about you, but I'm kind of fed up with realism. After all, there's enough reality already; why make more of it? Why not leave realism for the memoirs of drug addicts, the histories of salt, the biographies of porn stars? Why must we continue to read about the travails of divorced people or mildly depressed Canadians when we could be contemplating the shopping habits of zombies, or the difficulties that ensue when living and dead people marry each other? We should be demanding more stories about faery handbags and pyjamas inscribed with the diaries of strange women. We should not rest until someone writes about a television show that features the Free People's World-Tree Library, with its elaborate waterfalls and Forbidden Books and Pirate-Magicians. We should be pining for a house haunted by rabbits." -- Audrey Niffenger]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

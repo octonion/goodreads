@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1030501-laurie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1030501-laurie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 29 May 2013 17:41:17 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/74855-give-me-books-french-wine-fruit-fine-weather-and-a</guid>
+		<pubDate>Wed, 29 May 2013 17:41:17 -0700</pubDate>
+		<title>
+			<![CDATA[Laurie add a quote by John Keats]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/74855-give-me-books-french-wine-fruit-fine-weather-and-a]]>
+		</link>
+		<description>
+	    <![CDATA["Give me books, French wine, fruit, fine weather and a little music played out of doors by somebody I do not know." -- John Keats]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

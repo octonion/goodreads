@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/738974-katie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/738974-katie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 26 Feb 2008 11:25:32 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/11035-no-one-can-make-you-feel-inferior-without-your-consent</guid>
+		<pubDate>Tue, 26 Feb 2008 11:25:32 -0800</pubDate>
+		<title>
+			<![CDATA[Katie add a quote by Eleanor Roosevelt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11035-no-one-can-make-you-feel-inferior-without-your-consent]]>
+		</link>
+		<description>
+	    <![CDATA["No one can make you feel inferior without your consent." -- Eleanor Roosevelt]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1502-facts-do-not-cease-to-exist-because-they-are-ignored</guid>
+		<pubDate>Tue, 26 Feb 2008 12:29:14 -0800</pubDate>
+		<title>
+			<![CDATA[Katie add a quote by Aldous Huxley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1502-facts-do-not-cease-to-exist-because-they-are-ignored]]>
+		</link>
+		<description>
+	    <![CDATA["Facts do not cease to exist because they are ignored." -- Aldous Huxley]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2253-live-as-if-you-were-to-die-tomorrow-learn-as</guid>
+		<pubDate>Tue, 06 Mar 2012 18:32:40 -0800</pubDate>
+		<title>
+			<![CDATA[Katie add a quote by Mahatma Gandhi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2253-live-as-if-you-were-to-die-tomorrow-learn-as]]>
+		</link>
+		<description>
+	    <![CDATA["Live as if you were to die tomorrow. Learn as if you were to live forever." -- Mahatma Gandhi]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/257411-one-can-acquire-everything-in-solitude-except-character</guid>
+		<pubDate>Mon, 27 Jan 2014 18:22:56 -0800</pubDate>
+		<title>
+			<![CDATA[Katie add a quote by Stendhal]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/257411-one-can-acquire-everything-in-solitude-except-character]]>
+		</link>
+		<description>
+	    <![CDATA["One can acquire everything in solitude except character." -- Stendhal]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

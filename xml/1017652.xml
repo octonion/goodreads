@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1017652-neal]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1017652-neal" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 17 May 2013 13:53:23 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/174690-those-who-don-t-believe-in-magic-will-never-find-it</guid>
+		<pubDate>Fri, 17 May 2013 13:53:23 -0700</pubDate>
+		<title>
+			<![CDATA[Neal add a quote by Roald Dahl]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/174690-those-who-don-t-believe-in-magic-will-never-find-it]]>
+		</link>
+		<description>
+	    <![CDATA["Those who don't believe in magic will never find it." -- Roald Dahl]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/359169-do-you-know-peter-asked-why-swallows-build-in-the</guid>
+		<pubDate>Fri, 13 Dec 2013 23:42:06 -0800</pubDate>
+		<title>
+			<![CDATA[Neal add a quote by J. M. Barrie]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/359169-do-you-know-peter-asked-why-swallows-build-in-the]]>
+		</link>
+		<description>
+	    <![CDATA["Do you know,&quot; Peter asked, &quot;why swallows build in the eaves of houses? It is to listen to the stories." -- J. M. Barrie]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

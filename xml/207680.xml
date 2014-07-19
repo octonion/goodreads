@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/207680-danny]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/207680-danny" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 08 Feb 2014 11:32:33 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/77749-the-really-important-kind-of-freedom-involves-attention-and-awareness</guid>
+		<pubDate>Sat, 08 Feb 2014 11:32:33 -0800</pubDate>
+		<title>
+			<![CDATA[Danny add a quote by David Foster Wallace]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/77749-the-really-important-kind-of-freedom-involves-attention-and-awareness]]>
+		</link>
+		<description>
+	    <![CDATA["The really important kind of freedom involves attention, and awareness, and discipline, and effort, and being able truly to care about other people and to sacrifice for them, over and over, in myriad petty little unsexy ways, every day." -- David Foster Wallace]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

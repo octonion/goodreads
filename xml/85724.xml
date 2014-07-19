@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/85724-ciana]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/85724-ciana" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 24 Jul 2011 22:03:02 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/274333-i-don-t-think-michelle-obama-minds-bein-our-new-muse</guid>
+		<pubDate>Sun, 24 Jul 2011 22:03:02 -0700</pubDate>
+		<title>
+			<![CDATA[Ciana add a quote by Helena Andrews]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/274333-i-don-t-think-michelle-obama-minds-bein-our-new-muse]]>
+		</link>
+		<description>
+	    <![CDATA["I don't think Michelle [Obama:] minds bein our new muse. I think she gets it. We little brown girls - drunk off The Cosby Show, sobered up by life, and a little suicidal - we need her." -- Helena Andrews]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

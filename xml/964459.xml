@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/964459-kate]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/964459-kate" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 31 Mar 2009 16:09:27 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/764-a-room-without-books-is-like-a-body-without-a</guid>
+		<pubDate>Tue, 31 Mar 2009 16:09:27 -0700</pubDate>
+		<title>
+			<![CDATA[Kate add a quote by Marcus Tullius Cicero]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/764-a-room-without-books-is-like-a-body-without-a]]>
+		</link>
+		<description>
+	    <![CDATA["A room without books is like a body without a soul." -- Marcus Tullius Cicero]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/943-darkness-cannot-drive-out-darkness-only-light-can-do-that</guid>
+		<pubDate>Tue, 31 Mar 2009 16:10:00 -0700</pubDate>
+		<title>
+			<![CDATA[Kate add a quote by Martin Luther King Jr.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/943-darkness-cannot-drive-out-darkness-only-light-can-do-that]]>
+		</link>
+		<description>
+	    <![CDATA["Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that." -- Martin Luther King Jr.]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/876-to-be-yourself-in-a-world-that-is-constantly-trying</guid>
+		<pubDate>Sat, 04 Apr 2009 01:43:44 -0700</pubDate>
+		<title>
+			<![CDATA[Kate add a quote by Ralph Waldo Emerson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/876-to-be-yourself-in-a-world-that-is-constantly-trying]]>
+		</link>
+		<description>
+	    <![CDATA["To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment." -- Ralph Waldo Emerson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

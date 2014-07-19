@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/158596-tiffany]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/158596-tiffany" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 01 Jun 2011 20:43:52 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/31777-it-goes-a-long-way-back-some-twenty-years-all</guid>
+		<pubDate>Wed, 01 Jun 2011 20:43:52 -0700</pubDate>
+		<title>
+			<![CDATA[Tiffany add a quote by Ralph Ellison]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/31777-it-goes-a-long-way-back-some-twenty-years-all]]>
+		</link>
+		<description>
+	    <![CDATA["It goes a long way back, some twenty years.  All my life I had been looking for something, and everywhere I turned someone tried to tell me what it was.  I accepted their answers too, though they were often in contradiction and even self-contradictory.  I was naive.  I was looking for myself and asking everyone except myself questions which  I, and only I, could answer.  It took me a long time and much painful boomeranging of my expectations to achieve a realization everyone else appears to have been born with: That I am nobody but myself.  But first I had to discover that I am an invisible man!" -- Ralph Ellison]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

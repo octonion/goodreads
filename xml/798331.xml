@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/798331-sean]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/798331-sean" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 13 Apr 2009 02:03:17 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4402-belief-is-the-death-of-intelligence</guid>
+		<pubDate>Mon, 13 Apr 2009 02:03:17 -0700</pubDate>
+		<title>
+			<![CDATA[Sean add a quote by Robert Anton Wilson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4402-belief-is-the-death-of-intelligence]]>
+		</link>
+		<description>
+	    <![CDATA["belief is the death of intelligence." -- Robert Anton Wilson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/25755-the-bible-tells-us-to-be-like-god-and-then</guid>
+		<pubDate>Tue, 07 Jan 2014 12:36:04 -0800</pubDate>
+		<title>
+			<![CDATA[Sean add a quote by Robert Anton Wilson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/25755-the-bible-tells-us-to-be-like-god-and-then]]>
+		</link>
+		<description>
+	    <![CDATA["The Bible tells us to be like God, and then on page after page it describes God as a mass murderer. This may be the single most important key to the political behavior of Western Civilization." -- Robert Anton Wilson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

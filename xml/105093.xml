@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/105093-margaret]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/105093-margaret" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 17 Dec 2007 12:01:57 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/764-a-room-without-books-is-like-a-body-without-a</guid>
+		<pubDate>Mon, 17 Dec 2007 12:01:57 -0800</pubDate>
+		<title>
+			<![CDATA[Margaret add a quote by Marcus Tullius Cicero]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/764-a-room-without-books-is-like-a-body-without-a]]>
+		</link>
+		<description>
+	    <![CDATA["A room without books is like a body without a soul." -- Marcus Tullius Cicero]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5859-reading-is-the-sole-means-by-which-we-slip-involuntarily</guid>
+		<pubDate>Mon, 17 Dec 2007 12:02:47 -0800</pubDate>
+		<title>
+			<![CDATA[Margaret add a quote by Joyce Carol Oates]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5859-reading-is-the-sole-means-by-which-we-slip-involuntarily]]>
+		</link>
+		<description>
+	    <![CDATA["Reading is the sole means by which we slip, involuntarily, often helplessly, into another's skin, another's voice, another's soul." -- Joyce Carol Oates]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/876-to-be-yourself-in-a-world-that-is-constantly-trying</guid>
+		<pubDate>Sun, 10 Aug 2008 11:32:03 -0700</pubDate>
+		<title>
+			<![CDATA[Margaret add a quote by Ralph Waldo Emerson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/876-to-be-yourself-in-a-world-that-is-constantly-trying]]>
+		</link>
+		<description>
+	    <![CDATA["To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment." -- Ralph Waldo Emerson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

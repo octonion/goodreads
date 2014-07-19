@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/120922-g]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/120922-g" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 14 Jan 2012 14:49:41 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/487607-it-wasn-t-that-i-wanted-to-be-a-writer-i</guid>
+		<pubDate>Sat, 14 Jan 2012 14:49:41 -0800</pubDate>
+		<title>
+			<![CDATA[g add a quote by David Carr]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/487607-it-wasn-t-that-i-wanted-to-be-a-writer-i]]>
+		</link>
+		<description>
+	    <![CDATA["It wasn't that I wanted to be a writer; I just didn't want to be stupid." -- David Carr]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/662533-where-you-ve-nothing-else-construct-ceremonies-out-of-the-air</guid>
+		<pubDate>Tue, 13 Nov 2012 16:31:44 -0800</pubDate>
+		<title>
+			<![CDATA[g add a quote by Cormac McCarthy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/662533-where-you-ve-nothing-else-construct-ceremonies-out-of-the-air]]>
+		</link>
+		<description>
+	    <![CDATA["Where you've nothing else, construct ceremonies out of the air, and breathe upon them." -- Cormac McCarthy]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/315385-those-who-have-a-why-to-live-can-bear-with</guid>
+		<pubDate>Sun, 06 Oct 2013 13:05:49 -0700</pubDate>
+		<title>
+			<![CDATA[g add a quote by Viktor E. Frankl]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/315385-those-who-have-a-why-to-live-can-bear-with]]>
+		</link>
+		<description>
+	    <![CDATA["Those who have a 'why' to live, can bear with almost any 'how'." -- Viktor E. Frankl]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/909080-from-all-this-we-may-learn-that-there-are-two</guid>
+		<pubDate>Sun, 06 Oct 2013 13:14:27 -0700</pubDate>
+		<title>
+			<![CDATA[g add a quote by Victor Frankel]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/909080-from-all-this-we-may-learn-that-there-are-two]]>
+		</link>
+		<description>
+	    <![CDATA["From all this we may learn that there are two races of men in this world, but only these two — the “race” of the decent man and the “race” of the indecent man. Both are found everywhere; they penetrate into all groups of society. No group consists entirely of decent or indecent people." -- Victor Frankel]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

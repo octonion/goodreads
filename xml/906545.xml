@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/906545-lynna]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/906545-lynna" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 15 Feb 2008 10:25:32 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/48-three-things-in-human-life-are-important-the-first-is</guid>
+		<pubDate>Fri, 15 Feb 2008 10:25:32 -0800</pubDate>
+		<title>
+			<![CDATA[Lynna add a quote by Henry James]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/48-three-things-in-human-life-are-important-the-first-is]]>
+		</link>
+		<description>
+	    <![CDATA["Three things in human life are important: the first is to be kind; the second is to be kind; and the third is to be kind." -- Henry James]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/17605-her-reputation-for-reading-a-great-deal-hung-about-her</guid>
+		<pubDate>Fri, 15 Feb 2008 10:25:57 -0800</pubDate>
+		<title>
+			<![CDATA[Lynna add a quote by Henry James]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17605-her-reputation-for-reading-a-great-deal-hung-about-her]]>
+		</link>
+		<description>
+	    <![CDATA["Her reputation for reading a great deal hung about her like the cloudy envelope of a goddess in an epic." -- Henry James]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5826-my-dear-i-don-t-give-a-damn</guid>
+		<pubDate>Fri, 15 Feb 2008 10:27:30 -0800</pubDate>
+		<title>
+			<![CDATA[Lynna add a quote by Margaret Mitchell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5826-my-dear-i-don-t-give-a-damn]]>
+		</link>
+		<description>
+	    <![CDATA["My dear, I don't give a damn." -- Margaret Mitchell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

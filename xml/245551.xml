@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/245551-cookie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/245551-cookie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 13 Jan 2008 18:15:28 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/987-there-are-only-two-ways-to-live-your-life-one</guid>
+		<pubDate>Sun, 13 Jan 2008 18:15:28 -0800</pubDate>
+		<title>
+			<![CDATA[Cookie add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/987-there-are-only-two-ways-to-live-your-life-one]]>
+		</link>
+		<description>
+	    <![CDATA["There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle." -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/317-most-people-are-other-people-their-thoughts-are-someone-else-s</guid>
+		<pubDate>Sun, 13 Jan 2008 18:16:14 -0800</pubDate>
+		<title>
+			<![CDATA[Cookie add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/317-most-people-are-other-people-their-thoughts-are-someone-else-s]]>
+		</link>
+		<description>
+	    <![CDATA["Most people are other people. Their thoughts are someone else's opinions, their lives a mimicry, their passions a quotation." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/57214-saying-i-notice-you-re-a-nerd-is-like-saying-hey</guid>
+		<pubDate>Sat, 15 Nov 2008 09:14:57 -0800</pubDate>
+		<title>
+			<![CDATA[Cookie add a quote by John Green]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/57214-saying-i-notice-you-re-a-nerd-is-like-saying-hey]]>
+		</link>
+		<description>
+	    <![CDATA["Saying 'I notice you're a nerd' is like saying, 'Hey, I notice that you'd rather be intelligent than be stupid, that you'd rather be thoughtful than be vapid, that you believe that there are things that matter more than the arrest record of Lindsay Lohan. Why is that?' In fact, it seems to me that most contemporary insults are pretty lame. Even 'lame' is kind of lame. Saying 'You're lame' is like saying 'You walk with a limp.' Yeah, whatever, so does 50 Cent, and he's done all right for himself." -- John Green]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

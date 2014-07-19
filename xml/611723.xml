@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/611723-dave-diercks]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/611723-dave-diercks" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 29 May 2008 08:39:12 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/65047-in-a-closed-society-where-everybody-s-guilty-the-only-crime</guid>
+		<pubDate>Thu, 29 May 2008 08:39:12 -0700</pubDate>
+		<title>
+			<![CDATA[Dave add a quote by Hunter S. Thompson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/65047-in-a-closed-society-where-everybody-s-guilty-the-only-crime]]>
+		</link>
+		<description>
+	    <![CDATA["In a closed society where everybody's guilty, the only crime is getting caught. In a world of thieves, the only final sin is stupidity." -- Hunter S. Thompson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/60119-i-m-a-doctor-of-cowshit-pigshit-and-chickenshit-when-you-doctors</guid>
+		<pubDate>Tue, 03 Jun 2008 10:45:35 -0700</pubDate>
+		<title>
+			<![CDATA[Dave add a quote by Kurt Vonnegut, Jr.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/60119-i-m-a-doctor-of-cowshit-pigshit-and-chickenshit-when-you-doctors]]>
+		</link>
+		<description>
+	    <![CDATA["I'm a doctor of cowshit, pigshit, and chickenshit.....when you doctors figure out what you want, you'll find me out in the barn shoveling my thesis." -- Kurt Vonnegut, Jr.]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

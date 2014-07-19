@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/946651-bert]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/946651-bert" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 22 Oct 2013 18:00:31 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/22263-there-is-only-one-way-to-read-which-is-to</guid>
+		<pubDate>Tue, 22 Oct 2013 18:00:31 -0700</pubDate>
+		<title>
+			<![CDATA[Bert add a quote by Doris Lessing]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22263-there-is-only-one-way-to-read-which-is-to]]>
+		</link>
+		<description>
+	    <![CDATA["There is only one way to read, which is to browse in libraries and bookshops, picking up books that attract you, reading only those, dropping them when they bore you, skipping the parts that drag-and never, never reading anything because you feel you ought, or because it is part of a trend or a movement.  Remember that the book which bores you when you are twenty or thirty will open doors for you when you are forty or fifty-and vise versa.  Don’t read a book out of its right time for you.  " -- Doris Lessing]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

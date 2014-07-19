@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/302653-tiffany]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/302653-tiffany" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 25 Apr 2014 08:49:04 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/32947-the-clearest-way-into-the-universe-is-through-a-forest</guid>
+		<pubDate>Fri, 25 Apr 2014 08:49:04 -0700</pubDate>
+		<title>
+			<![CDATA[Tiffany add a quote by John Muir]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/32947-the-clearest-way-into-the-universe-is-through-a-forest]]>
+		</link>
+		<description>
+	    <![CDATA["The clearest way into the Universe is through a forest wilderness." -- John Muir]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/129641-it-is-thanks-to-my-evening-reading-alone-that-i</guid>
+		<pubDate>Sun, 18 May 2014 05:36:48 -0700</pubDate>
+		<title>
+			<![CDATA[Tiffany add a quote by W.G. Sebald]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/129641-it-is-thanks-to-my-evening-reading-alone-that-i]]>
+		</link>
+		<description>
+	    <![CDATA["It is thanks to my evening reading alone that I am still more or less sane." -- W.G. Sebald]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/397334-i-ve-been-homesick-for-countries-i-ve-never-been-and-longed</guid>
+		<pubDate>Tue, 27 May 2014 19:47:50 -0700</pubDate>
+		<title>
+			<![CDATA[Tiffany add a quote by John Cheever]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/397334-i-ve-been-homesick-for-countries-i-ve-never-been-and-longed]]>
+		</link>
+		<description>
+	    <![CDATA["I've been homesick for countries I've never been, and longed to be where I couldn't be." -- John Cheever]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/841409-never-say-no-to-adventures-always-say-yes-otherwise-you-ll</guid>
+		<pubDate>Wed, 28 May 2014 15:07:49 -0700</pubDate>
+		<title>
+			<![CDATA[Tiffany add a quote by Ian Fleming]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/841409-never-say-no-to-adventures-always-say-yes-otherwise-you-ll]]>
+		</link>
+		<description>
+	    <![CDATA["Never say 'no' to adventures. Always say 'yes,' otherwise you'll lead a very dull life." -- Ian Fleming]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

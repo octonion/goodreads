@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/732531-yodit]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/732531-yodit" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 18 Feb 2011 04:58:02 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/102078-the-most-authentic-thing-about-us-is-our-capacity-to</guid>
+		<pubDate>Fri, 18 Feb 2011 04:58:02 -0800</pubDate>
+		<title>
+			<![CDATA[Yodit add a quote by Ben Okri]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/102078-the-most-authentic-thing-about-us-is-our-capacity-to]]>
+		</link>
+		<description>
+	    <![CDATA["The most authentic thing about us is our capacity to create, to overcome, to endure, to transform, to love and to be greater than our suffering." -- Ben Okri]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/777-love-never-dies-a-natural-death-it-dies-because-we</guid>
+		<pubDate>Sat, 26 Apr 2014 20:08:58 -0700</pubDate>
+		<title>
+			<![CDATA[Yodit add a quote by Anais Nin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/777-love-never-dies-a-natural-death-it-dies-because-we]]>
+		</link>
+		<description>
+	    <![CDATA["Love never dies a natural death. It dies because we don't know how to replenish its source. It dies of blindness and errors and betrayals. It dies of illness and wounds; it dies of weariness, of witherings, of tarnishings." -- Anais Nin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

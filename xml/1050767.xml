@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1050767-kim]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1050767-kim" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 19 Apr 2008 20:11:43 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/46397-in-what-terms-should-we-think-of-these-beings-nonhuman</guid>
+		<pubDate>Sat, 19 Apr 2008 20:11:43 -0700</pubDate>
+		<title>
+			<![CDATA[Kim add a quote by Jane Goodall]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/46397-in-what-terms-should-we-think-of-these-beings-nonhuman]]>
+		</link>
+		<description>
+	    <![CDATA["In what terms should we think of these beings, nonhuman yet possessing so very many human-like characteristics? How should we treat them? Surely we should treat them with the same consideration and kindness as we show to other humans; and as we recognize human rights, so too should we recognize the rights of the great apes? Yes." -- Jane Goodall]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/46400-if-you-don-t-understand-the-situation-by-now-you-are</guid>
+		<pubDate>Sat, 19 Apr 2008 20:13:53 -0700</pubDate>
+		<title>
+			<![CDATA[Kim add a quote by Chris from Project Runway]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/46400-if-you-don-t-understand-the-situation-by-now-you-are]]>
+		</link>
+		<description>
+	    <![CDATA["If you don't understand the situation by now, you are refusing to learn." -- Chris from Project Runway]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/725491-dirkus]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/725491-dirkus" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 06 Jun 2008 10:30:49 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/60954-so-he-lent-her-books-after-all-one-of-life-s</guid>
+		<pubDate>Fri, 06 Jun 2008 10:30:49 -0700</pubDate>
+		<title>
+			<![CDATA[Dirkus add a quote by William Vollmann]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/60954-so-he-lent-her-books-after-all-one-of-life-s]]>
+		</link>
+		<description>
+	    <![CDATA["So he lent her books. After all, one of life's best pleasures is reading a book of perfect beauty; more pleasurable still is rereading that book; most pleasurable of all is lending it to the person one loves: Now she is reading or has just read the scene with the mirrors; she who is so lovely is drinking in that loveliness I've drunk." -- William Vollmann]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

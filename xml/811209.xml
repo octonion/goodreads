@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/811209-katie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/811209-katie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 06 Feb 2008 11:02:50 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/752-nobody-has-ever-measured-not-even-poets-how-much-the</guid>
+		<pubDate>Wed, 06 Feb 2008 11:02:50 -0800</pubDate>
+		<title>
+			<![CDATA[Katie add a quote by Zelda Fitzgerald]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/752-nobody-has-ever-measured-not-even-poets-how-much-the]]>
+		</link>
+		<description>
+	    <![CDATA["Nobody has ever measured, not even poets, how much the heart can hold." -- Zelda Fitzgerald]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1775-morning-without-you-is-a-dwindled-dawn</guid>
+		<pubDate>Wed, 06 Feb 2008 11:04:24 -0800</pubDate>
+		<title>
+			<![CDATA[Katie add a quote by Emily Dickinson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1775-morning-without-you-is-a-dwindled-dawn]]>
+		</link>
+		<description>
+	    <![CDATA["Morning without you is a dwindled dawn." -- Emily Dickinson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1227-of-all-forms-of-caution-caution-in-love-is-perhaps</guid>
+		<pubDate>Wed, 06 Feb 2008 11:05:48 -0800</pubDate>
+		<title>
+			<![CDATA[Katie add a quote by Bertrand Russell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1227-of-all-forms-of-caution-caution-in-love-is-perhaps]]>
+		</link>
+		<description>
+	    <![CDATA["Of all forms of caution, caution in love is perhaps the most fatal to true happiness." -- Bertrand Russell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

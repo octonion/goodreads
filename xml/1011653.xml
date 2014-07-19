@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1011653-joseph]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1011653-joseph" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 26 Mar 2008 09:46:28 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/25-we-are-all-in-the-gutter-but-some-of-us</guid>
+		<pubDate>Wed, 26 Mar 2008 09:46:28 -0700</pubDate>
+		<title>
+			<![CDATA[Joseph add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/25-we-are-all-in-the-gutter-but-some-of-us]]>
+		</link>
+		<description>
+	    <![CDATA["We are all in the gutter, but some of us are looking at the stars." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/9922-what-people-forget-is-a-journey-to-nowhere-starts-with</guid>
+		<pubDate>Sat, 29 Mar 2008 21:16:06 -0700</pubDate>
+		<title>
+			<![CDATA[Joseph add a quote by Chuck Palahniuk]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9922-what-people-forget-is-a-journey-to-nowhere-starts-with]]>
+		</link>
+		<description>
+	    <![CDATA["What people forget is a journey to nowhere starts with a single step, too." -- Chuck Palahniuk]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/299327-for-me-art-is-a-more-trustworthy-expression-of-god</guid>
+		<pubDate>Thu, 23 Sep 2010 10:34:02 -0700</pubDate>
+		<title>
+			<![CDATA[Joseph add a quote by Rosanne Cash]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/299327-for-me-art-is-a-more-trustworthy-expression-of-god]]>
+		</link>
+		<description>
+	    <![CDATA["For me, art is a more trustworthy expression of God than religion." -- Rosanne Cash]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

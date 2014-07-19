@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1080196-ash]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1080196-ash" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 14 Apr 2008 16:19:44 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/651-all-that-we-see-or-seem-is-but-a-dream</guid>
+		<pubDate>Mon, 14 Apr 2008 16:19:44 -0700</pubDate>
+		<title>
+			<![CDATA[Ash add a quote by Edgar Allan Poe]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/651-all-that-we-see-or-seem-is-but-a-dream]]>
+		</link>
+		<description>
+	    <![CDATA["All that we see or seem is but a dream within a dream." -- Edgar Allan Poe]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

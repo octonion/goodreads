@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/60218-sarah]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/60218-sarah" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 23 Feb 2014 13:44:07 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/173807-i-cannot-exist-without-you---i-am-forgetful-of</guid>
+		<pubDate>Sun, 23 Feb 2014 13:44:07 -0800</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by John Keats]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/173807-i-cannot-exist-without-you---i-am-forgetful-of]]>
+		</link>
+		<description>
+	    <![CDATA["I cannot exist without you - I am forgetful of every thing but seeing you again - my Life seems to stop there - I see no further. You have absorb'd me. I have a sensation at the present moment as though I were dissolving... I have been astonished that Men could die Martyrs for religion - I have shudder'd at it - I shudder no more - I could be martyr'd for my Religion - Love is my religion - I could die for that - I could die for you. My creed is Love and you are its only tenet - You have ravish'd me away by a Power I cannot resist." -- John Keats]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

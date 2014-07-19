@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/766867-kim]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/766867-kim" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 17 Jan 2010 22:57:24 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/18980-ultimately-man-should-not-ask-what-the-meaning-of-his</guid>
+		<pubDate>Sun, 17 Jan 2010 22:57:24 -0800</pubDate>
+		<title>
+			<![CDATA[Kim add a quote by Viktor E. Frankl]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18980-ultimately-man-should-not-ask-what-the-meaning-of-his]]>
+		</link>
+		<description>
+	    <![CDATA["Ultimately, man should not ask what the meaning of his life is, but rather must recognize that it is he who is asked. In a word, each man is questioned by life; and he can only answer to life by answering for his own life; to life he can only respond by being responsible." -- Viktor E. Frankl]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

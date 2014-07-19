@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/871661-chris-tice]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/871661-chris-tice" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 07 Feb 2008 07:27:16 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/22393-to-acquire-knowledge-one-must-study-but-to-acquire-wisdom</guid>
+		<pubDate>Thu, 07 Feb 2008 07:27:16 -0800</pubDate>
+		<title>
+			<![CDATA[Chris add a quote by Marilyn vos Savant]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22393-to-acquire-knowledge-one-must-study-but-to-acquire-wisdom]]>
+		</link>
+		<description>
+	    <![CDATA["To acquire knowledge, one must study;
+but to acquire wisdom, one must observe." -- Marilyn vos Savant]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/15381-don-t-tell-people-how-to-do-things-tell-them-what</guid>
+		<pubDate>Wed, 07 May 2008 09:20:14 -0700</pubDate>
+		<title>
+			<![CDATA[Chris add a quote by George S. Patton]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/15381-don-t-tell-people-how-to-do-things-tell-them-what]]>
+		</link>
+		<description>
+	    <![CDATA["Don't tell people how to do things, tell them what to do and let them surprise you with their results." -- George S. Patton]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/85732-you-know-that-look-that-women-get-when-they-want</guid>
+		<pubDate>Mon, 25 Aug 2008 06:42:21 -0700</pubDate>
+		<title>
+			<![CDATA[Chris add a quote by Steve Martin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/85732-you-know-that-look-that-women-get-when-they-want]]>
+		</link>
+		<description>
+	    <![CDATA["You know that look that women get when they want to have sex? Me neither." -- Steve Martin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

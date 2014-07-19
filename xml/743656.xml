@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/743656-emily]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/743656-emily" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 04 Jan 2008 21:43:02 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/10241-life-is-to-be-enjoyed-not-endured</guid>
+		<pubDate>Fri, 04 Jan 2008 21:43:02 -0800</pubDate>
+		<title>
+			<![CDATA[Emily add a quote by Gordon B. Hinckley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10241-life-is-to-be-enjoyed-not-endured]]>
+		</link>
+		<description>
+	    <![CDATA["Life is to be enjoyed, not endured" -- Gordon B. Hinckley]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4342-all-the-darkness-in-the-world-cannot-extinguish-the-light</guid>
+		<pubDate>Fri, 04 Jan 2008 21:46:39 -0800</pubDate>
+		<title>
+			<![CDATA[Emily add a quote by St. Francis Of Assisi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4342-all-the-darkness-in-the-world-cannot-extinguish-the-light]]>
+		</link>
+		<description>
+	    <![CDATA["All the darkness in the world cannot extinguish the light of a single candle." -- St. Francis Of Assisi]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/15579-what-lies-behind-us-and-what-lies-before-us-are</guid>
+		<pubDate>Fri, 04 Jan 2008 21:48:03 -0800</pubDate>
+		<title>
+			<![CDATA[Emily add a quote by Ralph Waldo Emerson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/15579-what-lies-behind-us-and-what-lies-before-us-are]]>
+		</link>
+		<description>
+	    <![CDATA["What lies behind us and what lies before us are tiny matters compared to what lies within us." -- Ralph Waldo Emerson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/266944-somehow-difficulties-are-easier-to-endure-when-you-know-your</guid>
+		<pubDate>Wed, 28 Jul 2010 16:59:27 -0700</pubDate>
+		<title>
+			<![CDATA[Emily add a quote by Lisa Mangum]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/266944-somehow-difficulties-are-easier-to-endure-when-you-know-your]]>
+		</link>
+		<description>
+	    <![CDATA["Somehow difficulties are easier to endure when you know your dream is waiting for you at the end." -- Lisa Mangum]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

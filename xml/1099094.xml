@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1099094-alyssa-young]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1099094-alyssa-young" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 19 Apr 2008 23:27:15 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/8912-i-am-fond-of-pigs-dogs-look-up-to-us</guid>
+		<pubDate>Sat, 19 Apr 2008 23:27:15 -0700</pubDate>
+		<title>
+			<![CDATA[Alyssa add a quote by Winston S. Churchill]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8912-i-am-fond-of-pigs-dogs-look-up-to-us]]>
+		</link>
+		<description>
+	    <![CDATA["I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals." -- Winston S. Churchill]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/46454-sanity-is-a-cozy-lie</guid>
+		<pubDate>Sat, 19 Apr 2008 23:33:21 -0700</pubDate>
+		<title>
+			<![CDATA[Alyssa add a quote by Susan Sontag]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/46454-sanity-is-a-cozy-lie]]>
+		</link>
+		<description>
+	    <![CDATA["Sanity is a cozy lie." -- Susan Sontag]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/17255-show-me-a-sane-man-and-i-will-cure-him</guid>
+		<pubDate>Sat, 19 Apr 2008 23:37:55 -0700</pubDate>
+		<title>
+			<![CDATA[Alyssa add a quote by Carl Gustav Jung]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17255-show-me-a-sane-man-and-i-will-cure-him]]>
+		</link>
+		<description>
+	    <![CDATA["Show me a sane man and I will cure him for you." -- Carl Gustav Jung]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

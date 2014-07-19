@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/48133-tara]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/48133-tara" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 23 Aug 2013 10:30:35 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/395717-the-truth-is-that-the-heroism-of-your-childhood-entertainments</guid>
+		<pubDate>Fri, 23 Aug 2013 10:30:35 -0700</pubDate>
+		<title>
+			<![CDATA[Tara add a quote by David Foster Wallace]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/395717-the-truth-is-that-the-heroism-of-your-childhood-entertainments]]>
+		</link>
+		<description>
+	    <![CDATA["The truth is that the heroism of your childhood entertainments was not true valor. It was theatre. The grand gesture, the moment of choice, the mortal danger, the external foe, the climactic battle whose outcome resolves all--all designed to appear heroic, to excite and gratify and audience. Gentlemen, welcome to the world of reality--there is no audience. No one to applaud, to admire. No one to see you. Do you understand?Here is the truth--actual heroism receives no ovation, entertains no one. No one queues up to see it. No one is interested." -- David Foster Wallace]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

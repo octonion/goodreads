@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/46818-heather]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/46818-heather" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 27 Aug 2010 08:49:37 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2415-the-trick-is-in-what-one-emphasizes-we-either-make</guid>
+		<pubDate>Fri, 27 Aug 2010 08:49:37 -0700</pubDate>
+		<title>
+			<![CDATA[heather add a quote by Carlos Castaneda]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2415-the-trick-is-in-what-one-emphasizes-we-either-make]]>
+		</link>
+		<description>
+	    <![CDATA["The trick is in what one emphasizes. We either make ourselves miserable, or we make ourselves happy. The amount of work is the same." -- Carlos Castaneda]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/165242-sometimes-we-think-people-are-like-lottery-tickets-that-they-re</guid>
+		<pubDate>Fri, 19 Aug 2011 19:27:19 -0700</pubDate>
+		<title>
+			<![CDATA[heather add a quote by Carlos Ruiz Zafón]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/165242-sometimes-we-think-people-are-like-lottery-tickets-that-they-re]]>
+		</link>
+		<description>
+	    <![CDATA["Sometimes we think people are like lottery tickets, that they're there to make our most absurd dreams come true." -- Carlos Ruiz Zafón]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/72259-deb]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/72259-deb" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 21 Dec 2007 23:25:56 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2534-we-accept-the-love-we-think-we-deserve</guid>
+		<pubDate>Fri, 21 Dec 2007 23:25:56 -0800</pubDate>
+		<title>
+			<![CDATA[Deb add a quote by Stephen Chbosky]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2534-we-accept-the-love-we-think-we-deserve]]>
+		</link>
+		<description>
+	    <![CDATA["We accept the love we think we deserve." -- Stephen Chbosky]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

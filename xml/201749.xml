@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/201749-anthony]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/201749-anthony" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 09 Jul 2013 09:24:18 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/351357-i-have-had-to-experience-so-much-stupidity-so-many</guid>
+		<pubDate>Tue, 09 Jul 2013 09:24:18 -0700</pubDate>
+		<title>
+			<![CDATA[Anthony add a quote by Hermann Hesse]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/351357-i-have-had-to-experience-so-much-stupidity-so-many]]>
+		</link>
+		<description>
+	    <![CDATA["I have had to experience so much stupidity, so many vices, so much error, so much nausea, disillusionment and sorrow, just in order to become a child again and begin anew. I had to experience despair, I had to sink to the greatest mental depths, to thoughts of suicide, in order to experience grace." -- Hermann Hesse]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/12124-the-past-is-never-dead-it-s-not-even-past</guid>
+		<pubDate>Thu, 23 Jan 2014 08:44:46 -0800</pubDate>
+		<title>
+			<![CDATA[Anthony add a quote by William Faulkner]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12124-the-past-is-never-dead-it-s-not-even-past]]>
+		</link>
+		<description>
+	    <![CDATA["The past is never dead.  It's not even past." -- William Faulkner]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/111894-all-that-is-transitory-is-but-a-metaphor</guid>
+		<pubDate>Thu, 27 Feb 2014 05:34:56 -0800</pubDate>
+		<title>
+			<![CDATA[Anthony add a quote by Johann Wolfgang von Goethe]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/111894-all-that-is-transitory-is-but-a-metaphor]]>
+		</link>
+		<description>
+	    <![CDATA["All that is transitory is but a metaphor." -- Johann Wolfgang von Goethe]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

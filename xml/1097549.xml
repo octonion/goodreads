@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1097549-rachel-ide]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1097549-rachel-ide" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 08 Dec 2008 07:09:15 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/27820-the-only-way-to-have-a-friend-is-to-be</guid>
+		<pubDate>Mon, 08 Dec 2008 07:09:15 -0800</pubDate>
+		<title>
+			<![CDATA[Rachel add a quote by Ralph Waldo Emerson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/27820-the-only-way-to-have-a-friend-is-to-be]]>
+		</link>
+		<description>
+	    <![CDATA["The only way to have a friend is to be one." -- Ralph Waldo Emerson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1005501-there-are-too-many-books-i-haven-t-read-too-many</guid>
+		<pubDate>Sat, 01 Mar 2014 11:46:45 -0800</pubDate>
+		<title>
+			<![CDATA[Rachel add a quote by Irwin Shaw]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1005501-there-are-too-many-books-i-haven-t-read-too-many]]>
+		</link>
+		<description>
+	    <![CDATA["There are too many books I haven’t read, too many places I haven’t seen, too many memories I haven’t kept long enough." -- Irwin Shaw]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

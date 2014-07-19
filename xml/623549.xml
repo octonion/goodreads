@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/623549-crystal-marchese]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/623549-crystal-marchese" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 26 Dec 2007 17:01:29 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/7750-we-didn-t-lose-the-game-we-just-ran-out-of</guid>
+		<pubDate>Wed, 26 Dec 2007 17:01:29 -0800</pubDate>
+		<title>
+			<![CDATA[Crystal add a quote by Vince Lombardi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7750-we-didn-t-lose-the-game-we-just-ran-out-of]]>
+		</link>
+		<description>
+	    <![CDATA["We didn't lose the game; we just ran out of time." -- Vince Lombardi]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/7752-trust-in-the-lord-with-all-thine-heart-and-lean</guid>
+		<pubDate>Wed, 26 Dec 2007 17:20:42 -0800</pubDate>
+		<title>
+			<![CDATA[Crystal add a quote by Anonymous]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7752-trust-in-the-lord-with-all-thine-heart-and-lean]]>
+		</link>
+		<description>
+	    <![CDATA["Trust in the LORD with all thine heart; and lean not unto thine own understanding. In all thy ways acknowledge him, and he shall direct thy paths." -- Anonymous]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

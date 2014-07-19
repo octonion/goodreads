@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/778065-mary]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/778065-mary" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 20 May 2012 12:41:39 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5797-the-person-be-it-gentleman-or-lady-who-has-not</guid>
+		<pubDate>Sun, 20 May 2012 12:41:39 -0700</pubDate>
+		<title>
+			<![CDATA[Mary add a quote by Jane Austen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5797-the-person-be-it-gentleman-or-lady-who-has-not]]>
+		</link>
+		<description>
+	    <![CDATA["The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid." -- Jane Austen]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/919-the-man-who-does-not-read-has-no-advantage-over</guid>
+		<pubDate>Sun, 20 May 2012 12:41:46 -0700</pubDate>
+		<title>
+			<![CDATA[Mary add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/919-the-man-who-does-not-read-has-no-advantage-over]]>
+		</link>
+		<description>
+	    <![CDATA["The man who does not read has no advantage over the man who cannot read." -- Mark Twain]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2033-when-god-had-made-the-man-he-made-him-out</guid>
+		<pubDate>Thu, 19 Jul 2012 09:15:12 -0700</pubDate>
+		<title>
+			<![CDATA[Mary add a quote by Zora Neale Hurston]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2033-when-god-had-made-the-man-he-made-him-out]]>
+		</link>
+		<description>
+	    <![CDATA["When God had made The Man, he made him out of stuff that sung all the time and glittered all over. Some angels got jealous and chopped him into millions of pieces, but still he glittered and hummed. So they beat him down to nothing but sparks but each little spark had a shine and a song. So they covered each one over with mud. And the lonesomeness in the sparks make them hunt for one another." -- Zora Neale Hurston]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

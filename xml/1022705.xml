@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1022705-debi]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1022705-debi" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 05 Jun 2011 09:45:28 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/106633-if-you-don-t-like-the-scene-you-re-in-if-you-re</guid>
+		<pubDate>Sun, 05 Jun 2011 09:45:28 -0700</pubDate>
+		<title>
+			<![CDATA[Debi add a quote by Leo Buscaglia]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/106633-if-you-don-t-like-the-scene-you-re-in-if-you-re]]>
+		</link>
+		<description>
+	    <![CDATA["If you don't like the scene you're in, if you're unhappy, if you're lonely, if you don't feel that things are happening, change your scene.  Paint a new backdrop." -- Leo Buscaglia]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

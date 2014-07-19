@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1029094-kristin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1029094-kristin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 15 Dec 2012 21:35:09 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/95890-there-was-a-new-voice-which-you-slowly-recognized-as</guid>
+		<pubDate>Sat, 15 Dec 2012 21:35:09 -0800</pubDate>
+		<title>
+			<![CDATA[Kristin add a quote by Mary Oliver]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/95890-there-was-a-new-voice-which-you-slowly-recognized-as]]>
+		</link>
+		<description>
+	    <![CDATA["...there was a new voice
+which you slowly
+recognized as your own,
+that kept you company
+as you strode deeper and deeper
+into the world,
+determined to do
+the only thing you could do --
+determined to save
+the only life you could save." -- Mary Oliver]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

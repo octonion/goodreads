@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/394771-deborah]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/394771-deborah" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 21 Apr 2008 21:21:31 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/47154-unless-a-man-has-pity-he-is-not-truly-a</guid>
+		<pubDate>Mon, 21 Apr 2008 21:21:31 -0700</pubDate>
+		<title>
+			<![CDATA[Deborah add a quote by William Saroyan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/47154-unless-a-man-has-pity-he-is-not-truly-a]]>
+		</link>
+		<description>
+	    <![CDATA["Unless a man has pity he is not truly a man.  If a man has not wept at the worlds pain he is only half a man, and there will always be pain in the world, knowing this does not mean that a man shall dispair.  A good man will seek to take pain out of things.  A foolish man will not even notice it, except in himself,  and the poor unfortunate evil man will drive pain deeper into things and spread it about wherever he goes." -- William Saroyan]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

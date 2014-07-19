@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/845671-jamie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/845671-jamie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 12 Jun 2012 13:17:34 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/11664-my-candle-burns-at-both-ends-it-will-not-last</guid>
+		<pubDate>Tue, 12 Jun 2012 13:17:34 -0700</pubDate>
+		<title>
+			<![CDATA[Jamie add a quote by Edna St. Vincent Millay]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11664-my-candle-burns-at-both-ends-it-will-not-last]]>
+		</link>
+		<description>
+	    <![CDATA["My candle burns at both ends;
+It will not last the night;
+But ah, my foes, and oh, my friends—
+It gives a lovely light!" -- Edna St. Vincent Millay]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

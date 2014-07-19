@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/447197-ammon-crapo]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/447197-ammon-crapo" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 28 Oct 2008 17:24:01 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/92120-equality-in-a-social-sense-may-be-divided-into-that</guid>
+		<pubDate>Tue, 28 Oct 2008 17:24:01 -0700</pubDate>
+		<title>
+			<![CDATA[Ammon add a quote by James Fenimore Cooper]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/92120-equality-in-a-social-sense-may-be-divided-into-that]]>
+		</link>
+		<description>
+	    <![CDATA["Equality, in a social sense, may be divided into that of condition, and that of rights. Equality of condition is incompatible with civilization, and is found only to exist in those communities that are but slightly removed from the savage state.  In practice, it can only mean a common misery." -- James Fenimore Cooper]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

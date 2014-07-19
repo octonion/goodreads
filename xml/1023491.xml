@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1023491-randi-m]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1023491-randi-m" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 29 Mar 2008 19:43:19 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4566-in-vain-have-i-struggled-it-will-not-do-my</guid>
+		<pubDate>Sat, 29 Mar 2008 19:43:19 -0700</pubDate>
+		<title>
+			<![CDATA[Randi add a quote by Jane Austen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4566-in-vain-have-i-struggled-it-will-not-do-my]]>
+		</link>
+		<description>
+	    <![CDATA["In vain have I struggled. It will not do. My feelings will not be repressed. You must allow me to tell you how ardently I admire and love you." -- Jane Austen]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3506-there-are-few-people-whom-i-really-love-and-still</guid>
+		<pubDate>Sat, 29 Mar 2008 19:46:23 -0700</pubDate>
+		<title>
+			<![CDATA[Randi add a quote by Jane Austen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3506-there-are-few-people-whom-i-really-love-and-still]]>
+		</link>
+		<description>
+	    <![CDATA["There are few people whom I really love, and still fewer of whom I think well. The more I see of the world, the more am I dissatisfied with it; and every day confirms my belief of the inconsistency of all human characters, and of the little dependence that can be placed on the appearance of merit or sense." -- Jane Austen]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

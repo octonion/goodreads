@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/622596-liz]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/622596-liz" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 20 Feb 2009 09:07:44 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/8874-you-are-not-here-merely-to-make-a-living-you</guid>
+		<pubDate>Fri, 20 Feb 2009 09:07:44 -0800</pubDate>
+		<title>
+			<![CDATA[Liz add a quote by Woodrow Wilson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8874-you-are-not-here-merely-to-make-a-living-you]]>
+		</link>
+		<description>
+	    <![CDATA["You are not here merely to make a living. You are here in order to enable the world to live more amply, with greater vision, with a finer spirit of hope and achievement. You are here to enrich the world, and you impoverish yourself if you forget the errand." -- Woodrow Wilson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4559-we-should-consider-every-day-lost-on-which-we-have</guid>
+		<pubDate>Mon, 09 Jun 2014 13:39:47 -0700</pubDate>
+		<title>
+			<![CDATA[Liz add a quote by Friedrich Wilhelm Nietzsche]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4559-we-should-consider-every-day-lost-on-which-we-have]]>
+		</link>
+		<description>
+	    <![CDATA["We should consider every day lost on which we have not danced at least once." -- Friedrich Wilhelm Nietzsche]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1718-the-very-least-you-can-do-in-your-life-is</guid>
+		<pubDate>Mon, 09 Jun 2014 13:39:56 -0700</pubDate>
+		<title>
+			<![CDATA[Liz add a quote by Barbara Kingsolver]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1718-the-very-least-you-can-do-in-your-life-is]]>
+		</link>
+		<description>
+	    <![CDATA["The very least you can do in your life is figure out what you hope for. And the most you can do is live inside that hope. Not admire it from a distance but live right in it, under its roof." -- Barbara Kingsolver]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

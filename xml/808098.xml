@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/808098-kristine-muslim]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/808098-kristine-muslim" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 02 Oct 2012 20:00:01 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/636344-so-all-in-all-there-wasn-t-anything-really-wrong-with</guid>
+		<pubDate>Tue, 02 Oct 2012 20:00:01 -0700</pubDate>
+		<title>
+			<![CDATA[Kristine add a quote by Jack Finney]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/636344-so-all-in-all-there-wasn-t-anything-really-wrong-with]]>
+		</link>
+		<description>
+	    <![CDATA["So all in all there wasn't anything really wrong with my life. Except that, like most everyone else's I knew about, it had a big gaping hole in it, an enormous emptiness, and I didn't know how to fill it or even know what belonged there." -- Jack Finney]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/637137-it-s-a-lonely-life-but-you-re-used-to-it-now</guid>
+		<pubDate>Thu, 04 Oct 2012 06:31:09 -0700</pubDate>
+		<title>
+			<![CDATA[Kristine add a quote by Ray Bradbury]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/637137-it-s-a-lonely-life-but-you-re-used-to-it-now]]>
+		</link>
+		<description>
+	    <![CDATA["It's a lonely life, but you're used to it now, aren't you?" -- Ray Bradbury]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

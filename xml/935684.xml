@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/935684-dorian]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/935684-dorian" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 23 Feb 2008 07:59:11 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/27674-we-come-into-this-world-naked-covered-in-our-own</guid>
+		<pubDate>Sat, 23 Feb 2008 07:59:11 -0800</pubDate>
+		<title>
+			<![CDATA[Dorian add a quote by Dana Gould]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/27674-we-come-into-this-world-naked-covered-in-our-own]]>
+		</link>
+		<description>
+	    <![CDATA["We come into this world naked, covered in our own blood, screaming in terror - and it doesn't have to stop there if you know how to live right" -- Dana Gould]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/24499-be-the-change-that-you-wish-to-see-in-the</guid>
+		<pubDate>Sat, 23 Feb 2008 07:59:49 -0800</pubDate>
+		<title>
+			<![CDATA[Dorian add a quote by Mahatma Gandhi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/24499-be-the-change-that-you-wish-to-see-in-the]]>
+		</link>
+		<description>
+	    <![CDATA["Be the change that you wish to see in the world." -- Mahatma Gandhi]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6406-nothing-in-the-world-is-more-dangerous-than-sincere-ignorance</guid>
+		<pubDate>Sat, 23 Feb 2008 08:00:16 -0800</pubDate>
+		<title>
+			<![CDATA[Dorian add a quote by Martin Luther King Jr.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6406-nothing-in-the-world-is-more-dangerous-than-sincere-ignorance]]>
+		</link>
+		<description>
+	    <![CDATA["Nothing in the world is more dangerous than sincere ignorance and conscientious stupidity." -- Martin Luther King Jr.]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

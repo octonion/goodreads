@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/40372-tom]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/40372-tom" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 02 Oct 2009 20:04:25 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/81417-how-could-a-just-god-permit-great-misery-the-haitian</guid>
+		<pubDate>Fri, 02 Oct 2009 20:04:25 -0700</pubDate>
+		<title>
+			<![CDATA[Tom add a quote by Tracy Kidder, Paul Farmer (Mountains Beyond Mountains)]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/81417-how-could-a-just-god-permit-great-misery-the-haitian]]>
+		</link>
+		<description>
+	    <![CDATA["How could a just God permit great misery?  The Haitian peasants answered with a proverb:  &quot;Bondye konn bay, men li pa konn separe,&quot;  in literal translation, &quot;God gives but doesn't share.&quot;  This meant... God gives us humans everything we need to flourish, but he's not the one who's supposed to divvy up the loot.  That charge was laid upon us." -- Tracy Kidder, Paul Farmer (Mountains Beyond Mountains)]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

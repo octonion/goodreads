@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/307122-sarah]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/307122-sarah" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 02 Jun 2012 08:56:32 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/563598-today-when-you-nurture-love-and-meet-the-needs-of</guid>
+		<pubDate>Sat, 02 Jun 2012 08:56:32 -0700</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by Sally Clarkson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/563598-today-when-you-nurture-love-and-meet-the-needs-of]]>
+		</link>
+		<description>
+	    <![CDATA["Today when you nurture, love and meet the needs of your beloveds with beauty, it will make a difference in how they face their whole day." -- Sally Clarkson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/502439-i-am-convinced-no-more-like-convicted-that-to-claim</guid>
+		<pubDate>Mon, 13 Feb 2012 15:46:39 -0800</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by Sarah Clarkson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/502439-i-am-convinced-no-more-like-convicted-that-to-claim]]>
+		</link>
+		<description>
+	    <![CDATA["I am convinced, no, more like convicted, that to claim a few still spaces in which beauty is found and silence kept, is to open the door to God." -- Sarah Clarkson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

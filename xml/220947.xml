@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/220947-bri-ahearn]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/220947-bri-ahearn" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 13 May 2009 12:09:37 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/68039-some-days-you-must-learn-a-great-deal-but-you</guid>
+		<pubDate>Wed, 13 May 2009 12:09:37 -0700</pubDate>
+		<title>
+			<![CDATA[Bri  add a quote by E. L. Konigsburg]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/68039-some-days-you-must-learn-a-great-deal-but-you]]>
+		</link>
+		<description>
+	    <![CDATA["Some days you must learn a great deal.  But you should also have days when you allow what is already in you to swell up and touch everything.  If you never let that happen, then you just accumulate facts, and they begin to rattle around inside of you." -- E. L. Konigsburg]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

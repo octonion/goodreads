@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/904736-brooke]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/904736-brooke" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 10 May 2014 07:21:53 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/118533-thus-when-we-plead-for-the-gift-of-charity-we</guid>
+		<pubDate>Sat, 10 May 2014 07:21:53 -0700</pubDate>
+		<title>
+			<![CDATA[Brooke add a quote by Sheri L. Dew]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/118533-thus-when-we-plead-for-the-gift-of-charity-we]]>
+		</link>
+		<description>
+	    <![CDATA["Thus, when we plead for the gift of charity, we aren't asking for lovely feelings toward someone who bugs us or someone who has injured or wounded us.  We are actually pleading for our very natures to be changed, for our character and disposition to become more and more like the Savior's, so that we literally feel as He would feel and thus do what He would do." -- Sheri L. Dew]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

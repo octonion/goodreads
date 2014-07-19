@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/297128-paul]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/297128-paul" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 22 Dec 2008 12:28:10 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/69262-what-makes-me-myself-rather-than-anyone-else-is-the</guid>
+		<pubDate>Mon, 22 Dec 2008 12:28:10 -0800</pubDate>
+		<title>
+			<![CDATA[Paul add a quote by Amin Maalouf]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/69262-what-makes-me-myself-rather-than-anyone-else-is-the]]>
+		</link>
+		<description>
+	    <![CDATA["What makes me myself rather than anyone else is the very fact that I am poised between two countries, two or three languages, and several cultural traditions. It is precisely this that defines my identity. Would I exist more authentically if I cut off a part of myself" -- Amin Maalouf]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

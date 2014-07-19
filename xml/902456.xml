@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/902456-jac]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/902456-jac" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 15 Jun 2008 06:56:11 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1935-quotation-is-a-serviceable-substitute-for-wit</guid>
+		<pubDate>Sun, 15 Jun 2008 06:56:11 -0700</pubDate>
+		<title>
+			<![CDATA[Jac add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1935-quotation-is-a-serviceable-substitute-for-wit]]>
+		</link>
+		<description>
+	    <![CDATA["Quotation is a serviceable substitute for wit." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/7501-it-is-a-feeling-of-relief-almost-of-pleasure-at</guid>
+		<pubDate>Sun, 15 Jun 2008 07:02:46 -0700</pubDate>
+		<title>
+			<![CDATA[Jac add a quote by George Orwell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7501-it-is-a-feeling-of-relief-almost-of-pleasure-at]]>
+		</link>
+		<description>
+	    <![CDATA["It is a feeling of relief, almost of pleasure, at knowing yourself at last genuinely down and out. You have talked so often of going to the dogs - and well, here are the dogs, and you have reached them, and you can stand it. It takes off a lot of anxiety." -- George Orwell]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/18097-i-have-the-simplest-tastes-i-am-always-satisfied-with</guid>
+		<pubDate>Sun, 15 Jun 2008 13:07:59 -0700</pubDate>
+		<title>
+			<![CDATA[Jac add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18097-i-have-the-simplest-tastes-i-am-always-satisfied-with]]>
+		</link>
+		<description>
+	    <![CDATA["I have the simplest tastes. I am always satisfied with the best." -- Oscar Wilde]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

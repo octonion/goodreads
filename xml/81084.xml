@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/81084-devin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/81084-devin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 12 Dec 2009 09:52:38 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/11509-anyone-who-has-never-made-a-mistake-has-never-tried</guid>
+		<pubDate>Sat, 12 Dec 2009 09:52:38 -0800</pubDate>
+		<title>
+			<![CDATA[Devin add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11509-anyone-who-has-never-made-a-mistake-has-never-tried]]>
+		</link>
+		<description>
+	    <![CDATA["Anyone who has never made a mistake has never tried anything new." -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/214009-no-man-should-escape-our-universities-without-knowing-how-little</guid>
+		<pubDate>Sat, 12 Dec 2009 09:52:38 -0800</pubDate>
+		<title>
+			<![CDATA[Devin add a quote by J. Robert Oppenheimer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/214009-no-man-should-escape-our-universities-without-knowing-how-little]]>
+		</link>
+		<description>
+	    <![CDATA["No man should escape our universities without knowing how little he knows." -- J. Robert Oppenheimer]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/40330-if-you-believe-that-your-thoughts-originate-inside-your-brain</guid>
+		<pubDate>Sat, 12 Dec 2009 11:23:23 -0800</pubDate>
+		<title>
+			<![CDATA[Devin add a quote by Warren Ellis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/40330-if-you-believe-that-your-thoughts-originate-inside-your-brain]]>
+		</link>
+		<description>
+	    <![CDATA["If you believe that your thoughts originate inside your brain, do you also believe that television shows are made inside your television set?" -- Warren Ellis]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

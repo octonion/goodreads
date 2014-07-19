@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/714136-liz]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/714136-liz" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 12 May 2013 20:19:26 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/124471-i-sometimes-think-we-expect-too-much-of-christmas-day</guid>
+		<pubDate>Sun, 12 May 2013 20:19:26 -0700</pubDate>
+		<title>
+			<![CDATA[Liz add a quote by David Grayson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/124471-i-sometimes-think-we-expect-too-much-of-christmas-day]]>
+		</link>
+		<description>
+	    <![CDATA["I sometimes think we expect too much of Christmas Day.  We try to crowd into it the long arrears of kindliness and humanity of the whole year.  As for me, I like to take my Christmas a little at a time, all through the year.  And thus I drift along into the holidays - let them overtake me unexpectedly - waking up some find morning and suddenly saying to myself:  'Why, this is Christmas Day!" -- David Grayson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/457709-do-your-thing-and-don-t-care-if-they-like-it</guid>
+		<pubDate>Sat, 18 May 2013 13:50:47 -0700</pubDate>
+		<title>
+			<![CDATA[Liz add a quote by Tina Fey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/457709-do-your-thing-and-don-t-care-if-they-like-it]]>
+		</link>
+		<description>
+	    <![CDATA["Do your thing and don't care if they like it." -- Tina Fey]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

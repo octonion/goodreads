@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/98280-crysta]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/98280-crysta" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 07 Jun 2012 09:36:07 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2926-be-content-with-what-you-have-rejoice-in-the-way</guid>
+		<pubDate>Thu, 07 Jun 2012 09:36:07 -0700</pubDate>
+		<title>
+			<![CDATA[Crysta add a quote by Lao Tzu]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2926-be-content-with-what-you-have-rejoice-in-the-way]]>
+		</link>
+		<description>
+	    <![CDATA["Be content with what you have;
+  rejoice in the way things are.
+When you realize there is nothing lacking,
+  the whole world belongs to you." -- Lao Tzu]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/25171-there-are-some-good-things-to-be-said-about-walking</guid>
+		<pubDate>Wed, 10 Apr 2013 13:12:09 -0700</pubDate>
+		<title>
+			<![CDATA[Crysta add a quote by Edward Abbey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/25171-there-are-some-good-things-to-be-said-about-walking]]>
+		</link>
+		<description>
+	    <![CDATA["There are some good things to be said about walking. Not many, but some. Walking takes longer, for example, than any other known form of locomotion except crawling. Thus it stretches time and prolongs life. Life is already too short to waste on speed. I have a friend who's always in a hurry; he never gets anywhere. Walking makes the world much bigger and thus more interesting. You have time to observe the details. The utopian technologists foresee a future for us in which distance is annihilated. … To be everywhere at once is to be nowhere forever, if you ask me." -- Edward Abbey]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

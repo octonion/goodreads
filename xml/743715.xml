@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/743715-shelly]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/743715-shelly" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 05 Jan 2008 14:12:32 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5586-when-we-hope-we-usually-hope-for-the-wrong-thing</guid>
+		<pubDate>Sat, 05 Jan 2008 14:12:32 -0800</pubDate>
+		<title>
+			<![CDATA[Shelly add a quote by Dean Koontz]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5586-when-we-hope-we-usually-hope-for-the-wrong-thing]]>
+		</link>
+		<description>
+	    <![CDATA["When we hope, we usually hope for the wrong thing." -- Dean Koontz]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1598-you-only-live-once-but-if-you-do-it-right</guid>
+		<pubDate>Sun, 20 Jan 2008 19:40:33 -0800</pubDate>
+		<title>
+			<![CDATA[Shelly add a quote by Mae West]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1598-you-only-live-once-but-if-you-do-it-right]]>
+		</link>
+		<description>
+	    <![CDATA["You only live once, but if you do it right, once is enough." -- Mae West]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1958-whenever-i-feel-the-need-to-exercise-i-lie-down</guid>
+		<pubDate>Sun, 20 Jan 2008 19:40:44 -0800</pubDate>
+		<title>
+			<![CDATA[Shelly add a quote by Paul   Terry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1958-whenever-i-feel-the-need-to-exercise-i-lie-down]]>
+		</link>
+		<description>
+	    <![CDATA["Whenever I feel the need to exercise, I lie down until it goes away." -- Paul   Terry]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1312-if-at-first-you-don-t-succeed-try-try-again-then</guid>
+		<pubDate>Sun, 20 Jan 2008 19:42:29 -0800</pubDate>
+		<title>
+			<![CDATA[Shelly add a quote by W.C. Fields]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1312-if-at-first-you-don-t-succeed-try-try-again-then]]>
+		</link>
+		<description>
+	    <![CDATA["If at first you don't succeed, try, try again. Then quit. No use being a damn fool about it." -- W.C. Fields]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

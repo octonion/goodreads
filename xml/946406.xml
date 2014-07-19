@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/946406-john-parks]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/946406-john-parks" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 26 Feb 2008 19:54:08 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/19011-maybe-you-can-make-art-out-of-unredeemed-pain-but</guid>
+		<pubDate>Tue, 26 Feb 2008 19:54:08 -0800</pubDate>
+		<title>
+			<![CDATA[John add a quote by Larry McMurtry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/19011-maybe-you-can-make-art-out-of-unredeemed-pain-but]]>
+		</link>
+		<description>
+	    <![CDATA["Maybe you can make art out of unredeemed pain, but only if you're a genius -- Dostoyevsky perhaps." -- Larry McMurtry]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/27742-only-a-rank-degenerate-would-drive-1-500-miles-across-texas</guid>
+		<pubDate>Thu, 28 Feb 2008 08:49:28 -0800</pubDate>
+		<title>
+			<![CDATA[John add a quote by Larry McMurtry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/27742-only-a-rank-degenerate-would-drive-1-500-miles-across-texas]]>
+		</link>
+		<description>
+	    <![CDATA["Only a rank degenerate would drive 1,500 miles across Texas without eating a chicken fried steak." -- Larry McMurtry]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

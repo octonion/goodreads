@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/140508-stephen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/140508-stephen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 29 Apr 2008 20:10:24 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/36886-my-working-method-has-more-often-than-not-involved-the</guid>
+		<pubDate>Tue, 29 Apr 2008 20:10:24 -0700</pubDate>
+		<title>
+			<![CDATA[stephen add a quote by Italo Calvino]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/36886-my-working-method-has-more-often-than-not-involved-the]]>
+		</link>
+		<description>
+	    <![CDATA["My working method has more often than not involved the subtraction of weight.  I have tried to remove weight, sometimes from people, sometimes from heavenly bodies, sometimes from cities; above all I have tried to remove weight from the structure of stories and from language. . . . Maybe I was only then becoming aware of the weight, the inertia, the opacity of the world--qualities that stick to the writing from the start, unless one finds some way of evading them.  " -- Italo Calvino]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

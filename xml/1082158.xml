@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1082158-vivian-blaxell]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1082158-vivian-blaxell" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 10 Aug 2013 20:45:24 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/790739-the-west-is-a-civilization-that-has-survived-all-the</guid>
+		<pubDate>Sat, 10 Aug 2013 20:45:24 -0700</pubDate>
+		<title>
+			<![CDATA[Vivian add a quote by The Invisible Committee]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/790739-the-west-is-a-civilization-that-has-survived-all-the]]>
+		</link>
+		<description>
+	    <![CDATA["The West is a civilization that has survived all the prophecies of its collapse with a singular stratagem. Just as the bourgeoisie had to deny itself as a class in order to permit the bourgeoisification of society as a whole, from the worker to the baron; just as capital had to sacrifice itself as a wage relation in order to impose itself as a social relation—becoming cultural capital and health capital in addition to finance capital; just as Christianity had to sacrifice itself as a religion in order to survive as an affective structure—as a vague injunction to humility, compassion, and weakness; so the West has sacrificed itself as a particular civilization in order to impose itself as a universal culture. The operation can be summarized like this: an entity in its death throes sacrifices itself as a content in order to survive as a form." -- The Invisible Committee]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

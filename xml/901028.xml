@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/901028-jeff-bursey]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/901028-jeff-bursey" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 25 Sep 2013 08:48:51 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/901702-when-we-think-of-the-masterpieces-that-nobody-praised-and</guid>
+		<pubDate>Wed, 25 Sep 2013 08:48:51 -0700</pubDate>
+		<title>
+			<![CDATA[Jeff add a quote by Randall Jarrell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/901702-when-we-think-of-the-masterpieces-that-nobody-praised-and]]>
+		</link>
+		<description>
+	    <![CDATA["When we think of the masterpieces that nobody praised and nobody read, back there in the past, we feel an impatient superiority to the readers of the past. If we had been there, we can’t help feeling, we’d have known that Moby-Dick was a good book—-why, how could anyone help knowing?
+
+But suppose someone says to us, “Well, you’re here now: what’s our own Moby-Dick? What’s the book that, a hundred years from now, everybody will look down on us for not having liked?” What do we say then?" -- Randall Jarrell]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/55010-only-a-soul-full-of-despair-can-ever-attain-serenity</guid>
+		<pubDate>Sun, 01 Jun 2014 07:19:44 -0700</pubDate>
+		<title>
+			<![CDATA[Jeff add a quote by Blaise Cendrars]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/55010-only-a-soul-full-of-despair-can-ever-attain-serenity]]>
+		</link>
+		<description>
+	    <![CDATA["Only a soul full of despair can ever attain serenity and, to be in despair, you must have loved a good deal and still love the world." -- Blaise Cendrars]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

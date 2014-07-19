@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/975637-krishna]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/975637-krishna" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 07 Mar 2008 16:35:08 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2396-people-aren-t-either-wicked-or-noble-they-re-like-chef-s-salads</guid>
+		<pubDate>Fri, 07 Mar 2008 16:35:08 -0800</pubDate>
+		<title>
+			<![CDATA[Krishna add a quote by Lemony Snicket]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2396-people-aren-t-either-wicked-or-noble-they-re-like-chef-s-salads]]>
+		</link>
+		<description>
+	    <![CDATA["People aren't either wicked or noble. They're like chef's salads, with good things and bad things chopped and mixed together in a vinaigrette of confusion and conflict." -- Lemony Snicket]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

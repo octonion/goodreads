@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/303979-elijah]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/303979-elijah" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 17 Nov 2008 16:05:01 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/115067-a-sense-of-being-part-of-the-great-all-inclusive-life</guid>
+		<pubDate>Mon, 17 Nov 2008 16:05:01 -0800</pubDate>
+		<title>
+			<![CDATA[Elijah add a quote by Daisaku Ikeda]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/115067-a-sense-of-being-part-of-the-great-all-inclusive-life]]>
+		</link>
+		<description>
+	    <![CDATA["A sense of being part of the great all-inclusive life prompts us to reflect on our own place and on how we ought to live. Guarding others' lives, the ecology and the earth is the same as protecting one's own life. By like token, wounding them is the same thing as wounding oneself. Consequently, it is the duty of each of us to participate as members of the life community in the evolution of the universe. We can do this by guarding earth's ecological system." -- Daisaku Ikeda]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

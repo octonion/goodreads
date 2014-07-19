@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/933797-maria-mebane]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/933797-maria-mebane" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 22 Feb 2008 13:07:45 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/24499-be-the-change-that-you-wish-to-see-in-the</guid>
+		<pubDate>Fri, 22 Feb 2008 13:07:45 -0800</pubDate>
+		<title>
+			<![CDATA[Maria   add a quote by Mahatma Gandhi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/24499-be-the-change-that-you-wish-to-see-in-the]]>
+		</link>
+		<description>
+	    <![CDATA["Be the change that you wish to see in the world." -- Mahatma Gandhi]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/7075-every-child-is-an-artist-the-problem-is-how-to</guid>
+		<pubDate>Fri, 22 Feb 2008 13:11:38 -0800</pubDate>
+		<title>
+			<![CDATA[Maria   add a quote by Pablo Picasso]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7075-every-child-is-an-artist-the-problem-is-how-to]]>
+		</link>
+		<description>
+	    <![CDATA["Every child is an artist. The problem is how to remain an artist once he grows up." -- Pablo Picasso]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/18504-if-i-am-truly-to-become-an-autonomous-woman-then</guid>
+		<pubDate>Fri, 22 Feb 2008 13:14:07 -0800</pubDate>
+		<title>
+			<![CDATA[Maria   add a quote by Elizabeth Gilbert]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18504-if-i-am-truly-to-become-an-autonomous-woman-then]]>
+		</link>
+		<description>
+	    <![CDATA["If I am truly to become an autonomous woman, then I must take over that role of being my own guardian...I not only have to become my own husband, but I need to be my own father, too." -- Elizabeth Gilbert]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

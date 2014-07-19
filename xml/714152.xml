@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/714152-barbara]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/714152-barbara" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 29 Jan 2009 20:37:55 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/135508-the-trickle-down-theory-of-economics-has-it-that-it-s-good</guid>
+		<pubDate>Thu, 29 Jan 2009 20:37:55 -0800</pubDate>
+		<title>
+			<![CDATA[Barbara add a quote by Margaret Atwood]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/135508-the-trickle-down-theory-of-economics-has-it-that-it-s-good]]>
+		</link>
+		<description>
+	    <![CDATA["The trickle-down theory of economics has it that it's good for rich people to get even richer because some of their wealth will trickle own, through their no doubt lavish spending, upon those who stand below them on the economic ladder. Notice that the metaphor is not that of a gushing waterfall but of a leaking tap: even the most optimistic endorsers of this concept do not picture very much real flow, as their language reveals&quot; pg. 102." -- Margaret Atwood]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

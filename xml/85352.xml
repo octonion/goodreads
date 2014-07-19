@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/85352-melle]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/85352-melle" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 09 Jan 2013 19:48:00 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/198709-at-our-age-the-imagination-across-the-sorry-facts-lifts</guid>
+		<pubDate>Wed, 09 Jan 2013 19:48:00 -0800</pubDate>
+		<title>
+			<![CDATA[Melle add a quote by William Carlos Williams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/198709-at-our-age-the-imagination-across-the-sorry-facts-lifts]]>
+		</link>
+		<description>
+	    <![CDATA["At our age the imagination
+         across the sorry facts
+              lifts us
+to make roses
+         stand before thorns.
+              Sure
+love is cruel
+         and selfish
+              and totally obtuse—
+at least, blinded by the light,
+         young love is.
+              But we are older,
+I to love
+         and you to be loved,
+              we have,
+no matter how,
+         by our wills survived
+              to keep
+the jeweled prize
+         always
+              at our finger tips.
+We will it so
+         and so it is
+              past all accident." -- William Carlos Williams]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

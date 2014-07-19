@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/722553-eric]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/722553-eric" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 Jan 2008 13:52:23 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/9217-man-once-surrendering-his-reason-has-no-remaining-guard-against</guid>
+		<pubDate>Tue, 01 Jan 2008 13:52:23 -0800</pubDate>
+		<title>
+			<![CDATA[Eric add a quote by Thomas Jefferson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9217-man-once-surrendering-his-reason-has-no-remaining-guard-against]]>
+		</link>
+		<description>
+	    <![CDATA["Man once surrendering his reason, has no remaining guard against absurdities the most monstrous, and like a ship without rudder, is the sport of every wind. With such persons, gullibility, which they call faith, takes the helm from the hand of reason, and the mind becomes a wreck." -- Thomas Jefferson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4104-even-if-there-is-only-one-possible-unified-theory-it</guid>
+		<pubDate>Tue, 01 Jan 2008 14:01:02 -0800</pubDate>
+		<title>
+			<![CDATA[Eric add a quote by Stephen Hawking]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4104-even-if-there-is-only-one-possible-unified-theory-it]]>
+		</link>
+		<description>
+	    <![CDATA["Even if there is only one possible unified theory, it is just a set of rules and equations. What is it that breathes fire into the equations and makes a universe for them to describe? The usual approach of science of constructing a mathematical model cannot answer the questions of why there should be a universe for the model to describe. Why does the universe go to all the bother of existing?" -- Stephen Hawking]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

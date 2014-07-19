@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/655039-steve-collins]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/655039-steve-collins" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 12 Jul 2008 09:41:00 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/60679-the-last-word-in-ignorance-is-the-man-who-says</guid>
+		<pubDate>Sat, 12 Jul 2008 09:41:00 -0700</pubDate>
+		<title>
+			<![CDATA[Steve add a quote by Aldo Leopold]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/60679-the-last-word-in-ignorance-is-the-man-who-says]]>
+		</link>
+		<description>
+	    <![CDATA["The last word in ignorance is the man who says of an animal or plant, &quot;What good is it?&quot; If the land mechanism as a whole is good, then every part is good, whether we understand it or not. If the biota, in the course of aeons, has built something we like but do not understand, then who but a fool would discard seemingly useless parts? To keep every cog and wheel is the first precaution of intelligent tinkering." -- Aldo Leopold]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

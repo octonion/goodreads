@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/56199-sarah-jo]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/56199-sarah-jo" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 19 Dec 2007 09:03:51 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6386-god-is-no-fonder-of-intellectual-slackers-than-he-is</guid>
+		<pubDate>Wed, 19 Dec 2007 09:03:51 -0800</pubDate>
+		<title>
+			<![CDATA[Sarah Jo add a quote by C.S. Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6386-god-is-no-fonder-of-intellectual-slackers-than-he-is]]>
+		</link>
+		<description>
+	    <![CDATA["God is no fonder of intellectual slackers than He is of any other slacker." -- C.S. Lewis]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/953667-if-the-fundamental-principles-in-the-declaration-of-independence-as</guid>
+		<pubDate>Mon, 02 Dec 2013 11:17:37 -0800</pubDate>
+		<title>
+			<![CDATA[Sarah Jo add a quote by John Quincy Adams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/953667-if-the-fundamental-principles-in-the-declaration-of-independence-as]]>
+		</link>
+		<description>
+	    <![CDATA["If the fundamental principles in the Declaration of Independence, as self-evident truths, are real truths, the existence of slavery, in any form, is a wrong." -- John Quincy Adams]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

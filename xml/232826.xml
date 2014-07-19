@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/232826-vanessa]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/232826-vanessa" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 30 Jun 2008 20:52:54 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5636-men-seldom-make-passes-at-girls-who-wear-glasses</guid>
+		<pubDate>Mon, 30 Jun 2008 20:52:54 -0700</pubDate>
+		<title>
+			<![CDATA[Vanessa add a quote by Dorothy Parker]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5636-men-seldom-make-passes-at-girls-who-wear-glasses]]>
+		</link>
+		<description>
+	    <![CDATA["Men seldom make passes at girls who wear glasses." -- Dorothy Parker]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/77633-memory-is-a-strange-bell-jubilee-and-knell</guid>
+		<pubDate>Tue, 29 Jul 2008 19:23:59 -0700</pubDate>
+		<title>
+			<![CDATA[Vanessa add a quote by Emily Dickinson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/77633-memory-is-a-strange-bell-jubilee-and-knell]]>
+		</link>
+		<description>
+	    <![CDATA["Memory is a strange Bell—Jubilee, and Knell." -- Emily Dickinson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/77641-jokes-there-are-no-jokes-the-truth-is-the-funniest</guid>
+		<pubDate>Tue, 29 Jul 2008 19:44:01 -0700</pubDate>
+		<title>
+			<![CDATA[Vanessa add a quote by Muhammad Ali]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/77641-jokes-there-are-no-jokes-the-truth-is-the-funniest]]>
+		</link>
+		<description>
+	    <![CDATA["Jokes? There are no jokes. The truth is the funniest joke of all." -- Muhammad Ali]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

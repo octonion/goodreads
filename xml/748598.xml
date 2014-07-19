@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/748598-kristin-black]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/748598-kristin-black" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 26 Feb 2013 09:07:38 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/21262-tell-me-and-i-forget-teach-me-and-i-may</guid>
+		<pubDate>Tue, 26 Feb 2013 09:07:38 -0800</pubDate>
+		<title>
+			<![CDATA[Kristin add a quote by Benjamin Franklin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21262-tell-me-and-i-forget-teach-me-and-i-may]]>
+		</link>
+		<description>
+	    <![CDATA["Tell me and I forget, teach me and I may remember, involve me and I learn." -- Benjamin Franklin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

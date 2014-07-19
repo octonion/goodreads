@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/782442-courtney]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/782442-courtney" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 10 May 2010 16:17:48 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1067-my-one-regret-in-life-is-that-i-am-not</guid>
+		<pubDate>Mon, 10 May 2010 16:17:48 -0700</pubDate>
+		<title>
+			<![CDATA[Courtney add a quote by Woody Allen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1067-my-one-regret-in-life-is-that-i-am-not]]>
+		</link>
+		<description>
+	    <![CDATA["My one regret in life is that I am not someone else." -- Woody Allen]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/18869-the-first-thing-i-do-in-the-morning-is-brush</guid>
+		<pubDate>Thu, 27 Oct 2011 20:49:12 -0700</pubDate>
+		<title>
+			<![CDATA[Courtney add a quote by Dorothy Parker]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18869-the-first-thing-i-do-in-the-morning-is-brush]]>
+		</link>
+		<description>
+	    <![CDATA["The first thing I do in the morning is brush my teeth and sharpen my tongue." -- Dorothy Parker]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/72283-follow-your-inner-moonlight-don-t-hide-the-madness</guid>
+		<pubDate>Fri, 15 Jun 2012 21:58:05 -0700</pubDate>
+		<title>
+			<![CDATA[Courtney add a quote by Allen Ginsberg]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/72283-follow-your-inner-moonlight-don-t-hide-the-madness]]>
+		</link>
+		<description>
+	    <![CDATA["Follow your inner moonlight; don't hide the madness." -- Allen Ginsberg]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

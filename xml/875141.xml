@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/875141-heather]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/875141-heather" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 29 Jul 2013 17:03:26 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/16309-there-are-only-two-kinds-of-people-in-the-end</guid>
+		<pubDate>Mon, 29 Jul 2013 17:03:26 -0700</pubDate>
+		<title>
+			<![CDATA[Heather add a quote by C.S. Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16309-there-are-only-two-kinds-of-people-in-the-end]]>
+		</link>
+		<description>
+	    <![CDATA["There are only two kinds of people in the end: those who say to God, &quot;Thy will be done,&quot; and those to whom God says, in the end, &quot;Thy will be done.&quot; All that are in Hell, choose it. Without that self-choice there could be no Hell. No soul that seriously and constantly desires joy will ever miss it. Those who seek find. Those who knock it is opened." -- C.S. Lewis]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

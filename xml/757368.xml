@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/757368-ashley]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/757368-ashley" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 21 Sep 2012 15:14:17 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/429199-you-re-evil-you-know-that-i-said-she-grinned-and</guid>
+		<pubDate>Fri, 21 Sep 2012 15:14:17 -0700</pubDate>
+		<title>
+			<![CDATA[Ashley add a quote by Ernest Cline]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/429199-you-re-evil-you-know-that-i-said-she-grinned-and]]>
+		</link>
+		<description>
+	    <![CDATA["You’re evil, you know that?” I said. 
+She grinned and shook her head. “Chaotic Neutral, sugar." -- Ernest Cline]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

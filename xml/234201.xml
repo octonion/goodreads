@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/234201-laura]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/234201-laura" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 25 Dec 2007 18:11:11 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/929-whatever-you-can-do-or-dream-you-can-begin-it</guid>
+		<pubDate>Tue, 25 Dec 2007 18:11:11 -0800</pubDate>
+		<title>
+			<![CDATA[Laura add a quote by Johann Wolfgang von Goethe ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/929-whatever-you-can-do-or-dream-you-can-begin-it]]>
+		</link>
+		<description>
+	    <![CDATA["Whatever you can do or dream you can, begin it. Boldness has genius, power and magic in it!" -- Johann Wolfgang von Goethe ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/316727-the-wanderlust-has-got-me-by-the-belly-aching-fire</guid>
+		<pubDate>Wed, 24 Nov 2010 23:17:37 -0800</pubDate>
+		<title>
+			<![CDATA[Laura add a quote by Robert W. Service]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/316727-the-wanderlust-has-got-me-by-the-belly-aching-fire]]>
+		</link>
+		<description>
+	    <![CDATA["The Wanderlust has got me... by the belly-aching fire" -- Robert W. Service]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/767646-there-is-beauty-heartbreaking-beauty-everywhere</guid>
+		<pubDate>Thu, 28 Mar 2013 21:47:38 -0700</pubDate>
+		<title>
+			<![CDATA[Laura add a quote by Edward Abbey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/767646-there-is-beauty-heartbreaking-beauty-everywhere]]>
+		</link>
+		<description>
+	    <![CDATA["There is beauty, heartbreaking beauty, everywhere." -- Edward Abbey]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

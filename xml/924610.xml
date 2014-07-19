@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/924610-jim]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/924610-jim" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 19 Feb 2008 22:17:40 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/26520-our-knowledge-of-circumstances-has-increased-but-our-uncertainty-instead</guid>
+		<pubDate>Tue, 19 Feb 2008 22:17:40 -0800</pubDate>
+		<title>
+			<![CDATA[Jim add a quote by Carl von Clausewitz]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/26520-our-knowledge-of-circumstances-has-increased-but-our-uncertainty-instead]]>
+		</link>
+		<description>
+	    <![CDATA["Our knowledge of circumstances has increased, but our uncertainty, instead of having diminished, has only increased. The reason of this is, that we do not gain all our experience at once, but by degrees; so our determinations continue to be assailed incessantly by fresh experience; and the mind, if we may use the expression, must always be under arms." -- Carl von Clausewitz]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/11500-i-would-be-most-content-if-my-children-grew-up</guid>
+		<pubDate>Sat, 29 Nov 2008 21:31:04 -0800</pubDate>
+		<title>
+			<![CDATA[Jim add a quote by Anna Quindlen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11500-i-would-be-most-content-if-my-children-grew-up]]>
+		</link>
+		<description>
+	    <![CDATA["I would be most content if my children grew up to be the kind of people who think decorating consists mostly of building enough bookshelves." -- Anna Quindlen]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/890466-bill]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/890466-bill" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 29 Dec 2013 18:43:00 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/975572-what-we-choose-to-embrace-to-be-responsive-to-is</guid>
+		<pubDate>Sun, 29 Dec 2013 18:43:00 -0800</pubDate>
+		<title>
+			<![CDATA[Bill add a quote by Michael R. Ash]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/975572-what-we-choose-to-embrace-to-be-responsive-to-is]]>
+		</link>
+		<description>
+	    <![CDATA["What we choose to embrace, to be responsive to, is the purest reflection of who we are and what we love. That is why faith, the choice to believe, is, in the final analysis, an action that is positively laden with moral significance." -- Michael R. Ash]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

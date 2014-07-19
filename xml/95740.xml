@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/95740-kelley]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/95740-kelley" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 06 May 2014 08:42:48 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/102898-clouds-come-floating-into-my-life-no-longer-to-carry</guid>
+		<pubDate>Tue, 06 May 2014 08:42:48 -0700</pubDate>
+		<title>
+			<![CDATA[Kelley add a quote by Rabindranath Tagore]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/102898-clouds-come-floating-into-my-life-no-longer-to-carry]]>
+		</link>
+		<description>
+	    <![CDATA["Clouds come floating into my life, no longer to carry rain or usher storm, but to add color to my sunset sky." -- Rabindranath Tagore]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/841409-never-say-no-to-adventures-always-say-yes-otherwise-you-ll</guid>
+		<pubDate>Wed, 28 May 2014 06:18:24 -0700</pubDate>
+		<title>
+			<![CDATA[Kelley add a quote by Ian Fleming]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/841409-never-say-no-to-adventures-always-say-yes-otherwise-you-ll]]>
+		</link>
+		<description>
+	    <![CDATA["Never say 'no' to adventures. Always say 'yes,' otherwise you'll lead a very dull life." -- Ian Fleming]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

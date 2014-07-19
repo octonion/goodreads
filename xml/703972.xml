@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/703972-becky]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/703972-becky" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 10 Mar 2013 12:43:41 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/13719-we-are-what-we-pretend-to-be-so-we-must</guid>
+		<pubDate>Sun, 10 Mar 2013 12:43:41 -0700</pubDate>
+		<title>
+			<![CDATA[Becky add a quote by Kurt Vonnegut]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13719-we-are-what-we-pretend-to-be-so-we-must]]>
+		</link>
+		<description>
+	    <![CDATA["We are what we pretend to be, so we must be careful about what we pretend to be." -- Kurt Vonnegut]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/34933-but-for-my-own-part-if-a-book-is-well</guid>
+		<pubDate>Sun, 10 Mar 2013 12:43:48 -0700</pubDate>
+		<title>
+			<![CDATA[Becky add a quote by Jane Austen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/34933-but-for-my-own-part-if-a-book-is-well]]>
+		</link>
+		<description>
+	    <![CDATA["but for my own part, if a book is well written, I always find it too short." -- Jane Austen]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/82131-aim-at-heaven-and-you-will-get-earth-thrown-in</guid>
+		<pubDate>Mon, 30 Sep 2013 19:26:38 -0700</pubDate>
+		<title>
+			<![CDATA[Becky add a quote by C.S. Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/82131-aim-at-heaven-and-you-will-get-earth-thrown-in]]>
+		</link>
+		<description>
+	    <![CDATA["Aim at Heaven and you will get Earth 'thrown in': aim at Earth and you will get neither." -- C.S. Lewis]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/609402-matt]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/609402-matt" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 22 Dec 2007 22:50:46 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/7208-you-have-attributed-conditions-to-villainy-that-simply-result-from</guid>
+		<pubDate>Sat, 22 Dec 2007 22:50:46 -0800</pubDate>
+		<title>
+			<![CDATA[Matt add a quote by Robert A. Heinlein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7208-you-have-attributed-conditions-to-villainy-that-simply-result-from]]>
+		</link>
+		<description>
+	    <![CDATA["You have attributed conditions to villainy that simply result from stupidity." -- Robert A. Heinlein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1730-always-do-sober-what-you-said-you-d-do-drunk-that</guid>
+		<pubDate>Sat, 22 Dec 2007 22:57:22 -0800</pubDate>
+		<title>
+			<![CDATA[Matt add a quote by Ernest Hemingway ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1730-always-do-sober-what-you-said-you-d-do-drunk-that]]>
+		</link>
+		<description>
+	    <![CDATA["Always do sober what you said you'd do drunk. That will teach you to keep your mouth shut." -- Ernest Hemingway ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2058-there-is-no-friend-as-loyal-as-a-book</guid>
+		<pubDate>Wed, 27 Feb 2008 12:16:54 -0800</pubDate>
+		<title>
+			<![CDATA[Matt add a quote by Ernest Hemingway]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2058-there-is-no-friend-as-loyal-as-a-book]]>
+		</link>
+		<description>
+	    <![CDATA["There is no friend as loyal as a book." -- Ernest Hemingway]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

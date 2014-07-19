@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/889821-raven]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/889821-raven" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 08 Feb 2008 17:02:43 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/23070-i-have-travelled-far-and-wide-across-this-wasteland-searching</guid>
+		<pubDate>Fri, 08 Feb 2008 17:02:43 -0800</pubDate>
+		<title>
+			<![CDATA[Raven add a quote by Dragonforce]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/23070-i-have-travelled-far-and-wide-across-this-wasteland-searching]]>
+		</link>
+		<description>
+	    <![CDATA["I have travelled far and wide across this wasteland, searching for the answers, for the right to understand." -- Dragonforce]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/23074-this-is-the-substance-of-the-way-of-the-samurai</guid>
+		<pubDate>Fri, 08 Feb 2008 17:12:49 -0800</pubDate>
+		<title>
+			<![CDATA[Raven add a quote by Yamamoto Tsunetomo]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/23074-this-is-the-substance-of-the-way-of-the-samurai]]>
+		</link>
+		<description>
+	    <![CDATA["This is the substance of the Way of the Samurai: if by setting one's heart right every morning and evening, one is able to live as though his body were already dead, he gains freedom in the Way.  
+his whole life will be without blame, and he will succeed in his calling." -- Yamamoto Tsunetomo]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

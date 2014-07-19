@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/966742-becky]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/966742-becky" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 03 Aug 2013 14:25:24 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/193233-if-people-really-grew-up-there-would-be-no-crime</guid>
+		<pubDate>Sat, 03 Aug 2013 14:25:24 -0700</pubDate>
+		<title>
+			<![CDATA[Becky add a quote by Lisa Lutz]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/193233-if-people-really-grew-up-there-would-be-no-crime]]>
+		</link>
+		<description>
+	    <![CDATA["If people really grew up, there would be no crime, no divorce, no Civil War reenactors....it's not like you think it will be, that one day you'll wake up and realize that you've got things figured out. You never figure it out. Ever.&quot; - Isabel Spellman attempting to explain growing up to her sister Rae" -- Lisa Lutz]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

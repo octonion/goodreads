@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/615855-peter]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/615855-peter" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 21 Mar 2008 23:12:05 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/27910-yet-nothing-can-to-nothing-fall-nor-any-place-be</guid>
+		<pubDate>Fri, 21 Mar 2008 23:12:05 -0700</pubDate>
+		<title>
+			<![CDATA[Peter add a quote by John Donne]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/27910-yet-nothing-can-to-nothing-fall-nor-any-place-be]]>
+		</link>
+		<description>
+	    <![CDATA["Yet nothing can to nothing fall,
+Nor any place be empty quite;
+Therefore I think my breast hath all
+Those pieces still, though they be not unite;
+And now, as broken glasses show
+A hundred lesser faces, so
+My rags of heart can like, wish, and adore,
+But after one such love, can love no more." -- John Donne]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/334932-elias]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/334932-elias" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 02 Apr 2008 19:21:03 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/40999-woe-to-him-whom-this-world-charms-from-gospel-duty</guid>
+		<pubDate>Wed, 02 Apr 2008 19:21:03 -0700</pubDate>
+		<title>
+			<![CDATA[elias add a quote by Herman Melville]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/40999-woe-to-him-whom-this-world-charms-from-gospel-duty]]>
+		</link>
+		<description>
+	    <![CDATA["Woe to him whom this world charms from Gospel duty. Woe to him who seeks to pour oil upon the waters when God has brewed them into a gale. Woe to him who seeks to please rather than to appal. Woe to him whose good name is more to him than goodness. Woe to him who, in this world, courts not dishonor! Woe to him who would not be true, even though to be false were salvation. Yea, woe to him who, as the great Pilot Paul has it, while preaching to others is himself a castaway." -- Herman Melville]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

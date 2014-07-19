@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/94169-johny]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/94169-johny" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 01 Apr 2012 02:35:47 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/152311-a-journey-after-all-neither-begins-in-the-instant-we</guid>
+		<pubDate>Sun, 01 Apr 2012 02:35:47 -0700</pubDate>
+		<title>
+			<![CDATA[Johny add a quote by Ryszard Kapuściński]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/152311-a-journey-after-all-neither-begins-in-the-instant-we]]>
+		</link>
+		<description>
+	    <![CDATA["A journey, after all, neither begins in the instant we set out, nor ends when we have reached our door step once again. It starts much earlier and is really never over, because the film of memory continues running on inside of us long after we have come to a physical standstill. Indeed, there exists something like a contagion of travel, and the disease is essentially incurable." -- Ryszard Kapuściński]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

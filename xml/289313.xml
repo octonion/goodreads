@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/289313-rebecca-gomez]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/289313-rebecca-gomez" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Mar 2008 14:31:20 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2792-and-so-it-goes</guid>
+		<pubDate>Sun, 02 Mar 2008 14:31:20 -0800</pubDate>
+		<title>
+			<![CDATA[Rebecca add a quote by Kurt Vonnegut]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2792-and-so-it-goes]]>
+		</link>
+		<description>
+	    <![CDATA["And so it goes..." -- Kurt Vonnegut]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/15782-better-to-be-miserable-with-her-than-happy-without-her</guid>
+		<pubDate>Sun, 02 Mar 2008 14:33:14 -0800</pubDate>
+		<title>
+			<![CDATA[Rebecca add a quote by C.S. Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/15782-better-to-be-miserable-with-her-than-happy-without-her]]>
+		</link>
+		<description>
+	    <![CDATA["Better to be miserable with her than happy without her. Let our hearts break provided they break together. If the voice within us does not say this it is not the voice of Eros." -- C.S. Lewis]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/12855-of-all-the-animals-man-is-the-only-one-that</guid>
+		<pubDate>Sun, 02 Mar 2008 14:49:55 -0800</pubDate>
+		<title>
+			<![CDATA[Rebecca add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12855-of-all-the-animals-man-is-the-only-one-that]]>
+		</link>
+		<description>
+	    <![CDATA["Of all the animals, man is the only one that is cruel. He is the only one that inflicts pain for the pleasure of doing it." -- Mark Twain]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/15249-wheresoever-she-was-there-was-eden</guid>
+		<pubDate>Sun, 02 Mar 2008 14:52:21 -0800</pubDate>
+		<title>
+			<![CDATA[Rebecca add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/15249-wheresoever-she-was-there-was-eden]]>
+		</link>
+		<description>
+	    <![CDATA["Wheresoever she was, there was Eden." -- Mark Twain]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

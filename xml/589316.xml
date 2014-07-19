@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/589316-steve]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/589316-steve" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 04 Dec 2007 08:36:25 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3279-a-picture-is-a-secret-about-a-secret-the-more</guid>
+		<pubDate>Tue, 04 Dec 2007 08:36:25 -0800</pubDate>
+		<title>
+			<![CDATA[Steve add a quote by Diane Arbus]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3279-a-picture-is-a-secret-about-a-secret-the-more]]>
+		</link>
+		<description>
+	    <![CDATA["A picture is a secret about a secret, the more it tells you the less you know." -- Diane Arbus]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2212-there-are-no-boundaries-in-this-struggle-to-the-death</guid>
+		<pubDate>Wed, 06 Feb 2008 12:35:48 -0800</pubDate>
+		<title>
+			<![CDATA[Steve add a quote by Ernesto Che Guevara ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2212-there-are-no-boundaries-in-this-struggle-to-the-death]]>
+		</link>
+		<description>
+	    <![CDATA["There are no boundaries in this struggle to the death. We cannot be indifferent to what happens anywhere in the world, for a victory by any country over imperialism is our victory; just as any country's defeat is a defeat for all of us." -- Ernesto Che Guevara ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/18564-if-you-tremble-with-indignation-at-every-injustice-then-you</guid>
+		<pubDate>Wed, 06 Feb 2008 12:35:53 -0800</pubDate>
+		<title>
+			<![CDATA[Steve add a quote by Ernesto Che Guevara]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18564-if-you-tremble-with-indignation-at-every-injustice-then-you]]>
+		</link>
+		<description>
+	    <![CDATA["If you tremble with indignation at every injustice then you are a comrade of mine." -- Ernesto Che Guevara]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

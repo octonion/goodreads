@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/26469-jeff]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/26469-jeff" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 05 Feb 2011 06:35:56 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/55442-funny-for-all-surveillance-osama-bin-laden-is-still-free-151-and</guid>
+		<pubDate>Sat, 05 Feb 2011 06:35:56 -0800</pubDate>
+		<title>
+			<![CDATA[Jeff add a quote by Cory Doctorow]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/55442-funny-for-all-surveillance-osama-bin-laden-is-still-free-151-and]]>
+		</link>
+		<description>
+	    <![CDATA["Funny, for all surveillance, Osama bin Laden is still free&amp;#151;and we're not. Guess who's winning the &quot;war on terror?" -- Cory Doctorow]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6166-more-than-any-other-time-in-history-mankind-faces-a</guid>
+		<pubDate>Thu, 18 Aug 2011 18:47:47 -0700</pubDate>
+		<title>
+			<![CDATA[Jeff add a quote by Woody Allen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6166-more-than-any-other-time-in-history-mankind-faces-a]]>
+		</link>
+		<description>
+	    <![CDATA["More than any other time in history, mankind faces a crossroads. One path leads to despair and utter hopelessness. The other, to total extinction. Let us pray we have the wisdom to choose correctly." -- Woody Allen]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

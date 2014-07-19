@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/98663-ellen-janoski]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/98663-ellen-janoski" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 08 Aug 2011 15:27:11 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/75082-the-constitution-is-not-an-instrument-for-the-government-to</guid>
+		<pubDate>Mon, 08 Aug 2011 15:27:11 -0700</pubDate>
+		<title>
+			<![CDATA[Ellen add a quote by Patrick Henry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/75082-the-constitution-is-not-an-instrument-for-the-government-to]]>
+		</link>
+		<description>
+	    <![CDATA["The Constitution is not an instrument for the government to restrain the people, it is an instrument for the people to restrain the government - lest it come to dominate our lives and interests." -- Patrick Henry]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/82368-while-our-country-remains-untainted-with-the-principles-and-manners</guid>
+		<pubDate>Mon, 08 Aug 2011 15:27:16 -0700</pubDate>
+		<title>
+			<![CDATA[Ellen add a quote by John Adams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/82368-while-our-country-remains-untainted-with-the-principles-and-manners]]>
+		</link>
+		<description>
+	    <![CDATA["While our country remains untainted with the principles and manners which are now producing desolation in so many parts of the world; while she continues sincere, and incapable of insidious and impious policy, we shall have the strongest reason to rejoice our local destination. But should the people of America once become capable of that deep simulation towards one another, and towards foreign nations, which assumes the language of justice and moderation, while it is practising iniquity and extravagance, and displays in the most captivating manner the charming pictures of candour, frankness, and sincerity, while it is rioting in rapine and insolence, this country will be the most miserable habitation in the world." -- John Adams]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

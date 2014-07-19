@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/945431-tami-crabtree]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/945431-tami-crabtree" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 19 Jul 2011 05:44:40 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/142707-we-are-all-alone-born-alone-die-alone-and---</guid>
+		<pubDate>Tue, 19 Jul 2011 05:44:40 -0700</pubDate>
+		<title>
+			<![CDATA[Tami add a quote by Hunter S. Thompson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/142707-we-are-all-alone-born-alone-die-alone-and---]]>
+		</link>
+		<description>
+	    <![CDATA["We are all alone, born alone, die alone, and -- in spite of True Romance magazines -- we shall all someday look back on our lives and see that, in spite of our company, we were alone the whole way. I do not say lonely -- at least, not all the time -- but essentially, and finally, alone. This is what makes your self-respect so important, and I don't see how you can respect yourself if you must look in the hearts and minds of others for your happiness." -- Hunter S. Thompson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/991186-april]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/991186-april" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 10 Mar 2013 13:35:35 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/207175-i-used-to-think-the-world-was-broken-down-by</guid>
+		<pubDate>Sun, 10 Mar 2013 13:35:35 -0700</pubDate>
+		<title>
+			<![CDATA[April add a quote by Sherman Alexie]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/207175-i-used-to-think-the-world-was-broken-down-by]]>
+		</link>
+		<description>
+	    <![CDATA["I used to think the world was broken down by tribes,' I said. 'By Black and White. By Indian and White. But I know this isn't true. The world is only broken into two tribes: the people who are assholes and the people who are not." -- Sherman Alexie]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/208532-i-m-in-love-with-montana-for-other-states-i-have</guid>
+		<pubDate>Mon, 01 Apr 2013 18:26:32 -0700</pubDate>
+		<title>
+			<![CDATA[April add a quote by John Steinbeck]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/208532-i-m-in-love-with-montana-for-other-states-i-have]]>
+		</link>
+		<description>
+	    <![CDATA["I’m in love with Montana. For other states I have admiration, respect, recognition, even some affection. But with Montana it is love. And it’s difficult to analyze love when you’re in it." -- John Steinbeck]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

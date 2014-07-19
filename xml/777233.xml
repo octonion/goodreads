@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/777233-lucy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/777233-lucy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 03 Mar 2008 12:58:17 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/30584-your-opinion-of-me-is-none-of-my-business</guid>
+		<pubDate>Mon, 03 Mar 2008 12:58:17 -0800</pubDate>
+		<title>
+			<![CDATA[Lucy add a quote by judy ford]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/30584-your-opinion-of-me-is-none-of-my-business]]>
+		</link>
+		<description>
+	    <![CDATA["your opinion of me is none of my business." -- judy ford]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/30586-it-is-a-happy-talent-to-know-how-to-play</guid>
+		<pubDate>Mon, 03 Mar 2008 13:01:12 -0800</pubDate>
+		<title>
+			<![CDATA[Lucy add a quote by Ralph Waldo Emerson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/30586-it-is-a-happy-talent-to-know-how-to-play]]>
+		</link>
+		<description>
+	    <![CDATA["It is a happy talent to know how to play." -- Ralph Waldo Emerson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/30587-you-are-meant-to-play-the-ball-as-it-lies</guid>
+		<pubDate>Mon, 03 Mar 2008 13:03:19 -0800</pubDate>
+		<title>
+			<![CDATA[Lucy add a quote by Grantland Rice]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/30587-you-are-meant-to-play-the-ball-as-it-lies]]>
+		</link>
+		<description>
+	    <![CDATA["you are meant to play the ball as it lies." -- Grantland Rice]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/30592-my-mother-never-saw-the-irony-of-calling-me-a</guid>
+		<pubDate>Mon, 03 Mar 2008 13:07:13 -0800</pubDate>
+		<title>
+			<![CDATA[Lucy add a quote by Jack Nicholson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/30592-my-mother-never-saw-the-irony-of-calling-me-a]]>
+		</link>
+		<description>
+	    <![CDATA["my mother never saw the irony of calling me a &quot;son of a bitch" -- Jack Nicholson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

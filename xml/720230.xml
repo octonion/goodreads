@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/720230-karli]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/720230-karli" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 27 Dec 2007 23:00:58 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/764-a-room-without-books-is-like-a-body-without-a</guid>
+		<pubDate>Thu, 27 Dec 2007 23:00:58 -0800</pubDate>
+		<title>
+			<![CDATA[Karli add a quote by Marcus Tullius Cicero]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/764-a-room-without-books-is-like-a-body-without-a]]>
+		</link>
+		<description>
+	    <![CDATA["A room without books is like a body without a soul." -- Marcus Tullius Cicero]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/406894-all-my-life-i-have-preserved-in-the-depths-of</guid>
+		<pubDate>Mon, 11 Jul 2011 09:22:28 -0700</pubDate>
+		<title>
+			<![CDATA[Karli add a quote by Valery Bruisov]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/406894-all-my-life-i-have-preserved-in-the-depths-of]]>
+		</link>
+		<description>
+	    <![CDATA["All my life I have preserved in the depths of my heart a live faith in my Creator, the Defender of the World, in His Sanctifying Grace and in the expiatory sacrifice of Christ our Saviour, but never have I agreed that true religion demands outward manifestations." -- Valery Bruisov]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/82669-i-am-slow-thinking-and-full-of-interior-rules-that-act</guid>
+		<pubDate>Thu, 06 Oct 2011 11:05:54 -0700</pubDate>
+		<title>
+			<![CDATA[Karli add a quote by F. Scott Fitzgerald]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/82669-i-am-slow-thinking-and-full-of-interior-rules-that-act]]>
+		</link>
+		<description>
+	    <![CDATA["I am slow-thinking and full of interior rules that act as brakes on my desires...." -- F. Scott Fitzgerald]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

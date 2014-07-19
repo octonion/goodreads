@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/536220-pat]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/536220-pat" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 23 Mar 2013 09:29:29 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/44140-for-some-of-us-books-are-as-important-as-almost</guid>
+		<pubDate>Sat, 23 Mar 2013 09:29:29 -0700</pubDate>
+		<title>
+			<![CDATA[Pat add a quote by Anne Lamott]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/44140-for-some-of-us-books-are-as-important-as-almost]]>
+		</link>
+		<description>
+	    <![CDATA["For some of us, books are as important as almost anything else on earth.  What a miracle it is that out of these small, flat, rigid squares of paper unfolds world after world after world, worlds that sing to you, comfort and quiet or excite you.  Books help us understand who we are and how we are to behave.  They show us what community and friendship mean; they show us how to live and die." -- Anne Lamott]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

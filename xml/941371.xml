@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/941371-ben]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/941371-ben" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 05 May 2008 13:12:17 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/51462-i-went-to-a-restaurant-that-serves-breakfast-at-any</guid>
+		<pubDate>Mon, 05 May 2008 13:12:17 -0700</pubDate>
+		<title>
+			<![CDATA[Ben add a quote by Steven Wright]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/51462-i-went-to-a-restaurant-that-serves-breakfast-at-any]]>
+		</link>
+		<description>
+	    <![CDATA["I went to a restaurant that serves &quot;breakfast at any time&quot; so I ordered French toast during the Renaissance." -- Steven Wright]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/352-outside-of-a-dog-a-book-is-man-s-best-friend</guid>
+		<pubDate>Mon, 05 May 2008 13:15:16 -0700</pubDate>
+		<title>
+			<![CDATA[Ben add a quote by Groucho Marx]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/352-outside-of-a-dog-a-book-is-man-s-best-friend]]>
+		</link>
+		<description>
+	    <![CDATA["Outside of a dog, a book is man's best friend. Inside of a dog it's too dark to read." -- Groucho Marx]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/54942-and-as-an-afterthought-this-too-must-be-told-some</guid>
+		<pubDate>Sat, 17 May 2008 19:49:51 -0700</pubDate>
+		<title>
+			<![CDATA[Ben add a quote by Neil Young]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/54942-and-as-an-afterthought-this-too-must-be-told-some]]>
+		</link>
+		<description>
+	    <![CDATA["And as an afterthought, this too must be told: Some people have taken pure bullshit and turned it into gold." -- Neil Young]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/40717-some-scientists-claim-that-hydrogen-because-it-is-so-plentiful</guid>
+		<pubDate>Sat, 17 May 2008 19:53:58 -0700</pubDate>
+		<title>
+			<![CDATA[Ben add a quote by Frank Zappa]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/40717-some-scientists-claim-that-hydrogen-because-it-is-so-plentiful]]>
+		</link>
+		<description>
+	    <![CDATA["Some scientists claim that hydrogen, because it is so plentiful, is the basic building block of the universe. I dispute that. I say there is more stupidity than hydrogen, and that is the basic building block of the universe." -- Frank Zappa]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

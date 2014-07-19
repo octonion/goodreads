@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/652594-amy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/652594-amy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 01 Dec 2007 06:40:22 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/467-life-is-what-happens-to-you-while-you-re-busy-making</guid>
+		<pubDate>Sat, 01 Dec 2007 06:40:22 -0800</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Allen Saunders]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/467-life-is-what-happens-to-you-while-you-re-busy-making]]>
+		</link>
+		<description>
+	    <![CDATA["Life is what happens to you while you're busy making other plans." -- Allen Saunders]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2636-many-marriages-would-be-better-if-the-husband-and-wife</guid>
+		<pubDate>Sat, 01 Dec 2007 06:51:20 -0800</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Zig Ziglar]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2636-many-marriages-would-be-better-if-the-husband-and-wife]]>
+		</link>
+		<description>
+	    <![CDATA["Many marriages would be better if the husband and wife clearly understood that they're on the same side. " -- Zig Ziglar]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2637-where-there-is-great-love-there-are-always-miracles</guid>
+		<pubDate>Sat, 01 Dec 2007 06:51:56 -0800</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Willa Cather]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2637-where-there-is-great-love-there-are-always-miracles]]>
+		</link>
+		<description>
+	    <![CDATA["Where there is great love, there are always miracles." -- Willa Cather]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

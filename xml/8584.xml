@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/8584-leigh]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/8584-leigh" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 30 Jan 2014 22:25:07 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1018614-there-are-some-people-people-the-universe-seems-to-have-singled</guid>
+		<pubDate>Thu, 30 Jan 2014 22:25:07 -0800</pubDate>
+		<title>
+			<![CDATA[Leigh add a quote by Cassandra Clare]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1018614-there-are-some-people-people-the-universe-seems-to-have-singled]]>
+		</link>
+		<description>
+	    <![CDATA["There are some people—people the universe seems to have singled out for special destinies. Special favors and special torments. God knows we’re all drawn toward what’s beautiful and broken; I have been, but some people cannot be fixed. Or if they can be, it’s only by love and sacrifice so great that it destroys the giver." -- Cassandra Clare]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1128878-i-take-quite-a-lot-of-pride-in-not-knowing</guid>
+		<pubDate>Mon, 14 Apr 2014 12:00:04 -0700</pubDate>
+		<title>
+			<![CDATA[Leigh add a quote by John Green]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1128878-i-take-quite-a-lot-of-pride-in-not-knowing]]>
+		</link>
+		<description>
+	    <![CDATA["I take quite a lot of pride in not knowing what’s cool,” I answered." -- John Green]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

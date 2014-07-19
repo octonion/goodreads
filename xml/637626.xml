@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/637626-shahzad]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/637626-shahzad" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 24 Nov 2007 11:01:01 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4811-character-cannot-be-developed-in-ease-and-quiet-only-through</guid>
+		<pubDate>Sat, 24 Nov 2007 11:01:01 -0800</pubDate>
+		<title>
+			<![CDATA[Shahzad add a quote by Helen Keller]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4811-character-cannot-be-developed-in-ease-and-quiet-only-through]]>
+		</link>
+		<description>
+	    <![CDATA["Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, vision cleared, ambition inspired, and success achieved." -- Helen Keller]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/146244-kathleen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/146244-kathleen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 15 Feb 2008 11:08:40 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/25287-money-is-only-a-tool-it-will-take-you-wherever</guid>
+		<pubDate>Fri, 15 Feb 2008 11:08:40 -0800</pubDate>
+		<title>
+			<![CDATA[Kathleen add a quote by Ayn Rand]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/25287-money-is-only-a-tool-it-will-take-you-wherever]]>
+		</link>
+		<description>
+	    <![CDATA["Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver." -- Ayn Rand]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/27319-the-difficulty-in-life-is-the-choice</guid>
+		<pubDate>Thu, 21 Feb 2008 21:32:41 -0800</pubDate>
+		<title>
+			<![CDATA[Kathleen add a quote by George Moore]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/27319-the-difficulty-in-life-is-the-choice]]>
+		</link>
+		<description>
+	    <![CDATA["The difficulty in life is the choice." -- George Moore]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

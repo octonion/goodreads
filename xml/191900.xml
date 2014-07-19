@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/191900-auralee]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/191900-auralee" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 27 Sep 2011 16:52:34 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/16893-but-even-so-every-now-and-then-i-would-feel</guid>
+		<pubDate>Tue, 27 Sep 2011 16:52:34 -0700</pubDate>
+		<title>
+			<![CDATA[AuraLee add a quote by Haruki Murakami]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16893-but-even-so-every-now-and-then-i-would-feel]]>
+		</link>
+		<description>
+	    <![CDATA["But even so, every now and then I would feel a violent stab of loneliness. The very water I drink, the very air I breathe, would feel like long, sharp needles. The pages of a book in my hands would take on the threatening metallic gleam of razor blades. I could hear the roots of loneliness creeping through me when the world was hushed at four o'clock in the morning." -- Haruki Murakami]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/223776-it-may-have-been-in-pieces-but-i-gave-you</guid>
+		<pubDate>Sat, 08 Jun 2013 08:21:36 -0700</pubDate>
+		<title>
+			<![CDATA[AuraLee add a quote by Jim Morrison]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/223776-it-may-have-been-in-pieces-but-i-gave-you]]>
+		</link>
+		<description>
+	    <![CDATA["It may have been in pieces, but I gave you the best of me." -- Jim Morrison]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

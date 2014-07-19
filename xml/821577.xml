@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/821577-liss]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/821577-liss" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 Apr 2008 16:33:11 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/39912-and-then-she-thought-that-you-went-on-living-one</guid>
+		<pubDate>Tue, 01 Apr 2008 16:33:11 -0700</pubDate>
+		<title>
+			<![CDATA[Liss add a quote by Charles Frazier]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/39912-and-then-she-thought-that-you-went-on-living-one]]>
+		</link>
+		<description>
+	    <![CDATA["And then she thought that you went on living one day after another, and in time you were somebody else, your previous self only like a close relative, a sister or brother, with whom you shared a past.  But a different person, a separate life.  Certainly neither she nor Inman were the people they had been the last time they were together.  And she believed maybe she liked them both better now." -- Charles Frazier]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

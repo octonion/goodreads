@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/606307-carol]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/606307-carol" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 30 Dec 2007 04:56:30 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4292-in-the-name-of-god-stop-a-moment-cease-your</guid>
+		<pubDate>Sun, 30 Dec 2007 04:56:30 -0800</pubDate>
+		<title>
+			<![CDATA[Carol add a quote by Leo Tolstoy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4292-in-the-name-of-god-stop-a-moment-cease-your]]>
+		</link>
+		<description>
+	    <![CDATA["In the name of God, stop a moment, cease your work, look around you." -- Leo Tolstoy]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/27325-forget-regret-or-life-is-yours-to-miss</guid>
+		<pubDate>Fri, 23 Jan 2009 04:17:59 -0800</pubDate>
+		<title>
+			<![CDATA[Carol add a quote by Jonathan Larson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/27325-forget-regret-or-life-is-yours-to-miss]]>
+		</link>
+		<description>
+	    <![CDATA["Forget Regret, or life is yours to miss" -- Jonathan Larson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/133321-no-people-will-tamely-surrender-their-liberties-nor-can-any</guid>
+		<pubDate>Fri, 23 Jan 2009 04:28:14 -0800</pubDate>
+		<title>
+			<![CDATA[Carol add a quote by Samuel Adams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/133321-no-people-will-tamely-surrender-their-liberties-nor-can-any]]>
+		</link>
+		<description>
+	    <![CDATA["No people will tamely surrender their Liberties, nor can any be easily subdued, when knowledge is diffused and virtue is preserved. On the Contrary, when People are universally ignorant, and debauched in their Manners, they will sink under their own weight without the Aid of foreign Invaders." -- Samuel Adams]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

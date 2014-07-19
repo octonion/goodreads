@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/79110-cian-chartier]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/79110-cian-chartier" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 21 Jun 2009 18:37:46 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/171889-the-good-artist-believes-that-nobody-is-good-enough-to</guid>
+		<pubDate>Sun, 21 Jun 2009 18:37:46 -0700</pubDate>
+		<title>
+			<![CDATA[Cian add a quote by William Faulkner]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/171889-the-good-artist-believes-that-nobody-is-good-enough-to]]>
+		</link>
+		<description>
+	    <![CDATA["The good artist believes that nobody is good enough to give him advice. He has supreme vanity. No matter how much he admires the old writer, he wants to beat him." -- William Faulkner]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

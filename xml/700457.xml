@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/700457-justin-farquhar]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/700457-justin-farquhar" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 17 Sep 2008 08:47:17 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5437-no-man-is-an-island-entire-of-itself-every-man</guid>
+		<pubDate>Wed, 17 Sep 2008 08:47:17 -0700</pubDate>
+		<title>
+			<![CDATA[Justin add a quote by John Donne]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5437-no-man-is-an-island-entire-of-itself-every-man]]>
+		</link>
+		<description>
+	    <![CDATA["No man is an island, entire of itself; every man is a piece of the continent, a part of the main. If a clod be washed away by the sea, Europe is the less, as well as if a promontory were, as well as if a manor of thy friend's or of thine own were: any man's death diminishes me, because I am involved in mankind, and therefore never send to know for whom the bells tolls; it tolls for thee." -- John Donne]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/55410-tom-chandler]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/55410-tom-chandler" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 02 Apr 2013 15:53:29 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/84250-anti-intellectualism-has-been-a-constant-thread-winding-its-way-through</guid>
+		<pubDate>Tue, 02 Apr 2013 15:53:29 -0700</pubDate>
+		<title>
+			<![CDATA[Tom add a quote by Isaac Asimov]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/84250-anti-intellectualism-has-been-a-constant-thread-winding-its-way-through]]>
+		</link>
+		<description>
+	    <![CDATA["Anti-intellectualism has been a constant thread winding its way through our political and cultural life, nurtured by the false notion that democracy means that &lt;i&gt;'my ignorance is just as good as your knowledge.'&lt;/i&gt;" -- Isaac Asimov]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/59854-here-s-a-quick-rule-of-thumb-don-t-annoy-science-fiction</guid>
+		<pubDate>Tue, 02 Apr 2013 15:53:32 -0700</pubDate>
+		<title>
+			<![CDATA[Tom add a quote by John Scalzi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/59854-here-s-a-quick-rule-of-thumb-don-t-annoy-science-fiction]]>
+		</link>
+		<description>
+	    <![CDATA["Here's a quick rule of thumb: Don't annoy science fiction writers. These are people who destroy entire planets before lunch. Think of what they'll do to you." -- John Scalzi]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

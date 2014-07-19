@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/169878-meg-o-neill]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/169878-meg-o-neill" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 01 Jan 2014 12:24:27 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/600541-if-we-don-t-go-mad-once-in-a-while-there-s</guid>
+		<pubDate>Wed, 01 Jan 2014 12:24:27 -0800</pubDate>
+		<title>
+			<![CDATA[meg  add a quote by Rachel Joyce]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/600541-if-we-don-t-go-mad-once-in-a-while-there-s]]>
+		</link>
+		<description>
+	    <![CDATA["If we don't go mad once in a while, there's no hope." -- Rachel Joyce]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/649734-the-constant-happiness-is-curiosity</guid>
+		<pubDate>Wed, 01 Jan 2014 12:25:19 -0800</pubDate>
+		<title>
+			<![CDATA[meg  add a quote by Alice Munro]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/649734-the-constant-happiness-is-curiosity]]>
+		</link>
+		<description>
+	    <![CDATA["The constant happiness is curiosity." -- Alice Munro]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/269327-important-lessons-look-carefully-record-what-you-see-find-a</guid>
+		<pubDate>Wed, 01 Jan 2014 12:32:37 -0800</pubDate>
+		<title>
+			<![CDATA[meg  add a quote by Anne Michaels]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/269327-important-lessons-look-carefully-record-what-you-see-find-a]]>
+		</link>
+		<description>
+	    <![CDATA["Important lessons: look carefully; record what you see. Find a way to make beauty necessary; find a way to make necessity beautiful." -- Anne Michaels]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

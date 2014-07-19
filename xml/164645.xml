@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/164645-steve]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/164645-steve" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 02 Nov 2009 10:55:33 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/204150-this-progressive-effacement-of-human-relationships-is-not-without-certain</guid>
+		<pubDate>Mon, 02 Nov 2009 10:55:33 -0800</pubDate>
+		<title>
+			<![CDATA[Steve add a quote by Michel Houellebecq]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/204150-this-progressive-effacement-of-human-relationships-is-not-without-certain]]>
+		</link>
+		<description>
+	    <![CDATA["This progressive effacement of human relationships is not without certain problems for the novel. How, in point of fact, would one handle the narration of those unbridled passions, stretching over many years, and at times making their effect felt on several generations? We’re a long way from Wuthering Heights, to say the least. The novel form is not conceived for depicting indifference or nothingness; a flatter, more terse, and dreary discourse would need to be invented." -- Michel Houellebecq]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

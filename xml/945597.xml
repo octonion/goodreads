@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/945597-kendra-youdon-tneed-to-know-my-last-name]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/945597-kendra-youdon-tneed-to-know-my-last-name" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 29 Mar 2008 14:37:21 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/39574-claire-did-i-invite-you-to-my-barbeque-massie-asked</guid>
+		<pubDate>Sat, 29 Mar 2008 14:37:21 -0700</pubDate>
+		<title>
+			<![CDATA[Kendra add a quote by Lisi Harrison]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/39574-claire-did-i-invite-you-to-my-barbeque-massie-asked]]>
+		</link>
+		<description>
+	    <![CDATA["Claire, did I invite you to my barbeque?&quot; Massie asked, her neck tilting to the right and her arms tightly crossed.
+&quot;Huh? No. I mean, I don't know,&quot; Claire said.
+&quot;Then why are you all up  in my &lt;i&gt;grill?&lt;/i&gt;&quot; Massie said through her teeth." -- Lisi Harrison]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/123858-k-m-frontain]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/123858-k-m-frontain" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 28 Feb 2012 10:21:24 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/75305-in-itself-homosexuality-is-as-limiting-as-heterosexuality-the-ideal</guid>
+		<pubDate>Tue, 28 Feb 2012 10:21:24 -0800</pubDate>
+		<title>
+			<![CDATA[K.M. add a quote by Simone de Beauvoir]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/75305-in-itself-homosexuality-is-as-limiting-as-heterosexuality-the-ideal]]>
+		</link>
+		<description>
+	    <![CDATA["In itself, homosexuality is as limiting as heterosexuality: the ideal should be to be capable of loving a woman or a man; either, a human being, without feeling fear, restraint, or obligation." -- Simone de Beauvoir]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

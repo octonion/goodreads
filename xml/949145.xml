@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/949145-rone]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/949145-rone" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 13 Mar 2008 23:48:57 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/34528-whether-one-is-dealing-with-the-state-the-mafia-parents</guid>
+		<pubDate>Thu, 13 Mar 2008 23:48:57 -0700</pubDate>
+		<title>
+			<![CDATA[Rone add a quote by Wendy Brown]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/34528-whether-one-is-dealing-with-the-state-the-mafia-parents]]>
+		</link>
+		<description>
+	    <![CDATA["Whether one is dealing with the state, the Mafia, parents, pimps, police, or husbands, the heavy price of institutionalised protection is always a measure of dependence and agreement to abide by the protector's rules" -- Wendy Brown]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/34529-it-was-in-spain-that-my-generation-learned-that-one</guid>
+		<pubDate>Thu, 13 Mar 2008 23:57:24 -0700</pubDate>
+		<title>
+			<![CDATA[Rone add a quote by Albert Camus]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/34529-it-was-in-spain-that-my-generation-learned-that-one]]>
+		</link>
+		<description>
+	    <![CDATA["It was in Spain that [my generation] learned that one can be right and yet be beaten, that force can vanquish spirit, that there are times when courage is not its own recompense. It is this, doubtless, which explains why so many, the world over, feel the Spanish drama as a personal tragedy." -- Albert Camus]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

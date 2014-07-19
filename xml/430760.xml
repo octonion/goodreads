@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/430760-catherine-draper]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/430760-catherine-draper" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 14 Feb 2014 06:38:36 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/643699-i-believe-there-are-only-two-unstoppable-forces-in-the</guid>
+		<pubDate>Fri, 14 Feb 2014 06:38:36 -0800</pubDate>
+		<title>
+			<![CDATA[Catherine add a quote by Damien Echols]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/643699-i-believe-there-are-only-two-unstoppable-forces-in-the]]>
+		</link>
+		<description>
+	    <![CDATA["I believe there are only two unstoppable forces in the universe. One is love, the other is intelligence. I also believe that a person's capacity to love is directly related to their intelligence level, just as hate corresponds to a person's level of ignorance. The only thing that makes it impossible for the system to destroy you and grind your spirit into nothing is to be more intelligent than it is." -- Damien Echols]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

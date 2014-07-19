@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/513052-amy-gilchrist-thorne]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/513052-amy-gilchrist-thorne" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 10 Mar 2008 14:13:02 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/33410-poor-quality-software-has-all-the-subtlety-of-a-neighborhood-ice</guid>
+		<pubDate>Mon, 10 Mar 2008 14:13:02 -0700</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Eric Brechner]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/33410-poor-quality-software-has-all-the-subtlety-of-a-neighborhood-ice]]>
+		</link>
+		<description>
+	    <![CDATA["Poor-quality software has all the subtlety of a neighborhood ice cream truck. You know it's bad for you; you know it's coming a mile away; yet you can't resist." -- Eric Brechner]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/34844-my-friends-tell-me-that-i-have-a-tendency-to</guid>
+		<pubDate>Fri, 14 Mar 2008 19:31:47 -0700</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Daniel Gilbert]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/34844-my-friends-tell-me-that-i-have-a-tendency-to]]>
+		</link>
+		<description>
+	    <![CDATA["My friends tell me that I have a tendency to point out problems without offering solutions, but they never tell me what I should do about it." -- Daniel Gilbert]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1091359-allan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1091359-allan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 21 Feb 2011 17:22:07 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/28431-i-can-t-go-on-i-ll-go-on</guid>
+		<pubDate>Mon, 21 Feb 2011 17:22:07 -0800</pubDate>
+		<title>
+			<![CDATA[Allan add a quote by Samuel Beckett]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/28431-i-can-t-go-on-i-ll-go-on]]>
+		</link>
+		<description>
+	    <![CDATA["I can't go on, I'll go on." -- Samuel Beckett]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/347283-i-don-t-need-it-i-don-t-want-it-and-you</guid>
+		<pubDate>Mon, 21 Feb 2011 17:27:09 -0800</pubDate>
+		<title>
+			<![CDATA[Allan add a quote by John Giorno]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/347283-i-don-t-need-it-i-don-t-want-it-and-you]]>
+		</link>
+		<description>
+	    <![CDATA["I don't need it. I don't want it. And you cheated me out of it." -- John Giorno]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

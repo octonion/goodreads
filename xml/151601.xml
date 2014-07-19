@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/151601-tony]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/151601-tony" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Jun 2013 17:37:07 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/113551-the-criminal-is-the-creative-artist-the-detective-only-the</guid>
+		<pubDate>Sun, 02 Jun 2013 17:37:07 -0700</pubDate>
+		<title>
+			<![CDATA[Tony add a quote by G.K. Chesterton]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/113551-the-criminal-is-the-creative-artist-the-detective-only-the]]>
+		</link>
+		<description>
+	    <![CDATA["The criminal is the creative artist; the detective only the critic." -- G.K. Chesterton]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/87249-everything-i-know-about-morality-and-the-obligations-of-men</guid>
+		<pubDate>Wed, 27 Nov 2013 21:29:04 -0800</pubDate>
+		<title>
+			<![CDATA[Tony add a quote by Albert Camus]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/87249-everything-i-know-about-morality-and-the-obligations-of-men]]>
+		</link>
+		<description>
+	    <![CDATA["Everything I know about morality and the obligations of men, I owe it to football (soccer)." -- Albert Camus]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

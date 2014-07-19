@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/409011-leanna]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/409011-leanna" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 13 Jul 2011 21:10:07 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5030-we-don-t-see-things-as-they-are-we-see-them</guid>
+		<pubDate>Wed, 13 Jul 2011 21:10:07 -0700</pubDate>
+		<title>
+			<![CDATA[Leanna add a quote by Anaïs Nin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5030-we-don-t-see-things-as-they-are-we-see-them]]>
+		</link>
+		<description>
+	    <![CDATA["We don't see things as they are, we see them as we are." -- Anaïs Nin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/397973-a-man-can-spend-his-whole-existence-never-learning-the</guid>
+		<pubDate>Mon, 09 Jun 2014 09:32:31 -0700</pubDate>
+		<title>
+			<![CDATA[Leanna add a quote by Louis Auchincloss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/397973-a-man-can-spend-his-whole-existence-never-learning-the]]>
+		</link>
+		<description>
+	    <![CDATA["A man can spend his whole existence never learning the simple lesson that he has only one life and that if he fails to do what he wants with it, nobody else really cares.--Louis Auchincloss" -- Louis Auchincloss]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/398571-intersection]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/398571-intersection" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 28 Dec 2011 11:48:30 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/34056-whoever-wants-music-instead-of-noise-joy-instead-of-pleasure</guid>
+		<pubDate>Wed, 28 Dec 2011 11:48:30 -0800</pubDate>
+		<title>
+			<![CDATA[Intersection add a quote by Hermann Hesse]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/34056-whoever-wants-music-instead-of-noise-joy-instead-of-pleasure]]>
+		</link>
+		<description>
+	    <![CDATA["Whoever wants music instead of noise, joy instead of pleasure, soul instead of gold, creative work instead of business, passion instead of foolery, finds no home in this trivial world of ours." -- Hermann Hesse]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/685529-dustin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/685529-dustin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 15 Dec 2007 00:20:50 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5505-a-wise-man-can-play-the-part-of-a-clown</guid>
+		<pubDate>Sat, 15 Dec 2007 00:20:50 -0800</pubDate>
+		<title>
+			<![CDATA[Dustin add a quote by Malcolm X]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5505-a-wise-man-can-play-the-part-of-a-clown]]>
+		</link>
+		<description>
+	    <![CDATA["A wise man can play the part of a clown, but a clown can't play the part of a wise man." -- Malcolm X]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

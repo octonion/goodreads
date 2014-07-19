@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1000599-laurie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1000599-laurie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 09 Nov 2008 15:30:21 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/79667-we-are-fat-and-sick-and-dying-because-we-have</guid>
+		<pubDate>Sun, 09 Nov 2008 15:30:21 -0800</pubDate>
+		<title>
+			<![CDATA[Laurie add a quote by Alton Brown]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/79667-we-are-fat-and-sick-and-dying-because-we-have]]>
+		</link>
+		<description>
+	    <![CDATA["We are fat and sick and dying because we have handed a basic, fundamental and intimate function of life over to corporations. We choose to value our nourishment so little that we entrust it to strangers. This is insanity. Feed yourselves. Feed your loved ones. And for God's sake feed your children." -- Alton Brown]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

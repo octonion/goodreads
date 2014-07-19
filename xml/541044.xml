@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/541044-maryam-mehra]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/541044-maryam-mehra" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 25 Jan 2014 04:17:55 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/278906</guid>
+		<pubDate>Sat, 25 Jan 2014 04:17:55 -0800</pubDate>
+		<title>
+			<![CDATA[Maryam add a quote by اوشو]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/278906]]>
+		</link>
+		<description>
+	    <![CDATA["زمانی كه تسلیم باشی؛ تمام هستی از تو حمایت می‌كند هیچ چیز با تو مخالف نخواهد بود، زیرا تو با هیچ چیز مخالف نیستی" -- اوشو]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/278908</guid>
+		<pubDate>Sat, 25 Jan 2014 04:18:04 -0800</pubDate>
+		<title>
+			<![CDATA[Maryam add a quote by اوشو]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/278908]]>
+		</link>
+		<description>
+	    <![CDATA["هر موجودی؛ یك سرود الهی است بی همتا؛ منحصر به فرد؛ تكرار نشدنی و غیر قابل مقایسه" -- اوشو]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/573354-david]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/573354-david" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 04 Nov 2010 09:47:28 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/292973-jesus-christ-and-all-the-writers-of-the-new-testament</guid>
+		<pubDate>Thu, 04 Nov 2010 09:47:28 -0700</pubDate>
+		<title>
+			<![CDATA[David add a quote by Richard J. Foster]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/292973-jesus-christ-and-all-the-writers-of-the-new-testament]]>
+		</link>
+		<description>
+	    <![CDATA["Jesus Christ and all the writers of the New Testament call us to break free of mammon lust and live in joyous trust...They point us toward a way of living in which everything we have we receive as a gift, and everything we have is cared for by God, and everything we have is available to others when it is right and good.  This reality frames the heart of Christian simplicity.  It is the means of liberation and power to do what is right and to overcome the forces of fear and avarice." -- Richard J. Foster]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

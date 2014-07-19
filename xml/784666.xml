@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/784666-lainey-zee]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/784666-lainey-zee" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 03 Mar 2009 15:52:44 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/68541-you-americans-are-a-very-singular-people-he-later-recalled</guid>
+		<pubDate>Tue, 03 Mar 2009 15:52:44 -0800</pubDate>
+		<title>
+			<![CDATA[Lainey Zee add a quote by Tom Standage]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/68541-you-americans-are-a-very-singular-people-he-later-recalled]]>
+		</link>
+		<description>
+	    <![CDATA["You Americans are a very singular people,&quot; he later recalled to one of his friends. &quot;I went with my automaton all over my own country—the Germans wondered and said nothing. In France they exclaimed, Magnifique! Merveilleux! Superbe! The English set themselves to prove—one that it could be, and another that it could not be, a mere mechanism acting without a man inside. But I had not been long in your country, before a Yankee came to see me and said, 'Mr Maelzel, would you like another thing like that? I can make you one for five hundred dollars.' I laughed at his proposition. A few months afterwards, the same Yankee came to see me again, and this time he said, 'Mr Maelzel, would you like to buy another thing like that? I have one already made for you." -- Tom Standage]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

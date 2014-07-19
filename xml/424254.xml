@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/424254-lily]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/424254-lily" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 16 Dec 2008 19:41:45 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/764-a-room-without-books-is-like-a-body-without-a</guid>
+		<pubDate>Tue, 16 Dec 2008 19:41:45 -0800</pubDate>
+		<title>
+			<![CDATA[Lily add a quote by Marcus Tullius Cicero]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/764-a-room-without-books-is-like-a-body-without-a]]>
+		</link>
+		<description>
+	    <![CDATA["A room without books is like a body without a soul." -- Marcus Tullius Cicero]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4808-success-is-getting-what-you-want-happiness-is-wanting-what</guid>
+		<pubDate>Tue, 16 Dec 2008 19:49:49 -0800</pubDate>
+		<title>
+			<![CDATA[Lily add a quote by W. P. Kinsella]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4808-success-is-getting-what-you-want-happiness-is-wanting-what]]>
+		</link>
+		<description>
+	    <![CDATA["Success is getting what you want, happiness is wanting what you get" -- W. P. Kinsella]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/25793-love-is-patient-love-is-kind-love-is-not-envious</guid>
+		<pubDate>Tue, 11 Aug 2009 19:56:24 -0700</pubDate>
+		<title>
+			<![CDATA[Lily add a quote by Anonymous]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/25793-love-is-patient-love-is-kind-love-is-not-envious]]>
+		</link>
+		<description>
+	    <![CDATA["Love is patient, love is kind, love is not envious or boastful or arrogant or rude.  It does not insist on its own way, it is not irritable or resentful, it does not rejoice in wrong doing, but rejoices in the truth.  It bears all things, believes in all things, hopes all things, endures all things.  Love never ends. (I Corinthians 13:4-8, New Revised Standard)" -- Anonymous]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

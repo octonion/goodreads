@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/76610-wordaddict]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/76610-wordaddict" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 05 Aug 2008 22:17:57 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/919-the-man-who-does-not-read-has-no-advantage-over</guid>
+		<pubDate>Tue, 05 Aug 2008 22:17:57 -0700</pubDate>
+		<title>
+			<![CDATA[wordaddict add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/919-the-man-who-does-not-read-has-no-advantage-over]]>
+		</link>
+		<description>
+	    <![CDATA["The man who does not read has no advantage over the man who cannot read." -- Mark Twain]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/53105-knowledge-is-the-only-instrument-of-production-that-is-not</guid>
+		<pubDate>Tue, 05 Aug 2008 22:19:08 -0700</pubDate>
+		<title>
+			<![CDATA[wordaddict add a quote by j.m. clark]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/53105-knowledge-is-the-only-instrument-of-production-that-is-not]]>
+		</link>
+		<description>
+	    <![CDATA["Knowledge is the only instrument of production that is not subject to diminishing returns" -- j.m. clark]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/764-a-room-without-books-is-like-a-body-without-a</guid>
+		<pubDate>Tue, 05 Aug 2008 22:21:15 -0700</pubDate>
+		<title>
+			<![CDATA[wordaddict add a quote by Marcus Tullius Cicero]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/764-a-room-without-books-is-like-a-body-without-a]]>
+		</link>
+		<description>
+	    <![CDATA["A room without books is like a body without a soul." -- Marcus Tullius Cicero]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

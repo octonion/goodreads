@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1085873-marjory]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1085873-marjory" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 13 Feb 2011 22:32:53 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/305584-we-have-to-bloom-where-we-are-planted-enjoy-the</guid>
+		<pubDate>Sun, 13 Feb 2011 22:32:53 -0800</pubDate>
+		<title>
+			<![CDATA[Marjory add a quote by Ben Behunin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/305584-we-have-to-bloom-where-we-are-planted-enjoy-the]]>
+		</link>
+		<description>
+	    <![CDATA["We have to bloom where we are planted, enjoy the sunlight while we can, and thank the heavens for the rain that not only beats us down, but feeds us and makes us stronger." -- Ben Behunin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/251960-melanie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/251960-melanie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 19 Apr 2008 21:03:28 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/11177-we-cross-our-bridges-when-we-come-to-them-and</guid>
+		<pubDate>Sat, 19 Apr 2008 21:03:28 -0700</pubDate>
+		<title>
+			<![CDATA[Melanie add a quote by Tom Stoppard]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11177-we-cross-our-bridges-when-we-come-to-them-and]]>
+		</link>
+		<description>
+	    <![CDATA["We cross our bridges when we come to them and burn them behind us, with nothing to show for our progress except a memory of the smell of smoke, and a presumption that once our eyes watered." -- Tom Stoppard]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3419-and-there-is-a-chance-that-everything-we-did-was</guid>
+		<pubDate>Mon, 21 Apr 2008 18:35:42 -0700</pubDate>
+		<title>
+			<![CDATA[Melanie add a quote by Dave Eggers]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3419-and-there-is-a-chance-that-everything-we-did-was]]>
+		</link>
+		<description>
+	    <![CDATA["And there is a chance that everything we did was incorrect, but stasis is itself criminal for those with the means to move, and the means to weave communion between people." -- Dave Eggers]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

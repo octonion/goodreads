@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1078871-jill]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1078871-jill" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 23 Apr 2008 09:33:25 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/47563-siempre-estoy-haciendo-cosas-que-no-puedo-hacer-as-es</guid>
+		<pubDate>Wed, 23 Apr 2008 09:33:25 -0700</pubDate>
+		<title>
+			<![CDATA[Jill add a quote by Pablo Picasso]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/47563-siempre-estoy-haciendo-cosas-que-no-puedo-hacer-as-es]]>
+		</link>
+		<description>
+	    <![CDATA["Siempre estoy haciendo cosas que no puedo hacer, así es como logro hacerlas." -- Pablo Picasso]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/57014-genius-begins-great-works-labor-alone-finishes-them</guid>
+		<pubDate>Wed, 23 Apr 2008 09:34:07 -0700</pubDate>
+		<title>
+			<![CDATA[Jill add a quote by Joseph Joubert]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/57014-genius-begins-great-works-labor-alone-finishes-them]]>
+		</link>
+		<description>
+	    <![CDATA["Genius begins great works; labor alone finishes them." -- Joseph Joubert]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/47565-you-are-pure-potential</guid>
+		<pubDate>Wed, 23 Apr 2008 09:34:48 -0700</pubDate>
+		<title>
+			<![CDATA[Jill add a quote by Martin DeMaat]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/47565-you-are-pure-potential]]>
+		</link>
+		<description>
+	    <![CDATA["You are pure potential" -- Martin DeMaat]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

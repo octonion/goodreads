@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/104635-brooke]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/104635-brooke" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 17 Dec 2010 16:36:06 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/16962-sometimes-when-you-pick-up-your-child-you-can-feel</guid>
+		<pubDate>Fri, 17 Dec 2010 16:36:06 -0800</pubDate>
+		<title>
+			<![CDATA[Brooke add a quote by Jodi Picoult]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16962-sometimes-when-you-pick-up-your-child-you-can-feel]]>
+		</link>
+		<description>
+	    <![CDATA["Sometimes when you pick up your child you can feel the map of your own bones beneath your hands, or smell the scent of your skin in the nape of his neck. This is the most extraordinary thing about motherhood - finding a piece of yourself separate and apart that all the same you could not live without." -- Jodi Picoult]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/120881-shall-we-never-never-get-rid-of-this-past</guid>
+		<pubDate>Fri, 17 Dec 2010 16:37:34 -0800</pubDate>
+		<title>
+			<![CDATA[Brooke add a quote by Nathaniel Hawthorne]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/120881-shall-we-never-never-get-rid-of-this-past]]>
+		</link>
+		<description>
+	    <![CDATA["Shall we never never get rid of this Past? ... It lies upon the Present like a giant's dead body." -- Nathaniel Hawthorne]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

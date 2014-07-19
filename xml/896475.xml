@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/896475-eric]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/896475-eric" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 09 Mar 2008 18:20:46 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/5941-in-all-things-of-nature-there-is-something-of-the</guid>
+		<pubDate>Sun, 09 Mar 2008 18:20:46 -0700</pubDate>
+		<title>
+			<![CDATA[Eric add a quote by Aristotle]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5941-in-all-things-of-nature-there-is-something-of-the]]>
+		</link>
+		<description>
+	    <![CDATA["In all things of nature there is something of the marvelous." -- Aristotle]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/833-the-beautiful-thing-about-learning-is-that-nobody-can-take</guid>
+		<pubDate>Sun, 09 Mar 2008 18:29:17 -0700</pubDate>
+		<title>
+			<![CDATA[Eric add a quote by B.B. King]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/833-the-beautiful-thing-about-learning-is-that-nobody-can-take]]>
+		</link>
+		<description>
+	    <![CDATA["The beautiful thing about learning is that nobody can take it away from you." -- B.B. King]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

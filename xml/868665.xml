@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/868665-tracerz]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/868665-tracerz" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 25 Nov 2013 10:39:10 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/123513-once-i-spoke-the-language-of-the-flowers-once-i</guid>
+		<pubDate>Mon, 25 Nov 2013 10:39:10 -0800</pubDate>
+		<title>
+			<![CDATA[Tracerz add a quote by Shel Silverstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/123513-once-i-spoke-the-language-of-the-flowers-once-i]]>
+		</link>
+		<description>
+	    <![CDATA["Once I spoke the language of the flowers,
+Once I understood each word the caterpillar said,
+Once I smiled in secret at the gossip of the starlings,
+And shared a conversation with the housefly
+in my bed.
+Once I heard and answered all the questions
+of the crickets,
+And joined the crying of each falling dying
+flake of snow,
+Once I spoke the language of the flowers. . . .
+How did it go?
+How did it go?" -- Shel Silverstein]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

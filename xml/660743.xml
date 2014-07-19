@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/660743-lori]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/660743-lori" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 03 Jun 2013 20:43:08 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/114228-i-like-grit-i-like-love-and-death-i-m-tired</guid>
+		<pubDate>Mon, 03 Jun 2013 20:43:08 -0700</pubDate>
+		<title>
+			<![CDATA[Lori add a quote by Jim Harrison]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/114228-i-like-grit-i-like-love-and-death-i-m-tired]]>
+		</link>
+		<description>
+	    <![CDATA["I like grit, I like love and death, I'm tired of irony. ... A lot of good fiction is sentimental. ... The novelist who refuses sentiment refuses the full spectrum of human behavior, and then he just dries up. ... I would rather give full vent to all human loves and disappointments, and take a chance on being corny, than die a smartass." -- Jim Harrison]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

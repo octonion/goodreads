@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1011114-ingrid]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1011114-ingrid" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 23 Mar 2008 11:49:07 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/37598-to-lose-balance-sometimes-for-love-is-part-of-living</guid>
+		<pubDate>Sun, 23 Mar 2008 11:49:07 -0700</pubDate>
+		<title>
+			<![CDATA[Ingrid add a quote by Elizabeth Gilbert]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/37598-to-lose-balance-sometimes-for-love-is-part-of-living]]>
+		</link>
+		<description>
+	    <![CDATA["To lose balance sometimes for love is part of living a balanced
+life." -- Elizabeth Gilbert]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2570-what-you-love-is-a-sign-from-your-higher-self</guid>
+		<pubDate>Mon, 24 Mar 2008 11:33:17 -0700</pubDate>
+		<title>
+			<![CDATA[Ingrid add a quote by Sanaya Roman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2570-what-you-love-is-a-sign-from-your-higher-self]]>
+		</link>
+		<description>
+	    <![CDATA["What you love is a sign from your higher self of what you are to do." -- Sanaya Roman]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/922918-jenna-arak]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/922918-jenna-arak" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 05 Jan 2014 12:01:03 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/797200-there-s-no-way-to-know-what-makes-one-thing-happen</guid>
+		<pubDate>Sun, 05 Jan 2014 12:01:03 -0800</pubDate>
+		<title>
+			<![CDATA[Jenna add a quote by Cheryl Strayed]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/797200-there-s-no-way-to-know-what-makes-one-thing-happen]]>
+		</link>
+		<description>
+	    <![CDATA["There's no way to know what makes one thing happen and not another. What leads to what. What destroys what. What causes what to flourish or die or take another course. But I was pretty certain as I sat there that tonight that if it hadn't been for Eddie, I wouldn't have found myself on the PCT. And though it was true that everything I felt for him sat like a boulder in my throat, this realization made the boulder sit ever so much lighter. He hadn't loved me well in the end, but he'd loved me well when it mattered." -- Cheryl Strayed]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/997778-jennine-jones]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/997778-jennine-jones" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 Apr 2008 15:11:24 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/40590-there-is-nothing-to-winning-really-that-is-if-you</guid>
+		<pubDate>Tue, 01 Apr 2008 15:11:24 -0700</pubDate>
+		<title>
+			<![CDATA[Jennine add a quote by Alfred Hitchcock]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/40590-there-is-nothing-to-winning-really-that-is-if-you]]>
+		</link>
+		<description>
+	    <![CDATA["There is nothing to winning, really. That is, if you happen to be blessed with a keen eye, an agile mind, and no scruples whatsoever." -- Alfred Hitchcock]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/40594-then-i-though-of-reading----the-nice-and-subtle</guid>
+		<pubDate>Tue, 01 Apr 2008 15:22:47 -0700</pubDate>
+		<title>
+			<![CDATA[Jennine add a quote by Logan Pearsall Smith]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/40594-then-i-though-of-reading----the-nice-and-subtle]]>
+		</link>
+		<description>
+	    <![CDATA["Then I though of reading -- the nice and subtle happiness of reading ... this joy not dulled by age, this polite and unpunishable vice, this selfish, serene, lifelong intoxication." -- Logan Pearsall Smith]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

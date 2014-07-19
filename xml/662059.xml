@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/662059-james]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/662059-james" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 05 Dec 2007 21:45:59 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3726-madness-and-then-illumination</guid>
+		<pubDate>Wed, 05 Dec 2007 21:45:59 -0800</pubDate>
+		<title>
+			<![CDATA[James add a quote by Orson Scott Card]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3726-madness-and-then-illumination]]>
+		</link>
+		<description>
+	    <![CDATA["Madness, and then illumination." -- Orson Scott Card]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/48797-the-perfection-of-intention-in-the-end-it-is-all</guid>
+		<pubDate>Sat, 26 Apr 2008 21:49:14 -0700</pubDate>
+		<title>
+			<![CDATA[James add a quote by Andrew X. Pham]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/48797-the-perfection-of-intention-in-the-end-it-is-all]]>
+		</link>
+		<description>
+	    <![CDATA["The perfection of intention. In the end, it is all that matters." -- Andrew X. Pham]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/72646-precious-things-lost-are-transmutable-they-refuse-oblivion-they-simply</guid>
+		<pubDate>Sun, 13 Jul 2008 22:25:24 -0700</pubDate>
+		<title>
+			<![CDATA[James add a quote by Andrew Lam]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/72646-precious-things-lost-are-transmutable-they-refuse-oblivion-they-simply]]>
+		</link>
+		<description>
+	    <![CDATA["Precious things lost are transmutable. They refuse oblivion. They simply wait to be rendered into testimonies, into stories and songs." -- Andrew Lam]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

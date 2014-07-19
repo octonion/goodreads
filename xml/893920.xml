@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/893920-paige]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/893920-paige" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 10 Feb 2008 12:23:50 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/21535-the-journey-of-a-thousand-miles-begins-with-a-single</guid>
+		<pubDate>Sun, 10 Feb 2008 12:23:50 -0800</pubDate>
+		<title>
+			<![CDATA[Paige add a quote by Lao Tzu]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21535-the-journey-of-a-thousand-miles-begins-with-a-single]]>
+		</link>
+		<description>
+	    <![CDATA["The journey of a thousand miles begins with a single step." -- Lao Tzu]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3338-the-purpose-of-education-is-to-replace-an-empty-mind</guid>
+		<pubDate>Sun, 10 Feb 2008 12:25:15 -0800</pubDate>
+		<title>
+			<![CDATA[Paige add a quote by Malcolm S. Forbes]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3338-the-purpose-of-education-is-to-replace-an-empty-mind]]>
+		</link>
+		<description>
+	    <![CDATA["The purpose of education is to replace an empty mind with an open one." -- Malcolm S. Forbes]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/23644-the-greatest-risk-is-to-risk-nothing-at-all</guid>
+		<pubDate>Sun, 10 Feb 2008 12:26:20 -0800</pubDate>
+		<title>
+			<![CDATA[Paige add a quote by Leo Buscaglia]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/23644-the-greatest-risk-is-to-risk-nothing-at-all]]>
+		</link>
+		<description>
+	    <![CDATA["The greatest risk is to risk nothing at all" -- Leo Buscaglia]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/277-everything-must-be-made-as-simple-as-possible-but-not</guid>
+		<pubDate>Thu, 04 Sep 2008 05:29:22 -0700</pubDate>
+		<title>
+			<![CDATA[Paige add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/277-everything-must-be-made-as-simple-as-possible-but-not]]>
+		</link>
+		<description>
+	    <![CDATA["Everything must be made as simple as possible. But not simpler." -- Albert Einstein]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

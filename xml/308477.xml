@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/308477-rebecca-rosen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/308477-rebecca-rosen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 21 Jan 2013 18:42:55 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/59937-everyone-at-some-point-in-their-lives-wakes-up-in</guid>
+		<pubDate>Mon, 21 Jan 2013 18:42:55 -0800</pubDate>
+		<title>
+			<![CDATA[Rebecca add a quote by Lemony Snicket]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/59937-everyone-at-some-point-in-their-lives-wakes-up-in]]>
+		</link>
+		<description>
+	    <![CDATA["Everyone, at some point in their lives, wakes up in the middle of the night with the feeling that they are all alone in the world, and that nobody loves them now and that nobody will ever love them, and that they will never have a decent night's sleep again and will spend their lives wandering blearily around a loveless landscape, hoping desperately that their circumstances will improve, but suspecting, in their heart of hearts, that they will remain unloved forever. The best thing to do in these circumstances is to wake somebody else up, so that they can feel this way, too." -- Lemony Snicket]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4258-when-his-life-was-ruined-his-family-killed-his-farm</guid>
+		<pubDate>Sun, 08 Dec 2013 20:57:37 -0800</pubDate>
+		<title>
+			<![CDATA[Rebecca add a quote by Stephen King]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4258-when-his-life-was-ruined-his-family-killed-his-farm]]>
+		</link>
+		<description>
+	    <![CDATA["When his life was ruined, his family killed, his farm destroyed, Job knelt down on the ground and yelled up to the heavens, &quot;Why god? Why me?&quot; and the thundering voice of God answered, There's just something about you that pisses me off." -- Stephen King]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

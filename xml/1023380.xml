@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1023380-michele]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1023380-michele" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 25 Mar 2008 18:22:25 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/38325-to-be-successful-you-have-to-be-selfish-or-else</guid>
+		<pubDate>Tue, 25 Mar 2008 18:22:25 -0700</pubDate>
+		<title>
+			<![CDATA[Michele add a quote by Michael Jordan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/38325-to-be-successful-you-have-to-be-selfish-or-else]]>
+		</link>
+		<description>
+	    <![CDATA["To be successful you have to be selfish, or else you never achieve. And once you get to your highest level, then you have to be unselfish. Stay reachable. Stay in touch. Don't isolate." -- Michael Jordan]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/277-everything-must-be-made-as-simple-as-possible-but-not</guid>
+		<pubDate>Wed, 26 Mar 2008 17:14:08 -0700</pubDate>
+		<title>
+			<![CDATA[Michele add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/277-everything-must-be-made-as-simple-as-possible-but-not]]>
+		</link>
+		<description>
+	    <![CDATA["Everything must be made as simple as possible. But not simpler." -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/18723-i-hope-you-re-pleased-with-yourselves-we-could-all-have</guid>
+		<pubDate>Sat, 29 Mar 2008 18:49:05 -0700</pubDate>
+		<title>
+			<![CDATA[Michele add a quote by J.K. Rowling]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18723-i-hope-you-re-pleased-with-yourselves-we-could-all-have]]>
+		</link>
+		<description>
+	    <![CDATA["I hope you're pleased with yourselves. We could all have been killed - or worse, expelled. Now if you don't mind, I'm going to bed." -- J.K. Rowling]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

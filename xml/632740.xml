@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/632740-sarah]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/632740-sarah" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 01 Mar 2013 08:18:59 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6969-i-seem-fated-to-pass-through-the-world-without-colliding</guid>
+		<pubDate>Fri, 01 Mar 2013 08:18:59 -0800</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by E. M. Forster]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6969-i-seem-fated-to-pass-through-the-world-without-colliding]]>
+		</link>
+		<description>
+	    <![CDATA["I seem fated to pass through the world without colliding with it or moving it — and I'm sure I can't tell you whether the fate's good or evil. I don't die — I don't fall in love. And if other people die or fall in love they always do it when I'm just not there." -- E. M. Forster]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/283926-if-you-live-in-the-dark-a-long-time-and</guid>
+		<pubDate>Sun, 10 Mar 2013 17:00:39 -0700</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by Mary Karr]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/283926-if-you-live-in-the-dark-a-long-time-and]]>
+		</link>
+		<description>
+	    <![CDATA["If you live in the dark a long time and the sun comes out, you do not cross into it whistling. There's an initial uprush of relief at first, then-for me, anyway- a profound dislocation. My old assumptions about how the world works are buried, yet my new ones aren't yet operational.There's been a death of sorts, but without a few days in hell, no resurrection is possible." -- Mary Karr]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

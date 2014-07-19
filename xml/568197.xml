@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/568197-springuyen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/568197-springuyen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 23 Dec 2007 10:46:43 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/889-the-sky-above-the-port-was-the-color-of-television</guid>
+		<pubDate>Sun, 23 Dec 2007 10:46:43 -0800</pubDate>
+		<title>
+			<![CDATA[Springuyen add a quote by William Gibson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/889-the-sky-above-the-port-was-the-color-of-television]]>
+		</link>
+		<description>
+	    <![CDATA["The sky above the port was the color of television, tuned to a dead channel." -- William Gibson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/15024-there-s-no-requirement-that-jobs-be-meaningful-if-there-was</guid>
+		<pubDate>Fri, 25 Jan 2008 09:54:41 -0800</pubDate>
+		<title>
+			<![CDATA[Springuyen add a quote by Max Barry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/15024-there-s-no-requirement-that-jobs-be-meaningful-if-there-was]]>
+		</link>
+		<description>
+	    <![CDATA["There's no requirement that jobs be meaningful.  If there was, half the country would be unemployed." -- Max Barry]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

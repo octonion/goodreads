@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1036722-lisa]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1036722-lisa" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 02 May 2008 12:20:44 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2467-you-can-never-get-a-cup-of-tea-large-enough</guid>
+		<pubDate>Fri, 02 May 2008 12:20:44 -0700</pubDate>
+		<title>
+			<![CDATA[Lisa add a quote by C.S. Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2467-you-can-never-get-a-cup-of-tea-large-enough]]>
+		</link>
+		<description>
+	    <![CDATA["You can never get a cup of tea large enough or a book long enough to suit me." -- C.S. Lewis]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/81565-you-think-you-can-see-the-light-at-the-end</guid>
+		<pubDate>Tue, 24 Feb 2009 14:28:28 -0800</pubDate>
+		<title>
+			<![CDATA[Lisa add a quote by David Brent]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/81565-you-think-you-can-see-the-light-at-the-end]]>
+		</link>
+		<description>
+	    <![CDATA["You think you can see the light at the end of the tunnel, but it’s only some bugger with a torch bringing you more work." -- David Brent]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/81567-if-you-can-keep-your-head-when-all-around-you</guid>
+		<pubDate>Tue, 24 Feb 2009 14:28:59 -0800</pubDate>
+		<title>
+			<![CDATA[Lisa add a quote by David Brent]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/81567-if-you-can-keep-your-head-when-all-around-you]]>
+		</link>
+		<description>
+	    <![CDATA["If you can keep your head when all around you have lost theirs, then you probably haven't understood the seriousness of the situation. " -- David Brent]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3765-get-busy-living-or-get-busy-dying</guid>
+		<pubDate>Sat, 07 Mar 2009 05:10:22 -0800</pubDate>
+		<title>
+			<![CDATA[Lisa add a quote by Stephen King]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3765-get-busy-living-or-get-busy-dying]]>
+		</link>
+		<description>
+	    <![CDATA["Get busy living or get busy dying." -- Stephen King]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/6241-jennie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/6241-jennie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 12 Nov 2013 06:17:16 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/165982-we-are-not-here-to-curse-the-darkness-but-to</guid>
+		<pubDate>Tue, 12 Nov 2013 06:17:16 -0800</pubDate>
+		<title>
+			<![CDATA[jennie add a quote by John F. Kennedy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/165982-we-are-not-here-to-curse-the-darkness-but-to]]>
+		</link>
+		<description>
+	    <![CDATA["We are not here to curse the darkness, but to light a candle that can guide us through the darkness to a safe and sure future. For the world is changing. The old era is ending. The old ways will not do.
+
+The problems are not all solved and the battles are not all won and we stand today on the edge of a New Frontier - a frontier of unknown opportunities and perils, a frontier of unfulfilled hopes and threats.
+
+It has been a long road to this crowded convention city. Now begins another long journey, taking me into your cities and towns and homes all over America.
+
+Give me your help. Give me your hand, your voice and your vote." -- John F. Kennedy]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

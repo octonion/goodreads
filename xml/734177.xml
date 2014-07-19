@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/734177-kristine]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/734177-kristine" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 01 Jun 2008 14:20:35 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/38306-i-think-every-person-who-is-single-should-have-a</guid>
+		<pubDate>Sun, 01 Jun 2008 14:20:35 -0700</pubDate>
+		<title>
+			<![CDATA[Kristine add a quote by Jennifer Weiner]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/38306-i-think-every-person-who-is-single-should-have-a]]>
+		</link>
+		<description>
+	    <![CDATA["I think every person who is single should have a dog.  I think the government should step in and intervene: If you're not married or coupled up, whether you've been dumped or divorced or widowed or whatever, they should require you to proceed immediately to the pound nearest you and select an animal companion." -- Jennifer Weiner]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

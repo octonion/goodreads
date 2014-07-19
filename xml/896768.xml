@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/896768-kim]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/896768-kim" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 04 Sep 2009 17:58:59 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4141-the-buddhists-say-there-are-149-ways-to-god-i-m</guid>
+		<pubDate>Fri, 04 Sep 2009 17:58:59 -0700</pubDate>
+		<title>
+			<![CDATA[Kim add a quote by Jeanette Winterson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4141-the-buddhists-say-there-are-149-ways-to-god-i-m]]>
+		</link>
+		<description>
+	    <![CDATA["The Buddhists say there are 149 ways to God. I'm not looking for God, only for myself, and that is far more complicated. God has had a great deal written about Him; nothing has been written about me. God is bigger, like my mother, easier to find, even in the dark. I could be anywhere, and since I can't describe myself I can't ask for help." -- Jeanette Winterson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/23177-i-have-a-theory-that-every-time-you-make-an</guid>
+		<pubDate>Fri, 04 Sep 2009 17:59:20 -0700</pubDate>
+		<title>
+			<![CDATA[Kim add a quote by Jeanette Winterson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/23177-i-have-a-theory-that-every-time-you-make-an]]>
+		</link>
+		<description>
+	    <![CDATA["I have a theory that every time you make an important choice, the part of you left behind continues the other life you could have had." -- Jeanette Winterson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

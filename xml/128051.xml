@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/128051-teressa]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/128051-teressa" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 28 Mar 2011 19:55:06 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/29673-the-world-was-hers-for-the-reading</guid>
+		<pubDate>Mon, 28 Mar 2011 19:55:06 -0700</pubDate>
+		<title>
+			<![CDATA[Teressa add a quote by Betty Smith]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/29673-the-world-was-hers-for-the-reading]]>
+		</link>
+		<description>
+	    <![CDATA["The world was hers for the reading." -- Betty Smith]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/70555-dear-god-she-prayed-let-me-be-something-every-minute</guid>
+		<pubDate>Mon, 28 Mar 2011 19:55:08 -0700</pubDate>
+		<title>
+			<![CDATA[Teressa add a quote by Betty Smith]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/70555-dear-god-she-prayed-let-me-be-something-every-minute]]>
+		</link>
+		<description>
+	    <![CDATA["Dear God,&quot; she prayed, &quot;let me be something every minute of every hour of my life. Let me be gay; let me be sad. Let me be cold; let me be warm. Let me be hungry...have too much to eat. Let me be ragged or well dressed. Let me be sincere - be deceitful. Let me be truthful; let me be a liar. Let me be honorable and let me sin. Only let me be something every blessed minute. And when I sleep, let me dream all the time so that not one little piece of living is ever lost." -- Betty Smith]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

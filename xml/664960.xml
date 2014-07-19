@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/664960-ello]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/664960-ello" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 06 Dec 2007 17:11:28 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3844-when-i-die-i-hope-to-go-to-heaven--whatever-that</guid>
+		<pubDate>Thu, 06 Dec 2007 17:11:28 -0800</pubDate>
+		<title>
+			<![CDATA[Ello add a quote by Ayn Rand]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3844-when-i-die-i-hope-to-go-to-heaven--whatever-that]]>
+		</link>
+		<description>
+	    <![CDATA["When I die I hope to go to heaven--whatever that is--and I want to be able to afford the price of admission." -- Ayn Rand]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/104671-i-have-of-late--but-wherefore-i-know-not--lost-all-my</guid>
+		<pubDate>Wed, 02 Dec 2009 13:32:16 -0800</pubDate>
+		<title>
+			<![CDATA[Ello add a quote by William Shakespeare]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/104671-i-have-of-late--but-wherefore-i-know-not--lost-all-my]]>
+		</link>
+		<description>
+	    <![CDATA["I have of late--but
+wherefore I know not--lost all my mirth, forgone all
+custom of exercises; and indeed it goes so heavily
+with my disposition that this goodly frame, the
+earth, seems to me a sterile promontory, this most
+excellent canopy, the air, look you, this brave
+o'erhanging firmament, this majestical roof fretted
+with golden fire, why, it appears no other thing to
+me than a foul and pestilent congregation of vapours." -- William Shakespeare]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

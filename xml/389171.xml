@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/389171-liz]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/389171-liz" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 03 Mar 2013 08:39:51 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/54406-at-no-other-time-than-autumn-does-the-earth-let</guid>
+		<pubDate>Sun, 03 Mar 2013 08:39:51 -0800</pubDate>
+		<title>
+			<![CDATA[Liz add a quote by Rainer Maria Rilke]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/54406-at-no-other-time-than-autumn-does-the-earth-let]]>
+		</link>
+		<description>
+	    <![CDATA["At no other time (than autumn) does the earth let itself be inhaled in one smell, the ripe earth; in a smell that is in no way inferior to the smell of the sea, bitter where it borders on taste, and more honeysweet where you feel it touching the first sounds.  Containing depth within itself, darkness, something of the grave almost." -- Rainer Maria Rilke]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/55369-i-have-found-out-that-there-ain-t-no-surer-way</guid>
+		<pubDate>Sun, 03 Mar 2013 08:59:49 -0800</pubDate>
+		<title>
+			<![CDATA[Liz add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/55369-i-have-found-out-that-there-ain-t-no-surer-way]]>
+		</link>
+		<description>
+	    <![CDATA["I have found out that there ain't no surer way to find out whether you like people or hate them than to travel with them." -- Mark Twain]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

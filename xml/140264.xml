@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/140264-geni]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/140264-geni" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 01 May 2009 06:25:13 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/158610-when-i-enter-a-library-i-still-have-a</guid>
+		<pubDate>Fri, 01 May 2009 06:25:13 -0700</pubDate>
+		<title>
+			<![CDATA[Geni add a quote by Susan Allen Toth]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/158610-when-i-enter-a-library-i-still-have-a]]>
+		</link>
+		<description>
+	    <![CDATA["When I enter a Library ... I still have a reassuring sense that it is going to tell me all I need to know." -- Susan Allen Toth]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6563-did-you-think-the-lion-was-sleeping-because-he-didn-t</guid>
+		<pubDate>Fri, 01 May 2009 06:27:04 -0700</pubDate>
+		<title>
+			<![CDATA[Geni add a quote by Friedrich Schiller]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6563-did-you-think-the-lion-was-sleeping-because-he-didn-t]]>
+		</link>
+		<description>
+	    <![CDATA["Did you think the lion was sleeping because he didn't roar?" -- Friedrich Schiller]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/310774-ellen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/310774-ellen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 04 Sep 2013 10:38:50 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/32945-when-one-tugs-at-a-single-thing-in-nature-he</guid>
+		<pubDate>Wed, 04 Sep 2013 10:38:50 -0700</pubDate>
+		<title>
+			<![CDATA[Ellen add a quote by John Muir]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/32945-when-one-tugs-at-a-single-thing-in-nature-he]]>
+		</link>
+		<description>
+	    <![CDATA["When one tugs at a single thing in nature, he finds it attached to the rest of the world." -- John Muir]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/78575-character-consists-of-what-you-do-on-the-third-and</guid>
+		<pubDate>Wed, 04 Sep 2013 10:38:58 -0700</pubDate>
+		<title>
+			<![CDATA[Ellen add a quote by James A. Michener]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/78575-character-consists-of-what-you-do-on-the-third-and]]>
+		</link>
+		<description>
+	    <![CDATA["Character consists of what you do on the third and fourth tries." -- James A. Michener]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/271141-happiness-always-looks-small-while-you-hold-it-in-your</guid>
+		<pubDate>Wed, 04 Sep 2013 10:39:05 -0700</pubDate>
+		<title>
+			<![CDATA[Ellen add a quote by Maxim Gorky]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/271141-happiness-always-looks-small-while-you-hold-it-in-your]]>
+		</link>
+		<description>
+	    <![CDATA["Happiness always looks small while you hold it in your hands, but let it go, and you learn at once how big and precious it is." -- Maxim Gorky]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/72283-follow-your-inner-moonlight-don-t-hide-the-madness</guid>
+		<pubDate>Wed, 04 Sep 2013 10:39:10 -0700</pubDate>
+		<title>
+			<![CDATA[Ellen add a quote by Allen Ginsberg]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/72283-follow-your-inner-moonlight-don-t-hide-the-madness]]>
+		</link>
+		<description>
+	    <![CDATA["Follow your inner moonlight; don't hide the madness." -- Allen Ginsberg]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

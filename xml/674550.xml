@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/674550-brian]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/674550-brian" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 21 Dec 2007 09:16:02 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6825-see-everything-overlook-a-great-deal-correct-a-little</guid>
+		<pubDate>Fri, 21 Dec 2007 09:16:02 -0800</pubDate>
+		<title>
+			<![CDATA[Brian add a quote by John XXIII]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6825-see-everything-overlook-a-great-deal-correct-a-little]]>
+		</link>
+		<description>
+	    <![CDATA["See everything, overlook a great deal, correct a little." -- John XXIII]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/55800-just-as-food-is-necessary-to-the-life-of</guid>
+		<pubDate>Thu, 18 Oct 2012 08:13:35 -0700</pubDate>
+		<title>
+			<![CDATA[Brian add a quote by Pope John XXIII]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/55800-just-as-food-is-necessary-to-the-life-of]]>
+		</link>
+		<description>
+	    <![CDATA["... just as food is necessary to the life of the body, so good reading is necessary to the life of the soul." -- Pope John XXIII]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

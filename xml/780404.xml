@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/780404-meegan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/780404-meegan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 25 Jun 2013 19:05:41 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/32947-the-clearest-way-into-the-universe-is-through-a-forest</guid>
+		<pubDate>Tue, 25 Jun 2013 19:05:41 -0700</pubDate>
+		<title>
+			<![CDATA[Meegan add a quote by John Muir]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/32947-the-clearest-way-into-the-universe-is-through-a-forest]]>
+		</link>
+		<description>
+	    <![CDATA["The clearest way into the Universe is through a forest wilderness." -- John Muir]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6805-sometimes-the-questions-are-complicated-and-the-answers-are-simple</guid>
+		<pubDate>Tue, 25 Jun 2013 19:06:22 -0700</pubDate>
+		<title>
+			<![CDATA[Meegan add a quote by Dr. Seuss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6805-sometimes-the-questions-are-complicated-and-the-answers-are-simple]]>
+		</link>
+		<description>
+	    <![CDATA["Sometimes the questions are complicated and the answers are simple." -- Dr. Seuss]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/506866-everything-passes-everything-changes-just-do-what-you-think-you</guid>
+		<pubDate>Tue, 25 Jun 2013 19:17:31 -0700</pubDate>
+		<title>
+			<![CDATA[Meegan add a quote by Bob Dylan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/506866-everything-passes-everything-changes-just-do-what-you-think-you]]>
+		</link>
+		<description>
+	    <![CDATA["Everything passes,
+Everything changes,
+Just do what you think you should do." -- Bob Dylan]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/222926-i-believe-that-reading-and-writing-are-the-most-nourishing</guid>
+		<pubDate>Tue, 25 Jun 2013 19:26:13 -0700</pubDate>
+		<title>
+			<![CDATA[Meegan add a quote by Kurt Vonnegut]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/222926-i-believe-that-reading-and-writing-are-the-most-nourishing]]>
+		</link>
+		<description>
+	    <![CDATA["I believe that reading and writing are the most nourishing forms of meditation anyone has so far found. By reading the writings of the most interesting minds in history, we meditate with our own minds and theirs as well. This to me is a miracle." -- Kurt Vonnegut]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

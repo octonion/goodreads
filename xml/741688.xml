@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/741688-joe-blow]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/741688-joe-blow" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 04 Jan 2008 07:50:19 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/9982-the-trouble-with-the-world-is-that-it-s-always-one</guid>
+		<pubDate>Fri, 04 Jan 2008 07:50:19 -0800</pubDate>
+		<title>
+			<![CDATA[Joe Blow add a quote by Humphrey Bogart]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9982-the-trouble-with-the-world-is-that-it-s-always-one]]>
+		</link>
+		<description>
+	    <![CDATA["The trouble with the world is that it's always one drink behind." -- Humphrey Bogart]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/13515-yeah-all-those-things-responsibility-pressure-it-s-a-bit-stressful</guid>
+		<pubDate>Sat, 05 Jan 2008 20:57:25 -0800</pubDate>
+		<title>
+			<![CDATA[Joe Blow add a quote by Joe Strummer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13515-yeah-all-those-things-responsibility-pressure-it-s-a-bit-stressful]]>
+		</link>
+		<description>
+	    <![CDATA["Yeah, all those things, responsibility, pressure. It's a bit stressful. I try and come to terms with it by not thinking about it." -- Joe Strummer]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/17188-bad-men-need-nothing-more-to-compass-their-ends-than</guid>
+		<pubDate>Thu, 24 Jan 2008 21:41:50 -0800</pubDate>
+		<title>
+			<![CDATA[Joe Blow add a quote by John Stuart Mill]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17188-bad-men-need-nothing-more-to-compass-their-ends-than]]>
+		</link>
+		<description>
+	    <![CDATA["Bad men need nothing more to compass their ends, than that good men should look on and do nothing." -- John Stuart Mill]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

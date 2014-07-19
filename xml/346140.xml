@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/346140-saydie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/346140-saydie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 12 Oct 2011 11:13:01 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/371273-their-point-of-resemblance-to-each-other-and-their-difference</guid>
+		<pubDate>Wed, 12 Oct 2011 11:13:01 -0700</pubDate>
+		<title>
+			<![CDATA[sayDIE add a quote by F. Scott Fitzgerald]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/371273-their-point-of-resemblance-to-each-other-and-their-difference]]>
+		</link>
+		<description>
+	    <![CDATA["Their point of resemblance to each other and their difference from so many American women, lay in the fact that they were all happy to exist in a man's world--they preserved their individuality through men and not by opposition to them. They would all three have made alternatively good courtesans or good wives not by the accident of birth but through the greater accident of finding their man or not finding him." -- F. Scott Fitzgerald]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

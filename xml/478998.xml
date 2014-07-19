@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/478998-sean]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/478998-sean" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 04 Feb 2010 20:31:05 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/64526-there-ain-t-no-devil-only-god-when-he-s-drunk</guid>
+		<pubDate>Thu, 04 Feb 2010 20:31:05 -0800</pubDate>
+		<title>
+			<![CDATA[Sean add a quote by Tom Waits]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/64526-there-ain-t-no-devil-only-god-when-he-s-drunk]]>
+		</link>
+		<description>
+	    <![CDATA["There ain't no devil, only God when he's drunk." -- Tom Waits]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

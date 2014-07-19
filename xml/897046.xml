@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/897046-malgosia]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/897046-malgosia" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 18 Feb 2008 06:25:09 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/7692-if-there-is-no-love-in-the-world-we-will</guid>
+		<pubDate>Mon, 18 Feb 2008 06:25:09 -0800</pubDate>
+		<title>
+			<![CDATA[malgosia add a quote by Jonathan Safran Foer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7692-if-there-is-no-love-in-the-world-we-will]]>
+		</link>
+		<description>
+	    <![CDATA["If there is no love in the world, we will make a new world, and we will give it walls, and we will furnish it with soft, red interiors, from the inside out, and give it a knocker that resonates like a diamond falling to a jeweller's felt so that we should never hear it. Love me, because love doesn't exist, and I have tried everything that does." -- Jonathan Safran Foer]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6691-if-i-should-ever-die-god-forbid-let-this-be</guid>
+		<pubDate>Mon, 18 Feb 2008 06:27:28 -0800</pubDate>
+		<title>
+			<![CDATA[malgosia add a quote by kurt vonnegut]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6691-if-i-should-ever-die-god-forbid-let-this-be]]>
+		</link>
+		<description>
+	    <![CDATA["If I should ever die, God forbid, let this be my epitaph:
+THE ONLY PROOF HE NEEDED
+FOR THE EXISTENCE OF GOD
+WAS MUSIC" -- kurt vonnegut]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/221394-savannah]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/221394-savannah" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 21 Feb 2014 13:10:19 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/300739-there-are-still-many-more-days-of-failure-ahead-whole</guid>
+		<pubDate>Fri, 21 Feb 2014 13:10:19 -0800</pubDate>
+		<title>
+			<![CDATA[Savannah add a quote by Anton Chekhov]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/300739-there-are-still-many-more-days-of-failure-ahead-whole]]>
+		</link>
+		<description>
+	    <![CDATA["There are still many more days of failure ahead, whole seasons of failure, things will go terribly wrong, you will have huge disappointments, but you have to prepare for that, you have to expect it and be resolute and follow your own path." -- Anton Chekhov]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

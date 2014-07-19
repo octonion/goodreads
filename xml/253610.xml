@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/253610-jim]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/253610-jim" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 23 Feb 2008 19:38:05 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/27858-interstate-highways-are-the-veins-and-arteries-by-which-crime</guid>
+		<pubDate>Sat, 23 Feb 2008 19:38:05 -0800</pubDate>
+		<title>
+			<![CDATA[Jim add a quote by William R. Maples]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/27858-interstate-highways-are-the-veins-and-arteries-by-which-crime]]>
+		</link>
+		<description>
+	    <![CDATA["Interstate highways are the veins and arteries by which crime circulates in America. Serial killers seem to float through them like blood cells, sometimes fast, sometimes slow. Crimes committed along interstate highways ought to be considered extraterritorially, apart from the normal rules of geography, and separate from a state's good name. These huge highways form a kind of fifty-first state of their own, a state whose flower is the deadly nightshade and whose state bird is the vulture." -- William R. Maples]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

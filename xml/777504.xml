@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/777504-daniel]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/777504-daniel" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 15 Jan 2008 18:41:39 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2121-it-is-hard-enough-to-remember-my-opinions-without-also</guid>
+		<pubDate>Tue, 15 Jan 2008 18:41:39 -0800</pubDate>
+		<title>
+			<![CDATA[Daniel add a quote by Friedrich Nietzsche]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2121-it-is-hard-enough-to-remember-my-opinions-without-also]]>
+		</link>
+		<description>
+	    <![CDATA["It is hard enough to remember my opinions, without also remembering my reasons for them!" -- Friedrich Nietzsche]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/942-two-things-are-infinite-the-universe-and-human-stupidity-and</guid>
+		<pubDate>Wed, 16 Jan 2008 21:39:56 -0800</pubDate>
+		<title>
+			<![CDATA[Daniel add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/942-two-things-are-infinite-the-universe-and-human-stupidity-and]]>
+		</link>
+		<description>
+	    <![CDATA["Two things are infinite: the universe and human stupidity; and I'm not sure about the universe." -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1230-a-day-without-laughter-is-a-day-wasted</guid>
+		<pubDate>Wed, 16 Jan 2008 21:42:16 -0800</pubDate>
+		<title>
+			<![CDATA[Daniel add a quote by Nicolas Chamfort]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1230-a-day-without-laughter-is-a-day-wasted]]>
+		</link>
+		<description>
+	    <![CDATA["A day without  laughter is a day wasted." -- Nicolas Chamfort]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4705-whoever-cannot-seek-the-unforeseen-sees-nothing-for-the-known</guid>
+		<pubDate>Wed, 16 Jan 2008 22:00:40 -0800</pubDate>
+		<title>
+			<![CDATA[Daniel add a quote by Heraclitus]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4705-whoever-cannot-seek-the-unforeseen-sees-nothing-for-the-known]]>
+		</link>
+		<description>
+	    <![CDATA["Whoever cannot seek the unforeseen sees nothing for the known way is an impasse." -- Heraclitus]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

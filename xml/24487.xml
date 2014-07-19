@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/24487-ann]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/24487-ann" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 31 Oct 2012 09:23:38 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/77792-later-she-remembered-all-the-hours-of-the-afternoon-as</guid>
+		<pubDate>Wed, 31 Oct 2012 09:23:38 -0700</pubDate>
+		<title>
+			<![CDATA[Ann add a quote by F. Scott Fitzgerald]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/77792-later-she-remembered-all-the-hours-of-the-afternoon-as]]>
+		</link>
+		<description>
+	    <![CDATA["Later she remembered all the hours of the afternoon as happy -- one of those uneventful times that seem at the moment only a link between past and future pleasure, but turn out to have been the pleasure itself." -- F. Scott Fitzgerald]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/437464-far-more-interesting-than-problem-solving-is-problem-creation</guid>
+		<pubDate>Sun, 09 Jun 2013 13:12:15 -0700</pubDate>
+		<title>
+			<![CDATA[Ann add a quote by Chuck Close]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/437464-far-more-interesting-than-problem-solving-is-problem-creation]]>
+		</link>
+		<description>
+	    <![CDATA["Far more interesting than problem solving is problem creation." -- Chuck Close]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/231845-think-of-love-as-a-state-of-grace-not-the</guid>
+		<pubDate>Thu, 17 Apr 2014 22:06:51 -0700</pubDate>
+		<title>
+			<![CDATA[Ann add a quote by Gabriel García Márquez]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/231845-think-of-love-as-a-state-of-grace-not-the]]>
+		</link>
+		<description>
+	    <![CDATA["Think of love as a state of grace; not the means to anything but the alpha and omega, an end in itself." -- Gabriel García Márquez]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/29811-amirmehdi]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/29811-amirmehdi" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 16 Feb 2010 16:03:59 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/10123-you-ve-gotta-dance-like-there-s-nobody-watching-love-like-you-ll</guid>
+		<pubDate>Tue, 16 Feb 2010 16:03:59 -0800</pubDate>
+		<title>
+			<![CDATA[amirmehdi add a quote by William W. Purkey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10123-you-ve-gotta-dance-like-there-s-nobody-watching-love-like-you-ll]]>
+		</link>
+		<description>
+	    <![CDATA["You've gotta dance like there's nobody watching,
+Love like you'll never be hurt,
+Sing like there's nobody listening,
+And live like it's heaven on earth." -- William W. Purkey]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/24499-be-the-change-that-you-wish-to-see-in-the</guid>
+		<pubDate>Tue, 16 Feb 2010 16:04:24 -0800</pubDate>
+		<title>
+			<![CDATA[amirmehdi add a quote by Mahatma Gandhi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/24499-be-the-change-that-you-wish-to-see-in-the]]>
+		</link>
+		<description>
+	    <![CDATA["Be the change that you wish to see in the world." -- Mahatma Gandhi]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1958-whenever-i-feel-the-need-to-exercise-i-lie-down</guid>
+		<pubDate>Tue, 16 Feb 2010 16:07:24 -0800</pubDate>
+		<title>
+			<![CDATA[amirmehdi add a quote by Paul   Terry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1958-whenever-i-feel-the-need-to-exercise-i-lie-down]]>
+		</link>
+		<description>
+	    <![CDATA["Whenever I feel the need to exercise, I lie down until it goes away." -- Paul   Terry]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

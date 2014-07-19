@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/96261-midori]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/96261-midori" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 16 Jan 2014 05:09:27 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/417620-the-moment-you-doubt-whether-you-can-fly-you-cease</guid>
+		<pubDate>Thu, 16 Jan 2014 05:09:27 -0800</pubDate>
+		<title>
+			<![CDATA[Midori add a quote by J. M. Barrie]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/417620-the-moment-you-doubt-whether-you-can-fly-you-cease]]>
+		</link>
+		<description>
+	    <![CDATA["The moment you doubt whether you can fly, you cease for ever to be able to do it." -- J. M. Barrie]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

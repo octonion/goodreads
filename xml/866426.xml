@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/866426-sid]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/866426-sid" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 05 Nov 2010 18:23:51 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/31468-let-us-toast-to-animal-pleasures-to-escapism-to-rain</guid>
+		<pubDate>Fri, 05 Nov 2010 18:23:51 -0700</pubDate>
+		<title>
+			<![CDATA[Sid add a quote by Hunter S. Thompson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/31468-let-us-toast-to-animal-pleasures-to-escapism-to-rain]]>
+		</link>
+		<description>
+	    <![CDATA["Let us toast to animal pleasures, to escapism, to rain on the roof and instant coffee, to unemployment insurance and library cards, to absinthe and good-hearted landlords, to music and warm bodies and contraceptives... and to the &quot;good life&quot;, whatever it is and wherever it happens to be." -- Hunter S. Thompson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

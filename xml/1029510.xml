@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1029510-hyon]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1029510-hyon" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 30 Mar 2008 07:03:18 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/15696-an-individual-has-not-started-living-until-he-can-rise</guid>
+		<pubDate>Sun, 30 Mar 2008 07:03:18 -0700</pubDate>
+		<title>
+			<![CDATA[Hyon add a quote by Martin Luther King Jr.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/15696-an-individual-has-not-started-living-until-he-can-rise]]>
+		</link>
+		<description>
+	    <![CDATA["An individual has not started living until he can rise above the narrow confines of his individualistic concerns to the broader concerns of all humanity." -- Martin Luther King Jr.]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/53-ask-not-what-your-country-can-do-for-you-ask</guid>
+		<pubDate>Sun, 30 Mar 2008 20:41:13 -0700</pubDate>
+		<title>
+			<![CDATA[Hyon add a quote by John F. Kennedy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/53-ask-not-what-your-country-can-do-for-you-ask]]>
+		</link>
+		<description>
+	    <![CDATA["Ask not what your country can do for you; ask what you can do for your country." -- John F. Kennedy]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

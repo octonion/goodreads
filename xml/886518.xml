@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/886518-drew]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/886518-drew" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 19 Feb 2008 08:44:52 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/367-do-not-fear-to-be-eccentric-in-opinion-for-every</guid>
+		<pubDate>Tue, 19 Feb 2008 08:44:52 -0800</pubDate>
+		<title>
+			<![CDATA[Drew add a quote by Bertrand Russell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/367-do-not-fear-to-be-eccentric-in-opinion-for-every]]>
+		</link>
+		<description>
+	    <![CDATA["Do not fear to be eccentric in opinion, for every opinion now accepted was once eccentric." -- Bertrand Russell]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1230-a-day-without-laughter-is-a-day-wasted</guid>
+		<pubDate>Tue, 19 Feb 2008 08:45:09 -0800</pubDate>
+		<title>
+			<![CDATA[Drew add a quote by Nicolas Chamfort]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1230-a-day-without-laughter-is-a-day-wasted]]>
+		</link>
+		<description>
+	    <![CDATA["A day without  laughter is a day wasted." -- Nicolas Chamfort]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

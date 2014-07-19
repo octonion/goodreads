@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/978753-mohamad-reza]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/978753-mohamad-reza" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 13 Jul 2008 07:53:32 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/9430</guid>
+		<pubDate>Sun, 13 Jul 2008 07:53:32 -0700</pubDate>
+		<title>
+			<![CDATA[Mohamad reza add a quote by دکتر شریعتی]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9430]]>
+		</link>
+		<description>
+	    <![CDATA["وقتی که دیگر نبود 
+من به بودنش نیازمند شدم
+وقتی که دیگر رفت
+من به انتظار آمدنش نشستم
+وقتی که دیگر نمی توانست  مرا دوست بدارد
+من او را دوست داشتم
+وقتی او تمام کرد
+من شروع کردم
+وقتی او تمام شد من آغاز  شدم
+و چه سخت است
+تنها متولد شدن
+مثل تنها زندگی کردن است
+مثل تنها مردن است" -- دکتر شریعتی]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

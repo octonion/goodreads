@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/58305-supriyo-chaudhuri]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/58305-supriyo-chaudhuri" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 25 Jun 2013 09:38:46 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/15363-the-soul-of-wit-may-become-the-very-body-of</guid>
+		<pubDate>Tue, 25 Jun 2013 09:38:46 -0700</pubDate>
+		<title>
+			<![CDATA[Supriyo add a quote by Aldous Huxley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/15363-the-soul-of-wit-may-become-the-very-body-of]]>
+		</link>
+		<description>
+	    <![CDATA["The soul of wit may become the very body of untruth. However elegant and memorable, brevity can never, in the nature of things, do justice to all the facts of a complex situations. On such a theme one can be brief only by omission and simplification. Omission and simplification help us to understand - but help is, in many cases, to understand the wrong thing; for our comprehension may be only of the abbreviator's neatly formulated notions, not of the vast, ramifying reality from which these notions have been so arbitrarily abstracted." -- Aldous Huxley]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

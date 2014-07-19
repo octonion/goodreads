@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/981439-jk]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/981439-jk" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 28 Oct 2008 21:49:50 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/54406-at-no-other-time-than-autumn-does-the-earth-let</guid>
+		<pubDate>Tue, 28 Oct 2008 21:49:50 -0700</pubDate>
+		<title>
+			<![CDATA[JK  add a quote by Rainer Maria Rilke]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/54406-at-no-other-time-than-autumn-does-the-earth-let]]>
+		</link>
+		<description>
+	    <![CDATA["At no other time (than autumn) does the earth let itself be inhaled in one smell, the ripe earth; in a smell that is in no way inferior to the smell of the sea, bitter where it borders on taste, and more honeysweet where you feel it touching the first sounds.  Containing depth within itself, darkness, something of the grave almost." -- Rainer Maria Rilke]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/161677-there-is-no-such-thing-as-an-artist-there-is</guid>
+		<pubDate>Wed, 13 May 2009 21:14:47 -0700</pubDate>
+		<title>
+			<![CDATA[JK  add a quote by Annie Dillard]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/161677-there-is-no-such-thing-as-an-artist-there-is]]>
+		</link>
+		<description>
+	    <![CDATA["There is no such thing as an artist: there is only the world lit or unlit as the light allows. When the candle is burning, who looks at the wick? When the candle is out, who needs it?" -- Annie Dillard]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

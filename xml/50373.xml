@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/50373-amanda]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/50373-amanda" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 15 Jul 2012 16:29:00 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/588974-i-believe-in-aristocracy-if-that-is</guid>
+		<pubDate>Sun, 15 Jul 2012 16:29:00 -0700</pubDate>
+		<title>
+			<![CDATA[amanda add a quote by E. M. Forster]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/588974-i-believe-in-aristocracy-if-that-is]]>
+		</link>
+		<description>
+	    <![CDATA["I believe in aristocracy. . . — if that is the right word, and if a democrat may use it. Not an aristocracy of power, based upon rank and influence, but an aristocracy of the sensitive, the considerate and the plucky. Its members are to be found in all nations and classes, and all through the ages, and there is a secret understanding between them when they meet. They represent the true human tradition, the one permanent victory of our queer race over cruelty and chaos." -- E. M. Forster]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

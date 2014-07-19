@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/943177-najethassan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/943177-najethassan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 28 Apr 2008 07:00:48 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/20193-knock-and-he-ll-open-the-door-vanish-and-he-ll-make</guid>
+		<pubDate>Mon, 28 Apr 2008 07:00:48 -0700</pubDate>
+		<title>
+			<![CDATA[Najethassan add a quote by Jalal Ad-Din Rumi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20193-knock-and-he-ll-open-the-door-vanish-and-he-ll-make]]>
+		</link>
+		<description>
+	    <![CDATA["Knock, And He'll open the door
+Vanish, And He'll make you shine like the sun
+Fall, And He'll raise you to the heavens
+Become nothing, And He'll turn you into everything." -- Jalal Ad-Din Rumi]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/32751-god-has-no-religion</guid>
+		<pubDate>Mon, 28 Apr 2008 07:02:17 -0700</pubDate>
+		<title>
+			<![CDATA[Najethassan add a quote by Mahatma Gandhi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/32751-god-has-no-religion]]>
+		</link>
+		<description>
+	    <![CDATA["God has no religion." -- Mahatma Gandhi]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

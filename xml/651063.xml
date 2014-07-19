@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/651063-beth]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/651063-beth" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 21 Jun 2013 07:42:09 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/829549-i-was-in-nashville-tennesee-last-year-after-the-show</guid>
+		<pubDate>Fri, 21 Jun 2013 07:42:09 -0700</pubDate>
+		<title>
+			<![CDATA[Beth add a quote by Bill Hicks]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/829549-i-was-in-nashville-tennesee-last-year-after-the-show]]>
+		</link>
+		<description>
+	    <![CDATA["I was in Nashville, Tennesee last year. After the show I went to a Waffle House. I'm not proud of it, I was hungry. And I'm alone, I'm eating and I'm reading a book, right? Waitress walks over to me: 'Hey, whatcha readin' for?' Isn't that the weirdest fuckin' question you've ever heard? Not what am I reading, but what am I reading FOR? Well, godammit, ya stumped me! Why do I read? Well . . . hmmm . . . I dunno . . . I guess I read for a lot of reasons and the main one is so I don't end up being a fuckin' waffle waitress." -- Bill Hicks]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

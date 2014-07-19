@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/249115-chris-turek]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/249115-chris-turek" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 11 Jun 2014 10:59:59 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/240847-i-don-t-wanna-take-my-time-going-to-work-i</guid>
+		<pubDate>Wed, 11 Jun 2014 10:59:59 -0700</pubDate>
+		<title>
+			<![CDATA[Chris add a quote by Charles Manson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/240847-i-don-t-wanna-take-my-time-going-to-work-i]]>
+		</link>
+		<description>
+	    <![CDATA["I don't wanna take my time going to work, I got a motorcycle and a sleeping bag and ten or fifteen girls. What the hell I wanna go off and go to work for? Work for what? Money? I got all the money in the world. I'm the king, man. I run the underworld, guy. I decide who does what and where they do it at. What am I gonna run around like some teeny bopper somewhere for someone elses money? I make the money man, I roll the nickels. The game is mine. I deal the cards" -- Charles Manson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

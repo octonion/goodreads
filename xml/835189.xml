@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/835189-randy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/835189-randy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 02 Feb 2008 10:18:34 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/20610-praise-not-the-day-until-evening-has-come-a-woman</guid>
+		<pubDate>Sat, 02 Feb 2008 10:18:34 -0800</pubDate>
+		<title>
+			<![CDATA[Randy add a quote by Michael Crichton]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20610-praise-not-the-day-until-evening-has-come-a-woman]]>
+		</link>
+		<description>
+	    <![CDATA["Praise not the day until evening has come, a woman until she is burnt, a sword until it is tried, a maiden until she is married, ice until it has been crossed, beer until it has been drunk." -- Michael Crichton]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/51105-i-don-t-trust-people-with-empty-stomach-breath-to-tell-me</guid>
+		<pubDate>Sun, 04 May 2008 04:33:42 -0700</pubDate>
+		<title>
+			<![CDATA[Randy add a quote by Tracie Egan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/51105-i-don-t-trust-people-with-empty-stomach-breath-to-tell-me]]>
+		</link>
+		<description>
+	    <![CDATA["I don’t trust people with empty-stomach breath to tell me what taste is." -- Tracie Egan]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

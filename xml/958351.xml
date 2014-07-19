@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/958351-julie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/958351-julie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 08 Jun 2008 12:51:07 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/24673-if-you-can-dream-it-you-can-do-it-always</guid>
+		<pubDate>Sun, 08 Jun 2008 12:51:07 -0700</pubDate>
+		<title>
+			<![CDATA[Julie add a quote by Walt Disney]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/24673-if-you-can-dream-it-you-can-do-it-always]]>
+		</link>
+		<description>
+	    <![CDATA["If you can dream it, you can do it. Always remember that this whole thing was started with a dream and a mouse." -- Walt Disney]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/999386-jazzy-teigman]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/999386-jazzy-teigman" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 22 May 2008 07:11:28 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/53702-for-god-so-loved-the-world-that-he-gave-his</guid>
+		<pubDate>Thu, 22 May 2008 07:11:28 -0700</pubDate>
+		<title>
+			<![CDATA[Jazzy add a quote by John 3:15 - 16]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/53702-for-god-so-loved-the-world-that-he-gave-his]]>
+		</link>
+		<description>
+	    <![CDATA["For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.
+
+For God did not send his Son into the world to condemn the world, but to save the world through him." -- John 3:15 - 16]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

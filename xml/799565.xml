@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/799565-jacqueline-zider]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/799565-jacqueline-zider" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 22 Mar 2010 05:42:44 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/242283-you-have-to-want-it-want-it-so-bad-you</guid>
+		<pubDate>Mon, 22 Mar 2010 05:42:44 -0700</pubDate>
+		<title>
+			<![CDATA[Jacqueline add a quote by David Shenk]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/242283-you-have-to-want-it-want-it-so-bad-you]]>
+		</link>
+		<description>
+	    <![CDATA["You have to want it, want it so bad you will never give up, so bad that you are ready to sacrifice time, money, sleep, friendships, even your reputation,” he writes. “You will have to adopt a particular lifestyle of ambition, not just for a few weeks or months but for years and years and years. You have to want it so bad that you are not only ready to fail, but you actually want to experience failure: revel in it, learn from it." -- David Shenk]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

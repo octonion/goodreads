@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/806150-jack]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/806150-jack" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 15 Oct 2008 17:15:26 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/52116-the-idea-that-bill-gates-has-appeared-like-a-knight</guid>
+		<pubDate>Wed, 15 Oct 2008 17:15:26 -0700</pubDate>
+		<title>
+			<![CDATA[Jack add a quote by Douglas Adams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/52116-the-idea-that-bill-gates-has-appeared-like-a-knight]]>
+		</link>
+		<description>
+	    <![CDATA["The idea that Bill Gates has appeared like a knight in shining armor to lead all customers out of a mire of technological chaos neatly ignores the fact that it was he who, by peddling second-rate technology, led them into it in the first place." -- Douglas Adams]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/31144-i-think-fish-is-nice-but-then-i-think-that</guid>
+		<pubDate>Wed, 15 Oct 2008 17:15:40 -0700</pubDate>
+		<title>
+			<![CDATA[Jack add a quote by Douglas Adams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/31144-i-think-fish-is-nice-but-then-i-think-that]]>
+		</link>
+		<description>
+	    <![CDATA["I think fish is nice, but then I think that rain is wet, so who am I to judge?" -- Douglas Adams]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/964349-brett-baca]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/964349-brett-baca" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 28 Apr 2008 17:18:45 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/49437-i-knew-every-raindrop-by-its-name</guid>
+		<pubDate>Mon, 28 Apr 2008 17:18:45 -0700</pubDate>
+		<title>
+			<![CDATA[Brett add a quote by Denis Johnson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/49437-i-knew-every-raindrop-by-its-name]]>
+		</link>
+		<description>
+	    <![CDATA["I knew every raindrop by its name." -- Denis Johnson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1104-the-doctor-peeked-into-the-trauma-room-and-saw-the</guid>
+		<pubDate>Mon, 28 Apr 2008 17:21:28 -0700</pubDate>
+		<title>
+			<![CDATA[Brett add a quote by Denis Johnson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1104-the-doctor-peeked-into-the-trauma-room-and-saw-the]]>
+		</link>
+		<description>
+	    <![CDATA["[The doctor] peeked into the trauma room and saw the situation: the clerk - that is, me - standing next to the orderly, Georgie, both of us on drugs, looking down at a patient with a knife sticking up out of his face. 
+
+'What seems to be the trouble?' he asked." -- Denis Johnson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1037969-jen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1037969-jen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 27 Aug 2010 06:26:57 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/291409-i-esteem-myself-happy-to-have-as-great-an-ally</guid>
+		<pubDate>Fri, 27 Aug 2010 06:26:57 -0700</pubDate>
+		<title>
+			<![CDATA[Jen add a quote by Galileo Galilei]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/291409-i-esteem-myself-happy-to-have-as-great-an-ally]]>
+		</link>
+		<description>
+	    <![CDATA["I esteem myself happy to have as great an ally as [author:you|79396] in my search for truth. I will read [author:your|79396] work ... all the more willingly because I have for many years been a partisan of the [author:Copernican|3072638] view because it reveals to me the causes of many natural phenomena that are entirely incomprehensible in the light of the generally accepted hypothesis. To refute the latter I have collected many proofs, but I do not publish them, because I am deterred by the fate of our teacher [author:Copernicus|3072638] who, although he had won immortal fame with a few, was ridiculed and condemned by countless people (for very great is the number of the stupid).
+
+{&lt;i&gt;Letter to fellow revolutionary astronomer [author:Johannes Kepelr|79396]&lt;/i&gt;}" -- Galileo Galilei]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

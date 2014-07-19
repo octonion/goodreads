@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/829826-mindmuse]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/829826-mindmuse" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 31 May 2010 03:35:29 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/242598-if-the-u-s-foreign-policy-results-in-massive-death-and</guid>
+		<pubDate>Mon, 31 May 2010 03:35:29 -0700</pubDate>
+		<title>
+			<![CDATA[mindmuse add a quote by Ward Churchill]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/242598-if-the-u-s-foreign-policy-results-in-massive-death-and]]>
+		</link>
+		<description>
+	    <![CDATA["If the U.S. foreign policy results in massive death and destruction abroad, they cannot feign innocence when some of that destruction is returned. On 9/11/2001, Americans noticed that payback can be a real motherfucker." -- Ward Churchill]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/242605-you-say-it-s-dark-and-in-truth-i-did-place</guid>
+		<pubDate>Tue, 23 Mar 2010 05:41:18 -0700</pubDate>
+		<title>
+			<![CDATA[mindmuse add a quote by Friedrich Nietzsche]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/242605-you-say-it-s-dark-and-in-truth-i-did-place]]>
+		</link>
+		<description>
+	    <![CDATA["You say, it's dark. And in truth, I did place a cloud before your sun. But do you not see how the edges of the cloud are already glowing and turning light." -- Friedrich Nietzsche]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4623-i-am-not-young-enough-to-know-everything</guid>
+		<pubDate>Tue, 23 Mar 2010 05:59:03 -0700</pubDate>
+		<title>
+			<![CDATA[mindmuse add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4623-i-am-not-young-enough-to-know-everything]]>
+		</link>
+		<description>
+	    <![CDATA["I am not young enough to know everything." -- Oscar Wilde]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

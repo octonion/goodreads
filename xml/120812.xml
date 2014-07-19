@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/120812-brian]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/120812-brian" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 06 Jul 2011 06:04:35 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/26445-it-is-more-important-that-innocence-be-protected-than-it</guid>
+		<pubDate>Wed, 06 Jul 2011 06:04:35 -0700</pubDate>
+		<title>
+			<![CDATA[Brian add a quote by John Adams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/26445-it-is-more-important-that-innocence-be-protected-than-it]]>
+		</link>
+		<description>
+	    <![CDATA["It is more important that innocence be protected than it is that guilt be punished, for guilt and crimes are so frequent in this world that they cannot all be punished.
+
+But if innocence itself is brought to the bar and condemned, perhaps to die, then the citizen will say, 'whether I do good or whether I do evil is immaterial, for innocence itself is no protection,' and if such an idea as that were to take hold in the mind of the citizen that would be the end of security whatsoever." -- John Adams]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

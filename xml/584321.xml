@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/584321-kristopher]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/584321-kristopher" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 16 May 2012 11:05:53 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/554818-be-a-philosopher-but-amid-all-your-philosophy-be-still</guid>
+		<pubDate>Wed, 16 May 2012 11:05:53 -0700</pubDate>
+		<title>
+			<![CDATA[Kristopher add a quote by David Hume]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/554818-be-a-philosopher-but-amid-all-your-philosophy-be-still]]>
+		</link>
+		<description>
+	    <![CDATA["Be a philosopher, but amid all your philosophy be still a man." -- David Hume]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/168587-i-d-rather-have-a-bottle-in-front-of-me-than</guid>
+		<pubDate>Wed, 16 May 2012 11:08:29 -0700</pubDate>
+		<title>
+			<![CDATA[Kristopher add a quote by Tom Waits]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/168587-i-d-rather-have-a-bottle-in-front-of-me-than]]>
+		</link>
+		<description>
+	    <![CDATA["I'd rather have a bottle in front of me than a frontal lobotomy." -- Tom Waits]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/554823-why-are-these-historical-observations-interesting-they-suggest-that-we-should</guid>
+		<pubDate>Wed, 16 May 2012 11:11:30 -0700</pubDate>
+		<title>
+			<![CDATA[Kristopher add a quote by Daniel Garber]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/554823-why-are-these-historical-observations-interesting-they-suggest-that-we-should]]>
+		</link>
+		<description>
+	    <![CDATA["Why are these historical observations interesting?...they suggest that we should be careful about attributing our distinction between philosophy and science to earlier thinkers…The examples I have given do raise an interesting question: Why is it that we tend to see such a radical break between philosophy and science, and, more important, should we? The question can be raised directly, without the need for history, as Quine has done. But history brings the point home in an especially clear way: It shows us an assumption we take for granted by pointing out that it is not an assumption everyone makes." -- Daniel Garber]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

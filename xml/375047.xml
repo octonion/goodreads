@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/375047-beth]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/375047-beth" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 21 Aug 2010 13:55:59 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/101458-everybody-is-a-genius-but-if-you-judge-a-fish</guid>
+		<pubDate>Sat, 21 Aug 2010 13:55:59 -0700</pubDate>
+		<title>
+			<![CDATA[Beth add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/101458-everybody-is-a-genius-but-if-you-judge-a-fish]]>
+		</link>
+		<description>
+	    <![CDATA["Everybody is a genius.  But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid." -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/7090-the-intuitive-mind-is-a-sacred-gift-and-the-rational</guid>
+		<pubDate>Sat, 21 Aug 2010 13:56:53 -0700</pubDate>
+		<title>
+			<![CDATA[Beth add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7090-the-intuitive-mind-is-a-sacred-gift-and-the-rational]]>
+		</link>
+		<description>
+	    <![CDATA["The intuitive mind is a sacred gift and the rational mind is a faithful servant. We have created a society that honors the servant and has forgotten the gift." -- Albert Einstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/110518-if-at-first-the-idea-is-not-absurd-then-there</guid>
+		<pubDate>Sat, 21 Aug 2010 14:04:45 -0700</pubDate>
+		<title>
+			<![CDATA[Beth add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/110518-if-at-first-the-idea-is-not-absurd-then-there]]>
+		</link>
+		<description>
+	    <![CDATA["If at first the idea is not absurd, then there is no hope for it." -- Albert Einstein]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

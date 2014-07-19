@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/573390-geoamy3-grob]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/573390-geoamy3-grob" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 15 Nov 2008 08:19:46 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/11631-well-behaved-women-seldom-make-history</guid>
+		<pubDate>Sat, 15 Nov 2008 08:19:46 -0800</pubDate>
+		<title>
+			<![CDATA[Geoamy3 add a quote by Laurel Thatcher Ulrich]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11631-well-behaved-women-seldom-make-history]]>
+		</link>
+		<description>
+	    <![CDATA["Well-behaved women seldom make history." -- Laurel Thatcher Ulrich]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2279-being-deeply-loved-by-someone-gives-you-strength-while-loving</guid>
+		<pubDate>Sun, 29 Jun 2008 10:50:08 -0700</pubDate>
+		<title>
+			<![CDATA[Geoamy3 add a quote by Lao Tzu]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2279-being-deeply-loved-by-someone-gives-you-strength-while-loving]]>
+		</link>
+		<description>
+	    <![CDATA["Being deeply loved by someone gives you strength, while loving someone deeply gives you courage." -- Lao Tzu]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/100178-there-s-no-need-to-talk-about-it-because-the-truth</guid>
+		<pubDate>Wed, 24 Jun 2009 19:55:25 -0700</pubDate>
+		<title>
+			<![CDATA[Geoamy3 add a quote by Bernhard Schlink]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/100178-there-s-no-need-to-talk-about-it-because-the-truth]]>
+		</link>
+		<description>
+	    <![CDATA["There's no need to talk about it, because the truth of what one says lies in what one does." -- Bernhard Schlink]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

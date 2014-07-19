@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1092346-ashley]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1092346-ashley" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 24 May 2008 13:19:10 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/258-in-three-words-i-can-sum-up-everything-i-ve-learned</guid>
+		<pubDate>Sat, 24 May 2008 13:19:10 -0700</pubDate>
+		<title>
+			<![CDATA[Ashley add a quote by Robert Frost]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/258-in-three-words-i-can-sum-up-everything-i-ve-learned]]>
+		</link>
+		<description>
+	    <![CDATA["In three words I can sum up everything I've learned about life: it goes on." -- Robert Frost]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/10037-yes-death-death-must-be-so-beautiful-to-lie-in</guid>
+		<pubDate>Sat, 24 May 2008 13:20:41 -0700</pubDate>
+		<title>
+			<![CDATA[Ashley add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10037-yes-death-death-must-be-so-beautiful-to-lie-in]]>
+		</link>
+		<description>
+	    <![CDATA["Yes, death. Death must be so beautiful. To lie in the soft brown earth, with the grasses waving above one's head, and listen to silence. To have no yesterday, and no to-morrow. To forget time, to forget life, to be at peace. You can help me. You can open for me the portals of death's house, for love is always with you, and love is stronger than death is." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2389-life-is-pleasant-death-is-peaceful-it-s-the-transition-that-s</guid>
+		<pubDate>Sat, 24 May 2008 13:21:06 -0700</pubDate>
+		<title>
+			<![CDATA[Ashley add a quote by Isaac Asimov]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2389-life-is-pleasant-death-is-peaceful-it-s-the-transition-that-s]]>
+		</link>
+		<description>
+	    <![CDATA["Life is pleasant. Death is peaceful. It's the transition that's troublesome." -- Isaac Asimov]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

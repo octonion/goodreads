@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/284191-holmes-holmes]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/284191-holmes-holmes" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 13 May 2014 07:09:42 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/187950-forgiveness-is-a-strange-thing-it-can-sometimes-be-easier</guid>
+		<pubDate>Tue, 13 May 2014 07:09:42 -0700</pubDate>
+		<title>
+			<![CDATA[Holmes! add a quote by Fred Rogers]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/187950-forgiveness-is-a-strange-thing-it-can-sometimes-be-easier]]>
+		</link>
+		<description>
+	    <![CDATA["Forgiveness is a strange thing. It can sometimes be easier to forgive our enemies than our friends. It can be hardest of all to forgive people we love. Like all of life's important coping skills, the ability to forgive and the capacity to let go of resentments most likely take root very early in our lives." -- Fred Rogers]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

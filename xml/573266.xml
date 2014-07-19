@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/573266-melanie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/573266-melanie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 14 Jun 2008 20:12:08 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/15197-a-kiss-about-apple-pie-a-la-mode-with-the</guid>
+		<pubDate>Sat, 14 Jun 2008 20:12:08 -0700</pubDate>
+		<title>
+			<![CDATA[Melanie add a quote by Francesca Lia Block]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/15197-a-kiss-about-apple-pie-a-la-mode-with-the]]>
+		</link>
+		<description>
+	    <![CDATA["A kiss about apple pie a la mode with the vanilla creaminess melting in the pie heat. A kiss about chocolate, when you haven't eaten chocolate in a year. A kiss about palm trees speeding by, trailing pink clouds when you drive down the Strip sizzling with champagne. A kiss about spotlights fanning the sky and the swollen sea spilling like tears all over your legs." -- Francesca Lia Block]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

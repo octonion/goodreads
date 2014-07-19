@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/929238-hbalikov]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/929238-hbalikov" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 18 Jul 2011 02:02:59 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3356-i-like-nonsense-it-wakes-up-the-brain-cells-fantasy</guid>
+		<pubDate>Mon, 18 Jul 2011 02:02:59 -0700</pubDate>
+		<title>
+			<![CDATA[HBalikov add a quote by Dr. Seuss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3356-i-like-nonsense-it-wakes-up-the-brain-cells-fantasy]]>
+		</link>
+		<description>
+	    <![CDATA["I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living." -- Dr. Seuss]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/168344-when-we-are-young-the-words-are-scattered-all-around</guid>
+		<pubDate>Wed, 04 Jun 2014 05:07:56 -0700</pubDate>
+		<title>
+			<![CDATA[HBalikov add a quote by Louise Erdrich]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/168344-when-we-are-young-the-words-are-scattered-all-around]]>
+		</link>
+		<description>
+	    <![CDATA["When we are young, the words are scattered all around us. As they are assembled by experience, so also are we, sentence by sentence, until the story takes shape." -- Louise Erdrich]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

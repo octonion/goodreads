@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/870694-ltbmta]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/870694-ltbmta" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 17 May 2008 23:08:55 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/13715-some-books-should-be-tasted-some-devoured-but-only-a</guid>
+		<pubDate>Sat, 17 May 2008 23:08:55 -0700</pubDate>
+		<title>
+			<![CDATA[LTBMTA add a quote by Sir Francis Bacon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13715-some-books-should-be-tasted-some-devoured-but-only-a]]>
+		</link>
+		<description>
+	    <![CDATA["Some books should be tasted, some devoured, but only a few should be chewed and digested thoroughly." -- Sir Francis Bacon]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/13343-the-truth-will-make-you-odd</guid>
+		<pubDate>Sat, 17 May 2008 23:12:04 -0700</pubDate>
+		<title>
+			<![CDATA[LTBMTA add a quote by Judy Blume]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13343-the-truth-will-make-you-odd]]>
+		</link>
+		<description>
+	    <![CDATA["The truth will make you odd." -- Judy Blume]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/51867-they-would-all-be-sorry-particularly-the-duck</guid>
+		<pubDate>Sat, 17 May 2008 23:12:45 -0700</pubDate>
+		<title>
+			<![CDATA[LTBMTA add a quote by Angie Sage]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/51867-they-would-all-be-sorry-particularly-the-duck]]>
+		</link>
+		<description>
+	    <![CDATA["They would all be sorry... particularly the duck." -- Angie Sage]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

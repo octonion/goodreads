@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/360695-jason-hammack]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/360695-jason-hammack" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 19 Jan 2013 20:54:14 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/464871-fear-is-the-thief-of-dreams</guid>
+		<pubDate>Sat, 19 Jan 2013 20:54:14 -0800</pubDate>
+		<title>
+			<![CDATA[Jason add a quote by Brian Krans]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/464871-fear-is-the-thief-of-dreams]]>
+		</link>
+		<description>
+	    <![CDATA["Fear is the thief of dreams." -- Brian Krans]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3858-how-happy-is-the-blameless-vestal-s-lot-the-world-forgetting</guid>
+		<pubDate>Tue, 09 Jul 2013 05:34:46 -0700</pubDate>
+		<title>
+			<![CDATA[Jason add a quote by Alexander Pope]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3858-how-happy-is-the-blameless-vestal-s-lot-the-world-forgetting]]>
+		</link>
+		<description>
+	    <![CDATA["How happy is the blameless vestal’s lot!
+The world forgetting, by the world forgot.
+Eternal sunshine of the spotless mind!
+Each pray’r accepted, and each wish resign’d" -- Alexander Pope]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

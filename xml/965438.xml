@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/965438-mindie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/965438-mindie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 12 Dec 2010 14:21:48 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/13719-we-are-what-we-pretend-to-be-so-we-must</guid>
+		<pubDate>Sun, 12 Dec 2010 14:21:48 -0800</pubDate>
+		<title>
+			<![CDATA[Mindie add a quote by Kurt Vonnegut]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13719-we-are-what-we-pretend-to-be-so-we-must]]>
+		</link>
+		<description>
+	    <![CDATA["We are what we pretend to be, so we must be careful about what we pretend to be." -- Kurt Vonnegut]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2792-and-so-it-goes</guid>
+		<pubDate>Sun, 12 Dec 2010 14:21:57 -0800</pubDate>
+		<title>
+			<![CDATA[Mindie add a quote by Kurt Vonnegut]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2792-and-so-it-goes]]>
+		</link>
+		<description>
+	    <![CDATA["And so it goes..." -- Kurt Vonnegut]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/244442-to-practice-any-art-no-matter-how-well-or-badly</guid>
+		<pubDate>Sun, 12 Dec 2010 14:22:54 -0800</pubDate>
+		<title>
+			<![CDATA[Mindie add a quote by Kurt Vonnegut]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/244442-to-practice-any-art-no-matter-how-well-or-badly]]>
+		</link>
+		<description>
+	    <![CDATA["To practice any art, no matter how well or badly, is a way to make your soul grow. So do it." -- Kurt Vonnegut]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/705211-rebekah]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/705211-rebekah" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 08 Apr 2008 18:39:57 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/17957-i-am-very-careful-to-be-shallow-and-conventional-where</guid>
+		<pubDate>Tue, 08 Apr 2008 18:39:57 -0700</pubDate>
+		<title>
+			<![CDATA[Rebekah add a quote by Lucy Maud Montgomery]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17957-i-am-very-careful-to-be-shallow-and-conventional-where]]>
+		</link>
+		<description>
+	    <![CDATA["I am very careful to be shallow and conventional where depth and originality are wasted." -- Lucy Maud Montgomery]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/56449-i-am-enclosing-two-tickets-to-the-first-night-of</guid>
+		<pubDate>Fri, 07 Sep 2012 21:47:30 -0700</pubDate>
+		<title>
+			<![CDATA[Rebekah add a quote by George Bernard Shaw]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/56449-i-am-enclosing-two-tickets-to-the-first-night-of]]>
+		</link>
+		<description>
+	    <![CDATA["I am enclosing two tickets to the first night of my new play; bring a friend ... if you have one.&quot;
+&lt;i&gt;— George Bernard Shaw, playwright (to Winston Churchill)&lt;/i&gt;
+
+&quot;Cannot possibly attend first night; will attend second, if there is one.&quot;
+&lt;i&gt;— Churchill's response&lt;/i&gt;" -- George Bernard Shaw]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

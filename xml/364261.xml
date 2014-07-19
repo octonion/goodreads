@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/364261-grace]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/364261-grace" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 19 Nov 2012 17:49:38 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/8308-thou-hast-made-us-for-thyself-o-lord-and-our</guid>
+		<pubDate>Mon, 19 Nov 2012 17:49:38 -0800</pubDate>
+		<title>
+			<![CDATA[Grace add a quote by Augustine of Hippo]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8308-thou-hast-made-us-for-thyself-o-lord-and-our]]>
+		</link>
+		<description>
+	    <![CDATA["Thou hast made us for thyself, O Lord, and our heart is restless until it finds its rest in thee." -- Augustine of Hippo]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

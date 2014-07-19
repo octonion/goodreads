@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/772200-janice]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/772200-janice" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 11 Jan 2008 16:21:42 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/12540-think-of-me-if-you-will-as-the-lady-of</guid>
+		<pubDate>Fri, 11 Jan 2008 16:21:42 -0800</pubDate>
+		<title>
+			<![CDATA[Janice add a quote by A.S. Byatt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12540-think-of-me-if-you-will-as-the-lady-of]]>
+		</link>
+		<description>
+	    <![CDATA["Think of me if you will as the Lady of Shalott . . . who chooses to watch diligently the bright colours of her Web - to ply an industrious shuttle - to make - something - to close the Shutters and the Peephole too -" -- A.S. Byatt]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/23390-he-felt-himself-entering-a-moment-so</guid>
+		<pubDate>Sat, 09 Feb 2008 16:17:48 -0800</pubDate>
+		<title>
+			<![CDATA[Janice add a quote by Michael Cunningham]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/23390-he-felt-himself-entering-a-moment-so]]>
+		</link>
+		<description>
+	    <![CDATA[". . . he felt himself entering a moment so real he could only run toward it, shouting." -- Michael Cunningham]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

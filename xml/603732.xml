@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/603732-haley]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/603732-haley" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 07 Aug 2013 17:06:12 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/794635-none-of-would-ve-made-it-alone-john-once-explained-because</guid>
+		<pubDate>Wed, 07 Aug 2013 17:06:12 -0700</pubDate>
+		<title>
+			<![CDATA[Haley add a quote by Jonathan Cott]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/794635-none-of-would-ve-made-it-alone-john-once-explained-because]]>
+		</link>
+		<description>
+	    <![CDATA["None of would've made it alone&quot; John once explained, &quot;because Paul wasn't strong enough, I didn't have enough girl-appeal, George was too quiet, and Ringo was the drummer. But we thought everyone would be able to dig at least one of us, and that's how it turned out." -- Jonathan Cott]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

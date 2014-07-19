@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1090522-jody]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1090522-jody" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 26 Aug 2011 19:29:17 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/25512-never-forget-that-once-upon-a-time-in-an-unguarded</guid>
+		<pubDate>Fri, 26 Aug 2011 19:29:17 -0700</pubDate>
+		<title>
+			<![CDATA[Jody add a quote by Elizabeth Gilbert]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/25512-never-forget-that-once-upon-a-time-in-an-unguarded]]>
+		</link>
+		<description>
+	    <![CDATA["Never forget that once upon a time, in an unguarded moment, you recognized yourself as a friend." -- Elizabeth Gilbert]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/438388-she-was-a-great-cook-but-she-cooked-more-for</guid>
+		<pubDate>Mon, 19 Sep 2011 20:18:03 -0700</pubDate>
+		<title>
+			<![CDATA[Jody add a quote by Ruth Reichl]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/438388-she-was-a-great-cook-but-she-cooked-more-for]]>
+		</link>
+		<description>
+	    <![CDATA["She was a great cook, but she cooked more for herself than for other people, not because she was hungry but because she was comforted by the rituals of the kitchen." -- Ruth Reichl]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

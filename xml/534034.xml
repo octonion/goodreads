@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/534034-sharon-murphy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/534034-sharon-murphy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 10 Aug 2012 05:42:07 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/601361-fortune-is-not-on-the-side-of-the-faint-hearted</guid>
+		<pubDate>Fri, 10 Aug 2012 05:42:07 -0700</pubDate>
+		<title>
+			<![CDATA[Sharon add a quote by Sophocles]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/601361-fortune-is-not-on-the-side-of-the-faint-hearted]]>
+		</link>
+		<description>
+	    <![CDATA["Fortune is not on the side of the faint-hearted." -- Sophocles]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/10722-i-love-you-as-certain-dark-things-are-to-be</guid>
+		<pubDate>Mon, 13 Aug 2012 03:37:48 -0700</pubDate>
+		<title>
+			<![CDATA[Sharon add a quote by Pablo Neruda]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10722-i-love-you-as-certain-dark-things-are-to-be]]>
+		</link>
+		<description>
+	    <![CDATA["I love you as certain dark things are to be loved, 
+in secret, between the shadow and the soul." -- Pablo Neruda]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/59273-i-distrust-those-people-who-know-so-well-what-god</guid>
+		<pubDate>Wed, 09 Jan 2013 06:38:35 -0800</pubDate>
+		<title>
+			<![CDATA[Sharon add a quote by Susan B. Anthony]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/59273-i-distrust-those-people-who-know-so-well-what-god]]>
+		</link>
+		<description>
+	    <![CDATA["I distrust those people who know so well what God wants them to do because I notice it always coincides with their own desires." -- Susan B. Anthony]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

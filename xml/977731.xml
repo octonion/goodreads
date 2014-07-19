@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/977731-jen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/977731-jen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 09 Mar 2008 06:03:33 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1448-you-realize-that-our-mistrust-of-the-future-makes-it</guid>
+		<pubDate>Sun, 09 Mar 2008 06:03:33 -0700</pubDate>
+		<title>
+			<![CDATA[Jen add a quote by Chuck Palahniuk]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1448-you-realize-that-our-mistrust-of-the-future-makes-it]]>
+		</link>
+		<description>
+	    <![CDATA["You realize that our mistrust of the future makes it hard to give up the past." -- Chuck Palahniuk]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2061-life-shrinks-or-expands-in-proportion-to-one-s-courage</guid>
+		<pubDate>Sun, 09 Mar 2008 06:05:46 -0700</pubDate>
+		<title>
+			<![CDATA[Jen add a quote by Anais Nin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2061-life-shrinks-or-expands-in-proportion-to-one-s-courage]]>
+		</link>
+		<description>
+	    <![CDATA["Life shrinks or expands in proportion to one's courage." -- Anais Nin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

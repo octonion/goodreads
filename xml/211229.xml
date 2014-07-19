@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/211229-kraken]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/211229-kraken" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 29 Aug 2009 06:47:06 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/11664-my-candle-burns-at-both-ends-it-will-not-last</guid>
+		<pubDate>Sat, 29 Aug 2009 06:47:06 -0700</pubDate>
+		<title>
+			<![CDATA[KRaKen add a quote by Edna St. Vincent Millay]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11664-my-candle-burns-at-both-ends-it-will-not-last]]>
+		</link>
+		<description>
+	    <![CDATA["My candle burns at both ends;
+It will not last the night;
+But ah, my foes, and oh, my friends—
+It gives a lovely light!" -- Edna St. Vincent Millay]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/7040-a-good-friend-will-always-stab-you-in-the-front</guid>
+		<pubDate>Wed, 07 Sep 2011 03:41:03 -0700</pubDate>
+		<title>
+			<![CDATA[KRaKen add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7040-a-good-friend-will-always-stab-you-in-the-front]]>
+		</link>
+		<description>
+	    <![CDATA["A good friend will always stab you in the front." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/53486-all-the-secrets-of-the-world-are-contained-in-books</guid>
+		<pubDate>Wed, 07 Sep 2011 03:42:36 -0700</pubDate>
+		<title>
+			<![CDATA[KRaKen add a quote by Lemony Snicket]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/53486-all-the-secrets-of-the-world-are-contained-in-books]]>
+		</link>
+		<description>
+	    <![CDATA["All the secrets of the world are contained in books. Read at your own risk." -- Lemony Snicket]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/213168-you-cut-up-a-thing-that-s-alive-and-beautiful-to</guid>
+		<pubDate>Wed, 07 Sep 2011 03:44:02 -0700</pubDate>
+		<title>
+			<![CDATA[KRaKen add a quote by Clive Barker]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/213168-you-cut-up-a-thing-that-s-alive-and-beautiful-to]]>
+		</link>
+		<description>
+	    <![CDATA["You cut up a thing that's alive and beautiful to find out how it's alive and why it's beautiful, and before you know it, it's neither of those things, and you're standing there with blood on your face and tears in your sight and only the terrible ache of guilt to show for it." -- Clive Barker]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

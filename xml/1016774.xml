@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1016774-margie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1016774-margie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 13 Jul 2013 18:37:50 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/822086-there-is-something-ironic-in-prejudice-against-the-disabled-and</guid>
+		<pubDate>Sat, 13 Jul 2013 18:37:50 -0700</pubDate>
+		<title>
+			<![CDATA[Margie add a quote by Andrew Solomon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/822086-there-is-something-ironic-in-prejudice-against-the-disabled-and]]>
+		</link>
+		<description>
+	    <![CDATA["There is something ironic in prejudice against the disabled and their families, because their plight might befall anybody. Straight men are unlikely to wake up gay one morning, and white children don't become black; but any of us could be disabled in an instant. People with disabilities make up the largest minority in America; they constitute 15 percent of the population, though only 15 percent of those were born with their disability and about a third are over sixty-five. Worldwide, some 550 million people are disabled. The disability-rights scholar Tobin Siebers has written, &quot;The cycle of life runs in actuality from disability to temporary ability back to disablity, and that only if you are among the most fortunate." -- Andrew Solomon]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

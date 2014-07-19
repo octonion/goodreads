@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/311367-iris]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/311367-iris" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 23 Aug 2011 11:52:01 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/36344-one-word-frees-us-of-all-the-weight-and-pain</guid>
+		<pubDate>Tue, 23 Aug 2011 11:52:01 -0700</pubDate>
+		<title>
+			<![CDATA[Iris add a quote by Sophocles]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/36344-one-word-frees-us-of-all-the-weight-and-pain]]>
+		</link>
+		<description>
+	    <![CDATA["One word
+Frees us of all the weight and pain of life:
+That word is love." -- Sophocles]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/215120-we-are-sun-and-moon-dear-friend-we-are-sea</guid>
+		<pubDate>Fri, 24 May 2013 12:08:14 -0700</pubDate>
+		<title>
+			<![CDATA[Iris add a quote by Hermann Hesse]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/215120-we-are-sun-and-moon-dear-friend-we-are-sea]]>
+		</link>
+		<description>
+	    <![CDATA["We are sun and moon, dear friend; we are sea and land. It is not our purpose to become each other; it is to recognize each other, to learn to see the other and honor him for what he is: each the other's opposite and complement." -- Hermann Hesse]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

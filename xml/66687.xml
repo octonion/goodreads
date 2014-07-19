@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/66687-jim]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/66687-jim" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 27 Aug 2012 09:01:01 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/553031-if-you-have-one-parent-who-loves-you-even-if</guid>
+		<pubDate>Mon, 27 Aug 2012 09:01:01 -0700</pubDate>
+		<title>
+			<![CDATA[jim add a quote by Augusten Burroughs]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/553031-if-you-have-one-parent-who-loves-you-even-if]]>
+		</link>
+		<description>
+	    <![CDATA["If you have one parent who loves you, even if they can't buy you clothes, they're so poor and they make all kinds of mistakes and maybe sometimes they even give you awful advice, but never for one moment do you doubt their love for you--if you have this, you have incredibly good fortune.
+
+If you have two parents who love you? You have won life's Lotto.
+
+If you do not have parents, or if the parents you have are so broken and so, frankly, terrible that they are no improvement over nothing, this is fine.
+
+It's not ideal because it's harder without adults who love you more than they love themselves. But harder is just harder, that's all." -- Augusten Burroughs]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

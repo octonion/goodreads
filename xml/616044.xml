@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/616044-maria]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/616044-maria" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 09 May 2012 10:12:07 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/32945-when-one-tugs-at-a-single-thing-in-nature-he</guid>
+		<pubDate>Wed, 09 May 2012 10:12:07 -0700</pubDate>
+		<title>
+			<![CDATA[Maria add a quote by John Muir]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/32945-when-one-tugs-at-a-single-thing-in-nature-he]]>
+		</link>
+		<description>
+	    <![CDATA["When one tugs at a single thing in nature, he finds it attached to the rest of the world." -- John Muir]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/470267-washington-has-become-our-versailles-we-are-ruled-entertained-and</guid>
+		<pubDate>Mon, 16 Jun 2014 22:38:53 -0700</pubDate>
+		<title>
+			<![CDATA[Maria add a quote by Chris Hedges]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/470267-washington-has-become-our-versailles-we-are-ruled-entertained-and]]>
+		</link>
+		<description>
+	    <![CDATA["Washington has become our Versailles. We are ruled, entertained, and informed by courtiers -- and the media has evolved into a class of courtiers. The Democrats, like the Republicans, are mostly courtiers. Our pundits and experts, at least those with prominent public platforms, are courtiers. We are captivated by the hollow stagecraft of political theater as we are ruthlessly stripped of power. It is smoke and mirrors, tricks and con games, and the purpose behind it is deception." -- Chris Hedges]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

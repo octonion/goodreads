@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/762121-martha]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/762121-martha" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 01 Jul 2011 13:47:07 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/72616-reading-was-my-escape-and-my-comfort-my-consolation-my</guid>
+		<pubDate>Fri, 01 Jul 2011 13:47:07 -0700</pubDate>
+		<title>
+			<![CDATA[Martha add a quote by Paul Auster]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/72616-reading-was-my-escape-and-my-comfort-my-consolation-my]]>
+		</link>
+		<description>
+	    <![CDATA["Reading was my escape and my comfort, my consolation, my stimulant of choice: reading for the pure pleasure of it, for the beautiful stillness that surrounds you when you hear an author's words reverberating in your head." -- Paul Auster]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/694597-the-waiting-room-atmosphere-in-which-death-was-the-delayed-train</guid>
+		<pubDate>Mon, 31 Dec 2012 18:08:50 -0800</pubDate>
+		<title>
+			<![CDATA[Martha add a quote by Edward St. Aubyn]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/694597-the-waiting-room-atmosphere-in-which-death-was-the-delayed-train]]>
+		</link>
+		<description>
+	    <![CDATA["...&quot;the waiting-room atmosphere in which death was the delayed train..." -- Edward St. Aubyn]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1038547-it-s-rather-clever-of-her-to-have-made-a-specialty</guid>
+		<pubDate>Fri, 14 Feb 2014 05:08:37 -0800</pubDate>
+		<title>
+			<![CDATA[Martha add a quote by Edith Wharton]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1038547-it-s-rather-clever-of-her-to-have-made-a-specialty]]>
+		</link>
+		<description>
+	    <![CDATA["It's rather clever of her to have made a specialty of devoting herself to dull people—the field is such a large one, and she has it practically to herself." -- Edith Wharton]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

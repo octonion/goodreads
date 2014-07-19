@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1037904-michael]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1037904-michael" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 02 Sep 2010 10:13:58 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/14324-maybe-this-world-is-another-planet-s-hell</guid>
+		<pubDate>Thu, 02 Sep 2010 10:13:58 -0700</pubDate>
+		<title>
+			<![CDATA[Michael add a quote by Aldous Huxley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14324-maybe-this-world-is-another-planet-s-hell]]>
+		</link>
+		<description>
+	    <![CDATA["Maybe this world is another planet’s hell." -- Aldous Huxley]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/42133-tv-and-the-internet-are-good-because-they-keep-stupid</guid>
+		<pubDate>Sat, 20 Nov 2010 15:03:12 -0800</pubDate>
+		<title>
+			<![CDATA[Michael add a quote by Douglas Coupland]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/42133-tv-and-the-internet-are-good-because-they-keep-stupid]]>
+		</link>
+		<description>
+	    <![CDATA["TV and the Internet are good because they keep stupid people from spending too much time out in public." -- Douglas Coupland]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

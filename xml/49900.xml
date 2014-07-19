@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/49900-kaye]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/49900-kaye" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 25 Mar 2013 14:15:41 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/158466-i-had-a-dream-i-had-an-awesome-dream</guid>
+		<pubDate>Mon, 25 Mar 2013 14:15:41 -0700</pubDate>
+		<title>
+			<![CDATA[Kaye add a quote by Lionel Richie]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/158466-i-had-a-dream-i-had-an-awesome-dream]]>
+		</link>
+		<description>
+	    <![CDATA["I had a dream.  I had an awesome dream." -- Lionel Richie]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/240264-the-captain-of-this-sailing-vessel-has-requested-a-private</guid>
+		<pubDate>Tue, 03 Dec 2013 20:57:25 -0800</pubDate>
+		<title>
+			<![CDATA[Kaye add a quote by Olivia Parker]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/240264-the-captain-of-this-sailing-vessel-has-requested-a-private]]>
+		</link>
+		<description>
+	    <![CDATA["The captain of this sailing vessel has requested a private audience with you in his quarters. It seems you’ve a treasure map hidden on your person, and I mean to explore every inch of you until it is discovered." -- Olivia Parker]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/955394-wintermute314]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/955394-wintermute314" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 21 Jan 2012 09:14:07 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/283199-be-thine-own-palace-or-the-world-s-thy-jail</guid>
+		<pubDate>Sat, 21 Jan 2012 09:14:07 -0800</pubDate>
+		<title>
+			<![CDATA[wintermute314 add a quote by John Donne]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/283199-be-thine-own-palace-or-the-world-s-thy-jail]]>
+		</link>
+		<description>
+	    <![CDATA["Be thine own palace, or the world's thy jail." -- John Donne]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/400258-now-you-may-think-that-this-is-some-sort-of</guid>
+		<pubDate>Sun, 04 Nov 2012 22:54:40 -0800</pubDate>
+		<title>
+			<![CDATA[wintermute314 add a quote by John Scalzi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/400258-now-you-may-think-that-this-is-some-sort-of]]>
+		</link>
+		<description>
+	    <![CDATA["Now, you may think that this is some sort of generalized hatred that I will carry for the lot of you. Let me assure you that this is not the case. Each of you will fail, but you will fail in your own unique way, and therefore I will dislike each of you on an individual basis." -- John Scalzi]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

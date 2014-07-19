@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1042524-michelle-borok]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1042524-michelle-borok" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 15 Jul 2013 08:33:56 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/56932-the-dark-ancestral-cave-the-womb-from-which-mankind-emerged</guid>
+		<pubDate>Mon, 15 Jul 2013 08:33:56 -0700</pubDate>
+		<title>
+			<![CDATA[Michelle add a quote by Thomas Wolfe]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/56932-the-dark-ancestral-cave-the-womb-from-which-mankind-emerged]]>
+		</link>
+		<description>
+	    <![CDATA["...the dark ancestral cave, the womb from which mankind emerged into the light, forever pulls one back - but...you can't go home again...you can't go...back home to the escapes of 
+Time and Memory.    You Can't Go Home Again" -- Thomas Wolfe]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

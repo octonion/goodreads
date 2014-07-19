@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/628157-kit]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/628157-kit" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2013 07:25:32 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/17642-some-people-believe-holding-on-and-hanging-in-there-are</guid>
+		<pubDate>Tue, 11 Jun 2013 07:25:32 -0700</pubDate>
+		<title>
+			<![CDATA[Kit add a quote by Ann Landers]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17642-some-people-believe-holding-on-and-hanging-in-there-are]]>
+		</link>
+		<description>
+	    <![CDATA["Some people believe holding on and hanging  in there are signs of great strength. However, there are times when it takes much more strength to know when to let go and then do it." -- Ann Landers]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/556570-quitting-is-not-giving-up-it-s-choosing-to-focus-your</guid>
+		<pubDate>Tue, 11 Jun 2013 07:25:58 -0700</pubDate>
+		<title>
+			<![CDATA[Kit add a quote by Osayi Osar-Emokpae]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/556570-quitting-is-not-giving-up-it-s-choosing-to-focus-your]]>
+		</link>
+		<description>
+	    <![CDATA["Quitting is not giving up, it's choosing to focus your attention on something more important. Quitting is not losing confidence, it's realizing that there are more valuable ways you can spend your time. Quitting is not making excuses, it's learning to be more productive, efficient and effective instead. Quitting is letting go of things (or people) that are sucking the life out of you so you can do more things that will bring you strength." -- Osayi Osar-Emokpae]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

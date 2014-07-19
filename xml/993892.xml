@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/993892-patrick]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/993892-patrick" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 10 Apr 2008 12:48:48 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6326-you-re-miserable-edgy-and-tired-you-re-in-the-perfect-mood</guid>
+		<pubDate>Thu, 10 Apr 2008 12:48:48 -0700</pubDate>
+		<title>
+			<![CDATA[Patrick add a quote by Warren Ellis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6326-you-re-miserable-edgy-and-tired-you-re-in-the-perfect-mood]]>
+		</link>
+		<description>
+	    <![CDATA["You're miserable, edgy and tired. You're in the perfect mood for journalism." -- Warren Ellis]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/65160-i-think-that-storytelling-and-creation-are-very-close-to</guid>
+		<pubDate>Sat, 19 Jul 2008 16:08:47 -0700</pubDate>
+		<title>
+			<![CDATA[Patrick add a quote by Alan Moore]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/65160-i-think-that-storytelling-and-creation-are-very-close-to]]>
+		</link>
+		<description>
+	    <![CDATA["I think that storytelling and creation are very close to what the center of what magic is about.  I think not just for me, but for most of the cultures that have had a concept of magic, then the manipulation of language, and words, and thus of stories and fictions, has been very close to the center of it all." -- Alan Moore]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

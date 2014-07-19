@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/595597-michelle]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/595597-michelle" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 20 Mar 2012 16:47:20 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/64814-i-can-t-believe-anyone-would-voluntarily-run-26-miles-sometimes</guid>
+		<pubDate>Tue, 20 Mar 2012 16:47:20 -0700</pubDate>
+		<title>
+			<![CDATA[Michelle add a quote by jen lancaster]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/64814-i-can-t-believe-anyone-would-voluntarily-run-26-miles-sometimes]]>
+		</link>
+		<description>
+	    <![CDATA["I can't believe anyone would voluntarily run 26 miles. Sometimes I sit on the couch cross-legged because I don't feel like walking to the bathroom." -- jen lancaster]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3915-common-sense-is-not-so-common</guid>
+		<pubDate>Tue, 05 Feb 2013 18:39:27 -0800</pubDate>
+		<title>
+			<![CDATA[Michelle add a quote by Voltaire]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3915-common-sense-is-not-so-common]]>
+		</link>
+		<description>
+	    <![CDATA["Common sense is not so common." -- Voltaire]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

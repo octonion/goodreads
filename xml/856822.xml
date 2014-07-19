@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/856822-sara-borsari]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/856822-sara-borsari" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 01 Feb 2008 11:09:58 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/18830-finish-each-day-and-be-done-with-it-you-have</guid>
+		<pubDate>Fri, 01 Feb 2008 11:09:58 -0800</pubDate>
+		<title>
+			<![CDATA[Sara Borsari add a quote by Ralph Waldo Emerson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18830-finish-each-day-and-be-done-with-it-you-have]]>
+		</link>
+		<description>
+	    <![CDATA["Finish each day and be done with it. You have done what you could.  Some blunders and absurdities no doubt crept in; forget them as soon as you can. Tomorrow is a new day.  You shall begin it serenely and with too high a spirit to be encumbered with your old nonsense." -- Ralph Waldo Emerson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/660-i-believe-in-christianity-as-i-believe-that-the-sun</guid>
+		<pubDate>Fri, 01 Feb 2008 11:12:41 -0800</pubDate>
+		<title>
+			<![CDATA[Sara Borsari add a quote by C.S. Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/660-i-believe-in-christianity-as-i-believe-that-the-sun]]>
+		</link>
+		<description>
+	    <![CDATA["I believe in Christianity as I believe that the sun has risen: not only because I see it, but because by it I see everything else." -- C.S. Lewis]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

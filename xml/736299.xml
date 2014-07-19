@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/736299-colin-mcbride]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/736299-colin-mcbride" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 06 Jan 2008 20:28:19 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/10941-my-secret-is-that-i-need-god-that-i-am-sick</guid>
+		<pubDate>Sun, 06 Jan 2008 20:28:19 -0800</pubDate>
+		<title>
+			<![CDATA[Colin add a quote by Douglas Coupland]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10941-my-secret-is-that-i-need-god-that-i-am-sick]]>
+		</link>
+		<description>
+	    <![CDATA["My secret is that I need God—that I am sick and can no longer make it alone. I need God to help me give, because I no longer seem to be capable of giving; to help me be kind, as I no longer seem capable of kindness; to help me love, as I seem beyond being able to love." -- Douglas Coupland]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/10942-to-the-person-in-the-bell-jar-blank-and-stopped</guid>
+		<pubDate>Sun, 06 Jan 2008 20:28:46 -0800</pubDate>
+		<title>
+			<![CDATA[Colin add a quote by Sylvia Plath]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10942-to-the-person-in-the-bell-jar-blank-and-stopped]]>
+		</link>
+		<description>
+	    <![CDATA["To the person in the bell jar, blank and stopped as a dead baby, the world itself is a bad dream." -- Sylvia Plath]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

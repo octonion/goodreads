@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/631232-ashraful]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/631232-ashraful" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 18 Dec 2013 04:16:36 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/911138</guid>
+		<pubDate>Wed, 18 Dec 2013 04:16:36 -0800</pubDate>
+		<title>
+			<![CDATA[Ashraful add a quote by নৃসিংহপ্রসাদ ভাদুড়ী]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/911138]]>
+		</link>
+		<description>
+	    <![CDATA["মহাভারতে বিদুর মূর্খ সম্বন্ধে যত কথা বলেছেন, তাতে এ কথা পরিষ্কার বোঝা যায় যে, লেখাপড়া না-জানা নিরক্ষর মানুষ মূর্খের সংজ্ঞার মধ্যেই আসেন না। বরঞ্চ মহাভারত তাঁদেরই মূর্খ বলতে চায় - যাঁরা লেখাপড়া করেছেন এবং স্বল্পবিদ্যাতেই যাঁদের মধ্যে ভয়ংকরী শক্তি জন্মেছে।" -- নৃসিংহপ্রসাদ ভাদুড়ী]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

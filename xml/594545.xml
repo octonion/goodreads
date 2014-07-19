@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/594545-tria-nin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/594545-tria-nin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 13 May 2009 22:41:50 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/161693-a-good-book-has-no-ending</guid>
+		<pubDate>Wed, 13 May 2009 22:41:50 -0700</pubDate>
+		<title>
+			<![CDATA[Tria add a quote by R.D. Cumming]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/161693-a-good-book-has-no-ending]]>
+		</link>
+		<description>
+	    <![CDATA["A good book has no ending" -- R.D. Cumming]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/24499-be-the-change-that-you-wish-to-see-in-the</guid>
+		<pubDate>Wed, 13 May 2009 22:42:19 -0700</pubDate>
+		<title>
+			<![CDATA[Tria add a quote by Mahatma Gandhi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/24499-be-the-change-that-you-wish-to-see-in-the]]>
+		</link>
+		<description>
+	    <![CDATA["Be the change that you wish to see in the world." -- Mahatma Gandhi]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/7572-i-have-always-imagined-that-paradise-will-be-a-kind</guid>
+		<pubDate>Wed, 13 May 2009 22:45:23 -0700</pubDate>
+		<title>
+			<![CDATA[Tria add a quote by Jorge Luis Borges]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7572-i-have-always-imagined-that-paradise-will-be-a-kind]]>
+		</link>
+		<description>
+	    <![CDATA["I have always imagined that Paradise will be a kind of library." -- Jorge Luis Borges]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1858-for-most-of-history-anonymous-was-a-woman</guid>
+		<pubDate>Wed, 13 May 2009 22:48:31 -0700</pubDate>
+		<title>
+			<![CDATA[Tria add a quote by Virginia Woolf]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1858-for-most-of-history-anonymous-was-a-woman]]>
+		</link>
+		<description>
+	    <![CDATA["For most of history, Anonymous was a woman." -- Virginia Woolf]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

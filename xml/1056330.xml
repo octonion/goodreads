@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1056330-noelle]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1056330-noelle" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 04 Jan 2014 13:58:38 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/408441-a-reader-lives-a-thousand-lives-before-he-dies-said</guid>
+		<pubDate>Sat, 04 Jan 2014 13:58:38 -0800</pubDate>
+		<title>
+			<![CDATA[Noelle add a quote by George R.R. Martin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/408441-a-reader-lives-a-thousand-lives-before-he-dies-said]]>
+		</link>
+		<description>
+	    <![CDATA["A reader lives a thousand lives before he dies, said Jojen. The man who never reads lives only one." -- George R.R. Martin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

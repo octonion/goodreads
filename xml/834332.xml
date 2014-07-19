@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/834332-ian]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/834332-ian" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 02 Oct 2008 18:39:16 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4061-the-most-exciting-phrase-to-hear-in-science-the-one</guid>
+		<pubDate>Thu, 02 Oct 2008 18:39:16 -0700</pubDate>
+		<title>
+			<![CDATA[Ian add a quote by Isaac Asimov]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4061-the-most-exciting-phrase-to-hear-in-science-the-one]]>
+		</link>
+		<description>
+	    <![CDATA["The most exciting phrase to hear in science, the one that heralds the most discoveries, is not &quot;Eureka!&quot; (I found it!) but 'That's funny..." -- Isaac Asimov]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4078-the-saddest-aspect-of-life-right-now-is-that-science</guid>
+		<pubDate>Thu, 02 Oct 2008 18:39:20 -0700</pubDate>
+		<title>
+			<![CDATA[Ian add a quote by Isaac Asimov]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4078-the-saddest-aspect-of-life-right-now-is-that-science]]>
+		</link>
+		<description>
+	    <![CDATA["The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom." -- Isaac Asimov]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/9658-violence-is-the-last-refuge-of-the-incompetent</guid>
+		<pubDate>Thu, 02 Oct 2008 22:04:07 -0700</pubDate>
+		<title>
+			<![CDATA[Ian add a quote by Isaac Asimov]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9658-violence-is-the-last-refuge-of-the-incompetent]]>
+		</link>
+		<description>
+	    <![CDATA["Violence is the last refuge of the incompetent." -- Isaac Asimov]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

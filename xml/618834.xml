@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/618834-kate]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/618834-kate" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 29 Feb 2008 09:20:50 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/27924-no-single-thing-abides-and-all-things-are-fucked-up</guid>
+		<pubDate>Fri, 29 Feb 2008 09:20:50 -0800</pubDate>
+		<title>
+			<![CDATA[Kate add a quote by Philip K. Dick]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/27924-no-single-thing-abides-and-all-things-are-fucked-up]]>
+		</link>
+		<description>
+	    <![CDATA["No single thing abides; and all things are fucked up." -- Philip K. Dick]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/17062-i-do-not-want-people-to-be-very-agreeable-as</guid>
+		<pubDate>Fri, 28 Mar 2008 09:00:56 -0700</pubDate>
+		<title>
+			<![CDATA[Kate add a quote by Jane Austen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17062-i-do-not-want-people-to-be-very-agreeable-as]]>
+		</link>
+		<description>
+	    <![CDATA["I do not want people to be very agreeable, as it saves me the trouble of liking them a great deal." -- Jane Austen]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/30242-is-that-a-bulletproof-vest-see-now-that-s-so-insulting</guid>
+		<pubDate>Fri, 28 Mar 2008 09:03:32 -0700</pubDate>
+		<title>
+			<![CDATA[Kate add a quote by Janet Evanovich]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/30242-is-that-a-bulletproof-vest-see-now-that-s-so-insulting]]>
+		</link>
+		<description>
+	    <![CDATA["Is that a bulletproof vest? See, now that's so insulting. That's like saying I'm not smart enough to shoot you in the head.&quot; 
+Eddie DeChooch" -- Janet Evanovich]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

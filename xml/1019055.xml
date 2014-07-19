@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1019055-merry-fortune]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1019055-merry-fortune" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 24 Mar 2008 23:38:12 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/38098-this-highway-leads-to-the-shadowy-tip-of-reality-you-re</guid>
+		<pubDate>Mon, 24 Mar 2008 23:38:12 -0700</pubDate>
+		<title>
+			<![CDATA[Merry add a quote by Rod Serling]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/38098-this-highway-leads-to-the-shadowy-tip-of-reality-you-re]]>
+		</link>
+		<description>
+	    <![CDATA["This highway leads to the shadowy tip of reality: you're on a through route to the land of the different, the bizarre, the unexplainable...Go as far as you like on this road. Its limits are only those of mind itself. Ladies and Gentlemen, you're entering the wondrous dimension of imagination. . .
+Next stop The Twilight Zone." -- Rod Serling]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

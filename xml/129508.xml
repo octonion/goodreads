@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/129508-amy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/129508-amy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 17 Jul 2013 20:03:48 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/608022-you-only-get-one-life-it-s-actually-your-duty-to</guid>
+		<pubDate>Wed, 17 Jul 2013 20:03:48 -0700</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Jojo Moyes]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/608022-you-only-get-one-life-it-s-actually-your-duty-to]]>
+		</link>
+		<description>
+	    <![CDATA["You only get one life. It's actually your duty to live it as fully as possible." -- Jojo Moyes]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/713092-push-yourself-don-t-settle-just-live-well-just-live</guid>
+		<pubDate>Wed, 17 Jul 2013 20:03:52 -0700</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Jojo Moyes]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/713092-push-yourself-don-t-settle-just-live-well-just-live]]>
+		</link>
+		<description>
+	    <![CDATA["Push yourself. Don't Settle. Just live well. Just LIVE." -- Jojo Moyes]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/437369-life-starts-all-over-again-when-it-gets-crisp-in</guid>
+		<pubDate>Tue, 03 Sep 2013 03:06:23 -0700</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by F. Scott Fitzgerald]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/437369-life-starts-all-over-again-when-it-gets-crisp-in]]>
+		</link>
+		<description>
+	    <![CDATA["Life starts all over again when it gets crisp in the fall." -- F. Scott Fitzgerald]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

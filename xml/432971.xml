@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/432971-nini-thamsiel]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/432971-nini-thamsiel" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 19 Mar 2008 04:49:51 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1147-my-dear-friend-clear-your-mind-of-cant-excessive-thought</guid>
+		<pubDate>Wed, 19 Mar 2008 04:49:51 -0700</pubDate>
+		<title>
+			<![CDATA[Nini add a quote by Samuel Johnson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1147-my-dear-friend-clear-your-mind-of-cant-excessive-thought]]>
+		</link>
+		<description>
+	    <![CDATA["My dear friend, clear your mind of cant [excessive thought]. You may &lt;i&gt;talk&lt;/i&gt; as other people do: you may say to a man, &quot;Sir, I am your most humble servant.&quot; You are not his most humble servant. You may say, &quot;These are bad times; it is a melancholy thing to be reserved to such times.&quot; You don't mind the times ... You may &lt;i&gt;talk&lt;/i&gt; in this manner; it is a mode of talking in Society; but don't &lt;i&gt;think&lt;/i&gt; foolishly." -- Samuel Johnson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/627511-janet-kincaid]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/627511-janet-kincaid" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 24 May 2012 11:56:08 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/17796-there-are-worse-crimes-than-burning-books-one-of-them</guid>
+		<pubDate>Thu, 24 May 2012 11:56:08 -0700</pubDate>
+		<title>
+			<![CDATA[Janet add a quote by Joseph Brodsky]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17796-there-are-worse-crimes-than-burning-books-one-of-them]]>
+		</link>
+		<description>
+	    <![CDATA["There are worse crimes than burning books.  One of them is not reading them." -- Joseph Brodsky]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/42591-for-me-forgiveness-and-compassion-are-always-linked-how-do</guid>
+		<pubDate>Sun, 29 Sep 2013 23:45:19 -0700</pubDate>
+		<title>
+			<![CDATA[Janet add a quote by bell hooks]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/42591-for-me-forgiveness-and-compassion-are-always-linked-how-do]]>
+		</link>
+		<description>
+	    <![CDATA["For me, forgiveness and compassion are always linked: how do we hold people accountable for wrongdoing and yet at the same time remain in touch with their humanity enough to believe in their capacity to be transformed?" -- bell hooks]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/22809-living-simply-makes-loving-simple</guid>
+		<pubDate>Sun, 29 Sep 2013 23:45:19 -0700</pubDate>
+		<title>
+			<![CDATA[Janet add a quote by bell hooks]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22809-living-simply-makes-loving-simple]]>
+		</link>
+		<description>
+	    <![CDATA["Living simply makes loving simple." -- bell hooks]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

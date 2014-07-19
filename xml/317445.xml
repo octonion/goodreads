@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/317445-ben-rogers]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/317445-ben-rogers" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 22 Sep 2010 21:17:39 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/64446-i-believe-that-today-more-than-ever-a-book-should</guid>
+		<pubDate>Wed, 22 Sep 2010 21:17:39 -0700</pubDate>
+		<title>
+			<![CDATA[Ben add a quote by Henry Miller]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/64446-i-believe-that-today-more-than-ever-a-book-should]]>
+		</link>
+		<description>
+	    <![CDATA["I believe that today more than ever a book should be sought after even if it has only one great page in it. We must search for fragments, splinters, toenails, anything that has ore in it, anything that is capable of resuscitating the body and the soul." -- Henry Miller]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/72016-if-a-little-dreaming-is-dangerous-the-cure-for-it</guid>
+		<pubDate>Wed, 22 Sep 2010 21:18:25 -0700</pubDate>
+		<title>
+			<![CDATA[Ben add a quote by Marcel Proust]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/72016-if-a-little-dreaming-is-dangerous-the-cure-for-it]]>
+		</link>
+		<description>
+	    <![CDATA["If a little dreaming is dangerous, the cure for it is not to dream less, but to dream more, to dream all the time." -- Marcel Proust]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/221070-nothing-is-funnier-than-unhappiness</guid>
+		<pubDate>Wed, 22 Sep 2010 21:20:11 -0700</pubDate>
+		<title>
+			<![CDATA[Ben add a quote by Samuel Beckett]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/221070-nothing-is-funnier-than-unhappiness]]>
+		</link>
+		<description>
+	    <![CDATA["Nothing is funnier than unhappiness." -- Samuel Beckett]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

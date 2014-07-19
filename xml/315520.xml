@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/315520-ginny]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/315520-ginny" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 20 Jul 2012 02:55:59 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/129652-you-never-know-what-worse-luck-your-bad-luck-has</guid>
+		<pubDate>Fri, 20 Jul 2012 02:55:59 -0700</pubDate>
+		<title>
+			<![CDATA[Ginny add a quote by Cormac McCarthy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/129652-you-never-know-what-worse-luck-your-bad-luck-has]]>
+		</link>
+		<description>
+	    <![CDATA["You never know what worse luck your bad luck has saved you from." -- Cormac McCarthy]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/20171-there-are-three-rules-for-writing-a-novel-unfortunately-no</guid>
+		<pubDate>Wed, 08 Aug 2012 01:59:26 -0700</pubDate>
+		<title>
+			<![CDATA[Ginny add a quote by W. Somerset Maugham]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20171-there-are-three-rules-for-writing-a-novel-unfortunately-no]]>
+		</link>
+		<description>
+	    <![CDATA["There are three rules for writing a novel. Unfortunately, no one knows what they are." -- W. Somerset Maugham]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

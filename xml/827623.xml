@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/827623-nancy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/827623-nancy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 03 May 2014 20:55:56 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/289762-in-the-end-just-three-things-matter-how-well-we</guid>
+		<pubDate>Sat, 03 May 2014 20:55:56 -0700</pubDate>
+		<title>
+			<![CDATA[Nancy add a quote by Jack Kornfield]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/289762-in-the-end-just-three-things-matter-how-well-we]]>
+		</link>
+		<description>
+	    <![CDATA["In the end, just three things matter:
+
+How well we have lived
+How well we have loved
+How well we have learned to let go" -- Jack Kornfield]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

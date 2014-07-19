@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/670441-danial]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/670441-danial" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 09 Dec 2007 07:36:36 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4280-a-bus-station-is-where-a-bus-stops-a-train</guid>
+		<pubDate>Sun, 09 Dec 2007 07:36:36 -0800</pubDate>
+		<title>
+			<![CDATA[Danial add a quote by William Faulkner]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4280-a-bus-station-is-where-a-bus-stops-a-train]]>
+		</link>
+		<description>
+	    <![CDATA["A bus station is where a bus stops. A train station is where a train stops. On my desk, I have a work station…." -- William Faulkner]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6188-the-day-we-see-the-truth-and-cease-to-speak</guid>
+		<pubDate>Tue, 18 Dec 2007 10:08:52 -0800</pubDate>
+		<title>
+			<![CDATA[Danial add a quote by Martin Luther King Jr.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6188-the-day-we-see-the-truth-and-cease-to-speak]]>
+		</link>
+		<description>
+	    <![CDATA["The day we see the truth and cease to speak is the day we begin to die" -- Martin Luther King Jr.]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/21534-there-s-an-epigram-tacked-to-my-office-bulletin-board-pinched</guid>
+		<pubDate>Tue, 05 Feb 2008 06:12:18 -0800</pubDate>
+		<title>
+			<![CDATA[Danial add a quote by Margaret Atwood ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21534-there-s-an-epigram-tacked-to-my-office-bulletin-board-pinched]]>
+		</link>
+		<description>
+	    <![CDATA["There's an epigram tacked to my office bulletin board, pinched from a magazine -- &quot;Wanting to meet an author because you like his work is like wanting to meet a duck because you like pâté." -- Margaret Atwood ]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

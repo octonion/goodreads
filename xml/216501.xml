@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/216501-az]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/216501-az" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 21 Aug 2008 07:33:37 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/19497-there-is-in-every-madman-a-misunderstood-genius-whose-idea</guid>
+		<pubDate>Thu, 21 Aug 2008 07:33:37 -0700</pubDate>
+		<title>
+			<![CDATA[Az add a quote by Antonin Artaud]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/19497-there-is-in-every-madman-a-misunderstood-genius-whose-idea]]>
+		</link>
+		<description>
+	    <![CDATA["There is in every madman
+a misunderstood genius
+whose idea
+shining in his head
+frightened people
+and for whom delirium was the only solution
+to the strangulation
+that life had prepared for him." -- Antonin Artaud]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/67565-sarcasm-the-last-refuge-of-modest-and-chaste-souled-people-when</guid>
+		<pubDate>Thu, 21 Aug 2008 07:35:47 -0700</pubDate>
+		<title>
+			<![CDATA[Az add a quote by Dostoyevsky Fyodor]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/67565-sarcasm-the-last-refuge-of-modest-and-chaste-souled-people-when]]>
+		</link>
+		<description>
+	    <![CDATA["Sarcasm: the last refuge of modest and chaste-souled people when the PRIVACY of their soul is coarsely and intrusively invaded." -- Dostoyevsky Fyodor]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

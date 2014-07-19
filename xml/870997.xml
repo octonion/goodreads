@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/870997-jill]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/870997-jill" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 25 Oct 2009 21:15:12 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/150905-there-is-no-route-out-of-the-maze-the-maze</guid>
+		<pubDate>Sun, 25 Oct 2009 21:15:12 -0700</pubDate>
+		<title>
+			<![CDATA[Jill add a quote by Philip K. Dick]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/150905-there-is-no-route-out-of-the-maze-the-maze]]>
+		</link>
+		<description>
+	    <![CDATA["There is no route out of the maze. The maze shifts as you move through it, because it is alive. " -- Philip K. Dick]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/148706-everybody-knows-that-aristotelian-two-value-logic-is-fucked</guid>
+		<pubDate>Sun, 25 Oct 2009 21:15:35 -0700</pubDate>
+		<title>
+			<![CDATA[Jill add a quote by Philip K. Dick]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/148706-everybody-knows-that-aristotelian-two-value-logic-is-fucked]]>
+		</link>
+		<description>
+	    <![CDATA["Everybody knows that Aristotelian two-value logic is fucked." -- Philip K. Dick]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/30119-i-have-an-idea-that-the-only-thing-which-makes</guid>
+		<pubDate>Sun, 25 Oct 2009 21:36:30 -0700</pubDate>
+		<title>
+			<![CDATA[Jill add a quote by W. Somerset Maugham]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/30119-i-have-an-idea-that-the-only-thing-which-makes]]>
+		</link>
+		<description>
+	    <![CDATA["I have an idea that the only thing which makes it possible to regard this world we live in without disgust is the beauty which now and then men create out of the chaos." -- W. Somerset Maugham]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

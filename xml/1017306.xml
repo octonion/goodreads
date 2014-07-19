@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1017306-andrew-spear]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1017306-andrew-spear" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 27 Oct 2008 20:09:59 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/109791-to-think-analyze-and-invent-he-pierre-menard-also-wrote</guid>
+		<pubDate>Mon, 27 Oct 2008 20:09:59 -0700</pubDate>
+		<title>
+			<![CDATA[Andrew add a quote by Jorge Luis Borges]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/109791-to-think-analyze-and-invent-he-pierre-menard-also-wrote]]>
+		</link>
+		<description>
+	    <![CDATA["To think, analyze and invent, he [Pierre Menard] also wrote me, “are not anomalous acts, but the normal respiration of the intelligence. To glorify the occasional fulfillment of this function, to treasure ancient thoughts of others, to remember with incredulous amazement that the doctor universal is thought, is to confess our languor or barbarism. Every man should be capable of all ideas, and I believe that in the future he will be.&quot; (Jorge Luis Borges, &quot;Pierre Menard, Author of Don Quixote, 1939)" -- Jorge Luis Borges]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

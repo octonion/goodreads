@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1019262-bobby-chastain]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1019262-bobby-chastain" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 25 Mar 2008 09:15:17 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/38166-for-god-is-silence-and-in-silence-is-he-sung</guid>
+		<pubDate>Tue, 25 Mar 2008 09:15:17 -0700</pubDate>
+		<title>
+			<![CDATA[Bobby add a quote by John the Solitary]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/38166-for-god-is-silence-and-in-silence-is-he-sung]]>
+		</link>
+		<description>
+	    <![CDATA["For God is silence, and in silence is he sung by means of that psalmody which is worthy of Him. I am not speaking of the silence of the tongue, for if someone merely keeps his tongue silent, without knowing how to sing in mind and spirit, then he is simply unoccupied and becomes filled with evil thoughts: … There is a silence of the tongue, there is a silence of the whole body, there is a silence of the soul, there is the silence of the mind, and there is the silence of the spirit." -- John the Solitary]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/922013-dena-mercer]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/922013-dena-mercer" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 13 Sep 2011 13:46:58 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/70519-i-am-a-part-of-everything-that-i-have-read</guid>
+		<pubDate>Tue, 13 Sep 2011 13:46:58 -0700</pubDate>
+		<title>
+			<![CDATA[Dena add a quote by Theodore Roosevelt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/70519-i-am-a-part-of-everything-that-i-have-read]]>
+		</link>
+		<description>
+	    <![CDATA["I am a part of everything that I have read." -- Theodore Roosevelt]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/435816-the-sierra-becomes-an-addiction-addiction-to-common-sense-simplicity</guid>
+		<pubDate>Tue, 13 Sep 2011 13:50:02 -0700</pubDate>
+		<title>
+			<![CDATA[Dena add a quote by Dena M. Mercer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/435816-the-sierra-becomes-an-addiction-addiction-to-common-sense-simplicity]]>
+		</link>
+		<description>
+	    <![CDATA["The Sierra becomes an addiction, addiction to common sense simplicity and an awareness of living in the now." -- Dena M. Mercer]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

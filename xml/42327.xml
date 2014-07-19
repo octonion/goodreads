@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/42327-fiona]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/42327-fiona" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 24 Sep 2009 11:25:15 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/30221-my-heart-i-m-not-going-to-cry-all-the-time</guid>
+		<pubDate>Thu, 24 Sep 2009 11:25:15 -0700</pubDate>
+		<title>
+			<![CDATA[Fiona add a quote by Frank O'Hara]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/30221-my-heart-i-m-not-going-to-cry-all-the-time]]>
+		</link>
+		<description>
+	    <![CDATA["My Heart
+
+I'm not going to cry all the time
+nor shall I laugh all the time,
+I don't prefer one &quot;strain&quot; to another.
+I'd have the immediacy of a bad movie,
+not just a sleeper, but also the big,
+overproduced first-run kind. 
+I want to be at least as alive as the vulgar. And if some aficionado of my mess says &quot;That's not like Frank!,&quot; all to the good! I don't wear brown and grey suits all the time, do I? No. I wear workshirts to the opera,
+often. I want my feet to be bare,
+I want my face to be shaven, and my heart--you can't plan on the heart, but
+the better part of it, my poetry, is open." -- Frank O'Hara]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/244094-echo]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/244094-echo" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 12 May 2009 20:51:38 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/161460-i-m-not-running-away-i-m-moving-on</guid>
+		<pubDate>Tue, 12 May 2009 20:51:38 -0700</pubDate>
+		<title>
+			<![CDATA[Echo add a quote by Irvine Welsh]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/161460-i-m-not-running-away-i-m-moving-on]]>
+		</link>
+		<description>
+	    <![CDATA["I'm not running away, I'm moving on." -- Irvine Welsh]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/161461-the-catcher-in-the-rye-that-s-all-i-really-want</guid>
+		<pubDate>Tue, 12 May 2009 20:52:30 -0700</pubDate>
+		<title>
+			<![CDATA[Echo add a quote by J.D. Salinger]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/161461-the-catcher-in-the-rye-that-s-all-i-really-want]]>
+		</link>
+		<description>
+	    <![CDATA["The catcher in the rye... that's all I really want to be..." -- J.D. Salinger]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/138055-art-and-love-are-the-same-thing-it-s-the-process</guid>
+		<pubDate>Tue, 12 May 2009 21:06:43 -0700</pubDate>
+		<title>
+			<![CDATA[Echo add a quote by Chuck Klosterman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/138055-art-and-love-are-the-same-thing-it-s-the-process]]>
+		</link>
+		<description>
+	    <![CDATA["Art and love are the same thing: It’s the process of seeing yourself in things that are not you." -- Chuck Klosterman]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

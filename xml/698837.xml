@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/698837-kathleen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/698837-kathleen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 19 Dec 2007 19:23:35 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6524-equations-are-the-devil-s-sentences</guid>
+		<pubDate>Wed, 19 Dec 2007 19:23:35 -0800</pubDate>
+		<title>
+			<![CDATA[Kathleen add a quote by Stephen Colbert]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6524-equations-are-the-devil-s-sentences]]>
+		</link>
+		<description>
+	    <![CDATA["Equations are the devil's sentences." -- Stephen Colbert]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6525-living-is-like-tearing-through-a-museum-not-until-later</guid>
+		<pubDate>Wed, 19 Dec 2007 19:24:35 -0800</pubDate>
+		<title>
+			<![CDATA[Kathleen add a quote by Audrey Hepburn]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6525-living-is-like-tearing-through-a-museum-not-until-later]]>
+		</link>
+		<description>
+	    <![CDATA["Living is like tearing through a museum. Not until later do you really start absorbing what you saw, thinking about it, looking it up in a book, and remembering - because you can't take it in all at once." -- Audrey Hepburn]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6528-what-are-men-to-rocks-and-mountains</guid>
+		<pubDate>Wed, 19 Dec 2007 19:32:50 -0800</pubDate>
+		<title>
+			<![CDATA[Kathleen add a quote by Jane Austen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6528-what-are-men-to-rocks-and-mountains]]>
+		</link>
+		<description>
+	    <![CDATA["What are men to rocks and mountains?" -- Jane Austen]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

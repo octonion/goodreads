@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/35799-amy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/35799-amy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 16 Nov 2013 08:36:41 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/942357-as-jeremy-bentham-had-asked-about-animals-well-over-two</guid>
+		<pubDate>Sat, 16 Nov 2013 08:36:41 -0800</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Chris Bohjalian]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/942357-as-jeremy-bentham-had-asked-about-animals-well-over-two]]>
+		</link>
+		<description>
+	    <![CDATA["As Jeremy Bentham had asked about animals well over two hundred years ago, the question was not whether they could reason or talk, but could they suffer? And yet, somehow, it seemed to take more imagination for humans to identify with animal suffering than it did to conceive of space flight or cloning or nuclear fusion. Yes, she was a fanatic in the eyes of most of the country. . .Mostly, however, she just lacked patience for people who wouldn't accept her belief that humans inflicted needless agony on the animals around them, and they did so in numbers that were absolutely staggering." -- Chris Bohjalian]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/649019-tamatha-goodling]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/649019-tamatha-goodling" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 10 Mar 2008 22:38:41 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/33542-i-believe-that-we-learn-by-practice-whether-it-means</guid>
+		<pubDate>Mon, 10 Mar 2008 22:38:41 -0700</pubDate>
+		<title>
+			<![CDATA[Tamatha add a quote by Martha Graham]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/33542-i-believe-that-we-learn-by-practice-whether-it-means]]>
+		</link>
+		<description>
+	    <![CDATA["I believe that we learn by practice.  Whether it means to learn to dance by practicing dancing or to learn to live by practicing living, the principles are the same.  In each, it is the performance of a dedicated precise set of acts, physical or intellectual, from which comes shape of achievement, a sense of one's being, a satisfaction of spirit.  One becomes, in some area, an athlete of God.  Practice means to perform, over and over again in the face of all obstacles, some act of vision, of faith, of desire.  Practice is a means of inviting the perfection desired." -- Martha Graham]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

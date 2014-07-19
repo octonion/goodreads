@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/77736-john]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/77736-john" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 02 Feb 2011 06:36:26 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/142650-so-if-this-were-indeed-my-final-hour-these-would</guid>
+		<pubDate>Wed, 02 Feb 2011 06:36:26 -0800</pubDate>
+		<title>
+			<![CDATA[John add a quote by Margaret Laurence]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/142650-so-if-this-were-indeed-my-final-hour-these-would]]>
+		</link>
+		<description>
+	    <![CDATA["So, if this were indeed my Final Hour, these would be my words to you. I would not claim to pass on any secret of life, for there is none, or any wisdom except the passionate plea of caring ... Try to feel, in your heart's core, the reality of others. This is the most painful thing in the world, probably, and the most necessary. In times of personal adversity, know that you are not alone. Know that although in the eternal scheme of things you are small, you are also unique and irreplaceable, as are all of your fellow humans everywhere in the world. Know that your commitment is above all to life itself." -- Margaret Laurence]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

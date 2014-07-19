@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/342440-jennarose]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/342440-jennarose" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 13 Jan 2008 19:41:36 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/13191-they-are-all-alike-you-know-they-hold-their-tongues</guid>
+		<pubDate>Sun, 13 Jan 2008 19:41:36 -0800</pubDate>
+		<title>
+			<![CDATA[Jennarose add a quote by Edith Wharton]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13191-they-are-all-alike-you-know-they-hold-their-tongues]]>
+		</link>
+		<description>
+	    <![CDATA["They are all alike you know.  They hold their tongues for years and you think you're safe, but when the opportunity comes they remember everything." -- Edith Wharton]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/13192-you-thought-i-was-a-lovelorn-mistress-and-i-was</guid>
+		<pubDate>Sun, 13 Jan 2008 19:43:11 -0800</pubDate>
+		<title>
+			<![CDATA[Jennarose add a quote by Edith Wharton]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13192-you-thought-i-was-a-lovelorn-mistress-and-i-was]]>
+		</link>
+		<description>
+	    <![CDATA["You thought I was a lovelorn mistress and I was really just an expensive prostitute." -- Edith Wharton]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

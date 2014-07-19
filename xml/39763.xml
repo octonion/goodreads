@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/39763-todd]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/39763-todd" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 30 Dec 2008 21:09:00 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/95568-boredom-is-a-moral-failing-the-mark-of-a-mind</guid>
+		<pubDate>Tue, 30 Dec 2008 21:09:00 -0800</pubDate>
+		<title>
+			<![CDATA[Todd add a quote by Nancy Kress]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/95568-boredom-is-a-moral-failing-the-mark-of-a-mind]]>
+		</link>
+		<description>
+	    <![CDATA["…Boredom [is] a moral failing, the mark of a mind insufficiently stocked to occupy itself." -- Nancy Kress]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/51380-more-generally-as-i-shall-repeat-in-chapter-8-one</guid>
+		<pubDate>Tue, 30 Dec 2008 21:14:33 -0800</pubDate>
+		<title>
+			<![CDATA[Todd add a quote by Richard Dawkins]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/51380-more-generally-as-i-shall-repeat-in-chapter-8-one]]>
+		</link>
+		<description>
+	    <![CDATA["More generally, as I shall repeat in Chapter 8, one of the truly bad effects of religion is that it teaches us that it is a virtue to be satisfied with not understanding." -- Richard Dawkins]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/12042-that-which-can-be-asserted-without-evidence-can-be-dismissed</guid>
+		<pubDate>Tue, 30 Dec 2008 21:15:04 -0800</pubDate>
+		<title>
+			<![CDATA[Todd add a quote by Christopher Hitchens]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12042-that-which-can-be-asserted-without-evidence-can-be-dismissed]]>
+		</link>
+		<description>
+	    <![CDATA["That which can be asserted without evidence, can be dismissed without evidence." -- Christopher Hitchens]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

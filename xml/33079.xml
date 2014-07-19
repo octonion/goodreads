@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/33079-caroline]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/33079-caroline" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 10 Jan 2014 11:35:31 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/989931-from-the-time-i-arrived-in-british-east-africa-at</guid>
+		<pubDate>Fri, 10 Jan 2014 11:35:31 -0800</pubDate>
+		<title>
+			<![CDATA[Caroline   add a quote by Beryl Markham]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/989931-from-the-time-i-arrived-in-british-east-africa-at]]>
+		</link>
+		<description>
+	    <![CDATA["From the time I arrived in British East Africa at the indifferent age of four and went through the barefoot stage of early youth hunting wild pig with the Nandi, later training racehorses for a living, and still later scouting Tanganyika and the waterless bush country between the Tana and Athi Rivers, by aeroplane, for elephant, I remained so happily provincial I was unable to discuss the boredom of being alive with any intelligence until I had gone to London and lived there for a year." -- Beryl Markham]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1027270-renae]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1027270-renae" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 02 Oct 2012 15:37:26 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/95682-not-all-readers-are-leaders-but-all-leaders-are-readers</guid>
+		<pubDate>Tue, 02 Oct 2012 15:37:26 -0700</pubDate>
+		<title>
+			<![CDATA[Renae add a quote by Harry S. Truman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/95682-not-all-readers-are-leaders-but-all-leaders-are-readers]]>
+		</link>
+		<description>
+	    <![CDATA["Not all readers are leaders, but all leaders are readers." -- Harry S. Truman]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/568877-i-choose-a-lazy-person-to-do-a-hard-job</guid>
+		<pubDate>Thu, 15 Nov 2012 15:59:13 -0800</pubDate>
+		<title>
+			<![CDATA[Renae add a quote by Bill Gates]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/568877-i-choose-a-lazy-person-to-do-a-hard-job]]>
+		</link>
+		<description>
+	    <![CDATA["I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it." -- Bill Gates]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

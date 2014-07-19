@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/658764-kate]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/658764-kate" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 16 Jan 2010 12:37:51 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/105018-the-power-of-doing-any-thing-with-quickness-is-always</guid>
+		<pubDate>Sat, 16 Jan 2010 12:37:51 -0800</pubDate>
+		<title>
+			<![CDATA[Kate add a quote by Jane Austen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/105018-the-power-of-doing-any-thing-with-quickness-is-always]]>
+		</link>
+		<description>
+	    <![CDATA["The power of doing any thing with quickness is always much prized by the possessor, and often without any attention to the imperfection of the performance. - Mr Darcy" -- Jane Austen]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/158675-on-an-impulse-he-went-into-the-room-and-stood</guid>
+		<pubDate>Fri, 03 Jan 2014 16:33:16 -0800</pubDate>
+		<title>
+			<![CDATA[Kate add a quote by Kim Edwards]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/158675-on-an-impulse-he-went-into-the-room-and-stood]]>
+		</link>
+		<description>
+	    <![CDATA["On an impulse he went into the room and stood before the window, pushing aside the sheer curtain to watch the snow, now nearly eight inches high on the lampposts and the fences and the roofs.  It was the sort of storm that rarely happened in Lexington, and the steady white flakes, the silence, filled him with a sense of excitement and peace.  It was a moment when all the disparate shards of his life seemed to knit themselves together, every past sadness and disappointment, every anxious secret and uncertainty hidden now beneath the soft white layers.  Tomorrow would be quiet, the world subdued and fragile, until the neighborhood children came out to break the stillness with their tracks and shouts and joy.  He remembered such days from his own childhood in the mountains, rare moments of escape when he went into the woods, his breathing amplified and his voice somehow muffled by the heavy snow that bent branches low, drifted over paths.  The world, for a few short hours, transformed." -- Kim Edwards]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

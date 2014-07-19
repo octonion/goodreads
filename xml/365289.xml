@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/365289-ella]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/365289-ella" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 25 Dec 2012 10:44:51 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/128439-some-friends-don-t-understand-this-they-don-t-understand-how-desperate</guid>
+		<pubDate>Tue, 25 Dec 2012 10:44:51 -0800</pubDate>
+		<title>
+			<![CDATA[Ella add a quote by Elizabeth Wurtzel]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/128439-some-friends-don-t-understand-this-they-don-t-understand-how-desperate]]>
+		</link>
+		<description>
+	    <![CDATA["Some friends don't understand this. They don't understand how desperate I am to have someone say, I love you and I support you just the way you are because you're wonderful just the way you are. They don't understand that I can't remember anyone ever saying that to me. I am so demanding and difficult for my friends because I want to crumble and fall apart before them so that they will love me even though I am no fun, lying in bed, crying all the time, not moving. Depression is all about If you loved me you would." -- Elizabeth Wurtzel]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

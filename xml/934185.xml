@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/934185-blanca]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/934185-blanca" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 24 Feb 2008 15:25:11 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/28034-el-tiempo-de-los-violentos-ya-se-acabo-y</guid>
+		<pubDate>Sun, 24 Feb 2008 15:25:11 -0800</pubDate>
+		<title>
+			<![CDATA[Blanca add a quote by Dante Liano]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/28034-el-tiempo-de-los-violentos-ya-se-acabo-y]]>
+		</link>
+		<description>
+	    <![CDATA["El tiempo de los violentos ya se acabo ... y ahora es nuestro tiempo, el de la gente civil, el de la gente que quiere construir paz pero con firmeza.  Somos suaves y dulces, pacificos y manzos, pero firmes hasta las ultimas consecuencias.  Por eso hemos ganado sobre los violentos.  Por eso ganaremos sobre la gente que no sabe dialogar.  Hemos perdido el miedo desde hace muchos anos, porque nos atenazo demasiado.  Animo ... fuerza." -- Dante Liano]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

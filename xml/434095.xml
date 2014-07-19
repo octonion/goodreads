@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/434095-bonita]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/434095-bonita" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 09 Mar 2010 22:44:10 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/98401-fang-man-you-weigh-a-freaking-ton-what-have-you</guid>
+		<pubDate>Tue, 09 Mar 2010 22:44:10 -0800</pubDate>
+		<title>
+			<![CDATA[Bonita add a quote by James Patterson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/98401-fang-man-you-weigh-a-freaking-ton-what-have-you]]>
+		</link>
+		<description>
+	    <![CDATA["Fang: 'Man, You weigh a freaking &lt;i&gt;ton&lt;/i&gt;! What have you been eating, rocks?'
+Max: 'Why, is your head missing some?" -- James Patterson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/28711-a-friend-of-mine-once-defined-love-as-finding-someone</guid>
+		<pubDate>Tue, 09 Mar 2010 22:45:03 -0800</pubDate>
+		<title>
+			<![CDATA[Bonita add a quote by James Patterson ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/28711-a-friend-of-mine-once-defined-love-as-finding-someone]]>
+		</link>
+		<description>
+	    <![CDATA["A friend of mine once defined love as finding someone you can talk to late into the night" -- James Patterson ]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

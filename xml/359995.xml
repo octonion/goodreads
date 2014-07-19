@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/359995-ann]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/359995-ann" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 26 Aug 2010 06:18:05 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/228148-i-sometimes-hold-it-half-a-sin-to-put-in</guid>
+		<pubDate>Thu, 26 Aug 2010 06:18:05 -0700</pubDate>
+		<title>
+			<![CDATA[Ann add a quote by Alfred Lord Tennyson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/228148-i-sometimes-hold-it-half-a-sin-to-put-in]]>
+		</link>
+		<description>
+	    <![CDATA["I sometimes hold it half a sin
+To put in words the grief I feel;
+For words, like Nature, half reveal
+And half conceal the Soul within.
+
+But, for the unquiet heart and brain,
+A use in measured language lies;
+The sad mechanic exercise,
+Like dull narcotics, numbing pain.
+
+In words, like weeds, I'll wrap me o'er,
+Like coarsest clothes against the cold:
+But that large grief which these enfold
+Is given in outline and no more." -- Alfred Lord Tennyson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

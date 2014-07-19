@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/321118-jean-m]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/321118-jean-m" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 03 Jan 2014 08:52:50 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/38734-nothing-could-be-worse-than-the-fear-that-one-had</guid>
+		<pubDate>Fri, 03 Jan 2014 08:52:50 -0800</pubDate>
+		<title>
+			<![CDATA[Jean add a quote by Jane Addams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/38734-nothing-could-be-worse-than-the-fear-that-one-had]]>
+		</link>
+		<description>
+	    <![CDATA["Nothing could be worse than the fear that one had given up too soon, and left one unexpended effort that might have saved the world." -- Jane Addams]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/78817-there-are-ways-in-journeys-to-the-center-of-life</guid>
+		<pubDate>Fri, 03 Jan 2014 08:53:20 -0800</pubDate>
+		<title>
+			<![CDATA[Jean add a quote by Linda Hogan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/78817-there-are-ways-in-journeys-to-the-center-of-life]]>
+		</link>
+		<description>
+	    <![CDATA["There are ways in, journeys to the center of life, through time; through air, matter, dream and thought. The ways are not always mapped or charted, but sometimes being lost, if there is such a thing, is the sweetest place to be. And always, in this search, a person might find that she is already there, at the center of the world. It may be a broken world, but it is glorious nonetheless." -- Linda Hogan]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

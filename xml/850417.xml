@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/850417-mateusz]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/850417-mateusz" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 30 Jan 2008 08:49:34 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/25-we-are-all-in-the-gutter-but-some-of-us</guid>
+		<pubDate>Wed, 30 Jan 2008 08:49:34 -0800</pubDate>
+		<title>
+			<![CDATA[Mateusz add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/25-we-are-all-in-the-gutter-but-some-of-us]]>
+		</link>
+		<description>
+	    <![CDATA["We are all in the gutter, but some of us are looking at the stars." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2452-i-think-god-in-creating-man-somewhat-overestimated-his-ability</guid>
+		<pubDate>Wed, 30 Jan 2008 08:50:17 -0800</pubDate>
+		<title>
+			<![CDATA[Mateusz add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2452-i-think-god-in-creating-man-somewhat-overestimated-his-ability]]>
+		</link>
+		<description>
+	    <![CDATA["I think God, in creating man, somewhat overestimated his ability." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3801-the-only-way-to-get-rid-of-temptation-is-to</guid>
+		<pubDate>Wed, 30 Jan 2008 08:51:02 -0800</pubDate>
+		<title>
+			<![CDATA[Mateusz add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3801-the-only-way-to-get-rid-of-temptation-is-to]]>
+		</link>
+		<description>
+	    <![CDATA["The only way to get rid of temptation is to yield to it." -- Oscar Wilde]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/116499-jung]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/116499-jung" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 14 May 2012 16:27:36 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/76589-nothing-is-so-necessary-for-a-young-man-as-the</guid>
+		<pubDate>Mon, 14 May 2012 16:27:36 -0700</pubDate>
+		<title>
+			<![CDATA[Jung add a quote by Leo Tolstoy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/76589-nothing-is-so-necessary-for-a-young-man-as-the]]>
+		</link>
+		<description>
+	    <![CDATA["Nothing is so necessary for a young man as the company of intelligent women." -- Leo Tolstoy]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/290526-everything-i-know-i-know-because-of-love</guid>
+		<pubDate>Mon, 14 May 2012 16:29:03 -0700</pubDate>
+		<title>
+			<![CDATA[Jung add a quote by Leo Tolstoy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/290526-everything-i-know-i-know-because-of-love]]>
+		</link>
+		<description>
+	    <![CDATA["Everything I know, I know because of love." -- Leo Tolstoy]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

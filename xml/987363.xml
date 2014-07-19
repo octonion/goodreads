@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/987363-ginny]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/987363-ginny" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 12 Mar 2008 13:40:36 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/19822-for-i-know-the-plans-i-have-for-you-declares</guid>
+		<pubDate>Wed, 12 Mar 2008 13:40:36 -0700</pubDate>
+		<title>
+			<![CDATA[Ginny add a quote by Anonymous]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/19822-for-i-know-the-plans-i-have-for-you-declares]]>
+		</link>
+		<description>
+	    <![CDATA["For I know the plans I have for you,&quot; declares the LORD, &quot;plans to prosper you and not to harm you, plans to give you hope and a future. (Jeremiah 29:11 NIV)" -- Anonymous]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

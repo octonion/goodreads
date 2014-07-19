@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/172870-andrew]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/172870-andrew" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 12 May 2013 15:51:37 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/366635-there-are-two-novels-that-can-change-a-bookish-fourteen-year</guid>
+		<pubDate>Sun, 12 May 2013 15:51:37 -0700</pubDate>
+		<title>
+			<![CDATA[Andrew add a quote by John Rogers]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/366635-there-are-two-novels-that-can-change-a-bookish-fourteen-year]]>
+		</link>
+		<description>
+	    <![CDATA["There are two novels that can change a bookish fourteen-year old’s life: &lt;i&gt;[book:The Lord of the Rings|10254806]&lt;/i&gt; and &lt;i&gt;[book:Atlas Shrugged|9365]&lt;/i&gt;. One is a childish fantasy that often engenders a lifelong obsession with its unbelievable heroes, leading to an emotionally stunted, socially crippled adulthood, unable to deal with the real world. The other, of course, involves orcs.&quot;
+
+[&lt;i&gt;Kung Fu Monkey -- Ephemera&lt;/i&gt;, blog post, March 19, 2009]" -- John Rogers]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

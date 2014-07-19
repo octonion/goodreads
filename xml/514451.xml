@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/514451-judy-dubois]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/514451-judy-dubois" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 17 Feb 2013 02:13:06 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/8706-life-will-break-you-nobody-can-protect-you-from-that</guid>
+		<pubDate>Sun, 17 Feb 2013 02:13:06 -0800</pubDate>
+		<title>
+			<![CDATA[Judy add a quote by Louise Erdrich]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8706-life-will-break-you-nobody-can-protect-you-from-that]]>
+		</link>
+		<description>
+	    <![CDATA["Life will break you. Nobody can protect you from that, and living alone won't either, for solitude will also break you with its yearning. You have to love. You have to feel. It is the reason you are here on earth. You are here to risk your heart. You are here to be swallowed up. And when it happens that you are broken, or betrayed, or left, or hurt, or death brushes near, let yourself sit by an apple tree and listen to the apples falling all around you in heaps, wasting their sweetness. Tell yourself you tasted as many as you could." -- Louise Erdrich]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/8154-biology-gives-you-a-brain-life-turns-it-into-a</guid>
+		<pubDate>Sat, 08 Mar 2014 23:04:37 -0800</pubDate>
+		<title>
+			<![CDATA[Judy add a quote by Jeffrey Eugenides]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8154-biology-gives-you-a-brain-life-turns-it-into-a]]>
+		</link>
+		<description>
+	    <![CDATA["Biology gives you a brain. Life turns it into a mind." -- Jeffrey Eugenides]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

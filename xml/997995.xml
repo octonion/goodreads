@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/997995-dave-awl]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/997995-dave-awl" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 06 Feb 2010 01:25:55 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/157163-there-were-no-lions-any-more-there-had-been-lions</guid>
+		<pubDate>Sat, 06 Feb 2010 01:25:55 -0800</pubDate>
+		<title>
+			<![CDATA[Dave add a quote by Russell Hoban]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/157163-there-were-no-lions-any-more-there-had-been-lions]]>
+		</link>
+		<description>
+	    <![CDATA["There were no lions any more. There had been lions once. Sometimes in the shimmer of the heat on the plains the motion of their running still flickered on the dry wind — tawny, great, and quickly gone. Sometimes the honey-colored moon shivered to the silence of a ghost-roar on the rising air." -- Russell Hoban]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/180217-an-ordinary-mirror-is-silvered-at-the-back-but-the</guid>
+		<pubDate>Sat, 06 Feb 2010 01:26:01 -0800</pubDate>
+		<title>
+			<![CDATA[Dave add a quote by Russell Hoban]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/180217-an-ordinary-mirror-is-silvered-at-the-back-but-the]]>
+		</link>
+		<description>
+	    <![CDATA["An ordinary mirror is silvered at the back but the window of the night train has darkness behind the glass. My face and the faces of other travellers were now mirrored on this darkness in a succession of stillnesses. Consider this, said the darkness: any motion at any speed is a succession of stillnesses; any section through an action will show just such a plane of stillness as this dark window in which your seeking face is mirrored. And in each plane of stillness is the moment of clarity that makes you responsible for what you do." -- Russell Hoban]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

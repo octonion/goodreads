@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/189117-stefanie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/189117-stefanie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 15 Mar 2008 11:00:59 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/24499-be-the-change-that-you-wish-to-see-in-the</guid>
+		<pubDate>Sat, 15 Mar 2008 11:00:59 -0700</pubDate>
+		<title>
+			<![CDATA[Stefanie add a quote by Mahatma Gandhi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/24499-be-the-change-that-you-wish-to-see-in-the]]>
+		</link>
+		<description>
+	    <![CDATA["Be the change that you wish to see in the world." -- Mahatma Gandhi]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5030-we-don-t-see-things-as-they-are-we-see-them</guid>
+		<pubDate>Sat, 15 Mar 2008 11:01:11 -0700</pubDate>
+		<title>
+			<![CDATA[Stefanie add a quote by Anaïs Nin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5030-we-don-t-see-things-as-they-are-we-see-them]]>
+		</link>
+		<description>
+	    <![CDATA["We don't see things as they are, we see them as we are." -- Anaïs Nin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/8526-memories-warm-you-up-from-the-inside-but-they-also</guid>
+		<pubDate>Sat, 25 Dec 2010 15:58:29 -0800</pubDate>
+		<title>
+			<![CDATA[Stefanie add a quote by Haruki Murakami]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8526-memories-warm-you-up-from-the-inside-but-they-also]]>
+		</link>
+		<description>
+	    <![CDATA["Memories warm you up from the inside. But they also tear you apart." -- Haruki Murakami]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/11090-the-truth-will-set-you-free-but-first-it-will</guid>
+		<pubDate>Tue, 25 Mar 2014 11:10:09 -0700</pubDate>
+		<title>
+			<![CDATA[Stefanie add a quote by Gloria Steinem]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11090-the-truth-will-set-you-free-but-first-it-will]]>
+		</link>
+		<description>
+	    <![CDATA["The truth will set you free, but first it will piss you off." -- Gloria Steinem]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

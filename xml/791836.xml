@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/791836-sheralyn-belyeu]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/791836-sheralyn-belyeu" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 31 Aug 2013 19:22:39 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/234863-the-study-of-history-is-a-powerful-antidote-to-contemporary</guid>
+		<pubDate>Sat, 31 Aug 2013 19:22:39 -0700</pubDate>
+		<title>
+			<![CDATA[Sheralyn add a quote by Paul Johnson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/234863-the-study-of-history-is-a-powerful-antidote-to-contemporary]]>
+		</link>
+		<description>
+	    <![CDATA["The study of history is a powerful antidote to contemporary arrogance. It is humbling to discover how many of our glib assumptions, which seem to us novel and plausible, have been tested before, not once but many times and in innumerable guises; and discovered to be, at great human cost, wholly false.  " -- Paul Johnson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/240236-a-deliberate-plan-is-not-always-necessary-for-the-highest</guid>
+		<pubDate>Sat, 31 Aug 2013 19:22:41 -0700</pubDate>
+		<title>
+			<![CDATA[Sheralyn add a quote by Paul Johnson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/240236-a-deliberate-plan-is-not-always-necessary-for-the-highest]]>
+		</link>
+		<description>
+	    <![CDATA["A deliberate plan is not always necessary for the highest art; it emerges." -- Paul Johnson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

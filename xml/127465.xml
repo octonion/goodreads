@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/127465-lavonne]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/127465-lavonne" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 11 Apr 2011 16:26:25 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/176860-one-must-be-a-wise-reader-to-quote-wisely-and</guid>
+		<pubDate>Mon, 11 Apr 2011 16:26:25 -0700</pubDate>
+		<title>
+			<![CDATA[Lavonne add a quote by Amos Bronson Alcott]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/176860-one-must-be-a-wise-reader-to-quote-wisely-and]]>
+		</link>
+		<description>
+	    <![CDATA["One must be a wise reader to quote wisely and well." -- Amos Bronson Alcott]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/406609-to-be-alive-is-to-have-a-story-to-tell</guid>
+		<pubDate>Sun, 10 Jul 2011 16:00:47 -0700</pubDate>
+		<title>
+			<![CDATA[Lavonne add a quote by Daniel Mendelsohn]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/406609-to-be-alive-is-to-have-a-story-to-tell]]>
+		</link>
+		<description>
+	    <![CDATA["To be alive is to have a story to tell." -- Daniel Mendelsohn]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

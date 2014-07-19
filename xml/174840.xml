@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/174840-andrew]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/174840-andrew" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 04 Dec 2007 10:49:00 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1537-a-cloud-congested-caul-that-is-alternately-red-orange-vermilion-purple</guid>
+		<pubDate>Tue, 04 Dec 2007 10:49:00 -0800</pubDate>
+		<title>
+			<![CDATA[Andrew add a quote by Stephen King]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1537-a-cloud-congested-caul-that-is-alternately-red-orange-vermilion-purple]]>
+		</link>
+		<description>
+	    <![CDATA["a cloud-congested caul that is alternately red, orange, vermilion, purple. Sometimes the clouds break apart in great, slow rafts, letting through beams of innocent yellow sunlight that are bitterly nostalgic for the summer that has gone by." -- Stephen King]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1404-if-you-don-t-have-time-to-read-you-don-t-have</guid>
+		<pubDate>Tue, 04 Dec 2007 10:49:04 -0800</pubDate>
+		<title>
+			<![CDATA[Andrew add a quote by Stephen King]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1404-if-you-don-t-have-time-to-read-you-don-t-have]]>
+		</link>
+		<description>
+	    <![CDATA["If you don't have time to read, you don't have the time (or the tools) to write. Simple as that." -- Stephen King]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

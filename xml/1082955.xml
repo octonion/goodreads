@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1082955-shirley]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1082955-shirley" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 06 Oct 2013 15:08:04 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/909186-wisdom-is-knowing-what-you-can-accept</guid>
+		<pubDate>Sun, 06 Oct 2013 15:08:04 -0700</pubDate>
+		<title>
+			<![CDATA[Shirley add a quote by Wallace Stegner]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/909186-wisdom-is-knowing-what-you-can-accept]]>
+		</link>
+		<description>
+	    <![CDATA["Wisdom is knowing what you can accept." -- Wallace Stegner]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/356910-touch-it-is-touch-that-is-the-deadliest-enemy-of</guid>
+		<pubDate>Sun, 06 Oct 2013 15:08:59 -0700</pubDate>
+		<title>
+			<![CDATA[Shirley add a quote by Wallace Stegner]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/356910-touch-it-is-touch-that-is-the-deadliest-enemy-of]]>
+		</link>
+		<description>
+	    <![CDATA["Touch.  It is touch that is the deadliest enemy of chastity, loyalty, monogamy, gentility with its codes and conventions and restraints.  By touch we are betrayed and betray others ... an accidental brushing of shoulders or touching of hands ... hands laid on shoulders in a gesture of comfort that lies like a thief, that takes, not gives, that wants, not offers, that awakes, not pacifies.  When one flesh is waiting, there is electricity in the merest contact." -- Wallace Stegner]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

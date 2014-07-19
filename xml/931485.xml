@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/931485-liza-miller]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/931485-liza-miller" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 10 Mar 2014 10:18:10 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/169789-exercise-the-writing-muscle-every-day-even-if-it-is</guid>
+		<pubDate>Mon, 10 Mar 2014 10:18:10 -0700</pubDate>
+		<title>
+			<![CDATA[Liza add a quote by Jane Yolen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/169789-exercise-the-writing-muscle-every-day-even-if-it-is]]>
+		</link>
+		<description>
+	    <![CDATA["Exercise the writing muscle every day, even if it is only a letter, notes, a title list, a character sketch, a journal entry. Writers are like dancers, like athletes. Without that exercise, the muscles seize up." -- Jane Yolen]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/40630-when-you-learn-teach-when-you-get-give</guid>
+		<pubDate>Thu, 29 May 2014 06:45:28 -0700</pubDate>
+		<title>
+			<![CDATA[Liza add a quote by Maya Angelou]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/40630-when-you-learn-teach-when-you-get-give]]>
+		</link>
+		<description>
+	    <![CDATA["When you learn, teach, when you get, give." -- Maya Angelou]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/103456-try-to-be-a-rainbow-in-someone-s-cloud</guid>
+		<pubDate>Thu, 29 May 2014 06:47:01 -0700</pubDate>
+		<title>
+			<![CDATA[Liza add a quote by Maya Angelou]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/103456-try-to-be-a-rainbow-in-someone-s-cloud]]>
+		</link>
+		<description>
+	    <![CDATA["Try to be a rainbow in someone's cloud." -- Maya Angelou]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

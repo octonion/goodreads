@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/428154-patty]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/428154-patty" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 19 Oct 2008 15:02:43 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/29269-we-were-not-a-hugging-people-in-terms-of-emotional</guid>
+		<pubDate>Sun, 19 Oct 2008 15:02:43 -0700</pubDate>
+		<title>
+			<![CDATA[Patty add a quote by David Sedaris]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/29269-we-were-not-a-hugging-people-in-terms-of-emotional]]>
+		</link>
+		<description>
+	    <![CDATA["We were not a hugging people. In terms of emotional comfort it was our belief that no amount of physical contact could match the healing powers of a well made cocktail." -- David Sedaris]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/170958-the-more-i-write-the-more-i-ve-come-to-realize</guid>
+		<pubDate>Sat, 02 Oct 2010 16:07:51 -0700</pubDate>
+		<title>
+			<![CDATA[Patty add a quote by Joe Meno]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/170958-the-more-i-write-the-more-i-ve-come-to-realize]]>
+		</link>
+		<description>
+	    <![CDATA["The more I write, the more I've come to realize that books have a different place in our society than other media. Books are different from television or film because they ask you to finish the project. You have to be actively engaged to read a book. It's more like a blueprint. What it really is, is an opportunity... A book is a place where you're forced to use your imagination. I find it disappointing that you're not being asked to imagine more." -- Joe Meno]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/18528-kathy-ketcham]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/18528-kathy-ketcham" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 25 Apr 2010 10:15:31 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/83571-but-let-us-not-put-our-sights-too-high-we</guid>
+		<pubDate>Sun, 25 Apr 2010 10:15:31 -0700</pubDate>
+		<title>
+			<![CDATA[Kathy add a quote by Jean Vanier]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/83571-but-let-us-not-put-our-sights-too-high-we]]>
+		</link>
+		<description>
+	    <![CDATA["But let us not put our sights too high. We do not have to be saviours of the world! We are simply human beings, enfolded in weakness and in hope, called together to change our world one heart at a time. (163)" -- Jean Vanier]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/796124-leanna-leavitt]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/796124-leanna-leavitt" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 28 May 2008 22:45:34 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/11465-but-better-to-get-hurt-by-the-truth-than-comforted</guid>
+		<pubDate>Wed, 28 May 2008 22:45:34 -0700</pubDate>
+		<title>
+			<![CDATA[Leanna add a quote by Khaled Hosseini]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11465-but-better-to-get-hurt-by-the-truth-than-comforted]]>
+		</link>
+		<description>
+	    <![CDATA["But better to get hurt by the truth than comforted with a lie." -- Khaled Hosseini]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/9529-it-may-be-unfair-but-what-happens-in-a-few</guid>
+		<pubDate>Wed, 28 May 2008 22:45:36 -0700</pubDate>
+		<title>
+			<![CDATA[Leanna add a quote by Khaled Hosseini]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9529-it-may-be-unfair-but-what-happens-in-a-few]]>
+		</link>
+		<description>
+	    <![CDATA["It may be unfair, but what happens in a few days, sometimes even a single day, can change the course of a whole lifetime..." -- Khaled Hosseini]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

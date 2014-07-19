@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/601432-xhoi]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/601432-xhoi" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 04 Oct 2012 10:22:11 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/272845-there-is-a-secret-bond-between-slowness-and-memory-between</guid>
+		<pubDate>Thu, 04 Oct 2012 10:22:11 -0700</pubDate>
+		<title>
+			<![CDATA[Xhoi add a quote by Milan Kundera]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/272845-there-is-a-secret-bond-between-slowness-and-memory-between]]>
+		</link>
+		<description>
+	    <![CDATA["There is a secret bond between slowness and memory, between speed and forgetting.
+
+A man is walking down the street. At a certain moment, he tries to recall something, but the recollection escapes him. Automatically, he slows down.
+
+Meanwhile, a person who wants to forget a disagreeable incident he has just lived through starts unconsciously to speed up his pace, as if he were trying to distance himeself from a thing still too close to him in time.
+
+The degree of slowness is directly proportional to the intensity of memory; the degree of speed is directly proportional to the intensity of forgettin" -- Milan Kundera]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

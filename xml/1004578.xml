@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1004578-peter]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1004578-peter" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 28 Jan 2013 17:43:40 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/718307-and-meanwhile-time-goes-about-its-immemorial-work-of-making</guid>
+		<pubDate>Mon, 28 Jan 2013 17:43:40 -0800</pubDate>
+		<title>
+			<![CDATA[Peter add a quote by Martin Amis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/718307-and-meanwhile-time-goes-about-its-immemorial-work-of-making]]>
+		</link>
+		<description>
+	    <![CDATA["And meanwhile time goes about its immemorial work of making everyone look and feel like shit. You got that? And meanwhile time goes about its immemorial work of making everyone look, and feel, like shit." -- Martin Amis]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

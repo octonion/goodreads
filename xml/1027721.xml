@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1027721-pejman-shojaeion]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1027721-pejman-shojaeion" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 11 Apr 2011 05:31:28 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/78022</guid>
+		<pubDate>Mon, 11 Apr 2011 05:31:28 -0700</pubDate>
+		<title>
+			<![CDATA[Pejman add a quote by صادق هدایت / Sadegh Hedayat]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/78022]]>
+		</link>
+		<description>
+	    <![CDATA["در همین جهان است که دست کم می توانی امیدوار باشی که روزی کلک خودت را بکنی، امیدی که در آن جهان نمی تواند وجود داشته باشد." -- صادق هدایت / Sadegh Hedayat]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/190225</guid>
+		<pubDate>Fri, 13 Jul 2012 16:03:45 -0700</pubDate>
+		<title>
+			<![CDATA[Pejman add a quote by صادق هدایت]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/190225]]>
+		</link>
+		<description>
+	    <![CDATA["تقلید عیب نیست، دزدی و چاپیدن عیب است" -- صادق هدایت]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

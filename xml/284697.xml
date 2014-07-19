@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/284697-joaryn]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/284697-joaryn" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 13 Nov 2012 05:10:55 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/573108-mawidge-is-a-dweam-wiffin-a-dweam-the-dweam-of</guid>
+		<pubDate>Tue, 13 Nov 2012 05:10:55 -0800</pubDate>
+		<title>
+			<![CDATA[JoAryn add a quote by William Goldman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/573108-mawidge-is-a-dweam-wiffin-a-dweam-the-dweam-of]]>
+		</link>
+		<description>
+	    <![CDATA["Mawidge is a dweam wiffin a dweam. The dweam of wuv wapped wiffin the gweater dweam of everwasting west. Eternity is our fwiend, wemember that, and wuv wiw fowwow you fowever." -- William Goldman]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/18634-in-that-book-which-is-my-memory-on-the-first</guid>
+		<pubDate>Thu, 27 Jun 2013 09:59:11 -0700</pubDate>
+		<title>
+			<![CDATA[JoAryn add a quote by Dante Alighieri]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18634-in-that-book-which-is-my-memory-on-the-first]]>
+		</link>
+		<description>
+	    <![CDATA["In that book which is my memory,
+On the first page of the chapter that is the day when I first met you,
+Appear the words, ‘Here begins a new life’." -- Dante Alighieri]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

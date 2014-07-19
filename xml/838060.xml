@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/838060-katsunobu-yagi]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/838060-katsunobu-yagi" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 26 Jan 2008 22:16:13 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/16380-the-only-place-where-success-comes-before-work-is-in</guid>
+		<pubDate>Sat, 26 Jan 2008 22:16:13 -0800</pubDate>
+		<title>
+			<![CDATA[Katsunobu add a quote by Vidal Sassoon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16380-the-only-place-where-success-comes-before-work-is-in]]>
+		</link>
+		<description>
+	    <![CDATA["The only place where success comes before work is in a dictionary." -- Vidal Sassoon]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3068-the-only-man-who-never-makes-mistakes-is-the-man</guid>
+		<pubDate>Fri, 23 May 2008 22:36:28 -0700</pubDate>
+		<title>
+			<![CDATA[Katsunobu add a quote by Theodore Roosevelt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3068-the-only-man-who-never-makes-mistakes-is-the-man]]>
+		</link>
+		<description>
+	    <![CDATA["The only man who never makes mistakes is the man who never does anything." -- Theodore Roosevelt]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/17985-it-s-a-recession-when-your-neighbor-loses-his-job-it-s</guid>
+		<pubDate>Sun, 27 Jan 2008 04:05:30 -0800</pubDate>
+		<title>
+			<![CDATA[Katsunobu add a quote by Harry S. Truman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17985-it-s-a-recession-when-your-neighbor-loses-his-job-it-s]]>
+		</link>
+		<description>
+	    <![CDATA["It’s a recession when your neighbor loses his job; it’s a depression when you lose your own." -- Harry S. Truman]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/145193-jal]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/145193-jal" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 04 Aug 2012 14:34:59 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/22842-you-have-brains-in-your-head-you-have-feet-in</guid>
+		<pubDate>Sat, 04 Aug 2012 14:34:59 -0700</pubDate>
+		<title>
+			<![CDATA[Jal add a quote by Dr. Seuss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22842-you-have-brains-in-your-head-you-have-feet-in]]>
+		</link>
+		<description>
+	    <![CDATA["You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. You're on your own. And you know what you know. And YOU are the one who'll decide where to go..." -- Dr. Seuss]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/387074-people-always-talk-about-how-hard-it-can-be-to</guid>
+		<pubDate>Sun, 06 Oct 2013 12:59:50 -0700</pubDate>
+		<title>
+			<![CDATA[Jal add a quote by Stephen Carpenter]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/387074-people-always-talk-about-how-hard-it-can-be-to]]>
+		</link>
+		<description>
+	    <![CDATA["People always talk about how hard it can be to remember things - where they left their keys, or the name of an acquaintance - but no one ever talks about how much effort we put into forgetting.  I am exhausted from the effort to forget... There are things that have to be forgotten if you want to go on living." -- Stephen Carpenter]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/898511-and-what-if---what-are-you-if-the-people-who-are</guid>
+		<pubDate>Sat, 22 Mar 2014 05:13:03 -0700</pubDate>
+		<title>
+			<![CDATA[Jal add a quote by Elizabeth Scott]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/898511-and-what-if---what-are-you-if-the-people-who-are]]>
+		</link>
+		<description>
+	    <![CDATA["And what if---what are you if the people who are supposed to love you can leave you like you're nothing?" -- Elizabeth Scott]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

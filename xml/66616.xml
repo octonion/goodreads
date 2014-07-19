@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/66616-charlene]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/66616-charlene" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 23 Feb 2014 08:11:59 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1057070-she-was-her-steady-self-again-the-one-about-whom</guid>
+		<pubDate>Sun, 23 Feb 2014 08:11:59 -0800</pubDate>
+		<title>
+			<![CDATA[Charlene add a quote by Gail Godwin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1057070-she-was-her-steady-self-again-the-one-about-whom]]>
+		</link>
+		<description>
+	    <![CDATA["She was her steady self again, the one about whom Nonie had said, &quot;I admire that woman.  Despite all her adversities, Beryl Jones manages to stay in control her days." -- Gail Godwin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1171375-when-loneliness-comes-stalking-go-into-the-fields-consider-the</guid>
+		<pubDate>Tue, 15 Apr 2014 09:42:56 -0700</pubDate>
+		<title>
+			<![CDATA[Charlene add a quote by Mary Oliver]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1171375-when-loneliness-comes-stalking-go-into-the-fields-consider-the]]>
+		</link>
+		<description>
+	    <![CDATA["When loneliness comes stalking, go into the fields, consider the orderliness of the world." -- Mary Oliver]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/225643-demisty-bellinger]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/225643-demisty-bellinger" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 20 Jun 2012 08:04:17 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/179791-preface-problem-nobody-reads-prefaces-solution-call-the-preface-chapter</guid>
+		<pubDate>Wed, 20 Jun 2012 08:04:17 -0700</pubDate>
+		<title>
+			<![CDATA[Demisty add a quote by Gerald M. Weinberg]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/179791-preface-problem-nobody-reads-prefaces-solution-call-the-preface-chapter]]>
+		</link>
+		<description>
+	    <![CDATA["PREFACE PROBLEM: Nobody reads prefaces.
+SOLUTION: Call the preface Chapter 1.
+NEW PROBLEM CREATED BY SOLUTION: Chapter 1 is boring.
+RESOLUTION: Throw away Chapter 1 and call Chapter 2 Chapter 1." -- Gerald M. Weinberg]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

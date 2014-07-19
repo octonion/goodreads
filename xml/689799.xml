@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/689799-josh]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/689799-josh" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 26 Sep 2012 15:19:53 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/84616-a-man-s-library-is-a-sort-of-harem</guid>
+		<pubDate>Wed, 26 Sep 2012 15:19:53 -0700</pubDate>
+		<title>
+			<![CDATA[josh add a quote by Ralph Waldo Emerson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/84616-a-man-s-library-is-a-sort-of-harem]]>
+		</link>
+		<description>
+	    <![CDATA["A man's library is a sort of harem." -- Ralph Waldo Emerson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/538129-every-morning-in-africa-a-gazelle-wakes-up-bannister-said</guid>
+		<pubDate>Wed, 26 Sep 2012 15:20:44 -0700</pubDate>
+		<title>
+			<![CDATA[josh add a quote by Christopher McDougall]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/538129-every-morning-in-africa-a-gazelle-wakes-up-bannister-said]]>
+		</link>
+		<description>
+	    <![CDATA["Every morning in Africa, a gazelle wakes up,&quot; Bannister said. &quot;It knows it must outrun the fastest lion, or it will be killed. Every morning in Africa, a lion wakes up. It knows it must run faster than the slowest gazelle, or it will starve. It doesn't matter whether you're a lion or a gazelle - when the sun comes up, you'd better be running." -- Christopher McDougall]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/196231-the-idea-of-being-strong-for-someone-else-having-never</guid>
+		<pubDate>Tue, 16 Oct 2012 23:03:16 -0700</pubDate>
+		<title>
+			<![CDATA[josh add a quote by Suzanne Collins]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/196231-the-idea-of-being-strong-for-someone-else-having-never]]>
+		</link>
+		<description>
+	    <![CDATA["The idea of being strong for someone else having never entered their heads, I find myself in the position of having to console them. Since I'm the person going in to be slaughtered, this is somewhat annoying." -- Suzanne Collins]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

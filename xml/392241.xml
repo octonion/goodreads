@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/392241-david]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/392241-david" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 18 Nov 2013 16:22:51 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/648569-allan-had-always-reasoned-about-religion-that-if-you-couldn-t</guid>
+		<pubDate>Mon, 18 Nov 2013 16:22:51 -0800</pubDate>
+		<title>
+			<![CDATA[David add a quote by Jonas Jonasson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/648569-allan-had-always-reasoned-about-religion-that-if-you-couldn-t]]>
+		</link>
+		<description>
+	    <![CDATA["Allan had always reasoned about religion that if you couldn't know for sure then there was no point in going around guessing." -- Jonas Jonasson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

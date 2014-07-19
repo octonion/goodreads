@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/72369-jessica]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/72369-jessica" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 21 Jan 2013 09:11:52 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/711371-i-ve-been-meditating-on-the-very-great-pleasure-which-a</guid>
+		<pubDate>Mon, 21 Jan 2013 09:11:52 -0800</pubDate>
+		<title>
+			<![CDATA[Jessica add a quote by Jane Austen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/711371-i-ve-been-meditating-on-the-very-great-pleasure-which-a]]>
+		</link>
+		<description>
+	    <![CDATA["I've been meditating on the very great pleasure which a pair of fine eyes in the face of a pretty woman can bestow." -- Jane Austen]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/687896-wild-nights-are-my-glory</guid>
+		<pubDate>Tue, 31 Dec 2013 12:40:17 -0800</pubDate>
+		<title>
+			<![CDATA[Jessica add a quote by Madeleine L'Engle]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/687896-wild-nights-are-my-glory]]>
+		</link>
+		<description>
+	    <![CDATA["Wild nights are my glory!" -- Madeleine L'Engle]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

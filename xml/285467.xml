@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/285467-stephanie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/285467-stephanie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 20 Oct 2010 11:17:38 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/221885-some-people-think-love-is-the-end-of-the-road</guid>
+		<pubDate>Wed, 20 Oct 2010 11:17:38 -0700</pubDate>
+		<title>
+			<![CDATA[Stephanie add a quote by Colum McCann]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/221885-some-people-think-love-is-the-end-of-the-road]]>
+		</link>
+		<description>
+	    <![CDATA["Some people think love is the end of the road, and if you're lucky enough to find it, you stay there. Other people say it just becomes a cliff you drive off, but most people who've been around awhile know it's just a thing that changes day by day, and depending on how much you fight for it, you get it, or you hold on to it, or you lose it, but sometimes it's never even there in the first place." -- Colum McCann]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/508780-in-his-view-we-were-already-a-success-because-we</guid>
+		<pubDate>Thu, 05 Jul 2012 22:15:47 -0700</pubDate>
+		<title>
+			<![CDATA[Stephanie add a quote by Kristin Kimball]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/508780-in-his-view-we-were-already-a-success-because-we]]>
+		</link>
+		<description>
+	    <![CDATA["In his view, we were already a success, because we were doing something hard and it was something that mattered to us. You don't measure things like that with words like success or failure, he said. Satisfaction comes from trying hard things and then going on to the next hard thing, regardless of the outcome. What mattered was whether or not you were moving in a direction you thought was right." -- Kristin Kimball]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

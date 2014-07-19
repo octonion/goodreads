@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/395394-nancy-perkins]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/395394-nancy-perkins" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 23 Mar 2014 07:59:01 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/33071-extremes-to-the-right-and-to-the-left-of-any</guid>
+		<pubDate>Sun, 23 Mar 2014 07:59:01 -0700</pubDate>
+		<title>
+			<![CDATA[Nancy add a quote by Dwight D. Eisenhower]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/33071-extremes-to-the-right-and-to-the-left-of-any]]>
+		</link>
+		<description>
+	    <![CDATA["Extremes to the right and to the left of any political dispute are always wrong." -- Dwight D. Eisenhower]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

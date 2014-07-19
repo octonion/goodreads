@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/194052-achie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/194052-achie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 06 Aug 2008 00:19:57 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/8449-well-for-one-thing-the-culture-we-have-does-not</guid>
+		<pubDate>Wed, 06 Aug 2008 00:19:57 -0700</pubDate>
+		<title>
+			<![CDATA[Achie add a quote by Mitch Albom]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8449-well-for-one-thing-the-culture-we-have-does-not]]>
+		</link>
+		<description>
+	    <![CDATA["Well, for one thing, the culture we have does not make people feel good about themselves. We're teaching the wrong things. And you have to be strong enough to say if the culture doesn't work, don't buy it. Create your own. Most people can't do it." -- Mitch Albom]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

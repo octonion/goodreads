@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1041014-shawna]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1041014-shawna" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 12 Jun 2014 17:56:24 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/261833-people-use-drugs-legal-and-illegal-because-their-lives-are</guid>
+		<pubDate>Thu, 12 Jun 2014 17:56:24 -0700</pubDate>
+		<title>
+			<![CDATA[Shawna add a quote by Wendell Berry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/261833-people-use-drugs-legal-and-illegal-because-their-lives-are]]>
+		</link>
+		<description>
+	    <![CDATA["People use drugs, legal and illegal, because their lives are intolerably painful or dull.  They hate their work and find no rest in their leisure.  They are estranged from their families and their neighbors.  It should tell us something that in healthy societies drug use is celebrative, convivial, and occasional, whereas among us it is lonely, shameful, and addictive.  We need drugs, apparently, because we have lost each other." -- Wendell Berry]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

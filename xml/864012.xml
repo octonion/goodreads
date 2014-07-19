@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/864012-jessica]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/864012-jessica" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 05 Dec 2008 15:33:49 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/63067-it-s-what-you-learn-after-you-know-it-all-that</guid>
+		<pubDate>Fri, 05 Dec 2008 15:33:49 -0800</pubDate>
+		<title>
+			<![CDATA[Jessica add a quote by John Wooden]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/63067-it-s-what-you-learn-after-you-know-it-all-that]]>
+		</link>
+		<description>
+	    <![CDATA["It's what you learn after you know it all that counts." -- John Wooden]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/119982-if-you-find-a-parth-with-no-obstacles-it-probably</guid>
+		<pubDate>Fri, 05 Dec 2008 15:34:24 -0800</pubDate>
+		<title>
+			<![CDATA[Jessica add a quote by Frank A Clark]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/119982-if-you-find-a-parth-with-no-obstacles-it-probably]]>
+		</link>
+		<description>
+	    <![CDATA["If you find a parth with no obstacles, it probably doesn't lead anywhere." -- Frank A Clark]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

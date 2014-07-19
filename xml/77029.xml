@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/77029-karen-renda]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/77029-karen-renda" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 26 Oct 2008 17:37:51 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/633-i-have-found-the-paradox-that-if-you-love-until</guid>
+		<pubDate>Sun, 26 Oct 2008 17:37:51 -0700</pubDate>
+		<title>
+			<![CDATA[Karen add a quote by Daphne Rae]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/633-i-have-found-the-paradox-that-if-you-love-until]]>
+		</link>
+		<description>
+	    <![CDATA["I have found the paradox, that if you love until it hurts, there can be no more hurt, only more love." -- Daphne Rae]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1173-don-t-cry-because-it-s-over-smile-because-it-happened</guid>
+		<pubDate>Sun, 26 Oct 2008 17:38:47 -0700</pubDate>
+		<title>
+			<![CDATA[Karen add a quote by Dr. Seuss ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1173-don-t-cry-because-it-s-over-smile-because-it-happened]]>
+		</link>
+		<description>
+	    <![CDATA["Don't cry because it's over, smile because it happened." -- Dr. Seuss ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3356-i-like-nonsense-it-wakes-up-the-brain-cells-fantasy</guid>
+		<pubDate>Sun, 26 Oct 2008 17:43:57 -0700</pubDate>
+		<title>
+			<![CDATA[Karen add a quote by Dr. Seuss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3356-i-like-nonsense-it-wakes-up-the-brain-cells-fantasy]]>
+		</link>
+		<description>
+	    <![CDATA["I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living." -- Dr. Seuss]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

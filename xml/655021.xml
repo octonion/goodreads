@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/655021-pam-laird]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/655021-pam-laird" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 31 Jan 2008 08:44:42 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/11516-there-was-something-appealing-in-thinking-of-a-character-with</guid>
+		<pubDate>Thu, 31 Jan 2008 08:44:42 -0800</pubDate>
+		<title>
+			<![CDATA[Pam add a quote by Karen Joy Fowler]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11516-there-was-something-appealing-in-thinking-of-a-character-with]]>
+		</link>
+		<description>
+	    <![CDATA["There was something appealing in thinking of a character with a secret life that her author knew nothing about.  Slipping off while the author's back was turned, to find love in her own way.  Showing up just in time to deliver the next bit of dialogue with an innocent face." -- Karen Joy Fowler]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

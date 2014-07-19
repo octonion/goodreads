@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1027031-angela]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1027031-angela" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 31 Jan 2013 15:13:52 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/253260-i-am-very-tired-of-this-government-which-i-have</guid>
+		<pubDate>Thu, 31 Jan 2013 15:13:52 -0800</pubDate>
+		<title>
+			<![CDATA[Angela add a quote by Naomi Novik]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/253260-i-am-very-tired-of-this-government-which-i-have]]>
+		</link>
+		<description>
+	    <![CDATA["I am very tired of this Government, which I have never seen, and which is always insisting that I must do disagreeable things, and does no good to anybody." -- Naomi Novik]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/494768-it-seems-to-me-that-if-you-wish-to-apply</guid>
+		<pubDate>Thu, 31 Jan 2013 15:14:32 -0800</pubDate>
+		<title>
+			<![CDATA[Angela add a quote by Naomi Novik]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/494768-it-seems-to-me-that-if-you-wish-to-apply]]>
+		</link>
+		<description>
+	    <![CDATA["It seems to me that if you wish to apply laws to us, it were only reasonable to consult us on them, and from what you have read to me about Parliament, I do not think any dragons are invited to go there" -- Naomi Novik]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

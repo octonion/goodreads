@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1033861-radha]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1033861-radha" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 16 Jun 2013 21:10:37 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/22738-books-books-books-i-had-found-the-secret-of-a</guid>
+		<pubDate>Sun, 16 Jun 2013 21:10:37 -0700</pubDate>
+		<title>
+			<![CDATA[Radha add a quote by Elizabeth Barrett Browning]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22738-books-books-books-i-had-found-the-secret-of-a]]>
+		</link>
+		<description>
+	    <![CDATA["Books, books, books!
+I had found the secret of a garret room
+Piled high with cases in my father’s name;
+Piled high, packed large,--where, creeping in and out
+Among the giant fossils of my past,
+Like some small nimble mouse between the ribs
+Of a mastodon, I nibbled here and there
+At this or that box, pulling through the gap,
+In heats of terror, haste, victorious joy,
+The first book first. And how I felt it beat
+Under my pillow, in the morning’s dark,
+An hour before the sun would let me read!
+My books!" -- Elizabeth Barrett Browning]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

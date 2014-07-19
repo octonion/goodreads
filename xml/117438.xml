@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/117438-jabbman42]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/117438-jabbman42" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 20 Aug 2012 22:11:11 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/520482-it-s-silly-to-be-depressed-by-it-i-mean-one</guid>
+		<pubDate>Mon, 20 Aug 2012 22:11:11 -0700</pubDate>
+		<title>
+			<![CDATA[Jabbman42 add a quote by Tom Stoppard]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/520482-it-s-silly-to-be-depressed-by-it-i-mean-one]]>
+		</link>
+		<description>
+	    <![CDATA["It's silly to be depressed by it.  I mean one thinks of it like being alive in a box, one keeps forgetting to take into account the fact that one is dead, which should make all the difference, shouldn't it?  I mean, you'd never know you were in a box would you?... Even taking into account the fact that you're dead, it isn't a pleasant thought.  Especially if you're dead, really.  Ask yourself, if I asked you straight off-- I'm going to stuff you in this box now would you rather be alive or dead?  Naturally you'd prefer to be alive.  Life in a box is better than no life at all." -- Tom Stoppard]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

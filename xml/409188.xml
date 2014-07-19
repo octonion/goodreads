@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/409188-linda]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/409188-linda" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 11 Aug 2013 19:24:53 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/68085-our-talents-are-the-gift-that-god-gives-to-us</guid>
+		<pubDate>Sun, 11 Aug 2013 19:24:53 -0700</pubDate>
+		<title>
+			<![CDATA[Linda add a quote by Leo Buscaglia]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/68085-our-talents-are-the-gift-that-god-gives-to-us]]>
+		</link>
+		<description>
+	    <![CDATA["Our talents are the gift that God gives to us... What we make of our talents is our gift back to God" -- Leo Buscaglia]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

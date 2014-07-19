@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/650139-jen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/650139-jen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 08 Dec 2007 09:08:41 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4087-choose-a-job-you-love-and-you-will-never-have</guid>
+		<pubDate>Sat, 08 Dec 2007 09:08:41 -0800</pubDate>
+		<title>
+			<![CDATA[Jen add a quote by Confucious]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4087-choose-a-job-you-love-and-you-will-never-have]]>
+		</link>
+		<description>
+	    <![CDATA["Choose a job you love, and you will never have to work a day in your life." -- Confucious]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4083-in-preparing-for-battle-i-have-always-found-that-plans</guid>
+		<pubDate>Sat, 08 Dec 2007 09:09:26 -0800</pubDate>
+		<title>
+			<![CDATA[Jen add a quote by Dwight D. Eisenhower]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4083-in-preparing-for-battle-i-have-always-found-that-plans]]>
+		</link>
+		<description>
+	    <![CDATA["In preparing for battle I have always found that plans are useless, but planning is indispensable." -- Dwight D. Eisenhower]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2253-live-as-if-you-were-to-die-tomorrow-learn-as</guid>
+		<pubDate>Mon, 14 Apr 2008 19:33:52 -0700</pubDate>
+		<title>
+			<![CDATA[Jen add a quote by Mahatma Gandhi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2253-live-as-if-you-were-to-die-tomorrow-learn-as]]>
+		</link>
+		<description>
+	    <![CDATA["Live as if you were to die tomorrow. Learn as if you were to live forever." -- Mahatma Gandhi]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

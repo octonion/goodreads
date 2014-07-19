@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/240801-kristen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/240801-kristen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 22 Mar 2008 09:51:58 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/17932-the-sidesaddle-was-designed-to-protect-a-maiden-s-virginity-while</guid>
+		<pubDate>Sat, 22 Mar 2008 09:51:58 -0700</pubDate>
+		<title>
+			<![CDATA[Kristen add a quote by Sheri S. Tepper]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17932-the-sidesaddle-was-designed-to-protect-a-maiden-s-virginity-while]]>
+		</link>
+		<description>
+	    <![CDATA["The sidesaddle was designed to protect a maiden's virginity, while risking the maiden's neck. Rather much for rather little, I thought." -- Sheri S. Tepper]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/19905-perfection-is-achieved-not-when-there-is-nothing-more-to</guid>
+		<pubDate>Sat, 22 Mar 2008 09:52:15 -0700</pubDate>
+		<title>
+			<![CDATA[Kristen add a quote by Antoine de Saint-Exupéry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/19905-perfection-is-achieved-not-when-there-is-nothing-more-to]]>
+		</link>
+		<description>
+	    <![CDATA["Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away." -- Antoine de Saint-Exupéry]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/7139-do-not-let-your-fire-go-out-spark-by-irreplaceable</guid>
+		<pubDate>Sat, 22 Mar 2008 09:53:21 -0700</pubDate>
+		<title>
+			<![CDATA[Kristen add a quote by Ayn Rand]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7139-do-not-let-your-fire-go-out-spark-by-irreplaceable]]>
+		</link>
+		<description>
+	    <![CDATA["Do not let your fire go out, spark by irreplaceable spark in the hopeless swamps of the not-quite, the not-yet, and the not-at-all. Do not let the hero in your soul perish in lonely frustration for the life you deserved and have never been able to reach. The world you desire can be won. It exists.. it is real.. it is possible.. it's yours." -- Ayn Rand]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

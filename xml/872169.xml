@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/872169-kirk-ashworth]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/872169-kirk-ashworth" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 05 Feb 2008 11:55:50 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/51-if-a-man-will-begin-with-certainties-he-shall-end</guid>
+		<pubDate>Tue, 05 Feb 2008 11:55:50 -0800</pubDate>
+		<title>
+			<![CDATA[Kirk add a quote by Francis Bacon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/51-if-a-man-will-begin-with-certainties-he-shall-end]]>
+		</link>
+		<description>
+	    <![CDATA["If a man will begin with certainties, he shall end in doubts; but if he will be content to begin with doubts, he shall end in certainties." -- Francis Bacon]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/21712-your-if-is-the-only-peacemaker-much-virtue-in-if</guid>
+		<pubDate>Tue, 05 Feb 2008 11:57:09 -0800</pubDate>
+		<title>
+			<![CDATA[Kirk add a quote by William Shakespeare]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21712-your-if-is-the-only-peacemaker-much-virtue-in-if]]>
+		</link>
+		<description>
+	    <![CDATA["Your &quot;if&quot; is the only peacemaker; much virtue in &quot;if." -- William Shakespeare]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

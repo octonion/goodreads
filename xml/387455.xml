@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/387455-douglas]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/387455-douglas" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 23 Jun 2011 05:42:40 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/352302-eventually-the-man-comes-to-see-that-he-has-a</guid>
+		<pubDate>Thu, 23 Jun 2011 05:42:40 -0700</pubDate>
+		<title>
+			<![CDATA[Douglas add a quote by Ben Loory]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/352302-eventually-the-man-comes-to-see-that-he-has-a]]>
+		</link>
+		<description>
+	    <![CDATA["Eventually the man comes to see that he has a mind, and that his mind is like a fist, wrapped tightly around a single thought. He cannot open the fist to look at the thought, for fear that it will fly away, but he knows that it is very important and that he must hang on to it, no matter what the cost." -- Ben Loory]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/109549-i-became-educated-to-the-fact-that-the-greatest-pain</guid>
+		<pubDate>Thu, 23 Jun 2011 05:43:20 -0700</pubDate>
+		<title>
+			<![CDATA[Douglas add a quote by Philip K. Dick]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/109549-i-became-educated-to-the-fact-that-the-greatest-pain]]>
+		</link>
+		<description>
+	    <![CDATA["I became educated to the fact that the greatest pain does not come zooming down from a distant planet, but from the depths of the heart. Of course, both could happen; your wife and child could leave you, and you could be sitting alone in your empty house with nothing to live for, and in addition the Martians could bore through the roof and get you." -- Philip K. Dick]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

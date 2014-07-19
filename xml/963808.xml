@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/963808-annemarie-solon]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/963808-annemarie-solon" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 22 Aug 2012 18:48:50 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/31245-i-have-never-listened-to-anyone-who-criticized-my-taste</guid>
+		<pubDate>Wed, 22 Aug 2012 18:48:50 -0700</pubDate>
+		<title>
+			<![CDATA[Annemarie add a quote by Ray Bradbury]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/31245-i-have-never-listened-to-anyone-who-criticized-my-taste]]>
+		</link>
+		<description>
+	    <![CDATA["I have never listened to anyone who criticized my taste in space travel, sideshows or gorillas. When this occurs, I pack up my dinosaurs and leave the room." -- Ray Bradbury]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/142448-a-daydreamer-is-prepared-for-most-things</guid>
+		<pubDate>Wed, 13 Mar 2013 13:48:18 -0700</pubDate>
+		<title>
+			<![CDATA[Annemarie add a quote by Joyce Carol Oates]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/142448-a-daydreamer-is-prepared-for-most-things]]>
+		</link>
+		<description>
+	    <![CDATA["A daydreamer is prepared for most things." -- Joyce Carol Oates]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/110298-i-learned-that-inspiration-does-not-come-like-a-bolt-nor</guid>
+		<pubDate>Wed, 13 Mar 2013 13:51:00 -0700</pubDate>
+		<title>
+			<![CDATA[Annemarie add a quote by Brenda Ueland]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/110298-i-learned-that-inspiration-does-not-come-like-a-bolt-nor]]>
+		</link>
+		<description>
+	    <![CDATA["I learned...that inspiration does not come like a bolt, nor is it kinetic, energetic striving, but it comes into us slowly and quietly and all the time, though we must regularly and every day give it a little chance to start flowing, prime it with a little solitude and idleness." -- Brenda Ueland]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

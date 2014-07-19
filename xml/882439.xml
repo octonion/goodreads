@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/882439-carrieanne-grucz]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/882439-carrieanne-grucz" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 20 Feb 2008 07:48:11 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/26568-i-shared-a-vagrant-optimism-that-some-of-us-were</guid>
+		<pubDate>Wed, 20 Feb 2008 07:48:11 -0800</pubDate>
+		<title>
+			<![CDATA[Carrieanne add a quote by Hunter S. Thompson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/26568-i-shared-a-vagrant-optimism-that-some-of-us-were]]>
+		</link>
+		<description>
+	    <![CDATA["I shared a vagrant optimism that some of us were making real progress, that we had taken an honest road, and that the best of us would inevitably make it over the top. At the same time, I felt that the life we were leading was a lost cause, that we were all actor, kidding ourselves on a senseless odyssey.  It was the tension between those two poles - a restless idealism on one hand and a sense of impending doom on the other - that kept me going." -- Hunter S. Thompson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

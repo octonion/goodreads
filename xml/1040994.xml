@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1040994-emily]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1040994-emily" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 28 Dec 2009 20:24:49 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/217587-oh-there-are-plenty-of-people-the-duc-used-to</guid>
+		<pubDate>Mon, 28 Dec 2009 20:24:49 -0800</pubDate>
+		<title>
+			<![CDATA[Emily add a quote by Donatien Alphonse François de Sade]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/217587-oh-there-are-plenty-of-people-the-duc-used-to]]>
+		</link>
+		<description>
+	    <![CDATA["Oh, there are plenty of people,&quot; the Duc used to observe, &quot;who never misbehave save when passion spurs them to ill; later, the fire gone out of them, their now calm spirit peacefully returns to the path of virtue and, thus passing their life going from strife to error and from error to remorse, they end their days in such a way there is no telling just what roles they have enacted on earth. Such persons,&quot; he would continue, &quot;must surely be miserable: forever drifting, continually undecided, their entire life is spent detesting in the morning what they did the evening before. Certain to repent of the pleasures they taste, they take their delight in quaking, in such sort they become at once virtuous in crime and criminal in virtue." -- Donatien Alphonse François de Sade]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/60241-blessed-are-the-sleepy-ones-for-they-shall-soon-fall</guid>
+		<pubDate>Mon, 28 Dec 2009 20:29:51 -0800</pubDate>
+		<title>
+			<![CDATA[Emily add a quote by Nietzsche, Friedrich]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/60241-blessed-are-the-sleepy-ones-for-they-shall-soon-fall]]>
+		</link>
+		<description>
+	    <![CDATA["Blessed are the sleepy ones: for they shall soon fall off." -- Nietzsche, Friedrich]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

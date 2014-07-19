@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1086617-sarah-dominguez]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1086617-sarah-dominguez" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 26 Sep 2012 08:40:53 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/533595-the-truth-is-that-the-143-million-orphaned-children-and</guid>
+		<pubDate>Wed, 26 Sep 2012 08:40:53 -0700</pubDate>
+		<title>
+			<![CDATA[Sarah add a quote by Katie J. Davis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/533595-the-truth-is-that-the-143-million-orphaned-children-and]]>
+		</link>
+		<description>
+	    <![CDATA["The truth is that the 143 million orphaned children and the 11 million who starve to death or die from preventable diseases and the 8.5 million who work as child slaves, prostitutes, or under other horrific conditions and the 2.3 million who live with HIV add up to 164.8 million needy children. And though at first glance that looks like a big number, 2.1 billion people on this earth proclaim to be Christians. The truth is that if only 8 percent of the Christians would care for one more child, there would not be any statistics left." -- Katie J. Davis]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

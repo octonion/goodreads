@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/26461-stacey]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/26461-stacey" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 03 Jan 2013 13:50:40 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/15864-everyone-seems-to-have-a-clear-idea-of-how-other</guid>
+		<pubDate>Thu, 03 Jan 2013 13:50:40 -0800</pubDate>
+		<title>
+			<![CDATA[stacey add a quote by Paulo Coelho]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/15864-everyone-seems-to-have-a-clear-idea-of-how-other]]>
+		</link>
+		<description>
+	    <![CDATA["Everyone seems to have a clear idea of how other people should lead their lives, but none about his or her own." -- Paulo Coelho]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/190190-it-s-one-thing-to-feel-that-you-are-on-the</guid>
+		<pubDate>Thu, 03 Jan 2013 17:18:56 -0800</pubDate>
+		<title>
+			<![CDATA[stacey add a quote by Paulo Coelho]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/190190-it-s-one-thing-to-feel-that-you-are-on-the]]>
+		</link>
+		<description>
+	    <![CDATA["It's one thing to feel that you are on the right path, but it's another to think that yours is the only path." -- Paulo Coelho]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/298301-most-people-do-not-listen-with-the-intent-to-understand</guid>
+		<pubDate>Sat, 27 Apr 2013 10:18:43 -0700</pubDate>
+		<title>
+			<![CDATA[stacey add a quote by Stephen R. Covey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/298301-most-people-do-not-listen-with-the-intent-to-understand]]>
+		</link>
+		<description>
+	    <![CDATA["Most people do not listen with the intent to understand; they listen with the intent to reply." -- Stephen R. Covey]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/239043-the-days-are-long-but-the-years-are-short</guid>
+		<pubDate>Tue, 13 May 2014 12:31:13 -0700</pubDate>
+		<title>
+			<![CDATA[stacey add a quote by Gretchen Rubin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/239043-the-days-are-long-but-the-years-are-short]]>
+		</link>
+		<description>
+	    <![CDATA["The days are long, but the years are short." -- Gretchen Rubin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

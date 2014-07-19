@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1005957-chris-and-yuri]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1005957-chris-and-yuri" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 20 Mar 2008 16:31:58 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/36697-the-universe-is-made-of-stories-not-of-atoms</guid>
+		<pubDate>Thu, 20 Mar 2008 16:31:58 -0700</pubDate>
+		<title>
+			<![CDATA[Chris and Yuri add a quote by Muriel Rukeyser]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/36697-the-universe-is-made-of-stories-not-of-atoms]]>
+		</link>
+		<description>
+	    <![CDATA["The universe is made of stories, not of atoms." -- Muriel Rukeyser]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/36698-the-moment-of-writing-is-not-an-escape-it-is-only</guid>
+		<pubDate>Thu, 20 Mar 2008 16:33:09 -0700</pubDate>
+		<title>
+			<![CDATA[Chris and Yuri add a quote by Larry Levis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/36698-the-moment-of-writing-is-not-an-escape-it-is-only]]>
+		</link>
+		<description>
+	    <![CDATA["The moment of writing is not an escape...it is only an insistence, through the imagination, upon human ecstasy, and a reminder that such ecstasy remains as much a birthright in this world as misery remains a condition of it." -- Larry Levis]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/43269-timor-mortis-conturbat-me</guid>
+		<pubDate>Thu, 10 Apr 2008 10:28:47 -0700</pubDate>
+		<title>
+			<![CDATA[Chris and Yuri add a quote by William Dunbar]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/43269-timor-mortis-conturbat-me]]>
+		</link>
+		<description>
+	    <![CDATA["Timor mortis conturbat me." -- William Dunbar]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

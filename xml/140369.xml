@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/140369-erin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/140369-erin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 28 Jul 2013 13:20:47 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/32855-and-we-came-forth-to-contemplate-the-stars</guid>
+		<pubDate>Sun, 28 Jul 2013 13:20:47 -0700</pubDate>
+		<title>
+			<![CDATA[Erin add a quote by Dante Alighiere]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/32855-and-we-came-forth-to-contemplate-the-stars]]>
+		</link>
+		<description>
+	    <![CDATA["And we came forth to contemplate the stars." -- Dante Alighiere]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/811236-i-suspect-the-truth-is-that-we-are-waiting-all</guid>
+		<pubDate>Wed, 05 Mar 2014 12:02:05 -0800</pubDate>
+		<title>
+			<![CDATA[Erin add a quote by Khaled Hosseini]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/811236-i-suspect-the-truth-is-that-we-are-waiting-all]]>
+		</link>
+		<description>
+	    <![CDATA["I suspect the truth is that we are waiting, all of us, against insurmountable odds, for something extraordinary to happen to us." -- Khaled Hosseini]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/806-it-takes-courage-to-grow-up-and-become-who-you</guid>
+		<pubDate>Sun, 16 Mar 2014 21:57:04 -0700</pubDate>
+		<title>
+			<![CDATA[Erin add a quote by E.E. Cummings]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/806-it-takes-courage-to-grow-up-and-become-who-you]]>
+		</link>
+		<description>
+	    <![CDATA["It takes courage to grow up and become who you really are." -- E.E. Cummings]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

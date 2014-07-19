@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/824378-amit]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/824378-amit" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 19 Sep 2012 04:43:57 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/18484-now-i-know-what-a-ghost-is-unfinished-business-that-s</guid>
+		<pubDate>Wed, 19 Sep 2012 04:43:57 -0700</pubDate>
+		<title>
+			<![CDATA[Amit add a quote by Salman Rushdie]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18484-now-i-know-what-a-ghost-is-unfinished-business-that-s]]>
+		</link>
+		<description>
+	    <![CDATA["Now I know what a ghost is. Unfinished business, that's what." -- Salman Rushdie]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/143759-from-the-beginning-men-used-god-to-justify-the-unjustifiable</guid>
+		<pubDate>Wed, 19 Sep 2012 04:44:16 -0700</pubDate>
+		<title>
+			<![CDATA[Amit add a quote by Salman Rushdie]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/143759-from-the-beginning-men-used-god-to-justify-the-unjustifiable]]>
+		</link>
+		<description>
+	    <![CDATA["From the beginning men used God to justify the unjustifiable." -- Salman Rushdie]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

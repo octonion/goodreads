@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/290500-melvin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/290500-melvin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 24 Jan 2014 01:05:52 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/917916-listen-twenty-years-ago-it-wasn-t-so-cool-to-have</guid>
+		<pubDate>Fri, 24 Jan 2014 01:05:52 -0800</pubDate>
+		<title>
+			<![CDATA[Melvin add a quote by Dave Eggers]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/917916-listen-twenty-years-ago-it-wasn-t-so-cool-to-have]]>
+		</link>
+		<description>
+	    <![CDATA["Listen, twenty years ago, it wasn’t so cool to have a calculator watch, right? And spending all day inside playing with your calculator watch sent a clear message that you weren’t doing so well socially. And judgments like ‘like’ and ‘dislike’ and ‘smiles’ and ‘frowns’ were limited to junior high. Someone would write a note and it would say, ‘Do you like unicorns and stickers?’ and you’d say, ‘Yeah, I like unicorns and stickers! Smile!’ That kind of thing. But now it’s not just junior high kids who do it, it’s everyone, and it seems to me sometimes I’ve entered some inverted zone, some mirror world where the dorkiest shit in the world is completely dominant. The world has dorkified itself." -- Dave Eggers]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

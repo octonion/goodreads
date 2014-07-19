@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/874270-heather-sheridan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/874270-heather-sheridan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 07 Mar 2008 08:13:39 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/30262-all-you-need-is-love-but-a-little-chocolate-now</guid>
+		<pubDate>Fri, 07 Mar 2008 08:13:39 -0800</pubDate>
+		<title>
+			<![CDATA[Heather add a quote by Charles M. Schulz]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/30262-all-you-need-is-love-but-a-little-chocolate-now]]>
+		</link>
+		<description>
+	    <![CDATA["All you need is love. But a little chocolate now and then doesn't hurt." -- Charles M. Schulz]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

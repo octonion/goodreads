@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/412176-human-a]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/412176-human-a" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 18 Jul 2008 20:35:51 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/20440-there-are-two-kinds-of-people-i-don-t-trust-people</guid>
+		<pubDate>Fri, 18 Jul 2008 20:35:51 -0700</pubDate>
+		<title>
+			<![CDATA[Human add a quote by Chelsea Handler]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20440-there-are-two-kinds-of-people-i-don-t-trust-people]]>
+		</link>
+		<description>
+	    <![CDATA["There are two kinds of people I don't trust: people who don't drink and people who collect stickers." -- Chelsea Handler]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/13329-i-was-very-young-and-lived-with-my-grandparents-in</guid>
+		<pubDate>Mon, 08 Sep 2008 13:36:44 -0700</pubDate>
+		<title>
+			<![CDATA[Human add a quote by Mario Vargas Llosa]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13329-i-was-very-young-and-lived-with-my-grandparents-in]]>
+		</link>
+		<description>
+	    <![CDATA["I was very young and lived with my grandparents in a villa with white walls in the Calle Ocharan, in Miraflores." -- Mario Vargas Llosa]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

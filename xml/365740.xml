@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/365740-melissa-parks]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/365740-melissa-parks" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 10 Dec 2007 01:10:11 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/767-when-you-are-sorrowful-look-again-in-your-heart-and</guid>
+		<pubDate>Mon, 10 Dec 2007 01:10:11 -0800</pubDate>
+		<title>
+			<![CDATA[Melissa add a quote by Kahlil Gibran]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/767-when-you-are-sorrowful-look-again-in-your-heart-and]]>
+		</link>
+		<description>
+	    <![CDATA["When you are sorrowful look again in your heart, and you shall see that in truth you are weeping for that which has been your delight." -- Kahlil Gibran]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/780-some-of-you-say-joy-is-greater-than-sorrow-and</guid>
+		<pubDate>Mon, 10 Dec 2007 01:10:21 -0800</pubDate>
+		<title>
+			<![CDATA[Melissa add a quote by Kahlil Gibran]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/780-some-of-you-say-joy-is-greater-than-sorrow-and]]>
+		</link>
+		<description>
+	    <![CDATA["Some of you say, “Joy is greater than sorrow,” and others say, “Nay, sorrow is the greater.”
+But I say unto you, they are inseparable.
+Together they come, and when one sits alone with you at your board, remember that the other is asleep upon your bed." -- Kahlil Gibran]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1080593-myrna]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1080593-myrna" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 01 Feb 2014 17:46:56 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/276636-if-you-have-ever-seen-a-dragon-in-a-pinch</guid>
+		<pubDate>Sat, 01 Feb 2014 17:46:56 -0800</pubDate>
+		<title>
+			<![CDATA[Myrna add a quote by J.R.R. Tolkien]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/276636-if-you-have-ever-seen-a-dragon-in-a-pinch]]>
+		</link>
+		<description>
+	    <![CDATA["If you have ever seen a dragon in a pinch, you will realize that this was only poetical exaggeration applied to any hobbit, even to Old Took's great-granduncle Bullroarer, who was so huge (for a hobbit) that he could ride a horse. He charged the ranks of the goblins of Mount Gram in the Battle of the Green Fields, and knocked their king Golfibul's head clean off with a wooden club. It sailed a hundred yards through the air and went down a rabbit-hole, and in this way the battle was won and the game of Golf was invented at the same moment." -- J.R.R. Tolkien]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

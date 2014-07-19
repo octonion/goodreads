@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1004722-deb]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1004722-deb" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 21 Jan 2012 16:28:23 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/396468-whenever-i-m-with-other-people-part-of-me-shrinks-a</guid>
+		<pubDate>Sat, 21 Jan 2012 16:28:23 -0800</pubDate>
+		<title>
+			<![CDATA[Deb add a quote by Alan Bradley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/396468-whenever-i-m-with-other-people-part-of-me-shrinks-a]]>
+		</link>
+		<description>
+	    <![CDATA["Whenever I'm with other people, part of me shrinks a little.  Only when I am alone can I fully enjoy my own company." -- Alan Bradley]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/477570-thinking-and-prayer-are-much-the-same-thing-anyway-when</guid>
+		<pubDate>Sat, 21 Jan 2012 16:32:27 -0800</pubDate>
+		<title>
+			<![CDATA[Deb add a quote by Alan Bradley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/477570-thinking-and-prayer-are-much-the-same-thing-anyway-when]]>
+		</link>
+		<description>
+	    <![CDATA["Thinking and prayer are much the same thing anyway, when you stop to think about it -- if that makes any sense. Prayer goes up and thought comes down -- or so it seems. As far as I can tell, that's the only difference." -- Alan Bradley]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

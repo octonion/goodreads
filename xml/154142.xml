@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/154142-jed]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/154142-jed" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 24 Oct 2009 18:10:05 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/91389-i-have-for-a-long-time-felt-that-our-society</guid>
+		<pubDate>Sat, 24 Oct 2009 18:10:05 -0700</pubDate>
+		<title>
+			<![CDATA[Jed add a quote by Nancy Pearl]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/91389-i-have-for-a-long-time-felt-that-our-society]]>
+		</link>
+		<description>
+	    <![CDATA["I have for a long time felt that our society is becoming more and more fractured and divisive and that you could go a whole day without really talking to another person. If you give people a good book to talk about, you can build a community out of a diverse group. A common language grows out of it." -- Nancy Pearl]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/91388-i-just-said-well-the-real-people-performing-miracles-every</guid>
+		<pubDate>Sat, 24 Oct 2009 18:10:08 -0700</pubDate>
+		<title>
+			<![CDATA[Jed add a quote by Nancy Pearl]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/91388-i-just-said-well-the-real-people-performing-miracles-every]]>
+		</link>
+		<description>
+	    <![CDATA["I just said, 'Well, the real people performing miracles every day are librarians,' and we all laughed ourselves off our chairs." -- Nancy Pearl]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

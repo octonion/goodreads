@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/584137-alexey]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/584137-alexey" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 06 Dec 2010 14:53:43 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/90661-death-is-lighter-than-a-feather-but-duty-is-heavier</guid>
+		<pubDate>Mon, 06 Dec 2010 14:53:43 -0800</pubDate>
+		<title>
+			<![CDATA[Alexey add a quote by Robert Jordan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/90661-death-is-lighter-than-a-feather-but-duty-is-heavier]]>
+		</link>
+		<description>
+	    <![CDATA["Death is lighter than a feather, but Duty is heavier than a mountain." -- Robert Jordan]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/11737-the-oldest-and-strongest-emotion-of-mankind-is-fear-and</guid>
+		<pubDate>Tue, 04 Jan 2011 16:42:49 -0800</pubDate>
+		<title>
+			<![CDATA[Alexey add a quote by H.P. Lovecraft]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11737-the-oldest-and-strongest-emotion-of-mankind-is-fear-and]]>
+		</link>
+		<description>
+	    <![CDATA["The oldest and strongest emotion of mankind is fear, and the oldest and strongest kind of fear is fear of the unknown" -- H.P. Lovecraft]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/37953-i-cannot-remember-the-books-i-ve-read-any-more-than</guid>
+		<pubDate>Mon, 26 Mar 2012 08:21:36 -0700</pubDate>
+		<title>
+			<![CDATA[Alexey add a quote by Emerson, Ralph Waldo]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/37953-i-cannot-remember-the-books-i-ve-read-any-more-than]]>
+		</link>
+		<description>
+	    <![CDATA["I cannot remember the books I've read any more than the meals I have eaten; even so, they have made me." -- Emerson, Ralph Waldo]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

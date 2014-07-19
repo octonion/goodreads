@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/642504-viviana]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/642504-viviana" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 13 Feb 2013 20:32:10 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/58850-we-have-this-idea-that-love-is-supposed-to-last</guid>
+		<pubDate>Wed, 13 Feb 2013 20:32:10 -0800</pubDate>
+		<title>
+			<![CDATA[Viviana add a quote by Neil Strauss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/58850-we-have-this-idea-that-love-is-supposed-to-last]]>
+		</link>
+		<description>
+	    <![CDATA["We have this idea that love is supposed to last forever. But love isn't like that. It's a free-flowing energy that comes and goes when it pleases. Sometimes, it stays for life; other times it stays for a second, a day, a month or a year. So don't fear love when it comes simply because it makes you vulnerable. But don't be surprised when it leaves either. Just be glad you had the opportunity to experience it." -- Neil Strauss]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

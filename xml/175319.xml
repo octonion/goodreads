@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/175319-niken]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/175319-niken" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 10 Dec 2008 01:15:44 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/14821-what-you-re-supposed-to-do-when-you-don-t-like-a</guid>
+		<pubDate>Wed, 10 Dec 2008 01:15:44 -0800</pubDate>
+		<title>
+			<![CDATA[Niken add a quote by Maya Angelou]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14821-what-you-re-supposed-to-do-when-you-don-t-like-a]]>
+		</link>
+		<description>
+	    <![CDATA["What you're supposed to do when you don't like a thing is change it. If you can't change it, change the way you think about it. Don't complain." -- Maya Angelou]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/26963-if-you-can-t-fly-then-run-if-you-can-t-run</guid>
+		<pubDate>Thu, 11 Dec 2008 17:04:26 -0800</pubDate>
+		<title>
+			<![CDATA[Niken add a quote by Martin Luther King Jr.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/26963-if-you-can-t-fly-then-run-if-you-can-t-run]]>
+		</link>
+		<description>
+	    <![CDATA["If you can't fly then run, if you can't run then walk, if you can't walk then crawl, but whatever you do you have to keep moving forward." -- Martin Luther King Jr.]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

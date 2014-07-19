@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/276434-sheila]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/276434-sheila" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 25 Sep 2012 18:40:02 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/67565-sarcasm-the-last-refuge-of-modest-and-chaste-souled-people-when</guid>
+		<pubDate>Tue, 25 Sep 2012 18:40:02 -0700</pubDate>
+		<title>
+			<![CDATA[Sheila add a quote by Dostoyevsky Fyodor]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/67565-sarcasm-the-last-refuge-of-modest-and-chaste-souled-people-when]]>
+		</link>
+		<description>
+	    <![CDATA["Sarcasm: the last refuge of modest and chaste-souled people when the PRIVACY of their soul is coarsely and intrusively invaded." -- Dostoyevsky Fyodor]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/224651-a-goal-is-not-always-meant-to-be-reached-it</guid>
+		<pubDate>Tue, 25 Sep 2012 18:58:06 -0700</pubDate>
+		<title>
+			<![CDATA[Sheila add a quote by Bruce Lee]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/224651-a-goal-is-not-always-meant-to-be-reached-it]]>
+		</link>
+		<description>
+	    <![CDATA["A goal is not always meant to be reached, it often serves simply as something to aim at." -- Bruce Lee]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

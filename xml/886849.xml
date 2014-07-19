@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/886849-megan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/886849-megan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 21 Nov 2012 08:04:43 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/70776-the-art-of-living-is-neither-careless-drifting-on-the</guid>
+		<pubDate>Wed, 21 Nov 2012 08:04:43 -0800</pubDate>
+		<title>
+			<![CDATA[Megan add a quote by Alan Wilson Watts]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/70776-the-art-of-living-is-neither-careless-drifting-on-the]]>
+		</link>
+		<description>
+	    <![CDATA["The art of living... is neither careless drifting on the one hand nor fearful clinging to the past on the other. It consists in being sensitive to each moment, in regarding it as utterly new and unique, in having the mind open and wholly receptive." -- Alan Wilson Watts]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

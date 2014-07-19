@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/421492-jen-padgett-bohle]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/421492-jen-padgett-bohle" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 27 Mar 2009 17:55:43 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/106227-only-connect</guid>
+		<pubDate>Fri, 27 Mar 2009 17:55:43 -0700</pubDate>
+		<title>
+			<![CDATA[Jen add a quote by E.M. Forster]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/106227-only-connect]]>
+		</link>
+		<description>
+	    <![CDATA["Only connect!" -- E.M. Forster]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/8780-it-was-books-that-taught-me-that-the-things-that</guid>
+		<pubDate>Mon, 12 Jul 2010 02:28:28 -0700</pubDate>
+		<title>
+			<![CDATA[Jen add a quote by James Baldwin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8780-it-was-books-that-taught-me-that-the-things-that]]>
+		</link>
+		<description>
+	    <![CDATA["It was books that taught me that the things that tormented me most were the very things that connected me with all the people who were alive, or who had ever been alive." -- James Baldwin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1872-the-paradox-of-education-is-precisely-this---that-as</guid>
+		<pubDate>Mon, 12 Jul 2010 02:29:26 -0700</pubDate>
+		<title>
+			<![CDATA[Jen add a quote by James Baldwin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1872-the-paradox-of-education-is-precisely-this---that-as]]>
+		</link>
+		<description>
+	    <![CDATA["The paradox of education is precisely this - that as one begins to become conscious one begins to examine the society in which he is being educated. " -- James Baldwin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

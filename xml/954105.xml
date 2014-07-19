@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/954105-sugi-lan-s]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/954105-sugi-lan-s" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 12 Jan 2010 10:27:19 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/71843-some-have-argued-that-because-the-universe-is-like-a</guid>
+		<pubDate>Tue, 12 Jan 2010 10:27:19 -0800</pubDate>
+		<title>
+			<![CDATA[Sugi add a quote by Thomas Cathcart]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/71843-some-have-argued-that-because-the-universe-is-like-a]]>
+		</link>
+		<description>
+	    <![CDATA["Some have argued that because the universe is like a clock, there must be a Clockmaker. As the eighteenth-century British empiricist David Hume pointed out, this is a slippery argument, because there is nothing that is really perfectly analogous to the universe as a whole, unless it's another universe, so we shouldn't try to pass off anything that is just a part of this universe. Why a clock anyhow? Hume asks. Why not say the universe is analogous to a kangaroo? After all, both are organically interconnected systems. But the kangaroo analogy would lead to a very different conclusion about the origin of the universe: namely, that it was born of another universe after that universe had sex with a third universe. " -- Thomas Cathcart]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

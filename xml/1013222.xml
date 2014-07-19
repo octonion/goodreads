@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1013222-alisa]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1013222-alisa" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 30 Dec 2012 19:16:43 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/52294-you-didn-t-kill-him-he-would-have-killed-you-but</guid>
+		<pubDate>Sun, 30 Dec 2012 19:16:43 -0800</pubDate>
+		<title>
+			<![CDATA[Alisa add a quote by Tamora Pierce]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/52294-you-didn-t-kill-him-he-would-have-killed-you-but]]>
+		</link>
+		<description>
+	    <![CDATA["You didn't kill him. He would have killed you, but you didn't kill him.&quot;
+&quot;So? He was stupid. If I killed everyone who was stupid, I wouldn't have time to sleep." -- Tamora Pierce]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

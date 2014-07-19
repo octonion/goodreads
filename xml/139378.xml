@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/139378-rachel-murphy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/139378-rachel-murphy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 15 Mar 2008 18:11:45 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/470-it-is-a-far-far-better-thing-that-i-do</guid>
+		<pubDate>Sat, 15 Mar 2008 18:11:45 -0700</pubDate>
+		<title>
+			<![CDATA[Rachel add a quote by Charles Dickens]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/470-it-is-a-far-far-better-thing-that-i-do]]>
+		</link>
+		<description>
+	    <![CDATA["It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known." -- Charles Dickens]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2119-he-was-born-with-a-gift-of-laughter-and-a</guid>
+		<pubDate>Sat, 15 Mar 2008 18:13:04 -0700</pubDate>
+		<title>
+			<![CDATA[Rachel add a quote by Rafael Sabatini]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2119-he-was-born-with-a-gift-of-laughter-and-a]]>
+		</link>
+		<description>
+	    <![CDATA["He was born with a gift of laughter and a sense that the world was mad." -- Rafael Sabatini]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/888463-norrin2]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/888463-norrin2" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 08 Feb 2008 09:10:19 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/11676-if-you-are-very-lucky-you-re-allowed-to-be-in</guid>
+		<pubDate>Fri, 08 Feb 2008 09:10:19 -0800</pubDate>
+		<title>
+			<![CDATA[Norrin2 add a quote by Jonathan Carroll]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11676-if-you-are-very-lucky-you-re-allowed-to-be-in]]>
+		</link>
+		<description>
+	    <![CDATA["If you are very lucky, you're allowed to be in certain places during just the right season of your life: by the sea for the summer when you're seven or eight and full of the absolute need to swim until dark and exhaustion close their hands together, cupping you in between." -- Jonathan Carroll]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/328134-socialism-never-took-root-in-america-because-the-poor-see</guid>
+		<pubDate>Wed, 27 Feb 2013 08:53:33 -0800</pubDate>
+		<title>
+			<![CDATA[Norrin2 add a quote by John Steinbeck]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/328134-socialism-never-took-root-in-america-because-the-poor-see]]>
+		</link>
+		<description>
+	    <![CDATA["Socialism never took root in America because the poor see themselves not as an exploited proletariat but as temporarily embarrassed millionaires." -- John Steinbeck]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

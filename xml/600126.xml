@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/600126-katherine]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/600126-katherine" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 01 Jun 2008 20:21:56 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/7367-near-and-hard-to-grasp-is-the-god-but-where</guid>
+		<pubDate>Sun, 01 Jun 2008 20:21:56 -0700</pubDate>
+		<title>
+			<![CDATA[Katherine add a quote by Friedrich Holderlin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7367-near-and-hard-to-grasp-is-the-god-but-where]]>
+		</link>
+		<description>
+	    <![CDATA["Near and hard
+  to grasp
+Is the God.
+  But where danger is
+Deliverance also grows" -- Friedrich Holderlin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

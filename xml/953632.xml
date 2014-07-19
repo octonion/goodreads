@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/953632-steven]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/953632-steven" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 10 Jul 2008 15:54:34 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/71710-life-is-just-a-series-of-peaks-and-troughs-and</guid>
+		<pubDate>Thu, 10 Jul 2008 15:54:34 -0700</pubDate>
+		<title>
+			<![CDATA[Steven add a quote by David Brent]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/71710-life-is-just-a-series-of-peaks-and-troughs-and]]>
+		</link>
+		<description>
+	    <![CDATA["Life is just a series of peaks and troughs, and you don't whether you're in a trough until you're climbing out, or on a peak until you're coming down. And that's it, you know, you never know what's round the corner. But it's all good. &quot;If you want the rainbow you've got to put up with the rain&quot;. Do you know which &quot;philosopher&quot; said that? Dolly Parton. And people say she's just a big pair of tits." -- David Brent]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

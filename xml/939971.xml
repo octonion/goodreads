@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/939971-martha]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/939971-martha" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 25 Feb 2008 01:10:04 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2058-there-is-no-friend-as-loyal-as-a-book</guid>
+		<pubDate>Mon, 25 Feb 2008 01:10:04 -0800</pubDate>
+		<title>
+			<![CDATA[Martha add a quote by Ernest Hemingway]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2058-there-is-no-friend-as-loyal-as-a-book]]>
+		</link>
+		<description>
+	    <![CDATA["There is no friend as loyal as a book." -- Ernest Hemingway]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/18131-life-is-a-great-surprise-i-do-not-see-why</guid>
+		<pubDate>Mon, 25 Feb 2008 01:13:22 -0800</pubDate>
+		<title>
+			<![CDATA[Martha add a quote by Vladimir Nabokov]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18131-life-is-a-great-surprise-i-do-not-see-why]]>
+		</link>
+		<description>
+	    <![CDATA["Life is a great surprise. I do not see why death should not be an even greater one." -- Vladimir Nabokov]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/18719-the-truth-will-set-you-free-but-not-until-it</guid>
+		<pubDate>Mon, 25 Feb 2008 01:14:23 -0800</pubDate>
+		<title>
+			<![CDATA[Martha add a quote by David Foster Wallace]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18719-the-truth-will-set-you-free-but-not-until-it]]>
+		</link>
+		<description>
+	    <![CDATA["The truth will set you free. But not until it is finished with you." -- David Foster Wallace]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

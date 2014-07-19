@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/872878-ireen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/872878-ireen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 04 Feb 2008 08:03:16 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/188-do-what-you-can-with-what-you-have-where-you</guid>
+		<pubDate>Mon, 04 Feb 2008 08:03:16 -0800</pubDate>
+		<title>
+			<![CDATA[Ireen add a quote by Theodore Roosevelt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/188-do-what-you-can-with-what-you-have-where-you]]>
+		</link>
+		<description>
+	    <![CDATA["Do what you can, with what you have, where you are." -- Theodore Roosevelt]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1816-you-may-say-i-m-a-dreamer-but-i-m-not-the</guid>
+		<pubDate>Mon, 04 Feb 2008 08:04:04 -0800</pubDate>
+		<title>
+			<![CDATA[Ireen add a quote by John Lennon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1816-you-may-say-i-m-a-dreamer-but-i-m-not-the]]>
+		</link>
+		<description>
+	    <![CDATA["You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one." -- John Lennon]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3270-success-is-not-final-failure-is-not-fatal-it-is</guid>
+		<pubDate>Mon, 04 Feb 2008 08:04:24 -0800</pubDate>
+		<title>
+			<![CDATA[Ireen add a quote by Winston S. Churchill]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3270-success-is-not-final-failure-is-not-fatal-it-is]]>
+		</link>
+		<description>
+	    <![CDATA["Success is not final, failure is not fatal: it is the courage to continue that counts." -- Winston S. Churchill]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

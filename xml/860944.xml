@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/860944-rose]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/860944-rose" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 14 May 2012 12:13:17 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/553809-and-of-course-these-days-i-feel-like-there-is</guid>
+		<pubDate>Mon, 14 May 2012 12:13:17 -0700</pubDate>
+		<title>
+			<![CDATA[Rose add a quote by Dorothy Allison]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/553809-and-of-course-these-days-i-feel-like-there-is]]>
+		</link>
+		<description>
+	    <![CDATA["And of course these days I feel like there is a nation of us - displaced southerners and children of the working class. We listen to Steve Earle, Mary J. Blige, and k.d. lang. We devour paperback novels and tell evil mean stories, value stubbornness above patience and a sense of humor more than a college education. We claim our heritage with a full appreciation of how often it has been disdained. 
+And let me promise you, you do not want to make us angry." -- Dorothy Allison]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1080364-marytank]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1080364-marytank" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 13 Apr 2008 17:31:02 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/44400-forever-is-composed-of-nows</guid>
+		<pubDate>Sun, 13 Apr 2008 17:31:02 -0700</pubDate>
+		<title>
+			<![CDATA[MaryTank add a quote by Emily Dickinson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/44400-forever-is-composed-of-nows]]>
+		</link>
+		<description>
+	    <![CDATA["Forever is composed of nows." -- Emily Dickinson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/82609-ester-asked-why-people-are-sad-that-s-simple-says-the</guid>
+		<pubDate>Sun, 12 Jul 2009 10:55:50 -0700</pubDate>
+		<title>
+			<![CDATA[MaryTank add a quote by Paulo Coelho]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/82609-ester-asked-why-people-are-sad-that-s-simple-says-the]]>
+		</link>
+		<description>
+	    <![CDATA["Ester asked why people are sad.
+&quot;That’s simple,&quot; says the old man. &quot;They are the prisoners of their personal history. Everyone believes that the main aim in life is to follow a plan. They never ask if that plan is theirs or if it was created by another person. They accumulate experiences, memories, things, other people's ideas, and it is more than they can possibly cope with. And that is why they forget their dreams." -- Paulo Coelho]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

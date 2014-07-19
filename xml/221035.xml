@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/221035-p-j]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/221035-p-j" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 06 Jul 2011 18:56:43 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/29301-you-are-the-most-dangerous-kind-of-female-the-world</guid>
+		<pubDate>Wed, 06 Jul 2011 18:56:43 -0700</pubDate>
+		<title>
+			<![CDATA[P.J. add a quote by V.C. Andrews]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/29301-you-are-the-most-dangerous-kind-of-female-the-world]]>
+		</link>
+		<description>
+	    <![CDATA["You are the most dangerous kind of female the world can ever know. You carry the seeds for your own destruction and the destruction of everyone who loves you. And a great many will love you for your beautiful face for your seductive body; but you will fail them all because you will believe they all fail you first. You are an idealist of the worst kind - the romantic idealist. Born to destroy and self destruct." -- V.C. Andrews]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

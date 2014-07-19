@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/781918-tuckova]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/781918-tuckova" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 22 Oct 2013 00:27:43 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2922-there-are-three-possible-parts-to-a-date-of-which</guid>
+		<pubDate>Tue, 22 Oct 2013 00:27:43 -0700</pubDate>
+		<title>
+			<![CDATA[Tuckova add a quote by Judith Martin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2922-there-are-three-possible-parts-to-a-date-of-which]]>
+		</link>
+		<description>
+	    <![CDATA["There are three possible parts to a date, of which at least two must be offered: entertainment, food, and affection. It is customary to begin a series of dates with a great deal of entertainment, a moderate amount of food, and the merest suggestion of affection. As the amount of affection increases, the entertainment can be reduced proportionately. When the affection IS the entertainment, we no longer call it dating. Under no circumstances can the food be omitted." -- Judith Martin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

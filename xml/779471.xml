@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/779471-james-tierney]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/779471-james-tierney" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 15 Jan 2008 06:57:57 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1223-the-noble-title-of-dissident-must-be-earned-rather-than</guid>
+		<pubDate>Tue, 15 Jan 2008 06:57:57 -0800</pubDate>
+		<title>
+			<![CDATA[James add a quote by Christopher Hitchens]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1223-the-noble-title-of-dissident-must-be-earned-rather-than]]>
+		</link>
+		<description>
+	    <![CDATA["The noble title of &quot;dissident&quot; must be earned rather than claimed; it connotes sacrifice and risk rather than mere disagreement." -- Christopher Hitchens]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5009-and-it-is-clear-that-in-the-colonial-countries-the</guid>
+		<pubDate>Tue, 15 Jan 2008 06:58:57 -0800</pubDate>
+		<title>
+			<![CDATA[James add a quote by Frantz Fanon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5009-and-it-is-clear-that-in-the-colonial-countries-the]]>
+		</link>
+		<description>
+	    <![CDATA["And it is clear that in the colonial countries the peasants alone are revolutionary, for they have nothing to lose and everything to gain. The starving peasant, outside the class system is the first among the exploited to discover that only violence pays. For him there is no compromise, no possible coming to terms; colonization and decolonization is simply a question of relative strength." -- Frantz Fanon]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

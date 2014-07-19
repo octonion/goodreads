@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/674312-coral]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/674312-coral" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 10 Dec 2007 15:37:04 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4619-i-wish-i-had-more-friends-but-people-are-such</guid>
+		<pubDate>Mon, 10 Dec 2007 15:37:04 -0800</pubDate>
+		<title>
+			<![CDATA[Coral add a quote by Bill Watterson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4619-i-wish-i-had-more-friends-but-people-are-such]]>
+		</link>
+		<description>
+	    <![CDATA["I wish I had more friends, but people are such jerks. If you can just get most people to leave you alone, you're doing good. If you can find even one person you really like, you're lucky. And if that person can also stand you, you're really lucky." -- Bill Watterson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

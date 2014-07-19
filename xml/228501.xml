@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/228501-sam]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/228501-sam" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 23 Aug 2008 05:12:45 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1944-a-woman-is-like-a-tea-bag-you-never-know</guid>
+		<pubDate>Sat, 23 Aug 2008 05:12:45 -0700</pubDate>
+		<title>
+			<![CDATA[Sam add a quote by Eleanor Roosevelt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1944-a-woman-is-like-a-tea-bag-you-never-know]]>
+		</link>
+		<description>
+	    <![CDATA["A woman is like a tea bag; you never know how strong it is until it's in hot water." -- Eleanor Roosevelt]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/69030-life-is-a-tapestry-woven-by-the-decisions-we-make</guid>
+		<pubDate>Sat, 23 Aug 2008 05:17:52 -0700</pubDate>
+		<title>
+			<![CDATA[Sam add a quote by Sherrilyn Kenyon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/69030-life-is-a-tapestry-woven-by-the-decisions-we-make]]>
+		</link>
+		<description>
+	    <![CDATA["Life is a tapestry woven by the decisions we make." -- Sherrilyn Kenyon]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/137402-she-understood-now-why-her-friend-elizabeth-with-her-near-genius</guid>
+		<pubDate>Wed, 04 Mar 2009 14:15:15 -0800</pubDate>
+		<title>
+			<![CDATA[Sam add a quote by Karen Marie Moning]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/137402-she-understood-now-why-her-friend-elizabeth-with-her-near-genius]]>
+		</link>
+		<description>
+	    <![CDATA["She understood now why her friend Elizabeth, with her near-genius, analytical mind gave wide berth to murder mysteries, psychological thrillers, and horror stories, and read only romance novels. Because, by God, when a woman picked up one of those steamy books, she had a firm guarantee that there would be a Happily-Ever-After. That though the world outside those covers could bring such sorrow and disappointment and loneliness, between those covers, the world was a splendid place to be." -- Karen Marie Moning]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

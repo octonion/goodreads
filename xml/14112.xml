@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/14112-amy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/14112-amy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 29 Jun 2011 18:16:22 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/35959-the-paperback-is-very-interesting-but-i-find-it-will</guid>
+		<pubDate>Wed, 29 Jun 2011 18:16:22 -0700</pubDate>
+		<title>
+			<![CDATA[amy add a quote by Alfred Hitchcock]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/35959-the-paperback-is-very-interesting-but-i-find-it-will]]>
+		</link>
+		<description>
+	    <![CDATA["The paperback is very interesting but I find it will never replace the hardcover book -- it makes a very poor doorstop." -- Alfred Hitchcock]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/120411-they-say-it-is-better-to-be-poor-and-happy</guid>
+		<pubDate>Wed, 29 Jun 2011 18:17:08 -0700</pubDate>
+		<title>
+			<![CDATA[amy add a quote by Princess Diana]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/120411-they-say-it-is-better-to-be-poor-and-happy]]>
+		</link>
+		<description>
+	    <![CDATA["They say it is better to be poor and happy than rich and miserable, but how about a compromise like moderately rich and just moody?" -- Princess Diana]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/13519-reality-continues-to-ruin-my-life</guid>
+		<pubDate>Wed, 29 Jun 2011 18:17:16 -0700</pubDate>
+		<title>
+			<![CDATA[amy add a quote by Bill Watterson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13519-reality-continues-to-ruin-my-life]]>
+		</link>
+		<description>
+	    <![CDATA["Reality continues to ruin my life." -- Bill Watterson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

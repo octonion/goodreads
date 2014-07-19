@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/947061-denise]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/947061-denise" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 04 May 2013 20:26:17 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/251588-leap-and-the-net-will-appear</guid>
+		<pubDate>Sat, 04 May 2013 20:26:17 -0700</pubDate>
+		<title>
+			<![CDATA[Denise add a quote by Julia Cameron]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/251588-leap-and-the-net-will-appear]]>
+		</link>
+		<description>
+	    <![CDATA["Leap, and the net will appear." -- Julia Cameron]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/673065-melissa]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/673065-melissa" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 14 Oct 2013 12:09:38 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/729995-books-have-a-unique-way-of-stopping-time-in-a</guid>
+		<pubDate>Mon, 14 Oct 2013 12:09:38 -0700</pubDate>
+		<title>
+			<![CDATA[Melissa add a quote by Dave Eggers]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/729995-books-have-a-unique-way-of-stopping-time-in-a]]>
+		</link>
+		<description>
+	    <![CDATA["Books have a unique way of stopping time in a particular moment and saying: Let’s not forget this." -- Dave Eggers]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/34052-we-are-unusual-and-tragic-and-alive</guid>
+		<pubDate>Mon, 14 Oct 2013 12:09:41 -0700</pubDate>
+		<title>
+			<![CDATA[Melissa add a quote by dave eggers]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/34052-we-are-unusual-and-tragic-and-alive]]>
+		</link>
+		<description>
+	    <![CDATA["We are unusual and tragic and alive." -- dave eggers]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

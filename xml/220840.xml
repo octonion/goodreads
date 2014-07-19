@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/220840-amanda]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/220840-amanda" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 19 Mar 2013 10:12:01 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/315361-and-once-the-storm-is-over-you-won-t-remember-how</guid>
+		<pubDate>Tue, 19 Mar 2013 10:12:01 -0700</pubDate>
+		<title>
+			<![CDATA[Amanda add a quote by haruki murakami]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/315361-and-once-the-storm-is-over-you-won-t-remember-how]]>
+		</link>
+		<description>
+	    <![CDATA["And once the storm is over, you won’t remember how you made it through, how you managed to survive. You won’t even be sure, whether the storm is really over. But one thing is certain. When you come out of the storm, you won’t be the same person who walked in. That’s what this storm’s all about." -- haruki murakami]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/626483-when-you-meet-a-man-in-the-doorway-of-a</guid>
+		<pubDate>Tue, 19 Mar 2013 10:12:10 -0700</pubDate>
+		<title>
+			<![CDATA[Amanda add a quote by Cheryl Strayed]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/626483-when-you-meet-a-man-in-the-doorway-of-a]]>
+		</link>
+		<description>
+	    <![CDATA["When you meet a man in the doorway of a Mexican restaurant who later kisses you while explaining that this kiss doesn’t “mean anything” because, much as he likes you, he is not interested in having a relationship with you or anyone right now, just laugh and kiss him back. Your daughter will have his sense of humor. Your son will have his eyes." -- Cheryl Strayed]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

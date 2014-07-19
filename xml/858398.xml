@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/858398-yougen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/858398-yougen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 19 Apr 2008 04:11:14 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3563-everything-just-blows-me-away</guid>
+		<pubDate>Sat, 19 Apr 2008 04:11:14 -0700</pubDate>
+		<title>
+			<![CDATA[Yougen add a quote by Haruki Murakami]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3563-everything-just-blows-me-away]]>
+		</link>
+		<description>
+	    <![CDATA["Everything just blows me away." -- Haruki Murakami]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4226-no-man-really-knows-about-other-human-beings-the-best</guid>
+		<pubDate>Mon, 28 Apr 2008 04:21:50 -0700</pubDate>
+		<title>
+			<![CDATA[Yougen add a quote by John Steinbeck]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4226-no-man-really-knows-about-other-human-beings-the-best]]>
+		</link>
+		<description>
+	    <![CDATA["No man really knows about other human beings. The best he can do is to suppose that they are like himself." -- John Steinbeck]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/14116-a-paranoid-is-someone-who-knows-a-little-of-what-s</guid>
+		<pubDate>Mon, 28 Apr 2008 04:32:15 -0700</pubDate>
+		<title>
+			<![CDATA[Yougen add a quote by William S. Burroughs]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14116-a-paranoid-is-someone-who-knows-a-little-of-what-s]]>
+		</link>
+		<description>
+	    <![CDATA["A paranoid is someone who knows a little of what's going on. A psychotic is a guy who's just found out what's going on." -- William S. Burroughs]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/11819-language-is-a-virus-from-outer-space</guid>
+		<pubDate>Mon, 28 Apr 2008 04:32:26 -0700</pubDate>
+		<title>
+			<![CDATA[Yougen add a quote by William S. Burroughs]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11819-language-is-a-virus-from-outer-space]]>
+		</link>
+		<description>
+	    <![CDATA["Language is a virus from outer space" -- William S. Burroughs]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

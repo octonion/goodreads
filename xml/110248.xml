@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/110248-katie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/110248-katie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 22 Aug 2013 11:30:55 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/20744-every-word-a-woman-writes-changes-the-story-of-the</guid>
+		<pubDate>Thu, 22 Aug 2013 11:30:55 -0700</pubDate>
+		<title>
+			<![CDATA[Katie add a quote by Carolyn See]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20744-every-word-a-woman-writes-changes-the-story-of-the]]>
+		</link>
+		<description>
+	    <![CDATA["Every word a woman writes changes the story of the world, revises the official version." -- Carolyn See]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/259240-i-m-not-telling-you-to-make-the-world-better-because</guid>
+		<pubDate>Wed, 28 May 2014 12:23:46 -0700</pubDate>
+		<title>
+			<![CDATA[Katie add a quote by Joan Didion]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/259240-i-m-not-telling-you-to-make-the-world-better-because]]>
+		</link>
+		<description>
+	    <![CDATA["I'm not telling you to make the world better, because I don't think that progress is necessarily part of the package. I'm just telling you to live in it. Not just to endure it, not just to suffer it, not just to pass through it, but to live in it. To look at it. To try to get the picture. To live recklessly. To take chances. To make your own work and take pride in it. To seize the moment. And if you ask me why you should bother to do that, I could tell you that the grave's a fine and private place, but none I think do there embrace. Nor do they sing there, or write, or argue, or see the tidal bore on the Amazon, or touch their children. And that's what there is to do and get it while you can and good luck at it." -- Joan Didion]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

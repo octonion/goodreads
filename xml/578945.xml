@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/578945-claire]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/578945-claire" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 31 Mar 2008 19:49:43 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/386-the-road-of-excess-leads-to-the-palace-of-wisdom</guid>
+		<pubDate>Mon, 31 Mar 2008 19:49:43 -0700</pubDate>
+		<title>
+			<![CDATA[Claire add a quote by William Blake]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/386-the-road-of-excess-leads-to-the-palace-of-wisdom]]>
+		</link>
+		<description>
+	    <![CDATA["The road of excess leads to the palace of wisdom." -- William Blake]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4408-without-deviation-from-the-norm-progress-is-not-possible</guid>
+		<pubDate>Mon, 31 Mar 2008 19:51:05 -0700</pubDate>
+		<title>
+			<![CDATA[Claire add a quote by Frank Zappa]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4408-without-deviation-from-the-norm-progress-is-not-possible]]>
+		</link>
+		<description>
+	    <![CDATA["Without deviation from the norm, progress is not possible." -- Frank Zappa]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

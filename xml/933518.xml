@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/933518-jason]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/933518-jason" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 23 Apr 2008 21:25:54 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/12496-my-mother-is-a-fish</guid>
+		<pubDate>Wed, 23 Apr 2008 21:25:54 -0700</pubDate>
+		<title>
+			<![CDATA[Jason add a quote by William Faulkner]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12496-my-mother-is-a-fish]]>
+		</link>
+		<description>
+	    <![CDATA["My mother is a fish." -- William Faulkner]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2495-do-you-hate-people-i-don-t-hate-them-i-just-feel</guid>
+		<pubDate>Wed, 18 Jun 2008 12:30:42 -0700</pubDate>
+		<title>
+			<![CDATA[Jason add a quote by Charles Bukowski]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2495-do-you-hate-people-i-don-t-hate-them-i-just-feel]]>
+		</link>
+		<description>
+	    <![CDATA["Do you hate people?
+
+I don't hate them...I just feel better when they're not around." -- Charles Bukowski]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/122363-for-god-s-sake-stay-an-atheist</guid>
+		<pubDate>Sun, 14 Dec 2008 18:49:15 -0800</pubDate>
+		<title>
+			<![CDATA[Jason add a quote by David Eric]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/122363-for-god-s-sake-stay-an-atheist]]>
+		</link>
+		<description>
+	    <![CDATA["For God's sake, stay an atheist!" -- David Eric]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4963-where-is-human-nature-so-weak-as-in-the-bookstore</guid>
+		<pubDate>Sun, 13 Nov 2011 07:49:52 -0800</pubDate>
+		<title>
+			<![CDATA[Jason add a quote by Henry Ward Beecherr]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4963-where-is-human-nature-so-weak-as-in-the-bookstore]]>
+		</link>
+		<description>
+	    <![CDATA["Where is human nature so weak as in the bookstore?" -- Henry Ward Beecherr]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/925-mauricio]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/925-mauricio" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 15 Jun 2014 00:58:47 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1249847-by-some-ardent-enthusiasts-chess-has-been-elevated-into-a</guid>
+		<pubDate>Sun, 15 Jun 2014 00:58:47 -0700</pubDate>
+		<title>
+			<![CDATA[Mauricio add a quote by Emanuel Lasker]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1249847-by-some-ardent-enthusiasts-chess-has-been-elevated-into-a]]>
+		</link>
+		<description>
+	    <![CDATA["By some ardent enthusiasts Chess has been elevated into a science or an art. It is neither; but its principle characteristic seems to be—what human nature mostly delights in—a fight." -- Emanuel Lasker]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

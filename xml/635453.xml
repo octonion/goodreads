@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/635453-jenna]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/635453-jenna" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 22 Nov 2007 09:07:17 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/399-as-young-people-we-want-something-to-slow-us-down</guid>
+		<pubDate>Thu, 22 Nov 2007 09:07:17 -0800</pubDate>
+		<title>
+			<![CDATA[Jenna add a quote by Chuck Palahniuk]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/399-as-young-people-we-want-something-to-slow-us-down]]>
+		</link>
+		<description>
+	    <![CDATA["As young people we want something to slow us down and keep us trapped in one place long enough to look below the surface of the world. That disaster is a car crash or a war. To make us sit still. It can be getting cancer or getting pregnant. The important part is how it seems to catch us by surprise. That disaster stops us from living the life we'd planned as children - a life of constant dashing around." -- Chuck Palahniuk]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/490611-the-world-is-not-a-wish-granting-factory</guid>
+		<pubDate>Wed, 01 Jan 2014 21:13:16 -0800</pubDate>
+		<title>
+			<![CDATA[Jenna add a quote by John Green]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/490611-the-world-is-not-a-wish-granting-factory]]>
+		</link>
+		<description>
+	    <![CDATA["The world is not a wish-granting factory." -- John Green]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

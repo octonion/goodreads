@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/52891-a-rye]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/52891-a-rye" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 04 Apr 2008 11:06:20 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/16831-we-all-die-the-goal-isn-t-to-live-forever-the</guid>
+		<pubDate>Fri, 04 Apr 2008 11:06:20 -0700</pubDate>
+		<title>
+			<![CDATA[A add a quote by Chuck Palahniuk]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16831-we-all-die-the-goal-isn-t-to-live-forever-the]]>
+		</link>
+		<description>
+	    <![CDATA["We all die. The goal isn't to live forever, the goal is to create something that will." -- Chuck Palahniuk]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3897-listen-to-live-is-to-be-marked-to-live-is</guid>
+		<pubDate>Fri, 04 Apr 2008 11:09:05 -0700</pubDate>
+		<title>
+			<![CDATA[A add a quote by Barbara Kingsolver]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3897-listen-to-live-is-to-be-marked-to-live-is]]>
+		</link>
+		<description>
+	    <![CDATA["Listen. To live is to be marked. To live is to change, to acquire the words of a story, and that is the only celebration we mortals really know. In perfect stillness, frankly, I've only found sorrow." -- Barbara Kingsolver]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/78821-the-system-is-not-working-that-is-how-a-paradigm</guid>
+		<pubDate>Tue, 12 Aug 2008 19:11:26 -0700</pubDate>
+		<title>
+			<![CDATA[A add a quote by Matthew Fox]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/78821-the-system-is-not-working-that-is-how-a-paradigm]]>
+		</link>
+		<description>
+	    <![CDATA["The system is not working. That is how a paradigm shift begins: the established way of seeing the world no longer functions." -- Matthew Fox]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/16736-they-were-things-for-which-it-was-impossible-to-prepare</guid>
+		<pubDate>Sat, 16 Aug 2008 23:36:11 -0700</pubDate>
+		<title>
+			<![CDATA[A add a quote by Jhumpa Lahiri]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16736-they-were-things-for-which-it-was-impossible-to-prepare]]>
+		</link>
+		<description>
+	    <![CDATA["They were things for which it was impossible to prepare but which one spent a lifetime looking back at, trying to accept, interpret, comprehend. Things that should never have happened, that seemed out of place and wrong, these were what prevailed, what endured, in the end." -- Jhumpa Lahiri]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

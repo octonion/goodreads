@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/204532-ronald-tardelly-s-x]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/204532-ronald-tardelly-s-x" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 16 Aug 2009 09:56:34 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/44463-where-there-s-hope-there-s-life-it-fills-us-with-fresh</guid>
+		<pubDate>Sun, 16 Aug 2009 09:56:34 -0700</pubDate>
+		<title>
+			<![CDATA[Ronald add a quote by Anne Frank]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/44463-where-there-s-hope-there-s-life-it-fills-us-with-fresh]]>
+		</link>
+		<description>
+	    <![CDATA["Where there's hope, there's life.  It fills us with fresh courage and makes us strong again." -- Anne Frank]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/13330-the-real-war-will-never-get-in-the-books</guid>
+		<pubDate>Sun, 16 Aug 2009 09:57:14 -0700</pubDate>
+		<title>
+			<![CDATA[Ronald add a quote by Walt Whitman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13330-the-real-war-will-never-get-in-the-books]]>
+		</link>
+		<description>
+	    <![CDATA["The real war will never get in the books." -- Walt Whitman]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/17953-el-amor-no-es-una-posibilidad-no-se-debe-a</guid>
+		<pubDate>Sun, 16 Aug 2009 09:57:43 -0700</pubDate>
+		<title>
+			<![CDATA[Ronald add a quote by Emmanuel Levinas]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17953-el-amor-no-es-una-posibilidad-no-se-debe-a]]>
+		</link>
+		<description>
+	    <![CDATA["El amor no es una posibilidad, no se debe a nuestra iniciativa, es sin razón, nos invade y nos hiere y, sin embargo, el yo sobrevive en él. Una fenomenología de la voluptuosidad -la voluptuosidad no es un placer cualquiera, porque no es un placer solitario como el comer o el beber-, parece confirmar nuestro punto de vista sobre el papel y el lugar excepcionales representados por lo femenino, y sobre la ausencia de toda fusión en el erotismo." -- Emmanuel Levinas]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

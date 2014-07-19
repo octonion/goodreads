@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/749546-ilse-thompson]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/749546-ilse-thompson" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 26 Jan 2013 15:26:06 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/113517-since-we-are-not-yet-fully-comfortable-with-the-idea</guid>
+		<pubDate>Sat, 26 Jan 2013 15:26:06 -0800</pubDate>
+		<title>
+			<![CDATA[Ilse add a quote by Demosthenes]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/113517-since-we-are-not-yet-fully-comfortable-with-the-idea]]>
+		</link>
+		<description>
+	    <![CDATA["Since we are not yet fully comfortable with the idea that people from the next village are as human as ourselves, it is presumptuous in the extreme to suppose we could ever look at sociable, tool-making creatures who are from other evolutionary paths and see not beasts, but brothers, not rivals, but fellow pilgrims journeying to the shrine of intelligence...The difference... is not in the creature judged, but in the creature judging." -- Demosthenes]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

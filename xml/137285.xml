@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/137285-regina]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/137285-regina" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 01 Feb 2008 22:00:29 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/20507-i-divide-all-readers-into-two-classes-those-who-read</guid>
+		<pubDate>Fri, 01 Feb 2008 22:00:29 -0800</pubDate>
+		<title>
+			<![CDATA[Regina add a quote by William Lyon Phelps]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20507-i-divide-all-readers-into-two-classes-those-who-read]]>
+		</link>
+		<description>
+	    <![CDATA["I divide all readers into two classes: those who read to remember and those who read to forget." -- William Lyon Phelps]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

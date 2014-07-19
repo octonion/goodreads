@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/231120-steve]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/231120-steve" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 01 Mar 2008 18:24:51 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/30032-a-man-so-painfully-in-love-is-capable-of-self-torture</guid>
+		<pubDate>Sat, 01 Mar 2008 18:24:51 -0800</pubDate>
+		<title>
+			<![CDATA[Steve add a quote by John Steinbeck]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/30032-a-man-so-painfully-in-love-is-capable-of-self-torture]]>
+		</link>
+		<description>
+	    <![CDATA["A man so painfully in love is capable of self-torture beyond belief." -- John Steinbeck]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/34997-men-don-t-get-knocked-out-or-i-mean-they-can</guid>
+		<pubDate>Fri, 04 Apr 2008 19:48:52 -0700</pubDate>
+		<title>
+			<![CDATA[Steve add a quote by John Steinbeck]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/34997-men-don-t-get-knocked-out-or-i-mean-they-can]]>
+		</link>
+		<description>
+	    <![CDATA["Men don't get knocked out, or I mean they can fight back against big things. What kills them is erosion; they get nudged into failure. They get slowly scared.[...]It's slow. It rots out your guts." -- John Steinbeck]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/48824-i-wanted-all-of-her-and-resented-other-boys-for</guid>
+		<pubDate>Sun, 27 Apr 2008 02:02:58 -0700</pubDate>
+		<title>
+			<![CDATA[Steve add a quote by Jonathan Franzen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/48824-i-wanted-all-of-her-and-resented-other-boys-for]]>
+		</link>
+		<description>
+	    <![CDATA["I wanted all of her and resented other boys for wanting any part of her." -- Jonathan Franzen]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/895965-ianih2002]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/895965-ianih2002" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 26 Feb 2008 06:28:56 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/28487-el-hombre-de-hoy-vive-a-alta-presi-n-ante-el</guid>
+		<pubDate>Tue, 26 Feb 2008 06:28:56 -0800</pubDate>
+		<title>
+			<![CDATA[Ianih2002 add a quote by Ernesto Sabato]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/28487-el-hombre-de-hoy-vive-a-alta-presi-n-ante-el]]>
+		</link>
+		<description>
+	    <![CDATA["El hombre de hoy vive a alta presión, ante el peligro de la aniquilación y de la muerte, de la tortura y la soledad. Es un hombre de situaciones extremas, ha llegado o está frente a los límites últimos de su existencia. La literatura que lo describe e indaga no puede ser, pues, sino una literatura de situaciones excepcionales." -- Ernesto Sabato]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

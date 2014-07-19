@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/829213-alif-fikri]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/829213-alif-fikri" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 02 Feb 2008 09:00:19 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/20600-today-i-meet-with-dr-syamsuddin-arif-he-said-prof</guid>
+		<pubDate>Sat, 02 Feb 2008 09:00:19 -0800</pubDate>
+		<title>
+			<![CDATA[Alif add a quote by Syed Muhammad Naquib al-Attas]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20600-today-i-meet-with-dr-syamsuddin-arif-he-said-prof]]>
+		</link>
+		<description>
+	    <![CDATA["Today I meet with Dr. Syamsuddin Arif. He said Prof. al-Attas says, &quot;I don't read much but I think a lot" -- Syed Muhammad Naquib al-Attas]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1008027-lisboa]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1008027-lisboa" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 08 Feb 2011 13:09:53 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/21959-there-is-nothing-either-good-or-bad-but-thinking-makes</guid>
+		<pubDate>Tue, 08 Feb 2011 13:09:53 -0800</pubDate>
+		<title>
+			<![CDATA[Lisboa add a quote by William Shakespear]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/21959-there-is-nothing-either-good-or-bad-but-thinking-makes]]>
+		</link>
+		<description>
+	    <![CDATA["There is nothing either good or bad, but thinking makes it so." -- William Shakespear]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/98984-the-whole-point-about-getting-things-done-is-knowing-what</guid>
+		<pubDate>Tue, 08 Feb 2011 13:09:53 -0800</pubDate>
+		<title>
+			<![CDATA[Lisboa add a quote by Lady Stella Reading]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/98984-the-whole-point-about-getting-things-done-is-knowing-what]]>
+		</link>
+		<description>
+	    <![CDATA["The whole point about getting things done is knowing what to leave undone.  " -- Lady Stella Reading]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/54835-everyone-is-a-moon-and-has-a-dark-side-which</guid>
+		<pubDate>Tue, 08 Feb 2011 13:10:21 -0800</pubDate>
+		<title>
+			<![CDATA[Lisboa add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/54835-everyone-is-a-moon-and-has-a-dark-side-which]]>
+		</link>
+		<description>
+	    <![CDATA["Everyone is a moon, and has a dark side which he never shows to anybody." -- Mark Twain]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/37414-i-will-not-say-do-not-weep-for-not-all</guid>
+		<pubDate>Tue, 08 Feb 2011 13:13:30 -0800</pubDate>
+		<title>
+			<![CDATA[Lisboa add a quote by J.R.R. Tolkien]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/37414-i-will-not-say-do-not-weep-for-not-all]]>
+		</link>
+		<description>
+	    <![CDATA["I will not say, do not weep, for not all tears are an evil." -- J.R.R. Tolkien]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

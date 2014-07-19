@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/996648-grey]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/996648-grey" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 22 Aug 2008 20:07:38 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/85279-lost-people-are-different-they-will-drive-around-in-the</guid>
+		<pubDate>Fri, 22 Aug 2008 20:07:38 -0700</pubDate>
+		<title>
+			<![CDATA[Grey add a quote by jill a. davis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/85279-lost-people-are-different-they-will-drive-around-in-the]]>
+		</link>
+		<description>
+	    <![CDATA["Lost people are different. They will drive around in the same circle over and over rather than try a new path. Their fear of getting more lost paralyzes them into staying lost in the area that's just become familiar. It supersedes their ability to chart a new course. They circle and backtrack and stay comfortably lost because it's less scary than seeing something different than what's presently in front of them." -- jill a. davis]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

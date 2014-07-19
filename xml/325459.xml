@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/325459-ellie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/325459-ellie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Feb 2014 08:38:16 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/43628-change-is-the-end-result-of-all-true-learning</guid>
+		<pubDate>Tue, 11 Feb 2014 08:38:16 -0800</pubDate>
+		<title>
+			<![CDATA[Ellie add a quote by Leo Buscaglia]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/43628-change-is-the-end-result-of-all-true-learning]]>
+		</link>
+		<description>
+	    <![CDATA["Change is the end result of all true learning." -- Leo Buscaglia]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/870673-once-you-ve-accepted-your-flaws-no-one-can-use-them</guid>
+		<pubDate>Tue, 25 Feb 2014 12:24:32 -0800</pubDate>
+		<title>
+			<![CDATA[Ellie add a quote by George R.R. Martin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/870673-once-you-ve-accepted-your-flaws-no-one-can-use-them]]>
+		</link>
+		<description>
+	    <![CDATA["Once you’ve accepted your flaws, no one can use them against you." -- George R.R. Martin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/386558-there-is-only-one-god-and-his-name-is-death</guid>
+		<pubDate>Tue, 25 Feb 2014 12:24:34 -0800</pubDate>
+		<title>
+			<![CDATA[Ellie add a quote by George R. R. Martin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/386558-there-is-only-one-god-and-his-name-is-death]]>
+		</link>
+		<description>
+	    <![CDATA["There is only one god and his name is Death. And there is only one thing we say to Death: “Not today." -- George R. R. Martin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

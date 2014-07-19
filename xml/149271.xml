@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/149271-jeff]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/149271-jeff" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 07 Jan 2013 16:53:27 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/331974-i-had-been-there-before-i-knew-all-about-it</guid>
+		<pubDate>Mon, 07 Jan 2013 16:53:27 -0800</pubDate>
+		<title>
+			<![CDATA[Jeff add a quote by Evelyn Waugh]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/331974-i-had-been-there-before-i-knew-all-about-it]]>
+		</link>
+		<description>
+	    <![CDATA["I had been there before; I knew all about it." -- Evelyn Waugh]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

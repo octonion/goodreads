@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/666171-patie-madzulu]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/666171-patie-madzulu" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 07 Dec 2007 03:22:23 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/18830-finish-each-day-and-be-done-with-it-you-have</guid>
+		<pubDate>Fri, 07 Dec 2007 03:22:23 -0800</pubDate>
+		<title>
+			<![CDATA[Patie add a quote by Ralph Waldo Emerson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18830-finish-each-day-and-be-done-with-it-you-have]]>
+		</link>
+		<description>
+	    <![CDATA["Finish each day and be done with it. You have done what you could.  Some blunders and absurdities no doubt crept in; forget them as soon as you can. Tomorrow is a new day.  You shall begin it serenely and with too high a spirit to be encumbered with your old nonsense." -- Ralph Waldo Emerson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/353-for-every-minute-you-are-angry-you-lose-sixty-seconds</guid>
+		<pubDate>Fri, 07 Dec 2007 03:25:01 -0800</pubDate>
+		<title>
+			<![CDATA[Patie add a quote by Ralph Waldo Emerson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/353-for-every-minute-you-are-angry-you-lose-sixty-seconds]]>
+		</link>
+		<description>
+	    <![CDATA["For every minute you are angry you lose sixty seconds of happiness." -- Ralph Waldo Emerson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/943-darkness-cannot-drive-out-darkness-only-light-can-do-that</guid>
+		<pubDate>Fri, 07 Dec 2007 03:26:25 -0800</pubDate>
+		<title>
+			<![CDATA[Patie add a quote by Martin Luther King Jr.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/943-darkness-cannot-drive-out-darkness-only-light-can-do-that]]>
+		</link>
+		<description>
+	    <![CDATA["Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that." -- Martin Luther King Jr.]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/778-it-is-not-a-lack-of-love-but-a-lack</guid>
+		<pubDate>Fri, 07 Dec 2007 03:27:26 -0800</pubDate>
+		<title>
+			<![CDATA[Patie add a quote by Friedrich Nietzsche]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/778-it-is-not-a-lack-of-love-but-a-lack]]>
+		</link>
+		<description>
+	    <![CDATA["It is not a lack of love, but a lack of friendship that makes unhappy marriages." -- Friedrich Nietzsche]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

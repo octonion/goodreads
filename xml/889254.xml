@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/889254-justin-edgington]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/889254-justin-edgington" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 10 Sep 2013 11:52:19 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/241918-for-west-is-where-we-all-plan-to-go-some</guid>
+		<pubDate>Tue, 10 Sep 2013 11:52:19 -0700</pubDate>
+		<title>
+			<![CDATA[Justin add a quote by Robert Penn Warren]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/241918-for-west-is-where-we-all-plan-to-go-some]]>
+		</link>
+		<description>
+	    <![CDATA["For West is where we all plan to go some day. It is where you go when the land gives out and the old-field pines encroach. It is where you go when you get the letter saying: Flee, all is discovered. It is where you go when you look down at the blade in your hand and the blood on it. It is where you go when you are told that you are a bubble on the tide of empire. It is where you go when you hear that thar's gold in them-thar hills. It is where you go to grow up with the country. It is where you go to spend your old age. Or it is just where you go." -- Robert Penn Warren]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/58139-what-good-is-knowledge-if-it-just-floats-in-the</guid>
+		<pubDate>Tue, 10 Sep 2013 12:20:23 -0700</pubDate>
+		<title>
+			<![CDATA[Justin add a quote by Don DeLillo]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/58139-what-good-is-knowledge-if-it-just-floats-in-the]]>
+		</link>
+		<description>
+	    <![CDATA["What good is knowledge if it just floats in the air? It goes from computer to computer. It changes and grows every second of every day. But nobody actually knows anything." -- Don DeLillo]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

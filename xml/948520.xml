@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/948520-catherine]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/948520-catherine" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 20 Apr 2010 00:31:03 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/10133-and-therefore-i-am-come-amongst-you-at-this-time</guid>
+		<pubDate>Tue, 20 Apr 2010 00:31:03 -0700</pubDate>
+		<title>
+			<![CDATA[Catherine add a quote by Queen Elizabeth I]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10133-and-therefore-i-am-come-amongst-you-at-this-time]]>
+		</link>
+		<description>
+	    <![CDATA["And therefore I am come amongst you at this time, not as for my recreation or sport, but being resolved, in the midst and heat of the battle, to live or die amongst you all; to lay down, for my God, and for my kingdom, and for my people, my honour and my blood, even the dust. I know I have but the body of a weak and feeble woman; but I have the heart of a king, and of a king of England, too." -- Queen Elizabeth I]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/142476-jillian]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/142476-jillian" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 21 Nov 2012 09:09:54 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/8332-after-a-good-dinner-one-can-forgive-anybody-even-one-s</guid>
+		<pubDate>Wed, 21 Nov 2012 09:09:54 -0800</pubDate>
+		<title>
+			<![CDATA[Jillian add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8332-after-a-good-dinner-one-can-forgive-anybody-even-one-s]]>
+		</link>
+		<description>
+	    <![CDATA["After a good dinner one can forgive anybody, even one's own relations." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/954706-if-it-was-my-lot-that-i-should-have-him</guid>
+		<pubDate>Wed, 04 Dec 2013 17:29:58 -0800</pubDate>
+		<title>
+			<![CDATA[Jillian add a quote by Jillian Kuhlmann]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/954706-if-it-was-my-lot-that-i-should-have-him]]>
+		</link>
+		<description>
+	    <![CDATA["If it was my lot that I should have him for only a little while, then have him I would." -- Jillian Kuhlmann]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1268691-i-wonder-if-i-can-get-pizza-in-avalon</guid>
+		<pubDate>Tue, 01 Jul 2014 09:38:17 -0700</pubDate>
+		<title>
+			<![CDATA[Jillian add a quote by Stacey O'Neale]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1268691-i-wonder-if-i-can-get-pizza-in-avalon]]>
+		</link>
+		<description>
+	    <![CDATA["I wonder if I can get pizza in Avalon." -- Stacey O'Neale]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

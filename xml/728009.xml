@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/728009-tyler]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/728009-tyler" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 08 Jan 2014 14:04:44 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/987525-perhaps-kids-really-did-come-into-the-world-trailing-clouds</guid>
+		<pubDate>Wed, 08 Jan 2014 14:04:44 -0800</pubDate>
+		<title>
+			<![CDATA[Tyler add a quote by Stephen King]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/987525-perhaps-kids-really-did-come-into-the-world-trailing-clouds]]>
+		</link>
+		<description>
+	    <![CDATA["Perhaps kids really did come into the world trailing clouds of glory, as Wordsworth had so confidently proclaimed, but they also shit in their pants until they learned better." -- Stephen King]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1051472-the-road-and-the-mysteries-that-lie-along-it-calls</guid>
+		<pubDate>Wed, 19 Feb 2014 20:55:33 -0800</pubDate>
+		<title>
+			<![CDATA[Tyler add a quote by Stephen King]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1051472-the-road-and-the-mysteries-that-lie-along-it-calls]]>
+		</link>
+		<description>
+	    <![CDATA["The road, and the mysteries that lie along it, calls out to none as it calls to the young." -- Stephen King]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1179920-i-wanted-to-leave-every-day-the-sun-would-set</guid>
+		<pubDate>Sun, 20 Apr 2014 21:40:42 -0700</pubDate>
+		<title>
+			<![CDATA[Tyler add a quote by Stephen King]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1179920-i-wanted-to-leave-every-day-the-sun-would-set]]>
+		</link>
+		<description>
+	    <![CDATA["I wanted to leave. Every day the sun would set a little earlier, and every day I’d feel the call of those roads, those highways in hiding, a little more strongly. Some of it might have been the fabled geographic cure, to which I believe I have already alluded. It’s a wholly illogical but nonetheless powerful belief that things will change for the better in a new place; that the urge to self-destruct will magically disappear." -- Stephen King]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

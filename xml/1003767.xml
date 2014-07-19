@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1003767-javier]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1003767-javier" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 16 Nov 2008 12:24:56 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/114746-oh-life-you-should-never-had-begun-but-since-you</guid>
+		<pubDate>Sun, 16 Nov 2008 12:24:56 -0800</pubDate>
+		<title>
+			<![CDATA[Javier add a quote by Baltasar Gracian]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/114746-oh-life-you-should-never-had-begun-but-since-you]]>
+		</link>
+		<description>
+	    <![CDATA["Oh life, you should never had begun, but since you did, you should never end" -- Baltasar Gracian]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/594112-it-s-impossible-to-defend-oneself-in-the-absence-of-goodwill</guid>
+		<pubDate>Tue, 24 Jul 2012 20:38:58 -0700</pubDate>
+		<title>
+			<![CDATA[Javier add a quote by Franz Kafka]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/594112-it-s-impossible-to-defend-oneself-in-the-absence-of-goodwill]]>
+		</link>
+		<description>
+	    <![CDATA["It's impossible to defend oneself in the absence of goodwill" -- Franz Kafka]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/741992-i-only-fear-the-death-of-others-for-me-true</guid>
+		<pubDate>Tue, 26 Feb 2013 21:52:16 -0800</pubDate>
+		<title>
+			<![CDATA[Javier add a quote by Jean Cocteau ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/741992-i-only-fear-the-death-of-others-for-me-true]]>
+		</link>
+		<description>
+	    <![CDATA["I only fear the death of others. For me, true death is that of the people I love" -- Jean Cocteau ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/750878-the-pride-of-those-who-cannot-edify-lies-in-destruction</guid>
+		<pubDate>Sat, 09 Mar 2013 19:15:57 -0800</pubDate>
+		<title>
+			<![CDATA[Javier add a quote by Alexandre Dumas père]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/750878-the-pride-of-those-who-cannot-edify-lies-in-destruction]]>
+		</link>
+		<description>
+	    <![CDATA["The pride of those who cannot edify lies in destruction" -- Alexandre Dumas père]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

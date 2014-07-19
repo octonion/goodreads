@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/937146-heather]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/937146-heather" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 24 Feb 2008 10:52:54 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/17062-i-do-not-want-people-to-be-very-agreeable-as</guid>
+		<pubDate>Sun, 24 Feb 2008 10:52:54 -0800</pubDate>
+		<title>
+			<![CDATA[Heather add a quote by Jane Austen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17062-i-do-not-want-people-to-be-very-agreeable-as]]>
+		</link>
+		<description>
+	    <![CDATA["I do not want people to be very agreeable, as it saves me the trouble of liking them a great deal." -- Jane Austen]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/876-to-be-yourself-in-a-world-that-is-constantly-trying</guid>
+		<pubDate>Sun, 24 Feb 2008 10:54:09 -0800</pubDate>
+		<title>
+			<![CDATA[Heather add a quote by Ralph Waldo Emerson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/876-to-be-yourself-in-a-world-that-is-constantly-trying]]>
+		</link>
+		<description>
+	    <![CDATA["To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment." -- Ralph Waldo Emerson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/10123-you-ve-gotta-dance-like-there-s-nobody-watching-love-like-you-ll</guid>
+		<pubDate>Sun, 24 Feb 2008 10:55:21 -0800</pubDate>
+		<title>
+			<![CDATA[Heather add a quote by William W. Purkey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10123-you-ve-gotta-dance-like-there-s-nobody-watching-love-like-you-ll]]>
+		</link>
+		<description>
+	    <![CDATA["You've gotta dance like there's nobody watching,
+Love like you'll never be hurt,
+Sing like there's nobody listening,
+And live like it's heaven on earth." -- William W. Purkey]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

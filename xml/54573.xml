@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/54573-raymond]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/54573-raymond" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 13 Apr 2013 13:23:57 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/618952-every-time-something-really-bad-happens-people-cry-out-for</guid>
+		<pubDate>Sat, 13 Apr 2013 13:23:57 -0700</pubDate>
+		<title>
+			<![CDATA[Raymond add a quote by Penn Jillette]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/618952-every-time-something-really-bad-happens-people-cry-out-for]]>
+		</link>
+		<description>
+	    <![CDATA["Every time something really bad happens, people cry out for safety, and the government answers by taking rights away from good people. We have no proof that the bad, stupid crazy people who have planted bombs in the past few years used the phone much for their stupid bad crimes, let alone logged on the Internet. Yet when those kind of bad things happen nowadays, the government tries to do bad things to phones and the Net. The phones and the Internet are just good smart things, and the government should leave them alone. You have to watch the government all the time on everything. Thomas Jefferson didn't say that, but he said something very close to that." -- Penn Jillette]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

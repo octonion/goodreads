@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1025648-matt-s]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1025648-matt-s" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 26 Mar 2008 19:54:39 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/33864-i-never-said-to-be-like-me-i-say-be</guid>
+		<pubDate>Wed, 26 Mar 2008 19:54:39 -0700</pubDate>
+		<title>
+			<![CDATA[Matt S add a quote by Marilyn Manson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/33864-i-never-said-to-be-like-me-i-say-be]]>
+		</link>
+		<description>
+	    <![CDATA["I never said to be like me, I say be yourself and make a difference." -- Marilyn Manson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4297-my-tastes-are-simple-i-am-easily-satisfied-with-the</guid>
+		<pubDate>Wed, 26 Mar 2008 19:55:41 -0700</pubDate>
+		<title>
+			<![CDATA[Matt S add a quote by Winston S. Churchill]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4297-my-tastes-are-simple-i-am-easily-satisfied-with-the]]>
+		</link>
+		<description>
+	    <![CDATA["My tastes are simple: I am easily satisfied with the best." -- Winston S. Churchill]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/9328-in-heaven-all-the-interesting-people-are-missing</guid>
+		<pubDate>Wed, 26 Mar 2008 19:58:05 -0700</pubDate>
+		<title>
+			<![CDATA[Matt S add a quote by Friedrich Nietzsche]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9328-in-heaven-all-the-interesting-people-are-missing]]>
+		</link>
+		<description>
+	    <![CDATA["In heaven, all the interesting people are missing." -- Friedrich Nietzsche]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

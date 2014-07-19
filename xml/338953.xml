@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/338953-aris-azhari]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/338953-aris-azhari" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Dec 2012 17:52:01 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/378282-le-coeur-a-ses-raisons-que-le-raison-ne-conna-t</guid>
+		<pubDate>Tue, 11 Dec 2012 17:52:01 -0800</pubDate>
+		<title>
+			<![CDATA[Aris Azhari add a quote by Blaise Pascal]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/378282-le-coeur-a-ses-raisons-que-le-raison-ne-conna-t]]>
+		</link>
+		<description>
+	    <![CDATA["Le coeur a ses raisons que le raison ne connaît point." -- Blaise Pascal]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/8526-memories-warm-you-up-from-the-inside-but-they-also</guid>
+		<pubDate>Wed, 17 Jul 2013 02:07:18 -0700</pubDate>
+		<title>
+			<![CDATA[Aris Azhari add a quote by Haruki Murakami]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8526-memories-warm-you-up-from-the-inside-but-they-also]]>
+		</link>
+		<description>
+	    <![CDATA["Memories warm you up from the inside. But they also tear you apart." -- Haruki Murakami]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/72160-if-you-only-read-the-books-that-everyone-else-is</guid>
+		<pubDate>Wed, 17 Jul 2013 02:07:20 -0700</pubDate>
+		<title>
+			<![CDATA[Aris Azhari add a quote by Haruki Murakami]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/72160-if-you-only-read-the-books-that-everyone-else-is]]>
+		</link>
+		<description>
+	    <![CDATA["If you only read the books that everyone else is reading, you can only think what everyone else is thinking." -- Haruki Murakami]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

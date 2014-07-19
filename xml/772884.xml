@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/772884-elena]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/772884-elena" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 02 Jun 2008 12:31:12 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/59823-but-i-don-t-have-anything-left-inside-of-me-to</guid>
+		<pubDate>Mon, 02 Jun 2008 12:31:12 -0700</pubDate>
+		<title>
+			<![CDATA[Elena add a quote by Amy Tan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/59823-but-i-don-t-have-anything-left-inside-of-me-to]]>
+		</link>
+		<description>
+	    <![CDATA["But I don't have anything left inside of me to figure out where I fit in or what I want.  If I want anything, it's to know what's possible to want." -- Amy Tan]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/59824-a-story-untold-could-be-the-one-that-kills-you</guid>
+		<pubDate>Mon, 02 Jun 2008 12:33:40 -0700</pubDate>
+		<title>
+			<![CDATA[Elena add a quote by Pat Conroy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/59824-a-story-untold-could-be-the-one-that-kills-you]]>
+		</link>
+		<description>
+	    <![CDATA["A story untold could be the one that kills you." -- Pat Conroy]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/59826-stories-are-like-genies-they-can-carry-us-into-and-though</guid>
+		<pubDate>Mon, 02 Jun 2008 12:36:08 -0700</pubDate>
+		<title>
+			<![CDATA[Elena add a quote by Francesca Lia Block]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/59826-stories-are-like-genies-they-can-carry-us-into-and-though]]>
+		</link>
+		<description>
+	    <![CDATA["Stories are like genies...They can carry us into and though our sorrows.  Sometimes they burn, sometimes they dance, sometimes they weep, sometimes they sing.  Like genies, everyone has one.  Like genies, sometimes we forget that we do.
+Our stories can set us free...When we set them free." -- Francesca Lia Block]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

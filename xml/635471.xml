@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/635471-jaci]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/635471-jaci" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 10 Nov 2008 09:01:23 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/112982-ooooer</guid>
+		<pubDate>Mon, 10 Nov 2008 09:01:23 -0800</pubDate>
+		<title>
+			<![CDATA[Jaci add a quote by Georgia Nicolson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/112982-ooooer]]>
+		</link>
+		<description>
+	    <![CDATA["ooooer" -- Georgia Nicolson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/10554-friendship-is-born-at-that-moment-when-one-man-says</guid>
+		<pubDate>Mon, 10 Nov 2008 09:05:14 -0800</pubDate>
+		<title>
+			<![CDATA[Jaci add a quote by C.S. Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10554-friendship-is-born-at-that-moment-when-one-man-says]]>
+		</link>
+		<description>
+	    <![CDATA["Friendship is born at that moment when one man says to another: &quot;What! You too? I thought that no one but myself . . .&amp;#34;" -- C.S. Lewis]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3356-i-like-nonsense-it-wakes-up-the-brain-cells-fantasy</guid>
+		<pubDate>Mon, 10 Nov 2008 09:07:17 -0800</pubDate>
+		<title>
+			<![CDATA[Jaci add a quote by Dr. Seuss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3356-i-like-nonsense-it-wakes-up-the-brain-cells-fantasy]]>
+		</link>
+		<description>
+	    <![CDATA["I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living." -- Dr. Seuss]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/146217-remember-we-re-madly-in-love-so-it-s-all-right-to</guid>
+		<pubDate>Thu, 12 Mar 2009 09:13:22 -0700</pubDate>
+		<title>
+			<![CDATA[Jaci add a quote by Suzanne Collins]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/146217-remember-we-re-madly-in-love-so-it-s-all-right-to]]>
+		</link>
+		<description>
+	    <![CDATA["Remember, we're madly in love, so it's all right to kiss me anytime you feel like it." -- Suzanne Collins]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

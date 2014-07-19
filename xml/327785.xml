@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/327785-jenny]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/327785-jenny" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 21 Apr 2013 11:23:14 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/606512-you-can-tell-whether-some-misogynistic-societal-pressure-is-being</guid>
+		<pubDate>Sun, 21 Apr 2013 11:23:14 -0700</pubDate>
+		<title>
+			<![CDATA[Jenny add a quote by Caitlin Moran]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/606512-you-can-tell-whether-some-misogynistic-societal-pressure-is-being]]>
+		</link>
+		<description>
+	    <![CDATA["You can tell whether some misogynistic societal pressure is being exerted on women by calmly enquiring, ‘And are the men doing this, as well?’ If they aren’t, chances are you’re dealing with what we strident feminists refer to as ‘some total fucking bullshit’." -- Caitlin Moran]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/372995-so-my-unsolicited-advice-to-women-in-the-workplace-is</guid>
+		<pubDate>Tue, 04 Mar 2014 10:55:03 -0800</pubDate>
+		<title>
+			<![CDATA[Jenny add a quote by Tina Fey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/372995-so-my-unsolicited-advice-to-women-in-the-workplace-is]]>
+		</link>
+		<description>
+	    <![CDATA["So, my unsolicited advice to women in the workplace is this. When faced with sexism, or ageism, or lookism, or even really aggressive Buddhism, ask yourself the following question: “Is this person in between me and what I want to do?” If the answer is no, ignore it and move on. Your energy is better used doing your work and outpacing people that way. Then, when you’re in charge, don’t hire the people who were jerky to you." -- Tina Fey]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

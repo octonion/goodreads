@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/800810-tanagra]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/800810-tanagra" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 04 Jan 2014 18:46:00 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/345288-i-want-to-see-you-again-he-stopped-took-her</guid>
+		<pubDate>Sat, 04 Jan 2014 18:46:00 -0800</pubDate>
+		<title>
+			<![CDATA[Tanagra add a quote by J.D. Robb]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/345288-i-want-to-see-you-again-he-stopped-took-her]]>
+		</link>
+		<description>
+	    <![CDATA["I want to see you again.&quot;  He stopped, took her face in his hands.  &quot;I need to see you again.&quot;
+
+Her pulse jumped, as if it had nothing to do with the rest of her.  &quot;Roarke, what's going on here?&quot;
+
+&quot;Lieutenant.&quot;  He leaned forward, touched his lips to hers.  &quot;indications are we're having a romance." -- J.D. Robb]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

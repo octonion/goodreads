@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1082087-marlene]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1082087-marlene" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 14 Nov 2011 19:58:41 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/418545-i-believed-that-books-might-save-him-because-i-knew</guid>
+		<pubDate>Mon, 14 Nov 2011 19:58:41 -0800</pubDate>
+		<title>
+			<![CDATA[Marlene add a quote by Rebecca Makkai]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/418545-i-believed-that-books-might-save-him-because-i-knew]]>
+		</link>
+		<description>
+	    <![CDATA["I believed that books might save him because I knew they had so far, and because I knew the people books had saved.  They were college professors and actors and scientists and poets.  They got to college and sat on dorm floors drinking coffee, amazed they'd finally found their soul mates.  They always dressed a little out of season.  Their names were enshrined on the pink cards in the pockets of all the forgotten hardbacks in every library basement in America.  If the librarians were lazy enough or nostalgic enough or smart enough, those names would stay there forever." -- Rebecca Makkai]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

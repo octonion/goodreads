@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/513004-marilyn-marshall]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/513004-marilyn-marshall" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 08 Apr 2008 20:25:26 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/42801-1-you-must-have-a-plan-2-things-do-not</guid>
+		<pubDate>Tue, 08 Apr 2008 20:25:26 -0700</pubDate>
+		<title>
+			<![CDATA[Marilyn add a quote by Same wise old man]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/42801-1-you-must-have-a-plan-2-things-do-not]]>
+		</link>
+		<description>
+	    <![CDATA["1. You must have a plan
+2. Things do not always go according to plan
+3. Learn to replan and keep your definition of success flexible" -- Same wise old man]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/23222-let-us-tenderly-and-kindly-cherish-therefore-the-means-of</guid>
+		<pubDate>Tue, 08 Apr 2008 20:38:54 -0700</pubDate>
+		<title>
+			<![CDATA[Marilyn add a quote by John Adams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/23222-let-us-tenderly-and-kindly-cherish-therefore-the-means-of]]>
+		</link>
+		<description>
+	    <![CDATA["Let us tenderly and kindly cherish therefore, the means of knowledge. Let us dare to read, think, speak, and write ." -- John Adams]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

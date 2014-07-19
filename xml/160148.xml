@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/160148-chazzbot]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/160148-chazzbot" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 23 Jan 2010 12:17:47 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/130830-wisdom-and-knowledge-as-well-as-virtue-diffused-generally-among</guid>
+		<pubDate>Sat, 23 Jan 2010 12:17:47 -0800</pubDate>
+		<title>
+			<![CDATA[Chazzbot add a quote by John Adams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/130830-wisdom-and-knowledge-as-well-as-virtue-diffused-generally-among]]>
+		</link>
+		<description>
+	    <![CDATA["Wisdom and knowledge, as well as virtue, diffused generally among the body of the people being necessary for the preservation of their rights and liberties; and as these depend on spreading the opportunities and advantages of education in various parts of the country, and among the different orders of the people, it shall be the duty of legislators and magistrates in all future periods of this commonwealth to cherish the interests of literature and the sciences, and all seminaries of them, especially the university at Cambridge, public schools, and grammar schools in the towns; to encourage private societies and public institutions, rewards and immunities, for the promotion of agriculture, arts, sciences, commerce, trades, manufactures, and a natural history of the country; to countenance and inculcate the principles of humanity and general benevolence, public and private charity, industry and frugality, honesty and punctuality in their dealings, sincerity, good humor, and all social affections, and generous sentiments among the people. " -- John Adams]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

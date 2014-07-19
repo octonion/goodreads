@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/992787-kimberly]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/992787-kimberly" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 28 Apr 2014 12:05:50 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/419679-god-is-more-interested-in-your-character-than-your-comfort</guid>
+		<pubDate>Mon, 28 Apr 2014 12:05:50 -0700</pubDate>
+		<title>
+			<![CDATA[Kimberly add a quote by Rick Warren]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/419679-god-is-more-interested-in-your-character-than-your-comfort]]>
+		</link>
+		<description>
+	    <![CDATA["God is more interested in your character than your comfort.  God is more interested in making your life holy than He is in making your life happy." -- Rick Warren]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/702-it-would-seem-that-our-lord-finds-our-desires-not</guid>
+		<pubDate>Mon, 28 Apr 2014 12:06:06 -0700</pubDate>
+		<title>
+			<![CDATA[Kimberly add a quote by C.S. Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/702-it-would-seem-that-our-lord-finds-our-desires-not]]>
+		</link>
+		<description>
+	    <![CDATA["It would seem that Our Lord finds our desires not too strong, but too weak. We are half-hearted creatures, fooling about with drink and sex and ambition when infinite joy is offered us, like an ignorant child who wants to go on making mud pies in a slum because he cannot imagine what is meant by the offer of a holiday at the sea. We are far too easily pleased." -- C.S. Lewis]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

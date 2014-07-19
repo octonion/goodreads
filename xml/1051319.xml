@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1051319-dejvid22]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1051319-dejvid22" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 28 Feb 2013 13:44:41 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/53169-we-read-deeply-for-varied-reasons-most-of-them-familiar</guid>
+		<pubDate>Thu, 28 Feb 2013 13:44:41 -0800</pubDate>
+		<title>
+			<![CDATA[Dejvid22 add a quote by Harold Bloom]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/53169-we-read-deeply-for-varied-reasons-most-of-them-familiar]]>
+		</link>
+		<description>
+	    <![CDATA["We read deeply for varied reasons, most of them familiar: that we cannot know enough people profoundly enough; that we need to know ourselves better; that we require knowledge, not just of self and others, but of the way things are.  Yet the strongest, most authentic motive for deep reading…is the search for a difficult pleasure." -- Harold Bloom]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

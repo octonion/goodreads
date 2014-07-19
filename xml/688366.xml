@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/688366-mel]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/688366-mel" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 28 Feb 2012 21:25:16 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/353-for-every-minute-you-are-angry-you-lose-sixty-seconds</guid>
+		<pubDate>Tue, 28 Feb 2012 21:25:16 -0800</pubDate>
+		<title>
+			<![CDATA[Mel add a quote by Ralph Waldo Emerson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/353-for-every-minute-you-are-angry-you-lose-sixty-seconds]]>
+		</link>
+		<description>
+	    <![CDATA["For every minute you are angry you lose sixty seconds of happiness." -- Ralph Waldo Emerson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/105516-a-word-to-the-wise-ain-t-necessary-it-s-the-stupid</guid>
+		<pubDate>Tue, 28 Feb 2012 21:25:25 -0800</pubDate>
+		<title>
+			<![CDATA[Mel add a quote by Bill Cosby]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/105516-a-word-to-the-wise-ain-t-necessary-it-s-the-stupid]]>
+		</link>
+		<description>
+	    <![CDATA["A word to the wise ain't necessary, it's the stupid ones who need advice." -- Bill Cosby]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

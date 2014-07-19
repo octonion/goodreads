@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/755889-vania-phitidis]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/755889-vania-phitidis" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 20 Mar 2014 02:12:09 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/383047-shame-corrodes-the-very-part-of-us-that-believes-we</guid>
+		<pubDate>Thu, 20 Mar 2014 02:12:09 -0700</pubDate>
+		<title>
+			<![CDATA[Vania add a quote by Brene Brown]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/383047-shame-corrodes-the-very-part-of-us-that-believes-we]]>
+		</link>
+		<description>
+	    <![CDATA["Shame corrodes the very part of us that believes we are capable of change." -- Brene Brown]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/631488-because-true-belonging-only-happens-when-we-present-our-authentic</guid>
+		<pubDate>Mon, 23 Jun 2014 08:01:31 -0700</pubDate>
+		<title>
+			<![CDATA[Vania add a quote by Brené Brown]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/631488-because-true-belonging-only-happens-when-we-present-our-authentic]]>
+		</link>
+		<description>
+	    <![CDATA["Because true belonging only happens when we present our authentic, imperfect selves to the world, our sense of belonging can never be greater than our level of self-acceptance." -- Brené Brown]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

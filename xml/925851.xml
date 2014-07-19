@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/925851-megan-twigg]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/925851-megan-twigg" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 03 Jul 2008 23:19:31 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/27147-you-never-have-to-change-anything-you-got-up-in</guid>
+		<pubDate>Thu, 03 Jul 2008 23:19:31 -0700</pubDate>
+		<title>
+			<![CDATA[Megan add a quote by Saul Bellow]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/27147-you-never-have-to-change-anything-you-got-up-in]]>
+		</link>
+		<description>
+	    <![CDATA["You never have to change anything you got up in the middle of the night to write." -- Saul Bellow]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/30764-a-writer-is-a-reader-moved-to-emulation</guid>
+		<pubDate>Thu, 03 Jul 2008 23:19:58 -0700</pubDate>
+		<title>
+			<![CDATA[Megan add a quote by Saul Bellow]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/30764-a-writer-is-a-reader-moved-to-emulation]]>
+		</link>
+		<description>
+	    <![CDATA["A writer is a reader moved to emulation." -- Saul Bellow]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/401249-isabelle]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/401249-isabelle" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 16 May 2008 11:30:49 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/54638-to-be-brave-by-definition-one-has-first-to-be</guid>
+		<pubDate>Fri, 16 May 2008 11:30:49 -0700</pubDate>
+		<title>
+			<![CDATA[Isabelle add a quote by Robert Harris]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/54638-to-be-brave-by-definition-one-has-first-to-be]]>
+		</link>
+		<description>
+	    <![CDATA["To be brave, by definition, one has first to be afraid." -- Robert Harris]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/44293-another-belief-of-mine-that-everyone-else-my-age-is</guid>
+		<pubDate>Wed, 11 Jun 2008 19:49:35 -0700</pubDate>
+		<title>
+			<![CDATA[Isabelle add a quote by Margaret Atwood]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/44293-another-belief-of-mine-that-everyone-else-my-age-is]]>
+		</link>
+		<description>
+	    <![CDATA["Another belief of mine: that everyone else my age is an adult, whereas I am merely in disguise." -- Margaret Atwood]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3356-i-like-nonsense-it-wakes-up-the-brain-cells-fantasy</guid>
+		<pubDate>Mon, 18 Jul 2011 18:51:50 -0700</pubDate>
+		<title>
+			<![CDATA[Isabelle add a quote by Dr. Seuss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3356-i-like-nonsense-it-wakes-up-the-brain-cells-fantasy]]>
+		</link>
+		<description>
+	    <![CDATA["I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living." -- Dr. Seuss]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/437960-now-more-than-ever-do-i-realize-that-i-will</guid>
+		<pubDate>Sun, 12 Feb 2012 05:22:42 -0800</pubDate>
+		<title>
+			<![CDATA[Isabelle add a quote by Isabelle Eberhardt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/437960-now-more-than-ever-do-i-realize-that-i-will]]>
+		</link>
+		<description>
+	    <![CDATA["Now more than ever do I realize that I will never be content with a sedentary life, that I will always be haunted by thoughts of a sun-drenched elsewhere." -- Isabelle Eberhardt]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

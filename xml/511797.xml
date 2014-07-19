@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/511797-kat-candelaria]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/511797-kat-candelaria" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 03 Jul 2013 00:18:40 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/580886-if-you-re-one-in-a-million-and-the-world-is</guid>
+		<pubDate>Wed, 03 Jul 2013 00:18:40 -0700</pubDate>
+		<title>
+			<![CDATA[Kat add a quote by Jeff Goins]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/580886-if-you-re-one-in-a-million-and-the-world-is]]>
+		</link>
+		<description>
+	    <![CDATA["If you're &quot;one in a million&quot;, and the world is full of seven billion people, that means there are seven thousand people just like you." -- Jeff Goins]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/580893-if-you-re-going-to-fall-out-of-love-with-public</guid>
+		<pubDate>Wed, 03 Jul 2013 00:22:49 -0700</pubDate>
+		<title>
+			<![CDATA[Kat add a quote by Jeff Goins]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/580893-if-you-re-going-to-fall-out-of-love-with-public]]>
+		</link>
+		<description>
+	    <![CDATA["If you're going to fall out of love with public approval, something interesting will happen: people will be deeply attracted to your work." -- Jeff Goins]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/737444-an-advanced-city-is-not-a-place-where-the-poor</guid>
+		<pubDate>Mon, 19 May 2014 19:14:36 -0700</pubDate>
+		<title>
+			<![CDATA[Kat add a quote by Enrique Penalosa]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/737444-an-advanced-city-is-not-a-place-where-the-poor]]>
+		</link>
+		<description>
+	    <![CDATA["An advanced city is not a place where the poor move about in cars, rather it’s where even the rich use public transportation" -- Enrique Penalosa]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

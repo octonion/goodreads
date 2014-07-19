@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/284658-leslie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/284658-leslie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 08 Oct 2009 08:29:32 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/198321-when-we-lose-one-we-love-our-bitterest-tears-are</guid>
+		<pubDate>Thu, 08 Oct 2009 08:29:32 -0700</pubDate>
+		<title>
+			<![CDATA[Leslie add a quote by Maurice Maeterlinck]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/198321-when-we-lose-one-we-love-our-bitterest-tears-are]]>
+		</link>
+		<description>
+	    <![CDATA["When we lose one we love, our bitterest tears are called forth by the memory of hours when we loved not enough." -- Maurice Maeterlinck]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/33316-the-painful-things-seemed-like-knots-on-a-beautiful-necklace</guid>
+		<pubDate>Thu, 04 Feb 2010 08:42:48 -0800</pubDate>
+		<title>
+			<![CDATA[Leslie add a quote by Anita Diamant]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/33316-the-painful-things-seemed-like-knots-on-a-beautiful-necklace]]>
+		</link>
+		<description>
+	    <![CDATA["The painful things seemed like knots on a beautiful necklace, necessary for keeping the beads in place." -- Anita Diamant]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/249118-cassandra-always-hid-when-she-read-though-she-never-quite</guid>
+		<pubDate>Thu, 10 Jan 2013 18:00:39 -0800</pubDate>
+		<title>
+			<![CDATA[Leslie add a quote by Kate Morton]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/249118-cassandra-always-hid-when-she-read-though-she-never-quite]]>
+		</link>
+		<description>
+	    <![CDATA["Cassandra always hid when she read, though she never quite knew why. It was as if she couldn't shake the guilty suspicion that she was being lazy, that surrendering herself so completely to something so enjoyable must surely be wrong. But surrender she did.  Let herself drop through the rabbit hole and into a tale of magic and mystery ..." -- Kate Morton]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

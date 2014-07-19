@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/660023-emily-nova]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/660023-emily-nova" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 04 Dec 2007 17:50:55 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3404-imagination-can-t-create-anything-new-can-it-it-only-recycles</guid>
+		<pubDate>Tue, 04 Dec 2007 17:50:55 -0800</pubDate>
+		<title>
+			<![CDATA[Emily  add a quote by Tony Kushner]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3404-imagination-can-t-create-anything-new-can-it-it-only-recycles]]>
+		</link>
+		<description>
+	    <![CDATA["Imagination can't create anything new, can it? It only recycles bits and pieces from the world and reassembles them into visions... So when we thing we've escaped the unbearable ordinariness and, well, untruthfulness of our lives, it's really only the same old ordinariness and falseness rearranged into the appearance of novelty and truth. Nothing unknown is knowable. Don't you think it's depressing?" -- Tony Kushner]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

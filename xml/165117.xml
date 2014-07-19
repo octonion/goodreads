@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/165117-robert-fairhurst]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/165117-robert-fairhurst" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 20 Jun 2012 06:40:47 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/327539-religion-is-what-you-hear-at-church-religion-is-that</guid>
+		<pubDate>Wed, 20 Jun 2012 06:40:47 -0700</pubDate>
+		<title>
+			<![CDATA[Robert add a quote by Harriet Beecher Stowe]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/327539-religion-is-what-you-hear-at-church-religion-is-that]]>
+		</link>
+		<description>
+	    <![CDATA["Religion! Is what you hear at church religion? Is that which can bend and turn, and descend and ascend, to fit every crooked phase of selfish, worldly society, religion? Is that religion which is less scrupulous, less generous, less just, less considerate for man, than even my own ungodly, worldly, blinded nature? No! When I look for religion, I must look for something above me, and not something beneath." -- Harriet Beecher Stowe]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/56342-andy-christoffersen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/56342-andy-christoffersen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 18 Dec 2012 09:37:54 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/83945-the-world-is-indeed-comic-but-the-joke-is-on</guid>
+		<pubDate>Tue, 18 Dec 2012 09:37:54 -0800</pubDate>
+		<title>
+			<![CDATA[andy add a quote by H. P. Lovecraft]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/83945-the-world-is-indeed-comic-but-the-joke-is-on]]>
+		</link>
+		<description>
+	    <![CDATA["The world is indeed comic, but the joke is on mankind." -- H. P. Lovecraft]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/14306-almost-nobody-dances-sober-unless-they-happen-to-be-insane</guid>
+		<pubDate>Tue, 18 Dec 2012 09:38:30 -0800</pubDate>
+		<title>
+			<![CDATA[andy add a quote by Howard Phillips Lovecraft]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14306-almost-nobody-dances-sober-unless-they-happen-to-be-insane]]>
+		</link>
+		<description>
+	    <![CDATA["Almost nobody dances sober, unless they happen to be insane." -- Howard Phillips Lovecraft]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1683-that-is-not-dead-which-can-eternal-lie-and-with</guid>
+		<pubDate>Tue, 18 Dec 2012 09:38:54 -0800</pubDate>
+		<title>
+			<![CDATA[andy add a quote by Howard Phillips Lovecraft]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1683-that-is-not-dead-which-can-eternal-lie-and-with]]>
+		</link>
+		<description>
+	    <![CDATA["That is not dead which can eternal lie,
+And with strange aeons even death may die." -- Howard Phillips Lovecraft]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/161502-wesley]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/161502-wesley" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 19 Mar 2011 11:08:17 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/25212-he-continued-on-on-to-the-glacier-towards-the-dawn</guid>
+		<pubDate>Sat, 19 Mar 2011 11:08:17 -0700</pubDate>
+		<title>
+			<![CDATA[Wesley add a quote by Halldór Laxness]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/25212-he-continued-on-on-to-the-glacier-towards-the-dawn]]>
+		</link>
+		<description>
+	    <![CDATA["He continued on, on to the glacier, towards the dawn, from ridge to ridge, in deep, new-fallen snow, paying no heed to the storms that might pursue him. As a child he had stood by the seashore at Ljósavík and watched the waves soughing in and out, but now he was heading away from the sea. &quot;Think of me when you are in glorious sunshine.&quot; Soon the sun of the day of resurrection will shine on the bright paths where she awaits her poet.
+And beauty shall reign alone." -- Halldór Laxness]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

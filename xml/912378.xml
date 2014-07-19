@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/912378-karen-rodgers]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/912378-karen-rodgers" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 18 Feb 2008 14:15:30 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/26116-make-it-your-ambition-to-lead-a-quiet-life-to</guid>
+		<pubDate>Mon, 18 Feb 2008 14:15:30 -0800</pubDate>
+		<title>
+			<![CDATA[Karen add a quote by Anonymous]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/26116-make-it-your-ambition-to-lead-a-quiet-life-to]]>
+		</link>
+		<description>
+	    <![CDATA["Make it your ambition to lead a quiet life, to mind your own business and to work with your hands, so that your daily life may win the respect of outsiders and so that you will not be dependent on anybody." -- Anonymous]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/572370-julie-mccartney]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/572370-julie-mccartney" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 14 Jul 2013 05:05:45 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/353-for-every-minute-you-are-angry-you-lose-sixty-seconds</guid>
+		<pubDate>Sun, 14 Jul 2013 05:05:45 -0700</pubDate>
+		<title>
+			<![CDATA[Julie add a quote by Ralph Waldo Emerson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/353-for-every-minute-you-are-angry-you-lose-sixty-seconds]]>
+		</link>
+		<description>
+	    <![CDATA["For every minute you are angry you lose sixty seconds of happiness." -- Ralph Waldo Emerson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1173-don-t-cry-because-it-s-over-smile-because-it-happened</guid>
+		<pubDate>Tue, 11 Mar 2014 03:05:01 -0700</pubDate>
+		<title>
+			<![CDATA[Julie add a quote by Dr. Seuss ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1173-don-t-cry-because-it-s-over-smile-because-it-happened]]>
+		</link>
+		<description>
+	    <![CDATA["Don't cry because it's over, smile because it happened." -- Dr. Seuss ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/79801-when-i-was-about-eight-i-decided-that-the-most</guid>
+		<pubDate>Tue, 11 Mar 2014 03:07:44 -0700</pubDate>
+		<title>
+			<![CDATA[Julie add a quote by Margaret Walker]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/79801-when-i-was-about-eight-i-decided-that-the-most]]>
+		</link>
+		<description>
+	    <![CDATA["When I was about eight, I decided that the most wonderful thing, next to a human being, was a book." -- Margaret Walker]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

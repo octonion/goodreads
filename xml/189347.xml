@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/189347-janice]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/189347-janice" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 11 Nov 2013 09:03:25 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/258459-and-it-is-hard-to-let-go-to-imagine-alternatives</guid>
+		<pubDate>Mon, 11 Nov 2013 09:03:25 -0800</pubDate>
+		<title>
+			<![CDATA[Janice add a quote by Terra Elan McVoy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/258459-and-it-is-hard-to-let-go-to-imagine-alternatives]]>
+		</link>
+		<description>
+	    <![CDATA["and it is hard to let go, to imagine alternatives, but you are bold with unknowing, you are ready to explore." -- Terra Elan McVoy]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/160551-the-greatest-part-of-a-writer-s-time-is-spent-in</guid>
+		<pubDate>Sat, 31 May 2014 19:28:07 -0700</pubDate>
+		<title>
+			<![CDATA[Janice add a quote by Samuel Johnson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/160551-the-greatest-part-of-a-writer-s-time-is-spent-in]]>
+		</link>
+		<description>
+	    <![CDATA["The greatest part of a writer's time is spent in reading, in order to write: a man will turn over half a library to make one book." -- Samuel Johnson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/632644-mark-krames]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/632644-mark-krames" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 27 Nov 2007 20:54:58 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1797-if-henry-adams-whom-you-knew-slightly-could-make-a</guid>
+		<pubDate>Tue, 27 Nov 2007 20:54:58 -0800</pubDate>
+		<title>
+			<![CDATA[Mark add a quote by Wallace Stegner]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1797-if-henry-adams-whom-you-knew-slightly-could-make-a]]>
+		</link>
+		<description>
+	    <![CDATA["If Henry Adams, whom you knew slightly, could make a theory of history by applying the second law of thermodynamics to human affairs, I ought to be entitled to base one on the angle of repose, and may yet. There is another physical law that teases me, too: the Doppler Effect. The sound of anything coming at you -- a train, say, or the future -- has a higher pitch than the sound of the same thing going away. If you have perfect pitch and a head for mathematics you can compute the speed of the object by the interval between its arriving and departing sounds. I have neither perfect pitch nor a head for mathematics, and anyway who wants to compute the speed of history? Like all falling bodies, it constantly accelerates. But I would like to hear your life as you heard it, coming at you, instead of hearing it as I do, a sober sound of expectations reduced, desires blunted, hopes deferred or abandoned, chances lost, defeats accepted, griefs borne. I don't find your life uninteresting, as Rodman does. I would like to hear it as it sounded while it was passing. Having no future of my own, why shouldn't I look forward to yours." -- Wallace Stegner]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

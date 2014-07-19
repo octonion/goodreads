@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/817266-jari-holland]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/817266-jari-holland" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 08 Oct 2008 10:49:06 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/104178-as-much-as-i-try-to-be-an-easygoing-stretch</guid>
+		<pubDate>Wed, 08 Oct 2008 10:49:06 -0700</pubDate>
+		<title>
+			<![CDATA[Jari add a quote by erin smith]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/104178-as-much-as-i-try-to-be-an-easygoing-stretch]]>
+		</link>
+		<description>
+	    <![CDATA["as much as i try to be an easygoing, stretch your wings and fly type... i just can't stop trying to burst people into flames with my mind." -- erin smith]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

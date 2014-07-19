@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1002134-shanyn-chick-loves-lit]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1002134-shanyn-chick-loves-lit" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 03 Sep 2010 17:47:53 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/769-books-are-the-quietest-and-most-constant-of-friends-they</guid>
+		<pubDate>Fri, 03 Sep 2010 17:47:53 -0700</pubDate>
+		<title>
+			<![CDATA[Shanyn add a quote by Charles W. Eliot]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/769-books-are-the-quietest-and-most-constant-of-friends-they]]>
+		</link>
+		<description>
+	    <![CDATA["Books are the quietest and most constant of friends; they are the most accessible and wisest of counselors, and the most patient of teachers." -- Charles W. Eliot]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5193-a-book-too-can-be-a-star-a-living-fire</guid>
+		<pubDate>Fri, 03 Sep 2010 17:52:11 -0700</pubDate>
+		<title>
+			<![CDATA[Shanyn add a quote by Madeleine L'Engle]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5193-a-book-too-can-be-a-star-a-living-fire]]>
+		</link>
+		<description>
+	    <![CDATA["A book, too, can be a star, a living fire to lighten the darkness, leading out into the expanding universe." -- Madeleine L'Engle]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/17452-let-children-read-whatever-they-want-and-then-talk-about</guid>
+		<pubDate>Fri, 03 Sep 2010 17:52:25 -0700</pubDate>
+		<title>
+			<![CDATA[Shanyn add a quote by Judy Blume]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17452-let-children-read-whatever-they-want-and-then-talk-about]]>
+		</link>
+		<description>
+	    <![CDATA["Let children read whatever they want and then talk about it with them. If parents and kids can talk together, we won't have as much censorship because we won't have as much fear." -- Judy Blume]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

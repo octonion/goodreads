@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/860316-myndie-brown]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/860316-myndie-brown" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 01 Feb 2008 13:54:53 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/20349-america-believes-in-education-the-average-professor-earns-more-money</guid>
+		<pubDate>Fri, 01 Feb 2008 13:54:53 -0800</pubDate>
+		<title>
+			<![CDATA[Myndie add a quote by Evan Esar]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20349-america-believes-in-education-the-average-professor-earns-more-money]]>
+		</link>
+		<description>
+	    <![CDATA["America believes in education: the average professor earns more money in a year than a professional athlete earns in a whole week." -- Evan Esar]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/23894-democracy-must-be-something-more-than-two-wolves-and-a</guid>
+		<pubDate>Fri, 01 Feb 2008 14:03:28 -0800</pubDate>
+		<title>
+			<![CDATA[Myndie add a quote by James Bovard]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/23894-democracy-must-be-something-more-than-two-wolves-and-a]]>
+		</link>
+		<description>
+	    <![CDATA["Democracy must be something more than two wolves and a sheep voting on what to have for dinner." -- James Bovard]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

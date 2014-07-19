@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/737848-ben-martens]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/737848-ben-martens" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 04 Jan 2008 12:24:49 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/10055-men-hang-out-their-signs-indicative-of-their-respective-trades</guid>
+		<pubDate>Fri, 04 Jan 2008 12:24:49 -0800</pubDate>
+		<title>
+			<![CDATA[Ben add a quote by Daniel Webster]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10055-men-hang-out-their-signs-indicative-of-their-respective-trades]]>
+		</link>
+		<description>
+	    <![CDATA["Men hang out their signs indicative of their respective trades; shoe makers hang out a gigantic shoe; jewelers a monster watch, and the dentist hangs out a gold tooth; but up in the Mountains of New Hampshire, God Almighty has hung out a sign to show that there He makes men." -- Daniel Webster]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

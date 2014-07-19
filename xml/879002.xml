@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/879002-courtney]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/879002-courtney" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 28 Jan 2014 09:43:53 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/325171-we-are-born-at-a-given-moment-in-a-given</guid>
+		<pubDate>Tue, 28 Jan 2014 09:43:53 -0800</pubDate>
+		<title>
+			<![CDATA[courtney add a quote by Carl Gustav Jung]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/325171-we-are-born-at-a-given-moment-in-a-given]]>
+		</link>
+		<description>
+	    <![CDATA["We are born at a given moment, in a given place, and like vintage years of wine, we have the qualities of the year and of the season in which we are born." -- Carl Gustav Jung]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

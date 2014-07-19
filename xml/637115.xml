@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/637115-sheen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/637115-sheen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 07 Oct 2009 23:58:50 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/44666-you-forget-what-you-want-to-remember-and-you-remember</guid>
+		<pubDate>Wed, 07 Oct 2009 23:58:50 -0700</pubDate>
+		<title>
+			<![CDATA[Sheen add a quote by Cormac McCarthy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/44666-you-forget-what-you-want-to-remember-and-you-remember]]>
+		</link>
+		<description>
+	    <![CDATA["You forget what you want to remember, and you remember what you want to forget." -- Cormac McCarthy]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/78981-just-remember-that-the-things-you-put-into-your-head</guid>
+		<pubDate>Thu, 08 Oct 2009 00:00:10 -0700</pubDate>
+		<title>
+			<![CDATA[Sheen add a quote by Cormac McCarthy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/78981-just-remember-that-the-things-you-put-into-your-head]]>
+		</link>
+		<description>
+	    <![CDATA["Just remember that the things you put into your head are there forever, he said. You might want to think about that.
+You forget some things, dont you?
+Yes. You forget what you want to remember and you remember what you want to forget." -- Cormac McCarthy]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

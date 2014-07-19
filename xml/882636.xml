@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/882636-brita]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/882636-brita" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 02 May 2013 14:45:05 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/645395-after-that-the-book-will-fade-the-way-all-books</guid>
+		<pubDate>Thu, 02 May 2013 14:45:05 -0700</pubDate>
+		<title>
+			<![CDATA[Brita add a quote by Robin Sloan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/645395-after-that-the-book-will-fade-the-way-all-books]]>
+		</link>
+		<description>
+	    <![CDATA["After that, the book will fade, the way all books fade in your mind. But I hope you will remember this:
+A man walking fast down a dark lonely street. Quick steps and hard breathing, all wonder and need. A bell above a door and the tinkle it makes. A clerk and a ladder and warm golden light, and then: the right book exactly, at exactly the right time." -- Robin Sloan]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

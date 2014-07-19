@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1076203-corrine]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1076203-corrine" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 18 May 2008 16:36:14 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/55068-for-they-might-be-parted-for-hundreds-of-years-she</guid>
+		<pubDate>Sun, 18 May 2008 16:36:14 -0700</pubDate>
+		<title>
+			<![CDATA[Corrine add a quote by Virginia Woolf]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/55068-for-they-might-be-parted-for-hundreds-of-years-she]]>
+		</link>
+		<description>
+	    <![CDATA["For they might be parted for hundreds of years, she and Peter; she never wrote a letter and his were dry sticks; but suddenly it would come over her, If he were with me now what would he say? --some days, some sights bringing him back to her calmly, without the old bitterness; which perhaps was the reward of having cared for people; they came back in the middle of St. James's Park on a fine morning--indeed they did. " -- Virginia Woolf]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

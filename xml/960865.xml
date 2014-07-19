@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/960865-allison-farnsworth]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/960865-allison-farnsworth" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 30 Sep 2009 00:47:57 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4258-when-his-life-was-ruined-his-family-killed-his-farm</guid>
+		<pubDate>Wed, 30 Sep 2009 00:47:57 -0700</pubDate>
+		<title>
+			<![CDATA[Allison add a quote by Stephen King]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4258-when-his-life-was-ruined-his-family-killed-his-farm]]>
+		</link>
+		<description>
+	    <![CDATA["When his life was ruined, his family killed, his farm destroyed, Job knelt down on the ground and yelled up to the heavens, &quot;Why god? Why me?&quot; and the thundering voice of God answered, There's just something about you that pisses me off." -- Stephen King]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/28842-maybe-who-we-are-isn-t-so-much-about-what-we</guid>
+		<pubDate>Wed, 30 Sep 2009 00:50:46 -0700</pubDate>
+		<title>
+			<![CDATA[Allison add a quote by Jodi Picoult]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/28842-maybe-who-we-are-isn-t-so-much-about-what-we]]>
+		</link>
+		<description>
+	    <![CDATA["Maybe who we are isn't so much about what we do, but rather what we're capable of when we least expect it." -- Jodi Picoult]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

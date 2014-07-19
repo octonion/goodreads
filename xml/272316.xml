@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/272316-gardenia]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/272316-gardenia" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 18 Mar 2014 05:01:20 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1133272-unlimited-power-is-the-ideal-thing-when-it-is-in</guid>
+		<pubDate>Tue, 18 Mar 2014 05:01:20 -0700</pubDate>
+		<title>
+			<![CDATA[Gardenia add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1133272-unlimited-power-is-the-ideal-thing-when-it-is-in]]>
+		</link>
+		<description>
+	    <![CDATA[" Unlimited power is the ideal thing when it is in safe hands.  The despotism of heaven is the one absolutely perfect government.  An earthly despotism would be the absolutely perfect earthly government, if the conditions were the same, namely, the despot the perfectest individual of the human race, and his lease of life perpetual.  But as a perishable perfect man must die, and leave his despotism in the hands of an imperfect successor, an earthly despotism is not merely a bad form of government, it is the worst form that is possible." -- Mark Twain]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

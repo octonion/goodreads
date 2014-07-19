@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/941231-erin-lavoie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/941231-erin-lavoie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 31 Mar 2008 12:43:24 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/40109-as-long-as-i-have-the-friendship-of-the-sesasons</guid>
+		<pubDate>Mon, 31 Mar 2008 12:43:24 -0700</pubDate>
+		<title>
+			<![CDATA[Erin add a quote by Thoreau Henry David]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/40109-as-long-as-i-have-the-friendship-of-the-sesasons]]>
+		</link>
+		<description>
+	    <![CDATA["As long as I have the friendship of the sesasons life will never be a burden to me." -- Thoreau Henry David]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/15083-the-most-common-way-people-give-up-their-power-is</guid>
+		<pubDate>Mon, 31 Mar 2008 12:45:59 -0700</pubDate>
+		<title>
+			<![CDATA[Erin add a quote by Alice Walker]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/15083-the-most-common-way-people-give-up-their-power-is]]>
+		</link>
+		<description>
+	    <![CDATA["The most common way people give up their power is by thinking they don't have any." -- Alice Walker]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

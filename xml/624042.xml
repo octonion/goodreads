@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/624042-paul]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/624042-paul" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 09 Apr 2014 14:12:29 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/133042-human-beings-are-tool-making-animals-since-the-prehistoric-era-we</guid>
+		<pubDate>Wed, 09 Apr 2014 14:12:29 -0700</pubDate>
+		<title>
+			<![CDATA[paul add a quote by John Twelve Hawks]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/133042-human-beings-are-tool-making-animals-since-the-prehistoric-era-we]]>
+		</link>
+		<description>
+	    <![CDATA["Human beings are tool-making animals. Since the prehistoric era, we have created and used a wide variety of objects.
+
+But now a significant change is about to occur.
+
+In the near future, we will simply become another object that can be monitored, tracked and controlled within a vast machine." -- John Twelve Hawks]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

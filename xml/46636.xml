@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/46636-travis]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/46636-travis" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 08 Jul 2010 05:38:23 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/275242-it-does-not-seem-to-me-austerlitz-added-that-we</guid>
+		<pubDate>Thu, 08 Jul 2010 05:38:23 -0700</pubDate>
+		<title>
+			<![CDATA[Travis add a quote by W.G. Sebald]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/275242-it-does-not-seem-to-me-austerlitz-added-that-we]]>
+		</link>
+		<description>
+	    <![CDATA["It does not seem to me, Austerlitz added, that we understand the laws governing the return of the past, but I feel more and more as if time did not exist at all, only various spaces interlocking according to the rules of a higher form of stereometry, between which the living and the dead can move back and forth as they like, and the longer I think about it the more it seems to me that we who are still alive are unreal in the eyes of the dead, that only occasionally, in certain lights and atmospheric conditions, do we appear in their field of vision." -- W.G. Sebald]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/106135-an-author-in-his-book-must-be-like-god-in</guid>
+		<pubDate>Fri, 19 Aug 2011 10:54:03 -0700</pubDate>
+		<title>
+			<![CDATA[Travis add a quote by Gustave Flaubert]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/106135-an-author-in-his-book-must-be-like-god-in]]>
+		</link>
+		<description>
+	    <![CDATA["An author in his book must be like God in the universe, present everywhere and visible nowhere." -- Gustave Flaubert]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/229879-brandon]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/229879-brandon" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 22 Mar 2008 10:10:43 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/16070-the-best-way-out-is-always-through</guid>
+		<pubDate>Sat, 22 Mar 2008 10:10:43 -0700</pubDate>
+		<title>
+			<![CDATA[Brandon add a quote by Robert Frost]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16070-the-best-way-out-is-always-through]]>
+		</link>
+		<description>
+	    <![CDATA["The best way out is always through." -- Robert Frost]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/43185-the-world-isn-t-a-sad-place-it-s-just-big</guid>
+		<pubDate>Thu, 10 Apr 2008 07:34:37 -0700</pubDate>
+		<title>
+			<![CDATA[Brandon add a quote by jean luc godard]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/43185-the-world-isn-t-a-sad-place-it-s-just-big]]>
+		</link>
+		<description>
+	    <![CDATA["The world isn't a sad place, it's just big." -- jean luc godard]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5862-be-ashamed-to-die-until-you-have-won-some-victory</guid>
+		<pubDate>Wed, 28 May 2008 16:57:17 -0700</pubDate>
+		<title>
+			<![CDATA[Brandon add a quote by Horace Mann]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5862-be-ashamed-to-die-until-you-have-won-some-victory]]>
+		</link>
+		<description>
+	    <![CDATA["Be ashamed to die until you have won some victory for humanity." -- Horace Mann]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/71841-for-years-we-have-been-taught-not-to-like-things</guid>
+		<pubDate>Fri, 11 Jul 2008 00:11:03 -0700</pubDate>
+		<title>
+			<![CDATA[Brandon add a quote by David Byrne]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/71841-for-years-we-have-been-taught-not-to-like-things]]>
+		</link>
+		<description>
+	    <![CDATA["For years we have been taught not to like things. Finally somebody said it was OK to like things. This was a great relief. It was getting hard to go around not liking everything." -- David Byrne]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

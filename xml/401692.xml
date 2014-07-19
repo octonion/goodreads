@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/401692-becky]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/401692-becky" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 25 Jan 2014 20:34:59 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/547137-people-i-have-discovered-are-layers-and-layers-of-secrets</guid>
+		<pubDate>Sat, 25 Jan 2014 20:34:59 -0800</pubDate>
+		<title>
+			<![CDATA[Becky add a quote by Veronica Roth]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/547137-people-i-have-discovered-are-layers-and-layers-of-secrets]]>
+		</link>
+		<description>
+	    <![CDATA["People, I have discovered, are layers and layers of secrets. You believe you know them, that you understand them, but their motives are always hidden from you, buried in their own hearts. You will never know them, but sometimes you decide to trust them." -- Veronica Roth]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

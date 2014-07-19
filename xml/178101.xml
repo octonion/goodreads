@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/178101-juliet]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/178101-juliet" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 14 Apr 2010 14:12:39 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/159670-what-is-real-to-me-is-the-power-of-our</guid>
+		<pubDate>Wed, 14 Apr 2010 14:12:39 -0700</pubDate>
+		<title>
+			<![CDATA[Juliet add a quote by Terry Tempest Williams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/159670-what-is-real-to-me-is-the-power-of-our]]>
+		</link>
+		<description>
+	    <![CDATA["What is real to me is the power of our awareness when we are focused on something beyond ourselves.  It is a shaft of light shining in a dark corner.  Our ability to shift our perceptions and seek creative alternatives to the conondrums of modernity is in direct proportion to our empathy.  Can we imagine, witness, and ultimately feel the suffering of another?" -- Terry Tempest Williams]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

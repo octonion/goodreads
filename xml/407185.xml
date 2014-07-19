@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/407185-trish]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/407185-trish" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 29 Sep 2013 16:40:44 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/190543-being-a-nerd-which-is-to-say-going-too-far</guid>
+		<pubDate>Sun, 29 Sep 2013 16:40:44 -0700</pubDate>
+		<title>
+			<![CDATA[Trish add a quote by Sarah Vowell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/190543-being-a-nerd-which-is-to-say-going-too-far]]>
+		</link>
+		<description>
+	    <![CDATA["Being a nerd, which is to say going too far and caring too much about a subject, is the best way to make friends I know." -- Sarah Vowell]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/295654-but-when-i-am-around-strangers-i-turn-into-a</guid>
+		<pubDate>Sun, 29 Sep 2013 16:42:18 -0700</pubDate>
+		<title>
+			<![CDATA[Trish add a quote by Sarah Vowell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/295654-but-when-i-am-around-strangers-i-turn-into-a]]>
+		</link>
+		<description>
+	    <![CDATA["But when I am around strangers, I turn into a conversational Mount St. Helens. I'm dormant, dormant, quiet, quiet, old-guy loners build log cabins on the slopes of my silence and then, boom, it's 1980. Once I erupt, they'll be wiping my verbal ashes off their windshields as far away as North Dakota." -- Sarah Vowell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

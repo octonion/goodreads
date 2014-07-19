@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/224917-jessica-petrongolo]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/224917-jessica-petrongolo" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 18 Jan 2012 03:50:37 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/393552-but-ron-was-staring-at-hermione-as-though-suddenly-seeing</guid>
+		<pubDate>Wed, 18 Jan 2012 03:50:37 -0800</pubDate>
+		<title>
+			<![CDATA[Jessica add a quote by J.K. Rowling]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/393552-but-ron-was-staring-at-hermione-as-though-suddenly-seeing]]>
+		</link>
+		<description>
+	    <![CDATA["But Ron was staring at Hermione as though suddenly seeing her in a whole new light.
+“Hermione, Neville’s right — you &lt;i&gt;are&lt;/i&gt; a girl. . . .”
+“Oh well spotted,” she said acidly." -- J.K. Rowling]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

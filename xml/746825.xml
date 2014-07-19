@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/746825-pat]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/746825-pat" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 06 Jun 2008 17:42:50 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1502-facts-do-not-cease-to-exist-because-they-are-ignored</guid>
+		<pubDate>Fri, 06 Jun 2008 17:42:50 -0700</pubDate>
+		<title>
+			<![CDATA[Pat add a quote by Aldous Huxley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1502-facts-do-not-cease-to-exist-because-they-are-ignored]]>
+		</link>
+		<description>
+	    <![CDATA["Facts do not cease to exist because they are ignored." -- Aldous Huxley]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5934-i-ve-learned-that-people-will-forget-what-you-said-people</guid>
+		<pubDate>Fri, 06 Jun 2008 17:56:37 -0700</pubDate>
+		<title>
+			<![CDATA[Pat add a quote by Maya Angelou]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5934-i-ve-learned-that-people-will-forget-what-you-said-people]]>
+		</link>
+		<description>
+	    <![CDATA["I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel." -- Maya Angelou]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/25272-there-is-no-panic-in-heaven-god-has-no-problems</guid>
+		<pubDate>Fri, 06 Jun 2008 18:11:23 -0700</pubDate>
+		<title>
+			<![CDATA[Pat add a quote by Corrie Ten Boom]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/25272-there-is-no-panic-in-heaven-god-has-no-problems]]>
+		</link>
+		<description>
+	    <![CDATA["There is no panic in Heaven!  God has no problems, only plans." -- Corrie Ten Boom]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1198-i-am-so-clever-that-sometimes-i-don-t-understand-a</guid>
+		<pubDate>Wed, 30 Sep 2009 13:18:33 -0700</pubDate>
+		<title>
+			<![CDATA[Pat add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1198-i-am-so-clever-that-sometimes-i-don-t-understand-a]]>
+		</link>
+		<description>
+	    <![CDATA["I am so clever that sometimes I don't understand a single word of what I am saying." -- Oscar Wilde]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

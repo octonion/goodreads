@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/865756-jennifer-mulder]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/865756-jennifer-mulder" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 27 Nov 2013 14:56:18 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/22445-i-celebrated-thanksgiving-in-an-old-fashioned-way-i-invited-everyone</guid>
+		<pubDate>Wed, 27 Nov 2013 14:56:18 -0800</pubDate>
+		<title>
+			<![CDATA[Jennifer add a quote by Jon Stewart]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22445-i-celebrated-thanksgiving-in-an-old-fashioned-way-i-invited-everyone]]>
+		</link>
+		<description>
+	    <![CDATA["I celebrated Thanksgiving in an old-fashioned way. I invited everyone in my neighborhood to my house, we had an enormous feast, and then I killed them and took their land." -- Jon Stewart]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/393660-ialways-think-it-s-funny-when-indians-celebrate-thanksgiving-i-mean</guid>
+		<pubDate>Wed, 27 Nov 2013 14:58:23 -0800</pubDate>
+		<title>
+			<![CDATA[Jennifer add a quote by Sherman Alexie]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/393660-ialways-think-it-s-funny-when-indians-celebrate-thanksgiving-i-mean]]>
+		</link>
+		<description>
+	    <![CDATA["Ialways think it's funny when Indians celebrate Thanksgiving. I mean, sure, the Indians and Pilgrims were best friends during the first Thanksgiving, but a few years later, the Pilgrims were shooting Indians.
+So I'm never quite sure why we eat Turkey like everybody else. (101)" -- Sherman Alexie]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/698534-stacy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/698534-stacy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 19 Dec 2007 06:25:06 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1198-i-am-so-clever-that-sometimes-i-don-t-understand-a</guid>
+		<pubDate>Wed, 19 Dec 2007 06:25:06 -0800</pubDate>
+		<title>
+			<![CDATA[Stacy add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1198-i-am-so-clever-that-sometimes-i-don-t-understand-a]]>
+		</link>
+		<description>
+	    <![CDATA["I am so clever that sometimes I don't understand a single word of what I am saying." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/30-that-which-does-not-kill-us-makes-us-stronger</guid>
+		<pubDate>Wed, 19 Dec 2007 06:25:25 -0800</pubDate>
+		<title>
+			<![CDATA[Stacy add a quote by Friedrich Nietzsche]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/30-that-which-does-not-kill-us-makes-us-stronger]]>
+		</link>
+		<description>
+	    <![CDATA["That which does not kill us makes us stronger." -- Friedrich Nietzsche]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/188-do-what-you-can-with-what-you-have-where-you</guid>
+		<pubDate>Wed, 19 Dec 2007 06:25:52 -0800</pubDate>
+		<title>
+			<![CDATA[Stacy add a quote by Theodore Roosevelt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/188-do-what-you-can-with-what-you-have-where-you]]>
+		</link>
+		<description>
+	    <![CDATA["Do what you can, with what you have, where you are." -- Theodore Roosevelt]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2534-we-accept-the-love-we-think-we-deserve</guid>
+		<pubDate>Wed, 19 Dec 2007 06:29:34 -0800</pubDate>
+		<title>
+			<![CDATA[Stacy add a quote by Stephen Chbosky]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2534-we-accept-the-love-we-think-we-deserve]]>
+		</link>
+		<description>
+	    <![CDATA["We accept the love we think we deserve." -- Stephen Chbosky]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

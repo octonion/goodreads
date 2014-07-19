@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/851608-eliza-hirsch]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/851608-eliza-hirsch" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 12 Mar 2012 09:55:50 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4956-you-must-stay-drunk-on-writing-so-reality-cannot-destroy</guid>
+		<pubDate>Mon, 12 Mar 2012 09:55:50 -0700</pubDate>
+		<title>
+			<![CDATA[Eliza add a quote by Ray Bradbury]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4956-you-must-stay-drunk-on-writing-so-reality-cannot-destroy]]>
+		</link>
+		<description>
+	    <![CDATA["You must stay drunk on writing so reality cannot destroy you." -- Ray Bradbury]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2846-and-the-day-came-when-the-risk-to-remain-tight</guid>
+		<pubDate>Fri, 21 Dec 2012 15:25:19 -0800</pubDate>
+		<title>
+			<![CDATA[Eliza add a quote by Anais Nin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2846-and-the-day-came-when-the-risk-to-remain-tight]]>
+		</link>
+		<description>
+	    <![CDATA["And the day came when the risk to remain tight in a bud was more painful than the risk it took to blossom." -- Anais Nin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/118694-the-secret-of-joy-is-the-mastery-of-pain</guid>
+		<pubDate>Fri, 21 Dec 2012 15:47:15 -0800</pubDate>
+		<title>
+			<![CDATA[Eliza add a quote by Anais Nin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/118694-the-secret-of-joy-is-the-mastery-of-pain]]>
+		</link>
+		<description>
+	    <![CDATA["The secret of joy is the mastery of pain." -- Anais Nin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/69048-creation-which-cannot-express-itself-becomes-madness</guid>
+		<pubDate>Fri, 21 Dec 2012 16:39:57 -0800</pubDate>
+		<title>
+			<![CDATA[Eliza add a quote by Anaïs Nin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/69048-creation-which-cannot-express-itself-becomes-madness]]>
+		</link>
+		<description>
+	    <![CDATA["Creation which cannot express itself becomes madness." -- Anaïs Nin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

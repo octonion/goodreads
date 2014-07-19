@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/656272-lauren-hartney]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/656272-lauren-hartney" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 03 Dec 2007 12:23:00 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/523-the-prince-is-never-going-to-come-everyone-knows-that</guid>
+		<pubDate>Mon, 03 Dec 2007 12:23:00 -0800</pubDate>
+		<title>
+			<![CDATA[Lauren add a quote by Anne Rice]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/523-the-prince-is-never-going-to-come-everyone-knows-that]]>
+		</link>
+		<description>
+	    <![CDATA["The prince is never going to come. Everyone knows that; and maybe sleeping beauty's dead." -- Anne Rice]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/402-imagining-something-is-better-than-remembering-something</guid>
+		<pubDate>Mon, 03 Dec 2007 15:00:32 -0800</pubDate>
+		<title>
+			<![CDATA[Lauren add a quote by John Irving]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/402-imagining-something-is-better-than-remembering-something]]>
+		</link>
+		<description>
+	    <![CDATA["Imagining something is better than remembering something." -- John Irving]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

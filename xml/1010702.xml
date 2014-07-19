@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1010702-lisa-m]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1010702-lisa-m" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 20 Mar 2008 22:54:42 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/36507-very-few-people-really-care-about-freedom-about-liberty-about</guid>
+		<pubDate>Thu, 20 Mar 2008 22:54:42 -0700</pubDate>
+		<title>
+			<![CDATA[Lisa add a quote by Doris Lessing]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/36507-very-few-people-really-care-about-freedom-about-liberty-about]]>
+		</link>
+		<description>
+	    <![CDATA["Very few people really care about freedom, about liberty, about the truth, very few. Very few people have guts, the kind of guts on which a real democracy has to depend. Without people with that sort of guts a free society dies or cannot be born." -- Doris Lessing]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/30799-many-forms-of-government-have-been-tried-and-will-be</guid>
+		<pubDate>Thu, 20 Mar 2008 22:55:59 -0700</pubDate>
+		<title>
+			<![CDATA[Lisa add a quote by Winston S. Churchill]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/30799-many-forms-of-government-have-been-tried-and-will-be]]>
+		</link>
+		<description>
+	    <![CDATA["Many forms of Government have been tried, and will be tried in this world of sin and woe. No one pretends that democracy is perfect or all-wise. Indeed, it has been said that democracy is the worst form of Government except for all those other forms that have been tried from time to time.&quot;
+
+(Speech in the House of Commons, 11 November 1947)" -- Winston S. Churchill]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

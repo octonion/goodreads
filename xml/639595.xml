@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/639595-tessa]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/639595-tessa" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 25 Nov 2007 14:17:15 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1149-be-careful-about-reading-health-books-you-may-die-of</guid>
+		<pubDate>Sun, 25 Nov 2007 14:17:15 -0800</pubDate>
+		<title>
+			<![CDATA[Tessa add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1149-be-careful-about-reading-health-books-you-may-die-of]]>
+		</link>
+		<description>
+	    <![CDATA["Be careful about reading health books. You may die of a misprint." -- Mark Twain]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/12946-clothes-make-the-man-naked-people-have-little-or-no</guid>
+		<pubDate>Tue, 18 Nov 2008 18:25:47 -0800</pubDate>
+		<title>
+			<![CDATA[Tessa add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12946-clothes-make-the-man-naked-people-have-little-or-no]]>
+		</link>
+		<description>
+	    <![CDATA["Clothes make the man. Naked people have little or no influence on society." -- Mark Twain]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1150-happiness-depends-upon-ourselves</guid>
+		<pubDate>Sun, 25 Nov 2007 14:18:20 -0800</pubDate>
+		<title>
+			<![CDATA[Tessa add a quote by Aristotle ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1150-happiness-depends-upon-ourselves]]>
+		</link>
+		<description>
+	    <![CDATA["Happiness depends upon ourselves." -- Aristotle ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1151-a-casual-stroll-through-the-lunatic-asylum-shows-that-faith</guid>
+		<pubDate>Sun, 25 Nov 2007 14:20:03 -0800</pubDate>
+		<title>
+			<![CDATA[Tessa add a quote by Friedrich Nietzsche]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1151-a-casual-stroll-through-the-lunatic-asylum-shows-that-faith]]>
+		</link>
+		<description>
+	    <![CDATA["A casual stroll through the lunatic asylum shows that faith does not prove anything." -- Friedrich Nietzsche]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

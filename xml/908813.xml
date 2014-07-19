@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/908813-t]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/908813-t" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 15 Feb 2008 19:53:02 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/25398-it-has-shown-me-that-everything-is-illuminated-in-the</guid>
+		<pubDate>Fri, 15 Feb 2008 19:53:02 -0800</pubDate>
+		<title>
+			<![CDATA[t add a quote by Jonathan Safran Foer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/25398-it-has-shown-me-that-everything-is-illuminated-in-the]]>
+		</link>
+		<description>
+	    <![CDATA["It has shown me that everything is illuminated in the light of the past. It is always along the side of us...on the inside, looking out." -- Jonathan Safran Foer]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/11416-the-best-way-to-find-yourself-is-to-lose-yourself</guid>
+		<pubDate>Sun, 02 Mar 2008 09:41:09 -0800</pubDate>
+		<title>
+			<![CDATA[t add a quote by Mahatma Gandhi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11416-the-best-way-to-find-yourself-is-to-lose-yourself]]>
+		</link>
+		<description>
+	    <![CDATA["The best way to find yourself is to lose yourself in the service of others." -- Mahatma Gandhi]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/14936-if-things-start-happening-don-t-worry-don-t-stew-just-go</guid>
+		<pubDate>Sun, 02 Mar 2008 09:44:29 -0800</pubDate>
+		<title>
+			<![CDATA[t add a quote by Dr. Seuss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14936-if-things-start-happening-don-t-worry-don-t-stew-just-go]]>
+		</link>
+		<description>
+	    <![CDATA["If things start happening, don't worry, don't stew, just go right along and you'll start happening too." -- Dr. Seuss]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3493-great-spirits-have-always-encountered-violent-opposition-from-mediocre-minds</guid>
+		<pubDate>Thu, 06 Mar 2008 13:06:35 -0800</pubDate>
+		<title>
+			<![CDATA[t add a quote by Albert Einstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3493-great-spirits-have-always-encountered-violent-opposition-from-mediocre-minds]]>
+		</link>
+		<description>
+	    <![CDATA["Great spirits have always encountered violent opposition from mediocre minds." -- Albert Einstein]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

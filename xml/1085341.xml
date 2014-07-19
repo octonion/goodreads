@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1085341-jim]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1085341-jim" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 15 Apr 2008 11:19:02 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4739-i-often-recall-these-words-when-i-am-writing-and</guid>
+		<pubDate>Tue, 15 Apr 2008 11:19:02 -0700</pubDate>
+		<title>
+			<![CDATA[Jim add a quote by Haruki Murakami]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4739-i-often-recall-these-words-when-i-am-writing-and]]>
+		</link>
+		<description>
+	    <![CDATA["I often recall these words when I am writing, and I think to myself, “It’s true. There aren’t any new words. Our job is to give new meanings and special overtones to absolutely ordinary words.” I find the thought reassuring. It means that vast, unknown stretches still lie before us, fertile territories just waiting for us to cultivate them." -- Haruki Murakami]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/55442-funny-for-all-surveillance-osama-bin-laden-is-still-free-151-and</guid>
+		<pubDate>Tue, 20 May 2008 07:52:10 -0700</pubDate>
+		<title>
+			<![CDATA[Jim add a quote by Cory Doctorow]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/55442-funny-for-all-surveillance-osama-bin-laden-is-still-free-151-and]]>
+		</link>
+		<description>
+	    <![CDATA["Funny, for all surveillance, Osama bin Laden is still free&amp;#151;and we're not. Guess who's winning the &quot;war on terror?" -- Cory Doctorow]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

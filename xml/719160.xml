@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/719160-tina-connolly]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/719160-tina-connolly" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 25 Feb 2012 13:43:46 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/307316-slim-and-neatly-groomed-he-looked-like-a-really-sexy</guid>
+		<pubDate>Sat, 25 Feb 2012 13:43:46 -0800</pubDate>
+		<title>
+			<![CDATA[Tina add a quote by Marta Acosta]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/307316-slim-and-neatly-groomed-he-looked-like-a-really-sexy]]>
+		</link>
+		<description>
+	    <![CDATA["Slim and neatly groomed, he looked like a really sexy mathematician unaware that he was a prime number. I wanted to unbutton his shirt, muss his hair, and exclaim, &quot;Good heavens, Professor Dracula, you're stunning!" -- Marta Acosta]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

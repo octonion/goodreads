@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/161581-cyndy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/161581-cyndy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 09 Jul 2012 13:10:51 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/187408-one-day-i-would-have-all-the-books-in-the</guid>
+		<pubDate>Mon, 09 Jul 2012 13:10:51 -0700</pubDate>
+		<title>
+			<![CDATA[Cyndy add a quote by Jacqueline Kelly]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/187408-one-day-i-would-have-all-the-books-in-the]]>
+		</link>
+		<description>
+	    <![CDATA["One day I would have all the books in the world, shelves and shelves of them. I would live my life in a tower of books. I would read all day long and eat peaches. And if any young knights in armor dared to come calling on their white chargers and plead with me to let down my hair, I would pelt them with peach pits until they went home." -- Jacqueline Kelly]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/565767-liz-murray]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/565767-liz-murray" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 14 Apr 2013 17:54:39 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/163199-follow-your-bliss-and-the-universe-will-open-doors-for</guid>
+		<pubDate>Sun, 14 Apr 2013 17:54:39 -0700</pubDate>
+		<title>
+			<![CDATA[Liz add a quote by Joseph Campbell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/163199-follow-your-bliss-and-the-universe-will-open-doors-for]]>
+		</link>
+		<description>
+	    <![CDATA["Follow your bliss and the universe will open doors for you where there were only walls." -- Joseph Campbell]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6493-a-children-s-story-that-can-only-be-enjoyed-by-children</guid>
+		<pubDate>Thu, 26 Sep 2013 21:39:56 -0700</pubDate>
+		<title>
+			<![CDATA[Liz add a quote by C.S. Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6493-a-children-s-story-that-can-only-be-enjoyed-by-children]]>
+		</link>
+		<description>
+	    <![CDATA["A children's story that can only be enjoyed by children is not a good children's story in the slightest." -- C.S. Lewis]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

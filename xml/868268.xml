@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/868268-john]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/868268-john" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 27 Feb 2012 10:10:17 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/61500-conform-and-be-dull</guid>
+		<pubDate>Mon, 27 Feb 2012 10:10:17 -0800</pubDate>
+		<title>
+			<![CDATA[John add a quote by James Frank Dobie]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/61500-conform-and-be-dull]]>
+		</link>
+		<description>
+	    <![CDATA["Conform and be dull." -- James Frank Dobie]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/105584-there-are-no-rules-for-good-photographs-there-are-only</guid>
+		<pubDate>Sun, 23 Jun 2013 08:29:53 -0700</pubDate>
+		<title>
+			<![CDATA[John add a quote by Ansel Adams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/105584-there-are-no-rules-for-good-photographs-there-are-only]]>
+		</link>
+		<description>
+	    <![CDATA["There are no rules for good photographs, there are only good photographs." -- Ansel Adams]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/134669-there-is-nothing-worse-than-a-sharp-image-of-a</guid>
+		<pubDate>Sun, 23 Jun 2013 08:30:03 -0700</pubDate>
+		<title>
+			<![CDATA[John add a quote by Ansel Adams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/134669-there-is-nothing-worse-than-a-sharp-image-of-a]]>
+		</link>
+		<description>
+	    <![CDATA["There is nothing worse than a sharp image of a fuzzy concept." -- Ansel Adams]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/10614-a-portrait-is-not-a-likeness-the-moment-an-emotion</guid>
+		<pubDate>Sun, 23 Jun 2013 08:30:30 -0700</pubDate>
+		<title>
+			<![CDATA[John add a quote by Richard Avedon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10614-a-portrait-is-not-a-likeness-the-moment-an-emotion]]>
+		</link>
+		<description>
+	    <![CDATA["A portrait is not a likeness. The moment an emotion or fact is transformed into a photograph it is no longer a fact but an opinion. There is no such thing as inaccuracy in a photograph. All photographs are accurate. None of them is the truth. " -- Richard Avedon]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

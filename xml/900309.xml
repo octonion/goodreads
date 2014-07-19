@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/900309-tia]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/900309-tia" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 17 Feb 2008 09:58:24 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/25773-desperate-courage-makes-one-a-majority</guid>
+		<pubDate>Sun, 17 Feb 2008 09:58:24 -0800</pubDate>
+		<title>
+			<![CDATA[Tia add a quote by Andrew Jackson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/25773-desperate-courage-makes-one-a-majority]]>
+		</link>
+		<description>
+	    <![CDATA["Desperate courage makes One a majority." -- Andrew Jackson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4540-how-many-observe-christ-s-birthday-how-few-his-precepts</guid>
+		<pubDate>Sun, 17 Feb 2008 09:59:28 -0800</pubDate>
+		<title>
+			<![CDATA[Tia add a quote by Benjamin Franklin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4540-how-many-observe-christ-s-birthday-how-few-his-precepts]]>
+		</link>
+		<description>
+	    <![CDATA["How many observe Christ's birthday! How few, His precepts!" -- Benjamin Franklin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4203-unfortunately-susan-didn-t-remember-what-jane-fulton-once-said-insanity</guid>
+		<pubDate>Sun, 17 Feb 2008 09:59:45 -0800</pubDate>
+		<title>
+			<![CDATA[Tia add a quote by Rita Mae Brown]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4203-unfortunately-susan-didn-t-remember-what-jane-fulton-once-said-insanity]]>
+		</link>
+		<description>
+	    <![CDATA["Unfortunately, Susan didn't remember what Jane Fulton once said, 'Insanity is doing the same thing, over and over again, but expecting different results." -- Rita Mae Brown]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

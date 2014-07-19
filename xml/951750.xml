@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/951750-soraya-briones]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/951750-soraya-briones" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 03 Mar 2008 10:57:38 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/30559-just-because-someone-does-not-love-you-as-you-want</guid>
+		<pubDate>Mon, 03 Mar 2008 10:57:38 -0800</pubDate>
+		<title>
+			<![CDATA[Soraya add a quote by Gabriel García Márquez]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/30559-just-because-someone-does-not-love-you-as-you-want]]>
+		</link>
+		<description>
+	    <![CDATA["Just because someone does not love you as you want, it does not mean that you do not love with all his being." -- Gabriel García Márquez]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/172447-rich-beebe]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/172447-rich-beebe" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 14 Sep 2013 12:40:24 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/283627-there-is-nothing-that-can-replace-the-absence-of-someone</guid>
+		<pubDate>Sat, 14 Sep 2013 12:40:24 -0700</pubDate>
+		<title>
+			<![CDATA[Rich add a quote by Dietrich Bonhoeffer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/283627-there-is-nothing-that-can-replace-the-absence-of-someone]]>
+		</link>
+		<description>
+	    <![CDATA["There is nothing that can replace the absence of someone dear to us, and one should not even attempt to do so. One must simply hold out and endure it. At first that sounds very hard, but at the same time it is also a great comfort. For to the extent the emptiness truly remains unfilled one remains connected to the other person through it. It is wrong to say that God fills the emptiness. God in no way fills it but much more leaves it precisely unfilled and thus helps us preserve -- even in pain -- the authentic relationship. Further more, the more beautiful and full the remembrances, the more difficult the separation. But gratitude transforms the torment of memory into silent joy. One bears what was lovely in the past not as a thorn but as a precious gift deep within, a hidden treasure of which one can always be certain." -- Dietrich Bonhoeffer]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/99311-kelsey]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/99311-kelsey" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 14 Aug 2013 01:13:30 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/523893-if-the-day-and-the-night-are-such-that-you</guid>
+		<pubDate>Wed, 14 Aug 2013 01:13:30 -0700</pubDate>
+		<title>
+			<![CDATA[Kelsey add a quote by Henry David Thoreau]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/523893-if-the-day-and-the-night-are-such-that-you]]>
+		</link>
+		<description>
+	    <![CDATA["If the day and the night are such that you greet them with joy, and life emits a fragrance like flowers and sweet-scented herbs,that is your success. All nature is your congratulation, and you have cause momentarily to bless yourself. It is a little star-dust caught, a segment of the rainbow which I have clutched." -- Henry David Thoreau]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

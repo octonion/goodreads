@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/146525-pam-jones]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/146525-pam-jones" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 25 Jan 2011 07:25:15 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1173-don-t-cry-because-it-s-over-smile-because-it-happened</guid>
+		<pubDate>Tue, 25 Jan 2011 07:25:15 -0800</pubDate>
+		<title>
+			<![CDATA[Pam add a quote by Dr. Seuss ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1173-don-t-cry-because-it-s-over-smile-because-it-happened]]>
+		</link>
+		<description>
+	    <![CDATA["Don't cry because it's over, smile because it happened." -- Dr. Seuss ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/919-the-man-who-does-not-read-has-no-advantage-over</guid>
+		<pubDate>Mon, 14 Feb 2011 09:51:03 -0800</pubDate>
+		<title>
+			<![CDATA[Pam add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/919-the-man-who-does-not-read-has-no-advantage-over]]>
+		</link>
+		<description>
+	    <![CDATA["The man who does not read has no advantage over the man who cannot read." -- Mark Twain]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/619-it-is-never-too-late-to-be-what-you-might</guid>
+		<pubDate>Mon, 14 Feb 2011 09:53:03 -0800</pubDate>
+		<title>
+			<![CDATA[Pam add a quote by George Eliot]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/619-it-is-never-too-late-to-be-what-you-might]]>
+		</link>
+		<description>
+	    <![CDATA["It is never too late to be what you might have been." -- George Eliot]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/61787-i-would-always-rather-be-happy-than-dignified</guid>
+		<pubDate>Sat, 19 Feb 2011 06:47:26 -0800</pubDate>
+		<title>
+			<![CDATA[Pam add a quote by Charlotte Brontë]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/61787-i-would-always-rather-be-happy-than-dignified]]>
+		</link>
+		<description>
+	    <![CDATA["I would always rather be happy than dignified." -- Charlotte Brontë]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

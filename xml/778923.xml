@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/778923-gaylene-bruce]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/778923-gaylene-bruce" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 18 Jan 2008 20:41:32 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/10780-try-a-little-harder-to-be-a-little-better</guid>
+		<pubDate>Fri, 18 Jan 2008 20:41:32 -0800</pubDate>
+		<title>
+			<![CDATA[Gaylene add a quote by Gordon B. Hinckley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10780-try-a-little-harder-to-be-a-little-better]]>
+		</link>
+		<description>
+	    <![CDATA["Try a little harder to be a little better." -- Gordon B. Hinckley]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/11035-no-one-can-make-you-feel-inferior-without-your-consent</guid>
+		<pubDate>Fri, 18 Jan 2008 20:41:45 -0800</pubDate>
+		<title>
+			<![CDATA[Gaylene add a quote by Eleanor Roosevelt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11035-no-one-can-make-you-feel-inferior-without-your-consent]]>
+		</link>
+		<description>
+	    <![CDATA["No one can make you feel inferior without your consent." -- Eleanor Roosevelt]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/11722-to-be-in-your-children-s-memories-tomorrow-you-have-to</guid>
+		<pubDate>Fri, 18 Jan 2008 20:47:57 -0800</pubDate>
+		<title>
+			<![CDATA[Gaylene add a quote by Barbara Johnson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11722-to-be-in-your-children-s-memories-tomorrow-you-have-to]]>
+		</link>
+		<description>
+	    <![CDATA["To be in your children's memories tomorrow,
+You have to be in their lives today." -- Barbara Johnson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1247-enda]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1247-enda" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 09 Jan 2013 00:23:12 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/315361-and-once-the-storm-is-over-you-won-t-remember-how</guid>
+		<pubDate>Wed, 09 Jan 2013 00:23:12 -0800</pubDate>
+		<title>
+			<![CDATA[enda add a quote by haruki murakami]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/315361-and-once-the-storm-is-over-you-won-t-remember-how]]>
+		</link>
+		<description>
+	    <![CDATA["And once the storm is over, you won’t remember how you made it through, how you managed to survive. You won’t even be sure, whether the storm is really over. But one thing is certain. When you come out of the storm, you won’t be the same person who walked in. That’s what this storm’s all about." -- haruki murakami]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

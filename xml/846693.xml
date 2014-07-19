@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/846693-sam]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/846693-sam" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 31 Jan 2008 16:19:30 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/2830-everything-was-beautiful-and-nothing-hurt</guid>
+		<pubDate>Thu, 31 Jan 2008 16:19:30 -0800</pubDate>
+		<title>
+			<![CDATA[Sam add a quote by Kurt Vonnegut]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2830-everything-was-beautiful-and-nothing-hurt]]>
+		</link>
+		<description>
+	    <![CDATA["Everything was beautiful and nothing hurt." -- Kurt Vonnegut]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/20655-god-is-a-comedian-playing-to-an-audience-that-is</guid>
+		<pubDate>Sat, 02 Feb 2008 11:49:23 -0800</pubDate>
+		<title>
+			<![CDATA[Sam add a quote by Voltaire]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20655-god-is-a-comedian-playing-to-an-audience-that-is]]>
+		</link>
+		<description>
+	    <![CDATA["God is a comedian playing to an audience that is too afraid to laugh." -- Voltaire]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

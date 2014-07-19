@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/81117-pete]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/81117-pete" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 13 Jun 2012 10:14:54 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/278969-nostalgia---its-delicate-but-potent-teddy-told-me-that</guid>
+		<pubDate>Wed, 13 Jun 2012 10:14:54 -0700</pubDate>
+		<title>
+			<![CDATA[Pete add a quote by Don Draper]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/278969-nostalgia---its-delicate-but-potent-teddy-told-me-that]]>
+		</link>
+		<description>
+	    <![CDATA["Nostalgia - its delicate, but potent. Teddy told me that in Greek nostalgia literally means “the pain from an old wound.” It’s a twinge in your heart far more powerful than memory alone. This device isn’t a spaceship, it’s a time machine. It goes backwards, and forwards… it takes us to a place where we ache to go again. It’s not called the wheel, it’s called the carousel. It let’s us travel the way a child travels - around and around, and back home again, to a place where we know are loved." -- Don Draper]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

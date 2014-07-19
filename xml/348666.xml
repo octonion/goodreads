@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/348666-michael]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/348666-michael" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 11 Mar 2009 07:37:47 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/8206-do-i-contradict-myself-very-well-then-i-contradict-myself</guid>
+		<pubDate>Wed, 11 Mar 2009 07:37:47 -0700</pubDate>
+		<title>
+			<![CDATA[Michael add a quote by Walt Whitman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8206-do-i-contradict-myself-very-well-then-i-contradict-myself]]>
+		</link>
+		<description>
+	    <![CDATA["Do I contradict myself? Very well, then, I contradict myself; I am large -- I contain multitudes." -- Walt Whitman]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/9555-inside-us-there-is-something-that-has-no-name-that</guid>
+		<pubDate>Thu, 12 Mar 2009 06:54:38 -0700</pubDate>
+		<title>
+			<![CDATA[Michael add a quote by José Saramago]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9555-inside-us-there-is-something-that-has-no-name-that]]>
+		</link>
+		<description>
+	    <![CDATA["Inside us there is something that has no name, that something is what we are." -- José Saramago]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/146824-we-would-understand-much-more-about-life-s-complexities-if-we</guid>
+		<pubDate>Thu, 12 Mar 2009 06:56:57 -0700</pubDate>
+		<title>
+			<![CDATA[Michael add a quote by José Saramago]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/146824-we-would-understand-much-more-about-life-s-complexities-if-we]]>
+		</link>
+		<description>
+	    <![CDATA["we would understand much more about life’s complexities if we applied ourselves to an assiduous study of its contradictions, instead of wasting time 
+on identities and coherences, seeing as these have a duty to provide their own explanations." -- José Saramago]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

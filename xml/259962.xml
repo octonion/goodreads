@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/259962-jill]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/259962-jill" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 15 Aug 2011 17:16:21 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/276608-i-thought-i-wouldn-t-live-through-it-but-you-do</guid>
+		<pubDate>Mon, 15 Aug 2011 17:16:21 -0700</pubDate>
+		<title>
+			<![CDATA[Jill add a quote by Barbara Kingsolver]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/276608-i-thought-i-wouldn-t-live-through-it-but-you-do]]>
+		</link>
+		<description>
+	    <![CDATA["I thought I wouldn't live through it.  But you do.  You learn to love the place somebody leaves behind for you." -- Barbara Kingsolver]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/116795-i-m-still-prone-to-periods-of-isolation-still-more-fearful</guid>
+		<pubDate>Tue, 16 Aug 2011 09:05:51 -0700</pubDate>
+		<title>
+			<![CDATA[Jill add a quote by Caroline Knapp]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/116795-i-m-still-prone-to-periods-of-isolation-still-more-fearful]]>
+		</link>
+		<description>
+	    <![CDATA["I'm still prone to periods of isolation, still more fearful of the world out there and more averse to pleasure and risk than I'd like to be; I still direct more energy toward controlling and minimizing appetites than toward indulging them." -- Caroline Knapp]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/403905-it-is-well-known-that-reading-quickens-the-growth-of</guid>
+		<pubDate>Mon, 12 Mar 2012 17:30:57 -0700</pubDate>
+		<title>
+			<![CDATA[Jill add a quote by Catherynne M. Valente]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/403905-it-is-well-known-that-reading-quickens-the-growth-of]]>
+		</link>
+		<description>
+	    <![CDATA["It is well known that reading quickens the growth of a heart like nothing else." -- Catherynne M. Valente]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

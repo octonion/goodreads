@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/30915-anthony]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/30915-anthony" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 12 May 2008 18:40:55 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/52993-in-addition-to-the-conditions-under-which-life-is-given</guid>
+		<pubDate>Mon, 12 May 2008 18:40:55 -0700</pubDate>
+		<title>
+			<![CDATA[Anthony add a quote by Hannah Arendt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/52993-in-addition-to-the-conditions-under-which-life-is-given]]>
+		</link>
+		<description>
+	    <![CDATA["in addition to the conditions under which life is given to man on earth, and partly out of them, men constantly create their own, self-made conditions, which, their human origins notwithstanding, possess the same conditioning power as natural things.  whatever touches or enters into a sustained relationship with human life immediately assumes the character of a condition of human existence.  this is why men, no matter what they do, are always conditioned beings.  whatever enters the human world of its own accord or is drawn into it by human effort becomes part of the human condition. " -- Hannah Arendt]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

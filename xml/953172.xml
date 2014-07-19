@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/953172-davy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/953172-davy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Mar 2008 22:05:45 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/30426-if-you-can-get-past-those-awful-idiot-faces-on</guid>
+		<pubDate>Sun, 02 Mar 2008 22:05:45 -0800</pubDate>
+		<title>
+			<![CDATA[Davy add a quote by Raymond Chandler]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/30426-if-you-can-get-past-those-awful-idiot-faces-on]]>
+		</link>
+		<description>
+	    <![CDATA["If you can get past those awful idiot faces on the bleachers outside the theater without a sense of the collapse of human intelligence, and if you can go out into the night and see half the police force of Los Angeles gathered to protect the golden ones from the mob in the free seats, but not from the awful moaning sound they give out, like destiny whistling through a hollow shell; if you can do these things and still feel the next morning that the picture business is worth the attention of one single, intelligent, artistic mind, then in the picture business you certainly belong because this sort of vulgarity, the very vulgarity from which the Oscars are made, is the inevitable price that Hollywood exacts from each of its serfs." -- Raymond Chandler]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

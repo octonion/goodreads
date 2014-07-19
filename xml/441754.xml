@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/441754-julie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/441754-julie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 26 Apr 2008 12:55:31 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/42250-every-relationship-has-at-least-one-really-good-day-what</guid>
+		<pubDate>Sat, 26 Apr 2008 12:55:31 -0700</pubDate>
+		<title>
+			<![CDATA[Julie add a quote by Charles Baxter]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/42250-every-relationship-has-at-least-one-really-good-day-what]]>
+		</link>
+		<description>
+	    <![CDATA["Every relationship has at least one really good day. What I mean is, no matter how sour things go, there's always that day. That day is always in your possession. That's the day you remember. You get old and you think: well, at least I had that day. It happened once. You think all the variables might just line up again. But they don't. Not always. I once talked to a woman who said, &quot;Yeah, that's the day we had an angel around." -- Charles Baxter]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

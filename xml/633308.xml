@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/633308-grace-caroline]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/633308-grace-caroline" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 21 Nov 2007 03:02:39 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/59-the-only-limit-to-our-realization-of-tomorrow-will-be</guid>
+		<pubDate>Wed, 21 Nov 2007 03:02:39 -0800</pubDate>
+		<title>
+			<![CDATA[Grace add a quote by Franklin D. Roosevelt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/59-the-only-limit-to-our-realization-of-tomorrow-will-be]]>
+		</link>
+		<description>
+	    <![CDATA["The only limit to our realization of tomorrow will be our doubts of today. Let us move forward with strong and active faith." -- Franklin D. Roosevelt]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/60-do-something-if-it-doesn-t-work-do-something-else-no</guid>
+		<pubDate>Wed, 21 Nov 2007 03:03:28 -0800</pubDate>
+		<title>
+			<![CDATA[Grace add a quote by Jim Hightower]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/60-do-something-if-it-doesn-t-work-do-something-else-no]]>
+		</link>
+		<description>
+	    <![CDATA["Do something. If it doesn't work, do something else. No idea is too crazy." -- Jim Hightower]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/61-the-best-way-to-predict-the-future-is-to-invent</guid>
+		<pubDate>Wed, 21 Nov 2007 03:05:06 -0800</pubDate>
+		<title>
+			<![CDATA[Grace add a quote by Alan Kay]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/61-the-best-way-to-predict-the-future-is-to-invent]]>
+		</link>
+		<description>
+	    <![CDATA["The best way to predict the future is to invent it." -- Alan Kay]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

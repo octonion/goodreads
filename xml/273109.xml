@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/273109-bronwen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/273109-bronwen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 27 Oct 2009 20:34:23 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/156701-only-one-thing-remained-reachable-close-and-secure-amid-all</guid>
+		<pubDate>Tue, 27 Oct 2009 20:34:23 -0700</pubDate>
+		<title>
+			<![CDATA[Bronwen add a quote by Paul Celan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/156701-only-one-thing-remained-reachable-close-and-secure-amid-all]]>
+		</link>
+		<description>
+	    <![CDATA["Only one thing remained reachable, close and secure amid all losses: language. Yes, language. In spite of everything, it remained secure against loss." -- Paul Celan]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

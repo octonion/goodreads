@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1049345-melissa-schwartz]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1049345-melissa-schwartz" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 05 Apr 2008 13:17:01 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/69-folks-are-usually-about-as-happy-as-they-make-their</guid>
+		<pubDate>Sat, 05 Apr 2008 13:17:01 -0700</pubDate>
+		<title>
+			<![CDATA[melissa add a quote by Abraham Lincoln]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/69-folks-are-usually-about-as-happy-as-they-make-their]]>
+		</link>
+		<description>
+	    <![CDATA["Folks are usually about as happy as they make their minds up to be." -- Abraham Lincoln]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/41883-i-never-did-a-day-s-work-in-my-life-it</guid>
+		<pubDate>Sat, 05 Apr 2008 13:17:36 -0700</pubDate>
+		<title>
+			<![CDATA[melissa add a quote by thomas edison]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/41883-i-never-did-a-day-s-work-in-my-life-it]]>
+		</link>
+		<description>
+	    <![CDATA["I never did a day's work in my life, it was all fun." -- thomas edison]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/39720-this-world-is-but-a-canvas-for-our-imagination</guid>
+		<pubDate>Sat, 05 Apr 2008 13:18:01 -0700</pubDate>
+		<title>
+			<![CDATA[melissa add a quote by Henry David Thoreau]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/39720-this-world-is-but-a-canvas-for-our-imagination]]>
+		</link>
+		<description>
+	    <![CDATA["This world is but a canvas for our imagination." -- Henry David Thoreau]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

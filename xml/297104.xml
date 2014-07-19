@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/297104-stephanie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/297104-stephanie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 Jul 2008 14:40:53 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/10046-there-did-not-have-to-be-a-moral-she-need</guid>
+		<pubDate>Tue, 01 Jul 2008 14:40:53 -0700</pubDate>
+		<title>
+			<![CDATA[Stephanie add a quote by Ian McEwan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10046-there-did-not-have-to-be-a-moral-she-need]]>
+		</link>
+		<description>
+	    <![CDATA["There did not have to be a moral. She need only show separate minds, as alive as her own, struggling with the idea that other minds were equally alive. It wasn't only wickedness and scheming that made people unhappy, it was confusion and misunderstanding, above all, it was the failure to grasp the simple truth that other people are as real as you. And only in a story could you enter these different minds and show how they had an equal value. That was the only moral a story need have." -- Ian McEwan]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/409437-elissa-hoole]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/409437-elissa-hoole" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 16 Jul 2012 16:58:29 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/515192-no-matter-what-the-results-it-is-my-choices-that</guid>
+		<pubDate>Mon, 16 Jul 2012 16:58:29 -0700</pubDate>
+		<title>
+			<![CDATA[Elissa add a quote by Cat Hellisen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/515192-no-matter-what-the-results-it-is-my-choices-that]]>
+		</link>
+		<description>
+	    <![CDATA["No matter what the results, it is my choices that define me. And I will fight for them, even when it seems that failure is inevitable. Perhaps most especially then." -- Cat Hellisen]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/517441-all-futures-are-tinted-by-the-way-in-which-you</guid>
+		<pubDate>Mon, 16 Jul 2012 16:58:59 -0700</pubDate>
+		<title>
+			<![CDATA[Elissa add a quote by Cat Hellisen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/517441-all-futures-are-tinted-by-the-way-in-which-you]]>
+		</link>
+		<description>
+	    <![CDATA["All futures are tinted by the way in which you choose to view them." -- Cat Hellisen]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

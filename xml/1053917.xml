@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1053917-stephie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1053917-stephie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 25 Aug 2008 13:03:54 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/52952-you-must-find-the-place-inside-yourself-where-nothing-is</guid>
+		<pubDate>Mon, 25 Aug 2008 13:03:54 -0700</pubDate>
+		<title>
+			<![CDATA[Stephie add a quote by Deepak Chopra]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/52952-you-must-find-the-place-inside-yourself-where-nothing-is]]>
+		</link>
+		<description>
+	    <![CDATA["You must find the place inside yourself where nothing is impossible." -- Deepak Chopra]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/28743-don-t-try-to-steer-the-river</guid>
+		<pubDate>Mon, 25 Aug 2008 13:03:57 -0700</pubDate>
+		<title>
+			<![CDATA[Stephie add a quote by Deepak Chopra]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/28743-don-t-try-to-steer-the-river]]>
+		</link>
+		<description>
+	    <![CDATA["Don't try to steer the river." -- Deepak Chopra]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/73473-silence-is-the-great-teacher-and-to-learn-its-lessons</guid>
+		<pubDate>Mon, 25 Aug 2008 13:04:42 -0700</pubDate>
+		<title>
+			<![CDATA[Stephie add a quote by Deepak Chopra]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/73473-silence-is-the-great-teacher-and-to-learn-its-lessons]]>
+		</link>
+		<description>
+	    <![CDATA["Silence is the great teacher and to learn its lessons you must pay attention to it. There is no substitute for the creative inspiration, knowledge, and stability that come from knowing how to contact your core of inner silence." -- Deepak Chopra]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1031374-dannah]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1031374-dannah" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 16 Apr 2008 09:06:34 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/45263-i-remember-it-all-every-word-every-breath-every-tick</guid>
+		<pubDate>Wed, 16 Apr 2008 09:06:34 -0700</pubDate>
+		<title>
+			<![CDATA[Dannah add a quote by Kevin M. Brooks]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/45263-i-remember-it-all-every-word-every-breath-every-tick]]>
+		</link>
+		<description>
+	    <![CDATA["I remember it all: every word, every breath, every tick of the clock . . . everything that happened is with me forever.
+I can never forget it.
+But that dosen't mean I can live it again. You can't live what's gone, you can only remember it, and memories have no life. They're just pale reminders of a time that's gone - like faded photographs, or a dried-up daisy chain at the back of a drawer. They have no substance. They can't take you back. Nothing can take you back.
+Nothing can be the same as it was.
+Nothing is.
+
+All I can do is tell it." -- Kevin M. Brooks]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

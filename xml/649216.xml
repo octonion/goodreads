@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/649216-mary]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/649216-mary" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 03 Jul 2012 08:53:37 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/459984-the-worst-thing-about-knowing-that-gary-fairchild-had-been</guid>
+		<pubDate>Tue, 03 Jul 2012 08:53:37 -0700</pubDate>
+		<title>
+			<![CDATA[Mary add a quote by Barbara Hambly]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/459984-the-worst-thing-about-knowing-that-gary-fairchild-had-been]]>
+		</link>
+		<description>
+	    <![CDATA["The worst thing about knowing that Gary Fairchild had been dead for a month was seeing him every day at work." -- Barbara Hambly]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1234130-you-know-like-that-old-catch-42-expression-that-stands</guid>
+		<pubDate>Tue, 03 Jun 2014 09:14:18 -0700</pubDate>
+		<title>
+			<![CDATA[Mary add a quote by Jack Campbell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1234130-you-know-like-that-old-catch-42-expression-that-stands]]>
+		</link>
+		<description>
+	    <![CDATA["You know, like that old Catch 42 expression that stands for &lt;i&gt;the meaning of life is that in the end you always get screwed.&lt;/i&gt;" -- Jack Campbell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

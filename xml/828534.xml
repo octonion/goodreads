@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/828534-faith]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/828534-faith" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 08 Sep 2013 06:31:43 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/205675-they-that-love-beyond-the-world-cannot-be-separated-by</guid>
+		<pubDate>Sun, 08 Sep 2013 06:31:43 -0700</pubDate>
+		<title>
+			<![CDATA[Faith add a quote by William Penn]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/205675-they-that-love-beyond-the-world-cannot-be-separated-by]]>
+		</link>
+		<description>
+	    <![CDATA["They that love beyond the world cannot be separated by it.
+  Death cannot kill what never dies.
+  Nor can spirits ever be divided, that love and live in the same divine principle, the root and record of their friendship.
+  If absence be not death, neither is theirs.
+  Death is but crossing the world, as friends do the seas; they live in one another still.
+  For they must needs be present, that love and live in that which is omnipresent.
+  In this divine glass they see face to face; and their converse is free, as well as pure.
+  This is the comfort of friends, that though they may be said to die, yet their friendship and society are, in the best sense, ever present, because immortal." -- William Penn]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/868225-jacque]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/868225-jacque" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 11 Feb 2008 22:02:56 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/17302-i-long-to-accomplish-a-great-and-noble-task-but</guid>
+		<pubDate>Mon, 11 Feb 2008 22:02:56 -0800</pubDate>
+		<title>
+			<![CDATA[Jacque add a quote by Helen Keller]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17302-i-long-to-accomplish-a-great-and-noble-task-but]]>
+		</link>
+		<description>
+	    <![CDATA["I long to accomplish a great and noble task, but it is my chief duty to accomplish small tasks as if they were great and noble." -- Helen Keller]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/13132-believe-nothing-no-matter-where-you-read-it-or-who</guid>
+		<pubDate>Thu, 21 Feb 2008 09:34:42 -0800</pubDate>
+		<title>
+			<![CDATA[Jacque add a quote by Buddha Siddhartha Guatama Shakyamuni]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13132-believe-nothing-no-matter-where-you-read-it-or-who]]>
+		</link>
+		<description>
+	    <![CDATA["Believe nothing, no matter where you read it, or who said it, no matter if I have said it, unless it agrees with your own reason and your own common sense." -- Buddha Siddhartha Guatama Shakyamuni]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

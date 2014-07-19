@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1039125-jon-turner]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1039125-jon-turner" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 06 Dec 2012 20:36:37 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/384731-every-atom-in-your-body-came-from-a-star-that</guid>
+		<pubDate>Thu, 06 Dec 2012 20:36:37 -0800</pubDate>
+		<title>
+			<![CDATA[Jon add a quote by Lawrence M. Krauss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/384731-every-atom-in-your-body-came-from-a-star-that]]>
+		</link>
+		<description>
+	    <![CDATA["Every atom in your body came from a star that exploded. And, the atoms in your left hand probably came from a different star than your right hand. It really is the most poetic thing I know about physics: You are all stardust. You couldn’t be here if stars hadn’t exploded, because the elements - the carbon, nitrogen, oxygen, iron, all the things that matter for evolution and for life - weren’t created at the beginning of time. They were created in the nuclear furnaces of stars, and the only way for them to get into your body is if those stars were kind enough to explode. So, forget Jesus. The stars died so that you could be here today." -- Lawrence M. Krauss]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

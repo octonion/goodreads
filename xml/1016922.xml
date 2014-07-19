@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1016922-katy-beth-everett]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1016922-katy-beth-everett" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 23 Mar 2008 14:30:52 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/37653-a-smile-is-the-universal-language-of-kindness</guid>
+		<pubDate>Sun, 23 Mar 2008 14:30:52 -0700</pubDate>
+		<title>
+			<![CDATA[Katy Beth add a quote by Sir. Arthur Ward]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/37653-a-smile-is-the-universal-language-of-kindness]]>
+		</link>
+		<description>
+	    <![CDATA["A smile is the universal language of kindness." -- Sir. Arthur Ward]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/37654-you-must-not-lose-faith-in-humanity-humanity-is-like</guid>
+		<pubDate>Sun, 23 Mar 2008 14:31:20 -0700</pubDate>
+		<title>
+			<![CDATA[Katy Beth add a quote by Mahatma Gandhi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/37654-you-must-not-lose-faith-in-humanity-humanity-is-like]]>
+		</link>
+		<description>
+	    <![CDATA["You must not lose faith in humanity. Humanity is like an ocean; if a few drops of the ocean are dirty, the ocean does not become dirty." -- Mahatma Gandhi]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

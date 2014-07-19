@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1006030-russ]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1006030-russ" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 30 Jul 2012 13:45:27 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/352-outside-of-a-dog-a-book-is-man-s-best-friend</guid>
+		<pubDate>Mon, 30 Jul 2012 13:45:27 -0700</pubDate>
+		<title>
+			<![CDATA[Russ add a quote by Groucho Marx]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/352-outside-of-a-dog-a-book-is-man-s-best-friend]]>
+		</link>
+		<description>
+	    <![CDATA["Outside of a dog, a book is man's best friend. Inside of a dog it's too dark to read." -- Groucho Marx]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/54339-i-solemnly-swear-that-i-am-up-to-no-good</guid>
+		<pubDate>Tue, 31 Jul 2012 11:10:58 -0700</pubDate>
+		<title>
+			<![CDATA[Russ add a quote by J.K. Rowling]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/54339-i-solemnly-swear-that-i-am-up-to-no-good]]>
+		</link>
+		<description>
+	    <![CDATA["I solemnly swear that I am up to no good." -- J.K. Rowling]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/12042-that-which-can-be-asserted-without-evidence-can-be-dismissed</guid>
+		<pubDate>Thu, 31 Oct 2013 14:01:42 -0700</pubDate>
+		<title>
+			<![CDATA[Russ add a quote by Christopher Hitchens]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12042-that-which-can-be-asserted-without-evidence-can-be-dismissed]]>
+		</link>
+		<description>
+	    <![CDATA["That which can be asserted without evidence, can be dismissed without evidence." -- Christopher Hitchens]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

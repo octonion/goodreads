@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/73817-jeff]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/73817-jeff" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 05 Aug 2012 16:00:12 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4386-give-me-your-tired-your-poor-your-huddled-masses-yearning</guid>
+		<pubDate>Sun, 05 Aug 2012 16:00:12 -0700</pubDate>
+		<title>
+			<![CDATA[Jeff add a quote by Emma Lazarus]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4386-give-me-your-tired-your-poor-your-huddled-masses-yearning]]>
+		</link>
+		<description>
+	    <![CDATA["Give me your tired, your poor, 
+Your huddled masses yearning to breathe free, 
+The wretched refuse of your teeming shore. 
+Send these, the homeless, tempest-tossed, to me: 
+I lift my lamp beside the golden door." -- Emma Lazarus]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/535395-religious-ideas-have-the-fate-of-melodies-which-once-set</guid>
+		<pubDate>Sun, 21 Oct 2012 12:37:26 -0700</pubDate>
+		<title>
+			<![CDATA[Jeff add a quote by George Eliot]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/535395-religious-ideas-have-the-fate-of-melodies-which-once-set]]>
+		</link>
+		<description>
+	    <![CDATA["Religious ideas have the fate of melodies, which, once set afloat in the world, are taken up by all sorts of instruments, some of them woefully coarse, feeble, or out of tune, until people are in danger of crying out that the melody itself is detestable." -- George Eliot]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

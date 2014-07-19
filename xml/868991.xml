@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/868991-april-n]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/868991-april-n" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 11 Oct 2008 11:27:13 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1816-you-may-say-i-m-a-dreamer-but-i-m-not-the</guid>
+		<pubDate>Sat, 11 Oct 2008 11:27:13 -0700</pubDate>
+		<title>
+			<![CDATA[April add a quote by John Lennon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1816-you-may-say-i-m-a-dreamer-but-i-m-not-the]]>
+		</link>
+		<description>
+	    <![CDATA["You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one." -- John Lennon]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

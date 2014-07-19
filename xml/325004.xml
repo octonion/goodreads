@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/325004-don]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/325004-don" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 14 Apr 2014 22:45:15 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1171015-aouda-fastened-her-great-eyes-clear-as-the-sacred-lakes</guid>
+		<pubDate>Mon, 14 Apr 2014 22:45:15 -0700</pubDate>
+		<title>
+			<![CDATA[Don add a quote by Jules Verne]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1171015-aouda-fastened-her-great-eyes-clear-as-the-sacred-lakes]]>
+		</link>
+		<description>
+	    <![CDATA["Aouda fastened her great eyes, “clear as the sacred lakes of the Himalaya,” upon him; but the intractable Fogg, as reserved as ever, did not seem at all inclined to throw himself into this lake." -- Jules Verne]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/14983-there-are-some-things-you-learn-best-in-calm-and</guid>
+		<pubDate>Thu, 03 Jul 2014 06:03:46 -0700</pubDate>
+		<title>
+			<![CDATA[Don add a quote by Willa Cather]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14983-there-are-some-things-you-learn-best-in-calm-and]]>
+		</link>
+		<description>
+	    <![CDATA["There are some things you learn best in calm, and some in storm." -- Willa Cather]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

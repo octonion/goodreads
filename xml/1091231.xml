@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1091231-atenea-rosado]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1091231-atenea-rosado" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 21 Apr 2014 10:48:46 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/350151-they-began-by-controlling-books-of-cartoons-and-then-detective</guid>
+		<pubDate>Mon, 21 Apr 2014 10:48:46 -0700</pubDate>
+		<title>
+			<![CDATA[Atenea add a quote by Ray Bradbury]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/350151-they-began-by-controlling-books-of-cartoons-and-then-detective]]>
+		</link>
+		<description>
+	    <![CDATA["They began by controlling books of cartoons and then detective books and, of course, films, one way or another, one group or another, political bias, religious prejudice, union pressure; there was always a minority afraid of something, and a great majority afraid of the dark, afraid of the future, afraid of the past, afraid of the present, afraid of themselves and shadows of themselves." -- Ray Bradbury]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/496524-learning-to-read-is-probably-the-most-difficult-and-revolutionary</guid>
+		<pubDate>Thu, 15 May 2014 19:33:49 -0700</pubDate>
+		<title>
+			<![CDATA[Atenea add a quote by John Steinbeck]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/496524-learning-to-read-is-probably-the-most-difficult-and-revolutionary]]>
+		</link>
+		<description>
+	    <![CDATA["Learning to read is probably the most difficult and revolutionary thing that happens to the human brain and if you don't believe that, watch an illiterate adult try to do it." -- John Steinbeck]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

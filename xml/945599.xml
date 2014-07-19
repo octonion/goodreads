@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/945599-laura]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/945599-laura" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 24 Apr 2008 12:17:03 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/27484-maybe-if-everyone-walked-around-being-in-touch-with-each</guid>
+		<pubDate>Thu, 24 Apr 2008 12:17:03 -0700</pubDate>
+		<title>
+			<![CDATA[Laura add a quote by Michelle Tea]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/27484-maybe-if-everyone-walked-around-being-in-touch-with-each]]>
+		</link>
+		<description>
+	    <![CDATA["Maybe if everyone walked around being in touch with each other's hidden pain it could work out and even be beautiful, but it doesn't feel safe to be the only compassionate person on the planet." -- Michelle Tea]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/566577-sunil]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/566577-sunil" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 30 May 2013 07:20:57 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/815073-book-8-36do-not-disturb-yourself-by-picturing-your-life</guid>
+		<pubDate>Thu, 30 May 2013 07:20:57 -0700</pubDate>
+		<title>
+			<![CDATA[Sunil add a quote by Marcus Aurelius]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/815073-book-8-36do-not-disturb-yourself-by-picturing-your-life]]>
+		</link>
+		<description>
+	    <![CDATA["Book 8, #36Do not disturb yourself by picturing your life as a whole; do not assemble in your mind the many and varied troubles which have come to you in the past and will come again in the future, but ask yourself with regard to every present difficulty: 'What is there in this that is unbearable and beyond endurance?' You would be ashamed to confess it! And then remind yourself that it is not the future or what has passed that afflicts you, but always the present, and the power of this is much diminished if you take it in isolation and call your mind to task if it thinks that it cannot stand up to it when taken on its own." -- Marcus Aurelius]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

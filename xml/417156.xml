@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/417156-jenny]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/417156-jenny" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 02 Sep 2011 08:44:56 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/108850-having-an-aura-of-menace-is-like-having-a-pet</guid>
+		<pubDate>Fri, 02 Sep 2011 08:44:56 -0700</pubDate>
+		<title>
+			<![CDATA[Jenny add a quote by Lemony Snicket]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/108850-having-an-aura-of-menace-is-like-having-a-pet]]>
+		</link>
+		<description>
+	    <![CDATA["Having an aura of menace is like having a pet weasel, because you rarely meet someone who has one, and when you do, it makes you want to hide under the coffee table." -- Lemony Snicket]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2203-it-is-what-you-read-when-you-don-t-have-to</guid>
+		<pubDate>Thu, 12 Apr 2012 18:32:29 -0700</pubDate>
+		<title>
+			<![CDATA[Jenny add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2203-it-is-what-you-read-when-you-don-t-have-to]]>
+		</link>
+		<description>
+	    <![CDATA["It is what you read when you don't have to that determines what you will be when you can't help it." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/577274-it-is-not-news-that-we-live-in-a-world</guid>
+		<pubDate>Tue, 04 Dec 2012 15:12:39 -0800</pubDate>
+		<title>
+			<![CDATA[Jenny add a quote by Charlie Smith]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/577274-it-is-not-news-that-we-live-in-a-world]]>
+		</link>
+		<description>
+	    <![CDATA["...it is not news that we live in a world
+Where beauty is unexplainable
+And suddenly ruined
+And has its own routines.  We are often far
+From home in a dark town, and our griefs
+Are difficult to translate into a language
+Understood by others." -- Charlie Smith]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/75997-carolyn]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/75997-carolyn" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 13 Aug 2008 10:53:08 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/18936-we-read-books-to-find-out-who-we-are-what</guid>
+		<pubDate>Wed, 13 Aug 2008 10:53:08 -0700</pubDate>
+		<title>
+			<![CDATA[Carolyn add a quote by Ursula K. LeGuin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18936-we-read-books-to-find-out-who-we-are-what]]>
+		</link>
+		<description>
+	    <![CDATA["We read books to find out who we are.  What other people, real or imaginary, do and think and feel... is an essential guide to our understanding of what we ourselves are and may become." -- Ursula K. LeGuin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

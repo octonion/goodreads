@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/900621-jane-yang]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/900621-jane-yang" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 17 Feb 2009 22:57:04 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/12237-the-more-i-know-of-the-world-the-more-i</guid>
+		<pubDate>Tue, 17 Feb 2009 22:57:04 -0800</pubDate>
+		<title>
+			<![CDATA[Jane add a quote by Jane Austen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12237-the-more-i-know-of-the-world-the-more-i]]>
+		</link>
+		<description>
+	    <![CDATA["The more I know of the world, the more I am convinced that I shall never see a man whom I can really love. I require so much!" -- Jane Austen]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/14244-a-woman-especially-if-she-have-the-misfortune-of-knowing</guid>
+		<pubDate>Tue, 17 Feb 2009 23:00:33 -0800</pubDate>
+		<title>
+			<![CDATA[Jane add a quote by Jane Austen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14244-a-woman-especially-if-she-have-the-misfortune-of-knowing]]>
+		</link>
+		<description>
+	    <![CDATA["A woman, especially if she have the misfortune of knowing anything, should conceal it as well as she can." -- Jane Austen]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

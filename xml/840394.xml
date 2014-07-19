@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/840394-jessica]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/840394-jessica" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 26 Jun 2012 07:34:21 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/19002-sometimes-you-look-for-the-world-and-it-s-there</guid>
+		<pubDate>Tue, 26 Jun 2012 07:34:21 -0700</pubDate>
+		<title>
+			<![CDATA[Jessica add a quote by Tom Andrews]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/19002-sometimes-you-look-for-the-world-and-it-s-there]]>
+		</link>
+		<description>
+	    <![CDATA["Sometimes you look for the world, and it's there." -- Tom Andrews]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/42756-every-journalist-who-is-not-too-stupid-or-full-of</guid>
+		<pubDate>Tue, 20 Aug 2013 07:37:46 -0700</pubDate>
+		<title>
+			<![CDATA[Jessica add a quote by Janet Malcolm]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/42756-every-journalist-who-is-not-too-stupid-or-full-of]]>
+		</link>
+		<description>
+	    <![CDATA["Every journalist who is not too stupid or full of himself to notice what is going on knows that what he does is morally indefensible. He is a kind of confidence man, preying on people's vanity, ignorance, or loneliness, gaining their trust and betraying them without remorse." -- Janet Malcolm]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

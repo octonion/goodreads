@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/577958-stella-fowler]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/577958-stella-fowler" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 11 Dec 2011 00:20:27 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4-whenever-you-find-yourself-on-the-side-of-the-majority</guid>
+		<pubDate>Sun, 11 Dec 2011 00:20:27 -0800</pubDate>
+		<title>
+			<![CDATA[Stella add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4-whenever-you-find-yourself-on-the-side-of-the-majority]]>
+		</link>
+		<description>
+	    <![CDATA["Whenever you find yourself on the side of the majority, it is time to pause and reflect." -- Mark Twain]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4953-i-don-t-deserve-any-credit-for-turning-the-other-cheek</guid>
+		<pubDate>Sun, 25 Mar 2012 20:54:35 -0700</pubDate>
+		<title>
+			<![CDATA[Stella add a quote by Flannery O'Connor]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4953-i-don-t-deserve-any-credit-for-turning-the-other-cheek]]>
+		</link>
+		<description>
+	    <![CDATA["I don't deserve any credit for turning the other cheek as my tongue is always in it." -- Flannery O'Connor]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/157196-i-don-t-know-if-you-ve-ever-felt-like-that-that</guid>
+		<pubDate>Tue, 19 Jun 2012 20:35:47 -0700</pubDate>
+		<title>
+			<![CDATA[Stella add a quote by Stephen Chbosky]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/157196-i-don-t-know-if-you-ve-ever-felt-like-that-that]]>
+		</link>
+		<description>
+	    <![CDATA["I don’t know if you’ve ever felt like that. That you wanted to sleep for a thousand years. Or just not exist. Or just not be aware that you do exist. Or something like that. I think wanting that is very morbid, but I want it when I get like this. That’s why I’m trying not to think. I just want it all to stop spinning." -- Stephen Chbosky]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

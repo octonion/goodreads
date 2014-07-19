@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/108740-hiram]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/108740-hiram" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 22 Jul 2008 17:16:46 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/16110-the-only-important-elements-in-any-society-are-the-artistic</guid>
+		<pubDate>Tue, 22 Jul 2008 17:16:46 -0700</pubDate>
+		<title>
+			<![CDATA[Hiram add a quote by Samuel R. Delany]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16110-the-only-important-elements-in-any-society-are-the-artistic]]>
+		</link>
+		<description>
+	    <![CDATA["The only important elements in any society are the artistic and the criminal, because they alone, by questioning the society’s values, can force it to change." -- Samuel R. Delany]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/13311-they-say-when-trouble-comes-close-ranks-and-so-the</guid>
+		<pubDate>Tue, 22 Jul 2008 17:51:10 -0700</pubDate>
+		<title>
+			<![CDATA[Hiram add a quote by Jean Rhys]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13311-they-say-when-trouble-comes-close-ranks-and-so-the]]>
+		</link>
+		<description>
+	    <![CDATA["They say when trouble comes close ranks, and so the white people did." -- Jean Rhys]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

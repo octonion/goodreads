@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/458442-ana]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/458442-ana" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 03 Jun 2014 02:17:16 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/606856-someone-once-told-me-that-life-wasn-t-fair-and-they-were</guid>
+		<pubDate>Tue, 03 Jun 2014 02:17:16 -0700</pubDate>
+		<title>
+			<![CDATA[Ana add a quote by Nicole Garber]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/606856-someone-once-told-me-that-life-wasn-t-fair-and-they-were]]>
+		</link>
+		<description>
+	    <![CDATA["Someone once told me that life wasn't fair...and they were right. But I don't think that life was ever meant to be fair or perfect. It's not the tragedy, it's how we deal with it. It's whether we come out stronger because of it. It's not about blocking out the pain or hiding from it, it's about letting the pain shape you into someone better than you were before." -- Nicole Garber]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/705362-a-crisis-creates-the-opportunity-to-dip-deep-into-the</guid>
+		<pubDate>Tue, 03 Jun 2014 02:18:41 -0700</pubDate>
+		<title>
+			<![CDATA[Ana add a quote by Jon M. Huntsman Sr.]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/705362-a-crisis-creates-the-opportunity-to-dip-deep-into-the]]>
+		</link>
+		<description>
+	    <![CDATA["A crisis creates the opportunity to dip deep into the reservoirs of our very being, to rise to levels of confidence, strength, and resolve that otherwise we didn't think we possessed." -- Jon M. Huntsman Sr.]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

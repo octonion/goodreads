@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/381712-sean-leon]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/381712-sean-leon" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 13 Sep 2013 07:38:08 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/137-he-who-has-a-why-to-live-for-can-bear</guid>
+		<pubDate>Fri, 13 Sep 2013 07:38:08 -0700</pubDate>
+		<title>
+			<![CDATA[Sean add a quote by Friedrich Nietzsche]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/137-he-who-has-a-why-to-live-for-can-bear]]>
+		</link>
+		<description>
+	    <![CDATA["He who has a why to live for can bear almost any how." -- Friedrich Nietzsche]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/368254-we-are-half-hearted-creatures-fooling-about-with-drink-and-sex</guid>
+		<pubDate>Wed, 11 Jun 2014 06:04:34 -0700</pubDate>
+		<title>
+			<![CDATA[Sean add a quote by C. S Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/368254-we-are-half-hearted-creatures-fooling-about-with-drink-and-sex]]>
+		</link>
+		<description>
+	    <![CDATA["We are half-hearted creatures, fooling about with drink and sex and ambition when infinite joy is offered us, like an ignorant child who wants to go on making mud pies in a slum because he cannot imagine what is meant by the offer of a holiday at the sea. We are far too easily pleased." -- C. S Lewis]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/70132-i-opened-myself-to-the-gentle-indifference-of-the-world</guid>
+		<pubDate>Fri, 04 Jul 2014 18:30:23 -0700</pubDate>
+		<title>
+			<![CDATA[Sean add a quote by Albert Camus]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/70132-i-opened-myself-to-the-gentle-indifference-of-the-world]]>
+		</link>
+		<description>
+	    <![CDATA["I opened myself to the gentle indifference of the world." -- Albert Camus]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

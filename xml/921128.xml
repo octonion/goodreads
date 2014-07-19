@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/921128-michael]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/921128-michael" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 19 Feb 2008 05:38:23 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/764-a-room-without-books-is-like-a-body-without-a</guid>
+		<pubDate>Tue, 19 Feb 2008 05:38:23 -0800</pubDate>
+		<title>
+			<![CDATA[Michael add a quote by Marcus Tullius Cicero]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/764-a-room-without-books-is-like-a-body-without-a]]>
+		</link>
+		<description>
+	    <![CDATA["A room without books is like a body without a soul." -- Marcus Tullius Cicero]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/576292-the-more-you-read-the-more-you-know-the-more</guid>
+		<pubDate>Thu, 17 Apr 2014 14:10:21 -0700</pubDate>
+		<title>
+			<![CDATA[Michael add a quote by National Library Week]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/576292-the-more-you-read-the-more-you-know-the-more]]>
+		</link>
+		<description>
+	    <![CDATA["The more you read,
+the more you know.
+The more you know,
+the smarter you grow.
+The smarter you grow, 
+the stronger your voice, 
+when speaking your mind 
+or making your choice." -- National Library Week]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

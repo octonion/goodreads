@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/680068-travis-hi]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/680068-travis-hi" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 14 Dec 2007 14:06:13 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4138-it-s-no-good-pretending-that-any-relationship-has-a-future</guid>
+		<pubDate>Fri, 14 Dec 2007 14:06:13 -0800</pubDate>
+		<title>
+			<![CDATA[Travis add a quote by Nick Hornby]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4138-it-s-no-good-pretending-that-any-relationship-has-a-future]]>
+		</link>
+		<description>
+	    <![CDATA["It's no good pretending that any relationship has a future if your record collections disagree violently or if your favorite films wouldn't even speak to each other if they met at a party." -- Nick Hornby]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/22556-death-should-take-me-while-i-am-in-the-mood</guid>
+		<pubDate>Mon, 24 May 2010 19:46:09 -0700</pubDate>
+		<title>
+			<![CDATA[Travis add a quote by Nathaniel Hawthorne]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/22556-death-should-take-me-while-i-am-in-the-mood]]>
+		</link>
+		<description>
+	    <![CDATA["Death should take me while I am in the mood." -- Nathaniel Hawthorne]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/74329-i-talk-about-going-to-george-w-bush-s-inauguration-and</guid>
+		<pubDate>Thu, 10 Mar 2011 20:06:13 -0800</pubDate>
+		<title>
+			<![CDATA[Travis add a quote by Sarah Vowell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/74329-i-talk-about-going-to-george-w-bush-s-inauguration-and]]>
+		</link>
+		<description>
+	    <![CDATA["I talk about going to [George W. Bush's] Inauguration and crying
+when he took the oath, 'cause I was so afraid he was going to
+wreck the economy and muck up the drinking water'... the failure of
+my pessimistic imagination at that moment boggles my mind now." -- Sarah Vowell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

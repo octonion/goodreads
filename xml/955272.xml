@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/955272-shannon]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/955272-shannon" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 28 Jun 2013 06:22:49 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/343950-i-do-not-believe-in-taking-the-right-decision-i</guid>
+		<pubDate>Fri, 28 Jun 2013 06:22:49 -0700</pubDate>
+		<title>
+			<![CDATA[Shannon add a quote by Muhammad Ali Jinnah]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/343950-i-do-not-believe-in-taking-the-right-decision-i]]>
+		</link>
+		<description>
+	    <![CDATA["I do not believe in taking the right decision, I take a decision and make it right." -- Muhammad Ali Jinnah]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/217070-keep-your-face-always-toward-the-sunshine---and-shadows</guid>
+		<pubDate>Fri, 28 Jun 2013 06:22:53 -0700</pubDate>
+		<title>
+			<![CDATA[Shannon add a quote by Walt Whitman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/217070-keep-your-face-always-toward-the-sunshine---and-shadows]]>
+		</link>
+		<description>
+	    <![CDATA["Keep your face always toward the sunshine - and shadows will fall behind you." -- Walt Whitman]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/20079-alison-downs]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/20079-alison-downs" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 26 Oct 2011 16:47:24 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/131148-i-read-once-that-the-ancient-egyptians-had-fifty-words</guid>
+		<pubDate>Wed, 26 Oct 2011 16:47:24 -0700</pubDate>
+		<title>
+			<![CDATA[Alison add a quote by Brian Andreas]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/131148-i-read-once-that-the-ancient-egyptians-had-fifty-words]]>
+		</link>
+		<description>
+	    <![CDATA["I read once that the ancient Egyptians had fifty words for sand &amp; the Eskimos had a hundred words for snow. I wish I had a thousand words for love, but all that comes to mind is the way you move against me while you sleep &amp; there are no words for that." -- Brian Andreas]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/571059-i-don-t-even-feel-as-if-i-m-the-center-of</guid>
+		<pubDate>Thu, 03 Jul 2014 10:53:13 -0700</pubDate>
+		<title>
+			<![CDATA[Alison add a quote by Nick Hornby]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/571059-i-don-t-even-feel-as-if-i-m-the-center-of]]>
+		</link>
+		<description>
+	    <![CDATA["I don't even feel as if I'm the center of my own world, so how am I supposed to feel as though I'm the center of anyone else's?" -- Nick Hornby]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

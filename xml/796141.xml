@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/796141-gregory]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/796141-gregory" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 17 Jan 2008 13:04:41 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/14383-it-s-not-possible-that-the-problems-of-this-world-be</guid>
+		<pubDate>Thu, 17 Jan 2008 13:04:41 -0800</pubDate>
+		<title>
+			<![CDATA[Gregory add a quote by Spencer W. Kimball]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14383-it-s-not-possible-that-the-problems-of-this-world-be]]>
+		</link>
+		<description>
+	    <![CDATA["It's not possible that the problems of this world be resolved by the pesimists and sceptics whose horizons are guided by the obvious realities.  We need men and women who think of things that have never been thought of and who dream of things that have never been dreamed of, and who ask, &quot;Why not?&quot;
+
+[It sounds better in Spanish]
+No es posible que los problemas de este mundo sean resueltos por pesamistas y esepticos cuyos horizontes esten guiados por las obvias realidades.  Necesitamos hombres y mujeres que piensen en cosas que nunca se hayan pensado y que suenen en cosas que nunca se hayan sonado, y que se pregunten '?porque no?" -- Spencer W. Kimball]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

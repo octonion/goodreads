@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1007256-alex]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1007256-alex" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 01 Jun 2008 10:45:06 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/59541-i-came-to-realize-that-life-lived-to-help-others</guid>
+		<pubDate>Sun, 01 Jun 2008 10:45:06 -0700</pubDate>
+		<title>
+			<![CDATA[Alex add a quote by Ben Stein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/59541-i-came-to-realize-that-life-lived-to-help-others]]>
+		</link>
+		<description>
+	    <![CDATA["I came to realize that life lived to help others is the only one that matters and that it sis my duty ... This is my highest and best use as a human." -- Ben Stein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1057-i-just-can-t-listen-to-any-more-wagner-you-know-i-m</guid>
+		<pubDate>Sun, 01 Jun 2008 10:46:30 -0700</pubDate>
+		<title>
+			<![CDATA[Alex add a quote by Woody Allen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1057-i-just-can-t-listen-to-any-more-wagner-you-know-i-m]]>
+		</link>
+		<description>
+	    <![CDATA["I just can't listen to any more Wagner, you know...I'm starting to get the urge to conquer Poland." -- Woody Allen]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/5306-everywhere-is-walking-distance-if-you-have-the-time</guid>
+		<pubDate>Sun, 15 Mar 2009 03:07:07 -0700</pubDate>
+		<title>
+			<![CDATA[Alex add a quote by Steven Wright]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/5306-everywhere-is-walking-distance-if-you-have-the-time]]>
+		</link>
+		<description>
+	    <![CDATA["Everywhere is walking distance if you have the time." -- Steven Wright]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

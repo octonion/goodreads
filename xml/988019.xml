@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/988019-lynette-rummer]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/988019-lynette-rummer" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 12 Mar 2008 11:18:52 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/12970-the-sky-is-deep-the-sky-is-dark-the-light</guid>
+		<pubDate>Wed, 12 Mar 2008 11:18:52 -0700</pubDate>
+		<title>
+			<![CDATA[Lynette add a quote by Dean Koontz]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12970-the-sky-is-deep-the-sky-is-dark-the-light]]>
+		</link>
+		<description>
+	    <![CDATA["The sky is deep, the sky is dark. The light of the stars is o damn stark/When I look up, I fill with fear, if all we have is what lies here, this lonely world, this troubled place, then cold dead stars and empty space...Well, I see no reason to persevere, no reason to laugh or shed a tear, no reason to sleep and none to wake/ No promises to keep and none to make. And so at night I still raise my eyes tos tudy the clear but mysterious skies that arch avove us, cold as stone. Are you there God? Are we alone?" -- Dean Koontz]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

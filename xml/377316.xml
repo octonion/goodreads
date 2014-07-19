@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/377316-heathertamara-m-turtles-travel]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/377316-heathertamara-m-turtles-travel" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 23 Jun 2013 18:13:11 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/106564-normal-is-getting-dressed-in-clothes-that-you-buy-for</guid>
+		<pubDate>Sun, 23 Jun 2013 18:13:11 -0700</pubDate>
+		<title>
+			<![CDATA[HeatherTamara add a quote by Ellen Goodman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/106564-normal-is-getting-dressed-in-clothes-that-you-buy-for]]>
+		</link>
+		<description>
+	    <![CDATA["Normal is getting dressed in clothes that you buy for work and driving through traffic in a car that you are still paying for - in order to get to the job you need to pay for the clothes and the car, and the house you leave vacant all day so you can afford to live in it." -- Ellen Goodman]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/11029-try-to-be-like-the-turtle----at-ease-in</guid>
+		<pubDate>Mon, 10 Feb 2014 15:51:49 -0800</pubDate>
+		<title>
+			<![CDATA[HeatherTamara add a quote by Bill Copeland]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11029-try-to-be-like-the-turtle----at-ease-in]]>
+		</link>
+		<description>
+	    <![CDATA["Try to be like the turtle -- at ease in your own shell." -- Bill Copeland]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

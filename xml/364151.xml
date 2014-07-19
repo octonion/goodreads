@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/364151-kelley]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/364151-kelley" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 16 Jan 2009 19:47:41 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/131182-wherever-thou-art-act-well-thy-part</guid>
+		<pubDate>Fri, 16 Jan 2009 19:47:41 -0800</pubDate>
+		<title>
+			<![CDATA[Kelley add a quote by Pres. Monson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/131182-wherever-thou-art-act-well-thy-part]]>
+		</link>
+		<description>
+	    <![CDATA["Wherever thou art, act well thy part." -- Pres. Monson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/131183-a-solution-to-the-inner-war-solves-the-outer-war</guid>
+		<pubDate>Fri, 16 Jan 2009 19:48:32 -0800</pubDate>
+		<title>
+			<![CDATA[Kelley add a quote by Arbinger Institute]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/131183-a-solution-to-the-inner-war-solves-the-outer-war]]>
+		</link>
+		<description>
+	    <![CDATA["A solution to the inner war solves the outer war as well." -- Arbinger Institute]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/94599-bloom-where-you-re-planted</guid>
+		<pubDate>Fri, 16 Jan 2009 19:50:10 -0800</pubDate>
+		<title>
+			<![CDATA[Kelley add a quote by Mary Engelbreit]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/94599-bloom-where-you-re-planted]]>
+		</link>
+		<description>
+	    <![CDATA["Bloom Where You're Planted" -- Mary Engelbreit]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

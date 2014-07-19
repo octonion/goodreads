@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/845302-lynde]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/845302-lynde" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 25 Dec 2013 07:51:48 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/182727-all-virtues-have-a-shadow</guid>
+		<pubDate>Wed, 25 Dec 2013 07:51:48 -0800</pubDate>
+		<title>
+			<![CDATA[Lynde add a quote by Elaine N. Aron]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/182727-all-virtues-have-a-shadow]]>
+		</link>
+		<description>
+	    <![CDATA["All virtues have a shadow." -- Elaine N. Aron]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/722723-i-am-beginning-to-believe-that-nothing-is-quite-so</guid>
+		<pubDate>Wed, 25 Dec 2013 07:52:40 -0800</pubDate>
+		<title>
+			<![CDATA[Lynde add a quote by Timothy Egan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/722723-i-am-beginning-to-believe-that-nothing-is-quite-so]]>
+		</link>
+		<description>
+	    <![CDATA["I am beginning to believe that nothing is quite so uncertain as facts. (Edward Curtis)" -- Timothy Egan]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

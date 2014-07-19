@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/978465-amy-f]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/978465-amy-f" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 03 Apr 2013 20:37:24 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/772446-what-he-remembers-with-perfect-clarity-is-sitting-on-a</guid>
+		<pubDate>Wed, 03 Apr 2013 20:37:24 -0700</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Michael Cunningham]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/772446-what-he-remembers-with-perfect-clarity-is-sitting-on-a]]>
+		</link>
+		<description>
+	    <![CDATA["What he remembers with perfect clarity is sitting on a train headed for Madrid, feeling the sort of happiness he imagines spirits might feel, freed of their earthly bodies but still possessed of their essential selves." -- Michael Cunningham]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/882245-that-is-what-we-do-that-is-what-people-do</guid>
+		<pubDate>Fri, 30 Aug 2013 08:39:16 -0700</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Michael Cunningham]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/882245-that-is-what-we-do-that-is-what-people-do]]>
+		</link>
+		<description>
+	    <![CDATA["That is what we do. That is what people do. They stay alive for each other." -- Michael Cunningham]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/896921-sometimes-when-anna-is-talking-to-louise-she-sees-words</guid>
+		<pubDate>Fri, 20 Sep 2013 23:33:22 -0700</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Jessica Anya Blau]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/896921-sometimes-when-anna-is-talking-to-louise-she-sees-words]]>
+		</link>
+		<description>
+	    <![CDATA["Sometimes when Anna is talking to Louise she sees words coming out of her mouth like fistfuls of stones. But she doesn't intend to spew stones; it's simply the only way Anna knows how to takl to her mother." -- Jessica Anya Blau]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/234800-kevin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/234800-kevin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 07 May 2014 19:26:21 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1128170-yes-of-course-duct-tape-works-in-a-near-vacuum-duct</guid>
+		<pubDate>Wed, 07 May 2014 19:26:21 -0700</pubDate>
+		<title>
+			<![CDATA[Kevin add a quote by Andy Weir]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1128170-yes-of-course-duct-tape-works-in-a-near-vacuum-duct]]>
+		</link>
+		<description>
+	    <![CDATA["Yes, of course duct tape works in a near-vacuum. Duct tape works anywhere. Duct tape is magic and should be worshiped." -- Andy Weir]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/972087-if-ruining-the-only-religious-icon-i-have-leaves-me</guid>
+		<pubDate>Wed, 07 May 2014 19:26:27 -0700</pubDate>
+		<title>
+			<![CDATA[Kevin add a quote by Andy Weir]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/972087-if-ruining-the-only-religious-icon-i-have-leaves-me]]>
+		</link>
+		<description>
+	    <![CDATA["If ruining the only religious icon I have leaves me vulnerable to Martian vampires, I'll have to risk it." -- Andy Weir]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1044312-11-49-jpl-what-we-can-see-of-your-planned-cut</guid>
+		<pubDate>Wed, 07 May 2014 19:27:04 -0700</pubDate>
+		<title>
+			<![CDATA[Kevin add a quote by Andy Weir]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1044312-11-49-jpl-what-we-can-see-of-your-planned-cut]]>
+		</link>
+		<description>
+	    <![CDATA["[11:49] JPL: What we can see of your planned cut looks good. We’re assuming the other side is identical. You’re cleared to start drilling. [12:07] Watney: That’s what she said. [12:25] JPL: Seriously, Mark? Seriously?" -- Andy Weir]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

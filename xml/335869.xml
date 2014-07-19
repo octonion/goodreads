@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/335869-raquel]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/335869-raquel" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 23 Aug 2010 16:45:11 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/8667-it-takes-a-great-deal-of-bravery-to-stand-up</guid>
+		<pubDate>Mon, 23 Aug 2010 16:45:11 -0700</pubDate>
+		<title>
+			<![CDATA[Raquel add a quote by J.K. Rowling]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8667-it-takes-a-great-deal-of-bravery-to-stand-up]]>
+		</link>
+		<description>
+	    <![CDATA["It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends." -- J.K. Rowling]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/18723-i-hope-you-re-pleased-with-yourselves-we-could-all-have</guid>
+		<pubDate>Mon, 23 Aug 2010 17:29:54 -0700</pubDate>
+		<title>
+			<![CDATA[Raquel add a quote by J.K. Rowling]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18723-i-hope-you-re-pleased-with-yourselves-we-could-all-have]]>
+		</link>
+		<description>
+	    <![CDATA["I hope you're pleased with yourselves. We could all have been killed - or worse, expelled. Now if you don't mind, I'm going to bed." -- J.K. Rowling]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/30024-what-happened-down-in-the-dungeons-between-you-and-professor</guid>
+		<pubDate>Mon, 23 Aug 2010 18:32:43 -0700</pubDate>
+		<title>
+			<![CDATA[Raquel add a quote by J. K. Rowling]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/30024-what-happened-down-in-the-dungeons-between-you-and-professor]]>
+		</link>
+		<description>
+	    <![CDATA["What happened down in the dungeons between you and Professor Quirrell is a complete secret, so, naturally the whole school knows." -- J. K. Rowling]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

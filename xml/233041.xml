@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/233041-susan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/233041-susan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 27 Apr 2008 15:32:31 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/48945-immature-love-says-i-love-you-because-i-need-you</guid>
+		<pubDate>Sun, 27 Apr 2008 15:32:31 -0700</pubDate>
+		<title>
+			<![CDATA[Susan add a quote by Erich Fromm]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/48945-immature-love-says-i-love-you-because-i-need-you]]>
+		</link>
+		<description>
+	    <![CDATA["Immature love says: 'I love you because I need you.' Mature love says 'I need you because I love you." -- Erich Fromm]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/48946-the-source-of-love-is-deep-in-us-and-we</guid>
+		<pubDate>Sun, 27 Apr 2008 15:33:44 -0700</pubDate>
+		<title>
+			<![CDATA[Susan add a quote by Thich Nhat Hanh]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/48946-the-source-of-love-is-deep-in-us-and-we]]>
+		</link>
+		<description>
+	    <![CDATA["The source of love is deep in us and we can help others realize a lot of happiness. One word, one action, one thought can reduce another person’s suffering and bring that person joy." -- Thich Nhat Hanh]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

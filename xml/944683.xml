@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/944683-layne-preau]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/944683-layne-preau" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 26 Feb 2008 10:40:16 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4952-everywhere-i-go-i-m-asked-if-i-think-the-university</guid>
+		<pubDate>Tue, 26 Feb 2008 10:40:16 -0800</pubDate>
+		<title>
+			<![CDATA[Layne add a quote by Flannery O'Connor]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4952-everywhere-i-go-i-m-asked-if-i-think-the-university]]>
+		</link>
+		<description>
+	    <![CDATA["Everywhere I go I'm asked if I think the university stifles writers. My opinion is that they don't stifle enough of them. There's many a best-seller that could have been prevented by a good teacher." -- Flannery O'Connor]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/207237-a-government-big-enough-to-give-you-everything-you-want</guid>
+		<pubDate>Wed, 27 Feb 2008 10:32:36 -0800</pubDate>
+		<title>
+			<![CDATA[Layne add a quote by Barry Goldwater ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/207237-a-government-big-enough-to-give-you-everything-you-want]]>
+		</link>
+		<description>
+	    <![CDATA["A government big enough to give you everything you want is big enough to take everything you have." -- Barry Goldwater ]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

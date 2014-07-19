@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/275411-amy-leigh]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/275411-amy-leigh" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 28 Jan 2008 10:50:16 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/18544-it-is-very-important-that-you-only-do-what-you</guid>
+		<pubDate>Mon, 28 Jan 2008 10:50:16 -0800</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Elisabeth Kübler-Ross]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18544-it-is-very-important-that-you-only-do-what-you]]>
+		</link>
+		<description>
+	    <![CDATA["It is very important that you only do what you love to do. you may be poor, you may go hungry, you may lose your car, you may have to move into a shabby place to live, but you will totally live. And at the end of your days you will bless your life because you have done what you came here to do. Otherwise, you will live your life as a prostitute, you will do things only for a reason, to please other people, and you will never have lived. and you will not have a pleasant death." -- Elisabeth Kübler-Ross]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/71044-we-shouldn-t-be-looking-for-heroes-we-should-be-looking</guid>
+		<pubDate>Sat, 07 Dec 2013 12:45:47 -0800</pubDate>
+		<title>
+			<![CDATA[Amy add a quote by Noam Chomsky]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/71044-we-shouldn-t-be-looking-for-heroes-we-should-be-looking]]>
+		</link>
+		<description>
+	    <![CDATA["We shouldn't be looking for heroes, we should be looking for good ideas." -- Noam Chomsky]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/864569-amanda]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/864569-amanda" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Mar 2008 10:05:49 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/7572-i-have-always-imagined-that-paradise-will-be-a-kind</guid>
+		<pubDate>Sun, 02 Mar 2008 10:05:49 -0800</pubDate>
+		<title>
+			<![CDATA[Amanda add a quote by Jorge Luis Borges]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/7572-i-have-always-imagined-that-paradise-will-be-a-kind]]>
+		</link>
+		<description>
+	    <![CDATA["I have always imagined that Paradise will be a kind of library." -- Jorge Luis Borges]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/764-a-room-without-books-is-like-a-body-without-a</guid>
+		<pubDate>Sun, 03 Feb 2008 11:44:21 -0800</pubDate>
+		<title>
+			<![CDATA[Amanda add a quote by Marcus Tullius Cicero]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/764-a-room-without-books-is-like-a-body-without-a]]>
+		</link>
+		<description>
+	    <![CDATA["A room without books is like a body without a soul." -- Marcus Tullius Cicero]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2203-it-is-what-you-read-when-you-don-t-have-to</guid>
+		<pubDate>Sun, 03 Feb 2008 11:50:59 -0800</pubDate>
+		<title>
+			<![CDATA[Amanda add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2203-it-is-what-you-read-when-you-don-t-have-to]]>
+		</link>
+		<description>
+	    <![CDATA["It is what you read when you don't have to that determines what you will be when you can't help it." -- Oscar Wilde]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

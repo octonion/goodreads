@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1004856-sherri-webster]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1004856-sherri-webster" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 19 Mar 2008 12:18:58 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/36310-until-you-die-it-s-all-life</guid>
+		<pubDate>Wed, 19 Mar 2008 12:18:58 -0700</pubDate>
+		<title>
+			<![CDATA[Sherri add a quote by Kurt Vonnegut]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/36310-until-you-die-it-s-all-life]]>
+		</link>
+		<description>
+	    <![CDATA["Until you die .. it's all life." -- Kurt Vonnegut]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/87111-good-judgment-comes-from-experience-and-experience-comes-from-bad</guid>
+		<pubDate>Wed, 19 Mar 2008 12:19:33 -0700</pubDate>
+		<title>
+			<![CDATA[Sherri add a quote by Rita Mae Brown]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/87111-good-judgment-comes-from-experience-and-experience-comes-from-bad]]>
+		</link>
+		<description>
+	    <![CDATA["Good judgment comes from experience, and experience comes from bad judgment." -- Rita Mae Brown]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/11035-no-one-can-make-you-feel-inferior-without-your-consent</guid>
+		<pubDate>Fri, 21 Mar 2008 21:56:48 -0700</pubDate>
+		<title>
+			<![CDATA[Sherri add a quote by Eleanor Roosevelt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11035-no-one-can-make-you-feel-inferior-without-your-consent]]>
+		</link>
+		<description>
+	    <![CDATA["No one can make you feel inferior without your consent." -- Eleanor Roosevelt]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/15143-if-jesus-came-back-and-saw-what-was-being-done</guid>
+		<pubDate>Sun, 23 Mar 2008 21:02:45 -0700</pubDate>
+		<title>
+			<![CDATA[Sherri add a quote by Woody Allen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/15143-if-jesus-came-back-and-saw-what-was-being-done]]>
+		</link>
+		<description>
+	    <![CDATA["If Jesus came back and saw what was being done in his name, he'd never stop throwing up." -- Woody Allen]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

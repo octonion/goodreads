@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/270743-leny]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/270743-leny" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 20 Jan 2010 06:37:41 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/17213-jangan-buat-ilmumu-menjadi-kebodohan-dan-keyakinan-menjadi-keraguan-jika-engkau</guid>
+		<pubDate>Wed, 20 Jan 2010 06:37:41 -0800</pubDate>
+		<title>
+			<![CDATA[Leny add a quote by Ali Bin Abi Thalib]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17213-jangan-buat-ilmumu-menjadi-kebodohan-dan-keyakinan-menjadi-keraguan-jika-engkau]]>
+		</link>
+		<description>
+	    <![CDATA["jangan buat ilmumu menjadi kebodohan,dan keyakinan menjadi keraguan, jika engkau mempunyai pengetahuan, lakukanlah, jika engkau yakin majullah!" -- Ali Bin Abi Thalib]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/179711-i-always-like-walking-in-the-rain-so-no-one</guid>
+		<pubDate>Mon, 19 Apr 2010 04:09:56 -0700</pubDate>
+		<title>
+			<![CDATA[Leny add a quote by Charlie Chaplin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/179711-i-always-like-walking-in-the-rain-so-no-one]]>
+		</link>
+		<description>
+	    <![CDATA["I always like walking in the rain, so no one can see me crying." -- Charlie Chaplin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

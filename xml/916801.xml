@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/916801-jennifer]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/916801-jennifer" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 10 Jun 2012 17:37:48 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/16373-you-re-off-to-great-places-today-is-your-day-your</guid>
+		<pubDate>Sun, 10 Jun 2012 17:37:48 -0700</pubDate>
+		<title>
+			<![CDATA[Jennifer add a quote by Dr. Seuss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16373-you-re-off-to-great-places-today-is-your-day-your]]>
+		</link>
+		<description>
+	    <![CDATA["You're off to Great Places!
+Today is your day!
+Your mountain is waiting,
+So... get on your way!" -- Dr. Seuss]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/187115-why-fit-in-when-you-were-born-to-stand-out</guid>
+		<pubDate>Sun, 10 Jun 2012 17:38:20 -0700</pubDate>
+		<title>
+			<![CDATA[Jennifer add a quote by Dr. Seuss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/187115-why-fit-in-when-you-were-born-to-stand-out]]>
+		</link>
+		<description>
+	    <![CDATA["Why fit in when you were born to stand out?" -- Dr. Seuss]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/108615-only-you-can-control-your-future</guid>
+		<pubDate>Sun, 10 Jun 2012 17:38:31 -0700</pubDate>
+		<title>
+			<![CDATA[Jennifer add a quote by Dr. Seuss]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/108615-only-you-can-control-your-future]]>
+		</link>
+		<description>
+	    <![CDATA["Only you can control your future." -- Dr. Seuss]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

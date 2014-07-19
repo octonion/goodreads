@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/698632-heather-enea]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/698632-heather-enea" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 19 Dec 2007 06:58:12 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6369-you-won-t-find-reasonable-men-on-the-tops-of-tall</guid>
+		<pubDate>Wed, 19 Dec 2007 06:58:12 -0800</pubDate>
+		<title>
+			<![CDATA[Heather add a quote by Hunter S. Thompson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6369-you-won-t-find-reasonable-men-on-the-tops-of-tall]]>
+		</link>
+		<description>
+	    <![CDATA["You won't find reasonable men on the tops of tall mountains." -- Hunter S. Thompson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6371-those-who-cannot-change-their-minds-cannot-change-anything</guid>
+		<pubDate>Wed, 19 Dec 2007 07:00:11 -0800</pubDate>
+		<title>
+			<![CDATA[Heather add a quote by George Bernard Shaw]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6371-those-who-cannot-change-their-minds-cannot-change-anything]]>
+		</link>
+		<description>
+	    <![CDATA["Those who cannot change their minds cannot change anything." -- George Bernard Shaw]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6372-in-all-affairs-it-s-a-healthy-thing-now-and-then</guid>
+		<pubDate>Wed, 19 Dec 2007 07:02:04 -0800</pubDate>
+		<title>
+			<![CDATA[Heather add a quote by Bertrand Russell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6372-in-all-affairs-it-s-a-healthy-thing-now-and-then]]>
+		</link>
+		<description>
+	    <![CDATA["In all affairs it's a healthy thing now and then to hang a question mark on the things you have long taken for granted." -- Bertrand Russell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

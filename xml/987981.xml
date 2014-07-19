@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/987981-lori]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/987981-lori" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 18 Jan 2009 12:19:19 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/43478-there-is-no-water-in-oxygen-no-water-in-hydrogen</guid>
+		<pubDate>Sun, 18 Jan 2009 12:19:19 -0800</pubDate>
+		<title>
+			<![CDATA[Lori add a quote by George Macdonald]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/43478-there-is-no-water-in-oxygen-no-water-in-hydrogen]]>
+		</link>
+		<description>
+	    <![CDATA["There is no water in oxygen, no water in hydrogen: it comes bubbling fresh from the imagination of the living God, rushing from under the great white throne of the glacier. The very thought of it makes one gasp with an elemental joy no metaphysician can analyse. The water itself, that dances, and sings, and slakes the wonderful thirst--symbol and picture of that draught for which the woman of Samaria made her prayer to Jesus--this lovely thing itself, whose very wetness is a delight to every inch of the human body in its embrace--this live thing which, if I might, I would have running through my room, yea, babbling along my table--this water is its own self its own truth, and is therein a truth of God." -- George Macdonald]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

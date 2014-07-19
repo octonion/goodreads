@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/162989-emily-sours]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/162989-emily-sours" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Sep 2012 10:01:53 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/593555-it-s-like-the-day-you-realize-dolls-are-dolls-i</guid>
+		<pubDate>Tue, 11 Sep 2012 10:01:53 -0700</pubDate>
+		<title>
+			<![CDATA[Emily add a quote by John Fowles]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/593555-it-s-like-the-day-you-realize-dolls-are-dolls-i]]>
+		</link>
+		<description>
+	    <![CDATA["It's like the day you realize dolls are dolls. I pick up my old self and I see it's silly. A toy I've played with too often. It's a little sad, like an old golliwog at the bottom of the cupboard. Innocent and used-up and proud and silly." -- John Fowles]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/75130-let-all-of-life-be-an-unfettered-howl</guid>
+		<pubDate>Wed, 29 May 2013 10:40:56 -0700</pubDate>
+		<title>
+			<![CDATA[Emily add a quote by Vladimir Nabokov]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/75130-let-all-of-life-be-an-unfettered-howl]]>
+		</link>
+		<description>
+	    <![CDATA["Let all of life be an unfettered howl." -- Vladimir Nabokov]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/179802-the-chicken-is-only-an-egg-s-way-for-making-another</guid>
+		<pubDate>Thu, 22 Aug 2013 13:13:37 -0700</pubDate>
+		<title>
+			<![CDATA[Emily add a quote by Richard Dawkins]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/179802-the-chicken-is-only-an-egg-s-way-for-making-another]]>
+		</link>
+		<description>
+	    <![CDATA["The chicken is only an egg’s way for making another egg." -- Richard Dawkins]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

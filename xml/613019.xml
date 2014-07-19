@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/613019-gail]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/613019-gail" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 29 Jun 2011 19:44:18 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/390121-what-turning-forty-means-to-me-i-need-to-take</guid>
+		<pubDate>Wed, 29 Jun 2011 19:44:18 -0700</pubDate>
+		<title>
+			<![CDATA[Gail add a quote by Tina Fey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/390121-what-turning-forty-means-to-me-i-need-to-take]]>
+		</link>
+		<description>
+	    <![CDATA["What Turning Forty Means to Me
+
+I need to take my pants off as soon as I get home.  I didn't used to have to do that.  But now I do." -- Tina Fey]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

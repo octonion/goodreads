@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/811874-chris]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/811874-chris" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 05 Feb 2008 17:50:48 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/681-the-future-is-already-here-it-s-just-not-evenly</guid>
+		<pubDate>Tue, 05 Feb 2008 17:50:48 -0800</pubDate>
+		<title>
+			<![CDATA[Chris add a quote by William Gibson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/681-the-future-is-already-here-it-s-just-not-evenly]]>
+		</link>
+		<description>
+	    <![CDATA["The future is already here – it's just not evenly distributed.
+
+&lt;i&gt;The Economist, December 4, 2003&lt;/i&gt;" -- William Gibson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/233-i-don-t-know-half-of-you-half-as-well-as</guid>
+		<pubDate>Tue, 05 Feb 2008 17:52:34 -0800</pubDate>
+		<title>
+			<![CDATA[Chris add a quote by J.R.R. Tolkien]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/233-i-don-t-know-half-of-you-half-as-well-as]]>
+		</link>
+		<description>
+	    <![CDATA["I don't know half of you half as well as I should like; and I like less than half of you half as well as you deserve." -- J.R.R. Tolkien]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1-the-story-so-far-in-the-beginning-the-universe-was</guid>
+		<pubDate>Tue, 05 Feb 2008 18:09:06 -0800</pubDate>
+		<title>
+			<![CDATA[Chris add a quote by Douglas Adams]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1-the-story-so-far-in-the-beginning-the-universe-was]]>
+		</link>
+		<description>
+	    <![CDATA["The story so far:
+In the beginning the Universe was created.
+This has made a lot of people very angry and been widely regarded as a bad move." -- Douglas Adams]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

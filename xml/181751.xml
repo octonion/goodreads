@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/181751-erica-buddington]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/181751-erica-buddington" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 10 Feb 2013 06:15:30 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/562208-but-a-book-suggests-conversation-one-person-is-speaking-to</guid>
+		<pubDate>Sun, 10 Feb 2013 06:15:30 -0800</pubDate>
+		<title>
+			<![CDATA[Erica add a quote by Teju Cole]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/562208-but-a-book-suggests-conversation-one-person-is-speaking-to]]>
+		</link>
+		<description>
+	    <![CDATA["But a book suggests conversation: one person is speaking to another, and audible sound is, or should be, natural to that exchange. So I read aloud with myself as the audience, and gave voice to another's words." -- Teju Cole]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/528635-why-you-like-this-huh-why-you-always-think-you</guid>
+		<pubDate>Wed, 24 Jul 2013 05:04:50 -0700</pubDate>
+		<title>
+			<![CDATA[Erica add a quote by Alice Walker]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/528635-why-you-like-this-huh-why-you-always-think-you]]>
+		</link>
+		<description>
+	    <![CDATA["Why you like this, huh?  Why you always think you have to do things your own way?  I ast your mama bout it one time, while you was in jail.
+What she say? ast Sofia.
+She say you think your way as good as anybody else's.  Plus, it yours.
+Sofia laugh." -- Alice Walker]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

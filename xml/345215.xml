@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/345215-m]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/345215-m" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 20 Nov 2013 08:47:24 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/42421-are-you-going-to-change-yet-again-shift-your-position</guid>
+		<pubDate>Wed, 20 Nov 2013 08:47:24 -0800</pubDate>
+		<title>
+			<![CDATA[M add a quote by Michel Foucault]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/42421-are-you-going-to-change-yet-again-shift-your-position]]>
+		</link>
+		<description>
+	    <![CDATA["Are you going to change yet again, shift your position according to the questions that are put to you, and say that the objections are not really directed at the place from which you are speaking? Are you going to declare yet again that you have never been what you have been reproached with being? Are you already preparing the way out that will enable you in your next book to spring up somewhere else and declare as you're now doing: no, no, I'm not where you are lying in wait for me, but over here, laughing at you?'
+	'What, do you imagine that I would take so much trouble and so much pleasure in writing, do you think that I would keep so persistently to my task, if I were not preparing – with a rather shaky hand – a labyrinth into which I can venture, into which I can move my discourse... in which I can lose myself and appear at last to eyes that I will never have to meet again. I am no doubt not the only one who writes in order to have no face. Do not ask who I am and do not ask me to remain the same: leave it to our bureaucrats and our police to see that our papers are in order. At least spare us their morality when we write." -- Michel Foucault]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

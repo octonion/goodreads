@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/855396-christy]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/855396-christy" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 15 May 2011 20:34:03 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4590-without-music-life-would-be-a-mistake</guid>
+		<pubDate>Sun, 15 May 2011 20:34:03 -0700</pubDate>
+		<title>
+			<![CDATA[Christy add a quote by Friedrich Nietzsche]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4590-without-music-life-would-be-a-mistake]]>
+		</link>
+		<description>
+	    <![CDATA["Without music, life would be a mistake." -- Friedrich Nietzsche]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/11877-my-mission-in-life-is-not-merely-to-survive-but</guid>
+		<pubDate>Tue, 01 Nov 2011 19:41:39 -0700</pubDate>
+		<title>
+			<![CDATA[Christy add a quote by Maya Angelou ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11877-my-mission-in-life-is-not-merely-to-survive-but]]>
+		</link>
+		<description>
+	    <![CDATA["My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style" -- Maya Angelou ]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

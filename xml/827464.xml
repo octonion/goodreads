@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/827464-anthony-nierowiecz]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/827464-anthony-nierowiecz" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 24 Jan 2008 13:16:48 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/3463-i-don-t-know-why-we-are-here-but-i-m-pretty</guid>
+		<pubDate>Thu, 24 Jan 2008 13:16:48 -0800</pubDate>
+		<title>
+			<![CDATA[Anthony add a quote by Ludwig Wittgenstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3463-i-don-t-know-why-we-are-here-but-i-m-pretty]]>
+		</link>
+		<description>
+	    <![CDATA["I don't know why we are here, but I'm pretty sure that it is not in order to enjoy ourselves." -- Ludwig Wittgenstein]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/6050-the-fundamental-cause-of-the-trouble-is-that-in-the</guid>
+		<pubDate>Thu, 24 Jan 2008 16:47:08 -0800</pubDate>
+		<title>
+			<![CDATA[Anthony add a quote by Bertrand Russell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6050-the-fundamental-cause-of-the-trouble-is-that-in-the]]>
+		</link>
+		<description>
+	    <![CDATA["The  fundamental cause of the trouble is that in the modern world the stupid are cocksure while the intelligent are full of doubt." -- Bertrand Russell]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/12577-the-limits-of-my-language-means-the-limits-of-my</guid>
+		<pubDate>Thu, 24 Jan 2008 16:55:11 -0800</pubDate>
+		<title>
+			<![CDATA[Anthony add a quote by Ludwig Wittgenstein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/12577-the-limits-of-my-language-means-the-limits-of-my]]>
+		</link>
+		<description>
+	    <![CDATA["The limits of my language means the limits of my world." -- Ludwig Wittgenstein]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

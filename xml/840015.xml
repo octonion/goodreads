@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/840015-jessica]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/840015-jessica" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 19 Mar 2008 15:26:24 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/633-i-have-found-the-paradox-that-if-you-love-until</guid>
+		<pubDate>Wed, 19 Mar 2008 15:26:24 -0700</pubDate>
+		<title>
+			<![CDATA[Jessica add a quote by Daphne Rae]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/633-i-have-found-the-paradox-that-if-you-love-until]]>
+		</link>
+		<description>
+	    <![CDATA["I have found the paradox, that if you love until it hurts, there can be no more hurt, only more love." -- Daphne Rae]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4900-the-best-and-most-beautiful-things-in-the-world-cannot</guid>
+		<pubDate>Wed, 19 Mar 2008 15:44:18 -0700</pubDate>
+		<title>
+			<![CDATA[Jessica add a quote by Helen Keller]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4900-the-best-and-most-beautiful-things-in-the-world-cannot]]>
+		</link>
+		<description>
+	    <![CDATA["The best and most beautiful things in the world cannot be seen or even touched. They must be felt with the heart" -- Helen Keller]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

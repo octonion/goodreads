@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/893744-lynda]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/893744-lynda" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 29 Aug 2008 21:14:59 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/14770-you-can-fix-anything-but-a-blank-page</guid>
+		<pubDate>Fri, 29 Aug 2008 21:14:59 -0700</pubDate>
+		<title>
+			<![CDATA[Lynda add a quote by Nora Roberts]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/14770-you-can-fix-anything-but-a-blank-page]]>
+		</link>
+		<description>
+	    <![CDATA["You can fix anything but a blank page." -- Nora Roberts]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/68780-it-is-how-a-person-goes-about-quenching-his-desires</guid>
+		<pubDate>Fri, 29 Aug 2008 22:06:41 -0700</pubDate>
+		<title>
+			<![CDATA[Lynda add a quote by Michael Connelly]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/68780-it-is-how-a-person-goes-about-quenching-his-desires]]>
+		</link>
+		<description>
+	    <![CDATA["...it is how a person goes about quenching his desires or living with them unrequited that the readers get a glimpse of his true character." -- Michael Connelly]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/671725-anastasia]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/671725-anastasia" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 09 Dec 2007 20:08:35 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4449-poetry-will-exist-as-long-as-there-is-a-problem</guid>
+		<pubDate>Sun, 09 Dec 2007 20:08:35 -0800</pubDate>
+		<title>
+			<![CDATA[Anastasia add a quote by Ruben]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4449-poetry-will-exist-as-long-as-there-is-a-problem]]>
+		</link>
+		<description>
+	    <![CDATA["Poetry will exist as long as there is a problem of life and death.
+The gift of art is a superior gift that allows you to enter into the unknown of the before and into the ignored of the affair, in the world of dreams and meditation.
+There are no schools in there are poets.
+The true artist understand all the ways and finds beauty in all forms. All the glory and eternity are in your conscience." -- Ruben]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

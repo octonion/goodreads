@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/806721-allie-sanfi]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/806721-allie-sanfi" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 20 Jan 2008 18:26:44 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/15299-it-was-as-if-the-entire-day-the-entire-vacation</guid>
+		<pubDate>Sun, 20 Jan 2008 18:26:44 -0800</pubDate>
+		<title>
+			<![CDATA[Allie add a quote by rick moody]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/15299-it-was-as-if-the-entire-day-the-entire-vacation]]>
+		</link>
+		<description>
+	    <![CDATA["it was as if the entire day, the entire vacation even, were leading up to a single moment. he felt certain then that stan lee was in some direct communication with the universe - in a way, say, that the watcher, the most mysterious marvel character, was content like some gnostic entity merely to know of machinations of creation - and that through lee's spiritually advanced vision, paul's own destiny was entrapped in the monthly serializations of these kitschy superheroes. he seemed both influenced and influencer in the world of marvel." -- rick moody]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

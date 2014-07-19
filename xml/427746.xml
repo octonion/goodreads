@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/427746-camille]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/427746-camille" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 16 Aug 2009 22:08:44 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/186154-if-we-are-to-be-honest-with-ourselves-we-must</guid>
+		<pubDate>Sun, 16 Aug 2009 22:08:44 -0700</pubDate>
+		<title>
+			<![CDATA[Camille add a quote by Frank B. Wilderson III]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/186154-if-we-are-to-be-honest-with-ourselves-we-must]]>
+		</link>
+		<description>
+	    <![CDATA["If we are to be honest with ourselves, we must admit that the &quot;Negro&quot; has been inviting whites, as well as civil society's junior partners, to the dance of social death for hundreds of years, but few have wanted to learn the steps. They have been, and remain today - even in the most anti-racist movements, like the prison abolition movement - invested elsewhere. This is not to say that all oppositional political desire today is pro-white, but it is usually anti-Black, meaning it will not dance with death." -- Frank B. Wilderson III]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

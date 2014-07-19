@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/43223-nathan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/43223-nathan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 26 May 2008 16:39:20 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/8816-i-am-against-religion-because-it-teaches-us-to-be</guid>
+		<pubDate>Mon, 26 May 2008 16:39:20 -0700</pubDate>
+		<title>
+			<![CDATA[nathan add a quote by Richard Dawkins]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/8816-i-am-against-religion-because-it-teaches-us-to-be]]>
+		</link>
+		<description>
+	    <![CDATA["I am against religion because it teaches us to be satisfied with not understanding the world." -- Richard Dawkins]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4416-we-are-all-atheists-about-most-of-the-gods-that</guid>
+		<pubDate>Mon, 26 May 2008 16:39:26 -0700</pubDate>
+		<title>
+			<![CDATA[nathan add a quote by Richard Dawkins]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4416-we-are-all-atheists-about-most-of-the-gods-that]]>
+		</link>
+		<description>
+	    <![CDATA["We are all atheists about most of the gods that humanity has ever believed in. Some of us just go one god further." -- Richard Dawkins]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

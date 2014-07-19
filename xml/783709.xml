@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/783709-rosemary]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/783709-rosemary" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 14 Jan 2008 19:07:09 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/13472-i-still-remember-the-day-my-father-took-me-to</guid>
+		<pubDate>Mon, 14 Jan 2008 19:07:09 -0800</pubDate>
+		<title>
+			<![CDATA[Rosemary add a quote by Carlos Ruiz Zafon]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/13472-i-still-remember-the-day-my-father-took-me-to]]>
+		</link>
+		<description>
+	    <![CDATA["I still remember the day my father took me to the Cemetery of Forgotten Books for the first time." -- Carlos Ruiz Zafon]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/23422-as-to-the-thoughts-they-are-elfish-those-eyes-in</guid>
+		<pubDate>Sat, 09 Feb 2008 18:29:05 -0800</pubDate>
+		<title>
+			<![CDATA[Rosemary add a quote by Charlotte Brontë ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/23422-as-to-the-thoughts-they-are-elfish-those-eyes-in]]>
+		</link>
+		<description>
+	    <![CDATA["As to the thoughts, they are elfish.  Those eyes in the Evening Star you must have seen in a dream." -- Charlotte Brontë ]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/309685-james-gave-the-huffle-of-a-snail-in-danger-and</guid>
+		<pubDate>Fri, 29 Oct 2010 16:57:44 -0700</pubDate>
+		<title>
+			<![CDATA[Rosemary add a quote by A.A. Milne]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/309685-james-gave-the-huffle-of-a-snail-in-danger-and]]>
+		</link>
+		<description>
+	    <![CDATA["James gave the huffle of a snail in danger. And nobody heard him at all." -- A.A. Milne]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/494913-rosencrantz-i-don-t-believe-in-it-anyway-guildenstern-what-rosencrantz</guid>
+		<pubDate>Sun, 29 Jan 2012 13:36:59 -0800</pubDate>
+		<title>
+			<![CDATA[Rosemary add a quote by Tom Stoppard]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/494913-rosencrantz-i-don-t-believe-in-it-anyway-guildenstern-what-rosencrantz]]>
+		</link>
+		<description>
+	    <![CDATA["Rosencrantz: I don't believe in it anyway. Guildenstern: What? Rosencrantz: England. Guildenstern: Just a conspiracy of cartographers, then?" -- Tom Stoppard]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

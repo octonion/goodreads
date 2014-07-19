@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/133994-liz]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/133994-liz" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 Jan 2013 06:49:12 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/476456-for-last-year-s-words-belong-to-last-year-s-language-and</guid>
+		<pubDate>Tue, 01 Jan 2013 06:49:12 -0800</pubDate>
+		<title>
+			<![CDATA[Liz add a quote by T.S. Eliot]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/476456-for-last-year-s-words-belong-to-last-year-s-language-and]]>
+		</link>
+		<description>
+	    <![CDATA["For last year's words belong to last year's language 
+And next year's words await another voice." -- T.S. Eliot]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/79037-i-call-him-religious-who-understands-the-suffering-of-others</guid>
+		<pubDate>Tue, 27 May 2014 12:30:53 -0700</pubDate>
+		<title>
+			<![CDATA[Liz add a quote by Mahatma Gandhi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/79037-i-call-him-religious-who-understands-the-suffering-of-others]]>
+		</link>
+		<description>
+	    <![CDATA["I call him religious who understands the suffering of others." -- Mahatma Gandhi]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

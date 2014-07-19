@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/316933-lynn]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/316933-lynn" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 14 Oct 2013 10:02:20 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/171773-it-shouldn-t-be-easy-to-be-amazing-then-everything-would</guid>
+		<pubDate>Mon, 14 Oct 2013 10:02:20 -0700</pubDate>
+		<title>
+			<![CDATA[Lynn add a quote by Sarah Dessen]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/171773-it-shouldn-t-be-easy-to-be-amazing-then-everything-would]]>
+		</link>
+		<description>
+	    <![CDATA["It shouldn't be easy to be amazing.  Then everything would be. It's the things you fight for and struggle with before earning that have the greatest worth. When something's difficult to come by, you'll do that much more to make sure it's even harder―or impossible―to lose." -- Sarah Dessen]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

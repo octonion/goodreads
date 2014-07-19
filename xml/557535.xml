@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/557535-leontine]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/557535-leontine" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 06 Apr 2012 17:40:54 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/278584-it-s-a-strange-thing-how-you-can-love-somebody-how</guid>
+		<pubDate>Fri, 06 Apr 2012 17:40:54 -0700</pubDate>
+		<title>
+			<![CDATA[Leontine add a quote by Madeleine L'Engle]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/278584-it-s-a-strange-thing-how-you-can-love-somebody-how]]>
+		</link>
+		<description>
+	    <![CDATA["It's a strange thing, how you can love somebody, how you can be all eaten up inside with needing them--and they simply don't need you. That's all there is to it, and neither of you can do anything about it. And they'll be the same way with someone else, and someone else will be the same way about you and it goes on and on--this desperate need--and only once in a rare million do the same two people need each other." -- Madeleine L'Engle]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

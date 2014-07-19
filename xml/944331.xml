@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/944331-julie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/944331-julie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 26 Feb 2008 12:57:12 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/28605-if-a-person-who-indulges-in-gluttony-is-a-glutton</guid>
+		<pubDate>Tue, 26 Feb 2008 12:57:12 -0800</pubDate>
+		<title>
+			<![CDATA[Julie add a quote by Spider Robinson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/28605-if-a-person-who-indulges-in-gluttony-is-a-glutton]]>
+		</link>
+		<description>
+	    <![CDATA["If a person who indulges in gluttony is a glutton, and a person who commits a felony is a felon, then God is an iron." -- Spider Robinson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/28427-sometimes-i-think-i-must-have-a-guardian-idiot-a</guid>
+		<pubDate>Mon, 10 Mar 2008 14:48:39 -0700</pubDate>
+		<title>
+			<![CDATA[Julie add a quote by Spider Robinson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/28427-sometimes-i-think-i-must-have-a-guardian-idiot-a]]>
+		</link>
+		<description>
+	    <![CDATA["Sometimes I think I must have a Guardian Idiot.  A little invisible spirit just behind my shoulder, looking out for me...only he's an imbecile." -- Spider Robinson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

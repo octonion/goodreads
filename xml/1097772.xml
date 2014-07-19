@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1097772-stunna415]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1097772-stunna415" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 23 Apr 2008 08:40:21 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/47552-shawty-got-a-big-ohh-but-its-soo-big-its</guid>
+		<pubDate>Wed, 23 Apr 2008 08:40:21 -0700</pubDate>
+		<title>
+			<![CDATA[Stunna415 add a quote by stunna from da bay]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/47552-shawty-got-a-big-ohh-but-its-soo-big-its]]>
+		</link>
+		<description>
+	    <![CDATA["shawty got a big ohh but its soo big its soo big... " -- stunna from da bay]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

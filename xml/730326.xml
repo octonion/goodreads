@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/730326-justin-french]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/730326-justin-french" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 03 Apr 2013 03:47:20 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/176825-bilbo-almost-stopped-breathing-and-went-stiff-himself-he-was</guid>
+		<pubDate>Wed, 03 Apr 2013 03:47:20 -0700</pubDate>
+		<title>
+			<![CDATA[Justin add a quote by J.R.R. Tolkien]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/176825-bilbo-almost-stopped-breathing-and-went-stiff-himself-he-was]]>
+		</link>
+		<description>
+	    <![CDATA["Bilbo almost stopped breathing, and went stiff himself.  He was desperate.  He must get away, out of this horrible darkness, while he had any strength left.  He must fight.  He must stab the foul thing, put its eyes out, kill it.  It meant to kill him.  No, not a fair fight.  He was invisible now.  Gollum had no sword.  Gollum had not actually threatened to kill him, or tried yet.  And he was miserable, alone, lost.  A sudden understanding, a pity mixed with horror, welled up in Bilbo’s heart: a glimpse of endless unmarked days without light or hope of betterment, hard stone, cold fish, sneaking and whispering." -- J.R.R. Tolkien]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/288669-in-a-hole-in-the-ground-there-lived-a-hobbit</guid>
+		<pubDate>Wed, 03 Apr 2013 03:47:29 -0700</pubDate>
+		<title>
+			<![CDATA[Justin add a quote by J.R.R. Tolkien]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/288669-in-a-hole-in-the-ground-there-lived-a-hobbit]]>
+		</link>
+		<description>
+	    <![CDATA["In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat: it was a hobbit-hole, and that means comfort." -- J.R.R. Tolkien]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

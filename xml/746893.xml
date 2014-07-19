@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/746893-eric]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/746893-eric" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 28 Feb 2012 21:36:29 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/510783-your-pain-is-a-school-unto-itself-and-your-joy</guid>
+		<pubDate>Tue, 28 Feb 2012 21:36:29 -0800</pubDate>
+		<title>
+			<![CDATA[Eric add a quote by Aberjhani]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/510783-your-pain-is-a-school-unto-itself-and-your-joy]]>
+		</link>
+		<description>
+	    <![CDATA["Your pain is a school unto itself–– and your joy a lovely temple." -- Aberjhani]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/714584-we-all-of-us-somehow-caught-we-born-this-way</guid>
+		<pubDate>Thu, 24 Jan 2013 17:03:19 -0800</pubDate>
+		<title>
+			<![CDATA[Eric add a quote by Carson McCullers]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/714584-we-all-of-us-somehow-caught-we-born-this-way]]>
+		</link>
+		<description>
+	    <![CDATA["We all of us somehow caught. We born this way or that way and we don't know why. But we caught any how. I was born Berenice. You Born Franky. John Henry born John Henry. And maybe we wants to widen and bust free. But no matter what we do we still caught. Me is me and you is you and he is he. We each one of us somehow caught all by ourself. I'm caught worse than you is. Because I'm Black, because  I'm colored." -- Carson McCullers]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

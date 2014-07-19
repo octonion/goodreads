@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/703813-shana]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/703813-shana" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 Jan 2008 17:03:32 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/9257-we-need-not-to-be-let-alone-we-need-to</guid>
+		<pubDate>Tue, 01 Jan 2008 17:03:32 -0800</pubDate>
+		<title>
+			<![CDATA[Shana add a quote by Ray Bradbury]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9257-we-need-not-to-be-let-alone-we-need-to]]>
+		</link>
+		<description>
+	    <![CDATA["We need not to be let alone. We need to be really bothered once in a while. How long is it since you were really bothered? About something important, about something real?" -- Ray Bradbury]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/9256-i-have-never-made-but-one-prayer-to-god-a</guid>
+		<pubDate>Tue, 01 Jan 2008 17:04:26 -0800</pubDate>
+		<title>
+			<![CDATA[Shana add a quote by Voltaire]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9256-i-have-never-made-but-one-prayer-to-god-a]]>
+		</link>
+		<description>
+	    <![CDATA["I have never made but one prayer to God, a very short one: Oh Lord, make my enemies ridiculous. And God granted it.&quot;
+
+(&lt;i&gt;Letter to Étienne Noël Damilaville&lt;/i&gt;, May 16, 1767)" -- Voltaire]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

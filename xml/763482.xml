@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/763482-mary]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/763482-mary" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 31 Aug 2009 23:00:55 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/35094-miss-barry-was-a-kindred-spirit-after-all-anne-confided</guid>
+		<pubDate>Mon, 31 Aug 2009 23:00:55 -0700</pubDate>
+		<title>
+			<![CDATA[Mary add a quote by Lucy Maud Montgomery]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/35094-miss-barry-was-a-kindred-spirit-after-all-anne-confided]]>
+		</link>
+		<description>
+	    <![CDATA["Miss Barry was a kindred spirit after all,&quot; Anne confided to Marilla, &quot;You wouldn't think so to look at her, but she is. . . Kindred spirits are not so scarce as I used to think. It's splendid to find out there are so many of them in the world." -- Lucy Maud Montgomery]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

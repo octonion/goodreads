@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1038116-brian]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1038116-brian" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 05 Jan 2009 09:34:32 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/233-i-don-t-know-half-of-you-half-as-well-as</guid>
+		<pubDate>Mon, 05 Jan 2009 09:34:32 -0800</pubDate>
+		<title>
+			<![CDATA[Brian add a quote by J.R.R. Tolkien]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/233-i-don-t-know-half-of-you-half-as-well-as]]>
+		</link>
+		<description>
+	    <![CDATA["I don't know half of you half as well as I should like; and I like less than half of you half as well as you deserve." -- J.R.R. Tolkien]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3831-the-only-people-for-me-are-the-mad-ones-the</guid>
+		<pubDate>Tue, 06 Jan 2009 12:54:55 -0800</pubDate>
+		<title>
+			<![CDATA[Brian add a quote by Jack Kerouac]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3831-the-only-people-for-me-are-the-mad-ones-the]]>
+		</link>
+		<description>
+	    <![CDATA["the only people for me are the mad ones, the ones who are mad to live, mad to talk, mad to be saved, desirous of everything at the same time, the ones who never yawn or say a commonplace thing, but burn, burn, burn like fabulous yellow roman candles exploding like spiders across the stars." -- Jack Kerouac]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/19828-this-is-how-humans-are-we-question-all-our-beliefs</guid>
+		<pubDate>Fri, 04 Mar 2011 11:58:35 -0800</pubDate>
+		<title>
+			<![CDATA[Brian add a quote by Orson Scott Card]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/19828-this-is-how-humans-are-we-question-all-our-beliefs]]>
+		</link>
+		<description>
+	    <![CDATA["This is how humans are: We question all our beliefs, except for the ones that we really believe in, and those we never think to question." -- Orson Scott Card]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

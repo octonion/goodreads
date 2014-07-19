@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/940869-andrea]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/940869-andrea" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 05 Aug 2008 13:56:14 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/79744-don-t-mistake-my-kindness-for-weakness</guid>
+		<pubDate>Tue, 05 Aug 2008 13:56:14 -0700</pubDate>
+		<title>
+			<![CDATA[Andrea add a quote by scott redman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/79744-don-t-mistake-my-kindness-for-weakness]]>
+		</link>
+		<description>
+	    <![CDATA["Don't mistake my kindness for weakness" -- scott redman]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/79745-good-design-keeps-the-user-happy-the-manufacturer-in-the</guid>
+		<pubDate>Tue, 05 Aug 2008 13:57:20 -0700</pubDate>
+		<title>
+			<![CDATA[Andrea add a quote by raymond loewy]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/79745-good-design-keeps-the-user-happy-the-manufacturer-in-the]]>
+		</link>
+		<description>
+	    <![CDATA["Good design keeps the user happy, the manufacturer in the black and the aesthete unoffended." -- raymond loewy]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

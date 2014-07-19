@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/818646-mindy-hatch]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/818646-mindy-hatch" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 15 Feb 2008 20:40:11 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/25417-an-honest-man-s-the-noblest-work-of-god</guid>
+		<pubDate>Fri, 15 Feb 2008 20:40:11 -0800</pubDate>
+		<title>
+			<![CDATA[Mindy add a quote by Alexander Pope]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/25417-an-honest-man-s-the-noblest-work-of-god]]>
+		</link>
+		<description>
+	    <![CDATA["An honest man's the noblest work of God" -- Alexander Pope]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/25419-gratitude-is-a-sign-of-maturity-where-there-is-appreciation-there</guid>
+		<pubDate>Fri, 15 Feb 2008 20:43:03 -0800</pubDate>
+		<title>
+			<![CDATA[Mindy add a quote by Gordon B. Hinckley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/25419-gratitude-is-a-sign-of-maturity-where-there-is-appreciation-there]]>
+		</link>
+		<description>
+	    <![CDATA["Gratitude is a sign of maturity...Where there is appreciation: there is also courtesy and concern for the rights and property of others." -- Gordon B. Hinckley]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

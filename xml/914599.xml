@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/914599-heather]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/914599-heather" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 04 Jun 2011 19:23:21 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/363261-the-world-is-full-of-shitheads-rhea-don-t-listen-to</guid>
+		<pubDate>Sat, 04 Jun 2011 19:23:21 -0700</pubDate>
+		<title>
+			<![CDATA[Heather add a quote by Jennifer Egan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/363261-the-world-is-full-of-shitheads-rhea-don-t-listen-to]]>
+		</link>
+		<description>
+	    <![CDATA["The world is full of shitheads, Rhea. Don’t listen to them—listen to me. And I know that Lou is one of those shitheads. But I listen." -- Jennifer Egan]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/58776-i-know-i-was-writing-stories-when-i-was-five</guid>
+		<pubDate>Wed, 12 Oct 2011 07:38:20 -0700</pubDate>
+		<title>
+			<![CDATA[Heather add a quote by P. G. Wodehouse]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/58776-i-know-i-was-writing-stories-when-i-was-five]]>
+		</link>
+		<description>
+	    <![CDATA["I know I was writing stories when I was five. I don't know what I did before that. Just loafed, I suppose." -- P. G. Wodehouse]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

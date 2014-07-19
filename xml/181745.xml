@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/181745-andrew]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/181745-andrew" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 Jan 2013 08:08:46 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/758-whether-we-and-our-politicians-know-it-or-not-nature</guid>
+		<pubDate>Tue, 01 Jan 2013 08:08:46 -0800</pubDate>
+		<title>
+			<![CDATA[Andrew add a quote by Wendell Berry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/758-whether-we-and-our-politicians-know-it-or-not-nature]]>
+		</link>
+		<description>
+	    <![CDATA["Whether we and our politicians know it or not, Nature is party to all our deals and decisions, and she has more votes, a longer memory, and a sterner sense of justice than we do." -- Wendell Berry]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/111196-what-i-stand-for-is-what-i-stand-on</guid>
+		<pubDate>Tue, 01 Jan 2013 08:09:37 -0800</pubDate>
+		<title>
+			<![CDATA[Andrew add a quote by Wendell Berry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/111196-what-i-stand-for-is-what-i-stand-on]]>
+		</link>
+		<description>
+	    <![CDATA["What I stand for is what I stand on." -- Wendell Berry]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

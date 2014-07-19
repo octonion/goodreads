@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/31555-todd]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/31555-todd" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 30 Nov 2008 11:18:03 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/118434-as-was-the-custom-in-such-cases-the-pear-tree</guid>
+		<pubDate>Sun, 30 Nov 2008 11:18:03 -0800</pubDate>
+		<title>
+			<![CDATA[TODD add a quote by Robert Graves]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/118434-as-was-the-custom-in-such-cases-the-pear-tree]]>
+		</link>
+		<description>
+	    <![CDATA["As was the custom in such cases, the pear tree was charged with murder and sentenced to be uprooted and burned." -- Robert Graves]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/121566-actors-change-but-the-course-of-the-tragedy-remains-the</guid>
+		<pubDate>Thu, 11 Dec 2008 09:36:54 -0800</pubDate>
+		<title>
+			<![CDATA[TODD add a quote by ayn rand]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/121566-actors-change-but-the-course-of-the-tragedy-remains-the]]>
+		</link>
+		<description>
+	    <![CDATA["Actors change, but the course of the tragedy remains the same.  A humanitarian who starts with declarations of love for mankind and ends with a sea of blood." -- ayn rand]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/122942-they-cut-the-umbilical-cord-give-you-a-slap-on</guid>
+		<pubDate>Tue, 16 Dec 2008 12:02:29 -0800</pubDate>
+		<title>
+			<![CDATA[TODD add a quote by Henry Miller]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/122942-they-cut-the-umbilical-cord-give-you-a-slap-on]]>
+		</link>
+		<description>
+	    <![CDATA["They cut the umbilical cord, give you a slap on the ass, and presto! you're out in the world, adrift, a ship without a rudder." -- Henry Miller]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

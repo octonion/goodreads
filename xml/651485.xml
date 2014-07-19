@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/651485-patrice-kunesh]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/651485-patrice-kunesh" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 30 Oct 2012 14:20:37 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/23516-people-pay-for-what-they-do-and-still-more-for</guid>
+		<pubDate>Tue, 30 Oct 2012 14:20:37 -0700</pubDate>
+		<title>
+			<![CDATA[Patrice add a quote by James Baldwin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/23516-people-pay-for-what-they-do-and-still-more-for]]>
+		</link>
+		<description>
+	    <![CDATA["People pay for what they do, and still more for what they have allowed themselves to become. And they pay for it very simply; by the lives they lead." -- James Baldwin]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

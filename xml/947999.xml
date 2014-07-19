@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/947999-landon]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/947999-landon" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 13 May 2014 23:11:56 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/601712-our-culture-has-accepted-two-huge-lies-the-first-is</guid>
+		<pubDate>Tue, 13 May 2014 23:11:56 -0700</pubDate>
+		<title>
+			<![CDATA[Landon add a quote by Rick Warren]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/601712-our-culture-has-accepted-two-huge-lies-the-first-is]]>
+		</link>
+		<description>
+	    <![CDATA["Our culture has accepted two huge lies. The first is that if you disagree with someone’s lifestyle, you must fear or hate them. The second is that to love someone means you agree with everything they believe or do. Both are nonsense. You don’t have to compromise convictions to be compassionate." -- Rick Warren]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

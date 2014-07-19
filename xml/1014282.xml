@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1014282-dennis-meier]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1014282-dennis-meier" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 20 Sep 2011 20:49:37 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/132826-but-if-what-interests-you-are-stories-of-the-fantastic</guid>
+		<pubDate>Tue, 20 Sep 2011 20:49:37 -0700</pubDate>
+		<title>
+			<![CDATA[Dennis add a quote by Charles Nodier]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/132826-but-if-what-interests-you-are-stories-of-the-fantastic]]>
+		</link>
+		<description>
+	    <![CDATA["But if what interests you are stories of the fantastic, I must warn you that this kind of story demands more art and judgment than is ordinarily imagined." -- Charles Nodier]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/299852-science-fiction-is-very-well-suited-to-asking-philosophical-questions</guid>
+		<pubDate>Tue, 20 Sep 2011 20:49:47 -0700</pubDate>
+		<title>
+			<![CDATA[Dennis add a quote by Ted Chiang]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/299852-science-fiction-is-very-well-suited-to-asking-philosophical-questions]]>
+		</link>
+		<description>
+	    <![CDATA["Science fiction is very well suited to asking philosophical questions; questions about the nature of reality, what it means to be human, how do we know the things that we think we know." -- Ted Chiang]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

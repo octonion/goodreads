@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/697535-erica]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/697535-erica" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 18 Dec 2007 21:18:58 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6326-you-re-miserable-edgy-and-tired-you-re-in-the-perfect-mood</guid>
+		<pubDate>Tue, 18 Dec 2007 21:18:58 -0800</pubDate>
+		<title>
+			<![CDATA[Erica add a quote by Warren Ellis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6326-you-re-miserable-edgy-and-tired-you-re-in-the-perfect-mood]]>
+		</link>
+		<description>
+	    <![CDATA["You're miserable, edgy and tired. You're in the perfect mood for journalism." -- Warren Ellis]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4479-i-am-free-of-all-prejudice-i-hate-everyone-equally</guid>
+		<pubDate>Tue, 18 Dec 2007 21:23:43 -0800</pubDate>
+		<title>
+			<![CDATA[Erica add a quote by W.C. Fields]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4479-i-am-free-of-all-prejudice-i-hate-everyone-equally]]>
+		</link>
+		<description>
+	    <![CDATA["I am free of all prejudice. I hate everyone equally. " -- W.C. Fields]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/20916-she-had-a-pretty-gift-for-quotation-which-is-a</guid>
+		<pubDate>Tue, 18 Dec 2007 21:24:51 -0800</pubDate>
+		<title>
+			<![CDATA[Erica add a quote by W. Somerset Maugham]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20916-she-had-a-pretty-gift-for-quotation-which-is-a]]>
+		</link>
+		<description>
+	    <![CDATA["She had a pretty gift for quotation, which is a serviceable substitute for wit." -- W. Somerset Maugham]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/311384-erchedepe]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/311384-erchedepe" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 06 Jan 2013 18:24:01 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/99483-i-like-the-relaxed-way-in-which-the-japanese-approach</guid>
+		<pubDate>Sun, 06 Jan 2013 18:24:01 -0800</pubDate>
+		<title>
+			<![CDATA[erchedepe add a quote by Dave Barry]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/99483-i-like-the-relaxed-way-in-which-the-japanese-approach]]>
+		</link>
+		<description>
+	    <![CDATA["I like the relaxed way in which the Japanese approach religion. I think of myself as basically a moral person, but I'm definitely not religious, and I'm very tired of the preachiness and obsession with other people's behavior characteristic of many religious people in the United States. As far as I could tell, there's nothing preachy about Buddhism. I was in a lot of temples, and I still don't know what Buddhists believe, except that at one point Kunio said 'If you do bad things, you will be reborn as an ox.'
+
+This makes as much sense to me as anything I ever heard from, for example, the Reverend Pat Robertson." -- Dave Barry]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

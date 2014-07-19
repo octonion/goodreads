@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/746700-matthew]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/746700-matthew" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 27 Jan 2008 21:40:30 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/18370-verus-quid-factum</guid>
+		<pubDate>Sun, 27 Jan 2008 21:40:30 -0800</pubDate>
+		<title>
+			<![CDATA[Matthew add a quote by Antonio Gramsci]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/18370-verus-quid-factum]]>
+		</link>
+		<description>
+	    <![CDATA["Verus Quid Factum" -- Antonio Gramsci]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/20088-the-fact-that-political-ideologies-are-tangible-realities-is-not</guid>
+		<pubDate>Fri, 13 Apr 2012 07:35:40 -0700</pubDate>
+		<title>
+			<![CDATA[Matthew add a quote by Wilhelm Reich]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20088-the-fact-that-political-ideologies-are-tangible-realities-is-not]]>
+		</link>
+		<description>
+	    <![CDATA["The fact that political ideologies are tangible realities is not a proof of their vitally necessary character. The bubonic plague was an extraordinarily powerful social reality, but no one would have regarded it as vitally necessary. " -- Wilhelm Reich]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/861219-rick]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/861219-rick" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 28 May 2013 04:07:07 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/19967-of-all-tyrannies-a-tyranny-sincerely-exercised-for-the-good</guid>
+		<pubDate>Tue, 28 May 2013 04:07:07 -0700</pubDate>
+		<title>
+			<![CDATA[Rick add a quote by C. S. Lewis]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/19967-of-all-tyrannies-a-tyranny-sincerely-exercised-for-the-good]]>
+		</link>
+		<description>
+	    <![CDATA["Of all tyrannies, a tyranny sincerely exercised for the good of its victims may be the most oppressive. It would be better to live under robber barons than under omnipotent moral busybodies. The robber baron's cruelty may sometimes sleep, his cupidity may at some point be satiated; but those who torment us for our own good will torment us without end for they do so with the approval of their own conscience." -- C. S. Lewis]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/33155-a-clear-conscience-is-the-sure-sign-of-a-bad</guid>
+		<pubDate>Sun, 28 Jul 2013 01:38:24 -0700</pubDate>
+		<title>
+			<![CDATA[Rick add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/33155-a-clear-conscience-is-the-sure-sign-of-a-bad]]>
+		</link>
+		<description>
+	    <![CDATA["A clear conscience is the sure sign of a bad memory." -- Mark Twain]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

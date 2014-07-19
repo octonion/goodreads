@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/422649-bridgette]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/422649-bridgette" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 21 Oct 2009 10:38:24 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/201515-lukewarm-living-and-claiming-christ-s-name-simultaneously-is-utterly-disgusting</guid>
+		<pubDate>Wed, 21 Oct 2009 10:38:24 -0700</pubDate>
+		<title>
+			<![CDATA[Bridgette add a quote by Francis Chan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/201515-lukewarm-living-and-claiming-christ-s-name-simultaneously-is-utterly-disgusting]]>
+		</link>
+		<description>
+	    <![CDATA["Lukewarm living and claiming Christ's name simultaneously is utterly disgusting to God." -- Francis Chan]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/46292-we-ll-be-friends-forever-won-t-we-pooh-asked-piglet-even</guid>
+		<pubDate>Sat, 12 Oct 2013 17:49:47 -0700</pubDate>
+		<title>
+			<![CDATA[Bridgette add a quote by A.A. Milne]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/46292-we-ll-be-friends-forever-won-t-we-pooh-asked-piglet-even]]>
+		</link>
+		<description>
+	    <![CDATA["We'll be Friends Forever, won't we, Pooh?' asked Piglet.
+Even longer,' Pooh answered." -- A.A. Milne]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

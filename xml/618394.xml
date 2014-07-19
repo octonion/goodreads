@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/618394-john]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/618394-john" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 31 Jan 2014 18:25:33 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1019704-yet-the-hunger-to-treat-patients-still-drove-farber-and</guid>
+		<pubDate>Fri, 31 Jan 2014 18:25:33 -0800</pubDate>
+		<title>
+			<![CDATA[John add a quote by Siddhartha Mukherjee]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1019704-yet-the-hunger-to-treat-patients-still-drove-farber-and]]>
+		</link>
+		<description>
+	    <![CDATA["Yet the hunger to treat patients still drove Farber. And sitting in his basement laboratory in the summer of 1947, Farber had a single inspired idea: he chose, among all cancers, to focus his attention on one of its oddest and most hopeless variants—childhood leukemia. To understand cancer as a whole, he reasoned, you needed to start at the bottom of its complexity, in its basement. And despite its many idiosyncrasies, leukemia possessed a singularly attractive feature: it could be measured. Science begins with counting. To understand a phenomenon, a scientist must first describe it; to describe it objectively, he must first measure it. If cancer medicine was to be transformed into a rigorous science, then cancer would need to be counted somehow—measured in some reliable, reproducible way. In this, leukemia was different from nearly every other type of cancer. In a world before CT scans and MRIs, quantifying the change in size of an internal solid tumor in the lung or the breast was virtually impossible without surgery: you could not measure what you could not see. But leukemia, floating freely in the blood, could be measured as easily as blood cells—by drawing a sample of blood or bone marrow and looking at it under a microscope. If leukemia could be counted, Farber reasoned, then any intervention—a chemical sent circulating through the blood, say—could be evaluated for its potency in living patients. He could watch cells grow or die in the blood and use that to measure the success or failure of a drug. He could perform an “experiment” on cancer." -- Siddhartha Mukherjee]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

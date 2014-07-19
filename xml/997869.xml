@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/997869-ginny]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/997869-ginny" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 07 Jul 2008 17:58:30 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/10006-knowledge-is-not-for-knowing-knowledge-is-for-cutting</guid>
+		<pubDate>Mon, 07 Jul 2008 17:58:30 -0700</pubDate>
+		<title>
+			<![CDATA[Ginny add a quote by Michel Foucault]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10006-knowledge-is-not-for-knowing-knowledge-is-for-cutting]]>
+		</link>
+		<description>
+	    <![CDATA["Knowledge is not for knowing: knowledge is for cutting." -- Michel Foucault]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/164-it-is-one-of-the-blessings-of-old-friends-that</guid>
+		<pubDate>Fri, 25 May 2012 14:35:22 -0700</pubDate>
+		<title>
+			<![CDATA[Ginny add a quote by Ralph Waldo Emerson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/164-it-is-one-of-the-blessings-of-old-friends-that]]>
+		</link>
+		<description>
+	    <![CDATA["It is one of the blessings of old friends that you can afford to be stupid with them." -- Ralph Waldo Emerson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/172932-it-s-hopeless-tomorrow-there-ll-be-even-more-books-i-should</guid>
+		<pubDate>Mon, 28 May 2012 07:02:43 -0700</pubDate>
+		<title>
+			<![CDATA[Ginny add a quote by Ashleigh Brilliant]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/172932-it-s-hopeless-tomorrow-there-ll-be-even-more-books-i-should]]>
+		</link>
+		<description>
+	    <![CDATA["It's hopeless! Tomorrow there'll be even more books I should have read than there are today." -- Ashleigh Brilliant]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

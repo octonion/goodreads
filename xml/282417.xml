@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/282417-kari]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/282417-kari" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 23 Jul 2008 20:54:07 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/4352-how-do-people-like-not-curse-how-is-it-possible</guid>
+		<pubDate>Wed, 23 Jul 2008 20:54:07 -0700</pubDate>
+		<title>
+			<![CDATA[Kari add a quote by Nick Hornby]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4352-how-do-people-like-not-curse-how-is-it-possible]]>
+		</link>
+		<description>
+	    <![CDATA["How do people, like, not curse? How is it possible? There are these gaps in speech where you just have to put a &quot;fuck.&quot; I'll tell you who the most admirable people in the world are: newscasters. If that was me, I'd be like, &quot;And the motherfuckers flew the fucking plane right into the Twin Towers.&quot; How could you not, if you're a human being? Maybe they're not so admirable. Maybe they're robot zombies." -- Nick Hornby]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

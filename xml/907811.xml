@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/907811-carole]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/907811-carole" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 16 Nov 2008 08:17:09 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/23977-no-two-persons-ever-read-the-same-book</guid>
+		<pubDate>Sun, 16 Nov 2008 08:17:09 -0800</pubDate>
+		<title>
+			<![CDATA[Carole add a quote by Edmund Wilson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/23977-no-two-persons-ever-read-the-same-book]]>
+		</link>
+		<description>
+	    <![CDATA["No two persons ever read the same book." -- Edmund Wilson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/195572-every-moment-is-enormous-and-it-is-all-we-have</guid>
+		<pubDate>Fri, 04 Dec 2009 06:23:39 -0800</pubDate>
+		<title>
+			<![CDATA[Carole add a quote by Natalie Goldberg]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/195572-every-moment-is-enormous-and-it-is-all-we-have]]>
+		</link>
+		<description>
+	    <![CDATA["Every moment is enormous and it is all we have." -- Natalie Goldberg]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/46062-no-winter-lasts-forever-no-spring-skips-its-turn</guid>
+		<pubDate>Thu, 21 Mar 2013 13:21:13 -0700</pubDate>
+		<title>
+			<![CDATA[Carole add a quote by Hal Borland]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/46062-no-winter-lasts-forever-no-spring-skips-its-turn]]>
+		</link>
+		<description>
+	    <![CDATA["No winter lasts forever; no spring skips its turn." -- Hal Borland]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/442702-riko]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/442702-riko" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 22 Oct 2012 23:54:12 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/20893-be-who-god-meant-you-to-be-and-you-will</guid>
+		<pubDate>Mon, 22 Oct 2012 23:54:12 -0700</pubDate>
+		<title>
+			<![CDATA[Riko add a quote by St. Catherine of Siena]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/20893-be-who-god-meant-you-to-be-and-you-will]]>
+		</link>
+		<description>
+	    <![CDATA["Be who God meant you to be and you will set the world on fire." -- St. Catherine of Siena]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/59944-to-give-and-not-to-count-the-cost-to-fight</guid>
+		<pubDate>Sun, 18 Nov 2012 19:46:49 -0800</pubDate>
+		<title>
+			<![CDATA[Riko add a quote by St. Ignatius of Loyola]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/59944-to-give-and-not-to-count-the-cost-to-fight]]>
+		</link>
+		<description>
+	    <![CDATA["To give, and not to count the cost
+to fight, and not to heed the wounds,
+to toil, and not to seek for rest,
+to labor, and not to ask for any reward,
+save that of knowing that we do thy will" -- St. Ignatius of Loyola]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

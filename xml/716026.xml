@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/716026-trisha-hall]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/716026-trisha-hall" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 23 Mar 2008 12:37:42 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1789-sometimes-the-slightest-things-change-the-directions-of-our-lives</guid>
+		<pubDate>Sun, 23 Mar 2008 12:37:42 -0700</pubDate>
+		<title>
+			<![CDATA[Trisha Hall add a quote by Bryce Courtenay]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1789-sometimes-the-slightest-things-change-the-directions-of-our-lives]]>
+		</link>
+		<description>
+	    <![CDATA["Sometimes the slightest things change the directions of our lives, the merest breath of a circumstance, a random moment that connects like a meteorite striking the earth.  Lives have swiveled and changed direction on the strength of a chance remark." -- Bryce Courtenay]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/253259-a-lie-is-an-act-of-theft-it-steals-peoples</guid>
+		<pubDate>Thu, 21 Nov 2013 18:43:29 -0800</pubDate>
+		<title>
+			<![CDATA[Trisha Hall add a quote by james lee burke]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/253259-a-lie-is-an-act-of-theft-it-steals-peoples]]>
+		</link>
+		<description>
+	    <![CDATA["A lie is an act of theft. It steals peoples faith and makes them resent themselves" -- james lee burke]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

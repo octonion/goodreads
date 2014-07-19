@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/205394-chris-brown]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/205394-chris-brown" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 23 Feb 2013 06:42:56 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/648182-saddling-another-person-with-a-book-he-did-not-ask</guid>
+		<pubDate>Sat, 23 Feb 2013 06:42:56 -0800</pubDate>
+		<title>
+			<![CDATA[Chris add a quote by Joe Queenan]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/648182-saddling-another-person-with-a-book-he-did-not-ask]]>
+		</link>
+		<description>
+	    <![CDATA["Saddling another person with a book he did not ask for has always seemed to me like a huge psychological imposition, like forcing someone to eat a chicken biryani without so much as inquiring whether they like cilantro." -- Joe Queenan]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

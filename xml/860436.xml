@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/860436-magdalena-edwards]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/860436-magdalena-edwards" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 08 Apr 2014 00:38:59 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/1160244-we-come-into-the-world-whole-all-of-us-but</guid>
+		<pubDate>Tue, 08 Apr 2014 00:38:59 -0700</pubDate>
+		<title>
+			<![CDATA[Magdalena add a quote by Mona Simpson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1160244-we-come-into-the-world-whole-all-of-us-but]]>
+		</link>
+		<description>
+	    <![CDATA["We come into the world whole, all of us, but we don't know that, don't know that life will be taking large chunks out of us, forever." -- Mona Simpson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1159913-we-come-into-the-world-whole-all-of-us-but-we</guid>
+		<pubDate>Tue, 08 Apr 2014 00:39:31 -0700</pubDate>
+		<title>
+			<![CDATA[Magdalena add a quote by Mona Simpson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1159913-we-come-into-the-world-whole-all-of-us-but-we]]>
+		</link>
+		<description>
+	    <![CDATA["We come into the world whole, all of us,but we don't know that, don't know that life will be taking large chunks out of us, forever." -- Mona Simpson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

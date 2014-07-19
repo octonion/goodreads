@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/15825-marvin]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/15825-marvin" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 03 Oct 2013 11:04:17 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/255904-homo-homini-lupus-est-man-is-a-wolf-to-man</guid>
+		<pubDate>Thu, 03 Oct 2013 11:04:17 -0700</pubDate>
+		<title>
+			<![CDATA[marvin add a quote by Plautus]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/255904-homo-homini-lupus-est-man-is-a-wolf-to-man]]>
+		</link>
+		<description>
+	    <![CDATA["Homo homini lupus est.  [Man is a wolf to man. / Man is his own wolf.]" -- Plautus]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/646916-with-rebellion-awareness-is-born</guid>
+		<pubDate>Wed, 09 Apr 2014 16:02:44 -0700</pubDate>
+		<title>
+			<![CDATA[marvin add a quote by Albert Camus]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/646916-with-rebellion-awareness-is-born]]>
+		</link>
+		<description>
+	    <![CDATA["With rebellion, awareness is born" -- Albert Camus]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

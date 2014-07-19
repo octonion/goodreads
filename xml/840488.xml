@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/840488-kirill]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/840488-kirill" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 17 Dec 2010 16:34:57 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/42629-i-ve-been-coming-to-this-circle-for-about-five-years</guid>
+		<pubDate>Fri, 17 Dec 2010 16:34:57 -0800</pubDate>
+		<title>
+			<![CDATA[Kirill add a quote by David Cross]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/42629-i-ve-been-coming-to-this-circle-for-about-five-years]]>
+		</link>
+		<description>
+	    <![CDATA["I've been coming to this circle for about five years, and measuring
+it. The diameter and the circumference are constantly changing, but
+the radius stays the same. Which brings me to the number 5. There are
+five letters in the word Blaine. Now, if you mix up the letters in the
+word Blaine, mix 'em around, eventually, you'll come up with Nebali.
+Nebali. The name of a planet in a galaxy way, way, way... way far
+away. And another thing. Once you go into that circle, the weather
+never changes. It is always 67 degrees with a 40% chance of rain." -- David Cross]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

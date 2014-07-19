@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/967286-sinecure]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/967286-sinecure" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 04 Mar 2008 17:22:58 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/31029-never-test-for-an-error-condition-you-don-t-know-how</guid>
+		<pubDate>Tue, 04 Mar 2008 17:22:58 -0800</pubDate>
+		<title>
+			<![CDATA[sinecure add a quote by Daniel Keys Moran]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/31029-never-test-for-an-error-condition-you-don-t-know-how]]>
+		</link>
+		<description>
+	    <![CDATA["Never test for an error condition you don't know how to handle." -- Daniel Keys Moran]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/31030-it-s-like-time-travel-only-you-know-slower</guid>
+		<pubDate>Tue, 04 Mar 2008 17:23:45 -0800</pubDate>
+		<title>
+			<![CDATA[sinecure add a quote by Christopher Moore]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/31030-it-s-like-time-travel-only-you-know-slower]]>
+		</link>
+		<description>
+	    <![CDATA["It's like time travel only, you know, slower..." -- Christopher Moore]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/31034-everybody-generalizes-from-one-example-at-least-i-do</guid>
+		<pubDate>Tue, 04 Mar 2008 17:44:25 -0800</pubDate>
+		<title>
+			<![CDATA[sinecure add a quote by Steven Brust]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/31034-everybody-generalizes-from-one-example-at-least-i-do]]>
+		</link>
+		<description>
+	    <![CDATA["Everybody generalizes from one example.  At least, I do." -- Steven Brust]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

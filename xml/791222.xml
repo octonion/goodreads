@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/791222-erika]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/791222-erika" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 26 Apr 2013 10:06:47 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/505050-the-two-most-important-days-in-your-life-are-the</guid>
+		<pubDate>Fri, 26 Apr 2013 10:06:47 -0700</pubDate>
+		<title>
+			<![CDATA[Erika add a quote by Mark Twain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/505050-the-two-most-important-days-in-your-life-are-the]]>
+		</link>
+		<description>
+	    <![CDATA["The two most important days in your life are the day you are born and the day you find out why." -- Mark Twain]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/640333-pj]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/640333-pj" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 25 Mar 2009 22:05:50 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/30052-a-book-is-more-than-a-verbal-structure-or-series</guid>
+		<pubDate>Wed, 25 Mar 2009 22:05:50 -0700</pubDate>
+		<title>
+			<![CDATA[Pj add a quote by Jorge Luis Borges]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/30052-a-book-is-more-than-a-verbal-structure-or-series]]>
+		</link>
+		<description>
+	    <![CDATA["A book is more than a verbal structure or series of verbal structures; it is the dialogue it establishes with its reader and the intonation it imposes upon his voice and the changing and durable images it leaves in his memory. A book is not an isolated being: it is a relationship, an axis of innumerable relationships." -- Jorge Luis Borges]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

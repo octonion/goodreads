@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/705859-ann]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/705859-ann" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 19 Jan 2011 10:50:03 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/17177-those-who-believe-in-telekinetics-raise-my-hand</guid>
+		<pubDate>Wed, 19 Jan 2011 10:50:03 -0800</pubDate>
+		<title>
+			<![CDATA[Ann add a quote by Kurt Vonnegut]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/17177-those-who-believe-in-telekinetics-raise-my-hand]]>
+		</link>
+		<description>
+	    <![CDATA["Those who believe in telekinetics, raise my hand." -- Kurt Vonnegut]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/90540-patience-a-minor-form-of-despair-disguised-as-a</guid>
+		<pubDate>Wed, 19 Jan 2011 10:53:17 -0800</pubDate>
+		<title>
+			<![CDATA[Ann add a quote by Ambrose Bierce]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/90540-patience-a-minor-form-of-despair-disguised-as-a]]>
+		</link>
+		<description>
+	    <![CDATA["Patience – A minor form of despair, disguised as a virtue." -- Ambrose Bierce]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/1196-when-you-have-eliminated-all-which-is-impossible-then-whatever</guid>
+		<pubDate>Wed, 19 Jan 2011 11:01:30 -0800</pubDate>
+		<title>
+			<![CDATA[Ann add a quote by Arthur Conan Doyle]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/1196-when-you-have-eliminated-all-which-is-impossible-then-whatever]]>
+		</link>
+		<description>
+	    <![CDATA["When you have eliminated all which is impossible, then whatever remains, however improbable, must be the truth." -- Arthur Conan Doyle]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/35055-a-facility-for-quotation-covers-the-absence-of-original-thought</guid>
+		<pubDate>Thu, 20 Jan 2011 11:16:53 -0800</pubDate>
+		<title>
+			<![CDATA[Ann add a quote by Dorothy Sayers ]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/35055-a-facility-for-quotation-covers-the-absence-of-original-thought]]>
+		</link>
+		<description>
+	    <![CDATA["A facility for quotation covers the absence of original thought." -- Dorothy Sayers ]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1012011-jordan]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1012011-jordan" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 28 Aug 2013 08:13:43 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/706761-he-was-forever-dwelling-on-his-failures-he-held-them</guid>
+		<pubDate>Wed, 28 Aug 2013 08:13:43 -0700</pubDate>
+		<title>
+			<![CDATA[jordan add a quote by Elliott Holt]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/706761-he-was-forever-dwelling-on-his-failures-he-held-them]]>
+		</link>
+		<description>
+	    <![CDATA["He was forever dwelling on his failures. He held them up to the light and examined them in minute detail, like necklaces that had tangled in a drawer." -- Elliott Holt]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/266415-there-are-three-points-of-view-from-which-a-writer</guid>
+		<pubDate>Mon, 09 Sep 2013 13:23:41 -0700</pubDate>
+		<title>
+			<![CDATA[jordan add a quote by Vladimir Nabokov]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/266415-there-are-three-points-of-view-from-which-a-writer]]>
+		</link>
+		<description>
+	    <![CDATA["There are three points of view from which a writer can be considered: he may be considered as a storyteller, as a teacher, and as an enchanter. A major writer combines these three — storyteller, teacher, enchanter — but it is the enchanter in him that predominates and makes him a major writer...The three facets of the great writer — magic, story, lesson — are prone to blend in one impression of unified and unique radiance, since the magic of art may be present in the very bones of the story, in the very marrow of thought...Then with a pleasure which is both sensual and intellectual we shall watch the artist build his castle of cards and watch the castle of cards become a castle of beautiful steel and glass." -- Vladimir Nabokov]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

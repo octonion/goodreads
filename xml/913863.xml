@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/913863-buddy-brown]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/913863-buddy-brown" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 08 Jun 2013 19:03:00 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/86229-sin-is-geographical</guid>
+		<pubDate>Sat, 08 Jun 2013 19:03:00 -0700</pubDate>
+		<title>
+			<![CDATA[Buddy add a quote by Bertrand Russell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/86229-sin-is-geographical]]>
+		</link>
+		<description>
+	    <![CDATA["Sin is geographical." -- Bertrand Russell]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/172166-the-fact-that-an-opinion-has-been-widely-held-is</guid>
+		<pubDate>Sat, 08 Jun 2013 19:03:09 -0700</pubDate>
+		<title>
+			<![CDATA[Buddy add a quote by Bertrand Russell]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/172166-the-fact-that-an-opinion-has-been-widely-held-is]]>
+		</link>
+		<description>
+	    <![CDATA["The fact that an opinion has been widely held is no evidence whatever that it is not utterly absurd; indeed in view of the silliness of the majority of mankind, a widely spread belief is more likely to be foolish than sensible." -- Bertrand Russell]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

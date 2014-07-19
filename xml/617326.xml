@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/617326-sorabh-pant]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/617326-sorabh-pant" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 17 Aug 2013 03:59:04 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/770285-death-did-this-to-people-making-cowards-scapegoats-preachers-and</guid>
+		<pubDate>Sat, 17 Aug 2013 03:59:04 -0700</pubDate>
+		<title>
+			<![CDATA[Sorabh add a quote by Meghna Pant]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/770285-death-did-this-to-people-making-cowards-scapegoats-preachers-and]]>
+		</link>
+		<description>
+	    <![CDATA["Death did this to people: making cowards, scapegoats, preachers and mourners of the living; while the dead – ignoble or not – became objects of respect for achieving something before the rest of us." -- Meghna Pant]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

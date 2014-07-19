@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/866451-beth-rawls]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/866451-beth-rawls" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 17 Feb 2008 16:33:59 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/10123-you-ve-gotta-dance-like-there-s-nobody-watching-love-like-you-ll</guid>
+		<pubDate>Sun, 17 Feb 2008 16:33:59 -0800</pubDate>
+		<title>
+			<![CDATA[Beth add a quote by William W. Purkey]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/10123-you-ve-gotta-dance-like-there-s-nobody-watching-love-like-you-ll]]>
+		</link>
+		<description>
+	    <![CDATA["You've gotta dance like there's nobody watching,
+Love like you'll never be hurt,
+Sing like there's nobody listening,
+And live like it's heaven on earth." -- William W. Purkey]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2170-yesterday-is-but-a-dream-tomorrow-is-only-a-vision</guid>
+		<pubDate>Fri, 01 Feb 2008 23:01:29 -0800</pubDate>
+		<title>
+			<![CDATA[Beth add a quote by Kālidāsa]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2170-yesterday-is-but-a-dream-tomorrow-is-only-a-vision]]>
+		</link>
+		<description>
+	    <![CDATA["Yesterday is but a dream,
+Tomorrow is only a vision. 
+But today well lived makes every yesterday a dream of happiness, and every tomorrow a vision of hope." -- Kālidāsa]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/11058-dream-as-if-you-will-live-forever-live-as-if</guid>
+		<pubDate>Fri, 01 Feb 2008 23:01:37 -0800</pubDate>
+		<title>
+			<![CDATA[Beth add a quote by James  Dean]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11058-dream-as-if-you-will-live-forever-live-as-if]]>
+		</link>
+		<description>
+	    <![CDATA["Dream as if you will live forever; Live as if you will die today." -- James  Dean]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

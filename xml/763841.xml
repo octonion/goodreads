@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/763841-heidi]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/763841-heidi" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 09 Jan 2008 18:53:00 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/11986-very-early-in-my-life-it-was-too-late</guid>
+		<pubDate>Wed, 09 Jan 2008 18:53:00 -0800</pubDate>
+		<title>
+			<![CDATA[heidi! add a quote by Marguerite Duras]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11986-very-early-in-my-life-it-was-too-late]]>
+		</link>
+		<description>
+	    <![CDATA["Very early in my life it was too late." -- Marguerite Duras]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4104-even-if-there-is-only-one-possible-unified-theory-it</guid>
+		<pubDate>Sat, 12 Jan 2008 06:31:15 -0800</pubDate>
+		<title>
+			<![CDATA[heidi! add a quote by Stephen Hawking]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4104-even-if-there-is-only-one-possible-unified-theory-it]]>
+		</link>
+		<description>
+	    <![CDATA["Even if there is only one possible unified theory, it is just a set of rules and equations. What is it that breathes fire into the equations and makes a universe for them to describe? The usual approach of science of constructing a mathematical model cannot answer the questions of why there should be a universe for the model to describe. Why does the universe go to all the bother of existing?" -- Stephen Hawking]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/4730-as-for-what-it-s-against---the-story-is-against</guid>
+		<pubDate>Sat, 12 Jan 2008 06:32:21 -0800</pubDate>
+		<title>
+			<![CDATA[heidi! add a quote by Philip Pullman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/4730-as-for-what-it-s-against---the-story-is-against]]>
+		</link>
+		<description>
+	    <![CDATA["As for what it's against - the story is against those who pervert and misuse religion, or any other kind of doctrine with a holy book and a priesthood and an apparatus of power that wields unchallengeable authority, in order to dominate and suppress human freedoms." -- Philip Pullman]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

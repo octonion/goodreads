@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/891807-steve-salisbury]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/891807-steve-salisbury" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 09 Feb 2008 17:04:15 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/6660-no-sympathy-for-the-devil-keep-that-in-mind-buy</guid>
+		<pubDate>Sat, 09 Feb 2008 17:04:15 -0800</pubDate>
+		<title>
+			<![CDATA[Steve add a quote by Hunter S. Thompson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/6660-no-sympathy-for-the-devil-keep-that-in-mind-buy]]>
+		</link>
+		<description>
+	    <![CDATA["No sympathy for the devil; keep that in mind. Buy the ticket, take the ride...and if it occasionally gets a little heavier than what you had in mind, well...maybe chalk it off to forced conscious expansion: Tune in, freak out, get beaten." -- Hunter S. Thompson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/26278-there-is-no-final-resting-place-of-the-mind</guid>
+		<pubDate>Tue, 19 Feb 2008 07:15:57 -0800</pubDate>
+		<title>
+			<![CDATA[Steve add a quote by Anthony Bourdain]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/26278-there-is-no-final-resting-place-of-the-mind]]>
+		</link>
+		<description>
+	    <![CDATA["There is no Final Resting Place of the Mind." -- Anthony Bourdain]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

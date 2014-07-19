@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1038082-stephanie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1038082-stephanie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 20 Feb 2013 14:03:44 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/363941-to-protest-about-bullfighting-in-spain-the-eating-of-dogs</guid>
+		<pubDate>Wed, 20 Feb 2013 14:03:44 -0800</pubDate>
+		<title>
+			<![CDATA[Stephanie add a quote by Peter Singer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/363941-to-protest-about-bullfighting-in-spain-the-eating-of-dogs]]>
+		</link>
+		<description>
+	    <![CDATA["To protest about bullfighting in Spain, the eating of dogs in South Korea, or the slaughter of baby seals in Canada while continuing to eat eggs from hens who have spent their lives crammed into cages, or veal from calves who have been deprived of their mothers, their proper diet, and the freedom to lie down with their legs extended, is like denouncing apartheid in South Africa while asking your neighbors not to sell their houses to blacks." -- Peter Singer]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

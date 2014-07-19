@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/925860-jillian]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/925860-jillian" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 20 Feb 2008 10:27:38 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/26604-meaning-and-morality-of-one-s-life-come-from-within-oneself</guid>
+		<pubDate>Wed, 20 Feb 2008 10:27:38 -0800</pubDate>
+		<title>
+			<![CDATA[Jillian add a quote by Friedrich Nietzsche]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/26604-meaning-and-morality-of-one-s-life-come-from-within-oneself]]>
+		</link>
+		<description>
+	    <![CDATA["Meaning and morality of One's life come from within oneself. Healthy, strong individuals seek self expansion by experimenting and by living dangerously. Life consists of an infinite number of possibilities and the healthy person explores as many of them as posible. Religions that teach pity, self-contempt, humility, self-restraint and guilt are incorrect. The good life is ever changing, challenging, devoid of regret, intense, creative and risky." -- Friedrich Nietzsche]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/119611-isabelle]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/119611-isabelle" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 28 Jul 2013 11:25:43 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/779068-people-mess-up-you-know-but-you-can-t-see-past</guid>
+		<pubDate>Sun, 28 Jul 2013 11:25:43 -0700</pubDate>
+		<title>
+			<![CDATA[Isabelle add a quote by Sarah Skilton]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/779068-people-mess-up-you-know-but-you-can-t-see-past]]>
+		</link>
+		<description>
+	    <![CDATA["People mess up, you know? But you can’t see past it. It’s like you choose one thing about them—the worst thing—and say, ‘That’s who they are,’ and ignore the rest of it. Why not choose the best thing about them instead? Or the thing they do the most?" -- Sarah Skilton]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/643669-it-is-a-simple-logic-truth-that-short-of-mass</guid>
+		<pubDate>Thu, 03 Jul 2014 12:43:04 -0700</pubDate>
+		<title>
+			<![CDATA[Isabelle add a quote by Richard Dawkins]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/643669-it-is-a-simple-logic-truth-that-short-of-mass]]>
+		</link>
+		<description>
+	    <![CDATA["It is a simple logic truth that, short of mass emigration into space, with rockets taking off at the rate of several million per second, uncontrolled birth-rates are bound to lead to horribly increased death –rates. It is hard to believe that this simple truth is not understood by those leaders who forbid their followers to use effective contraceptive methods. They express a preference for ‘natural’ methods of population limitation, and a natural method is exactly what they are going to get. It is called starvation." -- Richard Dawkins]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/981981-roberta]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/981981-roberta" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 02 Sep 2013 09:36:58 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/722837-being-human-is-itself-difficult-and-therefore-all-kinds-of</guid>
+		<pubDate>Mon, 02 Sep 2013 09:36:58 -0700</pubDate>
+		<title>
+			<![CDATA[Roberta add a quote by Jane Jacobs]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/722837-being-human-is-itself-difficult-and-therefore-all-kinds-of]]>
+		</link>
+		<description>
+	    <![CDATA["Being human is itself difficult, and therefore all kinds of settlements (except dream cities) have problems.  Big cities have difficulties in abundance, because they have people in abundance." -- Jane Jacobs]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

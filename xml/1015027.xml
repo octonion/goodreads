@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1015027-julie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1015027-julie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 23 Mar 2014 02:38:00 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/47570-don-t-mistake-activity-with-achievement</guid>
+		<pubDate>Sun, 23 Mar 2014 02:38:00 -0700</pubDate>
+		<title>
+			<![CDATA[Julie add a quote by John Wooden]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/47570-don-t-mistake-activity-with-achievement]]>
+		</link>
+		<description>
+	    <![CDATA["Don't mistake activity with achievement." -- John Wooden]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/31208-the-best-antidote-i-know-for-worry-is-work-the</guid>
+		<pubDate>Sun, 23 Mar 2014 02:38:11 -0700</pubDate>
+		<title>
+			<![CDATA[Julie add a quote by Gordon B. Hinckley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/31208-the-best-antidote-i-know-for-worry-is-work-the]]>
+		</link>
+		<description>
+	    <![CDATA["The best antidote I know for worry is work.  The best cure for weariness is the challenge of helping someone who is even more tired.  One of the great ironies of life is this: He or she who serves almost always benefits more than he or she who is served." -- Gordon B. Hinckley]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/657163-wherever-you-go-becomes-a-part-of-you-somehow</guid>
+		<pubDate>Tue, 24 Jun 2014 19:42:50 -0700</pubDate>
+		<title>
+			<![CDATA[Julie add a quote by Anita Desai]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/657163-wherever-you-go-becomes-a-part-of-you-somehow]]>
+		</link>
+		<description>
+	    <![CDATA["Wherever you go becomes a part of you somehow." -- Anita Desai]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

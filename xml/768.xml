@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/768-xavier]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/768-xavier" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 10 Jul 2012 05:56:50 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/585321-doctors-don-t-seem-to-realize-that-most-of-us-are</guid>
+		<pubDate>Tue, 10 Jul 2012 05:56:50 -0700</pubDate>
+		<title>
+			<![CDATA[Xavier add a quote by Joe Haldeman]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/585321-doctors-don-t-seem-to-realize-that-most-of-us-are]]>
+		</link>
+		<description>
+	    <![CDATA["Doctors don’t seem to realize that most of us are perfectly content not having to visualize ourselves as animated bags of skin filled with obscene glop." -- Joe Haldeman]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/714805-there-are-no-endings-and-never-will-be-endings-to</guid>
+		<pubDate>Tue, 02 Apr 2013 21:07:42 -0700</pubDate>
+		<title>
+			<![CDATA[Xavier add a quote by Brandon Sanderson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/714805-there-are-no-endings-and-never-will-be-endings-to]]>
+		</link>
+		<description>
+	    <![CDATA["There are no endings, and never will be endings, to the turning of the Wheel of Time. But it was an ending." -- Brandon Sanderson]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

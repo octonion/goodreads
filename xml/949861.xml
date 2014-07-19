@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/949861-luc-a]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/949861-luc-a" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 27 Feb 2008 17:49:00 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/25-we-are-all-in-the-gutter-but-some-of-us</guid>
+		<pubDate>Wed, 27 Feb 2008 17:49:00 -0800</pubDate>
+		<title>
+			<![CDATA[Lucía add a quote by Oscar Wilde]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/25-we-are-all-in-the-gutter-but-some-of-us]]>
+		</link>
+		<description>
+	    <![CDATA["We are all in the gutter, but some of us are looking at the stars." -- Oscar Wilde]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/672747-life-is-like-invading-russia-a-blitz-start-massed-shakos</guid>
+		<pubDate>Mon, 16 Jun 2014 18:51:33 -0700</pubDate>
+		<title>
+			<![CDATA[Lucía add a quote by Julian Barnes]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/672747-life-is-like-invading-russia-a-blitz-start-massed-shakos]]>
+		</link>
+		<description>
+	    <![CDATA["Life is like invading Russia. A blitz start, massed shakos, plumes dancing like a flustered henhouse; a period of svelte progress recorded in ebullient despatches as the enemy falls back; then the beginning of a long, morale-sapping trudge with rations getting shorter and the first snowflakes upon your face. The enemy burns Moscow and you yield to General January, whose fingernails are very icicles. Bitter retreat. Harrying Cossacks. Eventually you fall beneath a boy-gunner's grapeshot while crossing some Polish river not even marked on your general's map." -- Julian Barnes]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

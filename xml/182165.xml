@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/182165-brandie]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/182165-brandie" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 23 Nov 2010 09:53:04 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/94014-your-soul-knows-the-geography-of-your-destiny-your-soul</guid>
+		<pubDate>Tue, 23 Nov 2010 09:53:04 -0800</pubDate>
+		<title>
+			<![CDATA[Brandie add a quote by John O'Donohue]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/94014-your-soul-knows-the-geography-of-your-destiny-your-soul]]>
+		</link>
+		<description>
+	    <![CDATA["Your soul knows the geography of your destiny. Your soul alone has the map of your future, therefore you can trust this indirect, oblique side of yourself. If you do, it will take you where you need to go, but more important it will teach you a kindness of rhythm in your journey." -- John O'Donohue]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/69045-100-years-ago-buying-something-you-could-make-was-considered</guid>
+		<pubDate>Tue, 12 Jun 2012 14:30:12 -0700</pubDate>
+		<title>
+			<![CDATA[Brandie add a quote by Stephanie Pearl-McPhee]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/69045-100-years-ago-buying-something-you-could-make-was-considered]]>
+		</link>
+		<description>
+	    <![CDATA["100 years ago, buying something you could make was considered wasteful; now making something you could buy is considered wasteful. I am not convinced this is a step in the right direction." -- Stephanie Pearl-McPhee]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

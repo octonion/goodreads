@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/947039-vee]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/947039-vee" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 27 Feb 2008 19:31:56 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/29093-practice-does-not-make-perfect-perfect-practice-makes-perfect</guid>
+		<pubDate>Wed, 27 Feb 2008 19:31:56 -0800</pubDate>
+		<title>
+			<![CDATA[Vee! add a quote by Vince Lombardi]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/29093-practice-does-not-make-perfect-perfect-practice-makes-perfect]]>
+		</link>
+		<description>
+	    <![CDATA["Practice does not make perfect.  Perfect practice makes perfect." -- Vince Lombardi]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/25119-i-m-all-in-favor-of-keeping-dangerous-weapons-out-of</guid>
+		<pubDate>Wed, 27 Feb 2008 19:32:41 -0800</pubDate>
+		<title>
+			<![CDATA[Vee! add a quote by David Gerrold]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/25119-i-m-all-in-favor-of-keeping-dangerous-weapons-out-of]]>
+		</link>
+		<description>
+	    <![CDATA["I'm all in favor of keeping dangerous weapons out of the hands of fools. Let's start with typewriters." -- David Gerrold]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

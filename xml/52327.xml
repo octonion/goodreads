@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/52327-sue-manley]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/52327-sue-manley" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 24 Apr 2008 07:45:37 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/47872-you-find-peace-not-by-rearranging-the-circumstances-of-your</guid>
+		<pubDate>Thu, 24 Apr 2008 07:45:37 -0700</pubDate>
+		<title>
+			<![CDATA[Sue add a quote by Eckhart Tolle]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/47872-you-find-peace-not-by-rearranging-the-circumstances-of-your]]>
+		</link>
+		<description>
+	    <![CDATA["You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level." -- Eckhart Tolle]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/174690-those-who-don-t-believe-in-magic-will-never-find-it</guid>
+		<pubDate>Mon, 19 Sep 2011 14:14:05 -0700</pubDate>
+		<title>
+			<![CDATA[Sue add a quote by Roald Dahl]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/174690-those-who-don-t-believe-in-magic-will-never-find-it]]>
+		</link>
+		<description>
+	    <![CDATA["Those who don't believe in magic will never find it." -- Roald Dahl]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

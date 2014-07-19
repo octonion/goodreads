@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/395236-carmen]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/395236-carmen" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 05 May 2014 21:33:49 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/198401-cities-have-the-capability-of-providing-something-for-everybody-only</guid>
+		<pubDate>Mon, 05 May 2014 21:33:49 -0700</pubDate>
+		<title>
+			<![CDATA[Carmen add a quote by Jane Jacobs]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/198401-cities-have-the-capability-of-providing-something-for-everybody-only]]>
+		</link>
+		<description>
+	    <![CDATA["Cities have the capability of providing something for everybody, only because, and only when, they are created by everybody." -- Jane Jacobs]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/193660-a-city-street-equipped-to-handle-strangers-and-to-make</guid>
+		<pubDate>Mon, 05 May 2014 21:34:52 -0700</pubDate>
+		<title>
+			<![CDATA[Carmen add a quote by Jane Jacobs]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/193660-a-city-street-equipped-to-handle-strangers-and-to-make]]>
+		</link>
+		<description>
+	    <![CDATA["A city street equipped to handle strangers, and to make a safety asset, in itself, our of the presence of strangers, as the streets of successful city neighborhoods always do, must have three main qualities:
+
+First, there must be a clear demarcation between what is public space and what is private space. Public and private spaces cannot ooze into each other as they do typically in suburban settings or in projects.
+
+Second, there must be eyes upon the street, eyes belonging to those we might call the natural proprietors of the street. The buildings on a street equipped to handle strangers and to insure the safety of both residents and strangers, must be oriented to the street. They cannot turn their backs or blank sides on it and leave it blind.
+
+And third, the sidewalk must have users on it fairly continuously, both to add to the number of effective eyes on the street and to induce the people in buildings along the street to watch the sidewalks in sufficient numbers. Nobody enjoys sitting on a stoop or looking out a window at an empty street. Almost nobody does such a thing. Large numbers of people entertain themselves, off and on, by watching street activity." -- Jane Jacobs]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

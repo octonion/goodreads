@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/801570-john-r]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/801570-john-r" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 Nov 2011 19:16:13 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/350448-when-a-day-that-you-happen-to-know-is-wednesday</guid>
+		<pubDate>Tue, 01 Nov 2011 19:16:13 -0700</pubDate>
+		<title>
+			<![CDATA[John R. add a quote by John Wyndham]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/350448-when-a-day-that-you-happen-to-know-is-wednesday]]>
+		</link>
+		<description>
+	    <![CDATA["When a day that you happen to know is Wednesday starts off by sounding like Sunday, there is something seriously wrong somewhere." -- John Wyndham]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/158520-she-would-defend-herself-saying-that-love-no-matter-what</guid>
+		<pubDate>Thu, 03 Nov 2011 15:43:34 -0700</pubDate>
+		<title>
+			<![CDATA[John R. add a quote by Gabriel García Márquez]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/158520-she-would-defend-herself-saying-that-love-no-matter-what]]>
+		</link>
+		<description>
+	    <![CDATA["She would defend herself, saying that love, no matter what else it might be, was a natural talent. She would say: You are either born knowing how, or you never know." -- Gabriel García Márquez]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

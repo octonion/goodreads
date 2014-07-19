@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/631768-robbie-pruitt]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/631768-robbie-pruitt" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 24 Sep 2012 09:13:14 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/51034-refuse-to-be-average-let-your-heart-soar-as-high</guid>
+		<pubDate>Mon, 24 Sep 2012 09:13:14 -0700</pubDate>
+		<title>
+			<![CDATA[Robbie add a quote by A. W. Tozer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/51034-refuse-to-be-average-let-your-heart-soar-as-high]]>
+		</link>
+		<description>
+	    <![CDATA["Refuse to be average.  Let your heart soar as high as it will." -- A. W. Tozer]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/98264-be-of-good-comfort-mr-ridley-and-play-the-man</guid>
+		<pubDate>Wed, 16 Oct 2013 05:44:24 -0700</pubDate>
+		<title>
+			<![CDATA[Robbie add a quote by Hugh Latimer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/98264-be-of-good-comfort-mr-ridley-and-play-the-man]]>
+		</link>
+		<description>
+	    <![CDATA["Be of good comfort, Mr. Ridley, and play the man! We shall this day light such a candle by God's grace, in England, as I trust never shall be put out.  " -- Hugh Latimer]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/615630-brian]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/615630-brian" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 03 Jan 2008 10:15:02 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/619-it-is-never-too-late-to-be-what-you-might</guid>
+		<pubDate>Thu, 03 Jan 2008 10:15:02 -0800</pubDate>
+		<title>
+			<![CDATA[Brian add a quote by George Eliot]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/619-it-is-never-too-late-to-be-what-you-might]]>
+		</link>
+		<description>
+	    <![CDATA["It is never too late to be what you might have been." -- George Eliot]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/9687-your-life-becomes-the-thing-you-have-decided-it-shall</guid>
+		<pubDate>Thu, 03 Jan 2008 10:16:57 -0800</pubDate>
+		<title>
+			<![CDATA[Brian add a quote by Raymond Charles Barker]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9687-your-life-becomes-the-thing-you-have-decided-it-shall]]>
+		</link>
+		<description>
+	    <![CDATA["Your life becomes the thing you have decided it shall be." -- Raymond Charles Barker]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/3443-when-one-door-of-happiness-closes-another-opens-but-often</guid>
+		<pubDate>Thu, 03 Jan 2008 10:18:39 -0800</pubDate>
+		<title>
+			<![CDATA[Brian add a quote by Helen Keller]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/3443-when-one-door-of-happiness-closes-another-opens-but-often]]>
+		</link>
+		<description>
+	    <![CDATA["When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us." -- Helen Keller]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/9691-believe-that-you-can-do-it-under-any-circumstances-because</guid>
+		<pubDate>Thu, 03 Jan 2008 10:20:13 -0800</pubDate>
+		<title>
+			<![CDATA[Brian add a quote by Wally Amos]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/9691-believe-that-you-can-do-it-under-any-circumstances-because]]>
+		</link>
+		<description>
+	    <![CDATA["Believe that you can do it, under any circumstances. Because if you believe you can, then you really will. That belief just keeps you searching for the answers, then pretty soon you get it." -- Wally Amos]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

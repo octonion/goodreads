@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/649957-faye]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/649957-faye" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 04 Jan 2009 16:48:06 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/84339-this-feels-like-a-critical-fork-in-my-road-success-lies</guid>
+		<pubDate>Sun, 04 Jan 2009 16:48:06 -0800</pubDate>
+		<title>
+			<![CDATA[Faye add a quote by Elisabeth Robinson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/84339-this-feels-like-a-critical-fork-in-my-road-success-lies]]>
+		</link>
+		<description>
+	    <![CDATA["This feels like a critical fork in my road-success lies to the left, moral integrity to the right; are they ever on the same road?" -- Elisabeth Robinson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/153300-he-said-i-could-make-him-happy-then-i-understood</guid>
+		<pubDate>Sun, 05 Jul 2009 08:49:50 -0700</pubDate>
+		<title>
+			<![CDATA[Faye add a quote by Gerda Weissmann Klein]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/153300-he-said-i-could-make-him-happy-then-i-understood]]>
+		</link>
+		<description>
+	    <![CDATA["He said I could make him happy. Then I understood the cause of my sadness. I didn't want to make anybody happy. I wanted someone to make me happy. I knew that there was laughter and I wanted someone who could laugh with me. " -- Gerda Weissmann Klein]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

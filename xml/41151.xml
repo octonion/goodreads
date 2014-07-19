@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/41151-ashley]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/41151-ashley" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 18 Oct 2008 12:02:50 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/15307-sometimes-people-are-beautiful-not-in-looks-not-in-what</guid>
+		<pubDate>Sat, 18 Oct 2008 12:02:50 -0700</pubDate>
+		<title>
+			<![CDATA[Ashley add a quote by Markus Zusak]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/15307-sometimes-people-are-beautiful-not-in-looks-not-in-what]]>
+		</link>
+		<description>
+	    <![CDATA["Sometimes people are beautiful.
+Not in looks.
+Not in what they say.
+Just in what they are." -- Markus Zusak]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/16601-the-only-thing-worse-than-a-boy-who-hates-you</guid>
+		<pubDate>Sat, 18 Oct 2008 12:02:54 -0700</pubDate>
+		<title>
+			<![CDATA[Ashley add a quote by Markus Zusak]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/16601-the-only-thing-worse-than-a-boy-who-hates-you]]>
+		</link>
+		<description>
+	    <![CDATA["The only thing worse than a boy who hates you: a boy that loves you." -- Markus Zusak]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/2579-do-not-read-as-children-do-to-amuse-yourself-or</guid>
+		<pubDate>Sat, 18 Oct 2008 12:07:11 -0700</pubDate>
+		<title>
+			<![CDATA[Ashley add a quote by Gustave Flaubert]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/2579-do-not-read-as-children-do-to-amuse-yourself-or]]>
+		</link>
+		<description>
+	    <![CDATA["Do not read, as children do, to amuse yourself, or like the ambitious, for the purpose of instruction. No, read in order to live." -- Gustave Flaubert]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

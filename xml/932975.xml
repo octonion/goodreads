@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/932975-elisabeth]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/932975-elisabeth" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 22 Feb 2008 09:54:08 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/27446-eroticism-is-first-and-foremost-a-thirst-for-otherness-and</guid>
+		<pubDate>Fri, 22 Feb 2008 09:54:08 -0800</pubDate>
+		<title>
+			<![CDATA[Elisabeth add a quote by Octavio Paz]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/27446-eroticism-is-first-and-foremost-a-thirst-for-otherness-and]]>
+		</link>
+		<description>
+	    <![CDATA["Eroticism is first and foremost a thirst for otherness.  And the supernatural is the supreme otherness.  This is perhaps the most noble aim of poetry, to attach ourselves to the world around us, to turn desire into love, to embrace, finally what always evades us, what is beyond, but what is always there – the unspoken, the spirit, the soul." -- Octavio Paz]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/27447-a-written-word-is-the-choicest-of-relics-it-is</guid>
+		<pubDate>Fri, 22 Feb 2008 09:55:07 -0800</pubDate>
+		<title>
+			<![CDATA[Elisabeth add a quote by Henry David Thoreau]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/27447-a-written-word-is-the-choicest-of-relics-it-is]]>
+		</link>
+		<description>
+	    <![CDATA["A written word is the choicest of relics.  It is something at once more intimate with us and more universal than any other work of art.  It is the work of art nearest to life itself.  It may be translated into every language, and not only be read but actually breathed from all human lips; -- not be represented on canvas or in marble only, but be carved out of the breath of life itself." -- Henry David Thoreau]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

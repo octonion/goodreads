@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/781090-becca]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/781090-becca" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 21 May 2012 13:53:04 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/220915-and-so-the-lion-fell-in-love-with-the-lamb</guid>
+		<pubDate>Mon, 21 May 2012 13:53:04 -0700</pubDate>
+		<title>
+			<![CDATA[Becca add a quote by Stephenie Meyer]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/220915-and-so-the-lion-fell-in-love-with-the-lamb]]>
+		</link>
+		<description>
+	    <![CDATA["And so the lion fell in love with the lamb…&quot; he murmured. I looked away, hiding my eyes as I thrilled to the word.
+&quot;What a stupid lamb,&quot; I sighed.
+&quot;What a sick, masochistic lion." -- Stephenie Meyer]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

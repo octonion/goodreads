@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/967890-brittney-young]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/967890-brittney-young" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 23 Jul 2008 11:28:52 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/33049-the-past-is-behind-learn-from-it-the-future-is</guid>
+		<pubDate>Wed, 23 Jul 2008 11:28:52 -0700</pubDate>
+		<title>
+			<![CDATA[Brittney add a quote by Thomas S. Monson]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/33049-the-past-is-behind-learn-from-it-the-future-is]]>
+		</link>
+		<description>
+	    <![CDATA["The past is behind, learn from it.  The future is ahead, prepare for it.  The present is here, live it." -- Thomas S. Monson]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/34916-through-all-of-living-have-much-joy-and-laughter-life</guid>
+		<pubDate>Wed, 23 Jul 2008 11:29:06 -0700</pubDate>
+		<title>
+			<![CDATA[Brittney add a quote by Gordon B. Hinckley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/34916-through-all-of-living-have-much-joy-and-laughter-life]]>
+		</link>
+		<description>
+	    <![CDATA["Through all of living have much joy and laughter, life is to be enjoyed, not just endured." -- Gordon B. Hinckley]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

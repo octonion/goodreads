@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/411936-sherri-watson]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/411936-sherri-watson" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 08 Jul 2013 20:14:41 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/813471-our-prayers-may-be-awkward-our-attempts-may-be-feeble</guid>
+		<pubDate>Mon, 08 Jul 2013 20:14:41 -0700</pubDate>
+		<title>
+			<![CDATA[Sherri add a quote by Max Lucado]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/813471-our-prayers-may-be-awkward-our-attempts-may-be-feeble]]>
+		</link>
+		<description>
+	    <![CDATA["Our prayers may be awkward. Our attempts may be feeble. But since the power of prayer is in the One who hears it and not in the one who says it, our prayers do make a difference." -- Max Lucado]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/819740-here-s-a-salute-to-a-long-good-life-goodness-that</guid>
+		<pubDate>Tue, 09 Jul 2013 18:29:24 -0700</pubDate>
+		<title>
+			<![CDATA[Sherri add a quote by Max Lucado]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/819740-here-s-a-salute-to-a-long-good-life-goodness-that]]>
+		</link>
+		<description>
+	    <![CDATA["Here's a salute to a long good life:  goodness that outlives the grave. love that outlasts the final breath. May you live your life in such a way that your death is just the beginning of your life." -- Max Lucado]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

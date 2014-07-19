@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/692724-paige-filler]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/692724-paige-filler" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 08 Jan 2008 16:07:32 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/11608-none-but-ourselves-can-free-our-minds</guid>
+		<pubDate>Tue, 08 Jan 2008 16:07:32 -0800</pubDate>
+		<title>
+			<![CDATA[Paige add a quote by Bob Marley]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11608-none-but-ourselves-can-free-our-minds]]>
+		</link>
+		<description>
+	    <![CDATA["None but ourselves can free our minds." -- Bob Marley]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/11610-mellow-is-the-man-who-knows-what-he-s-been-missing</guid>
+		<pubDate>Tue, 08 Jan 2008 16:08:34 -0800</pubDate>
+		<title>
+			<![CDATA[Paige add a quote by Led Zeppelin]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11610-mellow-is-the-man-who-knows-what-he-s-been-missing]]>
+		</link>
+		<description>
+	    <![CDATA["Mellow is the man who knows what he's been missing" -- Led Zeppelin]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/11613-men-at-some-time-are-masters-of-their-fates-the</guid>
+		<pubDate>Tue, 08 Jan 2008 16:11:16 -0800</pubDate>
+		<title>
+			<![CDATA[Paige add a quote by William Shakespeare]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11613-men-at-some-time-are-masters-of-their-fates-the]]>
+		</link>
+		<description>
+	    <![CDATA["Men at some time are masters of their fates. The fault, dear Brutus, is not in our stars, but in ourselves, that we are underlings." -- William Shakespeare]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

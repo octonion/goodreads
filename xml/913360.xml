@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/913360-karina-francesca-valeroso]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/913360-karina-francesca-valeroso" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 16 Feb 2008 04:11:40 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/25504-put-your-heart-aside-duty-comes-first-but-when-fulfilling</guid>
+		<pubDate>Sat, 16 Feb 2008 04:11:40 -0800</pubDate>
+		<title>
+			<![CDATA[Karina Francesca add a quote by St. Josemaria Escriva']]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/25504-put-your-heart-aside-duty-comes-first-but-when-fulfilling]]>
+		</link>
+		<description>
+	    <![CDATA["Put your heart aside. Duty comes first. But when fulfilling your duty, put your heart into it. It helps." -- St. Josemaria Escriva']]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/320810-kenny]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/320810-kenny" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 09 Mar 2014 18:22:46 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/260435-if-it-s-wild-to-your-own-heart-protect-it-preserve</guid>
+		<pubDate>Sun, 09 Mar 2014 18:22:46 -0700</pubDate>
+		<title>
+			<![CDATA[Kenny add a quote by Rick Bass]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/260435-if-it-s-wild-to-your-own-heart-protect-it-preserve]]>
+		</link>
+		<description>
+	    <![CDATA["If it's wild to your own heart, protect it.  Preserve it.  Love it. And fight for it, and dedicate yourself to it, whether it's a mountain range, your wife, your husband, or even (god forbid) your job.  It doesn't matter if it's wild to anyone else: if it's what makes your heart sing, if it's what makes your days soar like a hawk in the summertime, then focus on it.  Because for sure, it's wild, and if it's wild, it'll mean you're still free.  No matter where you are." -- Rick Bass]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>

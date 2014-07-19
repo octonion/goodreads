@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title></title>
+    <copyright><![CDATA[Copyright (C) 2014 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/quotes/list_rss/1042600-sharon]]></link>
+    <atom:link href="https://www.goodreads.com/quotes/list_rss/1042600-sharon" rel="self" type="application/rss+xml" />
+    <description><![CDATA[]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 10 Jun 2013 14:38:18 -0700</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title></title>
+      <link><![CDATA[https://www.goodreads.com/home.xml]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/home.xmlimages/layout/goodreads_logo_144.jpg</url>
+    </image>
+    	<item>
+		<guid>https://www.goodreads.com/quotes/11562-we-make-a-living-by-what-we-get-we-make</guid>
+		<pubDate>Mon, 10 Jun 2013 14:38:18 -0700</pubDate>
+		<title>
+			<![CDATA[Sharon add a quote by Winston Churchhill]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/11562-we-make-a-living-by-what-we-get-we-make]]>
+		</link>
+		<description>
+	    <![CDATA["We make a living by what we get.  We make a life by what we give." -- Winston Churchhill]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/577243-maybe-it-s-time-to-find-a-new-normal</guid>
+		<pubDate>Tue, 01 Oct 2013 07:31:00 -0700</pubDate>
+		<title>
+			<![CDATA[Sharon add a quote by Trish Doller]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/577243-maybe-it-s-time-to-find-a-new-normal]]>
+		</link>
+		<description>
+	    <![CDATA["Maybe it’s time to find a new normal." -- Trish Doller]]>
+		</description>
+	</item>
+	<item>
+		<guid>https://www.goodreads.com/quotes/576499-here-s-the-thing-the-strings-are-already-attached</guid>
+		<pubDate>Tue, 01 Oct 2013 07:31:01 -0700</pubDate>
+		<title>
+			<![CDATA[Sharon add a quote by Trish Doller]]>
+		</title>
+		<link>
+	    <![CDATA[https://www.goodreads.com/quotes/576499-here-s-the-thing-the-strings-are-already-attached]]>
+		</link>
+		<description>
+	    <![CDATA["Here's the thing: the strings are already attached." -- Trish Doller]]>
+		</description>
+	</item>
+
+  </channel>
+</rss>
